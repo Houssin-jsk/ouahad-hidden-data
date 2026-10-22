@@ -1,0 +1,19 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "tsBuildInfoFile": ".next/cache/tsconfig.production.tsbuildinfo"
+  },
+  "include": [
+    "next-env.d.ts",
+    "next.config.ts",
+    "src/app/**/*.ts",
+    "src/app/**/*.tsx",
+    "src/analysis/analysis.worker.ts",
+    ".next/types/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "src/app/**/*.research.ts",
+    "src/app/**/*.research.tsx"
+  ]
+}
