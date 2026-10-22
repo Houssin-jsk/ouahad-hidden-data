@@ -1,0 +1,279 @@
+{
+  "config": {
+    "argv": [
+      "C:\\Program Files\\nodejs\\node.exe",
+      "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-hidden-data\\node_modules\\@playwright\\test\\cli.js",
+      "test",
+      "--config",
+      "playwright.companion.config.ts",
+      "--reporter=json"
+    ],
+    "configFile": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-hidden-data\\playwright.companion.config.ts",
+    "rootDir": "C:/Users/ouaha/OneDrive/Desktop/ouahad-hidden-data/tests/companion-browser",
+    "failOnFlakyTests": false,
+    "forbidOnly": false,
+    "fullyParallel": false,
+    "globalSetup": null,
+    "globalTeardown": null,
+    "globalTimeout": 0,
+    "grep": {},
+    "grepInvert": null,
+    "maxFailures": 0,
+    "metadata": {
+      "actualWorkers": 1
+    },
+    "preserveOutput": "always",
+    "projects": [
+      {
+        "outputDir": "C:/Users/ouaha/OneDrive/Desktop/ouahad-hidden-data/test-results",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {
+          "actualWorkers": 1
+        },
+        "id": "",
+        "name": "",
+        "testDir": "C:/Users/ouaha/OneDrive/Desktop/ouahad-hidden-data/tests/companion-browser",
+        "testIgnore": [],
+        "testMatch": [
+          "**/*.@(spec|test).?(c|m)[jt]s?(x)"
+        ],
+        "timeout": 60000
+      }
+    ],
+    "filteredProjects": [
+      {
+        "grep": {},
+        "grepInvert": null,
+        "outputDir": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-hidden-data\\test-results",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {
+          "actualWorkers": 1
+        },
+        "name": "",
+        "testDir": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-hidden-data\\tests\\companion-browser",
+        "snapshotDir": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-hidden-data\\tests\\companion-browser",
+        "testIgnore": [],
+        "testMatch": "**/*.@(spec|test).?(c|m)[jt]s?(x)",
+        "timeout": 60000,
+        "use": {
+          "baseURL": "http://127.0.0.1:3001",
+          "browserName": "chromium",
+          "channel": "chrome",
+          "headless": true
+        },
+        "dependencies": [],
+        "ignoreSnapshots": false,
+        "__projectId": ""
+      }
+    ],
+    "quiet": false,
+    "reporter": [
+      [
+        "json"
+      ]
+    ],
+    "reportSlowTests": {
+      "max": 5,
+      "threshold": 300000
+    },
+    "shard": null,
+    "tags": [],
+    "updateSnapshots": "default",
+    "updateSourceMethod": "patch",
+    "version": "1.64.0",
+    "workers": 1,
+    "webServer": {
+      "command": "npm run start -- --hostname 127.0.0.1 --port 3001",
+      "url": "http://127.0.0.1:3001",
+      "reuseExistingServer": false,
+      "timeout": 60000
+    }
+  },
+  "suites": [
+    {
+      "title": "companion.spec.ts",
+      "file": "companion.spec.ts",
+      "column": 0,
+      "line": 0,
+      "specs": [
+        {
+          "title": "explicit pairing and analysis send bounded JPEG pixels without source EXIF/GPS or persistent credentials",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 7731,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T16:14:05.628Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "d84b00394e37adc97eb7-58eef25e6e81b7a76bd1",
+          "file": "companion.spec.ts",
+          "line": 37,
+          "column": 5
+        },
+        {
+          "title": "malformed model response remains unavailable",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 7120,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T16:14:13.919Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "d84b00394e37adc97eb7-34c1640ac7310520ad92",
+          "file": "companion.spec.ts",
+          "line": 80,
+          "column": 5
+        },
+        {
+          "title": "cancel and replacement discard delayed responses and cancel owned inference",
+          "ok": false,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "failed",
+                  "duration": 7202,
+                  "error": {
+                    "message": "Error: ENOENT: no such file or directory, stat 'C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-hidden-data\\tests\\fixtures\\phase01\\blue.png'",
+                    "stack": "Error: ENOENT: no such file or directory, stat 'C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-hidden-data\\tests\\fixtures\\phase01\\blue.png'\n    at C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-hidden-data\\tests\\companion-browser\\companion.spec.ts:138:3",
+                    "location": {
+                      "file": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-hidden-data\\tests\\companion-browser\\companion.spec.ts",
+                      "column": 3,
+                      "line": 138
+                    },
+                    "snippet": "  136 |     .poll(() => calls.filter((c) => c === \"/v1/analyze\").length)\n  137 |     .toBe(2);\n> 138 |   await page\n      |   ^\n  139 |     .getByLabel(\"Choose image\")\n  140 |     .setInputFiles(\"tests/fixtures/phase01/blue.png\");\n  141 |   release();"
+                  },
+                  "errors": [
+                    {
+                      "location": {
+                        "file": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-hidden-data\\tests\\companion-browser\\companion.spec.ts",
+                        "column": 3,
+                        "line": 138
+                      },
+                      "message": "Error: ENOENT: no such file or directory, stat 'C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-hidden-data\\tests\\fixtures\\phase01\\blue.png'\n\n  136 |     .poll(() => calls.filter((c) => c === \"/v1/analyze\").length)\n  137 |     .toBe(2);\n> 138 |   await page\n      |   ^\n  139 |     .getByLabel(\"Choose image\")\n  140 |     .setInputFiles(\"tests/fixtures/phase01/blue.png\");\n  141 |   release();\n    at C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-hidden-data\\tests\\companion-browser\\companion.spec.ts:138:3"
+                    }
+                  ],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T16:14:21.075Z",
+                  "annotations": [],
+                  "attachments": [
+                    {
+                      "name": "error-context",
+                      "contentType": "text/markdown",
+                      "path": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-hidden-data\\test-results\\companion-cancel-and-repla-10663--and-cancel-owned-inference\\error-context.md"
+                    }
+                  ],
+                  "errorLocation": {
+                    "file": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-hidden-data\\tests\\companion-browser\\companion.spec.ts",
+                    "column": 3,
+                    "line": 138
+                  }
+                }
+              ],
+              "status": "unexpected"
+            }
+          ],
+          "id": "d84b00394e37adc97eb7-b051e96367b900335cb7",
+          "file": "companion.spec.ts",
+          "line": 98,
+          "column": 5
+        },
+        {
+          "title": "failed companion quality gate disables image transfer in the normal website",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 7533,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T16:14:29.092Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "d84b00394e37adc97eb7-91f770f30f1503d3de4b",
+          "file": "companion.spec.ts",
+          "line": 146,
+          "column": 5
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "stats": {
+    "startTime": "2026-10-21T16:14:02.919Z",
+    "duration": 34713.633,
+    "expected": 3,
+    "skipped": 0,
+    "unexpected": 1,
+    "flaky": 0
+  }
+}

@@ -1,0 +1,13 @@
+.companion-observations { margin-top: 26px; border-top: 1px solid var(--line, #dedfd8); padding-top: 20px; }
+.companion-observations summary { cursor: pointer; font-size: 13px; font-weight: 600; line-height: 1.6; }
+.companion-body { padding-top: 16px; font-size: 13px; line-height: 1.7; }
+.companion-body h3 { font-size: 19px; font-weight: 500; margin-bottom: 12px; }
+.companion-body p { margin: 10px 0; }
+.companion-body label { display: block; margin-top: 18px; }
+.companion-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 14px; margin: 12px 0; }
+.companion-actions input { width: 140px; min-width: 0; padding: 9px; border: 1px solid #777; border-radius: 3px; font: inherit; letter-spacing: 0.12em; background: transparent; }
+.companion-status { border-left: 2px solid #6a7258; padding-left: 12px; }
+.companion-output { margin-top: 20px; padding-top: 18px; border-top: 1px solid #dedfd8; }
+.companion-output h4 { margin: 14px 0 4px; font-size: 12px; font-weight: 600; }
+.companion-output ul { padding-left: 20px; }
+

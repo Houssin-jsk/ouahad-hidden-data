@@ -1,0 +1,38 @@
+
+> ouahad-hidden-data@0.1.0 test:research
+> playwright test --config playwright.research.config.ts final-places-quality.spec.ts
+
+[WebServer] (node:5984) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+[WebServer] (Use `node --trace-warnings ...` to show where the warning was created)
+
+Running 1 test using 1 worker
+
+(node:3812) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+dev-natural-00 snowfield 203
+dev-natural-02 skyscraper 371
+dev-natural-04 throne_room 265
+dev-natural-06 valley 242
+dev-natural-08 ice_cream_parlor 312
+dev-natural-10 railroad_track 381
+dev-natural-12 nursing_home 409
+dev-natural-14 vegetable_garden 297
+dev-natural-16 auto_showroom 335
+dev-natural-18 zen_garden 344
+dev-natural-20 home_theater 289
+dev-natural-22 assembly_line 284
+heldout-natural-00 dining_room 271
+heldout-natural-01 bedchamber 287
+heldout-natural-02 operating_room 421
+heldout-natural-03 mountain_snowy 297
+heldout-natural-04 waterfall 340
+heldout-natural-05 nursery 264
+heldout-natural-06 museum/indoor 274
+heldout-natural-07 florist_shop/indoor 336
+heldout-natural-08 pond 277
+heldout-natural-09 jewelry_shop 289
+heldout-natural-10 archaelogical_excavation 265
+heldout-natural-11 zen_garden 372
+  ok 1 tests\research\final-places-quality.spec.ts:6:5 › one frozen Places365 calibration then held-out pass (17.7s)
+
+  1 passed (22.2s)

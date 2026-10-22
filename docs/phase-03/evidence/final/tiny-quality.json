@@ -1,0 +1,2144 @@
+{
+  "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+  "benchmarkVersion": "final-tiny-v1",
+  "records": [
+    {
+      "id": "natural-00",
+      "split": "calibration",
+      "row": {
+        "id": "natural-00",
+        "acceptedIds": [
+          "natural scenery"
+        ],
+        "ranking": [
+          {
+            "id": "natural scenery",
+            "score": 0.3651317704318617
+          },
+          {
+            "id": "vehicles used for transportation",
+            "score": 0.2737429334250519
+          },
+          {
+            "id": "animals",
+            "score": 0.24931070725633897
+          },
+          {
+            "id": "an indoor room",
+            "score": 0.24403393447984975
+          },
+          {
+            "id": "food or a meal",
+            "score": 0.22708905352692693
+          },
+          {
+            "id": "buildings and city streets",
+            "score": 0.2261678478543414
+          }
+        ]
+      },
+      "wallMs": 4042,
+      "result": {
+        "mode": "tiny",
+        "backend": "wasm",
+        "initializationMs": 2410.5999999940395,
+        "preprocessingMs": 162.2999999821186,
+        "inferenceMs": 584.7000000178814,
+        "reused": false,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [
+          {
+            "label": "natural scenery",
+            "score": 0.3651317704318617
+          },
+          {
+            "label": "vehicles used for transportation",
+            "score": 0.2737429334250519
+          },
+          {
+            "label": "animals",
+            "score": 0.24931070725633897
+          },
+          {
+            "label": "an indoor room",
+            "score": 0.24403393447984975
+          },
+          {
+            "label": "food or a meal",
+            "score": 0.22708905352692693
+          },
+          {
+            "label": "buildings and city streets",
+            "score": 0.2261678478543414
+          }
+        ],
+        "detections": []
+      }
+    },
+    {
+      "id": "natural-02",
+      "split": "calibration",
+      "row": {
+        "id": "natural-02",
+        "acceptedIds": [
+          "buildings and city streets"
+        ],
+        "ranking": [
+          {
+            "id": "buildings and city streets",
+            "score": 0.3518022857123244
+          },
+          {
+            "id": "natural scenery",
+            "score": 0.30502582173035414
+          },
+          {
+            "id": "animals",
+            "score": 0.264009501959764
+          },
+          {
+            "id": "vehicles used for transportation",
+            "score": 0.25509339885180454
+          },
+          {
+            "id": "an indoor room",
+            "score": 0.23770151527936384
+          },
+          {
+            "id": "food or a meal",
+            "score": 0.2255299258756227
+          }
+        ]
+      },
+      "wallMs": 955,
+      "result": {
+        "mode": "tiny",
+        "backend": "wasm",
+        "initializationMs": 0,
+        "preprocessingMs": 72.5,
+        "inferenceMs": 356.5,
+        "reused": true,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [
+          {
+            "label": "buildings and city streets",
+            "score": 0.3518022857123244
+          },
+          {
+            "label": "natural scenery",
+            "score": 0.30502582173035414
+          },
+          {
+            "label": "animals",
+            "score": 0.264009501959764
+          },
+          {
+            "label": "vehicles used for transportation",
+            "score": 0.25509339885180454
+          },
+          {
+            "label": "an indoor room",
+            "score": 0.23770151527936384
+          },
+          {
+            "label": "food or a meal",
+            "score": 0.2255299258756227
+          }
+        ],
+        "detections": []
+      }
+    },
+    {
+      "id": "natural-04",
+      "split": "calibration",
+      "row": {
+        "id": "natural-04",
+        "acceptedIds": [],
+        "ranking": [
+          {
+            "id": "an indoor room",
+            "score": 0.33712859401611345
+          },
+          {
+            "id": "natural scenery",
+            "score": 0.307452231461999
+          },
+          {
+            "id": "food or a meal",
+            "score": 0.2943571171010523
+          },
+          {
+            "id": "buildings and city streets",
+            "score": 0.28600308448454004
+          },
+          {
+            "id": "animals",
+            "score": 0.2828897403807426
+          },
+          {
+            "id": "vehicles used for transportation",
+            "score": 0.2616408757013175
+          }
+        ]
+      },
+      "wallMs": 428,
+      "result": {
+        "mode": "tiny",
+        "backend": "wasm",
+        "initializationMs": 0.10000002384185791,
+        "preprocessingMs": 43.5,
+        "inferenceMs": 233.59999999403954,
+        "reused": true,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [
+          {
+            "label": "an indoor room",
+            "score": 0.33712859401611345
+          },
+          {
+            "label": "natural scenery",
+            "score": 0.307452231461999
+          },
+          {
+            "label": "food or a meal",
+            "score": 0.2943571171010523
+          },
+          {
+            "label": "buildings and city streets",
+            "score": 0.28600308448454004
+          },
+          {
+            "label": "animals",
+            "score": 0.2828897403807426
+          },
+          {
+            "label": "vehicles used for transportation",
+            "score": 0.2616408757013175
+          }
+        ],
+        "detections": []
+      }
+    },
+    {
+      "id": "natural-06",
+      "split": "calibration",
+      "row": {
+        "id": "natural-06",
+        "acceptedIds": [
+          "natural scenery",
+          "animals"
+        ],
+        "ranking": [
+          {
+            "id": "natural scenery",
+            "score": 0.36366988045441934
+          },
+          {
+            "id": "animals",
+            "score": 0.3548425625713149
+          },
+          {
+            "id": "vehicles used for transportation",
+            "score": 0.29065956361417356
+          },
+          {
+            "id": "food or a meal",
+            "score": 0.264098365912468
+          },
+          {
+            "id": "buildings and city streets",
+            "score": 0.2315832119217145
+          },
+          {
+            "id": "an indoor room",
+            "score": 0.21553244941396574
+          }
+        ]
+      },
+      "wallMs": 445,
+      "result": {
+        "mode": "tiny",
+        "backend": "wasm",
+        "initializationMs": 0,
+        "preprocessingMs": 56.5,
+        "inferenceMs": 314.90000000596046,
+        "reused": true,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [
+          {
+            "label": "natural scenery",
+            "score": 0.36366988045441934
+          },
+          {
+            "label": "animals",
+            "score": 0.3548425625713149
+          },
+          {
+            "label": "vehicles used for transportation",
+            "score": 0.29065956361417356
+          },
+          {
+            "label": "food or a meal",
+            "score": 0.264098365912468
+          },
+          {
+            "label": "buildings and city streets",
+            "score": 0.2315832119217145
+          },
+          {
+            "label": "an indoor room",
+            "score": 0.21553244941396574
+          }
+        ],
+        "detections": []
+      }
+    },
+    {
+      "id": "natural-08",
+      "split": "calibration",
+      "row": {
+        "id": "natural-08",
+        "acceptedIds": [
+          "food or a meal"
+        ],
+        "ranking": [
+          {
+            "id": "food or a meal",
+            "score": 0.3759506415112426
+          },
+          {
+            "id": "animals",
+            "score": 0.26249834636732106
+          },
+          {
+            "id": "natural scenery",
+            "score": 0.2564341522033996
+          },
+          {
+            "id": "an indoor room",
+            "score": 0.2545394106407795
+          },
+          {
+            "id": "vehicles used for transportation",
+            "score": 0.21636163614117251
+          },
+          {
+            "id": "buildings and city streets",
+            "score": 0.17916513100881265
+          }
+        ]
+      },
+      "wallMs": 977,
+      "result": {
+        "mode": "tiny",
+        "backend": "wasm",
+        "initializationMs": 0.09999999403953552,
+        "preprocessingMs": 81.80000001192093,
+        "inferenceMs": 350.5,
+        "reused": true,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [
+          {
+            "label": "food or a meal",
+            "score": 0.3759506415112426
+          },
+          {
+            "label": "animals",
+            "score": 0.26249834636732106
+          },
+          {
+            "label": "natural scenery",
+            "score": 0.2564341522033996
+          },
+          {
+            "label": "an indoor room",
+            "score": 0.2545394106407795
+          },
+          {
+            "label": "vehicles used for transportation",
+            "score": 0.21636163614117251
+          },
+          {
+            "label": "buildings and city streets",
+            "score": 0.17916513100881265
+          }
+        ],
+        "detections": []
+      }
+    },
+    {
+      "id": "natural-10",
+      "split": "calibration",
+      "row": {
+        "id": "natural-10",
+        "acceptedIds": [
+          "vehicles used for transportation"
+        ],
+        "ranking": [
+          {
+            "id": "vehicles used for transportation",
+            "score": 0.34987076615596346
+          },
+          {
+            "id": "an indoor room",
+            "score": 0.29470889926572585
+          },
+          {
+            "id": "animals",
+            "score": 0.28876982521591216
+          },
+          {
+            "id": "food or a meal",
+            "score": 0.27888347601657576
+          },
+          {
+            "id": "buildings and city streets",
+            "score": 0.2721908749945448
+          },
+          {
+            "id": "natural scenery",
+            "score": 0.2671778510380702
+          }
+        ]
+      },
+      "wallMs": 453,
+      "result": {
+        "mode": "tiny",
+        "backend": "wasm",
+        "initializationMs": 0,
+        "preprocessingMs": 70.5,
+        "inferenceMs": 326.19999998807907,
+        "reused": true,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [
+          {
+            "label": "vehicles used for transportation",
+            "score": 0.34987076615596346
+          },
+          {
+            "label": "an indoor room",
+            "score": 0.29470889926572585
+          },
+          {
+            "label": "animals",
+            "score": 0.28876982521591216
+          },
+          {
+            "label": "food or a meal",
+            "score": 0.27888347601657576
+          },
+          {
+            "label": "buildings and city streets",
+            "score": 0.2721908749945448
+          },
+          {
+            "label": "natural scenery",
+            "score": 0.2671778510380702
+          }
+        ],
+        "detections": []
+      }
+    },
+    {
+      "id": "natural-12",
+      "split": "calibration",
+      "row": {
+        "id": "natural-12",
+        "acceptedIds": [],
+        "ranking": [
+          {
+            "id": "an indoor room",
+            "score": 0.26136709223007837
+          },
+          {
+            "id": "vehicles used for transportation",
+            "score": 0.2561075587889785
+          },
+          {
+            "id": "animals",
+            "score": 0.23467380656821835
+          },
+          {
+            "id": "natural scenery",
+            "score": 0.23414397505625512
+          },
+          {
+            "id": "food or a meal",
+            "score": 0.22408873214704905
+          },
+          {
+            "id": "buildings and city streets",
+            "score": 0.19286093773269183
+          }
+        ]
+      },
+      "wallMs": 453,
+      "result": {
+        "mode": "tiny",
+        "backend": "wasm",
+        "initializationMs": 0,
+        "preprocessingMs": 88,
+        "inferenceMs": 236.69999998807907,
+        "reused": true,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [
+          {
+            "label": "an indoor room",
+            "score": 0.26136709223007837
+          },
+          {
+            "label": "vehicles used for transportation",
+            "score": 0.2561075587889785
+          },
+          {
+            "label": "animals",
+            "score": 0.23467380656821835
+          },
+          {
+            "label": "natural scenery",
+            "score": 0.23414397505625512
+          },
+          {
+            "label": "food or a meal",
+            "score": 0.22408873214704905
+          },
+          {
+            "label": "buildings and city streets",
+            "score": 0.19286093773269183
+          }
+        ],
+        "detections": []
+      }
+    },
+    {
+      "id": "natural-14",
+      "split": "calibration",
+      "row": {
+        "id": "natural-14",
+        "acceptedIds": [],
+        "ranking": [
+          {
+            "id": "natural scenery",
+            "score": 0.329175491352769
+          },
+          {
+            "id": "animals",
+            "score": 0.2896748461161621
+          },
+          {
+            "id": "an indoor room",
+            "score": 0.2744929784897569
+          },
+          {
+            "id": "food or a meal",
+            "score": 0.2709364902891443
+          },
+          {
+            "id": "vehicles used for transportation",
+            "score": 0.2317129824597438
+          },
+          {
+            "id": "buildings and city streets",
+            "score": 0.18238276128410644
+          }
+        ]
+      },
+      "wallMs": 437,
+      "result": {
+        "mode": "tiny",
+        "backend": "wasm",
+        "initializationMs": 0,
+        "preprocessingMs": 63.900000005960464,
+        "inferenceMs": 253.7000000178814,
+        "reused": true,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [
+          {
+            "label": "natural scenery",
+            "score": 0.329175491352769
+          },
+          {
+            "label": "animals",
+            "score": 0.2896748461161621
+          },
+          {
+            "label": "an indoor room",
+            "score": 0.2744929784897569
+          },
+          {
+            "label": "food or a meal",
+            "score": 0.2709364902891443
+          },
+          {
+            "label": "vehicles used for transportation",
+            "score": 0.2317129824597438
+          },
+          {
+            "label": "buildings and city streets",
+            "score": 0.18238276128410644
+          }
+        ],
+        "detections": []
+      }
+    },
+    {
+      "id": "natural-16",
+      "split": "calibration",
+      "row": {
+        "id": "natural-16",
+        "acceptedIds": [],
+        "ranking": [
+          {
+            "id": "an indoor room",
+            "score": 0.2822872235933621
+          },
+          {
+            "id": "vehicles used for transportation",
+            "score": 0.28117410546413546
+          },
+          {
+            "id": "food or a meal",
+            "score": 0.2795401963764995
+          },
+          {
+            "id": "animals",
+            "score": 0.26697593855086205
+          },
+          {
+            "id": "natural scenery",
+            "score": 0.2545447503828361
+          },
+          {
+            "id": "buildings and city streets",
+            "score": 0.22326885113316405
+          }
+        ]
+      },
+      "wallMs": 450,
+      "result": {
+        "mode": "tiny",
+        "backend": "wasm",
+        "initializationMs": 0.09999999403953552,
+        "preprocessingMs": 45.60000002384186,
+        "inferenceMs": 244.7999999821186,
+        "reused": true,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [
+          {
+            "label": "an indoor room",
+            "score": 0.2822872235933621
+          },
+          {
+            "label": "vehicles used for transportation",
+            "score": 0.28117410546413546
+          },
+          {
+            "label": "food or a meal",
+            "score": 0.2795401963764995
+          },
+          {
+            "label": "animals",
+            "score": 0.26697593855086205
+          },
+          {
+            "label": "natural scenery",
+            "score": 0.2545447503828361
+          },
+          {
+            "label": "buildings and city streets",
+            "score": 0.22326885113316405
+          }
+        ],
+        "detections": []
+      }
+    },
+    {
+      "id": "natural-18",
+      "split": "calibration",
+      "row": {
+        "id": "natural-18",
+        "acceptedIds": [],
+        "ranking": [
+          {
+            "id": "natural scenery",
+            "score": 0.34225126647649684
+          },
+          {
+            "id": "animals",
+            "score": 0.2994229072383965
+          },
+          {
+            "id": "an indoor room",
+            "score": 0.28497972499647606
+          },
+          {
+            "id": "vehicles used for transportation",
+            "score": 0.266576789195842
+          },
+          {
+            "id": "food or a meal",
+            "score": 0.2634157102564379
+          },
+          {
+            "id": "buildings and city streets",
+            "score": 0.2485233563517191
+          }
+        ]
+      },
+      "wallMs": 457,
+      "result": {
+        "mode": "tiny",
+        "backend": "wasm",
+        "initializationMs": 0,
+        "preprocessingMs": 50.599999994039536,
+        "inferenceMs": 241.40000000596046,
+        "reused": true,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [
+          {
+            "label": "natural scenery",
+            "score": 0.34225126647649684
+          },
+          {
+            "label": "animals",
+            "score": 0.2994229072383965
+          },
+          {
+            "label": "an indoor room",
+            "score": 0.28497972499647606
+          },
+          {
+            "label": "vehicles used for transportation",
+            "score": 0.266576789195842
+          },
+          {
+            "label": "food or a meal",
+            "score": 0.2634157102564379
+          },
+          {
+            "label": "buildings and city streets",
+            "score": 0.2485233563517191
+          }
+        ],
+        "detections": []
+      }
+    },
+    {
+      "id": "natural-20",
+      "split": "calibration",
+      "row": {
+        "id": "natural-20",
+        "acceptedIds": [],
+        "ranking": [
+          {
+            "id": "an indoor room",
+            "score": 0.32320457519892687
+          },
+          {
+            "id": "natural scenery",
+            "score": 0.3002629452379422
+          },
+          {
+            "id": "vehicles used for transportation",
+            "score": 0.273180178267143
+          },
+          {
+            "id": "animals",
+            "score": 0.2701279834104411
+          },
+          {
+            "id": "food or a meal",
+            "score": 0.26369733541858364
+          },
+          {
+            "id": "buildings and city streets",
+            "score": 0.2535875292741395
+          }
+        ]
+      },
+      "wallMs": 467,
+      "result": {
+        "mode": "tiny",
+        "backend": "wasm",
+        "initializationMs": 0,
+        "preprocessingMs": 49.69999998807907,
+        "inferenceMs": 299.5,
+        "reused": true,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [
+          {
+            "label": "an indoor room",
+            "score": 0.32320457519892687
+          },
+          {
+            "label": "natural scenery",
+            "score": 0.3002629452379422
+          },
+          {
+            "label": "vehicles used for transportation",
+            "score": 0.273180178267143
+          },
+          {
+            "label": "animals",
+            "score": 0.2701279834104411
+          },
+          {
+            "label": "food or a meal",
+            "score": 0.26369733541858364
+          },
+          {
+            "label": "buildings and city streets",
+            "score": 0.2535875292741395
+          }
+        ],
+        "detections": []
+      }
+    },
+    {
+      "id": "natural-22",
+      "split": "calibration",
+      "row": {
+        "id": "natural-22",
+        "acceptedIds": [
+          "an indoor room"
+        ],
+        "ranking": [
+          {
+            "id": "an indoor room",
+            "score": 0.3350713533077359
+          },
+          {
+            "id": "vehicles used for transportation",
+            "score": 0.3144027979621249
+          },
+          {
+            "id": "animals",
+            "score": 0.2873286079676077
+          },
+          {
+            "id": "buildings and city streets",
+            "score": 0.2811556647585379
+          },
+          {
+            "id": "natural scenery",
+            "score": 0.26285401245730683
+          },
+          {
+            "id": "food or a meal",
+            "score": 0.2594129144353618
+          }
+        ]
+      },
+      "wallMs": 429,
+      "result": {
+        "mode": "tiny",
+        "backend": "wasm",
+        "initializationMs": 0,
+        "preprocessingMs": 44.599999994039536,
+        "inferenceMs": 233,
+        "reused": true,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [
+          {
+            "label": "an indoor room",
+            "score": 0.3350713533077359
+          },
+          {
+            "label": "vehicles used for transportation",
+            "score": 0.3144027979621249
+          },
+          {
+            "label": "animals",
+            "score": 0.2873286079676077
+          },
+          {
+            "label": "buildings and city streets",
+            "score": 0.2811556647585379
+          },
+          {
+            "label": "natural scenery",
+            "score": 0.26285401245730683
+          },
+          {
+            "label": "food or a meal",
+            "score": 0.2594129144353618
+          }
+        ],
+        "detections": []
+      }
+    },
+    {
+      "id": "natural-01",
+      "split": "test",
+      "row": {
+        "id": "natural-01",
+        "acceptedIds": [
+          "natural scenery"
+        ],
+        "ranking": [
+          {
+            "id": "natural scenery",
+            "score": 0.35640107439834756
+          },
+          {
+            "id": "an indoor room",
+            "score": 0.2955986524682912
+          },
+          {
+            "id": "vehicles used for transportation",
+            "score": 0.2933337763238042
+          },
+          {
+            "id": "animals",
+            "score": 0.2886150599169594
+          },
+          {
+            "id": "food or a meal",
+            "score": 0.25511842817280006
+          },
+          {
+            "id": "buildings and city streets",
+            "score": 0.2533124815687571
+          }
+        ]
+      },
+      "wallMs": 448,
+      "result": {
+        "mode": "tiny",
+        "backend": "wasm",
+        "initializationMs": 0,
+        "preprocessingMs": 37.89999997615814,
+        "inferenceMs": 260.5,
+        "reused": true,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [
+          {
+            "label": "natural scenery",
+            "score": 0.35640107439834756
+          },
+          {
+            "label": "an indoor room",
+            "score": 0.2955986524682912
+          },
+          {
+            "label": "vehicles used for transportation",
+            "score": 0.2933337763238042
+          },
+          {
+            "label": "animals",
+            "score": 0.2886150599169594
+          },
+          {
+            "label": "food or a meal",
+            "score": 0.25511842817280006
+          },
+          {
+            "label": "buildings and city streets",
+            "score": 0.2533124815687571
+          }
+        ],
+        "detections": []
+      }
+    },
+    {
+      "id": "natural-03",
+      "split": "test",
+      "row": {
+        "id": "natural-03",
+        "acceptedIds": [
+          "buildings and city streets",
+          "vehicles used for transportation"
+        ],
+        "ranking": [
+          {
+            "id": "vehicles used for transportation",
+            "score": 0.325230927604295
+          },
+          {
+            "id": "buildings and city streets",
+            "score": 0.31745917922625777
+          },
+          {
+            "id": "natural scenery",
+            "score": 0.30832502078439655
+          },
+          {
+            "id": "an indoor room",
+            "score": 0.30273634411172623
+          },
+          {
+            "id": "animals",
+            "score": 0.3023421595580472
+          },
+          {
+            "id": "food or a meal",
+            "score": 0.29884496590780363
+          }
+        ]
+      },
+      "wallMs": 415,
+      "result": {
+        "mode": "tiny",
+        "backend": "wasm",
+        "initializationMs": 0.09999999403953552,
+        "preprocessingMs": 47.20000001788139,
+        "inferenceMs": 227.09999999403954,
+        "reused": true,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [
+          {
+            "label": "vehicles used for transportation",
+            "score": 0.325230927604295
+          },
+          {
+            "label": "buildings and city streets",
+            "score": 0.31745917922625777
+          },
+          {
+            "label": "natural scenery",
+            "score": 0.30832502078439655
+          },
+          {
+            "label": "an indoor room",
+            "score": 0.30273634411172623
+          },
+          {
+            "label": "animals",
+            "score": 0.3023421595580472
+          },
+          {
+            "label": "food or a meal",
+            "score": 0.29884496590780363
+          }
+        ],
+        "detections": []
+      }
+    },
+    {
+      "id": "natural-05",
+      "split": "test",
+      "row": {
+        "id": "natural-05",
+        "acceptedIds": [
+          "an indoor room"
+        ],
+        "ranking": [
+          {
+            "id": "an indoor room",
+            "score": 0.3394802359638144
+          },
+          {
+            "id": "food or a meal",
+            "score": 0.3259957546874274
+          },
+          {
+            "id": "natural scenery",
+            "score": 0.2845236592802677
+          },
+          {
+            "id": "animals",
+            "score": 0.2630098325825944
+          },
+          {
+            "id": "vehicles used for transportation",
+            "score": 0.22612463811807038
+          },
+          {
+            "id": "buildings and city streets",
+            "score": 0.21245335372955423
+          }
+        ]
+      },
+      "wallMs": 425,
+      "result": {
+        "mode": "tiny",
+        "backend": "wasm",
+        "initializationMs": 0,
+        "preprocessingMs": 65.59999999403954,
+        "inferenceMs": 216.09999999403954,
+        "reused": true,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [
+          {
+            "label": "an indoor room",
+            "score": 0.3394802359638144
+          },
+          {
+            "label": "food or a meal",
+            "score": 0.3259957546874274
+          },
+          {
+            "label": "natural scenery",
+            "score": 0.2845236592802677
+          },
+          {
+            "label": "animals",
+            "score": 0.2630098325825944
+          },
+          {
+            "label": "vehicles used for transportation",
+            "score": 0.22612463811807038
+          },
+          {
+            "label": "buildings and city streets",
+            "score": 0.21245335372955423
+          }
+        ],
+        "detections": []
+      }
+    },
+    {
+      "id": "natural-07",
+      "split": "test",
+      "row": {
+        "id": "natural-07",
+        "acceptedIds": [
+          "animals"
+        ],
+        "ranking": [
+          {
+            "id": "animals",
+            "score": 0.3866742115876167
+          },
+          {
+            "id": "an indoor room",
+            "score": 0.3098802718017646
+          },
+          {
+            "id": "natural scenery",
+            "score": 0.3050462207648892
+          },
+          {
+            "id": "vehicles used for transportation",
+            "score": 0.2974985828173057
+          },
+          {
+            "id": "food or a meal",
+            "score": 0.2777167416953894
+          },
+          {
+            "id": "buildings and city streets",
+            "score": 0.252331671491565
+          }
+        ]
+      },
+      "wallMs": 446,
+      "result": {
+        "mode": "tiny",
+        "backend": "wasm",
+        "initializationMs": 0,
+        "preprocessingMs": 106.89999997615814,
+        "inferenceMs": 201.60000002384186,
+        "reused": true,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [
+          {
+            "label": "animals",
+            "score": 0.3866742115876167
+          },
+          {
+            "label": "an indoor room",
+            "score": 0.3098802718017646
+          },
+          {
+            "label": "natural scenery",
+            "score": 0.3050462207648892
+          },
+          {
+            "label": "vehicles used for transportation",
+            "score": 0.2974985828173057
+          },
+          {
+            "label": "food or a meal",
+            "score": 0.2777167416953894
+          },
+          {
+            "label": "buildings and city streets",
+            "score": 0.252331671491565
+          }
+        ],
+        "detections": []
+      }
+    },
+    {
+      "id": "natural-09",
+      "split": "test",
+      "row": {
+        "id": "natural-09",
+        "acceptedIds": [
+          "food or a meal"
+        ],
+        "ranking": [
+          {
+            "id": "food or a meal",
+            "score": 0.3492093785464148
+          },
+          {
+            "id": "animals",
+            "score": 0.2844901894932396
+          },
+          {
+            "id": "natural scenery",
+            "score": 0.27206408927167297
+          },
+          {
+            "id": "vehicles used for transportation",
+            "score": 0.25365151283126214
+          },
+          {
+            "id": "an indoor room",
+            "score": 0.25245295390310657
+          },
+          {
+            "id": "buildings and city streets",
+            "score": 0.16606705966809363
+          }
+        ]
+      },
+      "wallMs": 434,
+      "result": {
+        "mode": "tiny",
+        "backend": "wasm",
+        "initializationMs": 0,
+        "preprocessingMs": 38.099999994039536,
+        "inferenceMs": 217.09999999403954,
+        "reused": true,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [
+          {
+            "label": "food or a meal",
+            "score": 0.3492093785464148
+          },
+          {
+            "label": "animals",
+            "score": 0.2844901894932396
+          },
+          {
+            "label": "natural scenery",
+            "score": 0.27206408927167297
+          },
+          {
+            "label": "vehicles used for transportation",
+            "score": 0.25365151283126214
+          },
+          {
+            "label": "an indoor room",
+            "score": 0.25245295390310657
+          },
+          {
+            "label": "buildings and city streets",
+            "score": 0.16606705966809363
+          }
+        ],
+        "detections": []
+      }
+    },
+    {
+      "id": "natural-11",
+      "split": "test",
+      "row": {
+        "id": "natural-11",
+        "acceptedIds": [
+          "vehicles used for transportation"
+        ],
+        "ranking": [
+          {
+            "id": "natural scenery",
+            "score": 0.29719841649154083
+          },
+          {
+            "id": "animals",
+            "score": 0.26820409975621334
+          },
+          {
+            "id": "vehicles used for transportation",
+            "score": 0.2585240862637773
+          },
+          {
+            "id": "an indoor room",
+            "score": 0.2530356889747284
+          },
+          {
+            "id": "food or a meal",
+            "score": 0.23646242994588076
+          },
+          {
+            "id": "buildings and city streets",
+            "score": 0.21763073046620826
+          }
+        ]
+      },
+      "wallMs": 454,
+      "result": {
+        "mode": "tiny",
+        "backend": "wasm",
+        "initializationMs": 0,
+        "preprocessingMs": 72.59999999403954,
+        "inferenceMs": 289.69999998807907,
+        "reused": true,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [
+          {
+            "label": "natural scenery",
+            "score": 0.29719841649154083
+          },
+          {
+            "label": "animals",
+            "score": 0.26820409975621334
+          },
+          {
+            "label": "vehicles used for transportation",
+            "score": 0.2585240862637773
+          },
+          {
+            "label": "an indoor room",
+            "score": 0.2530356889747284
+          },
+          {
+            "label": "food or a meal",
+            "score": 0.23646242994588076
+          },
+          {
+            "label": "buildings and city streets",
+            "score": 0.21763073046620826
+          }
+        ],
+        "detections": []
+      }
+    },
+    {
+      "id": "natural-13",
+      "split": "test",
+      "row": {
+        "id": "natural-13",
+        "acceptedIds": [],
+        "ranking": [
+          {
+            "id": "animals",
+            "score": 0.27947458457514207
+          },
+          {
+            "id": "an indoor room",
+            "score": 0.274795032423217
+          },
+          {
+            "id": "natural scenery",
+            "score": 0.26372754718707836
+          },
+          {
+            "id": "food or a meal",
+            "score": 0.26310636408338267
+          },
+          {
+            "id": "vehicles used for transportation",
+            "score": 0.24549433325083733
+          },
+          {
+            "id": "buildings and city streets",
+            "score": 0.20448718186341353
+          }
+        ]
+      },
+      "wallMs": 446,
+      "result": {
+        "mode": "tiny",
+        "backend": "wasm",
+        "initializationMs": 0,
+        "preprocessingMs": 69.89999997615814,
+        "inferenceMs": 240.7000000178814,
+        "reused": true,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [
+          {
+            "label": "animals",
+            "score": 0.27947458457514207
+          },
+          {
+            "label": "an indoor room",
+            "score": 0.274795032423217
+          },
+          {
+            "label": "natural scenery",
+            "score": 0.26372754718707836
+          },
+          {
+            "label": "food or a meal",
+            "score": 0.26310636408338267
+          },
+          {
+            "label": "vehicles used for transportation",
+            "score": 0.24549433325083733
+          },
+          {
+            "label": "buildings and city streets",
+            "score": 0.20448718186341353
+          }
+        ],
+        "detections": []
+      }
+    },
+    {
+      "id": "natural-15",
+      "split": "test",
+      "row": {
+        "id": "natural-15",
+        "acceptedIds": [],
+        "ranking": [
+          {
+            "id": "natural scenery",
+            "score": 0.32075554055580835
+          },
+          {
+            "id": "animals",
+            "score": 0.29340739297769225
+          },
+          {
+            "id": "an indoor room",
+            "score": 0.2828550505796306
+          },
+          {
+            "id": "food or a meal",
+            "score": 0.2594118172078713
+          },
+          {
+            "id": "vehicles used for transportation",
+            "score": 0.22657253841005665
+          },
+          {
+            "id": "buildings and city streets",
+            "score": 0.17910525725952392
+          }
+        ]
+      },
+      "wallMs": 441,
+      "result": {
+        "mode": "tiny",
+        "backend": "wasm",
+        "initializationMs": 0,
+        "preprocessingMs": 66.7999999821186,
+        "inferenceMs": 216.90000000596046,
+        "reused": true,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [
+          {
+            "label": "natural scenery",
+            "score": 0.32075554055580835
+          },
+          {
+            "label": "animals",
+            "score": 0.29340739297769225
+          },
+          {
+            "label": "an indoor room",
+            "score": 0.2828550505796306
+          },
+          {
+            "label": "food or a meal",
+            "score": 0.2594118172078713
+          },
+          {
+            "label": "vehicles used for transportation",
+            "score": 0.22657253841005665
+          },
+          {
+            "label": "buildings and city streets",
+            "score": 0.17910525725952392
+          }
+        ],
+        "detections": []
+      }
+    },
+    {
+      "id": "natural-17",
+      "split": "test",
+      "row": {
+        "id": "natural-17",
+        "acceptedIds": [],
+        "ranking": [
+          {
+            "id": "natural scenery",
+            "score": 0.2654980742458876
+          },
+          {
+            "id": "an indoor room",
+            "score": 0.2628576100902648
+          },
+          {
+            "id": "animals",
+            "score": 0.26222103478613584
+          },
+          {
+            "id": "food or a meal",
+            "score": 0.25882301725088086
+          },
+          {
+            "id": "vehicles used for transportation",
+            "score": 0.2548253534552983
+          },
+          {
+            "id": "buildings and city streets",
+            "score": 0.19170298555526064
+          }
+        ]
+      },
+      "wallMs": 426,
+      "result": {
+        "mode": "tiny",
+        "backend": "wasm",
+        "initializationMs": 0.09999999403953552,
+        "preprocessingMs": 45.80000001192093,
+        "inferenceMs": 196.7999999821186,
+        "reused": true,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [
+          {
+            "label": "natural scenery",
+            "score": 0.2654980742458876
+          },
+          {
+            "label": "an indoor room",
+            "score": 0.2628576100902648
+          },
+          {
+            "label": "animals",
+            "score": 0.26222103478613584
+          },
+          {
+            "label": "food or a meal",
+            "score": 0.25882301725088086
+          },
+          {
+            "label": "vehicles used for transportation",
+            "score": 0.2548253534552983
+          },
+          {
+            "label": "buildings and city streets",
+            "score": 0.19170298555526064
+          }
+        ],
+        "detections": []
+      }
+    },
+    {
+      "id": "natural-19",
+      "split": "test",
+      "row": {
+        "id": "natural-19",
+        "acceptedIds": [],
+        "ranking": [
+          {
+            "id": "natural scenery",
+            "score": 0.35012040490982943
+          },
+          {
+            "id": "animals",
+            "score": 0.3184829831187354
+          },
+          {
+            "id": "an indoor room",
+            "score": 0.2782258017870035
+          },
+          {
+            "id": "vehicles used for transportation",
+            "score": 0.26364662544886364
+          },
+          {
+            "id": "food or a meal",
+            "score": 0.2634098341728295
+          },
+          {
+            "id": "buildings and city streets",
+            "score": 0.2228136658482558
+          }
+        ]
+      },
+      "wallMs": 426,
+      "result": {
+        "mode": "tiny",
+        "backend": "wasm",
+        "initializationMs": 0,
+        "preprocessingMs": 44.900000005960464,
+        "inferenceMs": 195.2999999821186,
+        "reused": true,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [
+          {
+            "label": "natural scenery",
+            "score": 0.35012040490982943
+          },
+          {
+            "label": "animals",
+            "score": 0.3184829831187354
+          },
+          {
+            "label": "an indoor room",
+            "score": 0.2782258017870035
+          },
+          {
+            "label": "vehicles used for transportation",
+            "score": 0.26364662544886364
+          },
+          {
+            "label": "food or a meal",
+            "score": 0.2634098341728295
+          },
+          {
+            "label": "buildings and city streets",
+            "score": 0.2228136658482558
+          }
+        ],
+        "detections": []
+      }
+    },
+    {
+      "id": "natural-21",
+      "split": "test",
+      "row": {
+        "id": "natural-21",
+        "acceptedIds": [],
+        "ranking": [
+          {
+            "id": "natural scenery",
+            "score": 0.3203585856567042
+          },
+          {
+            "id": "animals",
+            "score": 0.30372863695013047
+          },
+          {
+            "id": "vehicles used for transportation",
+            "score": 0.24546206596143633
+          },
+          {
+            "id": "buildings and city streets",
+            "score": 0.2353689426839033
+          },
+          {
+            "id": "an indoor room",
+            "score": 0.2309909600751651
+          },
+          {
+            "id": "food or a meal",
+            "score": 0.22091860082256093
+          }
+        ]
+      },
+      "wallMs": 421,
+      "result": {
+        "mode": "tiny",
+        "backend": "wasm",
+        "initializationMs": 0,
+        "preprocessingMs": 63.5,
+        "inferenceMs": 243.5,
+        "reused": true,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [
+          {
+            "label": "natural scenery",
+            "score": 0.3203585856567042
+          },
+          {
+            "label": "animals",
+            "score": 0.30372863695013047
+          },
+          {
+            "label": "vehicles used for transportation",
+            "score": 0.24546206596143633
+          },
+          {
+            "label": "buildings and city streets",
+            "score": 0.2353689426839033
+          },
+          {
+            "label": "an indoor room",
+            "score": 0.2309909600751651
+          },
+          {
+            "label": "food or a meal",
+            "score": 0.22091860082256093
+          }
+        ],
+        "detections": []
+      }
+    },
+    {
+      "id": "natural-23",
+      "split": "test",
+      "row": {
+        "id": "natural-23",
+        "acceptedIds": [],
+        "ranking": [
+          {
+            "id": "an indoor room",
+            "score": 0.2902209311213746
+          },
+          {
+            "id": "animals",
+            "score": 0.28110451573286843
+          },
+          {
+            "id": "natural scenery",
+            "score": 0.2803187634161653
+          },
+          {
+            "id": "food or a meal",
+            "score": 0.27894360101035376
+          },
+          {
+            "id": "vehicles used for transportation",
+            "score": 0.2738497162270529
+          },
+          {
+            "id": "buildings and city streets",
+            "score": 0.2569276185817306
+          }
+        ]
+      },
+      "wallMs": 444,
+      "result": {
+        "mode": "tiny",
+        "backend": "wasm",
+        "initializationMs": 0,
+        "preprocessingMs": 65,
+        "inferenceMs": 209.39999997615814,
+        "reused": true,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [
+          {
+            "label": "an indoor room",
+            "score": 0.2902209311213746
+          },
+          {
+            "label": "animals",
+            "score": 0.28110451573286843
+          },
+          {
+            "label": "natural scenery",
+            "score": 0.2803187634161653
+          },
+          {
+            "label": "food or a meal",
+            "score": 0.27894360101035376
+          },
+          {
+            "label": "vehicles used for transportation",
+            "score": 0.2738497162270529
+          },
+          {
+            "label": "buildings and city streets",
+            "score": 0.2569276185817306
+          }
+        ],
+        "detections": []
+      }
+    }
+  ],
+  "requests": [
+    {
+      "url": "http://127.0.0.1:3001/experiments/vision",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/42r8wgp7hdgdi.css",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/0puoccy9vt99i.css",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/1ckvzn7sfprko.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/2r4s4h5xul1n-.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/0s7mvllxht1mo.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/0rm4bmi_uaeqm.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/turbopack-3-ry682tkyiqk.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/0umf92h1sb77c.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/3gy3j37qetr9o.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/brand/app_icon.png",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/?_rsc=kkFecejXpwQ0UtuX",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/?_rsc=gwBX89CGuNYKOOUo",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/3fsc_a9zc29l0.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/0jv-hmy21iqni.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "blob:http://127.0.0.1:3001/801a5802-11c9-47d5-9ff3-ad9d316a4966",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/turbopack-worker-1hrsqshz0gfey.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/turbopack-27zgoiqjnp_q7.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/1w6qt_d1mp6hr.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/0ip3nqcqsccfg.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/turbopack-3-ry682tkyiqk.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/experiments/ai/tiny/config.json",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/experiments/ai/tiny/onnx/model_int8.onnx",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/ai/runtime/ort-wasm-simd-threaded.asyncify.wasm",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/ai/runtime/ort-wasm-simd-threaded.asyncify.mjs",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "blob:http://127.0.0.1:3001/1a63566d-8387-4d1c-9c0e-4b29ea5f6a66",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/experiments/ai/tiny/preprocessor_config.json",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/experiments/ai/tiny/tokenizer.json",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/experiments/ai/tiny/tokenizer_config.json",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "blob:http://127.0.0.1:3001/64f8b6fb-ec63-4231-9771-2af8520a6aac",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "blob:http://127.0.0.1:3001/041d2267-7f1c-4921-ad8b-6873f9a9dfa3",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "blob:http://127.0.0.1:3001/f44f13f6-3149-43b0-8b00-23be098f74b6",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "blob:http://127.0.0.1:3001/ae460a90-7b35-4198-bc87-484bf1e11d59",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "blob:http://127.0.0.1:3001/90b167a5-ae24-4afa-90c6-e230ee77ceb4",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "blob:http://127.0.0.1:3001/607d0995-5424-4a46-b014-a133d6363e59",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "blob:http://127.0.0.1:3001/abab8304-72ba-472b-8dca-1f5cbc031bb8",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "blob:http://127.0.0.1:3001/f2ff74ac-cb82-4b65-abc5-f8c75c91d811",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "blob:http://127.0.0.1:3001/dcac3f22-54d5-4be9-8713-6d5019d0414b",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "blob:http://127.0.0.1:3001/a92196dc-2c52-4e97-b93f-94be5ec9f851",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "blob:http://127.0.0.1:3001/129f0f72-d429-4c43-968c-016baae578c9",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "blob:http://127.0.0.1:3001/a5bb3228-4415-44c5-a7f4-3c86ea157508",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "blob:http://127.0.0.1:3001/8481c20f-9af6-4b5e-a7dc-7367a35d323d",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "blob:http://127.0.0.1:3001/03648c25-4acd-4391-9136-d9c05285d3f7",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "blob:http://127.0.0.1:3001/879a28d0-7655-4c9f-aae3-a4040e832a64",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "blob:http://127.0.0.1:3001/2dd30223-9299-4ee6-8186-6ec1cdddb98b",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "blob:http://127.0.0.1:3001/52bdf6f4-2ccc-486b-9596-0e6b4975ef21",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "blob:http://127.0.0.1:3001/3e440c2e-a539-4449-92f4-4d54ebf7a1b0",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "blob:http://127.0.0.1:3001/30d4821b-98dd-4e5f-81c0-9a4d1bcd88d1",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "blob:http://127.0.0.1:3001/6a5f72ab-6159-4fa7-ad52-fc3452f4faba",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "blob:http://127.0.0.1:3001/4f5c482b-f415-4eca-a5f0-c1a7f60051bd",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "blob:http://127.0.0.1:3001/30da0692-fd2f-46b5-8eb6-a3ca99462459",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "blob:http://127.0.0.1:3001/1d971f8d-2d24-495e-90d6-5de9c8451748",
+      "method": "GET",
+      "body": false
+    }
+  ],
+  "policies": {
+    "natural scenery": {
+      "minimumScore": 0.36366988045441934,
+      "minimumMargin": 0.008827317883104424
+    },
+    "buildings and city streets": {
+      "minimumScore": 0.3518022857123244,
+      "minimumMargin": 0.04677646398197027
+    },
+    "an indoor room": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "animals": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "food or a meal": {
+      "minimumScore": 0.3759506415112426,
+      "minimumMargin": 0.11345229514392152
+    },
+    "vehicles used for transportation": {
+      "minimumScore": 0.34987076615596346,
+      "minimumMargin": 0.05516186689023761
+    }
+  }
+}

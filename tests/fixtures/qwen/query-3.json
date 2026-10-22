@@ -1,0 +1,1782 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 15,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "12908178": {
+        "pageid": 12908178,
+        "ns": 6,
+        "title": "File:Forest Path - geograph.org.uk - 392850.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 212480,
+            "width": 640,
+            "height": 480,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Forest_Path_-_geograph.org.uk_-_392850.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/3/34/Forest_Path_-_geograph.org.uk_-_392850.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Forest_Path_-_geograph.org.uk_-_392850.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Forest_Path_-_geograph.org.uk_-_392850.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=12908178",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-02-03 17:50:37",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Forest Path - geograph.org.uk - 392850",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Nikon Coolpix 8700|Images from Geograph Britain and Ireland|Images from Geograph Britain and Ireland needing category review|Information field template with formatting|Forest trails in Wales|United Kingdom photographs taken on 2007-04-01|Images by Liz Dawson",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "52.707500",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-4.012700",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Forest Path Path from Cregennen to Garth-y-Fog",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2007-04-01",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "From <a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/392850\">geograph.org.uk</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/11032\">liz dawson</a>",
+                "source": "commons-desc-page"
+              },
+              "Attribution": {
+                "value": "liz dawson",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "14424857": {
+        "pageid": 14424857,
+        "ns": 6,
+        "title": "File:Ice next path in fog - geograph.org.uk - 1708941.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 99178,
+            "width": 600,
+            "height": 800,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Ice_next_path_in_fog_-_geograph.org.uk_-_1708941.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 768,
+            "thumbheight": 1024,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Ice_next_path_in_fog_-_geograph.org.uk_-_1708941.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1024
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Ice_next_path_in_fog_-_geograph.org.uk_-_1708941.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ice_next_path_in_fog_-_geograph.org.uk_-_1708941.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=14424857",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-03-05 05:15:21",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ice next path in fog - geograph.org.uk - 1708941",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Images from Geograph Britain and Ireland|Information field template with formatting|Kilsyth Hills|Images by Alec MacKinnon",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "56.008190",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-4.037100",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ice next path in fog The rough track along the south edge of the Carron forest, normally rather boggy, was frozen hard and included many little icy spots on this particular day.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2010-02-14",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "From <a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/1708941\">geograph.org.uk</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/28330\">Alec MacKinnon</a>",
+                "source": "commons-desc-page"
+              },
+              "Attribution": {
+                "value": "Alec MacKinnon",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "22197280": {
+        "pageid": 22197280,
+        "ns": 6,
+        "title": "File:BgPN mgla.jpg",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4167819,
+            "width": 2112,
+            "height": 2816,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/BgPN_mgla.jpg/960px-BgPN_mgla.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1024,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/BgPN_mgla.jpg/1920px-BgPN_mgla.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/BgPN_mgla.jpg/960px-BgPN_mgla.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1024,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/BgPN_mgla.jpg/1920px-BgPN_mgla.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/BgPN_mgla.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:BgPN_mgla.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=22197280",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2012-10-19 17:33:56",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "BgPN mgla",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Babia Góra|Taken with Olympus SP-500UZ|Forests in Lesser Poland Voivodeship|Forest paths|Self-published work|Fog in Poland|Photos by User:Andrzej O|Poland photographs taken on 2012-08-26",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Babia Góra National Park - forest between the Sokolica and Krowiarki pass",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 26 August 2012, 16:15:14",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Andrzej_O\" title=\"User:Andrzej O\">Andrzej Otrębski</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "31443048": {
+        "pageid": 31443048,
+        "ns": 6,
+        "title": "File:Fog in Riis Skov.JPG",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 936460,
+            "width": 2048,
+            "height": 1536,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Fog_in_Riis_Skov.JPG/960px-Fog_in_Riis_Skov.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Fog_in_Riis_Skov.JPG/1920px-Fog_in_Riis_Skov.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Fog_in_Riis_Skov.JPG/960px-Fog_in_Riis_Skov.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Fog_in_Riis_Skov.JPG/1920px-Fog_in_Riis_Skov.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Fog_in_Riis_Skov.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Fog_in_Riis_Skov.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=31443048",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-03-04 13:55:08",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Fog in Riis Skov",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Riis Skov|Self-published work|Fog in Denmark|February 2014 Denmark photographs|Forest paths in Denmark",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "From Riis Skov. A cold foggy winters day.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-03-01 16:59:45",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:RhinoMind\" title=\"User:RhinoMind\">RhinoMind</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "39953552": {
+        "pageid": 39953552,
+        "ns": 6,
+        "title": "File:Gory Sowie 04.jpg",
+        "index": 13,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4209307,
+            "width": 3648,
+            "height": 2736,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Gory_Sowie_04.jpg/960px-Gory_Sowie_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Gory_Sowie_04.jpg/1920px-Gory_Sowie_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Gory_Sowie_04.jpg/960px-Gory_Sowie_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Gory_Sowie_04.jpg/1920px-Gory_Sowie_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Gory_Sowie_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gory_Sowie_04.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=39953552",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-05-03 21:36:55",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Gory Sowie 04",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Góry Sowie|Forests in Lower Silesian Voivodeship|Forest paths|Forest roads in Poland|Self-published work|Fog in Poland|Snowy roads in Poland|Photos by User:Andrzej O|Poland photographs taken on 2015-04-08|April 2015 in Lower Silesian Voivodeship",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Góry Sowie - hiking trail between Walim and the Mała Sowa",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 8 April 2015, 13:58:27",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Andrzej_O\" title=\"User:Andrzej O\">Andrzej Otrębski</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "44207902": {
+        "pageid": 44207902,
+        "ns": 6,
+        "title": "File:Dülmen, Wildpark -- 2015 -- 8798.jpg",
+        "index": 15,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9934413,
+            "width": 5069,
+            "height": 3379,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/D%C3%BClmen%2C_Wildpark_--_2015_--_8798.jpg/960px-D%C3%BClmen%2C_Wildpark_--_2015_--_8798.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 512,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/D%C3%BClmen%2C_Wildpark_--_2015_--_8798.jpg/1920px-D%C3%BClmen%2C_Wildpark_--_2015_--_8798.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/D%C3%BClmen%2C_Wildpark_--_2015_--_8798.jpg/960px-D%C3%BClmen%2C_Wildpark_--_2015_--_8798.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 512,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/D%C3%BClmen%2C_Wildpark_--_2015_--_8798.jpg/1920px-D%C3%BClmen%2C_Wildpark_--_2015_--_8798.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/D%C3%BClmen%2C_Wildpark_--_2015_--_8798.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Wildpark_--_2015_--_8798.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=44207902",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-04-10 08:20:17",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Dülmen, Wildpark -- 2015 -- 8798",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS 70D|Wildpark (Dülmen)|Photographs with aspect ratio of 3:2|Taken with Canon EF-S 15-85mm F3.5-5.6 IS USM|ISO speed rating 100|Uploaded with VicuñaUploader|Self-published work|Photographs by Dietmar Rabich/Long exposure|F-number f/7.1|Photographs by Dietmar Rabich/Dülmen|Photographs by Dietmar Rabich/Quality images|Information field template with formatting|Photographs by Dietmar Rabich/Quality images of trees|Buildings with addresses|Lens focal length 40 mm|Exposure time 1.3 sec|Changes of XRay's photographs of the recent weeks|Images by XRay (flat list)|Photographs by Dietmar Rabich/Quality images of gardens and parks|Protected areas with known WDPA-ID|Fog in Dülmen|Trees in autumn 2015 in North Rhine-Westphalia|Fog in October|Dülmen photographs taken on 2015-10-04|Autumn 2015 in Dülmen|Dawn in Kreis Coesfeld|Long exposure photography of landscapes|Photographs by Dietmar Rabich/Landscape photography|Autumn landscapes in North Rhine-Westphalia|Trees in North Rhine-Westphalia in October 2015|Trees in Dülmen-Mitte|Long exposure photographs of Dülmen|Landscapes of Dülmen-Mitte|Photographs by Dietmar Rabich/Quality images of North Rhine-Westphalia|Landscapes of Germany in fog|Photographs by Dietmar Rabich/Quality images of natural phenomena|Photographs by Dietmar Rabich/Year/2015|Trees in autumn in Dülmen|Trees at dawn|Sky at twilight in Germany|Photographs by Dietmar Rabich/Available light photography/Twilight",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "51.830222",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "7.254611",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Wildpark in morning fog, <a href=\"https://en.wikipedia.org/wiki/D%C3%BClmen\" class=\"extiw\" title=\"en:Dülmen\">Dülmen</a>, <a href=\"https://en.wikipedia.org/wiki/North_Rhine-Westphalia\" class=\"extiw\" title=\"en:North Rhine-Westphalia\">North Rhine-Westphalia</a>, Germany<br><small>The wildlife park was designed in 1864 by English landscape architect Edward Milner as the “Amended Plan of Park Dülmen Westphalia” and laid out in 1868 by Charles Barnard, a gardener who also came from <a href=\"https://en.wikipedia.org/wiki/England\" class=\"extiw\" title=\"en:England\">England</a>. It is a classic landscape park with extensive meadows and a system of circular paths, which is also used for forestry. The park features the Herzteich pond with a small island, the moat of the former Schultenhof Hinderkinck farm, and a forester’s lodge near the moat. At the end of the 19th century, among other things, the park was expanded through the acquisition of additional properties. With the construction of the <a href=\"https://en.wikipedia.org/wiki/Bundesautobahn_43\" class=\"extiw\" title=\"en:Bundesautobahn 43\">Bundesautobahn 43</a> in the 1970s, it was reduced in size by approximately 250 hectares.</small>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 4 October 2015, 07:26",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q34788025\" class=\"extiw\" title=\"d:Q34788025\"><span title=\"German photographer and mathematician\">Dietmar Rabich</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"layouttemplate navigation-not-searchable\" style=\"margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;border:1px solid var(--background-color-disabled,#eeeeee)\" data-nosnippet=\"\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/40px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"14\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1000\" data-file-height=\"600\"></span></span>\n</td>\n<td>Dieser Text und viele andere auch sind ebenso in deutscher Sprache verfügbar. Um diese sehen zu können, wähle bitte auf dieser Webseite die Spracheinstellung „Deutsch“.\n</td></tr></tbody></table><div style=\"clear:both;border:1px solid var(--background-color-disabled,#eeeeee);margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;font-size:90%;\" class=\"searchaux\" data-nosnippet=\"\">\n<figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:HSSection_sign.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/120px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/250px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"156\" data-file-height=\"156\"></a><figcaption></figcaption></figure><figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Cc_by-sa_(1).svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/120px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"35\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/250px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"120\" data-file-height=\"42\"></a><figcaption></figcaption></figure><div><b>I. Licence</b></div>\n<div style=\"margin-top:0.5em;\">This photograph is protected by copyright law. However, it may be used for free by anyone, provided it is used in accordance with the license <b>Creative Commons License <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed\">“Attribution-ShareAlike 4.0 International”</a></b> (CC BY-SA 4.0). These include, among other things, the naming of the author and the license, as well as the setting of a link to the license text or its complete imprint. The attribution should be done as follows:</div>\n<div style=\"margin-top:0.5em; text-align:center;\"><i><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a> / <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a> / <span class=\"plainlinks noprint\"><a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/File:D%C3%BClmen,_Wildpark_--_2015_--_8798.jpg\" href=\"https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Wildpark_--_2015_--_8798.jpg\">“Dülmen, Wildpark -- 2015 -- 8798”</a></span> / <span class=\"plainlinks noprint\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a></span></i></div>\n<div style=\"margin-top:0.5em;\">Please read the text of the license carefully before using the photograph. If you do not agree with the conditions of the license or if you do not understand these conditions, please refrain from using the photo. If you have any questions regarding the license or the reuse of the image, please contact me before using it. If you do not comply with the terms of the license, you do not acquire any right to use the image. If you need another license to use, please contact the author <b>before</b> using.</div>\n<div style=\"margin-top:0.5em;\">For informations about the licence see section <a class=\"mw-selflink-fragment\" href=\"#ImgLic\">Licensing</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">human-readable summary</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">full licence text</a> at Creative Commons. In addition to the above, a link to the source - so this page with the descriptions and license terms - is appreciated. More information or examples of use can be found at <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">re-use (with example file)</a>. The <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Wildpark_--_2015_--_8798.jpg\">Attribution Generator</a> is helpful in licensing matters.</div>\n<div style=\"margin:0.5em auto 1em;text-align:center;\" class=\"plainlinks\"><span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Wildpark_--_2015_--_8798.jpg\"><span class=\"submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-secondary ui-button-blue\" role=\"button\"><span class=\"ui-button-text\">Generate License <b>Attribution</b></span><span class=\"ui-button-icon-secondary ui-icon ui-icon-extlink\"> </span></span></a></span></div>\n<div style=\"margin-top:0.5em;\">As an alternative to the Creative Commons License <i>CC BY-SA 4.0</i>, the <i><a href=\"https://en.wikipedia.org/wiki/Free_Art_License\" class=\"extiw\" title=\"en:Free Art License\">Free Art License</a></i> (<a rel=\"nofollow\" class=\"external text\" href=\"http://artlibre.org/licence/lal/en/\">from version 1.3</a>) may also be used.</div>\n<div style=\"margin-top:0.75em;\"><b>II. Fairness</b></div>\n<div style=\"margin-top:0.5em;\">From printed materials and other tangible products that use that work, the user is asked to send a copy to the author as thank you. However, this is not a condition for the use of the photo, but a voluntary service. The mailing address can be requested via the contact options.</div>\n<div style=\"margin-top:0.5em;\">Please note that the author had quite considerable effort to draw up this file. Thus, it is only fair to comply with the conditions of <a href=\"https://en.wikipedia.org/wiki/Free_license\" class=\"extiw\" title=\"en:Free license\">free licenses</a> listed here. In the case of violation of the license conditions, the rights granted hereunder will expire automatically.</div>\n<div style=\"margin-top:0.75em; clear: both;\"><b>III. Disclaimer</b></div>\n<div style=\"margin-top:0.5em;\">Please note that the rights granted under the license apply exclusively to the photograph itself, but not to the rights of third parties — such as copyrights or property rights in the object depicted or the personal rights of any individuals who may be depicted. (See <a href=\"//commons.wikimedia.org/wiki/Commons:L\" class=\"mw-redirect\" title=\"Commons:L\">licences</a> and <a href=\"//commons.wikimedia.org/wiki/Commons:SOSUMI\" class=\"mw-redirect\" title=\"Commons:SOSUMI\">non-copyright restrictions</a>.) I do not grant any warranty that the subsequent use of the photograph is legally possible concerning the object or person shown in the photograph. You are responsible to check and respect these rights in the publication in the respective medium or country.</div>\n<div style=\"margin-top:0.5em;\">The author is not responsible for the accuracy of the information contained herein (description, title, etc.). Likewise, the author assumes no liability for further use. Please note the <a href=\"//commons.wikimedia.org/wiki/Commons:General_disclaimer\" title=\"Commons:General disclaimer\">general disclaimer</a> and please read <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">reusing content outside Wikimedia</a> too.</div>\n<div style=\"margin-top:0.75em;\"><b>IV. Contact</b></div>\n<div style=\"margin-top:0.5em;\"><b><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:UserIconMail.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/40px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/60px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"700\" data-file-height=\"700\"></a></span> <a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/XRay\" title=\"Special:EmailUser/XRay\">E-mail to the author</a></b> or the <a href=\"//commons.wikimedia.org/wiki/User_talk:XRay\" title=\"User talk:XRay\">author's talk page</a> <small>or the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.rabich.de/\">author's website</a></small></div></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<b><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a></b>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "76406512": {
+        "pageid": 76406512,
+        "ns": 6,
+        "title": "File:Loch Lubnaig from the path to Ben Ledi, Scotland.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 62069950,
+            "width": 20997,
+            "height": 5039,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Loch_Lubnaig_from_the_path_to_Ben_Ledi%2C_Scotland.jpg/960px-Loch_Lubnaig_from_the_path_to_Ben_Ledi%2C_Scotland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 184,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Loch_Lubnaig_from_the_path_to_Ben_Ledi%2C_Scotland.jpg/1920px-Loch_Lubnaig_from_the_path_to_Ben_Ledi%2C_Scotland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Loch_Lubnaig_from_the_path_to_Ben_Ledi%2C_Scotland.jpg/960px-Loch_Lubnaig_from_the_path_to_Ben_Ledi%2C_Scotland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 184,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Loch_Lubnaig_from_the_path_to_Ben_Ledi%2C_Scotland.jpg/1920px-Loch_Lubnaig_from_the_path_to_Ben_Ledi%2C_Scotland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Loch_Lubnaig_from_the_path_to_Ben_Ledi%2C_Scotland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Loch_Lubnaig_from_the_path_to_Ben_Ledi,_Scotland.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=76406512",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-02-10 20:34:53",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Loch Lubnaig from the path to Ben Ledi, Scotland",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Ben Ledi|Featured pictures of Scotland|Loch Lubnaig|Forests in Scotland|Self-published work|Supported by Wikimedia Deutschland|Images with extracted images|Large images|Featured pictures by User:Podzemnik|Images by User:Podzemnik|Featured pictures on Wikipedia, Persian|Winter in Scotland|Blue sky in the United Kingdom|Files with coordinates missing SDC location of creation|United Kingdom photographs taken on 2018-12-23|Featured pictures of Scotland by User:Podzemnik|Images of Scotland by User:Podzemnik|Panoramas by User:Podzemnik|Fog in Scotland|Images by User:Podzemnik (supported by Wikimedia Germany)|Featured panoramas by User:Podzemnik",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "featured|potd",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "56.274243",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-4.286638",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/Loch_Lubnaig\" class=\"extiw\" title=\"en:Loch Lubnaig\">Loch Lubnaig</a> from the path to <a href=\"https://en.wikipedia.org/wiki/Ben_Ledi\" class=\"extiw\" title=\"en:Ben Ledi\">Ben Ledi</a>, Scotland",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-12-23 11:07:39",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Podzemnik\" title=\"User:Podzemnik\">Michal Klajban</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "79552594": {
+        "pageid": 79552594,
+        "ns": 6,
+        "title": "File:Loch Lubnaig from the path to Ben Ledi, Scotland (cropped) P-SCO Panorama.jpg",
+        "index": 14,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 180688,
+            "width": 2048,
+            "height": 293,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Loch_Lubnaig_from_the_path_to_Ben_Ledi%2C_Scotland_%28cropped%29_P-SCO_Panorama.jpg/960px-Loch_Lubnaig_from_the_path_to_Ben_Ledi%2C_Scotland_%28cropped%29_P-SCO_Panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 110,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Loch_Lubnaig_from_the_path_to_Ben_Ledi%2C_Scotland_%28cropped%29_P-SCO_Panorama.jpg/1920px-Loch_Lubnaig_from_the_path_to_Ben_Ledi%2C_Scotland_%28cropped%29_P-SCO_Panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Loch_Lubnaig_from_the_path_to_Ben_Ledi%2C_Scotland_%28cropped%29_P-SCO_Panorama.jpg/960px-Loch_Lubnaig_from_the_path_to_Ben_Ledi%2C_Scotland_%28cropped%29_P-SCO_Panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 110,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Loch_Lubnaig_from_the_path_to_Ben_Ledi%2C_Scotland_%28cropped%29_P-SCO_Panorama.jpg/1920px-Loch_Lubnaig_from_the_path_to_Ben_Ledi%2C_Scotland_%28cropped%29_P-SCO_Panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Loch_Lubnaig_from_the_path_to_Ben_Ledi%2C_Scotland_%28cropped%29_P-SCO_Panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Loch_Lubnaig_from_the_path_to_Ben_Ledi,_Scotland_(cropped)_P-SCO_Panorama.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=79552594",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-06-09 20:03:23",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Loch Lubnaig from the path to Ben Ledi, Scotland (cropped) P-SCO Panorama",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Ben Ledi|Loch Lubnaig|Forests in Scotland|Self-published work|Supported by Wikimedia Deutschland|Extracted images|Images by User:Podzemnik|Winter in Scotland|Blue sky in the United Kingdom|Files with coordinates missing SDC location of creation|United Kingdom photographs taken on 2018-12-23|Images of Scotland by User:Podzemnik|Panoramas by User:Podzemnik|Fog in Scotland|Images by User:Podzemnik (supported by Wikimedia Germany)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "56.274243",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-4.286638",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/Loch_Lubnaig\" class=\"extiw\" title=\"en:Loch Lubnaig\">Loch Lubnaig</a> from the path to <a href=\"https://en.wikipedia.org/wiki/Ben_Ledi\" class=\"extiw\" title=\"en:Ben Ledi\">Ben Ledi</a>, Scotland",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-12-23 11:07:39",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Podzemnik\" title=\"User:Podzemnik\">Michal Klajban</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "86269412": {
+        "pageid": 86269412,
+        "ns": 6,
+        "title": "File:Sihlwald fog sun 20200122.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 14654055,
+            "width": 4266,
+            "height": 3521,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Sihlwald_fog_sun_20200122.jpg/960px-Sihlwald_fog_sun_20200122.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 634,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Sihlwald_fog_sun_20200122.jpg/1920px-Sihlwald_fog_sun_20200122.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Sihlwald_fog_sun_20200122.jpg/960px-Sihlwald_fog_sun_20200122.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 634,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Sihlwald_fog_sun_20200122.jpg/1920px-Sihlwald_fog_sun_20200122.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Sihlwald_fog_sun_20200122.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sihlwald_fog_sun_20200122.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=86269412",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-01-24 16:03:17",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Sihlwald fog sun 20200122",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Albis|Tone-mapped HDR images|Sihlwald|Self-published work|January 2020 Switzerland photographs|Crepuscular rays in Switzerland|Files with coordinates missing SDC location of creation|Crepuscular rays in forests in Switzerland|Files by Domob in Switzerland",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "47.262531",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "8.534103",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Rays of sunlight on a foggy morning in Sihlwald on the path leading to Schnabelburg.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2020-01-22 09:44:22",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Domob\" title=\"User:Domob\">Daniel Kraft</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "105559331": {
+        "pageid": 105559331,
+        "ns": 6,
+        "title": "File:Dülmen, Rorup, NSG Roruper Holz -- 2021 -- 8194.jpg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 21691144,
+            "width": 6720,
+            "height": 4480,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/D%C3%BClmen%2C_Rorup%2C_NSG_Roruper_Holz_--_2021_--_8194.jpg/960px-D%C3%BClmen%2C_Rorup%2C_NSG_Roruper_Holz_--_2021_--_8194.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 512,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/D%C3%BClmen%2C_Rorup%2C_NSG_Roruper_Holz_--_2021_--_8194.jpg/1920px-D%C3%BClmen%2C_Rorup%2C_NSG_Roruper_Holz_--_2021_--_8194.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/D%C3%BClmen%2C_Rorup%2C_NSG_Roruper_Holz_--_2021_--_8194.jpg/960px-D%C3%BClmen%2C_Rorup%2C_NSG_Roruper_Holz_--_2021_--_8194.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 512,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/D%C3%BClmen%2C_Rorup%2C_NSG_Roruper_Holz_--_2021_--_8194.jpg/1920px-D%C3%BClmen%2C_Rorup%2C_NSG_Roruper_Holz_--_2021_--_8194.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/D%C3%BClmen%2C_Rorup%2C_NSG_Roruper_Holz_--_2021_--_8194.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Rorup,_NSG_Roruper_Holz_--_2021_--_8194.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=105559331",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-05-20 11:43:13",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Dülmen, Rorup, NSG Roruper Holz -- 2021 -- 8194",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Images from Wiki Loves Earth 2021 in Germany|Photographs with aspect ratio of 3:2|ISO speed rating 100|Naturschutzgebiet Roruper Holz|Self-published work|Photographs by Dietmar Rabich/Dülmen|Photographs by Dietmar Rabich/Quality images|Information field template with formatting|Photographs by Dietmar Rabich/Quality images of trees|Images from Wiki Loves Earth 2021, DE landscape|Hiking in Kreis Coesfeld|Hiking trails in Kreis Coesfeld|Exposure time 2/5 sec|Forest trails in Kreis Coesfeld|Images by XRay (flat list)|Protected areas with known WDPA-ID|Uploaded with LrMediaWiki|Lens focal length 78 mm|Fog in Dülmen|Photographs by Dietmar Rabich/Medium exposure|F-number f/13|Fog in May|Trees in Rorup|Images from Wiki Loves Earth 2021|Dülmen photographs taken on 2021-05-20|Ground paths|Forests in North Rhine-Westphalia in May 2021|Misty mornings in North Rhine-Westphalia|Forests in North Rhine-Westphalia in spring 2021|Trees in North Rhine-Westphalia in May 2021|Trees in spring 2021 in Dülmen|Forests in fog in Germany|Photographs by Dietmar Rabich/Quality images of nature reserves|Photographs by Dietmar Rabich/Quality images of North Rhine-Westphalia|Photographs by Dietmar Rabich/Quality images of forests|Photographs by Dietmar Rabich/Quality images of natural phenomena|Photographs by Dietmar Rabich/Quality images of paths|Photographs by Dietmar Rabich/Quality images from Wiki Loves Earth|Taken with Canon EOS 5D Mark IV and Canon EF 24-105mm F4L IS II USM|Photographs by Dietmar Rabich/Year/2021|Images from Wiki Loves Earth 2021, DE-NW|Photographs by Dietmar Rabich/Wiki Loves Earth/2021",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "51.916306",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "7.231611",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/Nature_reserve\" class=\"extiw\" title=\"en:Nature reserve\">Nature reserve</a> “Roruper Holz” (COE-045) in the Hanrorup hamlet near Rorup, <a href=\"https://en.wikipedia.org/wiki/D%C3%BClmen\" class=\"extiw\" title=\"en:Dülmen\">Dülmen</a>, <a href=\"https://en.wikipedia.org/wiki/North_Rhine-Westphalia\" class=\"extiw\" title=\"en:North Rhine-Westphalia\">North Rhine-Westphalia</a>, Germany<br><small>The Roruper Holz nature reserve is located in the Rorup district of the town of Dülmen in the <a href=\"https://en.wikipedia.org/wiki/M%C3%BCnster_(region)\" class=\"extiw\" title=\"en:Münster (region)\">Münsterland</a> region. It is a near-natural forest area with old trees, wetlands, and structurally rich forest edges.<br>Typical features include oak and beech trees, as well as small streams and pools that provide habitats for amphibians, insects, and numerous bird species. Deadwood areas promote biodiversity and are particularly valuable from an ecological perspective.</small>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 20 May 2021, 07:27",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q34788025\" class=\"extiw\" title=\"d:Q34788025\"><span title=\"German photographer and mathematician\">Dietmar Rabich</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"layouttemplate navigation-not-searchable\" style=\"margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;border:1px solid var(--background-color-disabled,#eeeeee)\" data-nosnippet=\"\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/40px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"14\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1000\" data-file-height=\"600\"></span></span>\n</td>\n<td>Dieser Text und viele andere auch sind ebenso in deutscher Sprache verfügbar. Um diese sehen zu können, wähle bitte auf dieser Webseite die Spracheinstellung „Deutsch“.\n</td></tr></tbody></table><div style=\"clear:both;border:1px solid var(--background-color-disabled,#eeeeee);margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;font-size:90%;\" class=\"searchaux\" data-nosnippet=\"\">\n<figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:HSSection_sign.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/120px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/250px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"156\" data-file-height=\"156\"></a><figcaption></figcaption></figure><figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Cc_by-sa_(1).svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/120px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"35\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/250px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"120\" data-file-height=\"42\"></a><figcaption></figcaption></figure><div><b>I. Licence</b></div>\n<div style=\"margin-top:0.5em;\">This photograph is protected by copyright law. However, it may be used for free by anyone, provided it is used in accordance with the license <b>Creative Commons License <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed\">“Attribution-ShareAlike 4.0 International”</a></b> (CC BY-SA 4.0). These include, among other things, the naming of the author and the license, as well as the setting of a link to the license text or its complete imprint. The attribution should be done as follows:</div>\n<div style=\"margin-top:0.5em; text-align:center;\"><i><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a> / <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a> / <span class=\"plainlinks noprint\"><a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/File:D%C3%BClmen,_Rorup,_NSG_Roruper_Holz_--_2021_--_8194.jpg\" href=\"https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Rorup,_NSG_Roruper_Holz_--_2021_--_8194.jpg\">“Dülmen, Rorup, NSG Roruper Holz -- 2021 -- 8194”</a></span> / <span class=\"plainlinks noprint\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a></span></i></div>\n<div style=\"margin-top:0.5em;\">Please read the text of the license carefully before using the photograph. If you do not agree with the conditions of the license or if you do not understand these conditions, please refrain from using the photo. If you have any questions regarding the license or the reuse of the image, please contact me before using it. If you do not comply with the terms of the license, you do not acquire any right to use the image. If you need another license to use, please contact the author <b>before</b> using.</div>\n<div style=\"margin-top:0.5em;\">For informations about the licence see section <a class=\"mw-selflink-fragment\" href=\"#ImgLic\">Licensing</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">human-readable summary</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">full licence text</a> at Creative Commons. In addition to the above, a link to the source - so this page with the descriptions and license terms - is appreciated. More information or examples of use can be found at <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">re-use (with example file)</a>. The <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Rorup,_NSG_Roruper_Holz_--_2021_--_8194.jpg\">Attribution Generator</a> is helpful in licensing matters.</div>\n<div style=\"margin:0.5em auto 1em;text-align:center;\" class=\"plainlinks\"><span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Rorup,_NSG_Roruper_Holz_--_2021_--_8194.jpg\"><span class=\"submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-secondary ui-button-blue\" role=\"button\"><span class=\"ui-button-text\">Generate License <b>Attribution</b></span><span class=\"ui-button-icon-secondary ui-icon ui-icon-extlink\"> </span></span></a></span></div>\n<div style=\"margin-top:0.5em;\">As an alternative to the Creative Commons License <i>CC BY-SA 4.0</i>, the <i><a href=\"https://en.wikipedia.org/wiki/Free_Art_License\" class=\"extiw\" title=\"en:Free Art License\">Free Art License</a></i> (<a rel=\"nofollow\" class=\"external text\" href=\"http://artlibre.org/licence/lal/en/\">from version 1.3</a>) may also be used.</div>\n<div style=\"margin-top:0.75em;\"><b>II. Fairness</b></div>\n<div style=\"margin-top:0.5em;\">From printed materials and other tangible products that use that work, the user is asked to send a copy to the author as thank you. However, this is not a condition for the use of the photo, but a voluntary service. The mailing address can be requested via the contact options.</div>\n<div style=\"margin-top:0.5em;\">Please note that the author had quite considerable effort to draw up this file. Thus, it is only fair to comply with the conditions of <a href=\"https://en.wikipedia.org/wiki/Free_license\" class=\"extiw\" title=\"en:Free license\">free licenses</a> listed here. In the case of violation of the license conditions, the rights granted hereunder will expire automatically.</div>\n<div style=\"margin-top:0.75em; clear: both;\"><b>III. Disclaimer</b></div>\n<div style=\"margin-top:0.5em;\">Please note that the rights granted under the license apply exclusively to the photograph itself, but not to the rights of third parties — such as copyrights or property rights in the object depicted or the personal rights of any individuals who may be depicted. (See <a href=\"//commons.wikimedia.org/wiki/Commons:L\" class=\"mw-redirect\" title=\"Commons:L\">licences</a> and <a href=\"//commons.wikimedia.org/wiki/Commons:SOSUMI\" class=\"mw-redirect\" title=\"Commons:SOSUMI\">non-copyright restrictions</a>.) I do not grant any warranty that the subsequent use of the photograph is legally possible concerning the object or person shown in the photograph. You are responsible to check and respect these rights in the publication in the respective medium or country.</div>\n<div style=\"margin-top:0.5em;\">The author is not responsible for the accuracy of the information contained herein (description, title, etc.). Likewise, the author assumes no liability for further use. Please note the <a href=\"//commons.wikimedia.org/wiki/Commons:General_disclaimer\" title=\"Commons:General disclaimer\">general disclaimer</a> and please read <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">reusing content outside Wikimedia</a> too.</div>\n<div style=\"margin-top:0.75em;\"><b>IV. Contact</b></div>\n<div style=\"margin-top:0.5em;\"><b><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:UserIconMail.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/40px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/60px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"700\" data-file-height=\"700\"></a></span> <a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/XRay\" title=\"Special:EmailUser/XRay\">E-mail to the author</a></b> or the <a href=\"//commons.wikimedia.org/wiki/User_talk:XRay\" title=\"User talk:XRay\">author's talk page</a> <small>or the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.rabich.de/\">author's website</a></small></div></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<b><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a></b>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "113100961": {
+        "pageid": 113100961,
+        "ns": 6,
+        "title": "File:Leafs in the winter fog - Flickr - Gael Varoquaux.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8312096,
+            "width": 5488,
+            "height": 3087,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Leafs_in_the_winter_fog_-_Flickr_-_Gael_Varoquaux.jpg/960px-Leafs_in_the_winter_fog_-_Flickr_-_Gael_Varoquaux.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 432,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Leafs_in_the_winter_fog_-_Flickr_-_Gael_Varoquaux.jpg/1920px-Leafs_in_the_winter_fog_-_Flickr_-_Gael_Varoquaux.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Leafs_in_the_winter_fog_-_Flickr_-_Gael_Varoquaux.jpg/960px-Leafs_in_the_winter_fog_-_Flickr_-_Gael_Varoquaux.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 432,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Leafs_in_the_winter_fog_-_Flickr_-_Gael_Varoquaux.jpg/1920px-Leafs_in_the_winter_fog_-_Flickr_-_Gael_Varoquaux.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Leafs_in_the_winter_fog_-_Flickr_-_Gael_Varoquaux.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Leafs_in_the_winter_fog_-_Flickr_-_Gael_Varoquaux.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=113100961",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-12-06 01:54:17",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Leafs in the winter fog - Flickr - Gael Varoquaux",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Fog|Flickr images reviewed by FlickreviewR 2|Photographs taken on 2020-12-16|Flickr files uploaded by Red panda bot|Photos in Flickr Explore|Files with coordinates missing SDC location of creation (48° N, 2° E)|Unidentified Fagus|Photographs by Gael Varoquaux",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "48.757832",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "2.257984",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<p>One foggy morning, in the \"bois de Verrière\". Seeing that there was thick fog, I went up to take pictures of the woods (fog is great for that).\n</p><p>The elements of the composition are the following: tree trunks form horizontal lines on top of which the branch and leaves contrast by their shape, diagonal direction and non-linearity of the leafs. The colors also contrast, of course, with the red of the leaves contrasting with the blue of the fog. In addition, the light at the center of the picture, with the gap in the trees and the lighter fog, contrasts with the darker, less saturated, and more crowded sides.\n</p><p>The composition ideas to have in mind are that of contrast: the branch is interesting only because it creates a rupture with the monotony of the nearly-vertical trunks; the center appears as light only because the sides are dark.\n</p><p>To create this photo, I found the branch with remaining leafs, of course. But I also choose a spot where there was a gap in the trees (due to a path) and used it to create the less crowded background for the trees.\n</p>\nIn terms of post-processing, I used the darktable software to enhace the effects that I was interested in. I made the sides darker and less contrasted. I made the branch more red. I made the fog light in the center. I enhanced the colors, blue and red. My tools where: split-toning for the color, a bit of contrast equalizer (in clarity preset) at the center to add contrast, a few tone curves to set the darkness of trees and background, a bloom filter to create more light, and color correction on the leaves, with a combination of manually-drawn mask and parametric mask (selecting on value) to select the leaves.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 16 December 2020, 11:08",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/gaelvaroquaux/51720746630/\">Leafs in the winter fog</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/66885349@N03\">Gael Varoquaux</a> from Paris, France",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "113536296": {
+        "pageid": 113536296,
+        "ns": 6,
+        "title": "File:Dülmen, Kirchspiel, Neusträßer Bruch -- 2021 -- 9364.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 24500913,
+            "width": 5843,
+            "height": 4382,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/D%C3%BClmen%2C_Kirchspiel%2C_Neustr%C3%A4%C3%9Fer_Bruch_--_2021_--_9364.jpg/960px-D%C3%BClmen%2C_Kirchspiel%2C_Neustr%C3%A4%C3%9Fer_Bruch_--_2021_--_9364.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/D%C3%BClmen%2C_Kirchspiel%2C_Neustr%C3%A4%C3%9Fer_Bruch_--_2021_--_9364.jpg/1920px-D%C3%BClmen%2C_Kirchspiel%2C_Neustr%C3%A4%C3%9Fer_Bruch_--_2021_--_9364.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/D%C3%BClmen%2C_Kirchspiel%2C_Neustr%C3%A4%C3%9Fer_Bruch_--_2021_--_9364.jpg/960px-D%C3%BClmen%2C_Kirchspiel%2C_Neustr%C3%A4%C3%9Fer_Bruch_--_2021_--_9364.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/D%C3%BClmen%2C_Kirchspiel%2C_Neustr%C3%A4%C3%9Fer_Bruch_--_2021_--_9364.jpg/1920px-D%C3%BClmen%2C_Kirchspiel%2C_Neustr%C3%A4%C3%9Fer_Bruch_--_2021_--_9364.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/D%C3%BClmen%2C_Kirchspiel%2C_Neustr%C3%A4%C3%9Fer_Bruch_--_2021_--_9364.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Kirchspiel,_Neustr%C3%A4%C3%9Fer_Bruch_--_2021_--_9364.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=113536296",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-12-24 06:41:44",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Dülmen, Kirchspiel, Neusträßer Bruch -- 2021 -- 9364",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Tree tunnels in Germany|Taken with Canon EOS 5D Mark IV|Taken with Sigma 20mm F1.4 DG HSM Art|ISO speed rating 400|Photographs with aspect ratio of 4:3|One-point perspective|Neusträßer Bruch|Perspective views of streets in Germany|Self-published work|Photographs by Dietmar Rabich/Quality images of roads and streets|Photographs by Dietmar Rabich/Long exposure|Photographs by Dietmar Rabich/Symmetry impressions|Photographs by Dietmar Rabich/Dülmen|Photographs by Dietmar Rabich/Quality images|Information field template with formatting|F-number f/8|Photographs by Dietmar Rabich/Quality images of trees|Centered tunnel perspective|Forests in Dülmen|Lens focal length 20 mm|Exposure time 30 sec|Changes of XRay's photographs of the recent weeks|Images by XRay (flat list)|Protected areas with known WDPA-ID|Uploaded with LrMediaWiki|Fog in Dülmen|Frost on trees in North Rhine-Westphalia|Streets in North Rhine-Westphalia at night|Fog in December|Autumn 2021 in Dülmen|Trees in autumn 2021 in North Rhine-Westphalia|Bare trees in Kirchspiel (Dülmen)|Trees in North Rhine-Westphalia at night|Dülmen photographs taken on 2021-12-21|Forests in North Rhine-Westphalia in December 2021|Vertical symmetry impressions|Fog at night|Photographs by Dietmar Rabich/Architectural photography|Photographs by Dietmar Rabich/Tree photography|Symmetry impressions of transport infrastructure|Forest roads in Kirchspiel (Dülmen)|Straight roads in North Rhine-Westphalia|Forests in North Rhine-Westphalia in autumn 2021|Trees in North Rhine-Westphalia in December 2021|Quality night photography in Dülmen|Long exposure photographs of Dülmen|Photographs by Dietmar Rabich/Available light photography/Night|Photographs by Dietmar Rabich/Quality images of North Rhine-Westphalia|Photographs by Dietmar Rabich/Quality images of forests|Streets in fog|Forests at night|Photographs by Dietmar Rabich/Quality images of natural phenomena|Photographs by Dietmar Rabich/Year/2021|Trees in autumn in Dülmen|Long exposure photography of forests",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "51.819662",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "7.239796",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Forest path in the Börnste hamlet at night, Kirchspiel, <a href=\"https://en.wikipedia.org/wiki/D%C3%BClmen\" class=\"extiw\" title=\"en:Dülmen\">Dülmen</a>, <a href=\"https://en.wikipedia.org/wiki/North_Rhine-Westphalia\" class=\"extiw\" title=\"en:North Rhine-Westphalia\">North Rhine-Westphalia</a>, Germany",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 21 December 2021, 07:46",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q34788025\" class=\"extiw\" title=\"d:Q34788025\"><span title=\"German photographer and mathematician\">Dietmar Rabich</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"layouttemplate navigation-not-searchable\" style=\"margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;border:1px solid var(--background-color-disabled,#eeeeee)\" data-nosnippet=\"\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/40px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"14\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1000\" data-file-height=\"600\"></span></span>\n</td>\n<td>Dieser Text und viele andere auch sind ebenso in deutscher Sprache verfügbar. Um diese sehen zu können, wähle bitte auf dieser Webseite die Spracheinstellung „Deutsch“.\n</td></tr></tbody></table><div style=\"clear:both;border:1px solid var(--background-color-disabled,#eeeeee);margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;font-size:90%;\" class=\"searchaux\" data-nosnippet=\"\">\n<figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:HSSection_sign.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/120px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/250px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"156\" data-file-height=\"156\"></a><figcaption></figcaption></figure><figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Cc_by-sa_(1).svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/120px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"35\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/250px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"120\" data-file-height=\"42\"></a><figcaption></figcaption></figure><div><b>I. Licence</b></div>\n<div style=\"margin-top:0.5em;\">This photograph is protected by copyright law. However, it may be used for free by anyone, provided it is used in accordance with the license <b>Creative Commons License <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed\">“Attribution-ShareAlike 4.0 International”</a></b> (CC BY-SA 4.0). These include, among other things, the naming of the author and the license, as well as the setting of a link to the license text or its complete imprint. The attribution should be done as follows:</div>\n<div style=\"margin-top:0.5em; text-align:center;\"><i><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a> / <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a> / <span class=\"plainlinks noprint\"><a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/File:D%C3%BClmen,_Kirchspiel,_Neustr%C3%A4%C3%9Fer_Bruch_--_2021_--_9364.jpg\" href=\"https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Kirchspiel,_Neustr%C3%A4%C3%9Fer_Bruch_--_2021_--_9364.jpg\">“Dülmen, Kirchspiel, Neusträßer Bruch -- 2021 -- 9364”</a></span> / <span class=\"plainlinks noprint\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a></span></i></div>\n<div style=\"margin-top:0.5em;\">Please read the text of the license carefully before using the photograph. If you do not agree with the conditions of the license or if you do not understand these conditions, please refrain from using the photo. If you have any questions regarding the license or the reuse of the image, please contact me before using it. If you do not comply with the terms of the license, you do not acquire any right to use the image. If you need another license to use, please contact the author <b>before</b> using.</div>\n<div style=\"margin-top:0.5em;\">For informations about the licence see section <a class=\"mw-selflink-fragment\" href=\"#ImgLic\">Licensing</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">human-readable summary</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">full licence text</a> at Creative Commons. In addition to the above, a link to the source - so this page with the descriptions and license terms - is appreciated. More information or examples of use can be found at <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">re-use (with example file)</a>. The <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Kirchspiel,_Neustr%C3%A4%C3%9Fer_Bruch_--_2021_--_9364.jpg\">Attribution Generator</a> is helpful in licensing matters.</div>\n<div style=\"margin:0.5em auto 1em;text-align:center;\" class=\"plainlinks\"><span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Kirchspiel,_Neustr%C3%A4%C3%9Fer_Bruch_--_2021_--_9364.jpg\"><span class=\"submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-secondary ui-button-blue\" role=\"button\"><span class=\"ui-button-text\">Generate License <b>Attribution</b></span><span class=\"ui-button-icon-secondary ui-icon ui-icon-extlink\"> </span></span></a></span></div>\n<div style=\"margin-top:0.5em;\">As an alternative to the Creative Commons License <i>CC BY-SA 4.0</i>, the <i><a href=\"https://en.wikipedia.org/wiki/Free_Art_License\" class=\"extiw\" title=\"en:Free Art License\">Free Art License</a></i> (<a rel=\"nofollow\" class=\"external text\" href=\"http://artlibre.org/licence/lal/en/\">from version 1.3</a>) may also be used.</div>\n<div style=\"margin-top:0.75em;\"><b>II. Fairness</b></div>\n<div style=\"margin-top:0.5em;\">From printed materials and other tangible products that use that work, the user is asked to send a copy to the author as thank you. However, this is not a condition for the use of the photo, but a voluntary service. The mailing address can be requested via the contact options.</div>\n<div style=\"margin-top:0.5em;\">Please note that the author had quite considerable effort to draw up this file. Thus, it is only fair to comply with the conditions of <a href=\"https://en.wikipedia.org/wiki/Free_license\" class=\"extiw\" title=\"en:Free license\">free licenses</a> listed here. In the case of violation of the license conditions, the rights granted hereunder will expire automatically.</div>\n<div style=\"margin-top:0.75em; clear: both;\"><b>III. Disclaimer</b></div>\n<div style=\"margin-top:0.5em;\">Please note that the rights granted under the license apply exclusively to the photograph itself, but not to the rights of third parties — such as copyrights or property rights in the object depicted or the personal rights of any individuals who may be depicted. (See <a href=\"//commons.wikimedia.org/wiki/Commons:L\" class=\"mw-redirect\" title=\"Commons:L\">licences</a> and <a href=\"//commons.wikimedia.org/wiki/Commons:SOSUMI\" class=\"mw-redirect\" title=\"Commons:SOSUMI\">non-copyright restrictions</a>.) I do not grant any warranty that the subsequent use of the photograph is legally possible concerning the object or person shown in the photograph. You are responsible to check and respect these rights in the publication in the respective medium or country.</div>\n<div style=\"margin-top:0.5em;\">The author is not responsible for the accuracy of the information contained herein (description, title, etc.). Likewise, the author assumes no liability for further use. Please note the <a href=\"//commons.wikimedia.org/wiki/Commons:General_disclaimer\" title=\"Commons:General disclaimer\">general disclaimer</a> and please read <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">reusing content outside Wikimedia</a> too.</div>\n<div style=\"margin-top:0.75em;\"><b>IV. Contact</b></div>\n<div style=\"margin-top:0.5em;\"><b><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:UserIconMail.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/40px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/60px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"700\" data-file-height=\"700\"></a></span> <a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/XRay\" title=\"Special:EmailUser/XRay\">E-mail to the author</a></b> or the <a href=\"//commons.wikimedia.org/wiki/User_talk:XRay\" title=\"User talk:XRay\">author's talk page</a> <small>or the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.rabich.de/\">author's website</a></small></div></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<b><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a></b>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "113536313": {
+        "pageid": 113536313,
+        "ns": 6,
+        "title": "File:Dülmen, Kirchspiel, Neusträßer Bruch -- 2021 -- 9371.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 21170282,
+            "width": 6720,
+            "height": 4480,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/D%C3%BClmen%2C_Kirchspiel%2C_Neustr%C3%A4%C3%9Fer_Bruch_--_2021_--_9371.jpg/960px-D%C3%BClmen%2C_Kirchspiel%2C_Neustr%C3%A4%C3%9Fer_Bruch_--_2021_--_9371.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 512,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/D%C3%BClmen%2C_Kirchspiel%2C_Neustr%C3%A4%C3%9Fer_Bruch_--_2021_--_9371.jpg/1920px-D%C3%BClmen%2C_Kirchspiel%2C_Neustr%C3%A4%C3%9Fer_Bruch_--_2021_--_9371.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/D%C3%BClmen%2C_Kirchspiel%2C_Neustr%C3%A4%C3%9Fer_Bruch_--_2021_--_9371.jpg/960px-D%C3%BClmen%2C_Kirchspiel%2C_Neustr%C3%A4%C3%9Fer_Bruch_--_2021_--_9371.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 512,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/D%C3%BClmen%2C_Kirchspiel%2C_Neustr%C3%A4%C3%9Fer_Bruch_--_2021_--_9371.jpg/1920px-D%C3%BClmen%2C_Kirchspiel%2C_Neustr%C3%A4%C3%9Fer_Bruch_--_2021_--_9371.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/D%C3%BClmen%2C_Kirchspiel%2C_Neustr%C3%A4%C3%9Fer_Bruch_--_2021_--_9371.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Kirchspiel,_Neustr%C3%A4%C3%9Fer_Bruch_--_2021_--_9371.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=113536313",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-12-24 06:42:41",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Dülmen, Kirchspiel, Neusträßer Bruch -- 2021 -- 9371",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS 5D Mark IV|Taken with Canon EF 70-300mm F4-5.6 IS II USM|Photographs with aspect ratio of 3:2|ISO speed rating 200|Neusträßer Bruch|Perspective views of streets in Germany|Self-published work|Photographs by Dietmar Rabich/Quality images of roads and streets|Photographs by Dietmar Rabich/Long exposure|Photographs by Dietmar Rabich/Dülmen|Photographs by Dietmar Rabich/Quality images|Information field template with formatting|Photographs by Dietmar Rabich/Quality images of trees|Forests in Dülmen|Exposure time 30 sec|Changes of XRay's photographs of the recent weeks|Images by XRay (flat list)|Protected areas with known WDPA-ID|Uploaded with LrMediaWiki|Hoar frost in North Rhine-Westphalia|Blue hour in Kirchspiel (Dülmen)|Fog in Dülmen|F-number f/13|Frost on trees in North Rhine-Westphalia|Streets in North Rhine-Westphalia at night|Fog in December|Dirt roads in Kirchspiel (Dülmen)|Empty streets in North Rhine-Westphalia|Autumn 2021 in Dülmen|Trees in autumn 2021 in North Rhine-Westphalia|Bare trees in Kirchspiel (Dülmen)|Trees in North Rhine-Westphalia at night|Dülmen photographs taken on 2021-12-21|Forests in North Rhine-Westphalia in December 2021|Fog at night|Photographs by Dietmar Rabich/Tree photography|Straight roads in North Rhine-Westphalia|Forests in North Rhine-Westphalia in autumn 2021|Trees in North Rhine-Westphalia in December 2021|Quality night photography in Dülmen|Long exposure photographs of Dülmen|Rime in North Rhine-Westphalia|Photographs by Dietmar Rabich/Available light photography/Blue hour|Photographs by Dietmar Rabich/Quality images of North Rhine-Westphalia|Photographs by Dietmar Rabich/Quality images of forests|Deciduous forests in autumn|Streets in fog|Forests at night|Lens focal length 111 mm|Photographs by Dietmar Rabich/Quality images of natural phenomena|Photographs by Dietmar Rabich/Year/2021|Trees in autumn in Dülmen|Long exposure photography of forests",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "51.819662",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "7.239796",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Forest path in the Börnste hamlet at the blue hour, Kirchspiel, <a href=\"https://en.wikipedia.org/wiki/D%C3%BClmen\" class=\"extiw\" title=\"en:Dülmen\">Dülmen</a>, <a href=\"https://en.wikipedia.org/wiki/North_Rhine-Westphalia\" class=\"extiw\" title=\"en:North Rhine-Westphalia\">North Rhine-Westphalia</a>, Germany",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 21 December 2021, 08:04",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q34788025\" class=\"extiw\" title=\"d:Q34788025\"><span title=\"German photographer and mathematician\">Dietmar Rabich</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"layouttemplate navigation-not-searchable\" style=\"margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;border:1px solid var(--background-color-disabled,#eeeeee)\" data-nosnippet=\"\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/40px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"14\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1000\" data-file-height=\"600\"></span></span>\n</td>\n<td>Dieser Text und viele andere auch sind ebenso in deutscher Sprache verfügbar. Um diese sehen zu können, wähle bitte auf dieser Webseite die Spracheinstellung „Deutsch“.\n</td></tr></tbody></table><div style=\"clear:both;border:1px solid var(--background-color-disabled,#eeeeee);margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;font-size:90%;\" class=\"searchaux\" data-nosnippet=\"\">\n<figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:HSSection_sign.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/120px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/250px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"156\" data-file-height=\"156\"></a><figcaption></figcaption></figure><figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Cc_by-sa_(1).svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/120px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"35\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/250px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"120\" data-file-height=\"42\"></a><figcaption></figcaption></figure><div><b>I. Licence</b></div>\n<div style=\"margin-top:0.5em;\">This photograph is protected by copyright law. However, it may be used for free by anyone, provided it is used in accordance with the license <b>Creative Commons License <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed\">“Attribution-ShareAlike 4.0 International”</a></b> (CC BY-SA 4.0). These include, among other things, the naming of the author and the license, as well as the setting of a link to the license text or its complete imprint. The attribution should be done as follows:</div>\n<div style=\"margin-top:0.5em; text-align:center;\"><i><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a> / <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a> / <span class=\"plainlinks noprint\"><a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/File:D%C3%BClmen,_Kirchspiel,_Neustr%C3%A4%C3%9Fer_Bruch_--_2021_--_9371.jpg\" href=\"https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Kirchspiel,_Neustr%C3%A4%C3%9Fer_Bruch_--_2021_--_9371.jpg\">“Dülmen, Kirchspiel, Neusträßer Bruch -- 2021 -- 9371”</a></span> / <span class=\"plainlinks noprint\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a></span></i></div>\n<div style=\"margin-top:0.5em;\">Please read the text of the license carefully before using the photograph. If you do not agree with the conditions of the license or if you do not understand these conditions, please refrain from using the photo. If you have any questions regarding the license or the reuse of the image, please contact me before using it. If you do not comply with the terms of the license, you do not acquire any right to use the image. If you need another license to use, please contact the author <b>before</b> using.</div>\n<div style=\"margin-top:0.5em;\">For informations about the licence see section <a class=\"mw-selflink-fragment\" href=\"#ImgLic\">Licensing</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">human-readable summary</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">full licence text</a> at Creative Commons. In addition to the above, a link to the source - so this page with the descriptions and license terms - is appreciated. More information or examples of use can be found at <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">re-use (with example file)</a>. The <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Kirchspiel,_Neustr%C3%A4%C3%9Fer_Bruch_--_2021_--_9371.jpg\">Attribution Generator</a> is helpful in licensing matters.</div>\n<div style=\"margin:0.5em auto 1em;text-align:center;\" class=\"plainlinks\"><span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Kirchspiel,_Neustr%C3%A4%C3%9Fer_Bruch_--_2021_--_9371.jpg\"><span class=\"submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-secondary ui-button-blue\" role=\"button\"><span class=\"ui-button-text\">Generate License <b>Attribution</b></span><span class=\"ui-button-icon-secondary ui-icon ui-icon-extlink\"> </span></span></a></span></div>\n<div style=\"margin-top:0.5em;\">As an alternative to the Creative Commons License <i>CC BY-SA 4.0</i>, the <i><a href=\"https://en.wikipedia.org/wiki/Free_Art_License\" class=\"extiw\" title=\"en:Free Art License\">Free Art License</a></i> (<a rel=\"nofollow\" class=\"external text\" href=\"http://artlibre.org/licence/lal/en/\">from version 1.3</a>) may also be used.</div>\n<div style=\"margin-top:0.75em;\"><b>II. Fairness</b></div>\n<div style=\"margin-top:0.5em;\">From printed materials and other tangible products that use that work, the user is asked to send a copy to the author as thank you. However, this is not a condition for the use of the photo, but a voluntary service. The mailing address can be requested via the contact options.</div>\n<div style=\"margin-top:0.5em;\">Please note that the author had quite considerable effort to draw up this file. Thus, it is only fair to comply with the conditions of <a href=\"https://en.wikipedia.org/wiki/Free_license\" class=\"extiw\" title=\"en:Free license\">free licenses</a> listed here. In the case of violation of the license conditions, the rights granted hereunder will expire automatically.</div>\n<div style=\"margin-top:0.75em; clear: both;\"><b>III. Disclaimer</b></div>\n<div style=\"margin-top:0.5em;\">Please note that the rights granted under the license apply exclusively to the photograph itself, but not to the rights of third parties — such as copyrights or property rights in the object depicted or the personal rights of any individuals who may be depicted. (See <a href=\"//commons.wikimedia.org/wiki/Commons:L\" class=\"mw-redirect\" title=\"Commons:L\">licences</a> and <a href=\"//commons.wikimedia.org/wiki/Commons:SOSUMI\" class=\"mw-redirect\" title=\"Commons:SOSUMI\">non-copyright restrictions</a>.) I do not grant any warranty that the subsequent use of the photograph is legally possible concerning the object or person shown in the photograph. You are responsible to check and respect these rights in the publication in the respective medium or country.</div>\n<div style=\"margin-top:0.5em;\">The author is not responsible for the accuracy of the information contained herein (description, title, etc.). Likewise, the author assumes no liability for further use. Please note the <a href=\"//commons.wikimedia.org/wiki/Commons:General_disclaimer\" title=\"Commons:General disclaimer\">general disclaimer</a> and please read <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">reusing content outside Wikimedia</a> too.</div>\n<div style=\"margin-top:0.75em;\"><b>IV. Contact</b></div>\n<div style=\"margin-top:0.5em;\"><b><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:UserIconMail.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/40px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/60px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"700\" data-file-height=\"700\"></a></span> <a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/XRay\" title=\"Special:EmailUser/XRay\">E-mail to the author</a></b> or the <a href=\"//commons.wikimedia.org/wiki/User_talk:XRay\" title=\"User talk:XRay\">author's talk page</a> <small>or the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.rabich.de/\">author's website</a></small></div></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<b><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a></b>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "124068556": {
+        "pageid": 124068556,
+        "ns": 6,
+        "title": "File:Moody, foggy black forest - Flickr - Tannenschleicher.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 26300330,
+            "width": 5424,
+            "height": 3616,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Moody%2C_foggy_black_forest_-_Flickr_-_Tannenschleicher.jpg/960px-Moody%2C_foggy_black_forest_-_Flickr_-_Tannenschleicher.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 512,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Moody%2C_foggy_black_forest_-_Flickr_-_Tannenschleicher.jpg/1920px-Moody%2C_foggy_black_forest_-_Flickr_-_Tannenschleicher.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Moody%2C_foggy_black_forest_-_Flickr_-_Tannenschleicher.jpg/960px-Moody%2C_foggy_black_forest_-_Flickr_-_Tannenschleicher.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 512,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Moody%2C_foggy_black_forest_-_Flickr_-_Tannenschleicher.jpg/1920px-Moody%2C_foggy_black_forest_-_Flickr_-_Tannenschleicher.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Moody%2C_foggy_black_forest_-_Flickr_-_Tannenschleicher.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Moody,_foggy_black_forest_-_Flickr_-_Tannenschleicher.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=124068556",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-10-12 03:38:32",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Moody, foggy black forest - Flickr - Tannenschleicher",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Sigma dp0 Quattro|Forest paths|Flickr images reviewed by FlickreviewR 2|Photographs taken on 2019-10-28|Flickr files uploaded by Red panda bot|Photos in Flickr Explore|PD-author-FlickrPDM|Files from 196643318@N07 Flickr stream|Flickr images missing SDC published in",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "thanks alot for your kind comments every1  :)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 28 October 2019, 16:24",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/196643318@N07/52404618866/\">moody, foggy black forest</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/196643318@N07\">F R</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "186926854": {
+        "pageid": 186926854,
+        "ns": 6,
+        "title": "File:A quiet path through winter forest in Czechia (55149344034).jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 757721,
+            "width": 1600,
+            "height": 2231,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/A_quiet_path_through_winter_forest_in_Czechia_%2855149344034%29.jpg/960px-A_quiet_path_through_winter_forest_in_Czechia_%2855149344034%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1071,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/e/e7/A_quiet_path_through_winter_forest_in_Czechia_%2855149344034%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/A_quiet_path_through_winter_forest_in_Czechia_%2855149344034%29.jpg/960px-A_quiet_path_through_winter_forest_in_Czechia_%2855149344034%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1071,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/e/e7/A_quiet_path_through_winter_forest_in_Czechia_%2855149344034%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/A_quiet_path_through_winter_forest_in_Czechia_%2855149344034%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:A_quiet_path_through_winter_forest_in_Czechia_(55149344034).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=186926854",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-03-24 19:48:23",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "A quiet path through winter forest in Czechia (55149344034)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Fog in the Czech Republic|Forests in the Czech Republic in winter|Brdy|CC-Zero|Forests in Central Bohemian Region|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Photos in Flickr Explore|Mixed forests in the Czech Republic|Czech Republic photographs taken on 2025-12-21|2025 in Central Bohemian Region|Flickr images missing SDC published in",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "49.736906",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "13.803892",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A quiet path through winter forest in Czechia",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 21 December 2025, 13:57",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/tmoravec/55149344034/\">A quiet path through winter forest</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/189681306@N02\">Ted Moravec</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

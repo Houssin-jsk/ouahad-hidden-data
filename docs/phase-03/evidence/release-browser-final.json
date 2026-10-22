@@ -1,0 +1,1911 @@
+{
+  "config": {
+    "argv": [
+      "C:\\Program Files\\nodejs\\node.exe",
+      "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-hidden-data\\node_modules\\@playwright\\test\\cli.js",
+      "test",
+      "--workers=1",
+      "--reporter=json"
+    ],
+    "configFile": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-hidden-data\\playwright.config.ts",
+    "rootDir": "C:/Users/ouaha/OneDrive/Desktop/ouahad-hidden-data/tests/browser",
+    "failOnFlakyTests": false,
+    "forbidOnly": false,
+    "fullyParallel": false,
+    "globalSetup": null,
+    "globalTeardown": null,
+    "globalTimeout": 0,
+    "grep": {},
+    "grepInvert": null,
+    "maxFailures": 0,
+    "metadata": {
+      "actualWorkers": 1
+    },
+    "preserveOutput": "always",
+    "projects": [
+      {
+        "outputDir": "C:/Users/ouaha/OneDrive/Desktop/ouahad-hidden-data/test-results",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {
+          "actualWorkers": 1
+        },
+        "id": "",
+        "name": "",
+        "testDir": "C:/Users/ouaha/OneDrive/Desktop/ouahad-hidden-data/tests/browser",
+        "testIgnore": [],
+        "testMatch": [
+          "**/*.@(spec|test).?(c|m)[jt]s?(x)"
+        ],
+        "timeout": 60000
+      }
+    ],
+    "filteredProjects": [
+      {
+        "grep": {},
+        "grepInvert": null,
+        "outputDir": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-hidden-data\\test-results",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {
+          "actualWorkers": 1
+        },
+        "name": "",
+        "testDir": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-hidden-data\\tests\\browser",
+        "snapshotDir": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-hidden-data\\tests\\browser",
+        "testIgnore": [],
+        "testMatch": "**/*.@(spec|test).?(c|m)[jt]s?(x)",
+        "timeout": 60000,
+        "use": {
+          "baseURL": "http://127.0.0.1:3001",
+          "browserName": "chromium",
+          "channel": "chrome",
+          "headless": true
+        },
+        "dependencies": [],
+        "ignoreSnapshots": false,
+        "__projectId": ""
+      }
+    ],
+    "quiet": false,
+    "reporter": [
+      [
+        "json"
+      ]
+    ],
+    "reportSlowTests": {
+      "max": 5,
+      "threshold": 300000
+    },
+    "shard": null,
+    "tags": [],
+    "updateSnapshots": "default",
+    "updateSourceMethod": "patch",
+    "version": "1.64.0",
+    "workers": 1,
+    "webServer": {
+      "command": "npm run start -- --hostname 127.0.0.1 --port 3001",
+      "url": "http://127.0.0.1:3001",
+      "reuseExistingServer": false,
+      "timeout": 60000
+    }
+  },
+  "suites": [
+    {
+      "title": "accuracy.spec.ts",
+      "file": "accuracy.spec.ts",
+      "column": 0,
+      "line": 0,
+      "specs": [
+        {
+          "title": "decoded fine checkerboard retains original colors and luminance, not resized gray",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 14715,
+                  "errors": [],
+                  "stdout": [
+                    {
+                      "text": "checker 2048×2048: analyze-to-result 6199 ms\n"
+                    }
+                  ],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:53:30.068Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "eee58ec242827aa7b4d1-133adac944eac688b3cd",
+          "file": "accuracy.spec.ts",
+          "line": 71,
+          "column": 5
+        },
+        {
+          "title": "decoded grayscale ramp has correct native means and every expected histogram bin",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 13986,
+                  "errors": [],
+                  "stdout": [
+                    {
+                      "text": "gradient 256×128: analyze-to-result 6543 ms\n"
+                    },
+                    {
+                      "text": "gradient 4096×1024: analyze-to-result 6552 ms\n"
+                    }
+                  ],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:53:45.118Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "eee58ec242827aa7b4d1-11a0316b225f80435e0d",
+          "file": "accuracy.spec.ts",
+          "line": 108,
+          "column": 5
+        },
+        {
+          "title": "decoded partially transparent PNG has alpha-weighted color shares and coverage",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 7013,
+                  "errors": [],
+                  "stdout": [
+                    {
+                      "text": "partial 200×100: analyze-to-result 6504 ms\n"
+                    }
+                  ],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:53:59.126Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "eee58ec242827aa7b4d1-7329999eb731f5f5966e",
+          "file": "accuracy.spec.ts",
+          "line": 135,
+          "column": 5
+        },
+        {
+          "title": "uniform image has one family, exactly zero spread, and an honest DNA summary",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 7062,
+                  "errors": [],
+                  "stdout": [
+                    {
+                      "text": "solid 1024×1024: analyze-to-result 6522 ms\n"
+                    }
+                  ],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:54:06.161Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "eee58ec242827aa7b4d1-8660110c09c66b77ed89",
+          "file": "accuracy.spec.ts",
+          "line": 153,
+          "column": 5
+        },
+        {
+          "title": "replacement during worker computation discards old results",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 7354,
+                  "errors": [],
+                  "stdout": [
+                    {
+                      "text": "solid 100×50: analyze-to-result 6536 ms\n"
+                    }
+                  ],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:54:13.242Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "eee58ec242827aa7b4d1-d08602387bd26d28b0eb",
+          "file": "accuracy.spec.ts",
+          "line": 167,
+          "column": 5
+        }
+      ]
+    },
+    {
+      "title": "discoveries.spec.ts",
+      "file": "discoveries.spec.ts",
+      "column": 0,
+      "line": 0,
+      "specs": [
+        {
+          "title": "EXIF fields, recorded orientation, explicit GPS privacy and replacement",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 20685,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:54:20.658Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "8a5a2d0fbdbaf5076ee8-a671ab5ddb305e9c0541",
+          "file": "discoveries.spec.ts",
+          "line": 43,
+          "column": 5
+        },
+        {
+          "title": "real light/detail maps, interactive comparison and blob URL cleanup",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 7015,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:54:41.368Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "8a5a2d0fbdbaf5076ee8-163515358fbfe56cea55",
+          "file": "discoveries.spec.ts",
+          "line": 109,
+          "column": 5
+        },
+        {
+          "title": "real processing stages, cancellation and fast completion",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 7945,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:54:48.418Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "8a5a2d0fbdbaf5076ee8-5c082944ff391663e4d0",
+          "file": "discoveries.spec.ts",
+          "line": 166,
+          "column": 5
+        },
+        {
+          "title": "adaptive preview and tabs at 1440",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 7083,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:54:56.381Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "8a5a2d0fbdbaf5076ee8-2e012931ec0155d4e9e9",
+          "file": "discoveries.spec.ts",
+          "line": 221,
+          "column": 7
+        },
+        {
+          "title": "adaptive preview and tabs at 390",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 7202,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:55:03.483Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "8a5a2d0fbdbaf5076ee8-0f18933f3948a8608fcc",
+          "file": "discoveries.spec.ts",
+          "line": 221,
+          "column": 7
+        },
+        {
+          "title": "adaptive preview and tabs at 768",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 7163,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:55:10.711Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "8a5a2d0fbdbaf5076ee8-2565ec6e3c3ba701a055",
+          "file": "discoveries.spec.ts",
+          "line": 221,
+          "column": 7
+        }
+      ]
+    },
+    {
+      "title": "lab.spec.ts",
+      "file": "lab.spec.ts",
+      "column": 0,
+      "line": 0,
+      "specs": [
+        {
+          "title": "real pixels → worker → explorable results, replacement, no uploads",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 13939,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:55:17.911Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "d60a0d352cedb73bd581-56eed2e58b8ee3109158",
+          "file": "lab.spec.ts",
+          "line": 31,
+          "column": 5
+        },
+        {
+          "title": "corrupted, unsupported, oversize and transparent images recover",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 10487,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:55:31.870Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "d60a0d352cedb73bd581-e1f8034cd2660c98388e",
+          "file": "lab.spec.ts",
+          "line": 104,
+          "column": 5
+        },
+        {
+          "title": "mobile layout and drag-and-drop",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 14156,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:55:42.379Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "d60a0d352cedb73bd581-7db34e25fed42fe453fb",
+          "file": "lab.spec.ts",
+          "line": 146,
+          "column": 5
+        }
+      ]
+    },
+    {
+      "title": "loading-visuals.spec.ts",
+      "file": "loading-visuals.spec.ts",
+      "column": 0,
+      "line": 0,
+      "specs": [
+        {
+          "title": "illustration advances through all six views using real colors, histogram and maps",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 6739,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:55:56.566Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "30d7f26b71b47268f21f-5a2484a4a9f2a1e3f9c7",
+          "file": "loading-visuals.spec.ts",
+          "line": 22,
+          "column": 5
+        },
+        {
+          "title": "cancelling a buffered visual result revokes its temporary map URLs",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 661,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:56:03.327Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "30d7f26b71b47268f21f-f4e0def5fa0b7461858f",
+          "file": "loading-visuals.spec.ts",
+          "line": 63,
+          "column": 5
+        },
+        {
+          "title": "image-led loading presentation at 1440px",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 6832,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:56:04.006Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "30d7f26b71b47268f21f-061eef58260fd660445f",
+          "file": "loading-visuals.spec.ts",
+          "line": 99,
+          "column": 7
+        },
+        {
+          "title": "image-led loading presentation at 390px",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 7165,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:56:10.856Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "30d7f26b71b47268f21f-d4ec5b1bcc191db87016",
+          "file": "loading-visuals.spec.ts",
+          "line": 99,
+          "column": 7
+        }
+      ]
+    },
+    {
+      "title": "loading.spec.ts",
+      "file": "loading.spec.ts",
+      "column": 0,
+      "line": 0,
+      "specs": [
+        {
+          "title": "fast real work stays in the six-second presentation and releases accurate results",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 6867,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:56:18.051Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "1be41964e0574414b0cd-bd5b74d77f3a44056ccb",
+          "file": "loading.spec.ts",
+          "line": 18,
+          "column": 5
+        },
+        {
+          "title": "a slow worker response cannot reveal results at six seconds",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 9056,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:56:24.934Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "1be41964e0574414b0cd-ff810c9659eaf1e02c61",
+          "file": "loading.spec.ts",
+          "line": 40,
+          "column": 5
+        },
+        {
+          "title": "replacing a buffered completed image starts an independent timer and drops the old result",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 7113,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:56:34.009Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "1be41964e0574414b0cd-6e8bf78393f1e04ed897",
+          "file": "loading.spec.ts",
+          "line": 82,
+          "column": 5
+        },
+        {
+          "title": "loading layout, cancellation and lighter motion at 1440px",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 6898,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:56:41.138Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "1be41964e0574414b0cd-1ca6111ad8626da69d4e",
+          "file": "loading.spec.ts",
+          "line": 105,
+          "column": 7
+        },
+        {
+          "title": "loading layout, cancellation and lighter motion at 390px",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 7109,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:56:48.056Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "1be41964e0574414b0cd-29ca12c51e278a30486c",
+          "file": "loading.spec.ts",
+          "line": 105,
+          "column": 7
+        }
+      ]
+    },
+    {
+      "title": "phase01.spec.ts",
+      "file": "phase01.spec.ts",
+      "column": 0,
+      "line": 0,
+      "specs": [
+        {
+          "title": "worker startup failure, unavailable canvas and timeout offer a real retry",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 8697,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:56:55.199Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "dcb1584a8acfb4c66671-cd74cf6a80795433c19a",
+          "file": "phase01.spec.ts",
+          "line": 21,
+          "column": 5
+        },
+        {
+          "title": "EXIF 1: preview and worker maps apply orientation exactly once",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 7104,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:57:03.915Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "dcb1584a8acfb4c66671-5c00a8fc7e8881dc6d33",
+          "file": "phase01.spec.ts",
+          "line": 97,
+          "column": 7
+        },
+        {
+          "title": "EXIF 2: preview and worker maps apply orientation exactly once",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 6943,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:57:11.035Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "dcb1584a8acfb4c66671-f0b07058ca2d30ec4f25",
+          "file": "phase01.spec.ts",
+          "line": 97,
+          "column": 7
+        },
+        {
+          "title": "EXIF 3: preview and worker maps apply orientation exactly once",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 7018,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:57:17.997Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "dcb1584a8acfb4c66671-8816fa33236a8b0352f5",
+          "file": "phase01.spec.ts",
+          "line": 97,
+          "column": 7
+        },
+        {
+          "title": "EXIF 4: preview and worker maps apply orientation exactly once",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 7141,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:57:25.033Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "dcb1584a8acfb4c66671-caa2a8e23442426dab53",
+          "file": "phase01.spec.ts",
+          "line": 97,
+          "column": 7
+        },
+        {
+          "title": "EXIF 5: preview and worker maps apply orientation exactly once",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 6930,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:57:32.190Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "dcb1584a8acfb4c66671-83a382c54de1609c8df2",
+          "file": "phase01.spec.ts",
+          "line": 97,
+          "column": 7
+        },
+        {
+          "title": "EXIF 6: preview and worker maps apply orientation exactly once",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 6882,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:57:39.138Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "dcb1584a8acfb4c66671-5d4a4d5bfa3bc6ced95a",
+          "file": "phase01.spec.ts",
+          "line": 97,
+          "column": 7
+        },
+        {
+          "title": "EXIF 7: preview and worker maps apply orientation exactly once",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 7427,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:57:46.039Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "dcb1584a8acfb4c66671-accbb42ffe375c769b7c",
+          "file": "phase01.spec.ts",
+          "line": 97,
+          "column": 7
+        },
+        {
+          "title": "EXIF 8: preview and worker maps apply orientation exactly once",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 7098,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:57:53.487Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "dcb1584a8acfb4c66671-1b1b40a2f1e80bbf6a53",
+          "file": "phase01.spec.ts",
+          "line": 97,
+          "column": 7
+        },
+        {
+          "title": "oversized headers never create a preview; malformed/decode errors and misleading files recover",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 13535,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:58:00.607Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "dcb1584a8acfb4c66671-c0774d80b9ec90a9317a",
+          "file": "phase01.spec.ts",
+          "line": 144,
+          "column": 5
+        },
+        {
+          "title": "dark, bright, low contrast, tiny and large images retain deterministic measurements",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 39561,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:58:14.161Z",
+                  "annotations": [],
+                  "attachments": [
+                    {
+                      "name": "runtime-conditions",
+                      "contentType": "application/json",
+                      "body": "ewogICJicm93c2VyIjogIjE1NS4wLjgwNTkuODUiLAogICJwbGF0Zm9ybSI6ICJ3aW4zMiIsCiAgInJlbGVhc2UiOiAiMTAuMC4yNjIwMCIsCiAgImNwdSI6ICJJbnRlbChSKSBDb3JlKFRNKSBpNS0xMDUwMEggQ1BVIEAgMi41MEdIeiIsCiAgImxvZ2ljYWxDUFVzIjogMTIsCiAgInRvdGFsTWVtb3J5Qnl0ZXMiOiAxNjk5MzAwMTQ3MiwKICAidmlld3BvcnQiOiB7CiAgICAid2lkdGgiOiAxMjgwLAogICAgImhlaWdodCI6IDcyMAogIH0sCiAgImNvbmRpdGlvbnMiOiAiSGVhZGxlc3MgZGVza3RvcCBDaHJvbWU7IHByb2R1Y3Rpb24gbG9jYWxob3N0IHNlcnZlcjsgdW50aHJvdHRsZWQ7IGluY2x1ZGVzIGludGVudGlvbmFsIDZzIHByZXNlbnRhdGlvbjsgbm90IGEgbW9iaWxlIG9yIGlzb2xhdGVkIENQVSBiZW5jaG1hcmsiLAogICJ0aW1pbmdzIjogWwogICAgewogICAgICAiZml4dHVyZSI6ICJkYXJrLnBuZyIsCiAgICAgICJtcyI6IDY1NDQKICAgIH0sCiAgICB7CiAgICAgICJmaXh0dXJlIjogImJyaWdodC5wbmciLAogICAgICAibXMiOiA2NTA0CiAgICB9LAogICAgewogICAgICAiZml4dHVyZSI6ICJncmF5LnBuZyIsCiAgICAgICJtcyI6IDY1MTAKICAgIH0sCiAgICB7CiAgICAgICJmaXh0dXJlIjogImxvdy1jb250cmFzdC5wbmciLAogICAgICAibXMiOiA2NDY1CiAgICB9LAogICAgewogICAgICAiZml4dHVyZSI6ICJ0aW55LnBuZyIsCiAgICAgICJtcyI6IDYwOTQKICAgIH0sCiAgICB7CiAgICAgICJmaXh0dXJlIjogImxhcmdlLnBuZyIsCiAgICAgICJtcyI6IDYwOTgKICAgIH0KICBdCn0="
+                    }
+                  ]
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "dcb1584a8acfb4c66671-f4ba5672a5af62454c58",
+          "file": "phase01.spec.ts",
+          "line": 199,
+          "column": 5
+        },
+        {
+          "title": "repeated cancellation/replacement clears URLs and workers; keyboard selection and clipboard work",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 13904,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:58:53.740Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "dcb1584a8acfb4c66671-a35d453c57f04e4c74ca",
+          "file": "phase01.spec.ts",
+          "line": 245,
+          "column": 5
+        }
+      ]
+    },
+    {
+      "title": "phase02.spec.ts",
+      "file": "phase02.spec.ts",
+      "column": 0,
+      "line": 0,
+      "specs": [
+        {
+          "title": "verified ramp insights, keyboard methodology and spatial caveats at 320px",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 7603,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:59:07.673Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "3f76b986ba5de2a01e04-504ebde2461fca4ab925",
+          "file": "phase02.spec.ts",
+          "line": 75,
+          "column": 7
+        },
+        {
+          "title": "verified ramp insights, keyboard methodology and spatial caveats at 768px",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 7766,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:59:15.299Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "3f76b986ba5de2a01e04-362c9306ae3c5d765058",
+          "file": "phase02.spec.ts",
+          "line": 75,
+          "column": 7
+        },
+        {
+          "title": "verified ramp insights, keyboard methodology and spatial caveats at 1440px",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 7820,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:59:23.088Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "3f76b986ba5de2a01e04-b2eb27b6b09305843c5c",
+          "file": "phase02.spec.ts",
+          "line": 75,
+          "column": 7
+        },
+        {
+          "title": "real alpha-weighted measurements, cancellation, replacement and local-only request flow",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 13790,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:59:30.931Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "3f76b986ba5de2a01e04-ab6dce9afe63d5e1441a",
+          "file": "phase02.spec.ts",
+          "line": 161,
+          "column": 5
+        },
+        {
+          "title": "sampled estimates and real worker wall time are separate from presentation; initial resource bytes measured",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 40346,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T00:59:44.740Z",
+                  "annotations": [],
+                  "attachments": [
+                    {
+                      "name": "phase02-performance",
+                      "contentType": "application/json",
+                      "body": "ewogICJicm93c2VyIjogIjE1NS4wLjgwNTkuODUiLAogICJwbGF0Zm9ybSI6ICJ3aW4zMiIsCiAgInJlbGVhc2UiOiAiMTAuMC4yNjIwMCIsCiAgImNwdSI6ICJJbnRlbChSKSBDb3JlKFRNKSBpNS0xMDUwMEggQ1BVIEAgMi41MEdIeiIsCiAgImxvZ2ljYWxDUFVzIjogMTIsCiAgInRvdGFsTWVtb3J5Qnl0ZXMiOiAxNjk5MzAwMTQ3MiwKICAidmlld3BvcnQiOiB7CiAgICAid2lkdGgiOiAxMjgwLAogICAgImhlaWdodCI6IDcyMAogIH0sCiAgImNvbmRpdGlvbnMiOiAiSGVhZGxlc3MgdW50aHJvdHRsZWQgZGVza3RvcCBDaHJvbWUsIGxvY2FsaG9zdCBwcm9kdWN0aW9uLCAyIHRlc3Qgd29ya2Vycy4gV29ya2VyIHdhbGwgdGltZSBpbmNsdWRlcyBzdGFydHVwLCBzYW1wbGluZywgYWxsIGNhbGN1bGF0aW9ucywgbWV0YWRhdGEsIG1hcHMgYW5kIG1lc3NhZ2luZzsgbm90IGlzb2xhdGVkIGluc2lnaHRzIENQVSB0aW1lLiBWaXNpYmxlIHRpbWUgaW5jbHVkZXMgNjAwMG1zIHByZXNlbnRhdGlvbi4gSW5pdGlhbCBKUyBieXRlcyBhcmUgc2FtZS1vcmlnaW4gUmVzb3VyY2UgVGltaW5nIGVuY29kZWRCb2R5U2l6ZSwgYmVmb3JlIHNlbGVjdGlvbjsgbm90IGFnZ3JlZ2F0ZSBidWlsZCBieXRlcy4iLAogICJ0aW1pbmdzIjogWwogICAgewogICAgICAiZml4dHVyZSI6ICJkYXJrLnBuZyIsCiAgICAgICJ3b3JrZXJXYWxsTXMiOiAxMTAuNTk5OTk5OTk0MDM5NTQsCiAgICAgICJ2aXNpYmxlTXMiOiA2NzIxLjc5ODUwMDAwMDAzMzUKICAgIH0sCiAgICB7CiAgICAgICJmaXh0dXJlIjogImJyaWdodC5wbmciLAogICAgICAid29ya2VyV2FsbE1zIjogNTgsCiAgICAgICJ2aXNpYmxlTXMiOiA2NDcwLjcwMDAwMDAwMDAxMgogICAgfSwKICAgIHsKICAgICAgImZpeHR1cmUiOiAiZ3JheS5wbmciLAogICAgICAid29ya2VyV2FsbE1zIjogNTYuNzk5OTk5OTk3MDE5NzcsCiAgICAgICJ2aXNpYmxlTXMiOiA2NDg0LjQxNTUwMDAwMDAwMwogICAgfSwKICAgIHsKICAgICAgImZpeHR1cmUiOiAibG93LWNvbnRyYXN0LnBuZyIsCiAgICAgICJ3b3JrZXJXYWxsTXMiOiA1My4yOTk5OTk5OTcwMTk3NywKICAgICAgInZpc2libGVNcyI6IDY0ODUuMjUwMjAwMDAwMDA5NQogICAgfSwKICAgIHsKICAgICAgImZpeHR1cmUiOiAidGlueS5wbmciLAogICAgICAid29ya2VyV2FsbE1zIjogNDYuMzk5OTk5OTkxMDU5MywKICAgICAgInZpc2libGVNcyI6IDY1MzIuMDUwODAwMDAwMDI2CiAgICB9LAogICAgewogICAgICAiZml4dHVyZSI6ICJsYXJnZS5wbmciLAogICAgICAid29ya2VyV2FsbE1zIjogMzQ1LjkwMDAwMDAwNTk2MDQ2LAogICAgICAidmlzaWJsZU1zIjogNjA5OS44ODgyMDAwMDAwNDUKICAgIH0KICBdLAogICJpbml0aWFsSnMiOiBbCiAgICB7CiAgICAgICJ1cmwiOiAiL19uZXh0L3N0YXRpYy9jaHVua3MvMWNrdnpuN3NmcHJrby5qcyIsCiAgICAgICJlbmNvZGVkQm9keVNpemUiOiAyMDM1LAogICAgICAidHJhbnNmZXJTaXplIjogMjMzNQogICAgfSwKICAgIHsKICAgICAgInVybCI6ICIvX25leHQvc3RhdGljL2NodW5rcy8ycjRzNGg1eHVsMW4tLmpzIiwKICAgICAgImVuY29kZWRCb2R5U2l6ZSI6IDc2MjQsCiAgICAgICJ0cmFuc2ZlclNpemUiOiA3OTI0CiAgICB9LAogICAgewogICAgICAidXJsIjogIi9fbmV4dC9zdGF0aWMvY2h1bmtzLzBzN212bGx4aHQxbW8uanMiLAogICAgICAiZW5jb2RlZEJvZHlTaXplIjogNzE4OTksCiAgICAgICJ0cmFuc2ZlclNpemUiOiA3MjE5OQogICAgfSwKICAgIHsKICAgICAgInVybCI6ICIvX25leHQvc3RhdGljL2NodW5rcy8wcm00Ym1pX3VhZXFtLmpzIiwKICAgICAgImVuY29kZWRCb2R5U2l6ZSI6IDQ2MjcyLAogICAgICAidHJhbnNmZXJTaXplIjogNDY1NzIKICAgIH0sCiAgICB7CiAgICAgICJ1cmwiOiAiL19uZXh0L3N0YXRpYy9jaHVua3MvdHVyYm9wYWNrLTMtcnk2ODJ0a3lpcWsuanMiLAogICAgICAiZW5jb2RlZEJvZHlTaXplIjogMzk0MCwKICAgICAgInRyYW5zZmVyU2l6ZSI6IDQyNDAKICAgIH0sCiAgICB7CiAgICAgICJ1cmwiOiAiL19uZXh0L3N0YXRpYy9jaHVua3MvMXQwYWhzeHUzZTQ1ZS5qcyIsCiAgICAgICJlbmNvZGVkQm9keVNpemUiOiAyNjkxLAogICAgICAidHJhbnNmZXJTaXplIjogMjk5MQogICAgfSwKICAgIHsKICAgICAgInVybCI6ICIvX25leHQvc3RhdGljL2NodW5rcy8wdW1mOTJoMXNiNzdjLmpzIiwKICAgICAgImVuY29kZWRCb2R5U2l6ZSI6IDM1MTQsCiAgICAgICJ0cmFuc2ZlclNpemUiOiAzODE0CiAgICB9LAogICAgewogICAgICAidXJsIjogIi9fbmV4dC9zdGF0aWMvY2h1bmtzLzE3ZmEydm1hcHh5ZTIuanMiLAogICAgICAiZW5jb2RlZEJvZHlTaXplIjogMjExMTgsCiAgICAgICJ0cmFuc2ZlclNpemUiOiAyMTQxOAogICAgfQogIF0KfQ=="
+                    }
+                  ]
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "3f76b986ba5de2a01e04-a1e067b9c083ff9f5fc8",
+          "file": "phase02.spec.ts",
+          "line": 229,
+          "column": 5
+        },
+        {
+          "title": "a legacy worker result without analytics retains measurements and exposes an unavailable state",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 7018,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T01:00:25.107Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "3f76b986ba5de2a01e04-ea9295b1749be8e96e12",
+          "file": "phase02.spec.ts",
+          "line": 329,
+          "column": 5
+        }
+      ]
+    },
+    {
+      "title": "release.spec.ts",
+      "file": "release.spec.ts",
+      "column": 0,
+      "line": 0,
+      "specs": [
+        {
+          "title": "non-AI release at 1440px: real analysis, replacement, no model or inference traffic",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 14224,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T01:00:32.151Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "7324964a6aa193ebd049-1a51b67d92cb9a7dcb9e",
+          "file": "release.spec.ts",
+          "line": 3,
+          "column": 7
+        },
+        {
+          "title": "non-AI release at 390px: real analysis, replacement, no model or inference traffic",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 13805,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T01:00:46.391Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "7324964a6aa193ebd049-0de7371d6367ae5a5184",
+          "file": "release.spec.ts",
+          "line": 3,
+          "column": 7
+        },
+        {
+          "title": "research routes and model/runtime assets return 404 in production",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 63,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T01:01:00.212Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "7324964a6aa193ebd049-9346d8dc48c359bd3466",
+          "file": "release.spec.ts",
+          "line": 84,
+          "column": 5
+        }
+      ]
+    },
+    {
+      "title": "theme.spec.ts",
+      "file": "theme.spec.ts",
+      "column": 0,
+      "line": 0,
+      "specs": [
+        {
+          "title": "warm theme, first-screen CTA and result layout at 360px",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 7707,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T01:01:00.294Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "8168eb6e17e693d86faf-9cd6afab035b884cb5ea",
+          "file": "theme.spec.ts",
+          "line": 54,
+          "column": 7
+        },
+        {
+          "title": "warm theme, first-screen CTA and result layout at 390px",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 7209,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T01:01:08.016Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "8168eb6e17e693d86faf-c395ca17db2dc4f4ed8c",
+          "file": "theme.spec.ts",
+          "line": 54,
+          "column": 7
+        },
+        {
+          "title": "warm theme, first-screen CTA and result layout at 430px",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 7342,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T01:01:15.245Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "8168eb6e17e693d86faf-a584618ea3551388e57a",
+          "file": "theme.spec.ts",
+          "line": 54,
+          "column": 7
+        },
+        {
+          "title": "warm theme, first-screen CTA and result layout at 768px",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 7960,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T01:01:22.608Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "8168eb6e17e693d86faf-3e403aba61df2a1baf5d",
+          "file": "theme.spec.ts",
+          "line": 54,
+          "column": 7
+        },
+        {
+          "title": "warm theme, first-screen CTA and result layout at 1366px",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 7487,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T01:01:30.591Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "8168eb6e17e693d86faf-e25e1862f83212562ac7",
+          "file": "theme.spec.ts",
+          "line": 54,
+          "column": 7
+        },
+        {
+          "title": "warm theme, first-screen CTA and result layout at 1440px",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 7622,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-21T01:01:38.099Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "8168eb6e17e693d86faf-3489941dcc11d623fd9a",
+          "file": "theme.spec.ts",
+          "line": 54,
+          "column": 7
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "stats": {
+    "startTime": "2026-10-21T00:53:27.200Z",
+    "duration": 499038.946,
+    "expected": 50,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  }
+}

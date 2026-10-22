@@ -1,0 +1,29 @@
+# Phase 01 implemented changes
+
+This file lists work performed in this task. Existing changes to research/AI code, configuration, package dependencies, the main stylesheet and result components were already in the working tree and were preserved. They are inventoried in the audit, not attributed to this task.
+
+| Defect | Significant change | Files | Regression evidence |
+| --- | --- | --- | --- |
+| HD-01 / P1: oversized decode allocation | Preflight parses encoded dimensions before a preview URL is created. PNG IHDR, JPEG SOF with length-bounded segment traversal and WebP VP8/VP8L/VP8X are covered. Reject missing/invalid headers and >40 MP; keep MIME/signature/20 MiB guards and post-decode check. At most 20 MiB of encoded bytes is read and cleared in `finally`. | `src/analysis/files.ts` | `tests/reliability.test.ts`: over-limit, malformed lengths, native dimensions, lossless/extended WebP bitfields, Unicode names/MIME mismatch. `tests/browser/phase01.spec.ts`: oversized input creates no URL, corrupted payload decode failure, safe error recovery. |
+| HD-02 / P1: uncancelled image decode | `decodeImage(url, signal?)` removes handlers/listeners/timer on every terminal path; error/timeout/abort clears image source. Lifecycle owns an AbortController and aborts on clear, replace, unmount and analysis cancellation. Generation invalidation happens before abort so cancelled failures cannot overwrite current state. | `src/analysis/files.ts`, `src/components/image-lab.tsx` | Event-driven decoder tests exercise success/error/timeout/oversize/already-aborted/in-flight abort. Real worker cancellation/replacement tests exercise URL and worker release and retained image retry. Decoder unit uses a controlled HTMLImageElement adapter, not mocked analysis measurements. |
+| HD-03 / P2: binary size labels | Label 1024-based quantities KiB/MiB. Input ceiling remains exactly 20,971,520 bytes, now labeled 20 MiB. No acceptance limit changed. | `src/lib/format.ts`, `src/analysis/files.ts`, `src/components/image-lab.tsx` | Exact unit boundary references in `tests/reliability.test.ts`; oversized message expectations updated in `tests/pixels.test.ts`, `tests/browser/lab.spec.ts`. |
+| HD-04 / P2: non-hermetic asset test | Create a tiny config in a unique temporary directory, exercise the real research file handler, restore cwd/environment, remove fixture. This does not weaken realpath protection or download/require a model. Sandbox realpath denial still requires the documented execution environment adjustment. | `tests/research-assets.test.ts` | Actual release deny/research allow/no-store/JSON/traversal behavior tested, without importing Transformers. |
+| HD-05 / P2: obsolete limitations | Link the current handoff; correct metadata and pre-decode limit descriptions. Keep earlier historical phase documentation. | `README.md` | Reviewed against release source, build manifest and new regression tests. |
+
+## Additional verification infrastructure
+
+- `scripts/prepare-phase01-fixtures.mts`: uses existing installed Playwright/Chrome to generate synthetic PNG/JPEG/WebP fixtures locally. No dependencies, model downloads, paid APIs or external images added.
+- `tests/fixtures/exif.ts`: optional orientation argument (default still 6) shared by all eight orientation fixtures. Existing callers retain their behavior.
+- `tests/fixtures/phase01/`: 25 deterministic-purpose synthetic files plus README. Includes 12 MP red image, grayscale, low contrast, endpoints, tiny/transparent, non-ASCII/multiple-extension names, all EXIF orientations and malformed/unsupported/over-limit examples. Full purposes and expectations are in that directory's README.
+- `tests/reliability.test.ts`: six new unit tests (many loop through independent cases). Existing `tests/pixels.test.ts` format test now uses real fixture headers rather than accepting bare signatures as valid images.
+- `tests/browser/phase01.spec.ts`: thirteen new browser tests. Eight orientation tests compare independently expected transformed corners against actual worker-generated maps. Other tests cover real error recovery, resource counters across repeated cancellations and replacement, keyboard file selection, actual clipboard, large/dark/bright/low-contrast/tiny measurements, capability/startup/timeout/retry branches. Controlled transport suppression is used only to trigger a genuine watchdog; no fabricated successful analysis result is injected.
+- `scripts/record-phase01-evidence.mjs`: records the actual final browser report, conditions, synthetic fixture hashes and local build inventory. It does not run application inference or touch production.
+- Four required reports and compact evidence under `docs/phase-01/`.
+
+## Intentional behavior changes and preserved behavior
+
+Invalid or oversized encoded headers now fail before preview decoding. This rejects signature-only data earlier, with the same clear corrupted-image error class. Browsers still decide whether supported, bounded encoded data can actually decode. No claim is made that headers fully validate codecs, CRCs, progressive scan data or browser memory behavior.
+
+Size label units are corrected; numeric file sizes and byte ceilings are unchanged. Decode cancellation releases owned resources sooner. Existing pixel math, sampling seed/budget, Image DNA, metadata fields/GPS opt-in, map generation/comparison, clipboard, four result tabs, visual identity, method disclosure, progress presentation and six-second minimum remain intact. Unsupported browsers retain explanatory errors and retry/replace controls. Existing recoverable AI/research work remains in the tree and unreachable in normal builds. No semantic feature, redesigned UI, infrastructure, model or dependency was added.
+
+No confirmed P0/P1 was intentionally deferred to Phase 02. See verification/handoff for final execution status and nonblocking limitations.

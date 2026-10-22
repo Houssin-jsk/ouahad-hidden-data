@@ -1,0 +1,102 @@
+{
+  "origin": "https://hidden-data.ouahad.space",
+  "transport": "HTTPS production origin to IPv4 loopback HTTP",
+  "browserSecurityExceptions": false,
+  "permissionMethod": "Playwright grants the standard local-network-access permission, equivalent to user approval; no security-disabling flags or certificate bypass.",
+  "testOnlyEvaluationMode": true,
+  "productionObservationsEnabled": false,
+  "browser": "155.0.8059.85",
+  "httpsStatus": 200,
+  "certificate": {
+    "issuer": "YR2",
+    "protocol": "TLS 1.3",
+    "subjectName": "hidden-data.ouahad.space",
+    "validFrom": 1791890538,
+    "validTo": 1799666537
+  },
+  "secureContext": true,
+  "modelLoadingSeconds": 5.844000000011874,
+  "nativeLoopbackPort": 53129,
+  "rawRuntimeUnauthorizedStatus": 401,
+  "pairingStatus": 200,
+  "authorizedStatus": 200,
+  "realImage": {
+    "status": 200,
+    "value": {
+      "version": "1.1.0",
+      "observations": {
+        "image_description": "A close-up photograph of a black cat lying on a textured blue blanket. The cat is positioned in the center of the frame, looking directly at the camera. Its fur is dark, and its eyes are a bright, reflective white. The cat is resting on a brown, textured surface, possibly a chair or couch, with a wooden armrest visible behind it. A pink fabric is partially visible in the background. The cat's ears are upright and alert.",
+        "main_visible_objects": [
+          "black cat",
+          "blue blanket",
+          "brown textured surface",
+          "wooden armrest",
+          "pink fabric"
+        ],
+        "scene_and_surroundings": "The cat is resting on a blue textured blanket on a brown, textured surface, likely a chair or couch. A wooden armrest is visible behind the cat. The background includes a pink fabric, possibly a blanket or part of a cushion.",
+        "notable_visual_details": [
+          "The cat's fur is dark and appears to be slightly matted.",
+          "The cat's eyes are a bright, reflective white, indicating the light is reflecting off them.",
+          "The cat is looking directly at the camera with a calm expression.",
+          "The background is slightly out of focus, with some visible wires and a white wall."
+        ],
+        "uncertainties": [
+          "The identity of the brown textured surface is uncertain.",
+          "The identity of the pink fabric is uncertain.",
+          "The exact position of the cat's tail is uncertain."
+        ]
+      },
+      "limitations": "Model-generated observations can be wrong or incomplete. They do not establish identity, location, sensitive attributes, authenticity, or camera metadata.",
+      "model": "Qwen3-VL 2B Instruct Q4_K_M",
+      "elapsedSeconds": 78.65700000000652
+    },
+    "wallMs": 78911.30000001192
+  },
+  "cancellation": {
+    "status": 200,
+    "value": {
+      "state": "stopped"
+    },
+    "wallMs": 359
+  },
+  "afterCancel": {
+    "state": "stopped",
+    "pid": null,
+    "active": null
+  },
+  "cancelledResponse": {
+    "status": 503,
+    "value": {
+      "error": "Local inference stopped or returned an unsupported response. Restart the model to retry."
+    }
+  },
+  "storage": {
+    "local": 0,
+    "session": 0
+  },
+  "pairingSecretPersisted": false,
+  "requests": [
+    {
+      "path": "/v1/pair",
+      "method": "POST"
+    },
+    {
+      "path": "/v1/status",
+      "method": "GET"
+    },
+    {
+      "path": "/v1/analyze",
+      "method": "POST"
+    },
+    {
+      "path": "/v1/analyze",
+      "method": "POST"
+    },
+    {
+      "path": "/v1/cancel",
+      "method": "POST"
+    }
+  ],
+  "success": true,
+  "harnessExitCode": 0
+}

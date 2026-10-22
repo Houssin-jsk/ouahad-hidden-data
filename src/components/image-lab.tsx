@@ -67,6 +67,7 @@ export function ImageLab() {
   const url = useRef<string | null>(null);
   const worker = useRef<Worker | null>(null);
   const generation = useRef(0);
+  const decoding = useRef<AbortController | null>(null);
   const analysisTimeout = useRef<number | null>(null);
   const selectedFile = useRef<File | null>(null);
   const retainedMapUrls = useRef<string[]>([]);
@@ -98,6 +99,7 @@ export function ImageLab() {
   useEffect(
     () => () => {
       generation.current++;
+      decoding.current?.abort();
       presentation.current?.cancel();
       worker.current?.terminate();
       if (analysisTimeout.current) clearTimeout(analysisTimeout.current);
@@ -112,6 +114,8 @@ export function ImageLab() {
     setLoadingMaps(null);
     focusResults.current = false;
     generation.current++;
+    decoding.current?.abort();
+    decoding.current = null;
     presentation.current?.cancel();
     presentation.current = null;
     setLoadingFrame(null);
@@ -140,7 +144,9 @@ export function ImageLab() {
       if (id !== generation.current) return;
       const nextUrl = URL.createObjectURL(file);
       url.current = nextUrl;
-      const image = await decodeImage(nextUrl);
+      const controller = new AbortController();
+      decoding.current = controller;
+      const image = await decodeImage(nextUrl, controller.signal);
       if (id !== generation.current) {
         image.src = "";
         return;
@@ -198,7 +204,9 @@ export function ImageLab() {
       },
     });
     try {
-      const image = await decodeImage(source.url);
+      const controller = new AbortController();
+      decoding.current = controller;
+      const image = await decodeImage(source.url, controller.signal);
       if (id !== generation.current) {
         image.src = "";
         return;
@@ -328,6 +336,8 @@ export function ImageLab() {
     retainedMapUrls.current.forEach((value) => URL.revokeObjectURL(value));
     retainedMapUrls.current = [];
     generation.current++;
+    decoding.current?.abort();
+    decoding.current = null;
     presentation.current?.cancel();
     presentation.current = null;
     setLoadingFrame(null);
@@ -487,7 +497,7 @@ export function ImageLab() {
                 <span className="select-button">
                   Select image <ArrowRight size={16} />
                 </span>
-                <small>JPEG, PNG, WEBP · UP TO 20 MB · 40 MP</small>
+                <small>JPEG, PNG, WEBP · UP TO 20 MiB · 40 MP</small>
               </button>
             )}
             <div className="image-toolbar">
@@ -557,8 +567,8 @@ export function ImageLab() {
             <p className="privacy">
               <LockKeyhole size={13} />
               <span>
-                Private by default. Images are processed locally and never
-                uploaded, stored or sent to analytics.
+                Private by default. Image measurements stay in your browser.
+                Optional Cloud AI sends a processed copy only with your consent.
               </span>
             </p>
           </div>

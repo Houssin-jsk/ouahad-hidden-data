@@ -1,0 +1,14 @@
+HIDDEN DATA on-device vision assets
+
+Model: MobileNetV4 Conv Small e2400 r224 ImageNet-1k, pretrained by Ross Wightman (timm).
+Upstream model card: https://huggingface.co/timm/mobilenetv4_conv_small.e2400_r224_in1k
+The original model card declares Apache-2.0. Preserve LICENSE-Apache-2.0.txt with these weights.
+ONNX conversion: onnx-community, https://huggingface.co/onnx-community/mobilenetv4_conv_small.e2400_r224_in1k
+Pinned revision: 3ba07f12712fa58fd6b3d661f9909c9e332c5005
+The converter repository does not separately declare a license in its model card.
+No weights or metadata have been modified. Runtime resize/crop is implemented in application code.
+
+Transformers.js 4.3.1: Hugging Face, Apache-2.0 (included license).
+ONNX Runtime Web 1.31.0-dev.20260914-8d85527a0: Microsoft, MIT (runtime/LICENSE.txt).
+Runtime binaries copied unchanged from the exact installed dependency.
+See manifest.json for artifact sizes and SHA-256; docs/phase-4-ai-vision.md for validation and provenance limitations.

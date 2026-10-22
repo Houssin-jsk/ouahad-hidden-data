@@ -1,0 +1,171 @@
+{
+  "policy": {
+    "minimumScore": 0.26428556788883745,
+    "minimumMargin": 0.0325981373188419
+  },
+  "test": {
+    "total": 8,
+    "covered": 7,
+    "unsupported": 1,
+    "top1": 6,
+    "top4": 7,
+    "coveredTop1": 0.8571428571428571,
+    "coveredTop4": 1,
+    "accepted": 1,
+    "correctAccepted": 1,
+    "acceptedPrecision": 1,
+    "coveredAccepted": 1,
+    "coveredCoverage": 0.14285714285714285,
+    "unsupportedAccepted": 0,
+    "abstained": 7,
+    "confusion": {
+      "mountain-lake": {
+        "mountain-lake": 1
+      },
+      "railway": {
+        "road-vehicles": 1
+      },
+      "meal": {
+        "meal": 1
+      },
+      "wildlife": {
+        "wildlife": 1
+      },
+      "unsupported": {
+        "gardening": 1
+      },
+      "architecture": {
+        "architecture": 1
+      },
+      "pottery": {
+        "drinks": 1
+      },
+      "sport": {
+        "sport": 1
+      }
+    }
+  },
+  "gates": {
+    "coveredTop1": true,
+    "coveredTop4": true,
+    "acceptedPrecision": true,
+    "coveredCoverage": false,
+    "unsupportedFalseAccepts": true
+  },
+  "timing": {
+    "readiness": {
+      "runs": 20,
+      "cold": [
+        {
+          "image": "natural-00",
+          "wallMs": 8541,
+          "initializationMs": 5173.20000000298
+        }
+      ],
+      "warmInitialization": {
+        "min": 0,
+        "median": 0,
+        "p95": 0.09999999403953552,
+        "max": 0.10000000894069672
+      },
+      "preprocessingMs": {
+        "min": 9.600000008940697,
+        "median": 14.700000002980232,
+        "p95": 24.69999998807907,
+        "max": 29.200000002980232
+      },
+      "inferenceMs": {
+        "min": 1578.3999999910593,
+        "median": 1824.7999999970198,
+        "p95": 2070.5999999940395,
+        "max": 2139.7000000029802
+      },
+      "warmWallMs": {
+        "min": 1933,
+        "median": 1973,
+        "p95": 3005,
+        "max": 3131
+      },
+      "mainThreadMaxHeartbeatGapMs": 434.59999999403954,
+      "mainThreadLargestP95HeartbeatGapMs": 25.700000002980232,
+      "pageJSHeapMaxSnapshotBytes": 5866880,
+      "memoryLimitation": "Page V8 heap after inference only; excludes dedicated worker, native WASM, GPU and transient peak. Not a model memory budget."
+    },
+    "baseline": {
+      "runs": 16,
+      "cold": [
+        {
+          "image": "natural-00",
+          "wallMs": 426,
+          "initializationMs": 270.79999999701977
+        }
+      ],
+      "warmInitialization": {
+        "min": 0,
+        "median": 0,
+        "p95": 0,
+        "max": 0.10000000894069672
+      },
+      "preprocessingMs": {
+        "min": 11.200000002980232,
+        "median": 14,
+        "p95": 18.799999997019768,
+        "max": 20.599999994039536
+      },
+      "inferenceMs": {
+        "min": 33.5,
+        "median": 45.5,
+        "p95": 57,
+        "max": 63.79999999701977
+      },
+      "warmWallMs": {
+        "min": 153,
+        "median": 164,
+        "p95": 192,
+        "max": 574
+      },
+      "mainThreadMaxHeartbeatGapMs": 410.69999998807907,
+      "mainThreadLargestP95HeartbeatGapMs": 410.69999998807907,
+      "pageJSHeapMaxSnapshotBytes": 5692372,
+      "memoryLimitation": "Page V8 heap after inference only; excludes dedicated worker, native WASM, GPU and transient peak. Not a model memory budget."
+    },
+    "detector": {
+      "runs": 2,
+      "cold": [
+        {
+          "image": "natural-07",
+          "wallMs": 3961,
+          "initializationMs": 361.3999999910593
+        }
+      ],
+      "warmInitialization": {
+        "min": 0,
+        "median": 0,
+        "p95": 0,
+        "max": 0
+      },
+      "preprocessingMs": {
+        "min": 61.6000000089407,
+        "median": 61.6000000089407,
+        "p95": 61.6000000089407,
+        "max": 67.79999999701977
+      },
+      "inferenceMs": {
+        "min": 2387.6000000089407,
+        "median": 2387.6000000089407,
+        "p95": 2387.6000000089407,
+        "max": 2978.4000000059605
+      },
+      "warmWallMs": {
+        "min": 2965,
+        "median": 2965,
+        "p95": 2965,
+        "max": 2965
+      },
+      "mainThreadMaxHeartbeatGapMs": 72.09999999403954,
+      "mainThreadLargestP95HeartbeatGapMs": 20.900000005960464,
+      "pageJSHeapMaxSnapshotBytes": 5855512,
+      "memoryLimitation": "Page V8 heap after inference only; excludes dedicated worker, native WASM, GPU and transient peak. Not a model memory budget."
+    }
+  }
+}

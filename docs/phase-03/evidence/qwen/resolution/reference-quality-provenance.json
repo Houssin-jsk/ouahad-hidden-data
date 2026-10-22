@@ -1,0 +1,35 @@
+{
+  "source": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-ai\\vision_engine\\engine\\quality.py",
+  "sha256": "e80d63b1eafc991ed2dd9b69e75b858d6482b033d2822da285eefb53ab31991f",
+  "finalReferenceSnapshotSha256": "e80d63b1eafc991ed2dd9b69e75b858d6482b033d2822da285eefb53ab31991f",
+  "matchesFinalReferenceSnapshot": true,
+  "functions": [
+    {
+      "function": "normalized",
+      "startLine": 16,
+      "endLine": 19
+    },
+    {
+      "function": "object_key",
+      "startLine": 20,
+      "endLine": 33
+    },
+    {
+      "function": "reject_duplicate_json_keys",
+      "startLine": 34,
+      "endLine": 47
+    },
+    {
+      "function": "quality_issues",
+      "startLine": 48,
+      "endLine": 123
+    },
+    {
+      "function": "enforce_quality",
+      "startLine": 124,
+      "endLine": 127
+    }
+  ],
+  "behavior": "Pure text-integrity comparisons normalize only for checking; no factual claim repair, removal, deduplication or fabrication. Quality checks cannot establish visible truth.",
+  "dependencyBoundary": "quality_issues uses json/re/unicodedata/Counter/defaultdict and VisionContent attributes/model_dump; enforce_quality uses FastAPI HTTPException. Companion adaptation must map whole-response rejection to SafeError without pretending text checks establish grounding."
+}

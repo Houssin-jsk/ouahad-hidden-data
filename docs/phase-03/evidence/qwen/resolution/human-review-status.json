@@ -1,0 +1,9 @@
+{
+  "status": "pending",
+  "contractSha256": "1604725c0d0324f52a273671aa6e341a076530bea02cfe84705a44edab4fe636",
+  "humanRatings": null,
+  "qualification": "BLOCKED pending independent human review",
+  "automatedStructuralAccepted": 9,
+  "originals": 8,
+  "transforms": 2
+}

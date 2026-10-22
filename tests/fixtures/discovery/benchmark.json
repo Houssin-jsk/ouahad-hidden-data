@@ -1,0 +1,36 @@
+{
+  "version": "discovery-six-photos-v1",
+  "selection": "Fixed before Phase 4.2 inference. Qualitative scope checks, not a held-out accuracy benchmark.",
+  "cases": [
+    {
+      "file": "tests/fixtures/evaluation/outdoor-cooking.jpg",
+      "scope": "Moroccan outdoor cooking; expected broad food preparation/fire, no cultural identity inference",
+      "relevantIds": ["outdoor-cooking"]
+    },
+    {
+      "file": "tests/fixtures/tiger.jpg",
+      "scope": "single clear wild animal",
+      "relevantIds": ["wildlife"]
+    },
+    {
+      "file": "tests/fixtures/evaluation/cats.jpg",
+      "scope": "multiple pets and objects indoors",
+      "relevantIds": ["pets"]
+    },
+    {
+      "file": "tests/fixtures/discovery/indoor.jpg",
+      "scope": "empty apartment room; no furniture visible, exact empty-room description absent from library",
+      "relevantIds": []
+    },
+    {
+      "file": "tests/fixtures/discovery/landscape.jpg",
+      "scope": "lake, mountains, trees and cultivated surroundings",
+      "relevantIds": ["mountain-lake", "river", "farmland"]
+    },
+    {
+      "file": "tests/fixtures/discovery/reflection.jpg",
+      "scope": "distorted reflections through old window glass; ambiguous structures",
+      "relevantIds": ["reflections", "architecture"]
+    }
+  ]
+}

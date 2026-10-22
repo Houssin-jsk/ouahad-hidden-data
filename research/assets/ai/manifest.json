@@ -1,0 +1,32 @@
+{
+  "modelRevision": "3ba07f12712fa58fd6b3d661f9909c9e332c5005",
+  "transformersVersion": "4.3.1",
+  "runtimeVersion": "1.31.0-dev.20260914-8d85527a0",
+  "assets": [
+    {
+      "path": "mobilenetv4/config.json",
+      "bytes": 69895,
+      "sha256": "ae99506e66f8e19bc73809e5b4c3ae31fc7c2bca53752dc7cb89c1e47831a335"
+    },
+    {
+      "path": "mobilenetv4/preprocessor_config.json",
+      "bytes": 441,
+      "sha256": "21bb2bccbd790ded22ca9ac77758578bae4d90d8fc578a612097bd38e9d40b2f"
+    },
+    {
+      "path": "mobilenetv4/onnx/model.onnx",
+      "bytes": 15086122,
+      "sha256": "ca5b8dbf490f54e83c5d72f787821565447ea94347935f6b834cf0a4af0e8d37"
+    },
+    {
+      "path": "runtime/ort-wasm-simd-threaded.asyncify.mjs",
+      "bytes": 53057,
+      "sha256": "0966b6105cd936744498aa60df7a22cbd47af3374dbc64a9ab561c08a71e3611"
+    },
+    {
+      "path": "runtime/ort-wasm-simd-threaded.asyncify.wasm",
+      "bytes": 26861777,
+      "sha256": "49871f5a4409519797e127440868a6d1923339d9185907f301a5b2a1d90af082"
+    }
+  ]
+}

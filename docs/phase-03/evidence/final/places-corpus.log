@@ -1,0 +1,20 @@
+1/16 File:Reception desks of Amantaka luxury Resort & Hotel in Luang Prabang Laos.jpg (CC BY-SA 4.0)
+2/16 File:Canopy bed of Amantaka Suite in Amantaka luxury Resort & Hotel in Luang Prabang Laos.jpg (CC BY-SA 4.0)
+3/16 File:Interior view of a submerged kitchen in the muddy water of the Mekong, at night, during a flood in Don Det, Laos.jpg (CC BY-SA 4.0)
+4/16 File:Cheops Mountain seen the Sir Donald Trail.jpg (CC BY-SA 2.5 ca)
+5/16 File:Photos of natural landscapes and tropical forests in Indonesia. view of the new alley waterfall in North Bengkulu. tourist destination for photographers or those who like to travel.jpg (CC BY-SA 4.0)
+6/16 File:Cape Town (ZA), Wale Street -- 2024 -- 3536.jpg (CC BY-SA 4.0)
+7/16 File:Mother-Child face to face.jpg (CC BY 2.0)
+8/16 File:Macro, Red Flower - panoramio.jpg (CC BY-SA 3.0)
+9/16 File:Blue eyed Cicada, face 2021-06-02-12.32.22 ZS PMax UDR - Flickr - Sam Droege.jpg (Public domain)
+file:///C:/Users/ouaha/OneDrive/Desktop/ouahad-hidden-data/scripts/prepare-phase03-places-corpus.mjs:54
+    throw Error(`No clearly licensed JPEG for query ${queries[i]}`);
+          ^
+
+Error: No clearly licensed JPEG for query necklace pendant closeup
+    at file:///C:/Users/ouaha/OneDrive/Desktop/ouahad-hidden-data/scripts/prepare-phase03-places-corpus.mjs:54:11
+
+Node.js v24.15.0
+10/16 File:Minoan gold necklace archmus Heraklion.jpg (CC0)
+11/16 File:Khalsa Darbar record of the Sikh Empire, consisting of a handwritten letter in the name of Fakir Syed Nooruddin.jpg (Public domain)
+12/16 File:Abstract sculpture by Ádám Farkas, 2017 Tatabánya.jpg (CC BY-SA 3.0)

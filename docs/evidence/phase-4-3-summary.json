@@ -1,0 +1,110 @@
+{
+  "datasetVersion": "readiness-24-photos-v1",
+  "note": "Judgments target principal-scene relevance; no cosine threshold or probability conversion. Quality gates only; privacy/performance/product checks remain separate.",
+  "acceptance": {
+    "coveredTop1": 0.8,
+    "coveredLeading4": 0.9,
+    "unsupportedExplicitAbstention": 1,
+    "notes": "Product gates fixed before inference, not calibrated model-score thresholds. Leading four are the best plus the three alternatives actually displayed. No universal cosine cutoff. Explicit opt-in/download disclosure, privacy, fallback and resource error handling are mandatory; physical mobile unsupported until tested."
+  },
+  "summary": [
+    {
+      "mode": "discovery",
+      "split": "all",
+      "total": 24,
+      "covered": 15,
+      "topRelevant": 12,
+      "leading4Relevant": 15,
+      "leading5Relevant": 15,
+      "unsupported": 9,
+      "explicitAbstentions": 0,
+      "gates": {
+        "topRelevant": true,
+        "displayedAlternatives": true,
+        "unsupportedHandling": false
+      }
+    },
+    {
+      "mode": "discovery",
+      "split": "audit",
+      "total": 12,
+      "covered": 6,
+      "topRelevant": 4,
+      "leading4Relevant": 6,
+      "leading5Relevant": 6,
+      "unsupported": 6,
+      "explicitAbstentions": 0,
+      "gates": {
+        "topRelevant": false,
+        "displayedAlternatives": true,
+        "unsupportedHandling": false
+      }
+    },
+    {
+      "mode": "discovery",
+      "split": "held-out",
+      "total": 12,
+      "covered": 9,
+      "topRelevant": 8,
+      "leading4Relevant": 9,
+      "leading5Relevant": 9,
+      "unsupported": 3,
+      "explicitAbstentions": 0,
+      "gates": {
+        "topRelevant": true,
+        "displayedAlternatives": true,
+        "unsupportedHandling": false
+      }
+    },
+    {
+      "mode": "readiness",
+      "split": "all",
+      "total": 24,
+      "covered": 16,
+      "topRelevant": 10,
+      "leading4Relevant": 14,
+      "leading5Relevant": 14,
+      "unsupported": 8,
+      "explicitAbstentions": 0,
+      "gates": {
+        "topRelevant": false,
+        "displayedAlternatives": false,
+        "unsupportedHandling": false
+      }
+    },
+    {
+      "mode": "readiness",
+      "split": "audit",
+      "total": 12,
+      "covered": 7,
+      "topRelevant": 4,
+      "leading4Relevant": 6,
+      "leading5Relevant": 6,
+      "unsupported": 5,
+      "explicitAbstentions": 0,
+      "gates": {
+        "topRelevant": false,
+        "displayedAlternatives": false,
+        "unsupportedHandling": false
+      }
+    },
+    {
+      "mode": "readiness",
+      "split": "held-out",
+      "total": 12,
+      "covered": 9,
+      "topRelevant": 6,
+      "leading4Relevant": 8,
+      "leading5Relevant": 8,
+      "unsupported": 3,
+      "explicitAbstentions": 0,
+      "gates": {
+        "topRelevant": false,
+        "displayedAlternatives": false,
+        "unsupportedHandling": false
+      }
+    }
+  ],
+  "qualityPass": false,
+  "recommendation": "keep experimental"
+}

@@ -1,0 +1,14 @@
+
+> ouahad-hidden-data@0.1.0 test:research
+> playwright test --config playwright.research.config.ts final-places-runtime.spec.ts
+
+[WebServer] (node:12060) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+[WebServer] (Use `node --trace-warnings ...` to show where the warning was created)
+
+Running 1 test using 1 worker
+
+(node:26428) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+  ok 1 tests\research\final-places-runtime.spec.ts:4:5 › exact Places365 ResNet18 Chrome WASM eligibility (3.8s)
+
+  1 passed (7.9s)

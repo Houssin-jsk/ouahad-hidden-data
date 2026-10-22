@@ -1,0 +1,2399 @@
+{
+  "requestUrl": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=street+cafe+tables+chairs+photograph+filetype%3Abitmap&gsrnamespace=6&gsrlimit=20&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1536",
+  "response": {
+    "batchcomplete": "",
+    "continue": {
+      "gsroffset": 20,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": {
+        "13853506": {
+          "pageid": 13853506,
+          "ns": 6,
+          "title": "File:Cafe seats in the snow, Exeter - geograph.org.uk - 1149362.jpg",
+          "index": 17,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 100934,
+              "width": 480,
+              "height": 640,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Cafe_seats_in_the_snow%2C_Exeter_-_geograph.org.uk_-_1149362.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 1536,
+              "thumbheight": 2048,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/7/75/Cafe_seats_in_the_snow%2C_Exeter_-_geograph.org.uk_-_1149362.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 2048
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Cafe_seats_in_the_snow%2C_Exeter_-_geograph.org.uk_-_1149362.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cafe_seats_in_the_snow,_Exeter_-_geograph.org.uk_-_1149362.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=13853506",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2011-02-25 06:37:05",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Cafe seats in the snow, Exeter - geograph.org.uk - 1149362",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Images from Geograph Britain and Ireland|Information field template with formatting|Snow in Devon|Sidewalk cafés in the United Kingdom|Images by Derek Harper|United Kingdom photographs taken on 2009-02-02|Outdoor chairs in the United Kingdom|Snow-covered furniture|Cafés in Exeter|Chairs in Devon",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "50.724440",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-3.531500",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Cafe seats in the snow, Exeter No takers for the pavement tables at this coffee bar on Queen Street after a heavy snowfall, which has also adorned the refuse sacks in the background.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2009-02-02",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "From <a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/1149362\">geograph.org.uk</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/5089\">Derek Harper</a>",
+                  "source": "commons-desc-page"
+                },
+                "Attribution": {
+                  "value": "Derek Harper",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "15488153": {
+          "pageid": 15488153,
+          "ns": 6,
+          "title": "File:Tables and director's chairs on les Planches de Deauville 005.jpg",
+          "index": 8,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 6513059,
+              "width": 4256,
+              "height": 2832,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Tables_and_director%27s_chairs_on_les_Planches_de_Deauville_005.jpg/1920px-Tables_and_director%27s_chairs_on_les_Planches_de_Deauville_005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1022,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Tables_and_director%27s_chairs_on_les_Planches_de_Deauville_005.jpg/3840px-Tables_and_director%27s_chairs_on_les_Planches_de_Deauville_005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Tables_and_director%27s_chairs_on_les_Planches_de_Deauville_005.jpg/1920px-Tables_and_director%27s_chairs_on_les_Planches_de_Deauville_005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1022,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Tables_and_director%27s_chairs_on_les_Planches_de_Deauville_005.jpg/3840px-Tables_and_director%27s_chairs_on_les_Planches_de_Deauville_005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Tables_and_director%27s_chairs_on_les_Planches_de_Deauville_005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tables_and_director%27s_chairs_on_les_Planches_de_Deauville_005.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=15488153",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2011-06-12 16:47:26",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Tables and director's chairs on les Planches de Deauville 005",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Taken with Nikon D700|Film director's chairs|Les Planches de Deauville|Cafés in Calvados|Chairs in France|France photographs taken on 2011-05-24|Files with coordinates missing SDC location of creation (49° N, 0° E)|Files by Guillaume Paumier",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "49.360965",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "0.066898",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<b>Tables and director's chairs at a café</b> on the <i><div lang=\"fr\" dir=\"ltr\" class=\"description fr\" style=\"display:inline;\">planches de Deauville</div></i>, a famous wooden <i>promenade</i> on the beach in Deauville, France. This picture was taken two days before the <a href=\"//commons.wikimedia.org/wiki/Category:37th_G8_summit\" title=\"Category:37th G8 summit\">37th G8 summit</a>, during which the whole area was under extremely high security measures (\"sanctuarized zone\"), and reserved to Heads of State, Heads of Government and members of their delegations.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2011-05-24 14:44:12",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Guillom\" title=\"User:Guillom\">Guillaume Paumier</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/3.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "41533691": {
+          "pageid": 41533691,
+          "ns": 6,
+          "title": "File:'Hortorum' pelargonium with cafe tables and chairs Gibberd Garden Essex England 01.JPG",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 16627072,
+              "width": 5472,
+              "height": 3648,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/%27Hortorum%27_pelargonium_with_cafe_tables_and_chairs_Gibberd_Garden_Essex_England_01.JPG/1920px-%27Hortorum%27_pelargonium_with_cafe_tables_and_chairs_Gibberd_Garden_Essex_England_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1024,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/%27Hortorum%27_pelargonium_with_cafe_tables_and_chairs_Gibberd_Garden_Essex_England_01.JPG/3840px-%27Hortorum%27_pelargonium_with_cafe_tables_and_chairs_Gibberd_Garden_Essex_England_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/%27Hortorum%27_pelargonium_with_cafe_tables_and_chairs_Gibberd_Garden_Essex_England_01.JPG/1920px-%27Hortorum%27_pelargonium_with_cafe_tables_and_chairs_Gibberd_Garden_Essex_England_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1024,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/%27Hortorum%27_pelargonium_with_cafe_tables_and_chairs_Gibberd_Garden_Essex_England_01.JPG/3840px-%27Hortorum%27_pelargonium_with_cafe_tables_and_chairs_Gibberd_Garden_Essex_England_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/%27Hortorum%27_pelargonium_with_cafe_tables_and_chairs_Gibberd_Garden_Essex_England_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:%27Hortorum%27_pelargonium_with_cafe_tables_and_chairs_Gibberd_Garden_Essex_England_01.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=41533691",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2015-07-12 16:26:28",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "'Hortorum' pelargonium with cafe tables and chairs Gibberd Garden Essex England 01",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Pelargonium × hortorum|Photographs with aspect ratio of 3:2|Gibberd Garden|Open air restaurant and café areas|Taken with Canon EOS 6D and Canon EF 24-105mm F4L IS USM|Self-published work|Summer flowers|Summer in Essex|Eating establishments in the United Kingdom|Hedges in Essex|Flowers in Essex|Geraniaceae in the United Kingdom|Flora of Essex in July|July 2015 in Essex|Red flowers in the United Kingdom|Photographs taken on 2015-07-11|Geraniaceae in the Northern Hemisphere in July|Garden flowers|Acabashi photos: flowers in Essex|Round tables in cafés|Files with coordinates missing SDC location of creation (51° N, 0° E)|Plastic outdoor tables|Metal outdoor chairs|Restaurant tables|Chairs in Essex|Tables in Essex",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "51.791870",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "0.149562",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<i><a href=\"https://en.wikipedia.org/wiki/Pelargonium\" class=\"extiw\" title=\"en:Pelargonium\">Pelargonium</a></i> 'Hortorum' in planters with tables and chairs on a cafe patio at <a href=\"https://en.wikipedia.org/wiki/Gibberd_Garden\" class=\"extiw\" title=\"en:Gibberd Garden\">The Gibberd Garden</a>, in the <a href=\"https://en.wikipedia.org/wiki/Harlow\" class=\"extiw\" title=\"en:Harlow\">Harlow District</a> of <a href=\"https://en.wikipedia.org/wiki/Essex\" class=\"extiw\" title=\"en:Essex\">Essex</a>, England",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2015-07-11 14:12:02",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Acabashi\" title=\"User:Acabashi\">Acabashi</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "<div style=\"clear:both; border:1px solid #999999; margin:1em 0.8em; padding:0.5em 0.8em; background-color: #ffffff; font-size: 100%;\">\n<p><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:CCBYSA_yellow.png\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/2/29/CCBYSA_yellow.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail_unscaled\" decoding=\"async\" loading=\"lazy\" width=\"87\" height=\"35\" class=\"mw-file-element\" data-file-width=\"87\" data-file-height=\"35\"></a></span>\n</p><p>Permission is given to reuse this file under conditions stipulated by <a href=\"https://en.wikipedia.org/wiki/Creative_Commons\" class=\"extiw\" title=\"en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-ShareAlike 4.0 International</a> licensing. Please note that although this file is <a href=\"//commons.wikimedia.org/wiki/Commons:Licensing\" title=\"Commons:Licensing\">freely licenced</a> it is <b>not in the <a href=\"https://en.wikipedia.org/wiki/Public_domain\" class=\"extiw\" title=\"en:Public domain\">public domain</a></b>, and might have specific <b>exclusion</b> for use in <b>social media</b>.\n</p><p>Before download and reuse, please consult the Wikimedia page <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing content outside Wikimedia</a>. Attribution <b>must</b> be given for republishing in <b>any</b> media, and requires the name of the creator (<a href=\"//commons.wikimedia.org/wiki/User:Acabashi\" title=\"User:Acabashi\">Acabashi</a>), and a link to the content here if web based, or written accreditation if not web based. If you change, manipulate or add to the file, or use the file or parts of it within other works, on publication in any media you <b>must still</b> attribute the original image file to the creator as described above. In all cases you must add follow-on Attribution-ShareAlike 4.0 International copyright, licensing and disclaimer notices indicating that any changes, additions and manipulation you made are freely available under Creative Commons licensing, and shows a requirement that any follow-on publishing by others, with or with or without further changes, adds the same licensing and refers attribution to this original source. \n</p><p><b>Put simply</b>, you must not re-publish this file without attribution, whether or not you have built on it, or with it, and you must not insist on your own copyright notification stopping others from freely using it or your variation.\n</p><p><b>Online attribution</b>: Image © <a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/User:Acabashi\">Acabashi</a>; <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/legalcode\">Creative Commons CC-BY-SA 4.0</a>; Source: <a class=\"mw-selflink selflink\">Wikimedia Commons</a><br>\n</p>\n<b>Print attribution</b>: Image © Acabashi, Creative Commons CC-BY-SA 4.0, Wikimedia Commons</div>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "41533866": {
+          "pageid": 41533866,
+          "ns": 6,
+          "title": "File:'Hortorum' pelargonium with cafe tables and chairs Gibberd Garden Essex England 02.JPG",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 15320128,
+              "width": 5472,
+              "height": 3648,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/%27Hortorum%27_pelargonium_with_cafe_tables_and_chairs_Gibberd_Garden_Essex_England_02.JPG/1920px-%27Hortorum%27_pelargonium_with_cafe_tables_and_chairs_Gibberd_Garden_Essex_England_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1024,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/%27Hortorum%27_pelargonium_with_cafe_tables_and_chairs_Gibberd_Garden_Essex_England_02.JPG/3840px-%27Hortorum%27_pelargonium_with_cafe_tables_and_chairs_Gibberd_Garden_Essex_England_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/%27Hortorum%27_pelargonium_with_cafe_tables_and_chairs_Gibberd_Garden_Essex_England_02.JPG/1920px-%27Hortorum%27_pelargonium_with_cafe_tables_and_chairs_Gibberd_Garden_Essex_England_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1024,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/%27Hortorum%27_pelargonium_with_cafe_tables_and_chairs_Gibberd_Garden_Essex_England_02.JPG/3840px-%27Hortorum%27_pelargonium_with_cafe_tables_and_chairs_Gibberd_Garden_Essex_England_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/%27Hortorum%27_pelargonium_with_cafe_tables_and_chairs_Gibberd_Garden_Essex_England_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:%27Hortorum%27_pelargonium_with_cafe_tables_and_chairs_Gibberd_Garden_Essex_England_02.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=41533866",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2015-07-12 16:35:47",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "'Hortorum' pelargonium with cafe tables and chairs Gibberd Garden Essex England 02",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Pelargonium × hortorum|Photographs with aspect ratio of 3:2|Gibberd Garden|Open air restaurant and café areas|Taken with Canon EOS 6D and Canon EF 24-105mm F4L IS USM|Self-published work|Summer flowers|Summer in Essex|Eating establishments in the United Kingdom|Hedges in Essex|Flowers in Essex|Geraniaceae in the United Kingdom|Flora of Essex in July|July 2015 in Essex|Red flowers in the United Kingdom|Photographs taken on 2015-07-11|Geraniaceae in the Northern Hemisphere in July|Garden flowers|Acabashi photos: flowers in Essex|Round tables in cafés|Planters in Essex|Files with coordinates missing SDC location of creation (51° N, 0° E)|Plastic outdoor tables|Metal outdoor chairs|Restaurant tables|Chairs in Essex|Tables in Essex",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "51.791748",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "0.149503",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<i><a href=\"https://en.wikipedia.org/wiki/Pelargonium\" class=\"extiw\" title=\"en:Pelargonium\">Pelargonium</a></i> 'Hortorum' in planters with tables and chairs on a cafe patio at <a href=\"https://en.wikipedia.org/wiki/Gibberd_Garden\" class=\"extiw\" title=\"en:Gibberd Garden\">The Gibberd Garden</a>, in the <a href=\"https://en.wikipedia.org/wiki/Harlow\" class=\"extiw\" title=\"en:Harlow\">Harlow District</a> of <a href=\"https://en.wikipedia.org/wiki/Essex\" class=\"extiw\" title=\"en:Essex\">Essex</a>, England. <b>Software</b>: <a href=\"https://en.wikipedia.org/wiki/Raw_image_format\" class=\"extiw\" title=\"en:Raw image format\">RAW file</a> converted to JPEG with <a href=\"https://en.wikipedia.org/wiki/Canon_Inc.\" class=\"extiw\" title=\"en:Canon Inc.\"> Canon</a> <a href=\"https://en.wikipedia.org/wiki/Digital_Photo_Professional\" class=\"extiw\" title=\"en:Digital Photo Professional\">Digital Photo Professional</a>, and then possibly spun and/or optimized and/or cropped with <a href=\"https://en.wikipedia.org/wiki/Adobe_Photoshop#CS2\" class=\"extiw\" title=\"en:Adobe Photoshop\">Adobe Photoshop CS2</a>.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2015-07-11 15:28:49",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Acabashi\" title=\"User:Acabashi\">Acabashi</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "<div style=\"clear:both; border:1px solid #999999; margin:1em 0.8em; padding:0.5em 0.8em; background-color: #ffffff; font-size: 100%;\">\n<p><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:CCBYSA_yellow.png\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/2/29/CCBYSA_yellow.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail_unscaled\" decoding=\"async\" loading=\"lazy\" width=\"87\" height=\"35\" class=\"mw-file-element\" data-file-width=\"87\" data-file-height=\"35\"></a></span>\n</p><p>Permission is given to reuse this file under conditions stipulated by <a href=\"https://en.wikipedia.org/wiki/Creative_Commons\" class=\"extiw\" title=\"en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-ShareAlike 4.0 International</a> licensing. Please note that although this file is <a href=\"//commons.wikimedia.org/wiki/Commons:Licensing\" title=\"Commons:Licensing\">freely licenced</a> it is <b>not in the <a href=\"https://en.wikipedia.org/wiki/Public_domain\" class=\"extiw\" title=\"en:Public domain\">public domain</a></b>, and might have specific <b>exclusion</b> for use in <b>social media</b>.\n</p><p>Before download and reuse, please consult the Wikimedia page <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing content outside Wikimedia</a>. Attribution <b>must</b> be given for republishing this image in <b>any</b> media, and requires the name of the creator (<a href=\"//commons.wikimedia.org/wiki/User:Acabashi\" title=\"User:Acabashi\">Acabashi</a>), and a link to the content here if web based, or written accreditation if not web based. If you change, manipulate or add to the file, or use the file or parts of it within other works, on publication in any media you <b>must still</b> credit the creator here as described above for this original image used, and must detail the changes you made. In all cases you must also add follow-on <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-ShareAlike 4.0 International</a> copyright license and disclaimer notices. State that your variation is freely available under this same level Creative Commons license, and that any follow-on publishing by others, with or without their further changes, must add the same licensing statement, and attribution referral to the original image here.\n</p><p><b>Put simply</b>, you must not re-publish this file without attribution, whether or not you have built on it, or with it, and you must not insist on your own copyright notification stopping others from freely using it or your variation.\n</p><p><b>Online attribution</b>: Image © <a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/User:Acabashi\">Acabashi</a>; <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/legalcode\">Creative Commons CC-BY-SA 4.0</a>; Source: <a class=\"mw-selflink selflink\">Wikimedia Commons</a><br>\n</p>\n<b>Print attribution</b>: Image © Acabashi, Creative Commons CC-BY-SA 4.0, Wikimedia Commons</div>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "53506608": {
+          "pageid": 53506608,
+          "ns": 6,
+          "title": "File:Scheveningen, beach cafe - panoramio.jpg",
+          "index": 19,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2834892,
+              "width": 2560,
+              "height": 1920,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Scheveningen%2C_beach_cafe_-_panoramio.jpg/1920px-Scheveningen%2C_beach_cafe_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1152,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Scheveningen%2C_beach_cafe_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Scheveningen%2C_beach_cafe_-_panoramio.jpg/1920px-Scheveningen%2C_beach_cafe_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1152,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Scheveningen%2C_beach_cafe_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Scheveningen%2C_beach_cafe_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Scheveningen,_beach_cafe_-_panoramio.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=53506608",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2016-11-25 16:28:59",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Scheveningen, beach cafe - panoramio",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Scheveningen|Tables|Panoramio files uploaded by Panoramio upload bot|Bars in the Netherlands|Panoramio images reviewed by trusted users|Photos from Panoramio|2006 in The Hague|Cafés in South Holland|Netherlands photographs taken on 2006-04-28|Outdoor chairs in the Netherlands|Photos from Panoramio ID 315083",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "52.113661",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "4.280827",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Scheveningen, beach cafe",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "Taken on 28 April 2006",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20161021200640/http://www.panoramio.com/photo/53640690\">https://web.archive.org/web/20161021200640/http://www.panoramio.com/photo/53640690</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161021200648/http://www.panoramio.com/user/315083?with_photo_id=53640690\">josefstuefer</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">josefstuefer</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\n<style data-mw-deduplicate=\"TemplateStyles:r901585720\">.mw-parser-output .panoramioreview{width:100%;margin:0.5em 0;background-color:var(--background-color-warning-subtle,#fffff0);padding:5px;border:1px solid var(--border-color-warning,#aa8);color:inherit}.mw-parser-output .panoramioreview-failed{background-color:var(--background-color-error-subtle,#fcc);color:inherit}.mw-parser-output .panoramioreview-passed{background-color:var(--background-color-success-subtle,#efe);color:inherit}</style>\n<table class=\"panoramioreview panoramioreview-passed\" lang=\"en\" dir=\"ltr\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Panoramio\" class=\"extiw\" title=\"en:Panoramio\">Panoramio</a></span></b>, was automatically reviewed on 25 November 2016 by <b><a href=\"//commons.wikimedia.org/wiki/User:Panoramio_upload_bot\" title=\"User:Panoramio upload bot\">Panoramio upload bot</a></b>, who confirmed that it was available on Panoramio under the above license on that date.\n</td>\n<td><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Star_and_ring.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Star_and_ring.svg/60px-Star_and_ring.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Star_and_ring.svg/120px-Star_and_ring.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"75\" data-file-height=\"75\"></a></span>\n</td></tr></tbody></table>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "josefstuefer",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "70548221": {
+          "pageid": 70548221,
+          "ns": 6,
+          "title": "File:Cafe in Newstead, Brisbane, Queensland.jpg",
+          "index": 18,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 831579,
+              "width": 1536,
+              "height": 2048,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Cafe_in_Newstead%2C_Brisbane%2C_Queensland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 1536,
+              "thumbheight": 2048,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Cafe_in_Newstead%2C_Brisbane%2C_Queensland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 2048
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Cafe_in_Newstead%2C_Brisbane%2C_Queensland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cafe_in_Newstead,_Brisbane,_Queensland.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=70548221",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2018-07-04 11:12:57",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Cafe in Newstead, Brisbane, Queensland",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Newstead, Queensland|Self-published work|Wicker baskets|Wooden tables|Bentwood chairs|Files with coordinates missing SDC location of creation|Photographs by Kgbo taken in 2018|July 2018 in Brisbane|Australia photographs taken on 2018-07-04|Photos by User:Kgbo|Cafés in Brisbane|Interiors of cafés in Queensland",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "-27.450342",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "153.043639",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Cafe in Newstead, Brisbane, Queensland",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2018-07-04 11:05:37",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Kgbo\" title=\"User:Kgbo\">Kgbo</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "109173029": {
+          "pageid": 109173029,
+          "ns": 6,
+          "title": "File:Lourmarin - fountain behind the tables and chairs (5829943695).jpg",
+          "index": 20,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2487242,
+              "width": 3648,
+              "height": 2736,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Lourmarin_-_fountain_behind_the_tables_and_chairs_%285829943695%29.jpg/1920px-Lourmarin_-_fountain_behind_the_tables_and_chairs_%285829943695%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1152,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Lourmarin_-_fountain_behind_the_tables_and_chairs_%285829943695%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Lourmarin_-_fountain_behind_the_tables_and_chairs_%285829943695%29.jpg/1920px-Lourmarin_-_fountain_behind_the_tables_and_chairs_%285829943695%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1152,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Lourmarin_-_fountain_behind_the_tables_and_chairs_%285829943695%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Lourmarin_-_fountain_behind_the_tables_and_chairs_%285829943695%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lourmarin_-_fountain_behind_the_tables_and_chairs_(5829943695).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=109173029",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-08-23 02:46:53",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Lourmarin - fountain behind the tables and chairs (5829943695)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|France photographs taken on 2011-05-26|Files uploaded by Orizan|Fountains in Lourmarin|Flickr images missing SDC published in",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "43.764105",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "5.363023",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<p>This is the village of Lourmarin in The Luberon (one of France's National Parks).\n</p><p>The village of Lourmarin is set in magnificent surroundings and radiates peace and serenity. It has spread on the lush plain around a small promontory at the top of which are a church and belfry. Everything works towards its beauty. The village is best seen from the road to Lauris: the castle emerging from dense vegetation, the Protestant temple, and finally the village itself, rising up on terraces to meet the church tower, with the added grace of Mediterranean vegetation.\n</p><p>Photos from a walk around the French village of Lourmarin.\n</p><p>We next went up the hill.\n</p>\nFound another fountain - expect it was hidden behind these tables and chairs for the nearby cafe.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2011-05-26 10:35",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/ell-r-brown/5829943695/\">Lourmarin - fountain behind the tables and chairs</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/39415781@N06\">Elliott Brown</a> from Birmingham, United Kingdom",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "115775209": {
+          "pageid": 115775209,
+          "ns": 6,
+          "title": "File:Tables and chairs, Caversham Precinct - geograph.org.uk - 3265841.jpg",
+          "index": 10,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 312261,
+              "width": 640,
+              "height": 427,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Tables_and_chairs%2C_Caversham_Precinct_-_geograph.org.uk_-_3265841.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 1536,
+              "thumbheight": 1025,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Tables_and_chairs%2C_Caversham_Precinct_-_geograph.org.uk_-_3265841.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1025
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Tables_and_chairs%2C_Caversham_Precinct_-_geograph.org.uk_-_3265841.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tables_and_chairs,_Caversham_Precinct_-_geograph.org.uk_-_3265841.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=115775209",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2022-03-04 18:57:18",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Tables and chairs, Caversham Precinct - geograph.org.uk - 3265841",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Caversham, Berkshire|Images from Geograph Britain and Ireland",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "51.467237",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-0.974812",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Tables and chairs, Caversham Precinct <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Tables_and_chairs,_Caversham_Precinct_-_geograph.org.uk_-_3265841.jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2012-11-19",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/3265841\">Geograph Britain and Ireland</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Tables_and_chairs,_Caversham_Precinct_-_geograph.org.uk_-_3265841.jpg#P7482\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/14719\">Rose and Trev Clough</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Tables_and_chairs,_Caversham_Precinct_-_geograph.org.uk_-_3265841.jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "<i>Tables and chairs, Caversham Precinct</i> by Rose and Trev Clough",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "118428461": {
+          "pageid": 118428461,
+          "ns": 6,
+          "title": "File:Café tables and chairs, Serpentine Gallery Pavilion 2013 - geograph.org.uk - 3556444.jpg",
+          "index": 7,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3511706,
+              "width": 3648,
+              "height": 2736,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Caf%C3%A9_tables_and_chairs%2C_Serpentine_Gallery_Pavilion_2013_-_geograph.org.uk_-_3556444.jpg/1920px-Caf%C3%A9_tables_and_chairs%2C_Serpentine_Gallery_Pavilion_2013_-_geograph.org.uk_-_3556444.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1152,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/3/31/Caf%C3%A9_tables_and_chairs%2C_Serpentine_Gallery_Pavilion_2013_-_geograph.org.uk_-_3556444.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Caf%C3%A9_tables_and_chairs%2C_Serpentine_Gallery_Pavilion_2013_-_geograph.org.uk_-_3556444.jpg/1920px-Caf%C3%A9_tables_and_chairs%2C_Serpentine_Gallery_Pavilion_2013_-_geograph.org.uk_-_3556444.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1152,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/31/Caf%C3%A9_tables_and_chairs%2C_Serpentine_Gallery_Pavilion_2013_-_geograph.org.uk_-_3556444.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Caf%C3%A9_tables_and_chairs%2C_Serpentine_Gallery_Pavilion_2013_-_geograph.org.uk_-_3556444.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Caf%C3%A9_tables_and_chairs,_Serpentine_Gallery_Pavilion_2013_-_geograph.org.uk_-_3556444.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=118428461",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2022-05-29 05:36:34",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Café tables and chairs, Serpentine Gallery Pavilion 2013 - geograph.org.uk - 3556444",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Images from Geograph Britain and Ireland|Serpentine Gallery Pavilion 2013",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "51.504540",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-0.174585",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Café tables and chairs, Serpentine Gallery Pavilion 2013 <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Caf%C3%A9_tables_and_chairs,_Serpentine_Gallery_Pavilion_2013_-_geograph.org.uk_-_3556444.jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2013-07-13",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/3556444\">Geograph Britain and Ireland</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Caf%C3%A9_tables_and_chairs,_Serpentine_Gallery_Pavilion_2013_-_geograph.org.uk_-_3556444.jpg#P7482\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/560\">David Hawgood</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Caf%C3%A9_tables_and_chairs,_Serpentine_Gallery_Pavilion_2013_-_geograph.org.uk_-_3556444.jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "<i>Café tables and chairs, Serpentine Gallery Pavilion 2013</i> by David Hawgood",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "133735524": {
+          "pageid": 133735524,
+          "ns": 6,
+          "title": "File:Tables and chairs by Melton Country Park Visitors Centre - geograph.org.uk - 5023224.jpg",
+          "index": 13,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 77141,
+              "width": 640,
+              "height": 414,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Tables_and_chairs_by_Melton_Country_Park_Visitors_Centre_-_geograph.org.uk_-_5023224.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 1536,
+              "thumbheight": 994,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/Tables_and_chairs_by_Melton_Country_Park_Visitors_Centre_-_geograph.org.uk_-_5023224.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 994
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Tables_and_chairs_by_Melton_Country_Park_Visitors_Centre_-_geograph.org.uk_-_5023224.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tables_and_chairs_by_Melton_Country_Park_Visitors_Centre_-_geograph.org.uk_-_5023224.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=133735524",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-06-29 09:37:11",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Tables and chairs by Melton Country Park Visitors Centre - geograph.org.uk - 5023224",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Borough of Melton|Images from Geograph Britain and Ireland",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "52.779758",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-0.879609",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Tables and chairs by Melton Country Park Visitors Centre <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Tables_and_chairs_by_Melton_Country_Park_Visitors_Centre_-_geograph.org.uk_-_5023224.jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2016-06-25",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/5023224\">Geograph Britain and Ireland</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Tables_and_chairs_by_Melton_Country_Park_Visitors_Centre_-_geograph.org.uk_-_5023224.jpg#P7482\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/5589\">Andrew Tatlow</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Tables_and_chairs_by_Melton_Country_Park_Visitors_Centre_-_geograph.org.uk_-_5023224.jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "<i>Tables and chairs by Melton Country Park Visitors Centre</i> by Andrew Tatlow",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "143215859": {
+          "pageid": 143215859,
+          "ns": 6,
+          "title": "File:Burns Museum Cafe, Tables and Chairs - geograph.org.uk - 6032039.jpg",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3006890,
+              "width": 2976,
+              "height": 1984,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Burns_Museum_Cafe%2C_Tables_and_Chairs_-_geograph.org.uk_-_6032039.jpg/1920px-Burns_Museum_Cafe%2C_Tables_and_Chairs_-_geograph.org.uk_-_6032039.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1024,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Burns_Museum_Cafe%2C_Tables_and_Chairs_-_geograph.org.uk_-_6032039.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Burns_Museum_Cafe%2C_Tables_and_Chairs_-_geograph.org.uk_-_6032039.jpg/1920px-Burns_Museum_Cafe%2C_Tables_and_Chairs_-_geograph.org.uk_-_6032039.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1024,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Burns_Museum_Cafe%2C_Tables_and_Chairs_-_geograph.org.uk_-_6032039.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Burns_Museum_Cafe%2C_Tables_and_Chairs_-_geograph.org.uk_-_6032039.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Burns_Museum_Cafe,_Tables_and_Chairs_-_geograph.org.uk_-_6032039.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=143215859",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-12-31 10:09:20",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Burns Museum Cafe, Tables and Chairs - geograph.org.uk - 6032039",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Ayr (civil parish)|Images from Geograph Britain and Ireland",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "55.427399",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-4.634266",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Burns Museum Cafe, Tables and Chairs <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Burns_Museum_Cafe,_Tables_and_Chairs_-_geograph.org.uk_-_6032039.jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2019-01-24",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/6032039\">Geograph Britain and Ireland</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Burns_Museum_Cafe,_Tables_and_Chairs_-_geograph.org.uk_-_6032039.jpg#P7482\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/22650\">Billy McCrorie</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Burns_Museum_Cafe,_Tables_and_Chairs_-_geograph.org.uk_-_6032039.jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "<i>Burns Museum Cafe, Tables and Chairs</i> by Billy McCrorie",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "143215937": {
+          "pageid": 143215937,
+          "ns": 6,
+          "title": "File:Burns Museum Cafe, Tables and Chairs - geograph.org.uk - 6032041.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2744755,
+              "width": 2976,
+              "height": 1984,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Burns_Museum_Cafe%2C_Tables_and_Chairs_-_geograph.org.uk_-_6032041.jpg/1920px-Burns_Museum_Cafe%2C_Tables_and_Chairs_-_geograph.org.uk_-_6032041.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1024,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/6/66/Burns_Museum_Cafe%2C_Tables_and_Chairs_-_geograph.org.uk_-_6032041.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Burns_Museum_Cafe%2C_Tables_and_Chairs_-_geograph.org.uk_-_6032041.jpg/1920px-Burns_Museum_Cafe%2C_Tables_and_Chairs_-_geograph.org.uk_-_6032041.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1024,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/6/66/Burns_Museum_Cafe%2C_Tables_and_Chairs_-_geograph.org.uk_-_6032041.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Burns_Museum_Cafe%2C_Tables_and_Chairs_-_geograph.org.uk_-_6032041.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Burns_Museum_Cafe,_Tables_and_Chairs_-_geograph.org.uk_-_6032041.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=143215937",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-12-31 10:09:43",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Burns Museum Cafe, Tables and Chairs - geograph.org.uk - 6032041",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Ayr (civil parish)|Images from Geograph Britain and Ireland",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "55.427399",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-4.634266",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Burns Museum Cafe, Tables and Chairs <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Burns_Museum_Cafe,_Tables_and_Chairs_-_geograph.org.uk_-_6032041.jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2019-01-24",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/6032041\">Geograph Britain and Ireland</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Burns_Museum_Cafe,_Tables_and_Chairs_-_geograph.org.uk_-_6032041.jpg#P7482\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/22650\">Billy McCrorie</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Burns_Museum_Cafe,_Tables_and_Chairs_-_geograph.org.uk_-_6032041.jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "<i>Burns Museum Cafe, Tables and Chairs</i> by Billy McCrorie",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "145021276": {
+          "pageid": 145021276,
+          "ns": 6,
+          "title": "File:Tables and chairs outside John's Cafe, Friars Road, Barry Island - geograph.org.uk - 6260668.jpg",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 488083,
+              "width": 1366,
+              "height": 1600,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Tables_and_chairs_outside_John%27s_Cafe%2C_Friars_Road%2C_Barry_Island_-_geograph.org.uk_-_6260668.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 1536,
+              "thumbheight": 1799,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Tables_and_chairs_outside_John%27s_Cafe%2C_Friars_Road%2C_Barry_Island_-_geograph.org.uk_-_6260668.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1799
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Tables_and_chairs_outside_John%27s_Cafe%2C_Friars_Road%2C_Barry_Island_-_geograph.org.uk_-_6260668.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tables_and_chairs_outside_John%27s_Cafe,_Friars_Road,_Barry_Island_-_geograph.org.uk_-_6260668.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=145021276",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-02-05 05:50:22",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Tables and chairs outside John's Cafe, Friars Road, Barry Island - geograph.org.uk - 6260668",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Barry Island|Images from Geograph Britain and Ireland",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "51.391149",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-3.273759",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Tables and chairs outside John's Cafe, Friars Road, Barry Island <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Tables_and_chairs_outside_John%27s_Cafe,_Friars_Road,_Barry_Island_-_geograph.org.uk_-_6260668.jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2019-09-08",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/6260668\">Geograph Britain and Ireland</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Tables_and_chairs_outside_John%27s_Cafe,_Friars_Road,_Barry_Island_-_geograph.org.uk_-_6260668.jpg#P7482\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/39302\">Jaggery</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Tables_and_chairs_outside_John%27s_Cafe,_Friars_Road,_Barry_Island_-_geograph.org.uk_-_6260668.jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "<i>Tables and chairs outside John's Cafe, Friars Road, Barry Island</i> by Jaggery",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "147950200": {
+          "pageid": 147950200,
+          "ns": 6,
+          "title": "File:Street cafe in Bucharest (53691339146).jpg",
+          "index": 9,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 16378152,
+              "width": 5854,
+              "height": 3903,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Street_cafe_in_Bucharest_%2853691339146%29.jpg/1920px-Street_cafe_in_Bucharest_%2853691339146%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1024,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Street_cafe_in_Bucharest_%2853691339146%29.jpg/3840px-Street_cafe_in_Bucharest_%2853691339146%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Street_cafe_in_Bucharest_%2853691339146%29.jpg/1920px-Street_cafe_in_Bucharest_%2853691339146%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1024,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Street_cafe_in_Bucharest_%2853691339146%29.jpg/3840px-Street_cafe_in_Bucharest_%2853691339146%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Street_cafe_in_Bucharest_%2853691339146%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Street_cafe_in_Bucharest_(53691339146).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=147950200",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-05-01 22:32:04",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Street cafe in Bucharest (53691339146)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Algiu - Toma Stelian House, Bucharest|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Photographs by Jorge Franganillo|April 2024 in Bucharest|Romania photographs taken on 2024-04-27|Cafés in Bucharest|Chairs in Bucharest|Tables in Bucharest",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "44.443101",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "26.093233",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Street cafe in Bucharest",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "Taken on 27 April 2024 18:28",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/franganillo/53691339146/\">Bucharest</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/46191841@N00\">Jorge Franganillo</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "148792467": {
+          "pageid": 148792467,
+          "ns": 6,
+          "title": "File:Yellow Table and Chairs Badiani Gelato Covent Garden 2024-05-14.jpg",
+          "index": 12,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 4649859,
+              "width": 2708,
+              "height": 2758,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Yellow_Table_and_Chairs_Badiani_Gelato_Covent_Garden_2024-05-14.jpg/1920px-Yellow_Table_and_Chairs_Badiani_Gelato_Covent_Garden_2024-05-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1564,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/0/07/Yellow_Table_and_Chairs_Badiani_Gelato_Covent_Garden_2024-05-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Yellow_Table_and_Chairs_Badiani_Gelato_Covent_Garden_2024-05-14.jpg/1920px-Yellow_Table_and_Chairs_Badiani_Gelato_Covent_Garden_2024-05-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1564,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/07/Yellow_Table_and_Chairs_Badiani_Gelato_Covent_Garden_2024-05-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Yellow_Table_and_Chairs_Badiani_Gelato_Covent_Garden_2024-05-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Yellow_Table_and_Chairs_Badiani_Gelato_Covent_Garden_2024-05-14.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=148792467",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-05-28 00:34:33",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Yellow Table and Chairs Badiani Gelato Covent Garden 2024-05-14",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Cafés in the City of Westminster|Yellow objects in London|Flickr images reviewed by FlickreviewR 2|London photographs taken on 2024-05-14|Files with coordinates missing SDC location of creation (51° N, 1° W)|Mercer Walk",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "51.513075",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-0.125581",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Badiani Gelato Covent Garden, 2 Mercer Walk, London WC2H 9QP",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2024-05-14 18:13:55",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/hisgett/53733474226/\">https://www.flickr.com/photos/hisgett/53733474226/</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Tony Hisgett",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "149734606": {
+          "pageid": 149734606,
+          "ns": 6,
+          "title": "File:Amersfoort Mondriaanhuis Tables and chairs.jpg",
+          "index": 11,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 11916056,
+              "width": 5388,
+              "height": 3904,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Amersfoort_Mondriaanhuis_Tables_and_chairs.jpg/1920px-Amersfoort_Mondriaanhuis_Tables_and_chairs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1113,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Amersfoort_Mondriaanhuis_Tables_and_chairs.jpg/3840px-Amersfoort_Mondriaanhuis_Tables_and_chairs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Amersfoort_Mondriaanhuis_Tables_and_chairs.jpg/1920px-Amersfoort_Mondriaanhuis_Tables_and_chairs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1113,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Amersfoort_Mondriaanhuis_Tables_and_chairs.jpg/3840px-Amersfoort_Mondriaanhuis_Tables_and_chairs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Amersfoort_Mondriaanhuis_Tables_and_chairs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Amersfoort_Mondriaanhuis_Tables_and_chairs.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=149734606",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-06-26 16:25:38",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Amersfoort Mondriaanhuis Tables and chairs",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Taken with Nikon D3400|Self-published work|Mondriaanhuis|2024 in Amersfoort|Netherlands photographs taken on 2024-06-22|Files with coordinates missing SDC location of creation (52° N, 5° E)|Photographs of the Netherlands by Ymblanter",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "52.154650",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "5.390070",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Tables and chairs of the cafe of Mondriaanhuis, Amersfoort, Utrecht, the Netherlands",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "22 June 2024, 14:47:59 +00:00",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ymblanter\" title=\"User:Ymblanter\">Ymblanter</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "151620167": {
+          "pageid": 151620167,
+          "ns": 6,
+          "title": "File:Table and chairs at Hunan Cafe.jpg",
+          "index": 6,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 12666895,
+              "width": 8160,
+              "height": 6120,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Table_and_chairs_at_Hunan_Cafe.jpg/1920px-Table_and_chairs_at_Hunan_Cafe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1152,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Table_and_chairs_at_Hunan_Cafe.jpg/3840px-Table_and_chairs_at_Hunan_Cafe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Table_and_chairs_at_Hunan_Cafe.jpg/1920px-Table_and_chairs_at_Hunan_Cafe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1152,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Table_and_chairs_at_Hunan_Cafe.jpg/3840px-Table_and_chairs_at_Hunan_Cafe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Table_and_chairs_at_Hunan_Cafe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Table_and_chairs_at_Hunan_Cafe.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151620167",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-08-19 21:24:40",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Table and chairs at Hunan Cafe",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Tysons Corner, Virginia|Self-published work|Uploaded with Mobile/Android|Chinese style restaurants in Virginia|Files with coordinates missing SDC location of creation|Photographs taken on 2024-08-17",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "38.931187",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-77.237915",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Tysons, Virginia",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "17 August 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ser_Amantio_di_Nicolao\" title=\"User:Ser Amantio di Nicolao\">Ser Amantio di Nicolao</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "173484138": {
+          "pageid": 173484138,
+          "ns": 6,
+          "title": "File:Seats in Cafe & Laundrette, East Reach, Taunton 2025-07-26.jpg",
+          "index": 16,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 8696036,
+              "width": 8160,
+              "height": 6144,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Seats_in_Cafe_%26_Laundrette%2C_East_Reach%2C_Taunton_2025-07-26.jpg/1920px-Seats_in_Cafe_%26_Laundrette%2C_East_Reach%2C_Taunton_2025-07-26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1157,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Seats_in_Cafe_%26_Laundrette%2C_East_Reach%2C_Taunton_2025-07-26.jpg/3840px-Seats_in_Cafe_%26_Laundrette%2C_East_Reach%2C_Taunton_2025-07-26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Seats_in_Cafe_%26_Laundrette%2C_East_Reach%2C_Taunton_2025-07-26.jpg/1920px-Seats_in_Cafe_%26_Laundrette%2C_East_Reach%2C_Taunton_2025-07-26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1157,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Seats_in_Cafe_%26_Laundrette%2C_East_Reach%2C_Taunton_2025-07-26.jpg/3840px-Seats_in_Cafe_%26_Laundrette%2C_East_Reach%2C_Taunton_2025-07-26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Seats_in_Cafe_%26_Laundrette%2C_East_Reach%2C_Taunton_2025-07-26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Seats_in_Cafe_%26_Laundrette,_East_Reach,_Taunton_2025-07-26.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=173484138",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2025-08-24 22:51:17",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Seats in Cafe & Laundrette, East Reach, Taunton 2025-07-26",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "CC-Zero|Self-published work|Table with seats|2025 in Taunton, Somerset|Empty seats in the United Kingdom|Files with coordinates missing SDC location of creation (51° N, 4° W)|Interiors of cafés in England|July 2025 in Somerset|England photographs taken on 2025-07-26|Buildings in Somerset photographed in 2025|Chairs in Somerset|Cafe & Laundrette, East Reach, Taunton",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "51.016233",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-3.090158",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "seats in Cafe &amp; Laundrette, East Reach, Taunton",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2025-07-26 13:07:14",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Onthewings\" title=\"User:Onthewings\">Andy Li</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Zero, Public Domain Dedication",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "179724179": {
+          "pageid": 179724179,
+          "ns": 6,
+          "title": "File:Musicsoul Café in Alley 123 of Trung Kính Street 17-09-2025 E1.jpg",
+          "index": 15,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 650406,
+              "width": 2048,
+              "height": 1536,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Musicsoul_Caf%C3%A9_in_Alley_123_of_Trung_K%C3%ADnh_Street_17-09-2025_E1.jpg/1920px-Musicsoul_Caf%C3%A9_in_Alley_123_of_Trung_K%C3%ADnh_Street_17-09-2025_E1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1152,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Musicsoul_Caf%C3%A9_in_Alley_123_of_Trung_K%C3%ADnh_Street_17-09-2025_E1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Musicsoul_Caf%C3%A9_in_Alley_123_of_Trung_K%C3%ADnh_Street_17-09-2025_E1.jpg/1920px-Musicsoul_Caf%C3%A9_in_Alley_123_of_Trung_K%C3%ADnh_Street_17-09-2025_E1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1152,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Musicsoul_Caf%C3%A9_in_Alley_123_of_Trung_K%C3%ADnh_Street_17-09-2025_E1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Musicsoul_Caf%C3%A9_in_Alley_123_of_Trung_K%C3%ADnh_Street_17-09-2025_E1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Musicsoul_Caf%C3%A9_in_Alley_123_of_Trung_K%C3%ADnh_Street_17-09-2025_E1.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=179724179",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2025-12-11 16:29:59",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Musicsoul Café in Alley 123 of Trung Kính Street 17-09-2025 E1",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|Lamps in Vietnam|Chairs in Vietnam|Tables in Vietnam|Photographs of flags of Vietnam in Hanoi|2025 in Hanoi|Musicsoul Café",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Trung Kính Street by night",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2025-09-17 19:29:48",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ni.Nguyen.VCLCA\" title=\"User:Ni.Nguyen.VCLCA\">Ni.Nguyen.VCLCA</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "179724184": {
+          "pageid": 179724184,
+          "ns": 6,
+          "title": "File:Musicsoul Café in Alley 123 of Trung Kính Street 17-09-2025 E2.jpg",
+          "index": 14,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 617090,
+              "width": 1536,
+              "height": 2048,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Musicsoul_Caf%C3%A9_in_Alley_123_of_Trung_K%C3%ADnh_Street_17-09-2025_E2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 1536,
+              "thumbheight": 2048,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/4/43/Musicsoul_Caf%C3%A9_in_Alley_123_of_Trung_K%C3%ADnh_Street_17-09-2025_E2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 2048
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Musicsoul_Caf%C3%A9_in_Alley_123_of_Trung_K%C3%ADnh_Street_17-09-2025_E2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Musicsoul_Caf%C3%A9_in_Alley_123_of_Trung_K%C3%ADnh_Street_17-09-2025_E2.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=179724184",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2025-12-11 16:30:03",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Musicsoul Café in Alley 123 of Trung Kính Street 17-09-2025 E2",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|Lamps in Vietnam|Chairs in Vietnam|Tables in Vietnam|Photographs of flags of Vietnam in Hanoi|2025 in Hanoi|Musicsoul Café",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Trung Kính Street by night",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2025-09-17 19:30:13",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ni.Nguyen.VCLCA\" title=\"User:Ni.Nguyen.VCLCA\">Ni.Nguyen.VCLCA</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

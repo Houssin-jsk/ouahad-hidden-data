@@ -1,0 +1,142 @@
+[
+  {
+    "id": "natural-00",
+    "width": 960,
+    "height": 608,
+    "sourceReportedWidth": 768,
+    "sourceReportedHeight": 486
+  },
+  {
+    "id": "natural-01",
+    "width": 960,
+    "height": 640,
+    "sourceReportedWidth": 768,
+    "sourceReportedHeight": 512
+  },
+  {
+    "id": "natural-02",
+    "width": 960,
+    "height": 556,
+    "sourceReportedWidth": 768,
+    "sourceReportedHeight": 445
+  },
+  {
+    "id": "natural-03",
+    "width": 960,
+    "height": 640,
+    "sourceReportedWidth": 768,
+    "sourceReportedHeight": 512
+  },
+  {
+    "id": "natural-04",
+    "width": 960,
+    "height": 759,
+    "sourceReportedWidth": 768,
+    "sourceReportedHeight": 607
+  },
+  {
+    "id": "natural-05",
+    "width": 960,
+    "height": 722,
+    "sourceReportedWidth": 768,
+    "sourceReportedHeight": 577
+  },
+  {
+    "id": "natural-06",
+    "width": 960,
+    "height": 1275,
+    "sourceReportedWidth": 768,
+    "sourceReportedHeight": 1020
+  },
+  {
+    "id": "natural-07",
+    "width": 960,
+    "height": 640,
+    "sourceReportedWidth": 768,
+    "sourceReportedHeight": 512
+  },
+  {
+    "id": "natural-08",
+    "width": 761,
+    "height": 802,
+    "sourceReportedWidth": 768,
+    "sourceReportedHeight": 809
+  },
+  {
+    "id": "natural-09",
+    "width": 960,
+    "height": 768,
+    "sourceReportedWidth": 768,
+    "sourceReportedHeight": 614
+  },
+  {
+    "id": "natural-10",
+    "width": 960,
+    "height": 640,
+    "sourceReportedWidth": 768,
+    "sourceReportedHeight": 512
+  },
+  {
+    "id": "natural-11",
+    "width": 480,
+    "height": 640,
+    "sourceReportedWidth": 768,
+    "sourceReportedHeight": 1024
+  },
+  {
+    "id": "natural-12",
+    "width": 960,
+    "height": 645,
+    "sourceReportedWidth": 768,
+    "sourceReportedHeight": 516
+  },
+  {
+    "id": "natural-13",
+    "width": 960,
+    "height": 720,
+    "sourceReportedWidth": 768,
+    "sourceReportedHeight": 576
+  },
+  {
+    "id": "natural-14",
+    "width": 960,
+    "height": 1440,
+    "sourceReportedWidth": 768,
+    "sourceReportedHeight": 1152
+  },
+  {
+    "id": "natural-15",
+    "width": 960,
+    "height": 595,
+    "sourceReportedWidth": 768,
+    "sourceReportedHeight": 476
+  },
+  {
+    "id": "natural-01-low-light",
+    "width": 960,
+    "height": 640,
+    "sourceReportedWidth": 768,
+    "sourceReportedHeight": 512
+  },
+  {
+    "id": "natural-03-low-contrast",
+    "width": 960,
+    "height": 640,
+    "sourceReportedWidth": 768,
+    "sourceReportedHeight": 512
+  },
+  {
+    "id": "natural-07-blur",
+    "width": 960,
+    "height": 640,
+    "sourceReportedWidth": 768,
+    "sourceReportedHeight": 512
+  },
+  {
+    "id": "natural-15-crop-occlusion",
+    "width": 672,
+    "height": 416,
+    "sourceReportedWidth": 768,
+    "sourceReportedHeight": 476
+  }
+]

@@ -1,0 +1,1092 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 10,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "44907145": {
+        "pageid": 44907145,
+        "ns": 6,
+        "title": "File:Inside the Foreign Office- Map Room (9508018261).jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1520135,
+            "width": 2205,
+            "height": 1424,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Inside_the_Foreign_Office-_Map_Room_%289508018261%29.jpg/960px-Inside_the_Foreign_Office-_Map_Room_%289508018261%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 496,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Inside_the_Foreign_Office-_Map_Room_%289508018261%29.jpg/1920px-Inside_the_Foreign_Office-_Map_Room_%289508018261%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Inside_the_Foreign_Office-_Map_Room_%289508018261%29.jpg/960px-Inside_the_Foreign_Office-_Map_Room_%289508018261%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 496,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Inside_the_Foreign_Office-_Map_Room_%289508018261%29.jpg/1920px-Inside_the_Foreign_Office-_Map_Room_%289508018261%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Inside_the_Foreign_Office-_Map_Room_%289508018261%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Inside_the_Foreign_Office-_Map_Room_(9508018261).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=44907145",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-11-10 00:04:47",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Inside the Foreign Office- Map Room (9508018261)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "OGL v1.0|Interior of the Foreign, Commonwealth and Development Office|Cases|Items with VRTS permission confirmed|Flickr images reviewed by FlickreviewR|Files from Foreign, Commonwealth and Development Office Flickr stream|Files with coordinates missing SDC location of creation (51° N, 1° W)|Holland and Co",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "51.502371",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-0.127839",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<p>This map case of burr walnut was made especially for the Colonial Office by the noted cabinet-makers, Holland and Co. \n</p><p>The Colonial Office, which is now known as the Map room, was the office of the Secretary of state for the Colonies and later the Commonwealth. All the original maps have been deposited at the Public Records Office at Kew and can be  accessed by the public.\n</p>\nYou can find out more about FCO history at the <a rel=\"nofollow\" class=\"external text\" href=\"https://www.facebook.com/FCOHistorians?directed_target_id=0\">Foreign Office Historians page</a>.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-08-01 16:23",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/foreignoffice/9508018261/\">Inside the Foreign Office: Map Room</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/10246637@N04\">Foreign and Commonwealth Office</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "65134460": {
+        "pageid": 65134460,
+        "ns": 6,
+        "title": "File:The dining room in the country by Pierre Bonnard (1913).jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 728233,
+            "width": 2229,
+            "height": 1759,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/The_dining_room_in_the_country_by_Pierre_Bonnard_%281913%29.jpg/960px-The_dining_room_in_the_country_by_Pierre_Bonnard_%281913%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 606,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/The_dining_room_in_the_country_by_Pierre_Bonnard_%281913%29.jpg/1920px-The_dining_room_in_the_country_by_Pierre_Bonnard_%281913%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/The_dining_room_in_the_country_by_Pierre_Bonnard_%281913%29.jpg/960px-The_dining_room_in_the_country_by_Pierre_Bonnard_%281913%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 606,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/The_dining_room_in_the_country_by_Pierre_Bonnard_%281913%29.jpg/1920px-The_dining_room_in_the_country_by_Pierre_Bonnard_%281913%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/The_dining_room_in_the_country_by_Pierre_Bonnard_%281913%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_dining_room_in_the_country_by_Pierre_Bonnard_(1913).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=65134460",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-01-05 15:13:52",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nDining Room in the Country</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Dining Room in the Country|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|PD-old-75-expired|CC-PD-Mark|Artworks with accession number from Wikidata|Artworks digital representation of 2D work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "valued",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Pierre_Bonnard\" class=\"extiw\" title=\"w:en:Pierre Bonnard\"><span title=\"French painter and printmaker (1867-1947)\">Pierre Bonnard</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Painting by Pierre Bonnard",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1913<div style=\"display: none;\">date QS:P571,+1913-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.wikiart.org/en/pierre-bonnard\">https://www.wikiart.org/en/pierre-bonnard</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "68643797": {
+        "pageid": 68643797,
+        "ns": 6,
+        "title": "File:USL office in Summit with room number.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 72210,
+            "width": 974,
+            "height": 348,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/USL_office_in_Summit_with_room_number.jpg/960px-USL_office_in_Summit_with_room_number.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 274,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/3/34/USL_office_in_Summit_with_room_number.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/USL_office_in_Summit_with_room_number.jpg/960px-USL_office_in_Summit_with_room_number.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 274,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/34/USL_office_in_Summit_with_room_number.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/USL_office_in_Summit_with_room_number.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:USL_office_in_Summit_with_room_number.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=68643797",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-04-29 14:02:10",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "USL office in Summit with room number",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Interiors of office buildings in the United States|Offices in the 1990s|Unix System Laboratories|Novell facilities in Summit, New Jersey|348 (room number)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The Unix System Laboratories building in Summit, New Jersey, was not always simple to navigate and featured a multi-part room numbering scheme. (Although the photograph was taken after USL was acquired by Novell, it shows the characteristics of the AT&amp;T/USL era.)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1994-08-30",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jonathan_Schilling\" title=\"User:Jonathan Schilling\">Jonathan Schilling</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "71207144": {
+        "pageid": 71207144,
+        "ns": 6,
+        "title": "File:Rifle Colorado post office interior 2.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2165216,
+            "width": 2448,
+            "height": 3264,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Rifle_Colorado_post_office_interior_2.jpg/960px-Rifle_Colorado_post_office_interior_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1024,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Rifle_Colorado_post_office_interior_2.jpg/1920px-Rifle_Colorado_post_office_interior_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Rifle_Colorado_post_office_interior_2.jpg/960px-Rifle_Colorado_post_office_interior_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1024,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Rifle_Colorado_post_office_interior_2.jpg/1920px-Rifle_Colorado_post_office_interior_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Rifle_Colorado_post_office_interior_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rifle_Colorado_post_office_interior_2.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=71207144",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-07-30 17:30:26",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Rifle Colorado post office interior 2",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "U.S. Post Office (Rifle, Colorado)|1942 paintings in the United States|George Vander Sluis|Self-published work|PD-Art (PD-USGov-Treasury)|Building interiors in Colorado|July 2018 in Colorado|Section of Painting and Sculpture in Colorado|United States post office murals in Colorado|102 (room number)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Rifle, Colorado U.S. Post Office interior",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-07-30 09:15:29",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Doncram\" title=\"User:Doncram\">Doncram</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "71207145": {
+        "pageid": 71207145,
+        "ns": 6,
+        "title": "File:Rifle Colorado post office interior 1.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2345114,
+            "width": 3264,
+            "height": 2448,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Rifle_Colorado_post_office_interior_1.jpg/960px-Rifle_Colorado_post_office_interior_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Rifle_Colorado_post_office_interior_1.jpg/1920px-Rifle_Colorado_post_office_interior_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Rifle_Colorado_post_office_interior_1.jpg/960px-Rifle_Colorado_post_office_interior_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Rifle_Colorado_post_office_interior_1.jpg/1920px-Rifle_Colorado_post_office_interior_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Rifle_Colorado_post_office_interior_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rifle_Colorado_post_office_interior_1.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=71207145",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-07-30 17:30:26",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Rifle Colorado post office interior 1",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "U.S. Post Office (Rifle, Colorado)|1942 paintings in the United States|George Vander Sluis|Self-published work|PD-Art (PD-USGov-Treasury)|Images with extracted images|Building interiors in Colorado|July 2018 in Colorado|Section of Painting and Sculpture in Colorado|United States post office murals in Colorado|102 (room number)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Rifle, Colorado U.S. Post Office interior",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-07-30 09:14:46",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Doncram\" title=\"User:Doncram\">Doncram</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "71207148": {
+        "pageid": 71207148,
+        "ns": 6,
+        "title": "File:Rifle Colorado post office interior 5.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2266725,
+            "width": 3264,
+            "height": 2448,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Rifle_Colorado_post_office_interior_5.jpg/960px-Rifle_Colorado_post_office_interior_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Rifle_Colorado_post_office_interior_5.jpg/1920px-Rifle_Colorado_post_office_interior_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Rifle_Colorado_post_office_interior_5.jpg/960px-Rifle_Colorado_post_office_interior_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Rifle_Colorado_post_office_interior_5.jpg/1920px-Rifle_Colorado_post_office_interior_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Rifle_Colorado_post_office_interior_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rifle_Colorado_post_office_interior_5.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=71207148",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-07-30 17:30:29",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Rifle Colorado post office interior 5",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "U.S. Post Office (Rifle, Colorado)|1942 paintings in the United States|George Vander Sluis|Self-published work|PD-Art (PD-USGov-Treasury)|Building interiors in Colorado|July 2018 in Colorado|Section of Painting and Sculpture in Colorado|United States post office murals in Colorado|102 (room number)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Rifle, Colorado U.S. Post Office interior",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-07-30 09:16:13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Doncram\" title=\"User:Doncram\">Doncram</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "71207149": {
+        "pageid": 71207149,
+        "ns": 6,
+        "title": "File:Rifle Colorado post office interior 4.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2272216,
+            "width": 3264,
+            "height": 2448,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Rifle_Colorado_post_office_interior_4.jpg/960px-Rifle_Colorado_post_office_interior_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Rifle_Colorado_post_office_interior_4.jpg/1920px-Rifle_Colorado_post_office_interior_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Rifle_Colorado_post_office_interior_4.jpg/960px-Rifle_Colorado_post_office_interior_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Rifle_Colorado_post_office_interior_4.jpg/1920px-Rifle_Colorado_post_office_interior_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Rifle_Colorado_post_office_interior_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rifle_Colorado_post_office_interior_4.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=71207149",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-07-30 17:30:30",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Rifle Colorado post office interior 4",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "U.S. Post Office (Rifle, Colorado)|1942 paintings in the United States|George Vander Sluis|Self-published work|PD-Art (PD-USGov-Treasury)|Building interiors in Colorado|July 2018 in Colorado|Section of Painting and Sculpture in Colorado|United States post office murals in Colorado|102 (room number)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Rifle, Colorado U.S. Post Office interior",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-07-30 09:16:12",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Doncram\" title=\"User:Doncram\">Doncram</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "118318196": {
+        "pageid": 118318196,
+        "ns": 6,
+        "title": "File:Conference Room I, 10th River Management Office interior 20220525.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1569360,
+            "width": 4032,
+            "height": 2268,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Conference_Room_I%2C_10th_River_Management_Office_interior_20220525.jpg/960px-Conference_Room_I%2C_10th_River_Management_Office_interior_20220525.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 432,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Conference_Room_I%2C_10th_River_Management_Office_interior_20220525.jpg/1920px-Conference_Room_I%2C_10th_River_Management_Office_interior_20220525.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Conference_Room_I%2C_10th_River_Management_Office_interior_20220525.jpg/960px-Conference_Room_I%2C_10th_River_Management_Office_interior_20220525.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 432,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Conference_Room_I%2C_10th_River_Management_Office_interior_20220525.jpg/1920px-Conference_Room_I%2C_10th_River_Management_Office_interior_20220525.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Conference_Room_I%2C_10th_River_Management_Office_interior_20220525.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Conference_Room_I,_10th_River_Management_Office_interior_20220525.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=118318196",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-05-25 09:58:32",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Conference Room I, 10th River Management Office interior 20220525",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "The 10th River Management Office, WRA|Taiwan photographs taken on 2022-05-25|Self-published work|2022 photographs of New Taipei|Taken with Sony Xperia 1 III",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​經濟部水利署第十河川局第一會議室內部。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-05-25 09:53:07",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Allenwang6212a\" title=\"User:Allenwang6212a\">Allenwang6212a</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "126992578": {
+        "pageid": 126992578,
+        "ns": 6,
+        "title": "File:Meeting Room, Foreign and Commonwealth Office, King Charles Street, London SW1 - geograph.org.uk - 4185320.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 516819,
+            "width": 683,
+            "height": 1024,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Meeting_Room%2C_Foreign_and_Commonwealth_Office%2C_King_Charles_Street%2C_London_SW1_-_geograph.org.uk_-_4185320.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 768,
+            "thumbheight": 1151,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/d/df/Meeting_Room%2C_Foreign_and_Commonwealth_Office%2C_King_Charles_Street%2C_London_SW1_-_geograph.org.uk_-_4185320.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1151
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Meeting_Room%2C_Foreign_and_Commonwealth_Office%2C_King_Charles_Street%2C_London_SW1_-_geograph.org.uk_-_4185320.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Meeting_Room,_Foreign_and_Commonwealth_Office,_King_Charles_Street,_London_SW1_-_geograph.org.uk_-_4185320.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=126992578",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-12-25 09:10:03",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Meeting Room, Foreign and Commonwealth Office, King Charles Street, London SW1 - geograph.org.uk - 4185320",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Interior of the Foreign, Commonwealth and Development Office|Images from Geograph Britain and Ireland",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "51.502556",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-0.128701",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Meeting Room, Foreign and Commonwealth Office, King Charles Street, London SW1 <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Meeting_Room,_Foreign_and_Commonwealth_Office,_King_Charles_Street,_London_SW1_-_geograph.org.uk_-_4185320.jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-09-20",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/4185320\">Geograph Britain and Ireland</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Meeting_Room,_Foreign_and_Commonwealth_Office,_King_Charles_Street,_London_SW1_-_geograph.org.uk_-_4185320.jpg#P7482\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/1777\">Christine Matthews</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Meeting_Room,_Foreign_and_Commonwealth_Office,_King_Charles_Street,_London_SW1_-_geograph.org.uk_-_4185320.jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<i>Meeting Room, Foreign and Commonwealth Office, King Charles Street, London SW1</i> by Christine Matthews",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "126992696": {
+        "pageid": 126992696,
+        "ns": 6,
+        "title": "File:Meeting Room, Foreign and Commonwealth Office, King Charles Street, London SW1 - geograph.org.uk - 4185340.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 912875,
+            "width": 683,
+            "height": 1024,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Meeting_Room%2C_Foreign_and_Commonwealth_Office%2C_King_Charles_Street%2C_London_SW1_-_geograph.org.uk_-_4185340.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 768,
+            "thumbheight": 1151,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/7/73/Meeting_Room%2C_Foreign_and_Commonwealth_Office%2C_King_Charles_Street%2C_London_SW1_-_geograph.org.uk_-_4185340.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1151
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Meeting_Room%2C_Foreign_and_Commonwealth_Office%2C_King_Charles_Street%2C_London_SW1_-_geograph.org.uk_-_4185340.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Meeting_Room,_Foreign_and_Commonwealth_Office,_King_Charles_Street,_London_SW1_-_geograph.org.uk_-_4185340.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=126992696",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-12-25 09:15:39",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Meeting Room, Foreign and Commonwealth Office, King Charles Street, London SW1 - geograph.org.uk - 4185340",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Interior of the Foreign, Commonwealth and Development Office|Images from Geograph Britain and Ireland",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "51.502563",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-0.128989",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Meeting Room, Foreign and Commonwealth Office, King Charles Street, London SW1 <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Meeting_Room,_Foreign_and_Commonwealth_Office,_King_Charles_Street,_London_SW1_-_geograph.org.uk_-_4185340.jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-09-20",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/4185340\">Geograph Britain and Ireland</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Meeting_Room,_Foreign_and_Commonwealth_Office,_King_Charles_Street,_London_SW1_-_geograph.org.uk_-_4185340.jpg#P7482\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/1777\">Christine Matthews</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Meeting_Room,_Foreign_and_Commonwealth_Office,_King_Charles_Street,_London_SW1_-_geograph.org.uk_-_4185340.jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<i>Meeting Room, Foreign and Commonwealth Office, King Charles Street, London SW1</i> by Christine Matthews",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

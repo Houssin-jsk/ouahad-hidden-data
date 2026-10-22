@@ -1,0 +1,1138 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 10,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "4569001": {
+        "pageid": 4569001,
+        "ns": 6,
+        "title": "File:Newport Beach coastal landscaping.JPG",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 739898,
+            "width": 1280,
+            "height": 960,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Newport_Beach_coastal_landscaping.JPG/960px-Newport_Beach_coastal_landscaping.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Newport_Beach_coastal_landscaping.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Newport_Beach_coastal_landscaping.JPG/960px-Newport_Beach_coastal_landscaping.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Newport_Beach_coastal_landscaping.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Newport_Beach_coastal_landscaping.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Newport_Beach_coastal_landscaping.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4569001",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2012-10-29 20:40:40",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Newport Beach coastal landscaping",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Fujifilm FinePix 2600Z|Gardens in California|Beaches of Orange County, California|Self-published work|Unidentified Limonium|Flora of Newport Beach, California",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Coastal landscaping on the beaches of Newport Beach, California",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2007-11",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Renjishino\" title=\"User:Renjishino\">Renjishino</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "15466765": {
+        "pageid": 15466765,
+        "ns": 6,
+        "title": "File:Adam Willaerts - Coastal Landscape with Ships - WGA25763.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 69196,
+            "width": 799,
+            "height": 521,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Adam_Willaerts_-_Coastal_Landscape_with_Ships_-_WGA25763.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 768,
+            "thumbheight": 501,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Adam_Willaerts_-_Coastal_Landscape_with_Ships_-_WGA25763.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 501
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Adam_Willaerts_-_Coastal_Landscape_with_Ships_-_WGA25763.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Adam_Willaerts_-_Coastal_Landscape_with_Ships_-_WGA25763.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=15466765",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-06-10 10:42:47",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Coastal Landscape with Ships</i></div></div><div style=\"display: none;\">label QS:Len,\"Coastal Landscape with Ships\"</div></div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "1616 paintings|Images from Web Gallery of Art|PD-old-100-expired|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|People at the beach in art|17th-century sailing ships in paintings|CC-PD-Mark|WGA form: painting|WGA type: landscape|Artworks with accession number from Wikidata|17th-century oil on canvas paintings|1610s landscape paintings|Artworks with Wikidata item missing genre|WGA School: Dutch|Artworks digital representation of 2D work|WGA time period: 1601-1650|Paintings by Adam Willaerts|Landscape paintings in the Liechtenstein Museum",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Adam_Willaerts\" class=\"extiw\" title=\"w:en:Adam Willaerts\"><span title=\"painter from the Northern Netherlands (1577-1664)\">Adam Willaerts</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1616<div style=\"display: none;\">date QS:P571,+1616-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/en:Web_Gallery_of_Art\" class=\"extiw\" title=\"w:en:Web Gallery of Art\"><span title=\"virtual art gallery for European fine art created before 1900\">Web Gallery of Art</span></a>:  <span typeof=\"mw:File\"><a href=\"http://www.wga.hu/art/w/willaert/adam/coastal.jpg\" rel=\"nofollow\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Inkscape.svg/20px-Inkscape.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"20\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Inkscape.svg/40px-Inkscape.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"60\" data-file-height=\"60\"></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"http://www.wga.hu/art/w/willaert/adam/coastal.jpg\">Image</a> <span typeof=\"mw:File\"><a href=\"http://www.wga.hu/html/w/willaert/adam/coastal.html\" rel=\"nofollow\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/20px-Information_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"20\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/40px-Information_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"620\" data-file-height=\"620\"></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"http://www.wga.hu/html/w/willaert/adam/coastal.html\">Info about artwork</a><div style=\"display: none;\">wga QS:P11807,\"w/willaert/adam/coastal\"</div>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "65509030": {
+        "pageid": 65509030,
+        "ns": 6,
+        "title": "File:Coastal landscape with beached whales (AM 82440-1).jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 745284,
+            "width": 1275,
+            "height": 920,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Coastal_landscape_with_beached_whales_%28AM_82440-1%29.jpg/960px-Coastal_landscape_with_beached_whales_%28AM_82440-1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 554,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Coastal_landscape_with_beached_whales_%28AM_82440-1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Coastal_landscape_with_beached_whales_%28AM_82440-1%29.jpg/960px-Coastal_landscape_with_beached_whales_%28AM_82440-1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 554,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Coastal_landscape_with_beached_whales_%28AM_82440-1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Coastal_landscape_with_beached_whales_%28AM_82440-1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Coastal_landscape_with_beached_whales_(AM_82440-1).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=65509030",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-01-14 09:36:50",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n(Coastal landscape with beached whales)</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Beached whales|Images uploaded by Fæ|Artworks without Wikidata item|Images from Auckland Museum|Artworks with known accession number|Unknown date|Photographs of beached pilot whales by Tudor Washington Collins",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nCollins, Tudor Washington, 1898-1970, photographer</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "There are many beached whales lying along the shoreline. There are also small clusters of people nearby the whales. There are hills , houses, and power poles, in the background. A tree is partially visible in the right-hand side of the foreground.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Unknown date",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p><a rel=\"nofollow\" class=\"external text\" href=\"http://api.aucklandmuseum.com/id/library/photography/82440\">API data</a><br>\n<a rel=\"nofollow\" class=\"external text\" href=\"https://www.aucklandmuseum.com/collection/object/am_library-photography-82440\">Catalogue record</a>\n</p>\n<a rel=\"nofollow\" class=\"external text\" href=\"https://api.aucklandmuseum.com/id/media/p/1a61736d3ba98f2f199414e7c31452e92ab76918\">Photo</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "This image has been released as \"CCBY\" by Auckland Museum. For details refer to the <a href=\"//commons.wikimedia.org/wiki/Commons:Batch_uploading/AucklandMuseumCCBY\" title=\"Commons:Batch uploading/AucklandMuseumCCBY\">Commons project page</a>.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Auckland Museum",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "65509033": {
+        "pageid": 65509033,
+        "ns": 6,
+        "title": "File:Coastal landscape with beached whales (AM 82440-2).jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 900560,
+            "width": 1275,
+            "height": 955,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Coastal_landscape_with_beached_whales_%28AM_82440-2%29.jpg/960px-Coastal_landscape_with_beached_whales_%28AM_82440-2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 575,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/3/39/Coastal_landscape_with_beached_whales_%28AM_82440-2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Coastal_landscape_with_beached_whales_%28AM_82440-2%29.jpg/960px-Coastal_landscape_with_beached_whales_%28AM_82440-2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 575,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/39/Coastal_landscape_with_beached_whales_%28AM_82440-2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Coastal_landscape_with_beached_whales_%28AM_82440-2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Coastal_landscape_with_beached_whales_(AM_82440-2).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=65509033",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-01-14 09:36:53",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n(Coastal landscape with beached whales)</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Beached whales|Images uploaded by Fæ|Artworks without Wikidata item|Images from Auckland Museum|Artworks with known accession number|Unknown date|Photographs by Tudor Washington Collins (negatives)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nCollins, Tudor Washington, 1898-1970, photographer</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "There are many beached whales lying along the shoreline. There are also small clusters of people nearby the whales. There are hills , houses, and power poles, in the background. A tree is partially visible in the right-hand side of the foreground.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Unknown date",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p><a rel=\"nofollow\" class=\"external text\" href=\"http://api.aucklandmuseum.com/id/library/photography/82440\">API data</a><br>\n<a rel=\"nofollow\" class=\"external text\" href=\"https://www.aucklandmuseum.com/collection/object/am_library-photography-82440\">Catalogue record</a>\n</p>\n<a rel=\"nofollow\" class=\"external text\" href=\"https://api.aucklandmuseum.com/id/media/p/a4c3101f848529d00679dc28f98fcd57d2f2b2f7\">Photo</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "This image has been released as \"CCBY\" by Auckland Museum. For details refer to the <a href=\"//commons.wikimedia.org/wiki/Commons:Batch_uploading/AucklandMuseumCCBY\" title=\"Commons:Batch uploading/AucklandMuseumCCBY\">Commons project page</a>.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Auckland Museum",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "65808487": {
+        "pageid": 65808487,
+        "ns": 6,
+        "title": "File:Coastal landscape with beached whales (AM 82441-1).jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 782223,
+            "width": 1275,
+            "height": 909,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Coastal_landscape_with_beached_whales_%28AM_82441-1%29.jpg/960px-Coastal_landscape_with_beached_whales_%28AM_82441-1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 548,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/9/93/Coastal_landscape_with_beached_whales_%28AM_82441-1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Coastal_landscape_with_beached_whales_%28AM_82441-1%29.jpg/960px-Coastal_landscape_with_beached_whales_%28AM_82441-1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 548,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/9/93/Coastal_landscape_with_beached_whales_%28AM_82441-1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Coastal_landscape_with_beached_whales_%28AM_82441-1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Coastal_landscape_with_beached_whales_(AM_82441-1).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=65808487",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-01-24 22:17:26",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n(Coastal landscape with beached whales)</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Beached whales|Images uploaded by Fæ|Artworks without Wikidata item|Images from Auckland Museum|Artworks with known accession number|Unknown date|Photographs of beached pilot whales by Tudor Washington Collins",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nCollins, Tudor Washington, 1898-1970, photographer</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "There are many beached whales lying along the shoreline. There are also small clusters of people nearby the whales. There are hills , houses, and power poles, in the background. A tree is partially visible in the right-hand side of the foreground.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Unknown date",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p><a rel=\"nofollow\" class=\"external text\" href=\"http://api.aucklandmuseum.com/id/library/photography/82441\">API data</a><br>\n<a rel=\"nofollow\" class=\"external text\" href=\"https://www.aucklandmuseum.com/collection/object/am_library-photography-82441\">Catalogue record</a>\n</p>\n<a rel=\"nofollow\" class=\"external text\" href=\"https://api.aucklandmuseum.com/id/media/p/0345ea0a88f5c1a6dd20c172188dd731ccf53ccf\">Photo</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "This image has been released as \"CCBY\" by Auckland Museum. For details refer to the <a href=\"//commons.wikimedia.org/wiki/Commons:Batch_uploading/AucklandMuseumCCBY\" title=\"Commons:Batch uploading/AucklandMuseumCCBY\">Commons project page</a>.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Auckland Museum",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "65808495": {
+        "pageid": 65808495,
+        "ns": 6,
+        "title": "File:Coastal landscape with beached whales (AM 82441-2).jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 934780,
+            "width": 1275,
+            "height": 963,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Coastal_landscape_with_beached_whales_%28AM_82441-2%29.jpg/960px-Coastal_landscape_with_beached_whales_%28AM_82441-2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 580,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/4/41/Coastal_landscape_with_beached_whales_%28AM_82441-2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Coastal_landscape_with_beached_whales_%28AM_82441-2%29.jpg/960px-Coastal_landscape_with_beached_whales_%28AM_82441-2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 580,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/4/41/Coastal_landscape_with_beached_whales_%28AM_82441-2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Coastal_landscape_with_beached_whales_%28AM_82441-2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Coastal_landscape_with_beached_whales_(AM_82441-2).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=65808495",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-01-24 22:17:40",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n(Coastal landscape with beached whales)</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Beached whales|Images uploaded by Fæ|Artworks without Wikidata item|Images from Auckland Museum|Artworks with known accession number|Unknown date|Photographs by Tudor Washington Collins (negatives)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nCollins, Tudor Washington, 1898-1970, photographer</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "There are many beached whales lying along the shoreline. There are also small clusters of people nearby the whales. There are hills , houses, and power poles, in the background. A tree is partially visible in the right-hand side of the foreground.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Unknown date",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p><a rel=\"nofollow\" class=\"external text\" href=\"http://api.aucklandmuseum.com/id/library/photography/82441\">API data</a><br>\n<a rel=\"nofollow\" class=\"external text\" href=\"https://www.aucklandmuseum.com/collection/object/am_library-photography-82441\">Catalogue record</a>\n</p>\n<a rel=\"nofollow\" class=\"external text\" href=\"https://api.aucklandmuseum.com/id/media/p/cabf6d424955a4639bfaf0b2717d99108b33170c\">Photo</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "This image has been released as \"CCBY\" by Auckland Museum. For details refer to the <a href=\"//commons.wikimedia.org/wiki/Commons:Batch_uploading/AucklandMuseumCCBY\" title=\"Commons:Batch uploading/AucklandMuseumCCBY\">Commons project page</a>.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Auckland Museum",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "186074946": {
+        "pageid": 186074946,
+        "ns": 6,
+        "title": "File:Nude man walking on the sand at Abrico Beach on a sunny day, with the ocean and coastal landscape in the background.png",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1849056,
+            "width": 1920,
+            "height": 1080,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Nude_man_walking_on_the_sand_at_Abrico_Beach_on_a_sunny_day%2C_with_the_ocean_and_coastal_landscape_in_the_background.png/960px-Nude_man_walking_on_the_sand_at_Abrico_Beach_on_a_sunny_day%2C_with_the_ocean_and_coastal_landscape_in_the_background.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 432,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Nude_man_walking_on_the_sand_at_Abrico_Beach_on_a_sunny_day%2C_with_the_ocean_and_coastal_landscape_in_the_background.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Nude_man_walking_on_the_sand_at_Abrico_Beach_on_a_sunny_day%2C_with_the_ocean_and_coastal_landscape_in_the_background.png/960px-Nude_man_walking_on_the_sand_at_Abrico_Beach_on_a_sunny_day%2C_with_the_ocean_and_coastal_landscape_in_the_background.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 432,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Nude_man_walking_on_the_sand_at_Abrico_Beach_on_a_sunny_day%2C_with_the_ocean_and_coastal_landscape_in_the_background.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Nude_man_walking_on_the_sand_at_Abrico_Beach_on_a_sunny_day%2C_with_the_ocean_and_coastal_landscape_in_the_background.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nude_man_walking_on_the_sand_at_Abrico_Beach_on_a_sunny_day,_with_the_ocean_and_coastal_landscape_in_the_background.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=186074946",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-03-13 23:37:13",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Nude man walking on the sand at Abrico Beach on a sunny day, with the ocean and coastal landscape in the background",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Public nudity|Praia do Abricó (Rio de Janeiro)|Self-published work|People at the beach in Brazil|Files with coordinates missing SDC location of creation|People at the beach in 2025|Nude beaches in Brazil",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-23.048056",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-43.513056",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Nude man walking on the sand at Abrico Beach on a sunny day, with the ocean and coastal landscape in the background.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-05-06",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:N8kd&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:N8kd (page does not exist)\">N8kd</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "196546346": {
+        "pageid": 196546346,
+        "ns": 6,
+        "title": "File:Nacpan Beach Coastal Landscape.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7528577,
+            "width": 3072,
+            "height": 4096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Nacpan_Beach_Coastal_Landscape.jpg/960px-Nacpan_Beach_Coastal_Landscape.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1024,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Nacpan_Beach_Coastal_Landscape.jpg/1920px-Nacpan_Beach_Coastal_Landscape.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Nacpan_Beach_Coastal_Landscape.jpg/960px-Nacpan_Beach_Coastal_Landscape.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1024,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Nacpan_Beach_Coastal_Landscape.jpg/1920px-Nacpan_Beach_Coastal_Landscape.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Nacpan_Beach_Coastal_Landscape.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nacpan_Beach_Coastal_Landscape.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=196546346",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-07-31 02:38:23",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Nacpan Beach Coastal Landscape",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "El Nido, Palawan|Self-published work|Files with coordinates missing SDC location of creation|Uploaded via Campaign:wle-ph|Beaches of Palawan|Images from Wiki Loves Earth missing SDC location of creation|Images from Wiki Loves Earth missing SDC source of file|Images from Wiki Loves Earth missing SDC creator|Images from Wiki Loves Earth missing SDC participant in|Beaches of El Nido, Palawan|Nacpan Beach|Images from Wiki Loves Earth 2026|Images from Wiki Loves Earth 2026 in the Philippines",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "11.315000",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "119.424151",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Another view of Nacpan Beach showcasing its expansive littoral zone and the convergence of the coastal forest edge with the shoreline. The site serves as a vital dynamic habitat for various shorebirds and nesting marine turtles, while functioning as a prominent example of large-scale tropical beach geomorphology in northern Palawan.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-04-27 17:24:31",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Micluna\" title=\"User:Micluna\">Micluna</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "199427773": {
+        "pageid": 199427773,
+        "ns": 6,
+        "title": "File:Coastal landscape and beach in Sambava, Sava Region, Madagascar.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 330415,
+            "width": 2048,
+            "height": 1542,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Coastal_landscape_and_beach_in_Sambava%2C_Sava_Region%2C_Madagascar.jpg/960px-Coastal_landscape_and_beach_in_Sambava%2C_Sava_Region%2C_Madagascar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 578,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Coastal_landscape_and_beach_in_Sambava%2C_Sava_Region%2C_Madagascar.jpg/1920px-Coastal_landscape_and_beach_in_Sambava%2C_Sava_Region%2C_Madagascar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Coastal_landscape_and_beach_in_Sambava%2C_Sava_Region%2C_Madagascar.jpg/960px-Coastal_landscape_and_beach_in_Sambava%2C_Sava_Region%2C_Madagascar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 578,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Coastal_landscape_and_beach_in_Sambava%2C_Sava_Region%2C_Madagascar.jpg/1920px-Coastal_landscape_and_beach_in_Sambava%2C_Sava_Region%2C_Madagascar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Coastal_landscape_and_beach_in_Sambava%2C_Sava_Region%2C_Madagascar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Coastal_landscape_and_beach_in_Sambava,_Sava_Region,_Madagascar.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=199427773",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-09-13 17:16:19",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Coastal landscape and beach in Sambava, Sava Region, Madagascar",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Creative Commons Attribution-Share Alike missing SDC copyright status|Self-published work|Creative Commons Attribution-Share Alike 4.0 missing SDC copyright license|Self-published work missing SDC copyright license|Beaches of Sambava",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Vue pittoresque de la côte de sable et des vagues de l'océan s'écrasant sur le rivage à Sambava, située dans la région de Sava, dans le nord-est de Madagascar.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-09-13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mammysou17\" title=\"User:Mammysou17\">Mammysou17</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "201347277": {
+        "pageid": 201347277,
+        "ns": 6,
+        "title": "File:Wustrow peninsula beach with coastal cliffs, 2026-09-07.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 15002404,
+            "width": 5993,
+            "height": 3470,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Wustrow_peninsula_beach_with_coastal_cliffs%2C_2026-09-07.jpg/960px-Wustrow_peninsula_beach_with_coastal_cliffs%2C_2026-09-07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 445,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Wustrow_peninsula_beach_with_coastal_cliffs%2C_2026-09-07.jpg/1920px-Wustrow_peninsula_beach_with_coastal_cliffs%2C_2026-09-07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Wustrow_peninsula_beach_with_coastal_cliffs%2C_2026-09-07.jpg/960px-Wustrow_peninsula_beach_with_coastal_cliffs%2C_2026-09-07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 445,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Wustrow_peninsula_beach_with_coastal_cliffs%2C_2026-09-07.jpg/1920px-Wustrow_peninsula_beach_with_coastal_cliffs%2C_2026-09-07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Wustrow_peninsula_beach_with_coastal_cliffs%2C_2026-09-07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wustrow_peninsula_beach_with_coastal_cliffs,_2026-09-07.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=201347277",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-10-08 22:44:07",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Wustrow peninsula beach with coastal cliffs, 2026-09-07",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Contre-jour photography of Germany|Zostera|Taken with Nikon D3300|Wustrow (peninsula)|Self-published work|Information field template with formatting|Clouds and blue sky in Mecklenburg-Vorpommern|Trees in Mecklenburg-Vorpommern in September|Trees in Landkreis Rostock|Dog tracks|Sea cliffs of Mecklenburg-Vorpommern|Photographs by Radomianin|2026 in Landkreis Rostock|Trees in summer 2026 in Germany|Contre-jour photographs of landscapes|Water waves of Mecklenburg-Vorpommern|Contre-jour photography of water|Beach of Rerik|Seascapes of Mecklenburg-Vorpommern|Summer 2026 in Mecklenburg-Vorpommern|Mecklenburg-Vorpommern photographs taken on 2026-09-07|Zosteraceae in Mecklenburg-Vorpommern",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "54.099333",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "11.588444",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A rare view of the unspoilt coastline of the <a href=\"//commons.wikimedia.org/wiki/Category:Wustrow_(peninsula)\" title=\"Category:Wustrow (peninsula)\">Wustrow peninsula</a>, photographed <a href=\"https://en.wikipedia.org/wiki/Contre-jour\" class=\"extiw\" title=\"en:Contre-jour\">against the light</a>, with the coastal cliffs in the distance. It was a warm, still summer day. Areas of washed-up seagrass can be seen on the sand, along with dog tracks from our small group, recalling this special visit. Access to the area, otherwise completely closed to the public, was exceptionally granted by the owner for this occasion.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 7 September 2026, 16:29:01",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Radomianin\" title=\"User:Radomianin\">Radomianin</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

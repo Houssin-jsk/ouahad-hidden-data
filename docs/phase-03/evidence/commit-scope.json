@@ -1,0 +1,4376 @@
+{
+  "version": 1,
+  "preparedAt": "2026-10-22T21:42:38.913Z",
+  "note": "Exact proposed commit scope. Every candidate is classified. This manifest alone has null bytes/hash to avoid a self-reference. --check validates all other bytes and rejects new paths. Review licensed fixture attribution and retained historical evidence before staging.",
+  "counts": {
+    "KEEP — Tests, Documentation and Configuration": 92,
+    "KEEP — Lightweight Research History": 488,
+    "KEEP — Production Source": 48
+  },
+  "stagePaths": [
+    ".gitignore",
+    ".vercelignore",
+    "README.md",
+    "companion/README.md",
+    "companion/app.py",
+    "companion/artifacts.json",
+    "companion/contract.json",
+    "companion/licenses/MODEL-LICENSE.txt",
+    "companion/licenses/runtime/CPP_HTTPLIB_LICENSE",
+    "companion/licenses/runtime/CUDNN_LICENSE.txt",
+    "companion/licenses/runtime/CUTLASS_LICENSE.txt",
+    "companion/licenses/runtime/DLFCN_WIN32_COPYING",
+    "companion/licenses/runtime/DLPACK_LICENSE",
+    "companion/licenses/runtime/FMT_LICENSE",
+    "companion/licenses/runtime/GO_LICENSE",
+    "companion/licenses/runtime/JSON_LICENSE.MIT",
+    "companion/licenses/runtime/LLAMA_CPP_LICENSE",
+    "companion/licenses/runtime/LLAMA_CPP_VENDORS_LICENSE",
+    "companion/licenses/runtime/MLX_C_LICENSE",
+    "companion/licenses/runtime/MLX_LICENSE",
+    "companion/licenses/runtime/NVTX3_LICENSE.txt",
+    "companion/licenses/runtime/PICOJSON_LICENSE",
+    "companion/licenses/runtime/XGRAMMAR_LICENSE",
+    "companion/licenses/runtime/XGRAMMAR_NOTICE",
+    "companion/promotion.json",
+    "companion/reference_quality.py",
+    "companion/service.py",
+    "companion/tests/test_preferences.py",
+    "companion/tests/test_reference_equivalence.py",
+    "companion/tests/test_service.py",
+    "docs/evidence/phase-4-1-inference.json",
+    "docs/evidence/phase-4-2-benchmark.json",
+    "docs/evidence/phase-4-3-artifacts.json",
+    "docs/evidence/phase-4-3-benchmark.json",
+    "docs/evidence/phase-4-3-host.json",
+    "docs/evidence/phase-4-3-summary.json",
+    "docs/evidence/phase-4-4-desktop.png",
+    "docs/evidence/phase-4-4-mobile.png",
+    "docs/evidence/phase-4-4-release-verification.json",
+    "docs/phase-01/PHASE-01-AUDIT.md",
+    "docs/phase-01/PHASE-01-FIXES.md",
+    "docs/phase-01/PHASE-01-HANDOFF.md",
+    "docs/phase-01/PHASE-01-VERIFICATION.md",
+    "docs/phase-01/evidence/release-1440.png",
+    "docs/phase-01/evidence/release-390.png",
+    "docs/phase-01/evidence/release-verification.json",
+    "docs/phase-01/evidence/verification.json",
+    "docs/phase-02/PHASE-02-DESIGN.md",
+    "docs/phase-02/PHASE-02-HANDOFF.md",
+    "docs/phase-02/PHASE-02-IMPLEMENTATION.md",
+    "docs/phase-02/PHASE-02-VERIFICATION.md",
+    "docs/phase-02/evidence/color-1440.png",
+    "docs/phase-02/evidence/color-320.png",
+    "docs/phase-02/evidence/color-768.png",
+    "docs/phase-02/evidence/compute-benchmark.json",
+    "docs/phase-02/evidence/release-verification.json",
+    "docs/phase-02/evidence/tonal-1440.png",
+    "docs/phase-02/evidence/tonal-320.png",
+    "docs/phase-02/evidence/tonal-768.png",
+    "docs/phase-02/evidence/unit-tests.txt",
+    "docs/phase-02/evidence/verification.json",
+    "docs/phase-02/evidence/wide-preview-before-fix.png",
+    "docs/phase-03/PHASE-03-ARCHITECTURE.md",
+    "docs/phase-03/PHASE-03-HANDOFF.md",
+    "docs/phase-03/PHASE-03-MODEL-EVALUATION.md",
+    "docs/phase-03/PHASE-03-VERIFICATION.md",
+    "docs/phase-03/PROTOCOL.md",
+    "docs/phase-03/evidence/ai-results-v1.json",
+    "docs/phase-03/evidence/asset-audit.json",
+    "docs/phase-03/evidence/asset-audit.log",
+    "docs/phase-03/evidence/browser-inference.json",
+    "docs/phase-03/evidence/cloud-vision.json",
+    "docs/phase-03/evidence/commit-scope.json",
+    "docs/phase-03/evidence/corpus-contact.png",
+    "docs/phase-03/evidence/decoded-dimensions.json",
+    "docs/phase-03/evidence/final/audit.json",
+    "docs/phase-03/evidence/final/benchmark-test.log",
+    "docs/phase-03/evidence/final/browser-benchmark.json",
+    "docs/phase-03/evidence/final/calibration-interruption.log",
+    "docs/phase-03/evidence/final/corpus-contact.png",
+    "docs/phase-03/evidence/final/corpus-preparation.log",
+    "docs/phase-03/evidence/final/export-README.md",
+    "docs/phase-03/evidence/final/export-config.json",
+    "docs/phase-03/evidence/final/export-metadata.json",
+    "docs/phase-03/evidence/final/export-preprocessor_config.json",
+    "docs/phase-03/evidence/final/export-tokenizer_config.json",
+    "docs/phase-03/evidence/final/frozen-policies.json",
+    "docs/phase-03/evidence/final/lint.log",
+    "docs/phase-03/evidence/final/onnx-install.log",
+    "docs/phase-03/evidence/final/places-build.log",
+    "docs/phase-03/evidence/final/places-contact.png",
+    "docs/phase-03/evidence/final/places-conversion.json",
+    "docs/phase-03/evidence/final/places-conversion.log",
+    "docs/phase-03/evidence/final/places-corpus.log",
+    "docs/phase-03/evidence/final/places-decision.json",
+    "docs/phase-03/evidence/final/places-frozen-policies.json",
+    "docs/phase-03/evidence/final/places-quality-test.log",
+    "docs/phase-03/evidence/final/places-quality.json",
+    "docs/phase-03/evidence/final/places-runtime-test.log",
+    "docs/phase-03/evidence/final/places-runtime.json",
+    "docs/phase-03/evidence/final/places-screen.json",
+    "docs/phase-03/evidence/final/production-build.log",
+    "docs/phase-03/evidence/final/quality-test.log",
+    "docs/phase-03/evidence/final/release-browser-launch-failure.log",
+    "docs/phase-03/evidence/final/release-browser.json",
+    "docs/phase-03/evidence/final/release-isolation.json",
+    "docs/phase-03/evidence/final/research-build.log",
+    "docs/phase-03/evidence/final/source-README.md",
+    "docs/phase-03/evidence/final/source-config.json",
+    "docs/phase-03/evidence/final/source-metadata.json",
+    "docs/phase-03/evidence/final/source-preprocessor_config.json",
+    "docs/phase-03/evidence/final/tiny-assets.json",
+    "docs/phase-03/evidence/final/tiny-config-failure.json",
+    "docs/phase-03/evidence/final/tiny-decision.json",
+    "docs/phase-03/evidence/final/tiny-quality.json",
+    "docs/phase-03/evidence/final/tiny-runtime.json",
+    "docs/phase-03/evidence/final/tiny-test-initial.log",
+    "docs/phase-03/evidence/final/tiny-test.log",
+    "docs/phase-03/evidence/final/typecheck.log",
+    "docs/phase-03/evidence/final/unit-tests.log",
+    "docs/phase-03/evidence/final/verification-summary.json",
+    "docs/phase-03/evidence/hosting-inspection.json",
+    "docs/phase-03/evidence/lifecycle.json",
+    "docs/phase-03/evidence/lint.log",
+    "docs/phase-03/evidence/production-build.log",
+    "docs/phase-03/evidence/quality-summary.log",
+    "docs/phase-03/evidence/quality.json",
+    "docs/phase-03/evidence/qwen/browser-50.json",
+    "docs/phase-03/evidence/qwen/browser-50.stderr.log",
+    "docs/phase-03/evidence/qwen/build.log",
+    "docs/phase-03/evidence/qwen/companion-browser-initial.json",
+    "docs/phase-03/evidence/qwen/companion-browser.json",
+    "docs/phase-03/evidence/qwen/companion-browser.stderr.log",
+    "docs/phase-03/evidence/qwen/contact.jpg",
+    "docs/phase-03/evidence/qwen/https-loopback.json",
+    "docs/phase-03/evidence/qwen/lint.log",
+    "docs/phase-03/evidence/qwen/ownership.json",
+    "docs/phase-03/evidence/qwen/package-verification.json",
+    "docs/phase-03/evidence/qwen/quality-review.json",
+    "docs/phase-03/evidence/qwen/quality.json",
+    "docs/phase-03/evidence/qwen/reference-runtime.log",
+    "docs/phase-03/evidence/qwen/reference-smoke.json",
+    "docs/phase-03/evidence/qwen/release-verification.json",
+    "docs/phase-03/evidence/qwen/resolution/browser-50.json",
+    "docs/phase-03/evidence/qwen/resolution/browser-50.stderr.log",
+    "docs/phase-03/evidence/qwen/resolution/build.log",
+    "docs/phase-03/evidence/qwen/resolution/companion-browser.json",
+    "docs/phase-03/evidence/qwen/resolution/companion-browser.stderr.log",
+    "docs/phase-03/evidence/qwen/resolution/comparisons.json",
+    "docs/phase-03/evidence/qwen/resolution/corpus-integrity.json",
+    "docs/phase-03/evidence/qwen/resolution/diagnostic-review.json",
+    "docs/phase-03/evidence/qwen/resolution/difference-matrix.json",
+    "docs/phase-03/evidence/qwen/resolution/gui-qualification.json",
+    "docs/phase-03/evidence/qwen/resolution/heldout-contact.png",
+    "docs/phase-03/evidence/qwen/resolution/heldout-plan.json",
+    "docs/phase-03/evidence/qwen/resolution/https-loopback.json",
+    "docs/phase-03/evidence/qwen/resolution/human-review-status.json",
+    "docs/phase-03/evidence/qwen/resolution/lint.log",
+    "docs/phase-03/evidence/qwen/resolution/ownership.json",
+    "docs/phase-03/evidence/qwen/resolution/pre-inference-review.json",
+    "docs/phase-03/evidence/qwen/resolution/preferences-tests.log",
+    "docs/phase-03/evidence/qwen/resolution/previous-contract.json",
+    "docs/phase-03/evidence/qwen/resolution/qualification.json",
+    "docs/phase-03/evidence/qwen/resolution/reference-quality-provenance.json",
+    "docs/phase-03/evidence/qwen/resolution/reference-test-summary.json",
+    "docs/phase-03/evidence/qwen/resolution/reference-tests.log",
+    "docs/phase-03/evidence/qwen/resolution/reference-vendor.json",
+    "docs/phase-03/evidence/qwen/resolution/security-tests-first-run.log",
+    "docs/phase-03/evidence/qwen/resolution/security-tests-second-run.log",
+    "docs/phase-03/evidence/qwen/resolution/security-tests-third-run.log",
+    "docs/phase-03/evidence/qwen/resolution/security-tests.log",
+    "docs/phase-03/evidence/qwen/resolution/typecheck.log",
+    "docs/phase-03/evidence/qwen/resolution/unit-tests.log",
+    "docs/phase-03/evidence/qwen/security-tests.log",
+    "docs/phase-03/evidence/qwen/typecheck.log",
+    "docs/phase-03/evidence/qwen/unit-tests.log",
+    "docs/phase-03/evidence/qwen/verification-summary.json",
+    "docs/phase-03/evidence/release-browser-final.json",
+    "docs/phase-03/evidence/release-browser-first.json",
+    "docs/phase-03/evidence/release-browser-initial.log",
+    "docs/phase-03/evidence/release-browser-recheck.log",
+    "docs/phase-03/evidence/release-isolation.json",
+    "docs/phase-03/evidence/reproduction-test.log",
+    "docs/phase-03/evidence/reproduction.json",
+    "docs/phase-03/evidence/research-build.log",
+    "docs/phase-03/evidence/research-final-narrow.png",
+    "docs/phase-03/evidence/research-narrow.png",
+    "docs/phase-03/evidence/second-attempt/candidate-audit.json",
+    "docs/phase-03/evidence/second-attempt/candidate-audit.log",
+    "docs/phase-03/evidence/second-attempt/config.json",
+    "docs/phase-03/evidence/second-attempt/converter-LICENSE.txt",
+    "docs/phase-03/evidence/second-attempt/converter-card.md",
+    "docs/phase-03/evidence/second-attempt/lint.log",
+    "docs/phase-03/evidence/second-attempt/mobileclip-converter-api.json",
+    "docs/phase-03/evidence/second-attempt/mobileclip-source-api.json",
+    "docs/phase-03/evidence/second-attempt/processor.json",
+    "docs/phase-03/evidence/second-attempt/production-build.log",
+    "docs/phase-03/evidence/second-attempt/release-browser.json",
+    "docs/phase-03/evidence/second-attempt/release-isolation.json",
+    "docs/phase-03/evidence/second-attempt/source-LICENSE.txt",
+    "docs/phase-03/evidence/second-attempt/source-card.md",
+    "docs/phase-03/evidence/second-attempt/typecheck.log",
+    "docs/phase-03/evidence/second-attempt/unit-tests.log",
+    "docs/phase-03/evidence/second-attempt/verification-summary.json",
+    "docs/phase-03/evidence/typecheck.log",
+    "docs/phase-03/evidence/unit-tests.log",
+    "docs/phase-03/evidence/verification-summary.json",
+    "docs/phase-4-1-ai-evaluation.md",
+    "docs/phase-4-2-scene-discovery.md",
+    "docs/phase-4-3-production-readiness.md",
+    "docs/phase-4-4-release-cleanup.md",
+    "docs/phase-4-ai-vision.md",
+    "eslint.config.mjs",
+    "next.config.ts",
+    "package-lock.json",
+    "package.json",
+    "playwright.companion.config.ts",
+    "playwright.config.ts",
+    "playwright.research.config.ts",
+    "research/assets/ai/LICENSE-Apache-2.0.txt",
+    "research/assets/ai/NOTICE.txt",
+    "research/assets/ai/manifest.json",
+    "research/assets/ai/mobilenetv4/config.json",
+    "research/assets/ai/mobilenetv4/preprocessor_config.json",
+    "research/assets/ai/runtime/LICENSE.txt",
+    "research/assets/experiments/ai/LICENSE-Apache-2.0.txt",
+    "research/assets/experiments/ai/LICENSE-CLIP-MIT.txt",
+    "research/assets/experiments/ai/NOTICE.txt",
+    "research/assets/experiments/ai/clip/config.json",
+    "research/assets/experiments/ai/clip/preprocessor_config.json",
+    "research/assets/experiments/ai/clip/special_tokens_map.json",
+    "research/assets/experiments/ai/clip/tokenizer_config.json",
+    "research/assets/experiments/ai/manifest.json",
+    "research/assets/experiments/ai/places/NOTICE.txt",
+    "research/assets/experiments/ai/places/labels.json",
+    "research/assets/experiments/ai/places/reference.json",
+    "research/assets/experiments/ai/tiny/LICENSE.txt",
+    "research/assets/experiments/ai/tiny/config.json",
+    "research/assets/experiments/ai/tiny/preprocessor_config.json",
+    "research/assets/experiments/ai/tiny/tokenizer_config.json",
+    "research/assets/experiments/ai/yolos/config.json",
+    "research/assets/experiments/ai/yolos/preprocessor_config.json",
+    "scripts/audit-cloud-secrets.mjs",
+    "scripts/audit-phase03-assets.mjs",
+    "scripts/audit-phase03-focused.mjs",
+    "scripts/benchmark-phase02.mts",
+    "scripts/check-cloud-eligibility.mjs",
+    "scripts/cloud-admin-key.mjs",
+    "scripts/cloud-admitted-smoke.ts",
+    "scripts/cloud-d1-verification.ts",
+    "scripts/cloud-d1.ts",
+    "scripts/cloud-invite.mjs",
+    "scripts/cloud-vision-smoke.ts",
+    "scripts/compare-qwen-reference.py",
+    "scripts/convert-phase03-places.py",
+    "scripts/create-qwen-review.py",
+    "scripts/document-qwen.mjs",
+    "scripts/download-phase03-tiny.mjs",
+    "scripts/evaluate-phase03.ts",
+    "scripts/freeze-phase03-final.mjs",
+    "scripts/freeze-qwen-evaluation.py",
+    "scripts/package-companion.py",
+    "scripts/phase03-contact.mjs",
+    "scripts/phase03-final-contact.mjs",
+    "scripts/phase03-places-contact.mjs",
+    "scripts/prepare-commit-scope.mjs",
+    "scripts/prepare-phase01-fixtures.mts",
+    "scripts/prepare-phase03-annotations.mjs",
+    "scripts/prepare-phase03-corpus.mjs",
+    "scripts/prepare-phase03-final-corpus.mjs",
+    "scripts/prepare-phase03-final.mjs",
+    "scripts/prepare-phase03-places-corpus.mjs",
+    "scripts/prepare-qwen-corpus.mjs",
+    "scripts/prepare-qwen-resolution-corpus.mjs",
+    "scripts/prepare-readiness-benchmark.mjs",
+    "scripts/prepare-vision-evaluation.mjs",
+    "scripts/qwen-reference-smoke.py",
+    "scripts/record-phase01-evidence.mjs",
+    "scripts/record-phase02-evidence.mjs",
+    "scripts/record-phase03-evidence.mjs",
+    "scripts/record-qwen-evidence.mjs",
+    "scripts/restore-qwen-reference.py",
+    "scripts/run-next.mjs",
+    "scripts/screen-phase03-places.mjs",
+    "scripts/setup-companion-vendor.py",
+    "scripts/summarize-readiness-benchmark.mjs",
+    "scripts/test-unit.mjs",
+    "scripts/verify-companion-ownership.py",
+    "scripts/verify-companion-package.py",
+    "scripts/verify-qwen-https.mjs",
+    "scripts/verify-qwen-quality.py",
+    "scripts/verify-qwen-resolution.py",
+    "scripts/verify-release.mjs",
+    "src/ai/client.ts",
+    "src/ai/engine.ts",
+    "src/ai/result-contract.ts",
+    "src/ai/types.ts",
+    "src/ai/vision.worker.ts",
+    "src/analysis/analysis.worker.ts",
+    "src/analysis/files.ts",
+    "src/analysis/insight-types.ts",
+    "src/analysis/insights.ts",
+    "src/analysis/types.ts",
+    "src/app/admin/ai/page.tsx",
+    "src/app/ai/[...path]/route.research.ts",
+    "src/app/api/admin/ai/route.ts",
+    "src/app/api/admin/ai/session/route.ts",
+    "src/app/api/cloud-vision/route.ts",
+    "src/app/experiments/ai/[...path]/route.research.ts",
+    "src/app/experiments/vision/page.research.tsx",
+    "src/app/globals.css",
+    "src/app/layout.tsx",
+    "src/cloud-vision/client.ts",
+    "src/cloud-vision/contract.ts",
+    "src/cloud-vision/server/access.ts",
+    "src/cloud-vision/server/admin.ts",
+    "src/cloud-vision/server/config.ts",
+    "src/cloud-vision/server/database.ts",
+    "src/cloud-vision/server/handler.ts",
+    "src/cloud-vision/server/http.ts",
+    "src/cloud-vision/server/image.ts",
+    "src/cloud-vision/server/ledger.ts",
+    "src/cloud-vision/server/policy.ts",
+    "src/cloud-vision/server/prompt.ts",
+    "src/cloud-vision/server/providers/cloudflare.ts",
+    "src/cloud-vision/server/providers/gemini.ts",
+    "src/cloud-vision/server/providers/nvidia.ts",
+    "src/cloud-vision/server/router.ts",
+    "src/cloud-vision/server/schema.ts",
+    "src/cloud-vision/server/types.ts",
+    "src/companion/client.ts",
+    "src/companion/contract.ts",
+    "src/companion/historical.css",
+    "src/components/admin-ai.tsx",
+    "src/components/ai-vision.tsx",
+    "src/components/cloud-observations.tsx",
+    "src/components/companion-observations.tsx",
+    "src/components/evidence-insight.tsx",
+    "src/components/image-lab.tsx",
+    "src/components/results.tsx",
+    "src/components/spatial-preview.tsx",
+    "src/experiments/assets.ts",
+    "src/experiments/vision/evaluation.worker.ts",
+    "src/experiments/vision/geometry.ts",
+    "src/experiments/vision/places.worker.ts",
+    "src/experiments/vision/quality.ts",
+    "src/experiments/vision/scene-results.tsx",
+    "src/experiments/vision/tiny.worker.ts",
+    "src/experiments/vision/types.ts",
+    "src/experiments/vision/workspace.module.css",
+    "src/experiments/vision/workspace.tsx",
+    "src/lib/format.ts",
+    "src/scene/audited-candidates.ts",
+    "src/scene/candidates.ts",
+    "src/scene/clip-engine.ts",
+    "src/scene/coverage.ts",
+    "src/scene/ranking.ts",
+    "tests/browser/admin-ai.spec.ts",
+    "tests/browser/cloud-vision.spec.ts",
+    "tests/browser/lab.spec.ts",
+    "tests/browser/phase01.spec.ts",
+    "tests/browser/phase02.spec.ts",
+    "tests/browser/release.spec.ts",
+    "tests/central-ai.test.ts",
+    "tests/cloud-vision.test.ts",
+    "tests/companion-browser/companion.spec.ts",
+    "tests/companion-browser/reference-pixels.spec.ts",
+    "tests/companion-harness.py",
+    "tests/companion.test.ts",
+    "tests/evaluation.test.ts",
+    "tests/final-ai.test.ts",
+    "tests/fixtures/README.md",
+    "tests/fixtures/discovery/README.md",
+    "tests/fixtures/discovery/benchmark.json",
+    "tests/fixtures/discovery/indoor.jpg",
+    "tests/fixtures/discovery/indoor.jpg.source.json",
+    "tests/fixtures/discovery/landscape.jpg",
+    "tests/fixtures/discovery/landscape.jpg.source.json",
+    "tests/fixtures/discovery/reflection.jpg",
+    "tests/fixtures/discovery/reflection.jpg.source.json",
+    "tests/fixtures/evaluation/README.md",
+    "tests/fixtures/evaluation/outdoor-cooking.jpg",
+    "tests/fixtures/exif.ts",
+    "tests/fixtures/phase01/README.md",
+    "tests/fixtures/phase01/bright.png",
+    "tests/fixtures/phase01/dark.png",
+    "tests/fixtures/phase01/empty.png",
+    "tests/fixtures/phase01/gray.png",
+    "tests/fixtures/phase01/large.png",
+    "tests/fixtures/phase01/low-contrast.png",
+    "tests/fixtures/phase01/malformed.png",
+    "tests/fixtures/phase01/orientation-1.jpg",
+    "tests/fixtures/phase01/orientation-2.jpg",
+    "tests/fixtures/phase01/orientation-3.jpg",
+    "tests/fixtures/phase01/orientation-4.jpg",
+    "tests/fixtures/phase01/orientation-5.jpg",
+    "tests/fixtures/phase01/orientation-6.jpg",
+    "tests/fixtures/phase01/orientation-7.jpg",
+    "tests/fixtures/phase01/orientation-8.jpg",
+    "tests/fixtures/phase01/over-limit.png",
+    "tests/fixtures/phase01/photo.jpg.png",
+    "tests/fixtures/phase01/quadrants.jpg",
+    "tests/fixtures/phase01/red.png",
+    "tests/fixtures/phase01/red.webp",
+    "tests/fixtures/phase01/spoof.png",
+    "tests/fixtures/phase01/tiny.png",
+    "tests/fixtures/phase01/transparent.png",
+    "tests/fixtures/phase01/unsupported.svg",
+    "tests/fixtures/phase01/صورة.photo.png",
+    "tests/fixtures/phase03-final/README.md",
+    "tests/fixtures/phase03-final/benchmark.json",
+    "tests/fixtures/phase03-final/natural-00.jpg",
+    "tests/fixtures/phase03-final/natural-01.jpg",
+    "tests/fixtures/phase03-final/natural-02.jpg",
+    "tests/fixtures/phase03-final/natural-03.jpg",
+    "tests/fixtures/phase03-final/natural-04.jpg",
+    "tests/fixtures/phase03-final/natural-05.jpg",
+    "tests/fixtures/phase03-final/natural-06.jpg",
+    "tests/fixtures/phase03-final/natural-07.jpg",
+    "tests/fixtures/phase03-final/natural-08.jpg",
+    "tests/fixtures/phase03-final/natural-09.jpg",
+    "tests/fixtures/phase03-final/natural-10.jpg",
+    "tests/fixtures/phase03-final/natural-11.jpg",
+    "tests/fixtures/phase03-final/natural-12.jpg",
+    "tests/fixtures/phase03-final/natural-13.jpg",
+    "tests/fixtures/phase03-final/natural-14.jpg",
+    "tests/fixtures/phase03-final/natural-15.jpg",
+    "tests/fixtures/phase03-final/natural-16.jpg",
+    "tests/fixtures/phase03-final/natural-17.jpg",
+    "tests/fixtures/phase03-final/natural-18.jpg",
+    "tests/fixtures/phase03-final/natural-19.jpg",
+    "tests/fixtures/phase03-final/natural-20.jpg",
+    "tests/fixtures/phase03-final/natural-21.jpg",
+    "tests/fixtures/phase03-final/natural-22.jpg",
+    "tests/fixtures/phase03-final/natural-23.jpg",
+    "tests/fixtures/phase03-final/query-0.json",
+    "tests/fixtures/phase03-final/query-1.json",
+    "tests/fixtures/phase03-final/query-10.json",
+    "tests/fixtures/phase03-final/query-11.json",
+    "tests/fixtures/phase03-final/query-12.json",
+    "tests/fixtures/phase03-final/query-13.json",
+    "tests/fixtures/phase03-final/query-14.json",
+    "tests/fixtures/phase03-final/query-15.json",
+    "tests/fixtures/phase03-final/query-16.json",
+    "tests/fixtures/phase03-final/query-17.json",
+    "tests/fixtures/phase03-final/query-18.json",
+    "tests/fixtures/phase03-final/query-19.json",
+    "tests/fixtures/phase03-final/query-2.json",
+    "tests/fixtures/phase03-final/query-20.json",
+    "tests/fixtures/phase03-final/query-21.json",
+    "tests/fixtures/phase03-final/query-22.json",
+    "tests/fixtures/phase03-final/query-23.json",
+    "tests/fixtures/phase03-final/query-3.json",
+    "tests/fixtures/phase03-final/query-4.json",
+    "tests/fixtures/phase03-final/query-5.json",
+    "tests/fixtures/phase03-final/query-6.json",
+    "tests/fixtures/phase03-final/query-7.json",
+    "tests/fixtures/phase03-final/query-8.json",
+    "tests/fixtures/phase03-final/query-9.json",
+    "tests/fixtures/phase03-final/sources.json",
+    "tests/fixtures/phase03-places/README.md",
+    "tests/fixtures/phase03-places/benchmark.json",
+    "tests/fixtures/phase03-places/natural-00.jpg",
+    "tests/fixtures/phase03-places/natural-01.jpg",
+    "tests/fixtures/phase03-places/natural-02.jpg",
+    "tests/fixtures/phase03-places/natural-03.jpg",
+    "tests/fixtures/phase03-places/natural-04.jpg",
+    "tests/fixtures/phase03-places/natural-05.jpg",
+    "tests/fixtures/phase03-places/natural-06.jpg",
+    "tests/fixtures/phase03-places/natural-07.jpg",
+    "tests/fixtures/phase03-places/natural-08.jpg",
+    "tests/fixtures/phase03-places/natural-09.jpg",
+    "tests/fixtures/phase03-places/natural-10.jpg",
+    "tests/fixtures/phase03-places/natural-11.jpg",
+    "tests/fixtures/phase03-places/query-0.json",
+    "tests/fixtures/phase03-places/query-1.json",
+    "tests/fixtures/phase03-places/query-10.json",
+    "tests/fixtures/phase03-places/query-11.json",
+    "tests/fixtures/phase03-places/query-2.json",
+    "tests/fixtures/phase03-places/query-3.json",
+    "tests/fixtures/phase03-places/query-4.json",
+    "tests/fixtures/phase03-places/query-5.json",
+    "tests/fixtures/phase03-places/query-6.json",
+    "tests/fixtures/phase03-places/query-7.json",
+    "tests/fixtures/phase03-places/query-8.json",
+    "tests/fixtures/phase03-places/query-9.json",
+    "tests/fixtures/phase03-places/sources.json",
+    "tests/fixtures/phase03/README.md",
+    "tests/fixtures/phase03/benchmark.json",
+    "tests/fixtures/phase03/natural-00.jpg",
+    "tests/fixtures/phase03/natural-01-low-light.jpg",
+    "tests/fixtures/phase03/natural-01.jpg",
+    "tests/fixtures/phase03/natural-02.jpg",
+    "tests/fixtures/phase03/natural-03-low-contrast.jpg",
+    "tests/fixtures/phase03/natural-03.jpg",
+    "tests/fixtures/phase03/natural-04.jpg",
+    "tests/fixtures/phase03/natural-05.jpg",
+    "tests/fixtures/phase03/natural-06.jpg",
+    "tests/fixtures/phase03/natural-07-blur.jpg",
+    "tests/fixtures/phase03/natural-07.jpg",
+    "tests/fixtures/phase03/natural-08.jpg",
+    "tests/fixtures/phase03/natural-09.jpg",
+    "tests/fixtures/phase03/natural-10.jpg",
+    "tests/fixtures/phase03/natural-11.jpg",
+    "tests/fixtures/phase03/natural-12.jpg",
+    "tests/fixtures/phase03/natural-13.jpg",
+    "tests/fixtures/phase03/natural-14.jpg",
+    "tests/fixtures/phase03/natural-15-crop-occlusion.jpg",
+    "tests/fixtures/phase03/natural-15.jpg",
+    "tests/fixtures/phase03/query-0.json",
+    "tests/fixtures/phase03/query-1.json",
+    "tests/fixtures/phase03/query-10.json",
+    "tests/fixtures/phase03/query-11.json",
+    "tests/fixtures/phase03/query-12.json",
+    "tests/fixtures/phase03/query-13.json",
+    "tests/fixtures/phase03/query-14.json",
+    "tests/fixtures/phase03/query-15.json",
+    "tests/fixtures/phase03/query-2.json",
+    "tests/fixtures/phase03/query-3.json",
+    "tests/fixtures/phase03/query-4.json",
+    "tests/fixtures/phase03/query-5.json",
+    "tests/fixtures/phase03/query-6.json",
+    "tests/fixtures/phase03/query-7.json",
+    "tests/fixtures/phase03/query-8.json",
+    "tests/fixtures/phase03/query-9.json",
+    "tests/fixtures/phase03/sources.json",
+    "tests/fixtures/qwen-resolution/README.md",
+    "tests/fixtures/qwen-resolution/query-0.json",
+    "tests/fixtures/qwen-resolution/query-1.json",
+    "tests/fixtures/qwen-resolution/query-2.json",
+    "tests/fixtures/qwen-resolution/query-3.json",
+    "tests/fixtures/qwen-resolution/query-4-initial.json",
+    "tests/fixtures/qwen-resolution/query-4.json",
+    "tests/fixtures/qwen-resolution/query-5.json",
+    "tests/fixtures/qwen-resolution/query-6.json",
+    "tests/fixtures/qwen-resolution/query-7.json",
+    "tests/fixtures/qwen-resolution/resolution-00.jpg",
+    "tests/fixtures/qwen-resolution/resolution-01.jpg",
+    "tests/fixtures/qwen-resolution/resolution-02-dim.jpg",
+    "tests/fixtures/qwen-resolution/resolution-02.jpg",
+    "tests/fixtures/qwen-resolution/resolution-03.jpg",
+    "tests/fixtures/qwen-resolution/resolution-04.jpg",
+    "tests/fixtures/qwen-resolution/resolution-05.jpg",
+    "tests/fixtures/qwen-resolution/resolution-06-small-blur.jpg",
+    "tests/fixtures/qwen-resolution/resolution-06.jpg",
+    "tests/fixtures/qwen-resolution/resolution-07.jpg",
+    "tests/fixtures/qwen-resolution/sources.json",
+    "tests/fixtures/qwen-resolution/transformations.json",
+    "tests/fixtures/qwen/evaluation.json",
+    "tests/fixtures/qwen/heldout-0.jpg",
+    "tests/fixtures/qwen/heldout-1.jpg",
+    "tests/fixtures/qwen/heldout-2.jpg",
+    "tests/fixtures/qwen/heldout-3.jpg",
+    "tests/fixtures/qwen/heldout-4.jpg",
+    "tests/fixtures/qwen/heldout-5.jpg",
+    "tests/fixtures/qwen/query-0.json",
+    "tests/fixtures/qwen/query-1.json",
+    "tests/fixtures/qwen/query-2.json",
+    "tests/fixtures/qwen/query-3.json",
+    "tests/fixtures/qwen/query-4.json",
+    "tests/fixtures/qwen/query-5.json",
+    "tests/fixtures/qwen/sources.json",
+    "tests/fixtures/readiness/README.md",
+    "tests/fixtures/readiness/benchmark.json",
+    "tests/fixtures/readiness/bubbles.jpg",
+    "tests/fixtures/readiness/coast.jpg",
+    "tests/fixtures/readiness/flower.jpg",
+    "tests/fixtures/readiness/forest.jpg",
+    "tests/fixtures/readiness/kitchen.jpg",
+    "tests/fixtures/readiness/potter.jpg",
+    "tests/fixtures/readiness/tajine.jpg",
+    "tests/fixtures/readiness/teapots.jpg",
+    "tests/insights.test.ts",
+    "tests/phase03.test.ts",
+    "tests/pixels.test.ts",
+    "tests/readiness.test.ts",
+    "tests/reliability.test.ts",
+    "tests/research-assets.test.ts",
+    "tests/research/README.md",
+    "tests/research/archive/vision.spec.ts",
+    "tests/research/discovery.spec.ts",
+    "tests/research/evaluation.spec.ts",
+    "tests/research/final-benchmark.spec.ts",
+    "tests/research/final-places-quality.spec.ts",
+    "tests/research/final-places-runtime.spec.ts",
+    "tests/research/final-quality.spec.ts",
+    "tests/research/final-tiny.spec.ts",
+    "tests/research/phase03-reproduction.spec.ts",
+    "tests/research/phase03.spec.ts",
+    "tests/research/readiness.spec.ts",
+    "tests/scene.test.ts",
+    "tests/traffic.test.ts",
+    "tests/vision.test.ts",
+    "tsconfig.json"
+  ],
+  "files": [
+    {
+      "path": ".gitignore",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 1080,
+      "sha256": "ab0810fb3847322368426b8f2f7bcfa4e43983ff77d4fbe7217883c8f768051e"
+    },
+    {
+      "path": ".vercelignore",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 517,
+      "sha256": "388ebaaa476d7195e5716369d1f4706888ec7c60aa81de89da0626e42280325f"
+    },
+    {
+      "path": "AGENTS.md",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 679,
+      "sha256": "063098f6cb31bb44c6f8fbea25b3876de7ee1e5f7d00a50dbab506f6415eb7f0"
+    },
+    {
+      "path": "README.md",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 18788,
+      "sha256": "83640a416ff0e989ba4f396649ddb4d28b75a9f617c910290b51e683fbb2b7f6"
+    },
+    {
+      "path": "companion/README.md",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 8751,
+      "sha256": "8a6708abc6a6a77723811945a593124bd816033ee00f4f801f4aebcea18d88bb"
+    },
+    {
+      "path": "companion/app.py",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 10698,
+      "sha256": "1de7ea93bfdd0964c50b350f4e63c14d3bd60f82c1e85a10498131d2b6b4c6eb"
+    },
+    {
+      "path": "companion/artifacts.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 9366,
+      "sha256": "ad49d63de9dec5fab747f3d1fd5f04f46fd65b2b64281fc784fb4aaa3645b12d"
+    },
+    {
+      "path": "companion/contract.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 3789,
+      "sha256": "1604725c0d0324f52a273671aa6e341a076530bea02cfe84705a44edab4fe636"
+    },
+    {
+      "path": "companion/licenses/MODEL-LICENSE.txt",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 11355,
+      "sha256": "7339fa418c9ad3e8e12e74ad0fd26a9cc4be8703f9c110728a992b193be85cb2"
+    },
+    {
+      "path": "companion/licenses/runtime/CPP_HTTPLIB_LICENSE",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1097,
+      "sha256": "bb546eae5924d8ee842e0e567e6d533c5824bdebccf605f99a5b3429034e6697"
+    },
+    {
+      "path": "companion/licenses/runtime/CUDNN_LICENSE.txt",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1169,
+      "sha256": "b6fe452605fe29245f0cbafa724b42df94a5e170bedb9d45bc9cfaa4883ad907"
+    },
+    {
+      "path": "companion/licenses/runtime/CUTLASS_LICENSE.txt",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1888,
+      "sha256": "48eb34a9124af8fdd2ad1858a64be9827ebc42e5389c6dd4b5a93e411ac7e693"
+    },
+    {
+      "path": "companion/licenses/runtime/DLFCN_WIN32_COPYING",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1040,
+      "sha256": "4cc7ac997b9293db5919baf630100cc09b3508efdfe6a6611c95511fb863b3c7"
+    },
+    {
+      "path": "companion/licenses/runtime/DLPACK_LICENSE",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 11546,
+      "sha256": "9bda2385fa325d1df6dc39772eba3cc6d07bdfaf2c656cd644cd29f7509514fd"
+    },
+    {
+      "path": "companion/licenses/runtime/FMT_LICENSE",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1458,
+      "sha256": "25b5db04aa6070c12ac518b91cbd0a59725c050ecb091456e6ebc3d3eeb369cf"
+    },
+    {
+      "path": "companion/licenses/runtime/GO_LICENSE",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 166573,
+      "sha256": "7fee9b29a1541b5a9ec03c5d57e095ad280f67a824cf3818445ba6996f86fe85"
+    },
+    {
+      "path": "companion/licenses/runtime/JSON_LICENSE.MIT",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1076,
+      "sha256": "86b998c792894ccb911a1cb7994f7a9652894e7a094c0b5e45be2f553f45cf14"
+    },
+    {
+      "path": "companion/licenses/runtime/LLAMA_CPP_LICENSE",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1099,
+      "sha256": "bcd8ec749126d45cb06737d0690295d73df4b6e7e194205bcf91190368f27285"
+    },
+    {
+      "path": "companion/licenses/runtime/LLAMA_CPP_VENDORS_LICENSE",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 7424,
+      "sha256": "7547ae6372a35e7382898dd9f5519ebc16e93095f69c2466b5b74b617c33d4da"
+    },
+    {
+      "path": "companion/licenses/runtime/MLX_C_LICENSE",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1088,
+      "sha256": "d8d63c7fa57071d80d30116d014e4189c52ef4cb2d1671f6d848e78d9f6cfad0"
+    },
+    {
+      "path": "companion/licenses/runtime/MLX_LICENSE",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1087,
+      "sha256": "e93675e97d080c4fcfef6dd530448b9a6fd7c1ad43c736d593537079cd669d3d"
+    },
+    {
+      "path": "companion/licenses/runtime/NVTX3_LICENSE.txt",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 12706,
+      "sha256": "c3b19baa37cf18bac07b65700824acadcfa617316f02af10d3852ed20f4f6ab8"
+    },
+    {
+      "path": "companion/licenses/runtime/PICOJSON_LICENSE",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1441,
+      "sha256": "02f4aea46c66a0c110bb4fd995817db2dc2af0b57c18336b367e6bc9c27eb91f"
+    },
+    {
+      "path": "companion/licenses/runtime/XGRAMMAR_LICENSE",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 11558,
+      "sha256": "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6"
+    },
+    {
+      "path": "companion/licenses/runtime/XGRAMMAR_NOTICE",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 57,
+      "sha256": "93971ad2b725c8398df171dbd7c8145fc9d11bf016294aa69a8a783b55a40775"
+    },
+    {
+      "path": "companion/promotion.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 310,
+      "sha256": "b3d04de2e771522bb7a55d9b0278bcb6a78f85dd3a0382f0d5f88ae05d094767"
+    },
+    {
+      "path": "companion/reference_quality.py",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 7215,
+      "sha256": "bd0e5065707a27f817647173792383d67e95a71bd09540e4e457fe92d424f414"
+    },
+    {
+      "path": "companion/service.py",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 24960,
+      "sha256": "6fc11c994e082b3d9fefb08f16cc4100157f4960a024fb0448c95041dde9196b"
+    },
+    {
+      "path": "companion/tests/test_preferences.py",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 2034,
+      "sha256": "a4dfe350539f601a8fa3611c952eaf27043e3776e0e3f261fa147ad89dd8999f"
+    },
+    {
+      "path": "companion/tests/test_reference_equivalence.py",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 10933,
+      "sha256": "4cf9c55c8307527001611aa18571b74866107ceedb3aaf17483d0042c657b296"
+    },
+    {
+      "path": "companion/tests/test_service.py",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 11740,
+      "sha256": "5d305a9d1dfa45b6a22a7ae2b8e00f3d7385f15a4b370e30db7f3c08a05c13b0"
+    },
+    {
+      "path": "docs/evidence/phase-4-1-inference.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 13746,
+      "sha256": "94bedfd19f330eb48d59bd8a9ebee46825517f565cc612aec803a1d1cd6c8d68"
+    },
+    {
+      "path": "docs/evidence/phase-4-2-benchmark.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 312365,
+      "sha256": "c017c257a410c98583b366a0fe443610fc0fbfc5cdeae37530334bfc5c314bb7"
+    },
+    {
+      "path": "docs/evidence/phase-4-3-artifacts.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1724,
+      "sha256": "ac555011b4ecfedb64b045b4cbb09947c44c3c6edcd5dbc2032e03e75a4b1b8b"
+    },
+    {
+      "path": "docs/evidence/phase-4-3-benchmark.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 637467,
+      "sha256": "a63e6d51883060a14de9b967cf58a77ab8834591a698801f8d128072f2865156"
+    },
+    {
+      "path": "docs/evidence/phase-4-3-host.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 336,
+      "sha256": "b8eb79873341e9f373cc1d24b9d01d19d4f4e01747d984b3f79163ec7367b76e"
+    },
+    {
+      "path": "docs/evidence/phase-4-3-summary.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 3111,
+      "sha256": "7146c7e6bbbd2ae3f7c101d40f340e0e789599c18f9e914d453eaec505b49671"
+    },
+    {
+      "path": "docs/evidence/phase-4-4-desktop.png",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 76702,
+      "sha256": "654cc5b609a6629af45e07d000760b5c096625948fff138aa831e1e127c6a5f3"
+    },
+    {
+      "path": "docs/evidence/phase-4-4-mobile.png",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 64593,
+      "sha256": "c2b298a7c42004802f7873bb9c372b5dda0095e9b179254663d2fb2d10c158a2"
+    },
+    {
+      "path": "docs/evidence/phase-4-4-release-verification.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 449,
+      "sha256": "41f102806d0db6ef8fbc3ba1cee096b94230b5c077ddad8adb052a0181d23605"
+    },
+    {
+      "path": "docs/loading-presentation.md",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 7018,
+      "sha256": "baafd80f57834732183af5bd66f24650f0b80a57d14e7ee3cac5e82b98d72ec7"
+    },
+    {
+      "path": "docs/phase-01/PHASE-01-AUDIT.md",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 12124,
+      "sha256": "f202ab03a4de69a754426aa7c6945a859f02c884f3d398860df2b69fd7191f65"
+    },
+    {
+      "path": "docs/phase-01/PHASE-01-FIXES.md",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 5879,
+      "sha256": "3ed9457a19b44f949576f0d0d34ce3b2a35469f205db83b267baf5d947d5ada8"
+    },
+    {
+      "path": "docs/phase-01/PHASE-01-HANDOFF.md",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 7739,
+      "sha256": "0c8c3bc6c86a6a80ce1e9c63268720b085790cd1a7e1afcc2967a91ecb6cd22a"
+    },
+    {
+      "path": "docs/phase-01/PHASE-01-VERIFICATION.md",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 12503,
+      "sha256": "d4b3e17d558200df7f88539930c911c0dba5c8b71843300c1ce44a662a00bcba"
+    },
+    {
+      "path": "docs/phase-01/evidence/release-1440.png",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 76702,
+      "sha256": "654cc5b609a6629af45e07d000760b5c096625948fff138aa831e1e127c6a5f3"
+    },
+    {
+      "path": "docs/phase-01/evidence/release-390.png",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 64593,
+      "sha256": "c2b298a7c42004802f7873bb9c372b5dda0095e9b179254663d2fb2d10c158a2"
+    },
+    {
+      "path": "docs/phase-01/evidence/release-verification.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 449,
+      "sha256": "41f102806d0db6ef8fbc3ba1cee096b94230b5c077ddad8adb052a0181d23605"
+    },
+    {
+      "path": "docs/phase-01/evidence/verification.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 21254,
+      "sha256": "596eb8677be707460de06b29049ae29db8a32373ac1d9f3be5e57ec32cd5c9de"
+    },
+    {
+      "path": "docs/phase-02/PHASE-02-DESIGN.md",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 11137,
+      "sha256": "49c1bbe001854e0b2720a32292fae417f97875224487597016558e3b71e723b8"
+    },
+    {
+      "path": "docs/phase-02/PHASE-02-HANDOFF.md",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 6129,
+      "sha256": "ef30817ca90ca4ddc03b6f3c42b23e62d6e6133a7939e135298c93354185deeb"
+    },
+    {
+      "path": "docs/phase-02/PHASE-02-IMPLEMENTATION.md",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 7262,
+      "sha256": "109ba16948a1e6bad361e168cb7b4b5859c56c7f23b77015831782086a09f29c"
+    },
+    {
+      "path": "docs/phase-02/PHASE-02-VERIFICATION.md",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 14512,
+      "sha256": "a342140b7a61af3e6774eacd1c6e123cb176f6f7aee7f6e2af731ce761b26359"
+    },
+    {
+      "path": "docs/phase-02/evidence/color-1440.png",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 195646,
+      "sha256": "b27cd76149d5d2bac47422ff7736b0460be792955eda5928804b0350c7451e2e"
+    },
+    {
+      "path": "docs/phase-02/evidence/color-320.png",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 167291,
+      "sha256": "c87e2ffeb504f30f55e4317e9d52f48fd3f3519445a921cf629c07267aedf2ca"
+    },
+    {
+      "path": "docs/phase-02/evidence/color-768.png",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 181083,
+      "sha256": "6952391b102392756af44672721518fc90f353bb13c3e19f0ad2e8ddeb55127a"
+    },
+    {
+      "path": "docs/phase-02/evidence/compute-benchmark.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 4239,
+      "sha256": "f19bb71f6cfd80b4ae5cdb7a5261c7623d963fbabab005c342e990bc05b4f199"
+    },
+    {
+      "path": "docs/phase-02/evidence/release-verification.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 449,
+      "sha256": "41f102806d0db6ef8fbc3ba1cee096b94230b5c077ddad8adb052a0181d23605"
+    },
+    {
+      "path": "docs/phase-02/evidence/tonal-1440.png",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 201587,
+      "sha256": "32ff2ba4e1dc5ecf837b6e5fbaf274d8c36430f15235faf557abf5ef768b354b"
+    },
+    {
+      "path": "docs/phase-02/evidence/tonal-320.png",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 171084,
+      "sha256": "ae608f0d80ba893328df42a68d7cef0fe8bb0791267ad1366f6c2b806db823e2"
+    },
+    {
+      "path": "docs/phase-02/evidence/tonal-768.png",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 184751,
+      "sha256": "9ba81c7f327866e3a19a299f08b1bd76522ea0afef7b97546efa15903d8f0c07"
+    },
+    {
+      "path": "docs/phase-02/evidence/unit-tests.txt",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 7440,
+      "sha256": "27c1868ccfb866afeac2779f118430ef2833421a4dea0859dd33332cd5173938"
+    },
+    {
+      "path": "docs/phase-02/evidence/verification.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 26383,
+      "sha256": "52486cfb577a61a53bb427b4ce2b32a8a470bbdfded2cf4732c726742d43831e"
+    },
+    {
+      "path": "docs/phase-02/evidence/wide-preview-before-fix.png",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 198666,
+      "sha256": "eada6231671cfba8da37b27a7418baf026a544c1dec324127ad87266ba8ef976"
+    },
+    {
+      "path": "docs/phase-03/PHASE-03-ARCHITECTURE.md",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 50680,
+      "sha256": "dca17b987b3204280ea175f71d906d90795714875e2c914f032ee3155bf15f38"
+    },
+    {
+      "path": "docs/phase-03/PHASE-03-HANDOFF.md",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 71034,
+      "sha256": "cf8fd462ae41f0641ae2580487f6df7de8aa5a73f44a9629359261768a1e5471"
+    },
+    {
+      "path": "docs/phase-03/PHASE-03-MODEL-EVALUATION.md",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 54040,
+      "sha256": "eb2a02dbf77b61fa785dd75ae074cd9caa4c2ec33f1fe307acd1a66403c0431e"
+    },
+    {
+      "path": "docs/phase-03/PHASE-03-VERIFICATION.md",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 59025,
+      "sha256": "d1e07ac8e10d1e76d91d0c1388a864a9038239836b2079b62e85128865230c54"
+    },
+    {
+      "path": "docs/phase-03/PROTOCOL.md",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 1940,
+      "sha256": "7e14a9ea0cbf3a4b5222980bc4bae47aaa70f122517f7cfed053b9ae416773ff"
+    },
+    {
+      "path": "docs/phase-03/evidence/ai-results-v1.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 100394,
+      "sha256": "04d47a8a2571b2ee92a8c7a5563b1c33fdd6f734ae3dfbd86ce7e0297c6d8388"
+    },
+    {
+      "path": "docs/phase-03/evidence/asset-audit.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 12652,
+      "sha256": "e668bc9ee9ce070bcedd5f1ddb29a1c2c6d82f2d0bb9a366197eb341fd9f627b"
+    },
+    {
+      "path": "docs/phase-03/evidence/asset-audit.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 94,
+      "sha256": "e2be3be41f9ba2e259bf93978df39281aa8ac3570ef485b1c6391e80482bab0d"
+    },
+    {
+      "path": "docs/phase-03/evidence/browser-inference.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 294637,
+      "sha256": "f761d55c7c86d47956116f64cdc8d8d6a2158645d4db5fd5c8d0fb6f6315adf4"
+    },
+    {
+      "path": "docs/phase-03/evidence/cloud-vision.json",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 64490,
+      "sha256": "a159e8dcb5a5aea193c85f1422cac2cce440e6b6a47a98381ba1b35c5a4d8c2e"
+    },
+    {
+      "path": "docs/phase-03/evidence/commit-scope.json",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": null,
+      "sha256": null
+    },
+    {
+      "path": "docs/phase-03/evidence/corpus-contact.png",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 2513784,
+      "sha256": "8c30482871b5526d48913b592a71a78a3b038df8b246646e5ab6561c8028a9c9"
+    },
+    {
+      "path": "docs/phase-03/evidence/decoded-dimensions.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 2730,
+      "sha256": "31c702cedb5e44eb42e81f0acfe666d939636704c3176bbae979ad91791db6fd"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/audit.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 5954,
+      "sha256": "b56e80dc09586510613a3d16a535c04ef6b906befb61162449c1e6eaa1511537"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/benchmark-test.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 666,
+      "sha256": "c4496d98df1abe53b8fa2887607b333c33347d0a443dcd92cc30194900b564ee"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/browser-benchmark.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 173792,
+      "sha256": "ee88319ea712dbfaa784c426288acae519800599bef28c36989285767cecd00a"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/calibration-interruption.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 2256,
+      "sha256": "f893c432092c031ce73ac3eb746ff9844a265290c4c485bf885e1aa9053baefc"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/corpus-contact.png",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 3472686,
+      "sha256": "62c10f604e5d00759c51763e92cfd68423eb3ae79634e1445c14c337557020ee"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/corpus-preparation.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 2426,
+      "sha256": "e6d17a8a7c2289f16aaaf584ff81a48f260399aea48e426604028e02578fc305"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/export-README.md",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 6589,
+      "sha256": "b5a6cc513ffe2190354ff91a21f474eb6d24893c698527ba6b841c86c1b51933"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/export-config.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 850,
+      "sha256": "0ca46b868f12305e959a1cfa2b8085e7bffd521f68769ec3bf2999986b55bec3"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/export-metadata.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 5316,
+      "sha256": "5d1e1b70ed987a3821dfee5b0716e0fbab4e7c68ac7edf4318c5acd5a299d9dd"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/export-preprocessor_config.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 468,
+      "sha256": "5df7e578c37e907a431daf47fd592fc49fa50d23ed4c41285a0a34a58a9d2e06"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/export-tokenizer_config.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 726,
+      "sha256": "f97b07bf147d9e4dbdb5f98941d35fc0b9412263a183483f73893adf756ede3e"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/frozen-policies.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 713,
+      "sha256": "fed00c6059739bd27cde40479db1e7777dcd5bc953b49cdd9df5cdc235c2c924"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/lint.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 49,
+      "sha256": "b8e2d075b81168dbaf31114f2af5d151e001ded899a6cf3e8765fe1235aee100"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/onnx-install.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1010,
+      "sha256": "8faf85d4ecad124355a1715a00db7bbc5e01687159bd539a6a60ca1f2bb4776a"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/places-build.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 876,
+      "sha256": "8bf08f6a25dec104b1abaebbc6288d7b075874c059bab60257bc793a54fb4dfb"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/places-contact.png",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1847453,
+      "sha256": "ae90a696c10137df2e954069053c408e280b2bf66ff0ea6bbea70549dc36c158"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/places-conversion.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 9701,
+      "sha256": "205c72abcb05f7c590ee8b069103500842d2dd2c410f41caf9aad82ef0bd8552"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/places-conversion.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 686,
+      "sha256": "08bcb394aaa7f3c295b238a819491fdccf43a63790b05b5e6246cefdf433b0f7"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/places-corpus.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1620,
+      "sha256": "cb2110f364fff2f21e1eb2a6d134a62e88f3b7c5dfd32c241dfbc3c11138b08b"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/places-decision.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 29916,
+      "sha256": "bdd9bd81909a64f6ef68ead64ac5978e6c7ae904a5d9c130279b1c327fa54b4e"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/places-frozen-policies.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 28643,
+      "sha256": "37cec5282754b459c0d1c20ac51cb7a906db1106a8a2ff02848a7c92a8c5a26a"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/places-quality-test.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1505,
+      "sha256": "0835c74c1be78071f531c5bcccbdf06cdaefc7c91824f9c48d7b5b897a6c0acf"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/places-quality.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1858954,
+      "sha256": "05c33544d7656172f7c059caecd3e384e274a7403252b75ac53e3e2aafc5470c"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/places-runtime-test.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 661,
+      "sha256": "87f7e2ee7fafbc121232af1af28df82600cdab2e8e1008a2e84a2d5b4700f36b"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/places-runtime.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 34710,
+      "sha256": "2694a1cc2aa88b60b13a294460d257b0cc27cd29e8c4c0351b442c1235663dac"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/places-screen.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 25079,
+      "sha256": "9ca79d92ddc2e07b4f04f5a69fe402e7f56e983572f58ba6e98600f3a9e9f2b5"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/production-build.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 788,
+      "sha256": "22fa290127ffc034f1b6e12541547e74e050388840e9e3c96c6a01b9a1c89c0a"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/quality-test.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1438,
+      "sha256": "dd23ddf69a5e9b353e6848eb42ffe0f7aa1e15f8fb5d8d51fe50fe54c994694f"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/release-browser-launch-failure.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/release-browser.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 6374,
+      "sha256": "d9f43ded7d0de5d3e0d7875e2abaf1d4e46f1f73ad3799a17414d519ff0c93e0"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/release-isolation.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 449,
+      "sha256": "41f102806d0db6ef8fbc3ba1cee096b94230b5c077ddad8adb052a0181d23605"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/research-build.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 876,
+      "sha256": "0a68197630cd7d1fd329ae310b4f5e50dab7948c4fd178cb9e06839c4b1776a7"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/source-README.md",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 5961,
+      "sha256": "f0358aa986c559a7d80a147b65c1c40892f14ba02920fa2a01903a2347b36f7f"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/source-config.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 4602,
+      "sha256": "c586d856dbd5589b67525db9e791ee0917402405672c7773aead373efb7d7bca"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/source-metadata.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 2840,
+      "sha256": "81f0f0a2da38de9a0ba91fa9e14c3d5b080e5e3d730a83957e1d260d67fa0f17"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/source-preprocessor_config.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 316,
+      "sha256": "910e70b3956ac9879ebc90b22fb3bc8a75b6a0677814500101a4c072bd7857bd"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/tiny-assets.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 914,
+      "sha256": "d1d28d4acc9660308e586d7092c4b0ad3c31747d42d6e452f402ffd837f6d470"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/tiny-config-failure.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1830,
+      "sha256": "8780d27efed3e0f0e798a1f093162456973e51c1b00dae96907ed55c5bc7039d"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/tiny-decision.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1992,
+      "sha256": "10068b7486b1cb65e5b6cb297d447205647ef0756606dd17263b57d60d92d52f"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/tiny-quality.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 52714,
+      "sha256": "6d10fd77a003295a183535d8b4f4a65b129f3851673f713e044d1e3eb6c5b1b8"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/tiny-runtime.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 3093,
+      "sha256": "ad9762742f27cd38672d3f11a47bcd63577418358c21d2eed893fd65b45e4d6d"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/tiny-test-initial.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 2373,
+      "sha256": "7cfbcca1f14000970fdc222fee599936ec5379a2f5738c44f7bbadcbbf715990"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/tiny-test.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 635,
+      "sha256": "c17fbef2394fb71f7fb818c5ba639eb2367487afd91d8f6313a3b327792c13a1"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/typecheck.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 58,
+      "sha256": "6177f822214731b16bdaad56197544c9cf9caf438d2029c6d88a285d234bc458"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/unit-tests.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 8088,
+      "sha256": "1ddc0f8d0f749bdc560b614fb14fcf6b6e31f7209c5b62abff30b4481e2c1dc8"
+    },
+    {
+      "path": "docs/phase-03/evidence/final/verification-summary.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 39516,
+      "sha256": "ef0d5d10dbeeb006e852de4b21dee376955fd86240101e9fba75e56cfd787ee8"
+    },
+    {
+      "path": "docs/phase-03/evidence/hosting-inspection.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1340,
+      "sha256": "7630a4e22e5902fc40e2b00d7c2ccfeb6038b2935cf9f1acca1d2dd425eaff5a"
+    },
+    {
+      "path": "docs/phase-03/evidence/lifecycle.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 241,
+      "sha256": "7c8e6ac1effb7559ac565e875d72e5564d52a7978e5cfe649fc98206f9601664"
+    },
+    {
+      "path": "docs/phase-03/evidence/lint.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 49,
+      "sha256": "b8e2d075b81168dbaf31114f2af5d151e001ded899a6cf3e8765fe1235aee100"
+    },
+    {
+      "path": "docs/phase-03/evidence/production-build.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 788,
+      "sha256": "c405800b442225a1d39a89d98d702b5125763aec9ff502a686e5a32966fbfa16"
+    },
+    {
+      "path": "docs/phase-03/evidence/quality-summary.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 4524,
+      "sha256": "4500cbc51d4f79c620191342e059166bf2933c4e166f73c41da3469206e2bc86"
+    },
+    {
+      "path": "docs/phase-03/evidence/quality.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 86598,
+      "sha256": "2d66906cd7ccbb599bd709b5ae53281e9b50d14146ddcf4e68fcae7f5fe23cc5"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/browser-50.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 64090,
+      "sha256": "21d940306d6896a0adf5f665073718105a91d6c7eaacd99a40802f9e772b8f7c"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/browser-50.stderr.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/build.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 789,
+      "sha256": "b109071209b3215e80c65a6ec22b7942de9f55f3db4234ddd672cfa2ad311ccc"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/companion-browser-initial.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 10117,
+      "sha256": "5372511140b45e3b39cac04f7ffae13557e98c76bdf855c5e26d118d062f824a"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/companion-browser.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 8606,
+      "sha256": "28a889d8f615de378740f86c86ca209817f171d19733d68a2b01153bdc73c09b"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/companion-browser.stderr.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/contact.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 75177,
+      "sha256": "4c3ecd8b0cd286b509039002ad6cdfee9b8b9e81f060a1332e05fc554fd205db"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/https-loopback.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 2723,
+      "sha256": "d8c56dbb6dde6b76c58abe5c3a37c93f8f7892534bb8da3f146ac346c62264ff"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/lint.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 49,
+      "sha256": "b8e2d075b81168dbaf31114f2af5d151e001ded899a6cf3e8765fe1235aee100"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/ownership.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 351,
+      "sha256": "566425faff62737b76e5f822386fa51df5d5f7063e71b651bf95842105a0f916"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/package-verification.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 871,
+      "sha256": "3e4e690239cf2b77c2ed91669b4bd20f149e7270b5e3a7c2ca16c3cb37b69a72"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/quality-review.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 3736,
+      "sha256": "56af0cc3ab42338523bd0d2599db55d3ad58257be5025e657beb95fe298524f8"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/quality.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 20373,
+      "sha256": "471831b9628339fb3bc3fd52d13441d72ffbf2bcb3517c051aaa41ac2d895220"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/reference-runtime.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 3403,
+      "sha256": "36b9aab7dcf27556148133b58a9e9d2b6bbe950d5a729fa9102d14e1ccd69328"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/reference-smoke.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 4890,
+      "sha256": "ab7fa018d9f389eb51697863e03637f355e27ddde73f10a1652c9bd73a8d0fe4"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/release-verification.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 492,
+      "sha256": "79cde8afc826514596cde060652037347c698ec67c2366a89e2e5f7f8ea0025a"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/resolution/browser-50.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 64037,
+      "sha256": "0f5543ed3654060ce3451e21fa8d41d97005f3946006c6f7795b2cd2e62d1e5f"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/resolution/browser-50.stderr.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/resolution/build.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 790,
+      "sha256": "d2a91c0348c3b9adcb6864fb8838b44354473e1c4f2ce34392eb51b747b5c9e0"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/resolution/companion-browser.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 9918,
+      "sha256": "23b98811794d40effc80da320c0be2501200e8178a26b49c1598f6cf50c7c41d"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/resolution/companion-browser.stderr.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/resolution/comparisons.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 40507,
+      "sha256": "ec624e8e717ebad8b5672340f451984b749fd989cbd0ea2bcf17fcbd99761829"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/resolution/corpus-integrity.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 434,
+      "sha256": "582a2480b1584218cfd39a1ca171b72a015ab0dd375d325197a0a7ada7ab5ef2"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/resolution/diagnostic-review.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 20394,
+      "sha256": "d59e9fb986aafbdd7e7b49eeeeb410e18ddd771185e8fa41431bcadfa5f6be4c"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/resolution/difference-matrix.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 30013,
+      "sha256": "ef9dfa69080920797cbb37521f8d4027403075ee80398f326035888429f447a0"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/resolution/gui-qualification.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 8547,
+      "sha256": "e24a6aeaab3b2fd9ba45d42b142d81e0fd560ece940b32bd97c4611514cb8a44"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/resolution/heldout-contact.png",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 2526919,
+      "sha256": "1072d6be63041dffaddbb97e81ebfd6b78adf8a94f5e6dd5e3ddf795b7b96e1c"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/resolution/heldout-plan.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 3729,
+      "sha256": "8eafb3af6dca5da5a69c0c048e9a135b158e2def5d38129900db672ef52d6b67"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/resolution/https-loopback.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 3598,
+      "sha256": "960482408ddd12fd838d653639564bfd268475367c663b294441e82c7b01eb28"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/resolution/human-review-status.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 281,
+      "sha256": "9487347dc5ffb3b6a55c7eb4fc701687485e5ce5cc7cc4c86e07004fed4c487b"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/resolution/lint.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 49,
+      "sha256": "b8e2d075b81168dbaf31114f2af5d151e001ded899a6cf3e8765fe1235aee100"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/resolution/ownership.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 365,
+      "sha256": "a1379df11bcdcee251d1649eb893bd93a9ea3ff7fc8f1e3605fa29f1ace6c821"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/resolution/pre-inference-review.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 4009,
+      "sha256": "fe79b3e152b7823fc4510c9b35894d785358d476e5039c8ded079c240d55614d"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/resolution/preferences-tests.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 695,
+      "sha256": "2cdeffc793ae5eb561d197c3bdd3e19bb4ca3bddd3f765551cc24bf3df9a70d9"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/resolution/previous-contract.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 2202,
+      "sha256": "fff3b013b3231a5844b7d503d9ca44107da08f55e397d7ccfda5ed7e07517462"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/resolution/qualification.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 51770,
+      "sha256": "bc0f7ce739306f7358d06112435ddbcdeaaf1b8e2b8ad1a861d9e5bbf78d9363"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/resolution/reference-quality-provenance.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1328,
+      "sha256": "dbb84a24389313e6251c66cab25642f2ff9585edaf5fedf63a91b3a54d1a6bd3"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/resolution/reference-test-summary.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1674,
+      "sha256": "363438b1ad4d05fc39d7c5bd38d5c0cb4db78184c9f17ee07d8d225d1ed8b05c"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/resolution/reference-tests.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 2054,
+      "sha256": "d539efa8082122923a299f7538be7b77733c09a9cab4834b0f8101eeed64097e"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/resolution/reference-vendor.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 12868,
+      "sha256": "26712d0330cc8080894a30c9eae7f96d1ed9814d434f4a1625595734ed8d73ee"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/resolution/security-tests-first-run.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 4166,
+      "sha256": "5990d3d93eab7f97c6116435fe9d1a5c1ec2c273fa93f4db1e70fa06678079f0"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/resolution/security-tests-second-run.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 4122,
+      "sha256": "1a4a68334b8dcce15f958b8f8c1b79753c1b2309988b4c9b9db5b7343a08d9a7"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/resolution/security-tests-third-run.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 4160,
+      "sha256": "dec997509fea9b5ec52dd048623a514c6355a63387a8d9f68578eb6662ac2369"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/resolution/security-tests.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 2494,
+      "sha256": "e11a3b45c0463cafd7fd8fc17f42ca218d622b6830b6b404ba146500a1df4755"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/resolution/typecheck.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 58,
+      "sha256": "6177f822214731b16bdaad56197544c9cf9caf438d2029c6d88a285d234bc458"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/resolution/unit-tests.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 8267,
+      "sha256": "0fe3e57f93a4bcd239c44931800e1c17b56b703fd3423bf5b920e5f89ee8275e"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/security-tests.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 2494,
+      "sha256": "04f846df493538b5c9391c83275e64f5e4958fbfa2aea315d5de5dcf05b11db0"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/typecheck.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 58,
+      "sha256": "6177f822214731b16bdaad56197544c9cf9caf438d2029c6d88a285d234bc458"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/unit-tests.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 8278,
+      "sha256": "c6e88f705eb1450556b6535949224ebfd4a3aef4f1265329a5e35f56217fb5f6"
+    },
+    {
+      "path": "docs/phase-03/evidence/qwen/verification-summary.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 3306,
+      "sha256": "994271ec46f4f10607958b724b64cdb02ca7a9cfe1f942e8638681127e995641"
+    },
+    {
+      "path": "docs/phase-03/evidence/release-browser-final.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 64064,
+      "sha256": "656cba0bfeede435f234c4d1fe4f112ac529454b0e6a387e44af986d555abaa7"
+    },
+    {
+      "path": "docs/phase-03/evidence/release-browser-first.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 74679,
+      "sha256": "063d74e38ce54a2f83c2de1f23afc0cd86812eb9eaa7d9d08c2819005119d811"
+    },
+    {
+      "path": "docs/phase-03/evidence/release-browser-initial.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 76760,
+      "sha256": "3aa0d21bdb4e846dfc66ead318fecaf5dbb336ed94c265453e9ff1d91f437581"
+    },
+    {
+      "path": "docs/phase-03/evidence/release-browser-recheck.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 6684,
+      "sha256": "0d60bccd8922c9cbcc2db4e84549caa49ff8a8e32a09498a12d6434e15a36929"
+    },
+    {
+      "path": "docs/phase-03/evidence/release-isolation.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 449,
+      "sha256": "41f102806d0db6ef8fbc3ba1cee096b94230b5c077ddad8adb052a0181d23605"
+    },
+    {
+      "path": "docs/phase-03/evidence/reproduction-test.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 4502,
+      "sha256": "f45b000f1fb4f4da2e26c2ca5d51318f2e38fa54936d2eb5bc3b497c42b60984"
+    },
+    {
+      "path": "docs/phase-03/evidence/reproduction.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 13622,
+      "sha256": "ba8fd0d2815f0796c803f078e7ec18c37577187e385738c0f58235f325cd134e"
+    },
+    {
+      "path": "docs/phase-03/evidence/research-build.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 876,
+      "sha256": "fb6e0c4754d16909f7b0b7e9d026a5ed658a48475a9cd4febbf50cc3275a54d5"
+    },
+    {
+      "path": "docs/phase-03/evidence/research-final-narrow.png",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 253363,
+      "sha256": "daf13657d56c6efc75121043d76efbed0e48cdb96423c9738a0a0c0ab01ead49"
+    },
+    {
+      "path": "docs/phase-03/evidence/research-narrow.png",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 249627,
+      "sha256": "45994b2dddc4e50996c5e0a9355233ad29f4b4ab30d772cb27e37ffd0b1dbffa"
+    },
+    {
+      "path": "docs/phase-03/evidence/second-attempt/candidate-audit.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 8422,
+      "sha256": "9ab0231528eca8eb5bdda15db7b27fa675f2f95fc0304c363ea5f9160fe6742b"
+    },
+    {
+      "path": "docs/phase-03/evidence/second-attempt/candidate-audit.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 2441,
+      "sha256": "fa74c22ffba1af02225c569cc9a75b1efee9349604ae097ae360f27600f007b2"
+    },
+    {
+      "path": "docs/phase-03/evidence/second-attempt/config.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 344,
+      "sha256": "8e33c1f2634a33de3e38715f9809ef86742aacbe31c310c66fc2636755458d56"
+    },
+    {
+      "path": "docs/phase-03/evidence/second-attempt/converter-LICENSE.txt",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 2671,
+      "sha256": "18e4e6b95d7272051fabdad125ba0467549c181ef20b7fa0eafbac3825471483"
+    },
+    {
+      "path": "docs/phase-03/evidence/second-attempt/converter-card.md",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 2091,
+      "sha256": "d8f7858dbd6044cb04fecf670cc7f8fd36b098e2c61ec3ae909cf53005fca8eb"
+    },
+    {
+      "path": "docs/phase-03/evidence/second-attempt/lint.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 49,
+      "sha256": "b8e2d075b81168dbaf31114f2af5d151e001ded899a6cf3e8765fe1235aee100"
+    },
+    {
+      "path": "docs/phase-03/evidence/second-attempt/mobileclip-converter-api.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 5443,
+      "sha256": "76a7518c02d8b71f4fc8a8f5dbf00623f88495e448b9a4b364b90c7a1154b40f"
+    },
+    {
+      "path": "docs/phase-03/evidence/second-attempt/mobileclip-source-api.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1328,
+      "sha256": "16270b73276f0cb7955a3f8c3e7c8b55355548d25cdbc25f149d1516d7fb8106"
+    },
+    {
+      "path": "docs/phase-03/evidence/second-attempt/processor.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 382,
+      "sha256": "b031f09fbd69e22a605b6cc7433993249ee893b7fc1b79321f669cd015493dd4"
+    },
+    {
+      "path": "docs/phase-03/evidence/second-attempt/production-build.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 789,
+      "sha256": "95b65ee491dbe0efd123e82689b6d12864d36b65f3ce392d47a735dffd75b7d5"
+    },
+    {
+      "path": "docs/phase-03/evidence/second-attempt/release-browser.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 6374,
+      "sha256": "a5a4b4e844bd2181a9b33828e53029fbb1f305a56271e981efc2c91357ced741"
+    },
+    {
+      "path": "docs/phase-03/evidence/second-attempt/release-isolation.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 449,
+      "sha256": "41f102806d0db6ef8fbc3ba1cee096b94230b5c077ddad8adb052a0181d23605"
+    },
+    {
+      "path": "docs/phase-03/evidence/second-attempt/source-LICENSE.txt",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 5820,
+      "sha256": "d8f5d9dfbdb60dc81b8f1720421699e7811070f0b46f6668f90253d5ac8c0b20"
+    },
+    {
+      "path": "docs/phase-03/evidence/second-attempt/source-card.md",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 4168,
+      "sha256": "ad49da3e4e2b8ff8d48c1747f8f7384e0bc8fe94a6889e4747c23f24d789e940"
+    },
+    {
+      "path": "docs/phase-03/evidence/second-attempt/typecheck.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 58,
+      "sha256": "6177f822214731b16bdaad56197544c9cf9caf438d2029c6d88a285d234bc458"
+    },
+    {
+      "path": "docs/phase-03/evidence/second-attempt/unit-tests.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 7790,
+      "sha256": "ca7cb7c32913cbbd3b07c7ccfb8e859900244c137b75db43fd1e0f6530c0a2b7"
+    },
+    {
+      "path": "docs/phase-03/evidence/second-attempt/verification-summary.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 2611,
+      "sha256": "2bd1d19e6790721e7ecb86622b89ac584a44d191069646522fe98528d0970065"
+    },
+    {
+      "path": "docs/phase-03/evidence/typecheck.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 58,
+      "sha256": "6177f822214731b16bdaad56197544c9cf9caf438d2029c6d88a285d234bc458"
+    },
+    {
+      "path": "docs/phase-03/evidence/unit-tests.log",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 7792,
+      "sha256": "1dc81d7443ec34d59fb94bb8e64f4617eff1ca785ea97f35cdc1d89d23c93622"
+    },
+    {
+      "path": "docs/phase-03/evidence/verification-summary.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 2565,
+      "sha256": "df3a9ca0108ab14852096c34e4052547905c455408350fde595bf1c3164f1cfc"
+    },
+    {
+      "path": "docs/phase-2-analysis.md",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 18149,
+      "sha256": "79f2c7634b7d9394cac87e3d66a14e2fc1d3d8ed90576feb41acd3ee814242e8"
+    },
+    {
+      "path": "docs/phase-3-workspace.md",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 9992,
+      "sha256": "0ce7e366522b082b9c9315625ff510254332a55db2d70ecd4074fa9cdac68f3b"
+    },
+    {
+      "path": "docs/phase-4-1-ai-evaluation.md",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 20147,
+      "sha256": "8433daf8321a4a7f8dec35cea16694903450675c152f60076bf066cc061fc97a"
+    },
+    {
+      "path": "docs/phase-4-2-scene-discovery.md",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 18395,
+      "sha256": "742e1e43879578e7452ffdfab7898f71b51348ef3d56def418f8714f82762d88"
+    },
+    {
+      "path": "docs/phase-4-3-production-readiness.md",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 26679,
+      "sha256": "da34300c9ea79d77e368c18f17227721307e8e064e6371d7ebb5b9f93e568f0b"
+    },
+    {
+      "path": "docs/phase-4-4-release-cleanup.md",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 11292,
+      "sha256": "a84eedfc8c2341bd496914185fdd84b3e06f42c0b7ce99154ed210cd710c1a65"
+    },
+    {
+      "path": "docs/phase-4-ai-vision.md",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 13063,
+      "sha256": "eb29201570626ebc0c845be84f92b2f5ebe3d1933f79f53feed281ff4f42a7cb"
+    },
+    {
+      "path": "docs/v1.1.md",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 6453,
+      "sha256": "d3a2c37f04d4899596bbfff03900c4f01cfde7d0186a3358c37b23d64ed225ba"
+    },
+    {
+      "path": "eslint.config.mjs",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 464,
+      "sha256": "b06108796f7d4afff59a79b590196f3a69c438d59a37f72f1a031a1f3c1899ab"
+    },
+    {
+      "path": "next-env.d.ts",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 288,
+      "sha256": "1862ac4bbbc5192d4bf562161df66ea547ed3e67173100656ab606ae9797db2b"
+    },
+    {
+      "path": "next.config.ts",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 340,
+      "sha256": "f8d8fcc3e0fed9e80c2bf8ca9db3b5d317bd613b2eaf8021d1408431c1219842"
+    },
+    {
+      "path": "package-lock.json",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 263739,
+      "sha256": "753aafac95ab1777c5e30a9316537f75100000c5c213132262b8b56589ee4c57"
+    },
+    {
+      "path": "package.json",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 1442,
+      "sha256": "6b987e80be04adc7a32fdf6a0a23346903920ff48846d17ced3c27c8fb76e59a"
+    },
+    {
+      "path": "playwright.companion.config.ts",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 475,
+      "sha256": "fd6c9dabbe95fe1c78a234b430e3a5a3ab3d94e0d00ac3f21c98f5e5874041a8"
+    },
+    {
+      "path": "playwright.config.ts",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 536,
+      "sha256": "824e3364dd9859e4a50f042e88f6359930cde271e5973d825f1aa75cfd2e9f3b"
+    },
+    {
+      "path": "playwright.research.config.ts",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 560,
+      "sha256": "e99e2981fbd73e1bf82f07f40375ca7aeefb9c48bf9973d7654f1f13359be356"
+    },
+    {
+      "path": "postcss.config.mjs",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 83,
+      "sha256": "b783348d5618047d0f37e12acd15c5a2c5f02809d8711e0764c9cea52750346c"
+    },
+    {
+      "path": "public/brand/Logo_White.png",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 289900,
+      "sha256": "0da14de86007098c5fc82615a0d8e03272ebfe49e2b10de634a36a8a4f5bd2ec"
+    },
+    {
+      "path": "public/brand/app_icon.png",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 1035757,
+      "sha256": "1f763be0e2df4c69b3f7cced1ce5e9c0bc7ab58a1ff0d0bb773efc769736e7eb"
+    },
+    {
+      "path": "public/brand/logo_#077F64.png",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 353070,
+      "sha256": "0184f10489afaf20bd606c6217f5d952b3333d34d30004314d287e5d2c9420b2"
+    },
+    {
+      "path": "public/brand/logo_#3590DF.png",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 364498,
+      "sha256": "0c296a11c99703283b0ad331ececa1f21f58b4e04a0531b2a7e9b6c3ba746863"
+    },
+    {
+      "path": "public/brand/logo_#F3A339.png",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 371704,
+      "sha256": "681108279a3850ebadbe698dd2661ed0708c9a5f013430b0de49bb5f8580bc99"
+    },
+    {
+      "path": "public/brand/logo_black.png",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 174795,
+      "sha256": "3c8425328d95f2b158de08c411f8fb6ceb19d50843ed1d4847f59ca6613a3da2"
+    },
+    {
+      "path": "research/assets/ai/LICENSE-Apache-2.0.txt",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "path": "research/assets/ai/NOTICE.txt",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1006,
+      "sha256": "6e0db1c047bac11358996a497e4b3bc69196c5dec42c2934a530a9d05799ff54"
+    },
+    {
+      "path": "research/assets/ai/manifest.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1028,
+      "sha256": "d538fbe3a12b10a15fc43d8708c308ea5fed883c8f6ef0d00ad33d290c05329c"
+    },
+    {
+      "path": "research/assets/ai/mobilenetv4/config.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 69895,
+      "sha256": "ae99506e66f8e19bc73809e5b4c3ae31fc7c2bca53752dc7cb89c1e47831a335"
+    },
+    {
+      "path": "research/assets/ai/mobilenetv4/preprocessor_config.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 441,
+      "sha256": "21bb2bccbd790ded22ca9ac77758578bae4d90d8fc578a612097bd38e9d40b2f"
+    },
+    {
+      "path": "research/assets/ai/runtime/LICENSE.txt",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1073,
+      "sha256": "2f07c72751aed99790b8a4869cf2311df85a860b22ded05fa22803587a48922c"
+    },
+    {
+      "path": "research/assets/experiments/ai/LICENSE-Apache-2.0.txt",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "path": "research/assets/experiments/ai/LICENSE-CLIP-MIT.txt",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1064,
+      "sha256": "987e63b32f6c89ff5160e429458a872ff048e6860b590a3912e938f9da8f14db"
+    },
+    {
+      "path": "research/assets/experiments/ai/NOTICE.txt",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1077,
+      "sha256": "c931621f2b4404569ee3ba7c90a3a100d7bca3e1dc95d75b568d46224da7a14b"
+    },
+    {
+      "path": "research/assets/experiments/ai/clip/config.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 4524,
+      "sha256": "493ef57ff783e42d1530c91b53469b7fdf8db8a9c1408e86998fcb7899a4f495"
+    },
+    {
+      "path": "research/assets/experiments/ai/clip/preprocessor_config.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 520,
+      "sha256": "6f638fb9401a6d6296feff533ee7efe657b787c49f954f82f5906b36ef2a1b1f"
+    },
+    {
+      "path": "research/assets/experiments/ai/clip/special_tokens_map.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 472,
+      "sha256": "c4864a9376a8401918425bed71fc14fc0e81f9b59ec45c1cf96cccb2df508eac"
+    },
+    {
+      "path": "research/assets/experiments/ai/clip/tokenizer_config.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 775,
+      "sha256": "60ba2912bc6344c94bc16bbdec27fa1209409167b6f2fdf3cfe9e65462ea3967"
+    },
+    {
+      "path": "research/assets/experiments/ai/manifest.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1995,
+      "sha256": "be6c30c6346e1965202cfea3cd618496a796bacbae3fdf7e2374c9660e3d5797"
+    },
+    {
+      "path": "research/assets/experiments/ai/places/NOTICE.txt",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 438,
+      "sha256": "c90235fe21bf6a04dcdbf6d6197ac7a77bb1206a3a79d5874580b539ebd580fd"
+    },
+    {
+      "path": "research/assets/experiments/ai/places/labels.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 5120,
+      "sha256": "9d07442def5a698cf6b585591c436cf0cf817f6d4e1b336444d2e87837dcc187"
+    },
+    {
+      "path": "research/assets/experiments/ai/places/reference.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 7110,
+      "sha256": "f6978709a3896bfbffd7ce6bd967dcb5d8999b1a32d4f7271e51278d44de1fe3"
+    },
+    {
+      "path": "research/assets/experiments/ai/tiny/LICENSE.txt",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1769,
+      "sha256": "583acc0d9c74def18ec24e56964421bf1fac1fa2d60451e75e6681d5ae58a3f6"
+    },
+    {
+      "path": "research/assets/experiments/ai/tiny/config.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 850,
+      "sha256": "0ca46b868f12305e959a1cfa2b8085e7bffd521f68769ec3bf2999986b55bec3"
+    },
+    {
+      "path": "research/assets/experiments/ai/tiny/preprocessor_config.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 468,
+      "sha256": "5df7e578c37e907a431daf47fd592fc49fa50d23ed4c41285a0a34a58a9d2e06"
+    },
+    {
+      "path": "research/assets/experiments/ai/tiny/tokenizer_config.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 726,
+      "sha256": "f97b07bf147d9e4dbdb5f98941d35fc0b9412263a183483f73893adf756ede3e"
+    },
+    {
+      "path": "research/assets/experiments/ai/yolos/config.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 4145,
+      "sha256": "ce8640ba6bd97a7b36ccf2d0dba9a6ac233211e2dc0c5dc4c63d922e80338c08"
+    },
+    {
+      "path": "research/assets/experiments/ai/yolos/preprocessor_config.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 457,
+      "sha256": "b010730968cdbccf8767b61b0a8e903396d831fd97f3c44cc9f0c0437deb7b7f"
+    },
+    {
+      "path": "scripts/audit-cloud-secrets.mjs",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 3423,
+      "sha256": "a358c9f710f88b0b660839f3ff30ce7b63ae43eca1d4378149480c1eaa980227"
+    },
+    {
+      "path": "scripts/audit-phase03-assets.mjs",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 2853,
+      "sha256": "2baacaa966899b7ade6cde4c6634866b0b769944560cc52cfe12ecc5a0aa1eda"
+    },
+    {
+      "path": "scripts/audit-phase03-focused.mjs",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 5845,
+      "sha256": "872f3c67a6d24c5cd6ee348d47f2859d0e4e2c108692783fce56070467b83661"
+    },
+    {
+      "path": "scripts/benchmark-phase02.mts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 2825,
+      "sha256": "11ff6e8f9cca513f0571adc725176124ad4f2a97cdf313c9bccd6b9b54f803cd"
+    },
+    {
+      "path": "scripts/check-cloud-eligibility.mjs",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 2781,
+      "sha256": "7abe0ba7603e5f33a7f89bb8813096d594bd13af8da28c0344acf1be5a1e0e3f"
+    },
+    {
+      "path": "scripts/cloud-admin-key.mjs",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 416,
+      "sha256": "c064b9b2f99b94ea6ec2d6834866e49c0db72ac0bdb50c6d197e34a1e1105211"
+    },
+    {
+      "path": "scripts/cloud-admitted-smoke.ts",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 9135,
+      "sha256": "b1f689abe195fa8f0c8734609310a3cc19aa4187d7c0c243b3e9ac7e4f98a126"
+    },
+    {
+      "path": "scripts/cloud-d1-verification.ts",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 9403,
+      "sha256": "5fdd0d1d8fb5c026ee60807aa98438cb1a152e77cf6a114c01cad7a5e9b0b3cb"
+    },
+    {
+      "path": "scripts/cloud-d1.ts",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 3804,
+      "sha256": "28c0a2921acf6b948d2fcfb95c1dafc7487b61720f78292d37a8e152533865b9"
+    },
+    {
+      "path": "scripts/cloud-invite.mjs",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 880,
+      "sha256": "4629ed563b0db61107bd92f1ea56ecad0b48616c36c0b952dc62ee86173b7789"
+    },
+    {
+      "path": "scripts/cloud-vision-smoke.ts",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 3922,
+      "sha256": "5df66ebf447267df81714adf5f86f73356c30a19e349a0825b4b1685cf964df1"
+    },
+    {
+      "path": "scripts/compare-qwen-reference.py",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 6645,
+      "sha256": "00d23d47a35b9e2d70dddcd251566426592c86f8bd06b8519e6475315f0a214b"
+    },
+    {
+      "path": "scripts/convert-phase03-places.py",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1220,
+      "sha256": "ff2eedfd7ee1ed788baf7f53ef58d22daa2f6d246059d0d589be25730bdb16f2"
+    },
+    {
+      "path": "scripts/create-qwen-review.py",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 8048,
+      "sha256": "12d8d669e6927be2219a923be060e6e50433d929b6a9840e47477d68aa9a58b0"
+    },
+    {
+      "path": "scripts/document-qwen.mjs",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 20913,
+      "sha256": "d555f28b2f52a6ad888302dc4d10573d4959ae1279475650f7200d539bdafbf9"
+    },
+    {
+      "path": "scripts/download-phase03-tiny.mjs",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1183,
+      "sha256": "de0834a8e281a1e84c132a739b9eb7d4499a30d6d9c42270862f69ecd8cfe036"
+    },
+    {
+      "path": "scripts/evaluate-phase03.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 6893,
+      "sha256": "ad7e2ac5c66c36d7ba493d3bd865f69a2606a6eb0490d9fdd052ee0f92d3392c"
+    },
+    {
+      "path": "scripts/freeze-phase03-final.mjs",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 2774,
+      "sha256": "f03631ed41e826f7eca09d6630e86fc698eff83e3710f57cf6f4ff65a2f4324f"
+    },
+    {
+      "path": "scripts/freeze-qwen-evaluation.py",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 3764,
+      "sha256": "ae2683a9e7d008d952f06695a44e0e1adb79b6b6adf72f9b9ef7330f5de84b0f"
+    },
+    {
+      "path": "scripts/package-companion.py",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 3263,
+      "sha256": "d9db3483931895f7428c977efe19afc8aad543244e976ca33508b38ea503f4e3"
+    },
+    {
+      "path": "scripts/phase03-contact.mjs",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 970,
+      "sha256": "6981df0c5e8d7ccc05b2c54d2005950be1515de90514bd800682231b7117961a"
+    },
+    {
+      "path": "scripts/phase03-final-contact.mjs",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 983,
+      "sha256": "fb107802a15628f7c86758e76df4047370a6ad511d1e041de35ef650ef94151d"
+    },
+    {
+      "path": "scripts/phase03-places-contact.mjs",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 984,
+      "sha256": "39987b9d71d8fd55a5669eee8859c32c82e05f96544dcc95a9595876e9cf45b1"
+    },
+    {
+      "path": "scripts/prepare-commit-scope.mjs",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 4975,
+      "sha256": "483f5a7debfa9899e40c4226ac9778115207957c0044a07ce6d9ed68c44adc3b"
+    },
+    {
+      "path": "scripts/prepare-phase01-fixtures.mts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 3557,
+      "sha256": "a19039803932f0214b7726560c877bb98ac21c5e81bcde0b8b88811d3b288205"
+    },
+    {
+      "path": "scripts/prepare-phase03-annotations.mjs",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 4838,
+      "sha256": "0316a00e55a78657b5586acbbaf711d8200a7fbd85cad1a0840e87e3a1db306c"
+    },
+    {
+      "path": "scripts/prepare-phase03-corpus.mjs",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 3788,
+      "sha256": "a5107549aad07dd8cd58566508aa0b179a9bb1a7337758892e80a12d88c26cfb"
+    },
+    {
+      "path": "scripts/prepare-phase03-final-corpus.mjs",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 4201,
+      "sha256": "34a6649368862b3c85664890d825aa2c584ca34b3411447195de71c48ee08da6"
+    },
+    {
+      "path": "scripts/prepare-phase03-final.mjs",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1462,
+      "sha256": "4d296cb1ac2bb6b35f3ab162e4e7fd6267d8f08e1eda307e7296a7001b4524de"
+    },
+    {
+      "path": "scripts/prepare-phase03-places-corpus.mjs",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 4021,
+      "sha256": "e57ba2b48f6ed03139a0066a103295c978d74a568e06bcff7f1bde067d94b372"
+    },
+    {
+      "path": "scripts/prepare-qwen-corpus.mjs",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 2921,
+      "sha256": "9c8ae5a333e7afbcc8d7b8101ffc839f3d83bc578f7e8140fa62c0f5cd4e757b"
+    },
+    {
+      "path": "scripts/prepare-qwen-resolution-corpus.mjs",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 10903,
+      "sha256": "5c28de3ff003ad5c92796c6b9ce1d4de76b313111f51a8c4d45375d253229f82"
+    },
+    {
+      "path": "scripts/prepare-readiness-benchmark.mjs",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 7355,
+      "sha256": "4cd5bd81087a90cc4f3fe69d3cf82ce8590735a4888cec8ed0c4dd3d245d806b"
+    },
+    {
+      "path": "scripts/prepare-vision-evaluation.mjs",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1609,
+      "sha256": "0b7d32ab5efeed56bdde9db4a018a00957179940c04888e862900f5120031a88"
+    },
+    {
+      "path": "scripts/qwen-reference-smoke.py",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 3747,
+      "sha256": "5ef4b0f8ae16d063f2a191a8db0743d79f614df401199685cff29afac2a9e5f4"
+    },
+    {
+      "path": "scripts/record-phase01-evidence.mjs",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 3399,
+      "sha256": "b6cdf6fddc03018ec9ce8f4c478fdca56c3360aa6ec1343b53b85be2b7e38d2c"
+    },
+    {
+      "path": "scripts/record-phase02-evidence.mjs",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 4427,
+      "sha256": "949b35803573d2570408a7528d94536c1e927ac39f3faa5f0d8a30e2309c6d0a"
+    },
+    {
+      "path": "scripts/record-phase03-evidence.mjs",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 3230,
+      "sha256": "f9e1c4cb84880c5f98186bb0d996bc79b0dcac420ff1fb7b64dcffb55b85191d"
+    },
+    {
+      "path": "scripts/record-qwen-evidence.mjs",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 5183,
+      "sha256": "ca87b81ef0d6560f31435fd1d8566add4e9b6d743b9c6be17bb00fe505826acd"
+    },
+    {
+      "path": "scripts/restore-qwen-reference.py",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 5065,
+      "sha256": "6cb9652a683373182b3b237fa9cdc5476dfebefa288095f191751c28800b8ae8"
+    },
+    {
+      "path": "scripts/run-next.mjs",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 931,
+      "sha256": "f9f5c5667f6d47a5ee99c1c025b6cee7fcc7f3ed7082ab75f01db17993930f90"
+    },
+    {
+      "path": "scripts/screen-phase03-places.mjs",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1384,
+      "sha256": "36b5a726e6d2eabb5d833a7494e36df32e0285d2c7927dededc854c5bc7f322f"
+    },
+    {
+      "path": "scripts/setup-companion-vendor.py",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 2077,
+      "sha256": "ef3f046e7084b1cc0dd13be826cf8de8bd41cc6e8b550f15e11907fb35559860"
+    },
+    {
+      "path": "scripts/summarize-readiness-benchmark.mjs",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 2178,
+      "sha256": "9618037fdc0053002bc66ddaa7ab01aa6eb064bf9ae78620125962b2ac31b055"
+    },
+    {
+      "path": "scripts/test-unit.mjs",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 1002,
+      "sha256": "327761eb8b6526c13f9a84cd8fc23461a3e131c03f09e3725a3830fdacef6868"
+    },
+    {
+      "path": "scripts/verify-companion-ownership.py",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1798,
+      "sha256": "870b6298b2be6abfe09b21cf69ece35939418e7269fccb0f139cb4f5277555de"
+    },
+    {
+      "path": "scripts/verify-companion-package.py",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 2381,
+      "sha256": "f5bdba5683bcf94cbb33b74abac872791a0d45394be7bd85f93e48f9d1517793"
+    },
+    {
+      "path": "scripts/verify-qwen-https.mjs",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 7999,
+      "sha256": "9d0b8ce2f5118d7a47bde1634daa440981db9664c0161a4692819e4db0ac720a"
+    },
+    {
+      "path": "scripts/verify-qwen-quality.py",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 4314,
+      "sha256": "6ee507f2acba70b20d794e144b299183ba1197dd0c31351678b6243f4ea7a71e"
+    },
+    {
+      "path": "scripts/verify-qwen-resolution.py",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 4670,
+      "sha256": "9a457ef62e771c45d307b05ec1d6966c580e81536cd0d0518146f0a2d87d15a2"
+    },
+    {
+      "path": "scripts/verify-release.mjs",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 3707,
+      "sha256": "7c697c27905a7b14064074fef9cd3bf9212b1d129f55a26a2129ec4494229959"
+    },
+    {
+      "path": "src/ai/client.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 2273,
+      "sha256": "49f8f247b7ae17e6bb49e5534b00d9afcb207ab745e79450ed18f65b0f76dca9"
+    },
+    {
+      "path": "src/ai/engine.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 2375,
+      "sha256": "95b82be90d224d2129268af7059f539179b8f55cf0c24664572852260c6f7ff9"
+    },
+    {
+      "path": "src/ai/result-contract.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 861,
+      "sha256": "426dfe6f1d709e53835ff84c6a999b4294b2d2e5dffc83c45a8ba047143724f2"
+    },
+    {
+      "path": "src/ai/types.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 844,
+      "sha256": "8e0479a636d21329cc8d8132f2c8017da8f9f4bb7fa5167799e516012b2e4b3c"
+    },
+    {
+      "path": "src/ai/vision.worker.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 6105,
+      "sha256": "eced832ea53fe87413eb749d974b105ac65744177c6c0484b8735f8a8c2e3127"
+    },
+    {
+      "path": "src/analysis/analysis.worker.ts",
+      "category": "KEEP — Production Source",
+      "bytes": 3345,
+      "sha256": "3c92d6cdecc02c3835c157258532d3e51af02fe0360023e85b40461ca9c35da4"
+    },
+    {
+      "path": "src/analysis/discovery-types.ts",
+      "category": "KEEP — Production Source",
+      "bytes": 490,
+      "sha256": "a98a2765bd983e7ccf9889dba8c9e0e401b74ee4221270e4490b9e9c01c1e672"
+    },
+    {
+      "path": "src/analysis/dna.ts",
+      "category": "KEEP — Production Source",
+      "bytes": 904,
+      "sha256": "d0b2692daab4afa4c345ac7e88bd20ecc826e6cc0dfec1a3ddc347845c5d3701"
+    },
+    {
+      "path": "src/analysis/files.ts",
+      "category": "KEEP — Production Source",
+      "bytes": 5257,
+      "sha256": "505ba6f75cf79fd30e1a512f9289122484eb1be387c0103a555cbb1bf23d5878"
+    },
+    {
+      "path": "src/analysis/insight-types.ts",
+      "category": "KEEP — Production Source",
+      "bytes": 2368,
+      "sha256": "1375ce6f5f7d006a7211ca85a1a8d7a857f5f01ce13bd1be7bc4e5d503dd8bce"
+    },
+    {
+      "path": "src/analysis/insights.ts",
+      "category": "KEEP — Production Source",
+      "bytes": 12381,
+      "sha256": "f2f4c3cda945bd7238039bfbeb7018e820144fbedd51e7ee265a25a4e58f9c61"
+    },
+    {
+      "path": "src/analysis/maps.ts",
+      "category": "KEEP — Production Source",
+      "bytes": 3388,
+      "sha256": "ababe766b946655d2ce62132671b18919e4e0b88e475616461b0e6db2b3ecaac"
+    },
+    {
+      "path": "src/analysis/metadata.ts",
+      "category": "KEEP — Production Source",
+      "bytes": 3317,
+      "sha256": "ba1e91c0d1b800ce1f242ed1ce2fb6050e0b8e22f6d3fb8ae63e763823a13132"
+    },
+    {
+      "path": "src/analysis/pixels.ts",
+      "category": "KEEP — Production Source",
+      "bytes": 4985,
+      "sha256": "6b712c61df02964bbf5def907db95f208c500163f576be6dba1dd64bf93a3949"
+    },
+    {
+      "path": "src/analysis/sampling.ts",
+      "category": "KEEP — Production Source",
+      "bytes": 3885,
+      "sha256": "167ab6ae6a6305e094d411b3334af79fa63a665486394f356d59c89987734475"
+    },
+    {
+      "path": "src/analysis/types.ts",
+      "category": "KEEP — Production Source",
+      "bytes": 979,
+      "sha256": "7aac040e5f310e43590d6038da4c5644ef802df07551be42686deacb45442603"
+    },
+    {
+      "path": "src/app/admin/ai/page.tsx",
+      "category": "KEEP — Production Source",
+      "bytes": 579,
+      "sha256": "50e817bce10aa68df6e08f803e9f6c0297731496ed500dec30f96fce74533e8d"
+    },
+    {
+      "path": "src/app/ai/[...path]/route.research.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 219,
+      "sha256": "cb874de7137137a45ebbd6ec1e15a0f3268b19069a8ec1ffe56f4e418606b1a3"
+    },
+    {
+      "path": "src/app/api/admin/ai/route.ts",
+      "category": "KEEP — Production Source",
+      "bytes": 299,
+      "sha256": "79a26b7c588249df1256be3ae2fa39e14b5c1665606660bf2c8702e2a33a0e97"
+    },
+    {
+      "path": "src/app/api/admin/ai/session/route.ts",
+      "category": "KEEP — Production Source",
+      "bytes": 221,
+      "sha256": "1992e482f889d4caff0bbd54b8c89e6d78bcf2daa0fd0553618a59e633ff840d"
+    },
+    {
+      "path": "src/app/api/cloud-vision/route.ts",
+      "category": "KEEP — Production Source",
+      "bytes": 1244,
+      "sha256": "b5c106b82d5b11ce46b81c63bf81ede283e241aa6fc79a043604a2d6da133501"
+    },
+    {
+      "path": "src/app/experiments/ai/[...path]/route.research.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 231,
+      "sha256": "5b00dfa9084f1d205ecd3d4419429880991c5f7ac98229c46b125c214e51edc1"
+    },
+    {
+      "path": "src/app/experiments/vision/page.research.tsx",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 145,
+      "sha256": "00b4c8d6b15785649dbc01a0eb4f0f32aa23f4d03c87356b683ef80d76db4df2"
+    },
+    {
+      "path": "src/app/globals.css",
+      "category": "KEEP — Production Source",
+      "bytes": 51510,
+      "sha256": "f14f56cdf8a534ab63e1c1913499c42fd632e6d9fe261924970a109cf9142db2"
+    },
+    {
+      "path": "src/app/layout.tsx",
+      "category": "KEEP — Production Source",
+      "bytes": 486,
+      "sha256": "8e67249b0de9351ec6514d643a08f978416b3d277d5e883c1116749a1c59edb3"
+    },
+    {
+      "path": "src/app/page.tsx",
+      "category": "KEEP — Production Source",
+      "bytes": 109,
+      "sha256": "5c6b4e5668aebcd1871cc0b2cf6cb5e002d9a932fff9ad751b4e9e36afe1b12b"
+    },
+    {
+      "path": "src/cloud-vision/client.ts",
+      "category": "KEEP — Production Source",
+      "bytes": 1439,
+      "sha256": "16654d8eff4f2a998094df4520499d418de4cef0b425daef3b63a80c7f19e07b"
+    },
+    {
+      "path": "src/cloud-vision/contract.ts",
+      "category": "KEEP — Production Source",
+      "bytes": 3327,
+      "sha256": "c326790ee923815cbe914f26432d84a6b8cfc6f0464a938d3dd1933c954d6c86"
+    },
+    {
+      "path": "src/cloud-vision/server/access.ts",
+      "category": "KEEP — Production Source",
+      "bytes": 1566,
+      "sha256": "b723eb99658edb27d8fc7d1fc59061f9b30a3454e81b05752432375a093b5bf8"
+    },
+    {
+      "path": "src/cloud-vision/server/admin.ts",
+      "category": "KEEP — Production Source",
+      "bytes": 18652,
+      "sha256": "b254f9c3b9904fa2d93aee820d7839c6381c8c6ef20f672de74f077b44c49c4a"
+    },
+    {
+      "path": "src/cloud-vision/server/config.ts",
+      "category": "KEEP — Production Source",
+      "bytes": 2480,
+      "sha256": "fe9edcb3fd981027317a04ce224b2aa4bf6e51c1f1c01ed75661c33de76d00ec"
+    },
+    {
+      "path": "src/cloud-vision/server/database.ts",
+      "category": "KEEP — Production Source",
+      "bytes": 1249,
+      "sha256": "04de304a7617147386ec428e201b8c5ca29faf106aeeb935429df719f1dcf461"
+    },
+    {
+      "path": "src/cloud-vision/server/handler.ts",
+      "category": "KEEP — Production Source",
+      "bytes": 6963,
+      "sha256": "3bc6f86f30638290e52000b3ba4ef2545ecf025391129cc1f7acf889a90aa258"
+    },
+    {
+      "path": "src/cloud-vision/server/http.ts",
+      "category": "KEEP — Production Source",
+      "bytes": 4664,
+      "sha256": "48a64ff58589cb8387018d8d3416fd3f5d1a8b5daef48f224a612922a44be3c9"
+    },
+    {
+      "path": "src/cloud-vision/server/image.ts",
+      "category": "KEEP — Production Source",
+      "bytes": 3019,
+      "sha256": "adb5df99f40a798fa209ffbb60a9a43ac3c6f1e303c9493fe768715c6677bc08"
+    },
+    {
+      "path": "src/cloud-vision/server/ledger.ts",
+      "category": "KEEP — Production Source",
+      "bytes": 11231,
+      "sha256": "4dfe01e6f7a2b3688155f0fc0bbf989fb2f3f89499462387ef3ed9f031ca4c6e"
+    },
+    {
+      "path": "src/cloud-vision/server/policy.ts",
+      "category": "KEEP — Production Source",
+      "bytes": 5383,
+      "sha256": "028df75cbd97061701d5259a1a9b0ecd339981d68ba41f2440746e77d38ef671"
+    },
+    {
+      "path": "src/cloud-vision/server/prompt.ts",
+      "category": "KEEP — Production Source",
+      "bytes": 1113,
+      "sha256": "4d7130bb3953cef40d82e635ca4a1704775a261dba33bcbb6f2cd97243801431"
+    },
+    {
+      "path": "src/cloud-vision/server/providers/cloudflare.ts",
+      "category": "KEEP — Production Source",
+      "bytes": 2205,
+      "sha256": "bc16f2d4bde4945e83905f106ef6af1bfb43d661dda76e118f093a9bec8b86d2"
+    },
+    {
+      "path": "src/cloud-vision/server/providers/gemini.ts",
+      "category": "KEEP — Production Source",
+      "bytes": 3409,
+      "sha256": "71c50341fc80640b2497380c1f5540d221c5ee9d3259335045712de0b5c828e0"
+    },
+    {
+      "path": "src/cloud-vision/server/providers/nvidia.ts",
+      "category": "KEEP — Production Source",
+      "bytes": 2051,
+      "sha256": "9d9be1b1ef63dd755d96a61c520a1d1752582016e171460b55147502b159192d"
+    },
+    {
+      "path": "src/cloud-vision/server/router.ts",
+      "category": "KEEP — Production Source",
+      "bytes": 4445,
+      "sha256": "0bfd8ab2dca1a53c09cd74ff761ef62ce042aab720461fe9ecdf978ee2fc0b79"
+    },
+    {
+      "path": "src/cloud-vision/server/schema.ts",
+      "category": "KEEP — Production Source",
+      "bytes": 6620,
+      "sha256": "2f116d066684ccbd0e998d09d08859a5f25a26c899b5deb40bca5e7741dad8c6"
+    },
+    {
+      "path": "src/cloud-vision/server/types.ts",
+      "category": "KEEP — Production Source",
+      "bytes": 1331,
+      "sha256": "1d477d1f556d69003e4a6fa0ca211266a9846ee4fd1eedcd65473836859ec9de"
+    },
+    {
+      "path": "src/companion/client.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 3556,
+      "sha256": "04bb4bfe6b00e916832261d5df14ecfdc8dd1dfbb77df6cf3eff4c1db49af5f6"
+    },
+    {
+      "path": "src/companion/contract.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 2039,
+      "sha256": "c17e6a392198a4c0e25bb43ceb5e480dcc55a7b94cd51bedaebe95fc173667c3"
+    },
+    {
+      "path": "src/companion/historical.css",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1039,
+      "sha256": "b613394c460006dc17260ed2662a09d901f454cc6fad4d62401726d3be985a91"
+    },
+    {
+      "path": "src/components/admin-ai.tsx",
+      "category": "KEEP — Production Source",
+      "bytes": 17888,
+      "sha256": "3a16021691f83d6467931d46784355e3c94ec9205c98c835267a14bcdee7380a"
+    },
+    {
+      "path": "src/components/ai-vision.tsx",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 8641,
+      "sha256": "9fa7ab9966ac64690956a6ea98ed22b41e3ab4d7772607c9b6d145d220b63ccc"
+    },
+    {
+      "path": "src/components/analysis-loading.tsx",
+      "category": "KEEP — Production Source",
+      "bytes": 2685,
+      "sha256": "0e03c51a40c421b387d06426542f91b083b7acc0f2eb0a3f166479c85cdfc6f3"
+    },
+    {
+      "path": "src/components/cloud-observations.tsx",
+      "category": "KEEP — Production Source",
+      "bytes": 7459,
+      "sha256": "6d5616b84f5fdc24bfb5670ff1307ad80b2bba29effbd3e8b033285f92de1311"
+    },
+    {
+      "path": "src/components/companion-observations.tsx",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 9361,
+      "sha256": "c28ea614ecd01315060767cbc666dc130359cf617d6d0d2369ac3c2738e95a21"
+    },
+    {
+      "path": "src/components/evidence-insight.tsx",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 3943,
+      "sha256": "65fd7dbe973a516f3c78bd633bac28987c0a9df9d6610d380dea5fa575e427ac"
+    },
+    {
+      "path": "src/components/image-lab.tsx",
+      "category": "KEEP — Production Source",
+      "bytes": 24564,
+      "sha256": "a94c318f7220572768c3899f9cb40a553996c3c947a798736b6e451fa22bf864"
+    },
+    {
+      "path": "src/components/loading-illustration.tsx",
+      "category": "KEEP — Production Source",
+      "bytes": 7691,
+      "sha256": "e7a169af50c2b3a2d9db5696c0923786779c7baa970165f95544dd973b607078"
+    },
+    {
+      "path": "src/components/loading-stages.tsx",
+      "category": "KEEP — Production Source",
+      "bytes": 1262,
+      "sha256": "59d59a367041f940111f6fc230e613b79fde0ca3c2e93742cafce077de507a53"
+    },
+    {
+      "path": "src/components/loading-status.tsx",
+      "category": "KEEP — Production Source",
+      "bytes": 923,
+      "sha256": "09d7e64b5987057c336097c3436a195240ed3f69f446cbc394722f3df93e2547"
+    },
+    {
+      "path": "src/components/metadata-results.tsx",
+      "category": "KEEP — Production Source",
+      "bytes": 3043,
+      "sha256": "586f055c2a4ee60b69f35d3d4663be30926e7d8a8e12b215dcb05c2ca6e73bc2"
+    },
+    {
+      "path": "src/components/results.tsx",
+      "category": "KEEP — Production Source",
+      "bytes": 11423,
+      "sha256": "4c71b0f2ee1602fd42cf9df63f28d3d76e9e7252dab7b52146d99f0ede75c1cd"
+    },
+    {
+      "path": "src/components/spatial-preview.tsx",
+      "category": "KEEP — Production Source",
+      "bytes": 3619,
+      "sha256": "03c65c9af3be7a3d75423fb48f4f63c050b9db67839fca842576e3c0cc03011f"
+    },
+    {
+      "path": "src/experiments/assets.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1699,
+      "sha256": "703b2ca1dd33b632f99aa839cd14b192c048e2fc197bf898c1c7268437920d3d"
+    },
+    {
+      "path": "src/experiments/vision/evaluation.worker.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 10739,
+      "sha256": "360d3df43a4bc705a464192e29c8c7741fd40f1cbdd7d8f28563888d239af332"
+    },
+    {
+      "path": "src/experiments/vision/geometry.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1290,
+      "sha256": "2dd75dca3c8d46897609f458bba334123fa8a977c252d2779d15d12bcf2a29a1"
+    },
+    {
+      "path": "src/experiments/vision/places.worker.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 3798,
+      "sha256": "faf976cc3b616b64397b55e5b48bb89273b146625dc67772495418dfff6f1993"
+    },
+    {
+      "path": "src/experiments/vision/quality.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 3262,
+      "sha256": "cd84a7189dac0d6fbe0b48a43302970e767d2621d8e5a27398f5f2904318da8c"
+    },
+    {
+      "path": "src/experiments/vision/scene-results.tsx",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 2823,
+      "sha256": "2da55fae1947336dcc95c83341ed5e036a541a935f35676c970b27a6f1a5539e"
+    },
+    {
+      "path": "src/experiments/vision/tiny.worker.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 4317,
+      "sha256": "011e88d838cafffb9b218aab7e09fdeb1615a1b15e1beb6f45d301b7319d3152"
+    },
+    {
+      "path": "src/experiments/vision/types.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1329,
+      "sha256": "04f5e0587c438a4e4d761f033d217dd9fb51b5b612c96967a0c64416cc69cc55"
+    },
+    {
+      "path": "src/experiments/vision/workspace.module.css",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1882,
+      "sha256": "379ffed4cf31d03b65cdc9eeb5152b0c1b048bfab274556abe2c24d982a673ee"
+    },
+    {
+      "path": "src/experiments/vision/workspace.tsx",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 12923,
+      "sha256": "a7ecbcb440b727027701d5d9d0490758ab86e0d840d920823acbf9d8b8f0136f"
+    },
+    {
+      "path": "src/lib/format.ts",
+      "category": "KEEP — Production Source",
+      "bytes": 653,
+      "sha256": "a076161bc3a499ff9112d871f71ed2f15c5d92791941b1722b12c1ab5a46458e"
+    },
+    {
+      "path": "src/loading/presentation.ts",
+      "category": "KEEP — Production Source",
+      "bytes": 4048,
+      "sha256": "907d40c5319f865dee54b6e7c74a670497cf86fc4bf2a6ab6ed079b031e017a1"
+    },
+    {
+      "path": "src/scene/audited-candidates.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 737,
+      "sha256": "4bfe65988b38b0ed8c47e386354972f683a7d08f9da65c58cc2f9ded2bb06351"
+    },
+    {
+      "path": "src/scene/candidates.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 3061,
+      "sha256": "165e0568a49205e33f1518998f0eb37920cc0ab8d00569a0a80a122673db9574"
+    },
+    {
+      "path": "src/scene/clip-engine.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 3875,
+      "sha256": "ce4ee094f59068e3307526a21d17f968dd5609652cacc8cfa759bdb9f1ea058e"
+    },
+    {
+      "path": "src/scene/coverage.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1271,
+      "sha256": "ca45b040aa59bc44e2969cf23603ed09ffb83b40dbd3df159b85245a87ba822f"
+    },
+    {
+      "path": "src/scene/ranking.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 2646,
+      "sha256": "ee6ea786a3f1133d00168542674c8db7c0c19c2d1e27d508ad596e04327980ad"
+    },
+    {
+      "path": "tests/accuracy.test.ts",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 8326,
+      "sha256": "d1449125a03d2647fea4beb8cb230a52863ccaa31ee6f93ed23f3ca1b423e7f5"
+    },
+    {
+      "path": "tests/browser/accuracy.spec.ts",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 7535,
+      "sha256": "b8720cbd37f94ee2e5646b4b0f5182ec2b134079b948ccb17a021a203bb28208"
+    },
+    {
+      "path": "tests/browser/admin-ai.spec.ts",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 6044,
+      "sha256": "71238716c3812c3b1f2532446a00a29cdab4d2f3809a2641b9f25e4d6aeee340"
+    },
+    {
+      "path": "tests/browser/cloud-vision.spec.ts",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 8835,
+      "sha256": "882b0dd3624ff647db303b4dd1af8e972d46353d80741e5f046479ff7a3d9e49"
+    },
+    {
+      "path": "tests/browser/discoveries.spec.ts",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 9586,
+      "sha256": "97d69f832291120b39600741e01518a35170e757a8073c393dd1d13b61ee051a"
+    },
+    {
+      "path": "tests/browser/lab.spec.ts",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 7100,
+      "sha256": "cf7f401163b689deb99acbb4ed40b7ba544a8d528ed1d3f999110dfb0946dd4a"
+    },
+    {
+      "path": "tests/browser/loading-visuals.spec.ts",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 4190,
+      "sha256": "1168eeabb84bf1cd60bfa0177919ceb557796a1392e75645ec36cffe9a799a4f"
+    },
+    {
+      "path": "tests/browser/loading.spec.ts",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 5220,
+      "sha256": "28e83a48c6d45cef652679058c8250667d9f9c1f3eb2403b318842974a1980fe"
+    },
+    {
+      "path": "tests/browser/phase01.spec.ts",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 11068,
+      "sha256": "d6c2ede2396209ad7782ad3ca4867af21493344426b485cdf33d1ec5cb5c870a"
+    },
+    {
+      "path": "tests/browser/phase02.spec.ts",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 12968,
+      "sha256": "e298417d5c46f382f1221598aaf23256b96103a51f4e73b376a5865af3982753"
+    },
+    {
+      "path": "tests/browser/release.spec.ts",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 3294,
+      "sha256": "f637d3370b73c19d1a7897ce0963112846024444628a3fba43eabb02aee08d28"
+    },
+    {
+      "path": "tests/browser/theme.spec.ts",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 5382,
+      "sha256": "a6dc071b98eb50a82c1dcf2830ace246c3616f1caa255c6c1383de3153abbd3c"
+    },
+    {
+      "path": "tests/central-ai.test.ts",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 26631,
+      "sha256": "30843ab95b045353037892a71f8e1e94b256b2e5a3e2a2e0808c5d8207795795"
+    },
+    {
+      "path": "tests/cloud-vision.test.ts",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 26846,
+      "sha256": "360fef601ea8516048ab7eec5b46952d47228645b98f799ec429302c005f3882"
+    },
+    {
+      "path": "tests/companion-browser/companion.spec.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 7610,
+      "sha256": "17d104c8f2164c7bd9bad13fcf63fd925001b85d2c1c9eb5b129a5034c5b5a40"
+    },
+    {
+      "path": "tests/companion-browser/reference-pixels.spec.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 5659,
+      "sha256": "10ac515c4f2a00008e5d25f5954da2deb76bc2ad074628943ca40c78abae3f03"
+    },
+    {
+      "path": "tests/companion-harness.py",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 1841,
+      "sha256": "98fb4167ff0733c6d6e443732feffba0b48cbfc2f498be9480edf90e7f459272"
+    },
+    {
+      "path": "tests/companion.test.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 2490,
+      "sha256": "cafc6b0f07cdda20d3223a716f499f08fca5a4fdc78414b267c2a3c2c912fda1"
+    },
+    {
+      "path": "tests/discoveries.test.ts",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 4305,
+      "sha256": "805fe888e071f4ea6b8a3ccdac646f7add549b5ae19ea82df3d13d6342445fb3"
+    },
+    {
+      "path": "tests/evaluation.test.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1586,
+      "sha256": "f2f4ccf9c4693a14a0356732e709d14abe763f3ab99ca3653046202ce20ebfcb"
+    },
+    {
+      "path": "tests/final-ai.test.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 2084,
+      "sha256": "ece253e4fddb68c266ea60c2c9254cc8267a49d6c0a29b5606ca6b3c4ad21ff3"
+    },
+    {
+      "path": "tests/fixtures/README.md",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1811,
+      "sha256": "18ba1eecb230ec0b808bd8ace78b59672aba29fefd717e04286d0dcc6b7d06af"
+    },
+    {
+      "path": "tests/fixtures/discovery/README.md",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1717,
+      "sha256": "c3c8cedaa28d3fd9d4be91d8624372bbb22a3ae22c7d7cdfd66d5e17b34aec19"
+    },
+    {
+      "path": "tests/fixtures/discovery/benchmark.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1291,
+      "sha256": "fef7915d1ee9db100d17d4d2cbe49df45c1072173b3d7e88847b4ac3afac64d3"
+    },
+    {
+      "path": "tests/fixtures/discovery/indoor.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 4316628,
+      "sha256": "73370acdcc90f7502bab5e4d0e03483f120aca6fa5a399590ced102869b188c8"
+    },
+    {
+      "path": "tests/fixtures/discovery/indoor.jpg.source.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 2417,
+      "sha256": "8fe6c0eccb40f06e69bc5b063fea81ed81e8244b5aa35d1819cb3539f1ed4ed5"
+    },
+    {
+      "path": "tests/fixtures/discovery/landscape.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 124558,
+      "sha256": "f082d6cd41e8ae43b8525b91d1f82c775c33fb1b7062ada6a93ac62713d4d2cb"
+    },
+    {
+      "path": "tests/fixtures/discovery/landscape.jpg.source.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 2363,
+      "sha256": "29fe9d1cbd17e924f94c5660d0bb9bba8c5bd9bc812d63196d8846d9947f6e9c"
+    },
+    {
+      "path": "tests/fixtures/discovery/reflection.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 7230957,
+      "sha256": "813fd1fd234eead3e25646523d56dffbdc598e164de5c8e73907382ba82e410f"
+    },
+    {
+      "path": "tests/fixtures/discovery/reflection.jpg.source.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 3041,
+      "sha256": "cd82557b3693b14dc51048514deaefeda095cd958b07e27e2801d8386ca2ed6c"
+    },
+    {
+      "path": "tests/fixtures/evaluation/README.md",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1393,
+      "sha256": "f6076236b9a2829045db8bdd97bae6290593d3aeea6ed9328b6c1388d4c7d51b"
+    },
+    {
+      "path": "tests/fixtures/evaluation/outdoor-cooking.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1559122,
+      "sha256": "d1438a3f47393ac5ce910927d2b064c77126e3ee08340391864f9139e45f355d"
+    },
+    {
+      "path": "tests/fixtures/exif.ts",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 3990,
+      "sha256": "5728af6f24f65a1cdfd12adec2e65de95d31044b0191bc6124c72ae4e890afbd"
+    },
+    {
+      "path": "tests/fixtures/phase01/README.md",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 2868,
+      "sha256": "1cba84d6e5c32c4522436cf28e4fe466844e81dceacc13bb9a2037bb58528c02"
+    },
+    {
+      "path": "tests/fixtures/phase01/bright.png",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 140,
+      "sha256": "b425f02fa5d777a96d57c9b797a34c478411d5b3435e750548bd8beb991aa11c"
+    },
+    {
+      "path": "tests/fixtures/phase01/dark.png",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 147,
+      "sha256": "643c1171ab9a0464349742840f7e24093e572e9a36d5b651c9e02c19fcf85519"
+    },
+    {
+      "path": "tests/fixtures/phase01/empty.png",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "tests/fixtures/phase01/gray.png",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 231,
+      "sha256": "fd9a5344520ee7f5d60793114b2f6bc309b3c7462a707b288f308ea08f17dec7"
+    },
+    {
+      "path": "tests/fixtures/phase01/large.png",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 237777,
+      "sha256": "22f11688c2c8480bd503f8d2addad3ce678413ffea75cb1af08cb3e07881c6fd"
+    },
+    {
+      "path": "tests/fixtures/phase01/low-contrast.png",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 149,
+      "sha256": "fa2cd54ea668a226fed8d58bc148b3075b9f56f0a132e291f894cde60fca3511"
+    },
+    {
+      "path": "tests/fixtures/phase01/malformed.png",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 8,
+      "sha256": "4c4b6a3be1314ab86138bef4314dde022e600960d8689a2c8f8631802d20dab6"
+    },
+    {
+      "path": "tests/fixtures/phase01/orientation-1.jpg",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 1394,
+      "sha256": "de415bc4572d9600d7910d564088711bad3bad3339899162f201a6a3b955ac23"
+    },
+    {
+      "path": "tests/fixtures/phase01/orientation-2.jpg",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 1394,
+      "sha256": "770509479458c568dc76057daa82e2bfacc249fc4e8870e7a0c011159d0ad20f"
+    },
+    {
+      "path": "tests/fixtures/phase01/orientation-3.jpg",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 1394,
+      "sha256": "73aba376acd56c1d2e14225d956132df895b889758f05101b342ae5f3297116c"
+    },
+    {
+      "path": "tests/fixtures/phase01/orientation-4.jpg",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 1394,
+      "sha256": "2c5e3a35bfe7b26cbb6aaaf17d600835e609ca62e5949490fa1998726cff2797"
+    },
+    {
+      "path": "tests/fixtures/phase01/orientation-5.jpg",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 1394,
+      "sha256": "3c04b5cd8a0f14ded8000f9a1d4dd65cfe1bc8f6322236d0b03aaf62120ecf86"
+    },
+    {
+      "path": "tests/fixtures/phase01/orientation-6.jpg",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 1394,
+      "sha256": "110b349709b12ee7d70b53966e40b2c91865cbf5c733b3eafd4862e8f0da8ed0"
+    },
+    {
+      "path": "tests/fixtures/phase01/orientation-7.jpg",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 1394,
+      "sha256": "70a85fe809f8a2408efbbc432b8495d9f76273bcd364d219a74c45bf179d9535"
+    },
+    {
+      "path": "tests/fixtures/phase01/orientation-8.jpg",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 1394,
+      "sha256": "f1df2271a62ba84e2b7aa933075eb8a378650eff70ac41751e96dcd2f65a9038"
+    },
+    {
+      "path": "tests/fixtures/phase01/over-limit.png",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 143,
+      "sha256": "a1c48b6851bfe0694687dc7bd41d73a7afceceb2ed4ab53e2dd257cf20e48f4a"
+    },
+    {
+      "path": "tests/fixtures/phase01/photo.jpg.png",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 143,
+      "sha256": "c3938651cf98cd684ed6a431f5e17bb0a1511264b88cd899347bb84023882d99"
+    },
+    {
+      "path": "tests/fixtures/phase01/quadrants.jpg",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 1038,
+      "sha256": "2851c45e6c3ab6685661a03fb5d6a57e669017486e4e4903b82ff8fa0a88f24d"
+    },
+    {
+      "path": "tests/fixtures/phase01/red.png",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 143,
+      "sha256": "c3938651cf98cd684ed6a431f5e17bb0a1511264b88cd899347bb84023882d99"
+    },
+    {
+      "path": "tests/fixtures/phase01/red.webp",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 518,
+      "sha256": "783710c017852420db8143a4c202bda008c57942ee57822c2661e70ddbe418d8"
+    },
+    {
+      "path": "tests/fixtures/phase01/spoof.png",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 14,
+      "sha256": "9375fa2bcc085e973b96d8cd5c9059a5a8ca884e82ab5d0d3697c486acffc7bd"
+    },
+    {
+      "path": "tests/fixtures/phase01/tiny.png",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 88,
+      "sha256": "adc5413403ee067dd71eee67f9be6a78be834b05372737f7307fad4caea0cb01"
+    },
+    {
+      "path": "tests/fixtures/phase01/transparent.png",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 139,
+      "sha256": "6df7f2d9ae52b3bb5d66e7dd97ed271b75e0dc2bbe269d5f6dfffb8342aa0c6e"
+    },
+    {
+      "path": "tests/fixtures/phase01/unsupported.svg",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 62,
+      "sha256": "ffc9f5e4fdeea83920c171e2bd17577127c5d1a2c3c76f07440e10d387132280"
+    },
+    {
+      "path": "tests/fixtures/phase01/صورة.photo.png",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 143,
+      "sha256": "c3938651cf98cd684ed6a431f5e17bb0a1511264b88cd899347bb84023882d99"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/README.md",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1357,
+      "sha256": "8db820f13ac2d73acf191383000787f9993dffcee50680eef0e3824323f63e0f"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/benchmark.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 37029,
+      "sha256": "fef865b942e357ce4e88f198fe390c90419c8398b50533fdd916291ce1fcb511"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/natural-00.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 201384,
+      "sha256": "bd3dce34b85aa16854e20f89eaa193bd3da6d514a216e2725b73c3b073114355"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/natural-01.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 200114,
+      "sha256": "0bb6f89e74495444136046f9f32329cd3a3b79179a609858c477d9599d259924"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/natural-02.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 58445,
+      "sha256": "f5b5f0c6e451aa2a048da5d8124cd4249f608616287d7edf722d6eff0f7de9d4"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/natural-03.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 59383,
+      "sha256": "61360404f03ed8e4a66d69740b99060d4570ffd1a4e73880a767b2ec03c6aa26"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/natural-04.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 292410,
+      "sha256": "22692f2a55146d3a82c656811df44bd69336ab5fed8b1d3f2ae5d88734255670"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/natural-05.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 203912,
+      "sha256": "4c72bb230f0e14fa2bdd398acde42bc68f7b8dc91e22e8752984bd7b9af6f9d8"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/natural-06.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 232717,
+      "sha256": "03e03f3f76ba6d8320e6f93586ce739ee9e95f6d9f45fe6ef674b9a05300a4ab"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/natural-07.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 932813,
+      "sha256": "6282a73169cbd9b61dd08180898778f87a12d8c594a1e6a118fe02f35059eeb7"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/natural-08.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 82570,
+      "sha256": "ac0ec3edba2b31575b44343cf7fe1409e2499a37c51f90275b5fc5f3d7ef410d"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/natural-09.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 189152,
+      "sha256": "8b12b8efd61b3315318bfa158568b73d61e41f874240710100641e21d492343f"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/natural-10.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 187890,
+      "sha256": "6bd8c8dfc744d5d65b877231239340947985a259580f8817baefe37d37b2856d"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/natural-11.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 231878,
+      "sha256": "63d2c6d54eea15ecc514f214e729b59daeb231b03548fc161d66f73741bc6abf"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/natural-12.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 341508,
+      "sha256": "6b1ccb5d98fad0189368ac7613cb7c84247b74b955e37b6c346367a812defd7c"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/natural-13.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 324041,
+      "sha256": "0b26966cfd3250c9a5d4b9054dfb14d926261393ad91e3a9936c67c1d16e6bfa"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/natural-14.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 259696,
+      "sha256": "bfc834dbb7a7dc8e34a1d26fa441d63b8584ad1a22672f509128b814e8c7e237"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/natural-15.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 159843,
+      "sha256": "e4003adafccefaeb7455b3ff078e972f32ded86cb456202801a198a6b618970c"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/natural-16.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 112833,
+      "sha256": "4cf7ff9005889df7586080857b882d2105059836cf7f04033929b926e682e305"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/natural-17.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 239574,
+      "sha256": "2884f16f672faee646968ce18c2e9f59bfed1d7eeea0aae745c5dc634910fd53"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/natural-18.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 410646,
+      "sha256": "d50c31bb95b3096916d3c0f3413b5379123b6e751f3fc46d463813633900451f"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/natural-19.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 284135,
+      "sha256": "9c3421c8cd15d291bc911016d34d3ed0be47d0b4c3e2fc2aff235d728c6dfce2"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/natural-20.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 444735,
+      "sha256": "b5e6cf41e7087706c2213c44cbd419a6b440d41d34e79c5826b099534def81eb"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/natural-21.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 607142,
+      "sha256": "449eb324121e85dd2b2da5fd0ab1789a1900fb91eb9ff9a956eb36c23f294ca3"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/natural-22.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 130174,
+      "sha256": "58fe24c634007f08c5c5a1bbdf728c016b314cd7dec114c0ef7762377fa748fa"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/natural-23.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 653535,
+      "sha256": "d4cf9e53e28b2032f7c3992f18e0e0062b29ff708a0c5310a7cde15d78e4e728"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/query-0.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 64228,
+      "sha256": "d9c1e19cff2a0dee2b25970b16b4482ed645d8029bdec2adb8e09f6558e4d18e"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/query-1.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 55220,
+      "sha256": "8f6f1c233f65894b82b869930c82a24850b4b176f55ecdef1c7dbfd921a2e7ba"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/query-10.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 72524,
+      "sha256": "74ba991f2d883fcfefa68a9e590379929951a730eeb64a4aa752448b8a8fbbea"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/query-11.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 147854,
+      "sha256": "4e2b2ec7f5fb5a23b7bc58fef147796dfa0b62f6b1d1a03c488af245f3f951c2"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/query-12.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 60838,
+      "sha256": "f00f17c3875d2f34bbb69b64ff7d68558d0bf48477e23f08865cc41e7a81e52e"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/query-13.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 65838,
+      "sha256": "b07c4cd892a36c2547ff48d81e2a6edfde6f443d516f5c5b8fc0c27ec29a6df3"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/query-14.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 53831,
+      "sha256": "c8cd4317ea72d8ac47a0cbdb5e32891cc18b84d967808189f3953310760171c5"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/query-15.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 68869,
+      "sha256": "803f386e7bd10ad70a611f76de8b8115622bbb4081b6ab12de85f2351894f63b"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/query-16.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 32483,
+      "sha256": "9003521ea4b7b45036f9561aa82487ddceb3c6ff8559a7f26f700b1972716c4a"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/query-17.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 68480,
+      "sha256": "89406fc37c089db1e14244eadff2a6322e31a300c2dc71e5f9515bfde4ea5fee"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/query-18.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 23584,
+      "sha256": "7d6c694266a1c4a6da56626a23fd05df896c620b9eb95a02377cef38329b8cfe"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/query-19.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 65193,
+      "sha256": "c4f09341e6808858a6089a397337dd42892ca9e125ddca06e38606904ca1196f"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/query-2.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 71402,
+      "sha256": "6623d97521bd777cccf911c630906d32a62f06b18cacaae73398050be7210cc5"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/query-20.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 60673,
+      "sha256": "160e4caefc8fcdc2bb9b92f11c9ae84ab8d6dbe032dc716f0decadea096467db"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/query-21.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 54767,
+      "sha256": "a773cbb6c8d69616cd9720c0744485d9d6176d53c8046f17d6abceaedbe53b01"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/query-22.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 85624,
+      "sha256": "33f2787af095753e8f3582347d90ae16230a4c9dcfafb492607e6d9d0e00bf51"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/query-23.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 51806,
+      "sha256": "7ac91d540aad5e34f552a97977280b28822bed64b360ed951ec3d5152f0a62a6"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/query-3.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 62825,
+      "sha256": "191155bbc2535e0bfa494dc3862fb1e115a11ffd57ffa7eb21b705ed962562c0"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/query-4.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 56242,
+      "sha256": "446ec03df7d0d0f4889961812ebdace75d93e3a194a22d1f6c7cc8aa50c47daa"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/query-5.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 58071,
+      "sha256": "105859f891d7817b161405ee6c04d83d4042a377e532c8edef9d0d21b009775c"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/query-6.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 59164,
+      "sha256": "9a9af4ebd552bad0bf33f123361cfbca820835a53c5a98bf67b53a3cbf5baf09"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/query-7.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 56996,
+      "sha256": "64fce09b5f9a9b289c204a358d530a6c89ebc544ca1e5ebf3d276e5f6087edf8"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/query-8.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 53702,
+      "sha256": "8fa972a0d55ddfff0f225ae09fd016e7186858e83fc401e981c8e04f648588ff"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/query-9.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 65014,
+      "sha256": "868d33c21d73952f2f441a43a11ef643d568fd7695c0a6a54d7c35e72fa73e70"
+    },
+    {
+      "path": "tests/fixtures/phase03-final/sources.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 33501,
+      "sha256": "1ba356e84fe3c7d8dbd80c6ae501b9f131886841aee1884283befffa596a1a58"
+    },
+    {
+      "path": "tests/fixtures/phase03-places/README.md",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1291,
+      "sha256": "8f9af9a33b73fe1bf65ecec013ece1798c76922274c0b897f3edcfea6f78fcc4"
+    },
+    {
+      "path": "tests/fixtures/phase03-places/benchmark.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 53028,
+      "sha256": "636538317736a423ab147424ccfe2575ca583e010bbb3d2ea8ee2c9c68da9a24"
+    },
+    {
+      "path": "tests/fixtures/phase03-places/natural-00.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 102667,
+      "sha256": "a1a7f8d610a930b30533fc178497c4b8623feaf041302f096450022b0e0bdc47"
+    },
+    {
+      "path": "tests/fixtures/phase03-places/natural-01.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 135121,
+      "sha256": "ba1bda8f8fbc075081c4ccadb7b672740021533acd8014eddac0ee89195c697c"
+    },
+    {
+      "path": "tests/fixtures/phase03-places/natural-02.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 239188,
+      "sha256": "6a6c14969f3723989e9ccfebf6515e171e29d6e9571087bd32d45a17d0eba21f"
+    },
+    {
+      "path": "tests/fixtures/phase03-places/natural-03.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 289080,
+      "sha256": "afb0673b6f3287a1ddc34da062f0b8f7f2eaaf60ad7c1b55adee2199b34c2bc6"
+    },
+    {
+      "path": "tests/fixtures/phase03-places/natural-04.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 191062,
+      "sha256": "1571ff3f0e141821c0f3e83229160ae0179ea8cab3fd6b208f43250dcd8f53d5"
+    },
+    {
+      "path": "tests/fixtures/phase03-places/natural-05.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 180027,
+      "sha256": "9b53f90678ebfa627df6e01b0af5befffae64adf4a9c87ade4c91a51634c4daa"
+    },
+    {
+      "path": "tests/fixtures/phase03-places/natural-06.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 138925,
+      "sha256": "ab536b0bb119271228a2066140c191bff0bd452deabe8bc4513fb1921d174891"
+    },
+    {
+      "path": "tests/fixtures/phase03-places/natural-07.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 128319,
+      "sha256": "33f8cdc30af2487430df10a89e44dd2cab9641f830a0794fed54ec166bff9589"
+    },
+    {
+      "path": "tests/fixtures/phase03-places/natural-08.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 195072,
+      "sha256": "3d727b72c2fd4f291829d038d53584e5706901d8b730cbabf94388ced4a28661"
+    },
+    {
+      "path": "tests/fixtures/phase03-places/natural-09.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 35555,
+      "sha256": "ba755bd3f83b228380bb27feedd4980c8b667c449ece4581f5e58d9c8f84122d"
+    },
+    {
+      "path": "tests/fixtures/phase03-places/natural-10.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 392798,
+      "sha256": "21e5f1a87898d98ab88d824ce0b0ee84312c37a64bf919c0bea9c7c244d11762"
+    },
+    {
+      "path": "tests/fixtures/phase03-places/natural-11.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 549814,
+      "sha256": "25a7bf790bc22148783b23af4969007dcd9997938ed25143cc8fec91f164599c"
+    },
+    {
+      "path": "tests/fixtures/phase03-places/query-0.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 74323,
+      "sha256": "0137955ae84f599babd84cbb5ce048755d3c00fd72ca4866118bcc6f85f1e4fb"
+    },
+    {
+      "path": "tests/fixtures/phase03-places/query-1.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 67480,
+      "sha256": "f3ceb3a8a31ef8e12fb9dad1144c7418b496ce6ba803cf864c027ab84c356512"
+    },
+    {
+      "path": "tests/fixtures/phase03-places/query-10.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 52234,
+      "sha256": "05bfdc2d6590e65e2f90c167b12630cfada58dd427edba8e4f93ff4836053c2d"
+    },
+    {
+      "path": "tests/fixtures/phase03-places/query-11.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 69446,
+      "sha256": "9aa613aed83a7e65bf89dba831418c7bb54ea313f97f8d64c2c7f8588fb413db"
+    },
+    {
+      "path": "tests/fixtures/phase03-places/query-2.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 59123,
+      "sha256": "8b34f271c53f640cedf6f0e573d97d6f8fb6435198a3236014e84ccecbacd9df"
+    },
+    {
+      "path": "tests/fixtures/phase03-places/query-3.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 67885,
+      "sha256": "aa3c8197cc559594791e4e242931abe28a7def5765f4b2a5177420125102f429"
+    },
+    {
+      "path": "tests/fixtures/phase03-places/query-4.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 75103,
+      "sha256": "23f841ff47c529a51d2277ccd22065df33c005679d275f846ef0f2c2515b6343"
+    },
+    {
+      "path": "tests/fixtures/phase03-places/query-5.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 100310,
+      "sha256": "dc05eff3fbe003debbfc355b67f31666e8ce8065692dd959b4a90876144ef1ca"
+    },
+    {
+      "path": "tests/fixtures/phase03-places/query-6.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 61870,
+      "sha256": "f4b53406244fbfe31a92c6922d87c563ebce681b2d45340344f57bf3fc14ec71"
+    },
+    {
+      "path": "tests/fixtures/phase03-places/query-7.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 91140,
+      "sha256": "afca981ca726fe0e6260a4fad0b867275c4a6392fd7acf0162b14645037c8bdc"
+    },
+    {
+      "path": "tests/fixtures/phase03-places/query-8.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 15242,
+      "sha256": "7a6b3b8ccaf89bd53a3bc33b05afca8c62b07bb19c4553262b8c7cf0785dbfdc"
+    },
+    {
+      "path": "tests/fixtures/phase03-places/query-9.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 61879,
+      "sha256": "4d03fcc7533a330ce768b1b3676ad6496b66a2c49ba20570bbc252f3cfde0a3b"
+    },
+    {
+      "path": "tests/fixtures/phase03-places/sources.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 25368,
+      "sha256": "df0f19277554597b61635e9d6d15f8f6729c02a55e399a9f152f6cc52e02f52c"
+    },
+    {
+      "path": "tests/fixtures/phase03/README.md",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 2867,
+      "sha256": "b0de42dd91ec2f564a3f7cc79a62baf14da425945c5a63ae449fa02235666e47"
+    },
+    {
+      "path": "tests/fixtures/phase03/benchmark.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 33434,
+      "sha256": "f23634addd698e0b4505803a813f5df463fc89ed73f12bba6eccee73804eae15"
+    },
+    {
+      "path": "tests/fixtures/phase03/natural-00.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 289635,
+      "sha256": "34d8708efc3a627165a2fc9d997243ea08f254b1a07538eb6eed22f999979752"
+    },
+    {
+      "path": "tests/fixtures/phase03/natural-01-low-light.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 108808,
+      "sha256": "af45174baa7e53e8d0eb44bf5f41ca86e134f97a73f551029d2d3769f87606b9"
+    },
+    {
+      "path": "tests/fixtures/phase03/natural-01.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 215326,
+      "sha256": "261cb029bf50728d5bbddf94e84744610e9035365cc30f287befda21d5d9bee3"
+    },
+    {
+      "path": "tests/fixtures/phase03/natural-02.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 178820,
+      "sha256": "6bcd0004315727864acb4b4bfcb1527dd7564b4f9d9dfb8651c527673f3a61e0"
+    },
+    {
+      "path": "tests/fixtures/phase03/natural-03-low-contrast.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 143362,
+      "sha256": "3b1ca845cabbfffedf639305368997c1ac4175de47a55b13a8852c160e98d3cb"
+    },
+    {
+      "path": "tests/fixtures/phase03/natural-03.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 257468,
+      "sha256": "20b6aa1331387e56111f47bc16c420a4d88ffddeb0d10669263d52dba7168cc1"
+    },
+    {
+      "path": "tests/fixtures/phase03/natural-04.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 195484,
+      "sha256": "3168ca4bd70c09bdcc056b10754acc0a1e86306054814eb5c869f5fe100ba24d"
+    },
+    {
+      "path": "tests/fixtures/phase03/natural-05.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 183023,
+      "sha256": "5da94e73c6decf6bbc014d9ffc7a8bcb617cbe5f548c9a26d735aced6e5c9295"
+    },
+    {
+      "path": "tests/fixtures/phase03/natural-06.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 275816,
+      "sha256": "edf7db471f45867bf75e07365a10b0ad719986e24a8a715a3637228c46d84e6c"
+    },
+    {
+      "path": "tests/fixtures/phase03/natural-07-blur.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 44340,
+      "sha256": "1b57ab0cfc5fcbbc08bc5a970aea8c30bef4d75e34450b487e47f0e022db1a2b"
+    },
+    {
+      "path": "tests/fixtures/phase03/natural-07.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 172003,
+      "sha256": "e438e04211a39a9064637bc8c9b570e88ea1535ccbde27086966dc28e4fbe1b3"
+    },
+    {
+      "path": "tests/fixtures/phase03/natural-08.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 604696,
+      "sha256": "6bc2265a435daffed99db496edfaee84edcd9532e09906c76efb344170172dc7"
+    },
+    {
+      "path": "tests/fixtures/phase03/natural-09.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 115293,
+      "sha256": "a902c30c3683e808cb5c1f72e64d88e96c6d97f96b7a091c7820193fdab06eae"
+    },
+    {
+      "path": "tests/fixtures/phase03/natural-10.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 45607,
+      "sha256": "6df22471538ca872894c74f50d6aeef32bdbfc587f30e6b3f23f847e6858de47"
+    },
+    {
+      "path": "tests/fixtures/phase03/natural-11.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 74928,
+      "sha256": "0903d0d0f8e05461316f05ed0637d9018f9ca1625703ca273c89a32b73a14d3b"
+    },
+    {
+      "path": "tests/fixtures/phase03/natural-12.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 200694,
+      "sha256": "b9d9e6225c343e93bc3d4665458342c0ee544a3bbef78dc18688c72fce3e9e2c"
+    },
+    {
+      "path": "tests/fixtures/phase03/natural-13.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 161136,
+      "sha256": "b469c7706fd144e788f0a041a2ae98eb6bf90f595ba3b5f63bc366f736b95904"
+    },
+    {
+      "path": "tests/fixtures/phase03/natural-14.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 433545,
+      "sha256": "d96eab72b6618c341bf8762fd02eef15c48375357dde9084da8493cfb4cec87a"
+    },
+    {
+      "path": "tests/fixtures/phase03/natural-15-crop-occlusion.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 82267,
+      "sha256": "20f5c5471949e7dc9d374d7bf24cf6d8d33dd74ba77ad9fb1054d0a45632d4f4"
+    },
+    {
+      "path": "tests/fixtures/phase03/natural-15.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 194387,
+      "sha256": "01ef7673d5c786e89fe7d2d5f5ab58acb112f5282865469c7d253d8ae5b74a84"
+    },
+    {
+      "path": "tests/fixtures/phase03/query-0.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 85192,
+      "sha256": "45dc6ee4226035f60d4dffcd402970134eba76d18f047d6ddb60927ef9eb7975"
+    },
+    {
+      "path": "tests/fixtures/phase03/query-1.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 61063,
+      "sha256": "5789b2e8f3e786e9b8b7c94bd9bdfb4b5e84a276b6535ecb88cbd8895962ab8e"
+    },
+    {
+      "path": "tests/fixtures/phase03/query-10.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 54277,
+      "sha256": "64a788141660ae7f33cd191945291dd06b93d327c66ccb121157df96616c54e9"
+    },
+    {
+      "path": "tests/fixtures/phase03/query-11.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 50176,
+      "sha256": "9a9ba0081a5e2e0a460ee4914581c2f0457f6894931545eda59ffa4a69450f00"
+    },
+    {
+      "path": "tests/fixtures/phase03/query-12.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 65869,
+      "sha256": "2d5bf533064f526ff2c00b375d6c633e75c0a6a8a975f80e59aa06357e34a5f4"
+    },
+    {
+      "path": "tests/fixtures/phase03/query-13.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 56191,
+      "sha256": "9612c0129f3d98c003170b2d9ac223709f925e84060c56e37042aadf7d9d3796"
+    },
+    {
+      "path": "tests/fixtures/phase03/query-14.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 56289,
+      "sha256": "49b655b2ff4c001d2bde61067c964a6f8edc1818061e133984ebcb7c9e0ae870"
+    },
+    {
+      "path": "tests/fixtures/phase03/query-15.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 52097,
+      "sha256": "668fc1a7219b48e8331bcedfd947220c36acca52fa22371c3903d374a483cb59"
+    },
+    {
+      "path": "tests/fixtures/phase03/query-2.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 59920,
+      "sha256": "e5bdf60a84bec73485b47aea2c5244839cec4af3e7140f8c331be102ab23d3fd"
+    },
+    {
+      "path": "tests/fixtures/phase03/query-3.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 64095,
+      "sha256": "463e43f018d79b18cb9e917c91b1c584a6d6c00670df3e80fa80e52bbfc90857"
+    },
+    {
+      "path": "tests/fixtures/phase03/query-4.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 76832,
+      "sha256": "30bc46e4dccb3c44aaa128fa1a3845faa75246c90ac63e2e12c54e2c65ce1a50"
+    },
+    {
+      "path": "tests/fixtures/phase03/query-5.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 62099,
+      "sha256": "26d78b95448342c87d4ea4149336807fbcca866134be4acd206fa433a5962da0"
+    },
+    {
+      "path": "tests/fixtures/phase03/query-6.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 52562,
+      "sha256": "31f914965381db64bf5e3c37ad4348597e767cca9c83c7e41e26bcb75a6ee1b4"
+    },
+    {
+      "path": "tests/fixtures/phase03/query-7.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 57310,
+      "sha256": "6c3952ad97f9d6adc91639d8b02fa71cc82d3a35e53e6ec25fadf9cc66ee3072"
+    },
+    {
+      "path": "tests/fixtures/phase03/query-8.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 58694,
+      "sha256": "71b1059e2cb0e6d7f0883d88db086fac151ffba917222f8941a8fb657620e285"
+    },
+    {
+      "path": "tests/fixtures/phase03/query-9.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 78269,
+      "sha256": "8bd32037f3e52348695336e21fac856976e54bcf133bbf595f13933761d504fb"
+    },
+    {
+      "path": "tests/fixtures/phase03/sources.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 23182,
+      "sha256": "f8cd8adc5e556f42ec563c9fc929dae33168e6118773a1a4435c851da5175673"
+    },
+    {
+      "path": "tests/fixtures/qwen-resolution/README.md",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 723,
+      "sha256": "dc77c7551d4ec75563ac27c26b2656cdccd5590918303235008db042c862736d"
+    },
+    {
+      "path": "tests/fixtures/qwen-resolution/query-0.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 63563,
+      "sha256": "3045d95fa5a14c524b45dc5a5d21f19cbb4cd27e35c4fb5e4b0aac07fe5b5706"
+    },
+    {
+      "path": "tests/fixtures/qwen-resolution/query-1.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 120159,
+      "sha256": "2709795186eb672c6e0b984b4f64bc50000ad39f9c6c9d32a55e9a9b5ebe25f7"
+    },
+    {
+      "path": "tests/fixtures/qwen-resolution/query-2.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 144190,
+      "sha256": "3d1bce3a360bbfc3decc0841fe0f328702a278573e998ed4af49b9e4d7bbe6a7"
+    },
+    {
+      "path": "tests/fixtures/qwen-resolution/query-3.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 164531,
+      "sha256": "6e4bc47d60fc8076134e1d02317c4daf43e4c4ad0b642e47a16d6276c62690f2"
+    },
+    {
+      "path": "tests/fixtures/qwen-resolution/query-4-initial.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 296,
+      "sha256": "d20f19d5b0cbb6cb25f6308aab59501fac2532ee19d99f09bd12b10d245429b1"
+    },
+    {
+      "path": "tests/fixtures/qwen-resolution/query-4.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 192907,
+      "sha256": "f9d4fab522dc8083e2aec919d88814d5776ac03c55d5f4cc1fbb5959b0a79789"
+    },
+    {
+      "path": "tests/fixtures/qwen-resolution/query-5.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 124805,
+      "sha256": "77701d150042461447ddf6d7eaa4ae9d0aa2d302fde7b8df84414b3338534199"
+    },
+    {
+      "path": "tests/fixtures/qwen-resolution/query-6.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 129201,
+      "sha256": "a3973aab21da906536afcd76cddfaba1b4c5b03fe42a465c3ac8d3d6e573f2b3"
+    },
+    {
+      "path": "tests/fixtures/qwen-resolution/query-7.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 18882,
+      "sha256": "44b2d378e6c80f5d0b8c3486dbe0c9f9ab99a8a55dff11b64152153f6c892c78"
+    },
+    {
+      "path": "tests/fixtures/qwen-resolution/resolution-00.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 412384,
+      "sha256": "c10da191af7454650c6761f06b922bb175bcf77eafc7705c6108a1072e198d36"
+    },
+    {
+      "path": "tests/fixtures/qwen-resolution/resolution-01.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 632255,
+      "sha256": "b7da514f8533ba0d4d0ac44130b8d46eab903959b35ad8728e9a702cbc22c6f3"
+    },
+    {
+      "path": "tests/fixtures/qwen-resolution/resolution-02-dim.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 547761,
+      "sha256": "de69f8d1d9a9afa2fd37fe91f3da4f6dab579277f290f0fd9812d0069af01825"
+    },
+    {
+      "path": "tests/fixtures/qwen-resolution/resolution-02.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 598760,
+      "sha256": "45397f0d4b19a17a087e3ff21b579bd4a18efc7feb15689a68cf2b891672b161"
+    },
+    {
+      "path": "tests/fixtures/qwen-resolution/resolution-03.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 443770,
+      "sha256": "3a7fc00fc4bfb5ab7ed48062f9bc26e7f910046f17e8a4c5d5f1e6c8bccfefb6"
+    },
+    {
+      "path": "tests/fixtures/qwen-resolution/resolution-04.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 277500,
+      "sha256": "bb6ac66725c6605c6736de2bdfe1400f1919ac5df1979434e03a7384fd80858b"
+    },
+    {
+      "path": "tests/fixtures/qwen-resolution/resolution-05.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 373072,
+      "sha256": "aff59f0b4150dd5b089adde688b3437aea31129a0067e7916e976c6a3977da27"
+    },
+    {
+      "path": "tests/fixtures/qwen-resolution/resolution-06-small-blur.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 30577,
+      "sha256": "d76697e76dfcffefd551406fc9200ea0b6d188c8860ae747fd98f49e6ee78426"
+    },
+    {
+      "path": "tests/fixtures/qwen-resolution/resolution-06.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1004421,
+      "sha256": "cf3f17d957053ccaf702fb1a0199b0b653adb2f3ce3381aae4cd1eaca86a320d"
+    },
+    {
+      "path": "tests/fixtures/qwen-resolution/resolution-07.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 592899,
+      "sha256": "e9e904996ecaf33581f1d58c01fbd69c6ecff4fd2ce9073671e56339039d295f"
+    },
+    {
+      "path": "tests/fixtures/qwen-resolution/sources.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 14965,
+      "sha256": "75c1444f387656dcb93240c21f2d10909e02411137f4f159a752aca5c4377b45"
+    },
+    {
+      "path": "tests/fixtures/qwen-resolution/transformations.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1601,
+      "sha256": "f464780ddd71a0dc2fe8be1628ebe5ae831fe5919da21f261b402ef300755ac9"
+    },
+    {
+      "path": "tests/fixtures/qwen/evaluation.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 4184,
+      "sha256": "37f9e636968e1e3974c771d9fbd38635c882e206e2e4b5e52870b70f7284a2b9"
+    },
+    {
+      "path": "tests/fixtures/qwen/heldout-0.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 256938,
+      "sha256": "7d4cdb2ae5bb073834363eb3fe4b7d7e46b9447843c0ff42fc06ebc7f8751b79"
+    },
+    {
+      "path": "tests/fixtures/qwen/heldout-1.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 104413,
+      "sha256": "aed77a9b009054afc1d35da2528bea81db4b918db27943822e04d255fb7c4846"
+    },
+    {
+      "path": "tests/fixtures/qwen/heldout-2.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 82922,
+      "sha256": "772354a6e94475ddbf7918c756efcb6730a9baae08dc41eb4b21832fcc755f44"
+    },
+    {
+      "path": "tests/fixtures/qwen/heldout-3.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 91197,
+      "sha256": "aa40d21b16ff26ab476e478f98d31b7e66617e4029b386db5477551b04763022"
+    },
+    {
+      "path": "tests/fixtures/qwen/heldout-4.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 89500,
+      "sha256": "adcc5aadd840c8fa319c0ae8ca17a7631c141d31f620ae193cf3961e34a1a0d1"
+    },
+    {
+      "path": "tests/fixtures/qwen/heldout-5.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 167736,
+      "sha256": "ca39998673bca2948d3d5047c55bb564122481606d01c2d33688472b6d30ed3f"
+    },
+    {
+      "path": "tests/fixtures/qwen/query-0.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 88356,
+      "sha256": "c843d97f452bdd5d2081a4867b6bcf7e9b9bdbdf7dd0998d5bfb41415451b79d"
+    },
+    {
+      "path": "tests/fixtures/qwen/query-1.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 112219,
+      "sha256": "47d09e8cc4f156afbf26dc977225af54f43ff8a60252aeee2a7833aabeb27ccd"
+    },
+    {
+      "path": "tests/fixtures/qwen/query-2.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 96415,
+      "sha256": "9edf5014b49887f7a1f0d8142b7575a60cfaa9b52f8346afa520d01d7e5ca068"
+    },
+    {
+      "path": "tests/fixtures/qwen/query-3.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 133723,
+      "sha256": "a2588ecc61024f0158145908e0dd154e3fdf92cc6a57f3f321409caa1ea7e571"
+    },
+    {
+      "path": "tests/fixtures/qwen/query-4.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 87618,
+      "sha256": "2de2802587b33433d1e1fbe9a872b45d0c6d56b5dc208ffd31f0ffd957eb789d"
+    },
+    {
+      "path": "tests/fixtures/qwen/query-5.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 95282,
+      "sha256": "82ac206b68cf967ea108aa9968ba90d53a8a46e5f6a24b1940640dfc17c6e7e6"
+    },
+    {
+      "path": "tests/fixtures/qwen/sources.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 6061,
+      "sha256": "2092a04039762a0686db4d15923ae6e85fd3202e853e0690c336cde0de5a7019"
+    },
+    {
+      "path": "tests/fixtures/readiness/README.md",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 2916,
+      "sha256": "2cac21c35fb9dbc64f85e6824389085db6265073aaad7a0dc8bfe83ff2aabc64"
+    },
+    {
+      "path": "tests/fixtures/readiness/benchmark.json",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 22370,
+      "sha256": "150ac144c987b5be240f2976de3cbd925fc66a62d3aed96a27d8c99aafd61426"
+    },
+    {
+      "path": "tests/fixtures/readiness/bubbles.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 10720472,
+      "sha256": "1975ddcfd266b2b3e6ba3a96c36fb5698143a5df62ea6ec7c7b543e33042831d"
+    },
+    {
+      "path": "tests/fixtures/readiness/coast.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 90095,
+      "sha256": "b82fd7404f018634b79d28141242969879890043a2c681fe65dc9ab6e0a72848"
+    },
+    {
+      "path": "tests/fixtures/readiness/flower.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1929748,
+      "sha256": "d9d3b06a2a0dd2289b54deadbf8140ee48d26ec5245e241250b59f7902637acc"
+    },
+    {
+      "path": "tests/fixtures/readiness/forest.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 4978501,
+      "sha256": "2f9f01326230bf9166eec430eb6d14cac69412d6cf6e2ecc7a25970683e4ddea"
+    },
+    {
+      "path": "tests/fixtures/readiness/kitchen.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1360263,
+      "sha256": "62a2db24de882224d3294d3584cdb2b194aba281f98a3bd4982481abe2b99af4"
+    },
+    {
+      "path": "tests/fixtures/readiness/potter.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 427229,
+      "sha256": "fa33ca74777b059c29d1d43499b16ba2792e9cbf58694d30d71f4e97e47b058d"
+    },
+    {
+      "path": "tests/fixtures/readiness/tajine.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 131845,
+      "sha256": "05f0612c7c8761e135f11305a59f0bed7199c8b40fbe8ec34730792a93b6755a"
+    },
+    {
+      "path": "tests/fixtures/readiness/teapots.jpg",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 747527,
+      "sha256": "28e9b1a35b53129c3da6130235d4cadc933b1c663cc1b068f4dde6f0f1cca856"
+    },
+    {
+      "path": "tests/insights.test.ts",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 12857,
+      "sha256": "828482c5ed97130064a34a6d74b733841e63df10ef9bf30c0b65007b06c4dd14"
+    },
+    {
+      "path": "tests/loading.test.ts",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 3778,
+      "sha256": "c13be58c8b559518c4cc1cd92eec95496a996c364fd3a03150837b6aa8796f72"
+    },
+    {
+      "path": "tests/phase03.test.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 2900,
+      "sha256": "bb3f8693898bc4f8a2495f45ef4e7ecf760c9e2c11350d0afdacccbb1b8c637a"
+    },
+    {
+      "path": "tests/pixels.test.ts",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 4073,
+      "sha256": "7b7285ce308fa12d3ac93bfbd1cf641c04bec8b301db72ad2bca0234299982d7"
+    },
+    {
+      "path": "tests/readiness.test.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 2169,
+      "sha256": "3fc09506e3c6463c6a1a4b7bb696719a5e674ae51ad6dad612b9e94be03ad138"
+    },
+    {
+      "path": "tests/reliability.test.ts",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 5704,
+      "sha256": "fa5ef2c90607731b7a6e1f0c049a83cfd1a2cb32700e283dd5b347920500b380"
+    },
+    {
+      "path": "tests/research-assets.test.ts",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 1703,
+      "sha256": "5a770ce71f18d805b414f5a2f2fe7cbbaa0b1ca2f2fc30acf177b0a6522444e4"
+    },
+    {
+      "path": "tests/research/README.md",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1933,
+      "sha256": "e28315799eed07987ffb1349d9f3d9dd54e54cbf13e3332f15603a84d14659a0"
+    },
+    {
+      "path": "tests/research/archive/vision.spec.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 5906,
+      "sha256": "958991d1c2e3e17ca43f3449c4ebdd1f6c70db72c343dc56f3a2cd6e2098928d"
+    },
+    {
+      "path": "tests/research/discovery.spec.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 7963,
+      "sha256": "0a2ce7c4f72ae5787ec1286e0b188b11d33edf145e66b35ab231f01d1da8f188"
+    },
+    {
+      "path": "tests/research/evaluation.spec.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 6029,
+      "sha256": "26eff088c36d403afc38ed2b3b1486c3ee7fbf14d92dd66e3ce22c760aa05a2f"
+    },
+    {
+      "path": "tests/research/final-benchmark.spec.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 5220,
+      "sha256": "452c056d9bf7f71fb897154e79217dbc12b6914c6b28db45d37c23f9789a2db6"
+    },
+    {
+      "path": "tests/research/final-places-quality.spec.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 5552,
+      "sha256": "812ab04d3137cc0e69396361be67ac7832c6c98a23b8c35a16093ce301a41893"
+    },
+    {
+      "path": "tests/research/final-places-runtime.spec.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1603,
+      "sha256": "4efa6f0e16eb3c242f94c38f4853d7a55dac9f2090ade043a8a139c1ad4d15f7"
+    },
+    {
+      "path": "tests/research/final-quality.spec.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 5507,
+      "sha256": "4cf4b9af036cf4f262c434f42812116ca35a023da6a58a154c1083bba4b569d1"
+    },
+    {
+      "path": "tests/research/final-tiny.spec.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 1594,
+      "sha256": "a2ce388ab361d34c78162e429303108cd855cb15faaa39913c97bd1ad7344dc1"
+    },
+    {
+      "path": "tests/research/phase03-reproduction.spec.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 4945,
+      "sha256": "ae1151ae1678a7292b22d3e068a1903b4d443600967c2bbfc2c4804188307725"
+    },
+    {
+      "path": "tests/research/phase03.spec.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 7744,
+      "sha256": "4dbaf8998e1ae9df2e712317a6b5bb7f25e627a7e46a8d4dfe659d3af6bbc3e8"
+    },
+    {
+      "path": "tests/research/readiness.spec.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 7429,
+      "sha256": "351b847e4a87d9b2607051ce539a7dd4fd0801fa6db28340a32b1b0b1ab12bbe"
+    },
+    {
+      "path": "tests/scene.test.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 2607,
+      "sha256": "1380173a0b11b456486a0455193ef3097d99a6322100c82aff964484831c28dc"
+    },
+    {
+      "path": "tests/traffic.test.ts",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 7620,
+      "sha256": "6b31857183dae4f54a753b51dc4f89515a7dac06fa2e5e9d729609e275280060"
+    },
+    {
+      "path": "tests/vision.test.ts",
+      "category": "KEEP — Lightweight Research History",
+      "bytes": 4333,
+      "sha256": "7d619833f3aef85cf1594758c1a2c36e6cb436996158d2f9b9034a781b71d7b0"
+    },
+    {
+      "path": "tsconfig.json",
+      "category": "KEEP — Tests, Documentation and Configuration",
+      "bytes": 802,
+      "sha256": "032df2b4d101582d748558fb6155b0c6bde5eed504395c7b66bae808c7f889d5"
+    }
+  ]
+}

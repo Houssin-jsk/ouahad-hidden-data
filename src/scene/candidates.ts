@@ -1,0 +1,71 @@
+/** Frozen before Phase 4.2 inference. Six distinct candidates per theme; no synonym ensembles. */
+export const SCENE_LIBRARY_VERSION = "ouahad-scenes-36-v1";
+export const SCENE_LIBRARY = [
+  ["mountain-lake", "Nature", "a mountain landscape with a lake"],
+  ["forest", "Nature", "a forest with trees and vegetation"],
+  ["coast", "Nature", "a beach or coastal landscape"],
+  ["desert", "Nature", "a desert landscape with sand or bare rock"],
+  ["river", "Nature", "a river or waterfall in a natural environment"],
+  ["farmland", "Nature", "cultivated fields or farmland"],
+  ["living-room", "Indoor spaces", "a furnished living room"],
+  ["bedroom", "Indoor spaces", "a bedroom with a bed"],
+  ["bathroom", "Indoor spaces", "a bathroom with washing fixtures"],
+  ["classroom", "Indoor spaces", "a classroom or teaching space"],
+  ["office", "Indoor spaces", "an office workspace with desks"],
+  ["warehouse", "Indoor spaces", "a warehouse or industrial interior"],
+  ["outdoor-cooking", "Food & dining", "outdoor cooking with pots over a fire"],
+  ["food-preparation", "Food & dining", "food being prepared in a kitchen"],
+  ["meal", "Food & dining", "a meal served on a dining table"],
+  [
+    "produce-market",
+    "Food & dining",
+    "a market stall displaying fruit and vegetables",
+  ],
+  ["bakery", "Food & dining", "bread and pastries in a bakery"],
+  ["drinks", "Food & dining", "cups or glasses containing drinks"],
+  ["wildlife", "Animals & people", "a wild animal outdoors"],
+  ["pets", "Animals & people", "pets resting indoors on furniture"],
+  ["birds", "Animals & people", "birds in their surroundings"],
+  ["street-people", "Animals & people", "people walking along a street"],
+  ["sport", "Animals & people", "people playing a sport"],
+  ["gardening", "Animals & people", "people tending a garden"],
+  [
+    "pottery",
+    "Objects & activities",
+    "pottery or household utensils on display",
+  ],
+  ["textiles", "Objects & activities", "clothing or textiles on display"],
+  ["books", "Objects & activities", "books or paper documents"],
+  [
+    "music",
+    "Objects & activities",
+    "musical instruments or a musical performance",
+  ],
+  ["tools", "Objects & activities", "tools used for building or repairs"],
+  [
+    "reflections",
+    "Objects & activities",
+    "an abstract view of reflections or glass surfaces",
+  ],
+  [
+    "electronics",
+    "Technology & built world",
+    "computers or electronic equipment",
+  ],
+  [
+    "optics",
+    "Technology & built world",
+    "cameras or optical viewing equipment",
+  ],
+  ["road-vehicles", "Technology & built world", "road vehicles or traffic"],
+  ["railway", "Technology & built world", "a train or railway scene"],
+  ["harbor", "Technology & built world", "boats or a harbor"],
+  [
+    "architecture",
+    "Technology & built world",
+    "buildings or architectural structures",
+  ],
+].map(([id, theme, description]) => Object.freeze({ id, theme, description }));
+export const SCENE_PROMPTS = SCENE_LIBRARY.map(
+  (candidate) => `This is a photo of ${candidate.description}`,
+);

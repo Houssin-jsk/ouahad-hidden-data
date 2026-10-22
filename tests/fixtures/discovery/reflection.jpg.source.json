@@ -1,0 +1,92 @@
+{
+  "File": "reflection.jpg",
+  "Url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Reflection_in_a_window_with_hand-blown_glass_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "Metadata": {
+    "DateTime": {
+      "value": "2020-04-01 19:44:01",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "Reflection in a window with hand-blown glass 4",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "Taken with Panasonic Lumix DMC-FZ1000|CC-Zero|History of Glassmaking|Self-published work|Images by W.carter|Files with coordinates missing SDC location of creation|Röe|Images by W.carter, my own favorites|Windows in Västra Götaland County",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "GPSLatitude": {
+      "value": "58.415967",
+      "source": "commons-desc-page"
+    },
+    "GPSLongitude": {
+      "value": "11.437440",
+      "source": "commons-desc-page"
+    },
+    "GPSMapDatum": {
+      "value": "WGS-84",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "Reflection in a window with hand-blown glass on the shop house on Röe gård in Röe, Lysekil Municipality, Sweden. The two bottom window panes are hand-blown and the top row is float glass. The image is focus stacked from two photos, one with focus on the window and one with focus on the reflection.",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "2019-07-10 13:40:48",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "<a href=\"//commons.wikimedia.org/wiki/User:W.carter\" title=\"User:W.carter\">W.carter</a>",
+      "source": "commons-desc-page"
+    },
+    "LicenseShortName": {
+      "value": "CC0",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Creative Commons Zero, Public Domain Dedication",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "false",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseUrl": {
+      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "commons-desc-page"
+    },
+    "Copyrighted": {
+      "value": "True",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "cc0",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  }
+}

@@ -1,0 +1,33 @@
+1/16 File:Lake Helen in June 2022-6022.jpg (CC BY-SA 4.0)
+2/16 File:Waterfall, Quebroda del Mar, by O'Sullivan, Timothy H., 1840-1882.jpg (Public domain)
+3/16 File:Lower Manhattan from Jersey City November 2014 panorama 3.jpg (CC BY-SA 3.0)
+4/16 File:TRAFFIC OFFICER AT BUSY INTERSECTION - NARA - 546646.jpg (Public domain)
+5/16 File:The dining room in the country by Pierre Bonnard (1913).jpg (Public domain)
+6/16 File:Dining room at the inn Dans les bras de Morphée, located on Île d'Orléans.jpg (CC0)
+7/16 File:Parco Naturale Tre Cime horses 3.jpg (CC BY-SA 4.0)
+8/16 File:Reticulated Giraffe at Ikeda zoo Japan.jpg (CC BY 4.0)
+9/16 File:Waiter serves a plate of pasta with seafood to a guest at a dining table in a restaurant setting.jpg (CC BY 2.0)
+10/16 File:Fruit bowl - Massachusetts.jpg (CC0)
+file:///C:/Users/ouaha/OneDrive/Desktop/ouahad-hidden-data/scripts/prepare-phase03-final-corpus.mjs:33
+  if (!response.ok) throw Error(`Commons metadata ${response.status}`);
+                          ^
+
+Error: Commons metadata 429
+    at file:///C:/Users/ouaha/OneDrive/Desktop/ouahad-hidden-data/scripts/prepare-phase03-final-corpus.mjs:33:27
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+
+Node.js v24.15.0
+11/16 File:Steam locomotive gear (JŽ 06-018; Slovenia).jpg (CC BY-SA 4.0)
+12/16 File:ZAPATA II a 50' Classic Yacht built by CALKINS - AMERICAN MARINE and delivered in 1964 in the 2013 Ahmanson Cup Regatta photo Don Ramey Logan.jpg (CC BY-SA 3.0)
+13/16 File:GEMINI-TITAN (GT)-VI - CLOSEUP (W-O HELMET) - PILOT (1ST TRY) - CAPE (s65-56187).jpg (Public domain)
+14/16 File:Elderly Gambian woman face portrait.jpg (CC BY-SA 2.0)
+15/16 File:Mimosa flower macro closeup stamens Owalla Osun.jpg (CC BY 4.0)
+16/16 File:Vibrant purple orchid flowers macro shot.jpg (CC0)
+17/16 File:Watch needles in wristwatch closeup 2.jpg (CC BY-SA 4.0)
+18/16 File:KHM Wien VIIb 133 - Golden Vandal necklace, c. 300 AD.jpg (CC BY 3.0)
+19/16 File:Old grey palm tree trunk closeup pattern.jpg (Public domain)
+20/16 File:Stone rock texture closeup.jpg (Public domain)
+21/16 File:Oeuvre pour salon by Basile Morin, 2003 - framed abstract acrylic painting with blue rectangles on a wall.jpg (CC BY-SA 4.0)
+22/16 File:Abstract metal sculpture in Tbilisi.jpg (CC BY-SA 4.0)
+23/16 File:Child laborer.jpg (Public domain)
+24/16 File:Handwritten letter of Nana Phadnavis.jpg (Public domain)

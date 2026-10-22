@@ -1,0 +1,18 @@
+Experimental Phase 4.1 models — not a production replacement
+
+YOLOS-tiny: hustvl/yolos-tiny, original model card declares Apache-2.0.
+https://huggingface.co/hustvl/yolos-tiny
+Converter: Xenova/yolos-tiny, revision e2f9c7673f0fa61849efe2b56a0d7774779ebb9d
+Quantized ONNX SHA256 82b5c1de8aaaffd763c67d67b09b742a1c53628acfee3077af3fa59233e86b6b
+
+CLIP ViT-B/32: OpenAI, repository MIT license (included LICENSE-CLIP-MIT.txt).
+https://github.com/openai/CLIP/blob/main/LICENSE
+The original model card stresses research use and task-specific evaluation before deployment.
+Converter: Xenova/clip-vit-base-patch32, revision d15189d7028b43f1d3e65039190477f6af591c2a
+Quantized ONNX SHA256 0898a3facfdb27f0a041e57649b4989cfd094e4a0040d6ae75ed69917dfc7328
+
+Neither converter model card independently declares its export license.
+Original licenses and attribution are retained; confirm derivative-export provenance before release.
+Artifacts are unchanged. Application preprocessing is documented separately.
+Shared Transformers.js and ONNX Runtime licenses are under research/assets/ai.
+

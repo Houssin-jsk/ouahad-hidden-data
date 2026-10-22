@@ -1,0 +1,1061 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 10,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "10023421": {
+        "pageid": 10023421,
+        "ns": 6,
+        "title": "File:Alpine lakes, and mountain scenery, in the Cerro Blanco Mountains, Colorado, 18,000 feet above sea-level, by O’Sullivan, Timothy H., 1840-1882.png",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6687526,
+            "width": 2737,
+            "height": 1610,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882.png/960px-Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 452,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882.png/1920px-Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882.png/960px-Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 452,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882.png/1920px-Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Alpine_lakes,_and_mountain_scenery,_in_the_Cerro_Blanco_Mountains,_Colorado,_18,000_feet_above_sea-level,_by_O%E2%80%99Sullivan,_Timothy_H.,_1840-1882.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10023421",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2010-04-16 05:46:50",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Alpine lakes, and mountain scenery, in the Cerro Blanco Mountains, Colorado, 18,000 feet above sea-level.</i></div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US|Artworks without Wikidata item|Artworks with known accession number|PD-scan (PD-US)|Images from the New York Public Library|Robert N. Dennis collection of stereoscopic views|PNGs with JPEG versions|NYPL 1st Lieut. Geo. M. Wheeler, Corps of Engineers Commanding|Stereoscopic photographs by Timothy H. O'Sullivan|NYPL by Timothy H. O'Sullivan",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nO’Sullivan, Timothy H., 1840-1882 -- Photographer</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "<p>Coverage: 1874.\nSource Imprint: 1874..\n</p>\nDigital item published 6-14-2006; updated 2-13-2009.",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This image is available from the <a href=\"//commons.wikimedia.org/wiki/New_York_Public_Library\" title=\"New York Public Library\">New York Public Library</a>'s Digital Library under the digital ID G92F126_041ZF: <a rel=\"nofollow\" class=\"external text\" href=\"http://digitalgallery.nypl.org/nypldigital/id?G92F126_041ZF\">digitalgallery.nypl.org</a> → <a rel=\"nofollow\" class=\"external text\" href=\"https://digitalcollections.nypl.org/search/index?keywords=G92F126_041ZF\">digitalcollections.nypl.org</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "10023422": {
+        "pageid": 10023422,
+        "ns": 6,
+        "title": "File:Alpine lakes, and mountain scenery, in the Cerro Blanco Mountains, Colorado, 18,000 feet above sea-level, by O’Sullivan, Timothy H., 1840-1882.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2050142,
+            "width": 2737,
+            "height": 1610,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882.jpg/960px-Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 452,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882.jpg/1920px-Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882.jpg/960px-Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 452,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882.jpg/1920px-Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Alpine_lakes,_and_mountain_scenery,_in_the_Cerro_Blanco_Mountains,_Colorado,_18,000_feet_above_sea-level,_by_O%E2%80%99Sullivan,_Timothy_H.,_1840-1882.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10023422",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2010-04-16 05:46:53",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Alpine lakes, and mountain scenery, in the Cerro Blanco Mountains, Colorado, 18,000 feet above sea-level.</i></div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US|Artworks without Wikidata item|Artworks with known accession number|PD-scan (PD-US)|Images from the New York Public Library|Robert N. Dennis collection of stereoscopic views|NYPL 1st Lieut. Geo. M. Wheeler, Corps of Engineers Commanding|Stereoscopic photographs by Timothy H. O'Sullivan|NYPL by Timothy H. O'Sullivan",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nO’Sullivan, Timothy H., 1840-1882 -- Photographer</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "<p>Coverage: 1874.\nSource Imprint: 1874..\n</p>\nDigital item published 6-14-2006; updated 2-13-2009.",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This image is available from the <a href=\"//commons.wikimedia.org/wiki/New_York_Public_Library\" title=\"New York Public Library\">New York Public Library</a>'s Digital Library under the digital ID G92F126_041ZF: <a rel=\"nofollow\" class=\"external text\" href=\"http://digitalgallery.nypl.org/nypldigital/id?G92F126_041ZF\">digitalgallery.nypl.org</a> → <a rel=\"nofollow\" class=\"external text\" href=\"https://digitalcollections.nypl.org/search/index?keywords=G92F126_041ZF\">digitalcollections.nypl.org</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "10023428": {
+        "pageid": 10023428,
+        "ns": 6,
+        "title": "File:Alpine lakes, and mountain scenery, in the Cerro Blanco Mountains, Colorado, 18,000 feet above sea-level, by O’Sullivan, Timothy H., 1840-1882 2.png",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6538835,
+            "width": 2737,
+            "height": 1595,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882_2.png/960px-Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 448,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882_2.png/1920px-Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882_2.png/960px-Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 448,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882_2.png/1920px-Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Alpine_lakes,_and_mountain_scenery,_in_the_Cerro_Blanco_Mountains,_Colorado,_18,000_feet_above_sea-level,_by_O%E2%80%99Sullivan,_Timothy_H.,_1840-1882_2.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10023428",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2010-04-16 05:47:17",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Alpine lakes, and mountain scenery, in the Cerro Blanco Mountains, Colorado, 18,000 feet above sea-level.</i></div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US|Artworks without Wikidata item|Artworks with known accession number|PD-scan (PD-US)|Images from the New York Public Library|Robert N. Dennis collection of stereoscopic views|PNGs with JPEG versions|NYPL 1st Lieut. Geo. M. Wheeler, Corps of Engineers Commanding|Stereoscopic photographs by Timothy H. O'Sullivan|NYPL by Timothy H. O'Sullivan",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nO’Sullivan, Timothy H., 1840-1882 -- Photographer</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "<p>Coverage: 1874.\nSource Imprint: 1874..\n</p>\nDigital item published 6-14-2006; updated 2-13-2009.",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This image is available from the <a href=\"//commons.wikimedia.org/wiki/New_York_Public_Library\" title=\"New York Public Library\">New York Public Library</a>'s Digital Library under the digital ID G92F126_042ZF: <a rel=\"nofollow\" class=\"external text\" href=\"http://digitalgallery.nypl.org/nypldigital/id?G92F126_042ZF\">digitalgallery.nypl.org</a> → <a rel=\"nofollow\" class=\"external text\" href=\"https://digitalcollections.nypl.org/search/index?keywords=G92F126_042ZF\">digitalcollections.nypl.org</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "10023431": {
+        "pageid": 10023431,
+        "ns": 6,
+        "title": "File:Alpine lakes, and mountain scenery, in the Cerro Blanco Mountains, Colorado, 18,000 feet above sea-level, by O’Sullivan, Timothy H., 1840-1882 2.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2012577,
+            "width": 2737,
+            "height": 1595,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882_2.jpg/960px-Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 448,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882_2.jpg/1920px-Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882_2.jpg/960px-Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 448,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882_2.jpg/1920px-Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Alpine_lakes,_and_mountain_scenery,_in_the_Cerro_Blanco_Mountains,_Colorado,_18,000_feet_above_sea-level,_by_O%E2%80%99Sullivan,_Timothy_H.,_1840-1882_2.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10023431",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2010-04-16 05:47:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Alpine lakes, and mountain scenery, in the Cerro Blanco Mountains, Colorado, 18,000 feet above sea-level.</i></div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US|Artworks without Wikidata item|Artworks with known accession number|PD-scan (PD-US)|Images from the New York Public Library|Robert N. Dennis collection of stereoscopic views|NYPL 1st Lieut. Geo. M. Wheeler, Corps of Engineers Commanding|Stereoscopic photographs by Timothy H. O'Sullivan|NYPL by Timothy H. O'Sullivan",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nO’Sullivan, Timothy H., 1840-1882 -- Photographer</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "<p>Coverage: 1874.\nSource Imprint: 1874..\n</p>\nDigital item published 6-14-2006; updated 2-13-2009.",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This image is available from the <a href=\"//commons.wikimedia.org/wiki/New_York_Public_Library\" title=\"New York Public Library\">New York Public Library</a>'s Digital Library under the digital ID G92F126_042ZF: <a rel=\"nofollow\" class=\"external text\" href=\"http://digitalgallery.nypl.org/nypldigital/id?G92F126_042ZF\">digitalgallery.nypl.org</a> → <a rel=\"nofollow\" class=\"external text\" href=\"https://digitalcollections.nypl.org/search/index?keywords=G92F126_042ZF\">digitalcollections.nypl.org</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "10023432": {
+        "pageid": 10023432,
+        "ns": 6,
+        "title": "File:Alpine lakes, and mountain scenery, in the Cerro Blanco Mountains, Colorado, 18,000 feet above sea-level, by O’Sullivan, Timothy H., 1840-1882 3.png",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6291789,
+            "width": 2737,
+            "height": 1592,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882_3.png/960px-Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882_3.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 447,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882_3.png/1920px-Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882_3.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882_3.png/960px-Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882_3.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 447,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882_3.png/1920px-Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882_3.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882_3.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Alpine_lakes,_and_mountain_scenery,_in_the_Cerro_Blanco_Mountains,_Colorado,_18,000_feet_above_sea-level,_by_O%E2%80%99Sullivan,_Timothy_H.,_1840-1882_3.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10023432",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2010-04-16 05:47:44",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Alpine lakes, and mountain scenery, in the Cerro Blanco Mountains, Colorado, 18,000 feet above sea-level.</i></div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US|Artworks without Wikidata item|Artworks with known accession number|PD-scan (PD-US)|Images from the New York Public Library|Robert N. Dennis collection of stereoscopic views|PNGs with JPEG versions|NYPL 1st Lieut. Geo. M. Wheeler, Corps of Engineers Commanding|Stereoscopic photographs by Timothy H. O'Sullivan|NYPL by Timothy H. O'Sullivan",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nO’Sullivan, Timothy H., 1840-1882 -- Photographer</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "<p>Coverage: 1874.\nSource Imprint: 1874..\n</p>\nDigital item published 6-14-2006; updated 2-13-2009.",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This image is available from the <a href=\"//commons.wikimedia.org/wiki/New_York_Public_Library\" title=\"New York Public Library\">New York Public Library</a>'s Digital Library under the digital ID G92F126_043ZF: <a rel=\"nofollow\" class=\"external text\" href=\"http://digitalgallery.nypl.org/nypldigital/id?G92F126_043ZF\">digitalgallery.nypl.org</a> → <a rel=\"nofollow\" class=\"external text\" href=\"https://digitalcollections.nypl.org/search/index?keywords=G92F126_043ZF\">digitalcollections.nypl.org</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "10023433": {
+        "pageid": 10023433,
+        "ns": 6,
+        "title": "File:Alpine lakes, and mountain scenery, in the Cerro Blanco Mountains, Colorado, 18,000 feet above sea-level, by O’Sullivan, Timothy H., 1840-1882 3.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1901728,
+            "width": 2737,
+            "height": 1592,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882_3.jpg/960px-Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 447,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882_3.jpg/1920px-Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882_3.jpg/960px-Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 447,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882_3.jpg/1920px-Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Alpine_lakes%2C_and_mountain_scenery%2C_in_the_Cerro_Blanco_Mountains%2C_Colorado%2C_18%2C000_feet_above_sea-level%2C_by_O%E2%80%99Sullivan%2C_Timothy_H.%2C_1840-1882_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Alpine_lakes,_and_mountain_scenery,_in_the_Cerro_Blanco_Mountains,_Colorado,_18,000_feet_above_sea-level,_by_O%E2%80%99Sullivan,_Timothy_H.,_1840-1882_3.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10023433",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2010-04-16 05:47:47",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Alpine lakes, and mountain scenery, in the Cerro Blanco Mountains, Colorado, 18,000 feet above sea-level.</i></div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US|Artworks without Wikidata item|Artworks with known accession number|PD-scan (PD-US)|Images from the New York Public Library|Robert N. Dennis collection of stereoscopic views|NYPL 1st Lieut. Geo. M. Wheeler, Corps of Engineers Commanding|Stereoscopic photographs by Timothy H. O'Sullivan|NYPL by Timothy H. O'Sullivan",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nO’Sullivan, Timothy H., 1840-1882 -- Photographer</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "<p>Coverage: 1874.\nSource Imprint: 1874..\n</p>\nDigital item published 6-14-2006; updated 2-13-2009.",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This image is available from the <a href=\"//commons.wikimedia.org/wiki/New_York_Public_Library\" title=\"New York Public Library\">New York Public Library</a>'s Digital Library under the digital ID G92F126_043ZF: <a rel=\"nofollow\" class=\"external text\" href=\"http://digitalgallery.nypl.org/nypldigital/id?G92F126_043ZF\">digitalgallery.nypl.org</a> → <a rel=\"nofollow\" class=\"external text\" href=\"https://digitalcollections.nypl.org/search/index?keywords=G92F126_043ZF\">digitalcollections.nypl.org</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "24270187": {
+        "pageid": 24270187,
+        "ns": 6,
+        "title": "File:Alpine lake (5394426287).jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 223040,
+            "width": 1000,
+            "height": 750,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Alpine_lake_%285394426287%29.jpg/960px-Alpine_lake_%285394426287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/1/13/Alpine_lake_%285394426287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Alpine_lake_%285394426287%29.jpg/960px-Alpine_lake_%285394426287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/1/13/Alpine_lake_%285394426287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Alpine_lake_%285394426287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Alpine_lake_(5394426287).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24270187",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-01-27 16:53:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Alpine lake (5394426287)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Lungerersee|Taken with Canon Digital IXUS 870 IS|Flickr images reviewed by File Upload Bot (Magnus Manske)|Media needing category review as of 21 March 2016|Obsee|Files from InSapphoWeTrust Flickr stream|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "46.776644",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "8.141384",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The Berner Oberland region is dotted with alpine lakes like this. A very lovely scenery to drive through.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2009-11-02 13:32",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/skinnylawyer/5394426287/\">Alpine lake</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/56619626@N05\">InSapphoWeTrust</a> from Los Angeles, California, USA",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "47488542": {
+        "pageid": 47488542,
+        "ns": 6,
+        "title": "File:Snowy Range (in Aug.) and Alpine Lake, Boulder county, Col. Ter (NYPL b11707605-G90F004 002F).tiff",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 15300766,
+            "width": 3072,
+            "height": 1660,
+            "pagecount": 1,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Snowy_Range_%28in_Aug.%29_and_Alpine_Lake%2C_Boulder_county%2C_Col._Ter_%28NYPL_b11707605-G90F004_002F%29.tiff/lossy-page1-960px-Snowy_Range_%28in_Aug.%29_and_Alpine_Lake%2C_Boulder_county%2C_Col._Ter_%28NYPL_b11707605-G90F004_002F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 415,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Snowy_Range_%28in_Aug.%29_and_Alpine_Lake%2C_Boulder_county%2C_Col._Ter_%28NYPL_b11707605-G90F004_002F%29.tiff/lossy-page1-1920px-Snowy_Range_%28in_Aug.%29_and_Alpine_Lake%2C_Boulder_county%2C_Col._Ter_%28NYPL_b11707605-G90F004_002F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Snowy_Range_%28in_Aug.%29_and_Alpine_Lake%2C_Boulder_county%2C_Col._Ter_%28NYPL_b11707605-G90F004_002F%29.tiff/lossy-page1-960px-Snowy_Range_%28in_Aug.%29_and_Alpine_Lake%2C_Boulder_county%2C_Col._Ter_%28NYPL_b11707605-G90F004_002F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 415,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Snowy_Range_%28in_Aug.%29_and_Alpine_Lake%2C_Boulder_county%2C_Col._Ter_%28NYPL_b11707605-G90F004_002F%29.tiff/lossy-page1-1920px-Snowy_Range_%28in_Aug.%29_and_Alpine_Lake%2C_Boulder_county%2C_Col._Ter_%28NYPL_b11707605-G90F004_002F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Snowy_Range_%28in_Aug.%29_and_Alpine_Lake%2C_Boulder_county%2C_Col._Ter_%28NYPL_b11707605-G90F004_002F%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Snowy_Range_(in_Aug.)_and_Alpine_Lake,_Boulder_county,_Col._Ter_(NYPL_b11707605-G90F004_002F).tiff",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=47488542",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-03-12 20:57:52",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Snowy Range (in Aug.) and Alpine Lake, Boulder county, Col. Ter (NYPL b11707605-G90F004 002F)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Author died more than 70 years ago public domain images|Images uploaded by Fæ|PD-scan (PD-old-70)|Images from the New York Public Library|Robert N. Dennis collection of stereoscopic views|CC-PD-Mark|NYPL The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Photography Collection|Media needing category review as of 12 March 2016|PD-old missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Snowy Range (in Aug.) and Alpine Lake, Boulder county, Col. Ter.",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://digitalcollections.nypl.org/items/510d47e1-6286-a3d9-e040-e00a18064a99\">https://digitalcollections.nypl.org/items/510d47e1-6286-a3d9-e040-e00a18064a99</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Scan by NYPL",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "This image is available from the <a href=\"//commons.wikimedia.org/wiki/New_York_Public_Library\" title=\"New York Public Library\">New York Public Library</a>'s Digital Library under the digital ID 7d5b4b50-c534-012f-2546-58d385a7bc34: <a rel=\"nofollow\" class=\"external text\" href=\"http://digitalgallery.nypl.org/nypldigital/id?7d5b4b50-c534-012f-2546-58d385a7bc34\">digitalgallery.nypl.org</a> → <a rel=\"nofollow\" class=\"external text\" href=\"https://digitalcollections.nypl.org/search/index?keywords=7d5b4b50-c534-012f-2546-58d385a7bc34\">digitalcollections.nypl.org</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "72715306": {
+        "pageid": 72715306,
+        "ns": 6,
+        "title": "File:Mountains in the Alpine Lakes Wilderness-Okanogan-Wenatchee (24858170393).jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 580090,
+            "width": 1800,
+            "height": 1200,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Mountains_in_the_Alpine_Lakes_Wilderness-Okanogan-Wenatchee_%2824858170393%29.jpg/960px-Mountains_in_the_Alpine_Lakes_Wilderness-Okanogan-Wenatchee_%2824858170393%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 512,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/6/69/Mountains_in_the_Alpine_Lakes_Wilderness-Okanogan-Wenatchee_%2824858170393%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Mountains_in_the_Alpine_Lakes_Wilderness-Okanogan-Wenatchee_%2824858170393%29.jpg/960px-Mountains_in_the_Alpine_Lakes_Wilderness-Okanogan-Wenatchee_%2824858170393%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 512,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/6/69/Mountains_in_the_Alpine_Lakes_Wilderness-Okanogan-Wenatchee_%2824858170393%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Mountains_in_the_Alpine_Lakes_Wilderness-Okanogan-Wenatchee_%2824858170393%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mountains_in_the_Alpine_Lakes_Wilderness-Okanogan-Wenatchee_(24858170393).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=72715306",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-09-13 19:22:00",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Mountains in the Alpine Lakes Wilderness-Okanogan-Wenatchee (24858170393)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Larix lyallii|Alpine Lakes Wilderness|PD US USDA FS|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|USFS files uploaded by Tyler de Noche|Files from the U.S. Forest Service Pacific Northwest Region Flickr stream",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "47.590304",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-121.316699",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Mountain Scenery in the Alpine Lakes Wilderness on the Okanogan-Wenatchee National Forest in Washington's Cascades.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2005-10-03 21:00",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/forestservicenw/24858170393/\">Mountains in the Alpine Lakes Wilderness-Okanogan-Wenatchee</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/135886671@N08\">U.S. Forest Service- Pacific Northwest Region</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "119451104": {
+        "pageid": 119451104,
+        "ns": 6,
+        "title": "File:Lake Helen in June 2022-6022.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 15236020,
+            "width": 5927,
+            "height": 3537,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Lake_Helen_in_June_2022-6022.jpg/960px-Lake_Helen_in_June_2022-6022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 458,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Lake_Helen_in_June_2022-6022.jpg/1920px-Lake_Helen_in_June_2022-6022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Lake_Helen_in_June_2022-6022.jpg/960px-Lake_Helen_in_June_2022-6022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 458,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Lake_Helen_in_June_2022-6022.jpg/1920px-Lake_Helen_in_June_2022-6022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Lake_Helen_in_June_2022-6022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lake_Helen_in_June_2022-6022.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=119451104",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-06-20 14:41:48",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Lake Helen in June 2022-6022",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Lake Helen (California)|California State Route 89|Spring in California|June 2022 in California|Clouds and blue sky in California|Snowy landscapes in California|Self-published work|Featured pictures by Frank Schulenburg|Information field template with formatting|Frozen lakes of the United States|Mountains with clouds|Files with coordinates missing SDC location of creation|Snow in the United States in June|Mountains with snow in the United States|United States photographs taken on 2022-06-18|Lassen Volcanic National Park in 2022",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality|featured",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "40.468997",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-121.506028",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Winter scenery near Lake Helen in Lassen Volcanic National Park, in the early morning of June 18, 2022. The picture shows the National Park after a fresh layer of snow coated the landscape the day before. Clouds are moving in from Brokeoff Mountain (on the left). On the right hand side, Mount Diller and Pilot Pinnacle. The alpine Lake Helen, nestled at the base of Lassen Peak at an elevation of 8,169 feet, is still covered in snow and ice. Image taken from an elevated part of California State Route 89, which runs through the park.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-06-18 08:57:28",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q57175365\" class=\"extiw\" title=\"d:Q57175365\"><span title=\"German-American photographer, Wikipedian, and Executive Director of the Wiki Education Foundation\">Frank Schulenburg</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Attribution": {
+                "value": "© Frank Schulenburg",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

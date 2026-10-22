@@ -1,0 +1,208 @@
+{
+  "checkedAt": "2026-10-21T01:44:25.151Z",
+  "status": "BLOCKED",
+  "task": "Identify supported broad visible-content categories, allowing multiple coexisting categories; abstain rather than force a scene or identity claim.",
+  "approachLimit": 2,
+  "approaches": [
+    {
+      "id": "onnx-community/mobilenetv4_conv_small.e2400_r224_in1k",
+      "revision": "3ba07f12712fa58fd6b3d661f9909c9e332c5005",
+      "task": "ImageNet-1k dominant-content classification",
+      "classes": 1000,
+      "availableTaxonomy": "1,000 ImageNet labels, not six broad multi-label content categories",
+      "decision": "Not selected for the narrowed broad-content task; object-family coarsening would need a separately justified and calibrated mapping, and would not establish people or indoor/outdoor support."
+    },
+    {
+      "id": "Xenova/mobileclip_s0",
+      "revision": "757d59c9c6870a76a4b0306f05f5061bca15c39f",
+      "upstream": "apple/MobileCLIP-S0",
+      "upstreamRevision": "71aa3e13dda93115871afbd017336535ba29886c",
+      "task": "Zero-shot image/text matching with separate ONNX encoders",
+      "processor": {
+        "crop_size": {
+          "height": 256,
+          "width": 256
+        },
+        "do_center_crop": true,
+        "do_convert_rgb": true,
+        "do_normalize": false,
+        "do_rescale": true,
+        "do_resize": true,
+        "feature_extractor_type": "CLIPFeatureExtractor",
+        "image_processor_type": "CLIPFeatureExtractor",
+        "resample": 2,
+        "rescale_factor": 0.00392156862745098,
+        "size": {
+          "shortest_edge": 256
+        }
+      },
+      "assets": [
+        {
+          "rfilename": "config.json",
+          "blobId": "26a79793f4d5441683bfb30479bd54c6118c034a",
+          "size": 344
+        },
+        {
+          "rfilename": "onnx/text_model_int8.onnx",
+          "blobId": "bb2fc05caf4ab3c17974306eb21f17df935c63d2",
+          "size": 42799230,
+          "lfs": {
+            "sha256": "fc8d87978623385c17a46331ffb9cb5ab7fe8b61c513c094602b85f08edd0a0b",
+            "size": 42799230,
+            "pointerSize": 133
+          }
+        },
+        {
+          "rfilename": "onnx/text_model_quantized.onnx",
+          "blobId": "6b553f17546068ca9a233e4dfdf875ba4e9d0e8f",
+          "size": 42799238,
+          "lfs": {
+            "sha256": "b8557b10e5c23a0126c6d2e6eba48d240484979007917d128953b31618a04211",
+            "size": 42799238,
+            "pointerSize": 133
+          }
+        },
+        {
+          "rfilename": "onnx/vision_model_int8.onnx",
+          "blobId": "daa0306b6509209fa291d2c3e700dee66531178b",
+          "size": 11846808,
+          "lfs": {
+            "sha256": "7a1b45f57fb9f3cde9d325759883e9451d7281336caeb9c576ae918e72080f0b",
+            "size": 11846808,
+            "pointerSize": 133
+          }
+        },
+        {
+          "rfilename": "onnx/vision_model_quantized.onnx",
+          "blobId": "77b0758d04cb9816c54c8a4e5779dee1a5a9bdb3",
+          "size": 11846843,
+          "lfs": {
+            "sha256": "fcbd153d1aa1314fb72ea39b20c37e0572e7e7b05359b51f3efee5d682658472",
+            "size": 11846843,
+            "pointerSize": 133
+          }
+        },
+        {
+          "rfilename": "preprocessor_config.json",
+          "blobId": "277bed5987c4c300a13608aa6901968ad6f0d21c",
+          "size": 382
+        },
+        {
+          "rfilename": "tokenizer.json",
+          "blobId": "f9d4455c06f24d31797f7cd3e480a83d7a84cb97",
+          "size": 2224081
+        },
+        {
+          "rfilename": "tokenizer_config.json",
+          "blobId": "408328b7dd4bcb43edb9cd70b2200178c320572b",
+          "size": 763
+        }
+      ],
+      "minimalQ8Files": [
+        "onnx/text_model_quantized.onnx",
+        "onnx/vision_model_quantized.onnx",
+        "config.json",
+        "preprocessor_config.json",
+        "tokenizer.json",
+        "tokenizer_config.json"
+      ],
+      "modelSupportBytes": 56871651,
+      "modelSupportAndExistingRuntimeBytes": 83786485,
+      "assetVerification": "Remote sizes and hashes advertised by pinned Hub metadata only; no graph downloaded or independently hashed.",
+      "browserFeasibility": "Converter documents Transformers.js CLIPVisionModelWithProjection and CLIPTextModelWithProjection; exact exports not executed locally",
+      "decision": "Stopped before weight download: current upstream research-only model terms and converter's different software license do not substantiate product-use/redistribution clearance for the exact export. No claim of retroactive license applicability is made. Both q8 encoders plus existing runtime exceed the 80MB bound; vision-only inference with precomputed fixed text embeddings could reduce delivery below 50MB but was not implemented or measured and does not resolve licensing."
+    }
+  ],
+  "runtimeBytes": 26914834,
+  "localAssetChecks": [
+    {
+      "path": "mobilenetv4/config.json",
+      "bytes": 69895,
+      "sha256": "ae99506e66f8e19bc73809e5b4c3ae31fc7c2bca53752dc7cb89c1e47831a335",
+      "match": true
+    },
+    {
+      "path": "mobilenetv4/preprocessor_config.json",
+      "bytes": 441,
+      "sha256": "21bb2bccbd790ded22ca9ac77758578bae4d90d8fc578a612097bd38e9d40b2f",
+      "match": true
+    },
+    {
+      "path": "mobilenetv4/onnx/model.onnx",
+      "bytes": 15086122,
+      "sha256": "ca5b8dbf490f54e83c5d72f787821565447ea94347935f6b834cf0a4af0e8d37",
+      "match": true
+    },
+    {
+      "path": "runtime/ort-wasm-simd-threaded.asyncify.mjs",
+      "bytes": 53057,
+      "sha256": "0966b6105cd936744498aa60df7a22cbd47af3374dbc64a9ab561c08a71e3611",
+      "match": true
+    },
+    {
+      "path": "runtime/ort-wasm-simd-threaded.asyncify.wasm",
+      "bytes": 26861777,
+      "sha256": "49871f5a4409519797e127440868a6d1923339d9185907f301a5b2a1d90af082",
+      "match": true
+    }
+  ],
+  "limitsUsed": {
+    "approaches": 2,
+    "newModelWeightDownloads": 0,
+    "newImages": 0,
+    "newHeldOutPasses": 0,
+    "newBrowserInferenceBackends": 0
+  },
+  "evaluationDisposition": "Eligibility stopped before new corpus collection, scoring-protocol freeze, threshold fitting or held-out inference. Not an image-access failure. Previous test data is diagnostic context only; no new metrics or class thresholds are claimed.",
+  "productionIntegrated": false,
+  "records": [
+    {
+      "url": "https://huggingface.co/api/models/Xenova/mobileclip_s0?blobs=true",
+      "savedAs": "mobileclip-converter-api.json",
+      "bytes": 5443,
+      "sha256": "76a7518c02d8b71f4fc8a8f5dbf00623f88495e448b9a4b364b90c7a1154b40f"
+    },
+    {
+      "url": "https://huggingface.co/api/models/apple/MobileCLIP-S0?blobs=true",
+      "savedAs": "mobileclip-source-api.json",
+      "bytes": 1328,
+      "sha256": "16270b73276f0cb7955a3f8c3e7c8b55355548d25cdbc25f149d1516d7fb8106"
+    },
+    {
+      "url": "https://huggingface.co/Xenova/mobileclip_s0/resolve/757d59c9c6870a76a4b0306f05f5061bca15c39f/LICENSE",
+      "savedAs": "converter-LICENSE.txt",
+      "bytes": 2671,
+      "sha256": "18e4e6b95d7272051fabdad125ba0467549c181ef20b7fa0eafbac3825471483"
+    },
+    {
+      "url": "https://huggingface.co/apple/MobileCLIP-S0/resolve/71aa3e13dda93115871afbd017336535ba29886c/LICENSE",
+      "savedAs": "source-LICENSE.txt",
+      "bytes": 5820,
+      "sha256": "d8f5d9dfbdb60dc81b8f1720421699e7811070f0b46f6668f90253d5ac8c0b20"
+    },
+    {
+      "url": "https://huggingface.co/Xenova/mobileclip_s0/resolve/757d59c9c6870a76a4b0306f05f5061bca15c39f/README.md",
+      "savedAs": "converter-card.md",
+      "bytes": 2091,
+      "sha256": "d8f7858dbd6044cb04fecf670cc7f8fd36b098e2c61ec3ae909cf53005fca8eb"
+    },
+    {
+      "url": "https://huggingface.co/apple/MobileCLIP-S0/resolve/71aa3e13dda93115871afbd017336535ba29886c/README.md",
+      "savedAs": "source-card.md",
+      "bytes": 4168,
+      "sha256": "ad49da3e4e2b8ff8d48c1747f8f7384e0bc8fe94a6889e4747c23f24d789e940"
+    },
+    {
+      "url": "https://huggingface.co/Xenova/mobileclip_s0/resolve/757d59c9c6870a76a4b0306f05f5061bca15c39f/preprocessor_config.json",
+      "savedAs": "processor.json",
+      "bytes": 382,
+      "sha256": "b031f09fbd69e22a605b6cc7433993249ee893b7fc1b79321f669cd015493dd4"
+    },
+    {
+      "url": "https://huggingface.co/Xenova/mobileclip_s0/resolve/757d59c9c6870a76a4b0306f05f5061bca15c39f/config.json",
+      "savedAs": "config.json",
+      "bytes": 344,
+      "sha256": "8e33c1f2634a33de3e38715f9809ef86742aacbe31c310c66fc2636755458d56"
+    }
+  ]
+}

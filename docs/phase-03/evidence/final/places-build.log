@@ -1,0 +1,30 @@
+
+> ouahad-hidden-data@0.1.0 build:research
+> node scripts/run-next.mjs build research
+
+▲ Next.js 16.4.0 (Turbopack)
+✓ Running next.config.ts took 59ms
+
+  Creating an optimized production build ...
+✓ Compiled successfully in 5.9s
+  Running TypeScript ...
+  Finished TypeScript in 7.6s ...
+  Collecting page data using 7 workers ...
+  Generating static pages using 7 workers (0/4) ...
+  Generating static pages using 7 workers (1/4) 
+  Generating static pages using 7 workers (2/4) 
+  Generating static pages using 7 workers (3/4) 
+✓ Generating static pages using 7 workers (4/4) in 1483ms
+  Finalizing page optimization ...
+
+Route (app)
+┌ ○ /
+├ ○ /_not-found
+├ ƒ /ai/[...path]
+├ ƒ /experiments/ai/[...path]
+└ ○ /experiments/vision
+
+
+○  (Static)   prerendered as static content
+ƒ  (Dynamic)  server-rendered on demand
+

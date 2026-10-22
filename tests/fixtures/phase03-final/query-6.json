@@ -1,0 +1,1179 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 10,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "9364248": {
+        "pageid": 9364248,
+        "ns": 6,
+        "title": "File:Horse in pasture - geograph.org.uk - 247585.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 108746,
+            "width": 480,
+            "height": 640,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Horse_in_pasture_-_geograph.org.uk_-_247585.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 768,
+            "thumbheight": 1024,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Horse_in_pasture_-_geograph.org.uk_-_247585.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1024
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Horse_in_pasture_-_geograph.org.uk_-_247585.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Horse_in_pasture_-_geograph.org.uk_-_247585.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=9364248",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2010-02-01 15:36:18",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Horse in pasture - geograph.org.uk - 247585",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Fujifilm FinePix A405|Images from Geograph Britain and Ireland|Information field template with formatting|Horses of Scotland|Images by Stanley Howe|United Kingdom photographs taken on 2005-10-29|Images from Geograph Britain and Ireland missing SDC coordinates of the point of view|Multiply patterned spotted horses|Spotted buckskin horses",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "57.008500",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-4.385000",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Horse in pasture. Sherramore farm",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2005-10-29",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "From <a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/247585\">geograph.org.uk</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/7629\">Stanley Howe</a>",
+                "source": "commons-desc-page"
+              },
+              "Attribution": {
+                "value": "Stanley Howe",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "12589177": {
+        "pageid": 12589177,
+        "ns": 6,
+        "title": "File:Horse Pasture - geograph.org.uk - 376373.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 135631,
+            "width": 478,
+            "height": 640,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Horse_Pasture_-_geograph.org.uk_-_376373.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 768,
+            "thumbheight": 1028,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/6/64/Horse_Pasture_-_geograph.org.uk_-_376373.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1028
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Horse_Pasture_-_geograph.org.uk_-_376373.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Horse_Pasture_-_geograph.org.uk_-_376373.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=12589177",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-12-28 00:39:23",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Horse Pasture - geograph.org.uk - 376373",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS 350D|Images from Geograph Britain and Ireland|United Kingdom photographs taken on 2007-03-24|Images from Geograph Britain and Ireland needing category review|Information field template with formatting|Images by Tony Atkin|Horses on pasture in Cornwall",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "50.509730",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-4.426900",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Horse Pasture",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2007-03-24",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "From <a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/376373\">geograph.org.uk</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/1324\">Tony Atkin</a>",
+                "source": "commons-desc-page"
+              },
+              "Attribution": {
+                "value": "Tony Atkin",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "13425297": {
+        "pageid": 13425297,
+        "ns": 6,
+        "title": "File:Horse Pasture - geograph.org.uk - 754524.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 245129,
+            "width": 640,
+            "height": 427,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Horse_Pasture_-_geograph.org.uk_-_754524.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 768,
+            "thumbheight": 512,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Horse_Pasture_-_geograph.org.uk_-_754524.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 512
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Horse_Pasture_-_geograph.org.uk_-_754524.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Horse_Pasture_-_geograph.org.uk_-_754524.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=13425297",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-02-19 15:11:21",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Horse Pasture - geograph.org.uk - 754524",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS 350D|Images from Geograph Britain and Ireland|Images from Geograph Britain and Ireland needing category review|Information field template with formatting|Fields in Worcestershire|Images by Bob Embleton|United Kingdom photographs taken on 2008-04-04|Horses of Worcestershire",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "52.053330",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-2.238300",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Horse Pasture Just off Yewleigh Lane. Taken from the footpath to Cowhills Farm.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2008-04-04",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "From <a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/754524\">geograph.org.uk</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/125\">Bob Embleton</a>",
+                "source": "commons-desc-page"
+              },
+              "Attribution": {
+                "value": "Bob Embleton",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "13670032": {
+        "pageid": 13670032,
+        "ns": 6,
+        "title": "File:Horse pasture - geograph.org.uk - 970993.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 165233,
+            "width": 480,
+            "height": 640,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Horse_pasture_-_geograph.org.uk_-_970993.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 768,
+            "thumbheight": 1024,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Horse_pasture_-_geograph.org.uk_-_970993.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1024
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Horse_pasture_-_geograph.org.uk_-_970993.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Horse_pasture_-_geograph.org.uk_-_970993.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=13670032",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-02-22 20:34:51",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Horse pasture - geograph.org.uk - 970993",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon PowerShot S3 IS|Horsford|Images from Geograph Britain and Ireland|Information field template with formatting|Images by Evelyn Simak|United Kingdom photographs taken on 2008-09-20|Horses of Norfolk, England",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "52.710830",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "1.248700",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Horse pasture. A small gap in the vegetation lining Green Lane permits a glimpse of the large horse pasture beside it. Green Lane turns off the B1149, leading east past North Farm &gt; <a href=\"//commons.wikimedia.org/wiki/File:North_Farm_-_geograph.org.uk_-_970935.jpg\" title=\"File:North Farm - geograph.org.uk - 970935.jpg\">970935</a> and Green Lane Farm &gt; <a href=\"//commons.wikimedia.org/wiki/File:Here_the_surfaced_road_ends_-_geograph.org.uk_-_970978.jpg\" title=\"File:Here the surfaced road ends - geograph.org.uk - 970978.jpg\">970978</a> from where it turns into an unsurfaced track which traverses Lodge Hill Larch Plantation &gt; <a href=\"//commons.wikimedia.org/wiki/File:Lodge_Hill_Larch_Plantation_-_geograph.org.uk_-_389008.jpg\" title=\"File:Lodge Hill Larch Plantation - geograph.org.uk - 389008.jpg\">389008</a> and Gravelpit Plantation &gt; <a href=\"//commons.wikimedia.org/wiki/File:Gravelpit_Plantation_near_Heath_Farm_-_geograph.org.uk_-_557368.jpg\" title=\"File:Gravelpit Plantation near Heath Farm - geograph.org.uk - 557368.jpg\">557368</a> passing Heath Farm. A surfaced road again in its easternmost section the lane connects with the A140 by Horsham St Faith.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2008-09-20",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "From <a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/970993\">geograph.org.uk</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/14840\">Evelyn Simak</a>",
+                "source": "commons-desc-page"
+              },
+              "Attribution": {
+                "value": "Evelyn Simak",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "14278300": {
+        "pageid": 14278300,
+        "ns": 6,
+        "title": "File:A horse pasture - geograph.org.uk - 1533467.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 151196,
+            "width": 640,
+            "height": 513,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/7/75/A_horse_pasture_-_geograph.org.uk_-_1533467.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 768,
+            "thumbheight": 616,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/7/75/A_horse_pasture_-_geograph.org.uk_-_1533467.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 616
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/A_horse_pasture_-_geograph.org.uk_-_1533467.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:A_horse_pasture_-_geograph.org.uk_-_1533467.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=14278300",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-03-03 05:43:57",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "A horse pasture - geograph.org.uk - 1533467",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon PowerShot S3 IS|Images from Geograph Britain and Ireland|Information field template with formatting|Images by Evelyn Simak|United Kingdom photographs taken on 2009-10-13|Horses of Norfolk, England",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "52.564920",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "1.337000",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A horse pasture Poultry units at Grove Farm can be seen in the background.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2009-10-13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "From <a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/1533467\">geograph.org.uk</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/14840\">Evelyn Simak</a>",
+                "source": "commons-desc-page"
+              },
+              "Attribution": {
+                "value": "Evelyn Simak",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "83288505": {
+        "pageid": 83288505,
+        "ns": 6,
+        "title": "File:Parco Naturale Tre Cime horses 3.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3155555,
+            "width": 4200,
+            "height": 2800,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Parco_Naturale_Tre_Cime_horses_3.jpg/960px-Parco_Naturale_Tre_Cime_horses_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 512,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Parco_Naturale_Tre_Cime_horses_3.jpg/1920px-Parco_Naturale_Tre_Cime_horses_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Parco_Naturale_Tre_Cime_horses_3.jpg/960px-Parco_Naturale_Tre_Cime_horses_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 512,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Parco_Naturale_Tre_Cime_horses_3.jpg/1920px-Parco_Naturale_Tre_Cime_horses_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Parco_Naturale_Tre_Cime_horses_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Parco_Naturale_Tre_Cime_horses_3.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=83288505",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-10-30 14:47:00",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Parco Naturale Tre Cime horses 3",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Lake Misurina|Horses of Italy|Naturpark Drei Zinnen|Self-published work|Featured pictures of horses|6 horses|Featured pictures on Wikipedia, Bengali|Horses on pasture|Golden hour landscapes|Clouds and blue sky in Italy|Italy photographs taken on 2019-09-17|Featured pictures of the Alps in Trentino-South Tyrol|Horses at golden hour|2019 in South Tyrol|Ramo di San Lucano",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality|featured|potd",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Horses on pasture at Parco Naturale Tre Cime, the Dolomites, South Tyrol, Italy.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-09-17 19:53",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Kallerna\" title=\"User:Kallerna\">kallerna</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "106557425": {
+        "pageid": 106557425,
+        "ns": 6,
+        "title": "File:Horse pastures - geograph.org.uk - 2163318.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 151241,
+            "width": 1024,
+            "height": 768,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Horse_pastures_-_geograph.org.uk_-_2163318.jpg/960px-Horse_pastures_-_geograph.org.uk_-_2163318.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Horse_pastures_-_geograph.org.uk_-_2163318.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Horse_pastures_-_geograph.org.uk_-_2163318.jpg/960px-Horse_pastures_-_geograph.org.uk_-_2163318.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Horse_pastures_-_geograph.org.uk_-_2163318.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Horse_pastures_-_geograph.org.uk_-_2163318.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Horse_pastures_-_geograph.org.uk_-_2163318.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=106557425",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-06-14 01:45:04",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Horse pastures - geograph.org.uk - 2163318",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Castleford, West Yorkshire|Images from Geograph Britain and Ireland|Pastures in West Yorkshire|Horses of West Yorkshire",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "53.723799",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-1.387847",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Horse pastures <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Horse_pastures_-_geograph.org.uk_-_2163318.jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2010-11-16",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/2163318\">Geograph Britain and Ireland</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Horse_pastures_-_geograph.org.uk_-_2163318.jpg#P7482\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/41405\">Christine Johnstone</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Horse_pastures_-_geograph.org.uk_-_2163318.jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<i>Horse pastures</i> by Christine Johnstone",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "114247441": {
+        "pageid": 114247441,
+        "ns": 6,
+        "title": "File:Horses in pasture - geograph.org.uk - 3048922.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 240491,
+            "width": 1600,
+            "height": 1250,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Horses_in_pasture_-_geograph.org.uk_-_3048922.jpg/960px-Horses_in_pasture_-_geograph.org.uk_-_3048922.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 600,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Horses_in_pasture_-_geograph.org.uk_-_3048922.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Horses_in_pasture_-_geograph.org.uk_-_3048922.jpg/960px-Horses_in_pasture_-_geograph.org.uk_-_3048922.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 600,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Horses_in_pasture_-_geograph.org.uk_-_3048922.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Horses_in_pasture_-_geograph.org.uk_-_3048922.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Horses_in_pasture_-_geograph.org.uk_-_3048922.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=114247441",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-01-13 05:26:02",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Horses in pasture - geograph.org.uk - 3048922",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Images from Geograph Britain and Ireland|Horses of Northumberland|Pastures in Northumberland|Fields in Warkworth, Northumberland (civil parish)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "55.335269",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-1.631095",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Horses in pasture <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Horses_in_pasture_-_geograph.org.uk_-_3048922.jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2012-07-22",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/3048922\">Geograph Britain and Ireland</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Horses_in_pasture_-_geograph.org.uk_-_3048922.jpg#P7482\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/23874\">Russel Wills</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Horses_in_pasture_-_geograph.org.uk_-_3048922.jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<i>Horses in pasture</i> by Russel Wills",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "140847756": {
+        "pageid": 140847756,
+        "ns": 6,
+        "title": "File:Horses in pasture (c.1872), by Giovanni Fattori.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1335282,
+            "width": 2800,
+            "height": 1423,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Horses_in_pasture_%28c.1872%29%2C_by_Giovanni_Fattori.jpg/960px-Horses_in_pasture_%28c.1872%29%2C_by_Giovanni_Fattori.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 390,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Horses_in_pasture_%28c.1872%29%2C_by_Giovanni_Fattori.jpg/1920px-Horses_in_pasture_%28c.1872%29%2C_by_Giovanni_Fattori.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Horses_in_pasture_%28c.1872%29%2C_by_Giovanni_Fattori.jpg/960px-Horses_in_pasture_%28c.1872%29%2C_by_Giovanni_Fattori.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 390,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Horses_in_pasture_%28c.1872%29%2C_by_Giovanni_Fattori.jpg/1920px-Horses_in_pasture_%28c.1872%29%2C_by_Giovanni_Fattori.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Horses_in_pasture_%28c.1872%29%2C_by_Giovanni_Fattori.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Horses_in_pasture_(c.1872),_by_Giovanni_Fattori.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=140847756",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-11-15 18:39:44",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<div style=\"font-size:0.9em;display:inline-block;\">Italian:  <div style=\"display:inline-block\" dir=\"ltr\" lang=\"it\"><i>Cavalli al pascolo</i></div></div><br><div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Horses in pasture</i></div></div><div style=\"display: none;\">title QS:P1476,it:\"Cavalli al pascolo\"</div><div style=\"display: none;\">label QS:Lit,\"Cavalli al pascolo\"</div><div style=\"display: none;\">label QS:Len,\"Horses in pasture\"</div></div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Horses of Italy|Paintings by Giovanni Fattori|PD-old-100-expired|PD-Art (PD-old-auto-expired)|Paintings of horses in Italy|Italian MiBAC disclaimer warning|CC-PD-Mark|1872 paintings in Italy|1872 oil on canvas paintings|Paintings without Wikidata item|1872 landscape paintings from Italy|Institution templates with redirected Wikidata link|1872 paintings by Giovanni Fattori|Pastures in art|Uploads by Niketto sr.|Paintings in the Istituto Matteucci, Viareggio|1870s oil paintings of horses",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Giovanni_Fattori\" class=\"extiw\" title=\"w:en:Giovanni Fattori\"><span title=\"Italian painter and engraver (1825-1908)\">Giovanni Fattori</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\nHorses in pasture (c.1872), by Giovanni Fattori</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "circa 1872<div style=\"display: none;\">date QS:P571,+1872-00-00T00:00:00Z/9,P1480,Q5727902</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.arte.it/foto/a-padova-un%E2%80%99antologica-su-giovanni-fattori-389/4#\">arte.it</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "ita-mibac",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "146068060": {
+        "pageid": 146068060,
+        "ns": 6,
+        "title": "File:Horse and cattle on pasture 1960 (JOKAMT2Kar115-1).tif",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 57236316,
+            "width": 5139,
+            "height": 3711,
+            "pagecount": 1,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Horse_and_cattle_on_pasture_1960_%28JOKAMT2Kar115-1%29.tif/lossy-page1-960px-Horse_and_cattle_on_pasture_1960_%28JOKAMT2Kar115-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 555,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Horse_and_cattle_on_pasture_1960_%28JOKAMT2Kar115-1%29.tif/lossy-page1-1920px-Horse_and_cattle_on_pasture_1960_%28JOKAMT2Kar115-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Horse_and_cattle_on_pasture_1960_%28JOKAMT2Kar115-1%29.tif/lossy-page1-960px-Horse_and_cattle_on_pasture_1960_%28JOKAMT2Kar115-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 555,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Horse_and_cattle_on_pasture_1960_%28JOKAMT2Kar115-1%29.tif/lossy-page1-1920px-Horse_and_cattle_on_pasture_1960_%28JOKAMT2Kar115-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Horse_and_cattle_on_pasture_1960_%28JOKAMT2Kar115-1%29.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Horse_and_cattle_on_pasture_1960_(JOKAMT2Kar115-1).tif",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146068060",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-03-04 17:22:12",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Horse and cattle on pasture",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "1960 in Finland|History of Hyvinkää|Finna review needed|Cows in Finland|Black and white photographs of Finland in the 1960s|Pastures in Finland|Photographs taken on 1960-06-16|Files uploaded by FinnaUploadBot|JOKA Press Photo Archive|Photographs by Erkki Voutilainen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q123584377\" class=\"extiw\" title=\"d:Q123584377\"><span title=\"Finnish photographer\">Erkki Voutilainen</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Cattle on pasture in Hyvinkää, Finland on 16th June 1960.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "16 June 1960<div style=\"display: none;\">date QS:P571,+1960-06-16T00:00:00Z/11</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://finna.fi/Record/museovirasto.356C57740BC7792F6F09FB72C6B3E030\">https://finna.fi/Record/museovirasto.356C57740BC7792F6F09FB72C6B3E030</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/deed.fi\">CC BY 4.0</a>; ['Tiedostoa voi käyttää vapaasti myös kaupallisesti. Tiedoston yhteydessä on mainittava tekijä ja/tai kuvaaja sekä kokoelman ja organisaation nimi. \\n\\nKäyttöohjeet:\\nKäyttäjä vastaa tekijänoikeuksien ja yksityisyyden suojan kunnioittamisesta sekä siitä, että tiedot ovat oikein. Henkilökuvien käyttö markkinoinnissa ja mainonnassa on kielletty ilman kuvassa olevan henkilön suostumusta. Käyttäjä vastaa lupien hankkimisesta tiedostoissa esiintyvien henkilöiden, teosten ja tavaramerkkien osalta. Käyttäjä vastaa käyttötarkoituksen mukaisesta tiedostonkäsittelystä. Pyydämme toimittamaan Museoviraston kirjastoon vapaakappaleen painetusta julkaisusta, jossa tiedostoa on käytetty. Jos ladattavan tiedoston ominaisuudet eivät ole riittävät, ota yhteyttä Museoviraston Kuvakokoelmiin (kuvakokoelmat@museovirasto.fi). \\n\\n3D: FINNA-palvelussa on julkaistu 3D mallista verkkoesittämiseen soveltuva kevennetty versio.']",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

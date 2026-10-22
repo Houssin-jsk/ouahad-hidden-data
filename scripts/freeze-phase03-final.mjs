@@ -1,0 +1,95 @@
+import { readFile, writeFile } from "node:fs/promises";
+const source = JSON.parse(
+  await readFile("tests/fixtures/phase03-final/sources.json"),
+);
+const accepted = [
+  [0],
+  [0],
+  [1],
+  [1, 5],
+  [],
+  [2],
+  [0, 3],
+  [3],
+  [4],
+  [4],
+  [5],
+  [5],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [2],
+  [],
+];
+const observations = [
+  "Snowy mountain lake",
+  "Historical stereo waterfall forest",
+  "City skyline",
+  "Low-light city traffic, heavily obscured",
+  "Painting depicting a dining room: outside photographic scope",
+  "Dining room",
+  "Mountain pasture with small horses: mixed",
+  "Giraffe in zoo",
+  "Meal served at table",
+  "Bowl of fruit",
+  "Steam locomotive wheels",
+  "Sailing yacht",
+  "Portrait",
+  "Portrait",
+  "Flower macro",
+  "Orchid macro",
+  "Watch closeup",
+  "Necklace closeup",
+  "Bark texture",
+  "Rock texture",
+  "Abstract artwork",
+  "Sculpture",
+  "Indoor textile factory with people",
+  "Manuscript page",
+];
+const labels = [
+  "natural scenery",
+  "buildings and city streets",
+  "an indoor room",
+  "animals",
+  "food or a meal",
+  "vehicles used for transportation",
+];
+await writeFile(
+  "tests/fixtures/phase03-final/benchmark.json",
+  JSON.stringify(
+    {
+      version: "final-tiny-v1",
+      frozenBeforeHeldOutInference: true,
+      labels,
+      prompts: labels.map((x) => `a photo of ${x}`),
+      annotations:
+        "One visual annotator; no independent adjudication available. Set-valued principal visible content; people/flowers/jewelry/textures/art/documents outside these six concepts. Incidental background alone does not establish applicability. Mixed labels allowed. Source 04 is a painting,20 artwork,23 manuscript; 21 natural photographic originals plus3 non-natural challenge originals; target24 natural not fully met. No model outputs used for selection/annotation.",
+      preprocessing:
+        "Exact pinned CLIP processor: shorter-edge224 then center crop224, bicubic, rescale1/255 and official CLIP channel normalization; white alpha composite.",
+      calibration:
+        "For each predicted category separately, search score and top-minus-second margin over calibration rows only. Require precision>=.9 and no unsupported acceptance. Maximize correct acceptances, then stricter score then stricter margin. Categories with no safe calibration support abstain. Freeze resulting policy before scoring test originals once.",
+      gates: {
+        relevance: 0.8,
+        precision: 0.9,
+        coverage: 0.5,
+        unsupportedAccepted: 0,
+        minimumCorrectAccepted: 4,
+      },
+      cases: source.records.map((r, i) => ({
+        ...r,
+        acceptedIds: accepted[i].map((j) => labels[j]),
+        observation: observations[i],
+      })),
+    },
+    null,
+    2,
+  ),
+);

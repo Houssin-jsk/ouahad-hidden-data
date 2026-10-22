@@ -1,0 +1,60 @@
+# Phase 01 product and reliability audit
+
+Audit date: 2026-10-20. Scope: the existing combined working tree, not just HEAD. Numerous AI/research/configuration/UI changes were already present before this task; they were preserved. Historical phase reports are evidence of prior work, not substitutes for the checks recorded in this directory. Nothing was deployed, pushed, merged or committed.
+
+## Verified architecture
+
+- npm project with lockfile; installed Next.js **16.4.0**, React/React DOM **19.3.0**, TypeScript **5.9.3**, ExifReader **4.50.0**, Playwright **1.64.0**. `package.json` uses compatible ranges for several packages; installed versions come from the lockfile/package metadata, not those minimum ranges. Runtime dependencies: Next, React, React DOM, Lucide and ExifReader. Transformers **4.3.1** is development-only and excluded from the release graph.
+- Strict TypeScript, bundler module resolution, ES2020 target and DOM libraries; no emit. `tsconfig.json` includes app/tests/research source and generated Next route types. ESLint uses Next core-web-vitals and TypeScript flat configurations. No CI workflow directory was found.
+- `src/app/layout.tsx` sets English, metadata and local brand icon; `src/app/page.tsx` renders the client `ImageLab`. `src/app/globals.css` contains the existing warm visual system, responsive layouts, visible focus styles, reduced-motion rules and long-content wrapping. No speculative redesign was needed.
+- `scripts/run-next.mjs` forces normal dev/build/start to the release target. `next.config.ts` selects separate `.next`/`.next-research` output directories and research route extensions. Production build has `/`, framework not-found/global-error pages; no analysis API. Research-only route files are `src/app/experiments/vision/page.research.tsx`, `src/app/ai/[...path]/route.research.ts`, `src/app/experiments/ai/[...path]/route.research.ts`.
+- Journey: local file chooser or one-file drop → signature/MIME/size validation → native preview decode → explicit Analyze → transferable ImageBitmap plus File to a dedicated worker → pixel statistics/metadata/maps → timed presentation → result tabs. Replace/clear/cancel invalidate a generation token, terminate work and revoke owned URLs. Home points to `/`; footer anchors to the method disclosure.
+- Worker: `src/analysis/analysis.worker.ts` invokes `sampling.ts`, `pixels.ts`, `metadata.ts`, `maps.ts`; returns `AnalysisResult` from `types.ts`. Source pixels are sRGB canvas readback. Maximum input is 20 MiB and 40 million pixels. Measurement sample budget is 262,144; native tiles are at most 512 × 512. Spatial maps independently downscale to a longest edge of 512.
+- Normal Vercel compatibility is checked through a static Next production build and `scripts/verify-release.mjs`, not by changing or probing production. No custom deployment configuration, credentials or hosted service is needed for the core flow. Local tests used Node **24.15.0**, npm **11.12.1**. Installed Next declares Node >=20.9; production account/runtime settings were not accessed.
+
+## Feature inventory (final classification)
+
+| Capability | Classification | Paths and evidence |
+| --- | --- | --- |
+| JPEG/PNG/WebP selection, MIME/signature limits and decode | VERIFIED | `analysis/files.ts`, `components/image-lab.tsx`; unit format/header cases, browser `lab.spec.ts` and `phase01.spec.ts`. Misleading MIME rejected; extensions are not trusted. |
+| Single-file drop, empty/error recovery, replacement/reset | VERIFIED | `image-lab.tsx`; real mobile-emulated drop, invalid/oversized files, same-file replacement, worker replacement and cleanup regressions. |
+| Preview orientation and dimensions | VERIFIED | Native decoder plus ImageBitmap; all EXIF 1–8 fixtures exercise dimension swaps and independently expected corner luminances in worker maps. |
+| File properties and units | VERIFIED | `results.tsx`, `lib/format.ts`; actual dimensions/aspect ratio/bytes/signature; binary labels corrected to KiB/MiB. |
+| Average RGB and palette | VERIFIED | `pixels.ts`; alpha × cell-area weighting, encoded RGB mean, 5-bit buckets and deterministic weighted k-means up to six families. Uniform primaries, 75/25 split, traversal ties, alpha tests and browser readback. Palette families are approximate, not semantic names. |
+| Luminance, histogram, tonal statistics | VERIFIED | `pixels.ts`; linear sRGB Rec.709 weights, 32 equal bins, weighted Welford population variance, min/max, product-defined <0.2/<0.7 bands. Independent ramp reference, all bin counts, endpoint/normalization and checkerboard tests. |
+| Image DNA | VERIFIED | `analysis/dna.ts`; deterministic measured summary with sample basis, no generative AI or unsupported inference. Unit and browser tests. |
+| EXIF, PNG software, recorded time/settings | VERIFIED | `metadata.ts`, `metadata-results.tsx`, synthetic `fixtures/exif.ts`; missing vs parse-error states, all orientation labels, actual browser PNG software test. Parser errors never echo metadata. Selected tags only, not an exhaustive metadata viewer. |
+| GPS detection/reveal/hide | VERIFIED | `metadata-results.tsx`; hidden by default, finite/range validation and explicit on-screen disclosure; real browser reveal/hide/replacement and no-image-upload checks. No geocoding/maps or external links. |
+| Light/detail/compare maps | VERIFIED | `maps.ts`, `spatial-preview.tsx`; fixed-scale light and per-image-normalized Sobel, alpha-kernel exclusion, comparison slider and URL cleanup. Uniform/ramp/step deterministic references plus rendered map pixel checks. |
+| Sharpness, blur or image-quality score | UNUSED / OBSOLETE (not implemented) | No such score is exported. Sobel map explicitly says it is not a quality/sharpness score. Tonal spread is not a universal contrast/exposure assessment. |
+| Loading stages and cancellation | VERIFIED | `loading/presentation.ts`, loading components and `image-lab.tsx`; genuine worker stages, independent configurable 6s presentation, fast/slow/cancel/replacement tests; early calculation completion is disclosed. |
+| Result tabs, clipboard export, keyboard/focus/mobile | VERIFIED | `results.tsx`, `image-lab.tsx`, stylesheet; arrow/Home/End result tabs, keyboard file chooser, HEX clipboard, cancel focus, reduced motion, contrast and responsive tests. No report-file/download feature exists to preserve. |
+| WebGPU/WASM MobileNetV4 classification | EXPERIMENTAL | `src/ai/*`, `components/ai-vision.tsx`; session/fallback/softmax/cancellation unit tests pass. Former AI component is UNUSED in release. Actual model inference not re-run in this phase. No authoritative AI claim reachable from production. |
+| YOLOS detection, CLIP scene/crop discovery | EXPERIMENTAL | `src/experiments/vision/*`, `src/scene/*`; geometry/ranking/cosine/crop unit tests. Research UI/asset handlers only, no normal-release route or model chunk. Existing implementation/assets/reports preserved; no new model downloads or semantic validation claimed. |
+| Research asset serving | VERIFIED (access control), EXPERIMENTAL (model use) | `experiments/assets.ts`: explicit research target gate, safe path segments and realpath containment, no-store; hermetic file-serving unit regression. Release routes/assets return 404 in browser tests. |
+
+All source paths above are relative to `src/` unless explicitly prefixed. Verification commands and exact counts are in `PHASE-01-VERIFICATION.md`.
+
+## Baseline findings and disposition
+
+| ID | Priority | Root cause / evidence | Disposition |
+| --- | --- | --- | --- |
+| HD-01 | P1 | `decodeImage` enforced 40 MP only in `onload`, after native decoder allocation. Small encoded inputs could advertise huge dimensions and consume memory first. | Encoded PNG IHDR, JPEG SOF and WebP VP8/VP8L/VP8X checked before any preview URL/decode. Compressed bytes capped and cleared. Post-decode guard retained. Regression proves oversized fixture creates zero preview URLs. |
+| HD-02 | P1 | Generation tokens prevented stale UI but did not abort the active HTMLImageElement decode. Replace/clear/unmount/cancel could leave native loading, callbacks and timeout alive until completion/15s watchdog. | AbortSignal-based decode cleanup and lifecycle controller. Unit event-driven cleanup tests plus real repeated cancel/replacement/URL/worker tests. |
+| HD-03 | P2 | `fileSize` divided by 1024 but labeled KB/MB; input limit similarly labeled 20 MB for 20,971,520 bytes. | Correct KiB/MiB labels, same actual byte limit, boundary references. |
+| HD-04 | P2 (test reliability) | Research asset test depended on a pre-existing model config. Initial sandbox run returned 404 (53/54 tests passed); config actually exists. Windows realpath access denial also caused build failure. Revised test still failed in sandbox and passed outside it: environment restriction is independently established. | Test now creates/removes its own tiny synthetic config. No model installation is required. Realpath containment remains unchanged; appropriate local execution access is still required on this Windows host. |
+| HD-05 | P2 | Root README contained obsolete claims that metadata was absent and the limit was post-decode only. | Current handoff linked; contradictory limitations corrected; historical reports retained. |
+
+No confirmed P0 defect was found. Existing numerical implementation already passed deterministic references; no formula was changed to manufacture improvement. No confirmed core P0/P1 is knowingly deferred.
+
+## Privacy, security and resources
+
+- Release import graph contains no fetch/action/upload handler, analytics, third-party scripts, remote fonts or model runtime. Local File → native decoder/worker ArrayBuffer/ImageBitmap → local Blob URLs/React text. User-controlled names and metadata use React text, no unsafe HTML. Clipboard export happens only on explicit HEX copy.
+- EXIF parser receives a local ArrayBuffer, a tag allowlist and a 2 MiB decompression bound; selected metadata is retained in component memory until clear/replacement. The browser may retain native buffers until GC; buffer zeroing and URL revocation are best efforts, not a secure-erasure guarantee. Local/session storage are empty in observed core flows.
+- Real browser network checks observe same-origin GET assets with no image request bodies or external/model/inference requests. Code tracing and release output scans support this for the core flow; it is not a guarantee about browser extensions or an uninspected future deployment.
+- Worker closes bitmaps, zeroes sampled buffers/metadata copies, resets canvases, closes work on cancellation/timeouts and releases map URLs. Bounded tiles avoid a second full-resolution canvas allocation. Browser still owns full decoded image memory; 40 MP is an upper bound, not a mobile-memory promise.
+- `npm audit --omit=dev --json`: zero runtime advisories at audit time. Full audit: five high-severity development entries from a single `braces` stack-exhaustion chain through micromatch/fast-glob/Next ESLint plugin/config. It consumes developer glob inputs, not uploaded image contents; classified nonblocking P2 in this application. npm proposes a major lint-config downgrade, not a compatible patch. No forced dependency downgrade was made.
+
+## Reliability debt and limits
+
+Physical mobile hardware, Firefox/Safari/WebKit and GPU inference were not available/required for release verification; Chrome viewport emulation is not a device benchmark. No screen-reader certification or exhaustive accessibility audit is claimed. Native decoding/color management, low-alpha rounding, rare sampled colors/extrema, per-image detail normalization and animated-frame timing remain disclosed method limitations. The six-second minimum is deliberate existing presentation behavior and dominates small-image response time. CPU utilization, native heap reclamation and broad coverage percentages were not measured. Old research fixture provenance (notably `tests/fixtures/tiger.jpg`) is unresolved in its existing README; it is not part of the new synthetic corpus or release assets. No new uncertain-license asset was introduced.

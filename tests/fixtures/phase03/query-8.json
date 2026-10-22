@@ -1,0 +1,1103 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "2245656": {
+        "pageid": 2245656,
+        "ns": 6,
+        "title": "File:Walker Evans 1937-02.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3000773,
+            "width": 5655,
+            "height": 3770,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Walker_Evans_1937-02.jpg/960px-Walker_Evans_1937-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 512,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Walker_Evans_1937-02.jpg/1920px-Walker_Evans_1937-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Walker_Evans_1937-02.jpg/960px-Walker_Evans_1937-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 512,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Walker_Evans_1937-02.jpg/1920px-Walker_Evans_1937-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Walker_Evans_1937-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Walker_Evans_1937-02.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2245656",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2007-06-15 06:51:02",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Walker Evans 1937-02",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Images from the Library of Congress|Walker Evans|Images with extracted images|PD US FSA/OWI|Faces in profile|Black and white photographs of the United States in the 1930s|February 1937 United States photographs|Young men of the United States in 1937|33-year-old human males|Black and white portrait photographs of photographers|Resettlement Administration photographs by Edwin Locke",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/Walker_Evans\" class=\"extiw\" title=\"w:Walker Evans\">Walker Evans</a>, profile, hand up to face",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1937-02",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This image  is available from the United States <a href=\"//commons.wikimedia.org/wiki/Library_of_Congress\" title=\"Library of Congress\">Library of Congress</a>'s <a rel=\"nofollow\" class=\"external text\" href=\"//www.loc.gov/rr/print/\">Prints and Photographs division</a><br> under the digital ID <a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.loc.gov/loc.pnp/fsa.8a14702\">fsa.8a14702</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q125376040\" class=\"extiw\" title=\"d:Q125376040\"><span title=\"American photographer\">Edwin Locke</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "25272364": {
+        "pageid": 25272364,
+        "ns": 6,
+        "title": "File:Young Man (Imagicity 823).jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2574075,
+            "width": 4288,
+            "height": 2848,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Young_Man_%28Imagicity_823%29.jpg/960px-Young_Man_%28Imagicity_823%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 510,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Young_Man_%28Imagicity_823%29.jpg/1920px-Young_Man_%28Imagicity_823%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Young_Man_%28Imagicity_823%29.jpg/960px-Young_Man_%28Imagicity_823%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 510,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Young_Man_%28Imagicity_823%29.jpg/1920px-Young_Man_%28Imagicity_823%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Young_Man_%28Imagicity_823%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Young_Man_(Imagicity_823).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=25272364",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-03-25 15:33:23",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Young Man (Imagicity 823)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "People of Vanuatu|Taken with Nikon D90|Personality rights warning|Images uploaded by Fæ|Human faces|Files from Imagicity.com|Black and white portrait photographs of girls by Graham Crumb|Front view portrait photographs of male people",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Young Man",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "26 April 2011",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://gallery.imagicity.com/freswota-more-closeups-3.jpg\">http://gallery.imagicity.com/freswota-more-closeups-3.jpg</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Graham Crumb",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://imagicity.com/about-2\">http://imagicity.com/about-2</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Graham Crumb/<a rel=\"nofollow\" class=\"external text\" href=\"http://www.Imagicity.com\">Imagicity.com</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "personality",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "25272407": {
+        "pageid": 25272407,
+        "ns": 6,
+        "title": "File:Woman (Imagicity 820).jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3566891,
+            "width": 4288,
+            "height": 2848,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Woman_%28Imagicity_820%29.jpg/960px-Woman_%28Imagicity_820%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 510,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Woman_%28Imagicity_820%29.jpg/1920px-Woman_%28Imagicity_820%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Woman_%28Imagicity_820%29.jpg/960px-Woman_%28Imagicity_820%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 510,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Woman_%28Imagicity_820%29.jpg/1920px-Woman_%28Imagicity_820%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Woman_%28Imagicity_820%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Woman_(Imagicity_820).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=25272407",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-03-25 15:36:55",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Woman (Imagicity 820)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "People of Vanuatu|Taken with Nikon D90|Personality rights warning|Images uploaded by Fæ|Human faces|Files from Imagicity.com|Black and white portrait photographs of women by Graham Crumb",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Woman",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "26 April 2011",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://gallery.imagicity.com/freswota-more-closeups-5.jpg\">http://gallery.imagicity.com/freswota-more-closeups-5.jpg</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Graham Crumb",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://imagicity.com/about-2\">http://imagicity.com/about-2</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Graham Crumb/<a rel=\"nofollow\" class=\"external text\" href=\"http://www.Imagicity.com\">Imagicity.com</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "personality",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "25272527": {
+        "pageid": 25272527,
+        "ns": 6,
+        "title": "File:Young Girl (Imagicity 818).jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3137045,
+            "width": 4288,
+            "height": 2848,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Young_Girl_%28Imagicity_818%29.jpg/960px-Young_Girl_%28Imagicity_818%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 510,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Young_Girl_%28Imagicity_818%29.jpg/1920px-Young_Girl_%28Imagicity_818%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Young_Girl_%28Imagicity_818%29.jpg/960px-Young_Girl_%28Imagicity_818%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 510,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Young_Girl_%28Imagicity_818%29.jpg/1920px-Young_Girl_%28Imagicity_818%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Young_Girl_%28Imagicity_818%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Young_Girl_(Imagicity_818).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=25272527",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-03-25 15:46:44",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Young Girl (Imagicity 818)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "People of Vanuatu|Taken with Nikon D90|Personality rights warning|Images uploaded by Fæ|Human faces|Files from Imagicity.com|Portrait photographs of girls by Graham Crumb",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Young Girl",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "26 April 2011",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://gallery.imagicity.com/freswota-more-closeups-6.jpg\">https://gallery.imagicity.com/freswota-more-closeups-6.jpg</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Graham Crumb",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://imagicity.com/about-2\">http://imagicity.com/about-2</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Graham Crumb/<a rel=\"nofollow\" class=\"external text\" href=\"http://www.Imagicity.com\">Imagicity.com</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "personality",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "25286290": {
+        "pageid": 25286290,
+        "ns": 6,
+        "title": "File:Bong (Imagicity 42).jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 93980,
+            "width": 803,
+            "height": 1200,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bong_%28Imagicity_42%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 768,
+            "thumbheight": 1148,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bong_%28Imagicity_42%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1148
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bong_%28Imagicity_42%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bong_(Imagicity_42).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=25286290",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-03-26 13:42:37",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Bong (Imagicity 42)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "People of Vanuatu|Personality rights warning|Indigenous peoples of Oceania|Images uploaded by Fæ|Human faces|Files from Imagicity.com|Black and white portrait photographs of boys by Graham Crumb|Front view portrait photographs of male people",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Bong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "10 April 2008",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://gallery.imagicity.com/vila-bong-closeup-bw-1.jpg\">http://gallery.imagicity.com/vila-bong-closeup-bw-1.jpg</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Graham Crumb",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://imagicity.com/about-2\">http://imagicity.com/about-2</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Graham Crumb/<a rel=\"nofollow\" class=\"external text\" href=\"http://www.Imagicity.com\">Imagicity.com</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "personality",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "69312346": {
+        "pageid": 69312346,
+        "ns": 6,
+        "title": "File:Closeup of Orange Kitten.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2801523,
+            "width": 2448,
+            "height": 3264,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Closeup_of_Orange_Kitten.jpg/960px-Closeup_of_Orange_Kitten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1024,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Closeup_of_Orange_Kitten.jpg/1920px-Closeup_of_Orange_Kitten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Closeup_of_Orange_Kitten.jpg/960px-Closeup_of_Orange_Kitten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1024,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Closeup_of_Orange_Kitten.jpg/1920px-Closeup_of_Orange_Kitten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Closeup_of_Orange_Kitten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Closeup_of_Orange_Kitten.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=69312346",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-05-20 17:29:38",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Closeup of Orange Kitten",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Hazel-eyed cats|Tuxedo patterned red tabby and white kittens|Red tabby and white cat heads|Red tabby and white kitten portraits",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Photo of an eight-week-old orange kitten's face.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-09-03 17:05:57",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Miscellaneous_contributor\" title=\"User:Miscellaneous contributor\">Miscellaneous contributor</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "71630393": {
+        "pageid": 71630393,
+        "ns": 6,
+        "title": "File:A Gorilla Good Morning (63683883).jpeg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1586546,
+            "width": 1360,
+            "height": 2048,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/A_Gorilla_Good_Morning_%2863683883%29.jpeg/960px-A_Gorilla_Good_Morning_%2863683883%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1157,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/1/13/A_Gorilla_Good_Morning_%2863683883%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/A_Gorilla_Good_Morning_%2863683883%29.jpeg/960px-A_Gorilla_Good_Morning_%2863683883%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1157,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/1/13/A_Gorilla_Good_Morning_%2863683883%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/A_Gorilla_Good_Morning_%2863683883%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:A_Gorilla_Good_Morning_(63683883).jpeg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=71630393",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-08-15 05:03:33",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nA Gorilla Good Morning</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Photos imported with import-500px|Gorilla gorilla in captivity",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\n<a rel=\"nofollow\" class=\"external text\" href=\"https://500px.com/DylanColon\">Dylan Colon</a></div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n500px provided description: A Gorilla Good Morning [#portrait ,#animals ,#closeup ,#cute ,#person ,#smile ,#face ,#warm ,#friend ,#emotion ,#colorful ,#detail ,#human ,#gorilla ,#mammal ,#adorable ,#Nikon ,#D300]</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "5 July 2011, 16:59:15 (UTC)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Imported from <a rel=\"nofollow\" class=\"external text\" href=\"https://500px.com/photo/63683883/a-gorilla-good-morning-by-dylan-colon\">500px</a> (<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/201807id_/https://drscdn.500px.org/photo/63683883/m%3D2048/v2?webp=true&amp;sig=15afe55b2d409380edad5d7ef140a3ca4566da60bc58f74a2fd52324c737e481\">archived version</a>) by <a rel=\"nofollow\" class=\"external text\" href=\"https://www.archiveteam.org/index.php?title=500px\">the Archive Team</a>. (<a href=\"https://iw.toolforge.org/import-500px/photo/63683883\" class=\"extiw\" title=\"toolforge:import-500px/photo/63683883\">detail page</a>)",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "147062335": {
+        "pageid": 147062335,
+        "ns": 6,
+        "title": "File:Walker Evans 1937-02 closeup.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1454218,
+            "width": 3433,
+            "height": 2658,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Walker_Evans_1937-02_closeup.jpg/960px-Walker_Evans_1937-02_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 595,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Walker_Evans_1937-02_closeup.jpg/1920px-Walker_Evans_1937-02_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Walker_Evans_1937-02_closeup.jpg/960px-Walker_Evans_1937-02_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 595,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Walker_Evans_1937-02_closeup.jpg/1920px-Walker_Evans_1937-02_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Walker_Evans_1937-02_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Walker_Evans_1937-02_closeup.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=147062335",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-04-03 20:36:56",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Walker Evans 1937-02 closeup",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Images from the Library of Congress|Walker Evans|Extracted images|PD US FSA/OWI|Faces in profile|Black and white photographs of the United States in the 1930s|February 1937 United States photographs|Young men of the United States in 1937|33-year-old human males|Black and white portrait photographs of photographers|Resettlement Administration photographs by Edwin Locke",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/Walker_Evans\" class=\"extiw\" title=\"w:Walker Evans\">Walker Evans</a>, profile, hand up to face",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1937-02",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This image  is available from the United States <a href=\"//commons.wikimedia.org/wiki/Library_of_Congress\" title=\"Library of Congress\">Library of Congress</a>'s <a rel=\"nofollow\" class=\"external text\" href=\"//www.loc.gov/rr/print/\">Prints and Photographs division</a><br> under the digital ID <a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.loc.gov/loc.pnp/fsa.8a14702\">fsa.8a14702</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Edwin Locke, for the <a href=\"https://en.wikipedia.org/wiki/Farm_Security_Administration\" class=\"extiw\" title=\"w:Farm Security Administration\">Farm Security Administration</a> / Office of War Information / Office of Emergency Management / Resettlement Administration",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "\"Most photographs in this collection were taken by photographers working for the U.S. Government. Work by the U.S. Government is not eligible for copyright protection…\"<a rel=\"nofollow\" class=\"external autonumber\" href=\"https://www.loc.gov/rr/print/res/071_fsab.html\">[1]</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "158023996": {
+        "pageid": 158023996,
+        "ns": 6,
+        "title": "File:January 2025 Official Presidential Portrait of Donald J. Trump.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4768468,
+            "width": 2550,
+            "height": 3300,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg/960px-January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 994,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg/1920px-January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg/960px-January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 994,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg/1920px-January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=158023996",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-12-31 09:00:13",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "January 2025 Official Presidential Portrait of Donald J. Trump",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Images from the Library of Congress|PD-author|F-number f/5.6|ISO speed rating 160|Images with extracted images|Lens focal length 85 mm|Taken with Nikon Z 9|Published consent|Taken with Nikkor Z 85mm f/1.2 S|Portraits taken by Daniel Torok|Official January 2025 portraits of Donald Trump (second presidency)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Official 2025 inaugural portrait of <a href=\"https://en.wikipedia.org/wiki/Donald_Trump\" class=\"extiw\" title=\"w:Donald Trump\">Donald Trump</a> by <a href=\"https://en.wikipedia.org/wiki/Daniel_Torok\" class=\"extiw\" title=\"w:Daniel Torok\">Daniel Torok</a>.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-01-15",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This image  is available from the United States <a href=\"//commons.wikimedia.org/wiki/Library_of_Congress\" title=\"Library of Congress\">Library of Congress</a>'s <a rel=\"nofollow\" class=\"external text\" href=\"//www.loc.gov/rr/print/\">Prints and Photographs division</a><br> under the digital ID <a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.loc.gov/loc.pnp/ppbd.11614\">ppbd.11614</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Daniel_Torok\" class=\"extiw\" title=\"w:en:Daniel Torok\"><span title=\"American photographer\">Daniel Torok</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "This work was <a rel=\"nofollow\" class=\"external text\" href=\"https://x.com/dto_rok/status/1879748303459639305\">released into the public domain</a> by its author, <a href=\"https://en.wikipedia.org/wiki/Daniel_Torok\" class=\"extiw\" title=\"w:Daniel Torok\">Daniel Torok</a>. He granted anyone the right to use this work for any purpose, without any conditions, unless such conditions are required by law.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "190400240": {
+        "pageid": 190400240,
+        "ns": 6,
+        "title": "File:Donald Trump face closeup.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 604696,
+            "width": 761,
+            "height": 802,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Donald_Trump_face_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 768,
+            "thumbheight": 809,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/8/82/Donald_Trump_face_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 809
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Donald_Trump_face_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Donald_Trump_face_closeup.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=190400240",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-04-26 00:56:29",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Donald Trump face closeup",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US Government|Images from the Library of Congress|PD-author|Personality rights warning|F-number f/5.6|ISO speed rating 160|Extracted images|CC-PD-Mark|Lens focal length 85 mm|Taken with Nikon Z 9|Taken with Nikkor Z 85mm f/1.2 S|Portraits taken by Daniel Torok|Official January 2025 portraits of Donald Trump (second presidency)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Official 2025 inaugural portrait of <a href=\"https://en.wikipedia.org/wiki/Donald_Trump\" class=\"extiw\" title=\"w:Donald Trump\">Donald Trump</a> by <a href=\"https://en.wikipedia.org/wiki/Daniel_Torok\" class=\"extiw\" title=\"w:Daniel Torok\">Daniel Torok</a>.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-01-15",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This image  is available from the United States <a href=\"//commons.wikimedia.org/wiki/Library_of_Congress\" title=\"Library of Congress\">Library of Congress</a>'s <a rel=\"nofollow\" class=\"external text\" href=\"//www.loc.gov/rr/print/\">Prints and Photographs division</a><br> under the digital ID <a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.loc.gov/loc.pnp/ppbd.11614\">ppbd.11614</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Daniel_Torok\" class=\"extiw\" title=\"w:en:Daniel Torok\"><span title=\"American photographer\">Daniel Torok</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "This work is copyright-free and is therefore in the public domain under the terms of <a class=\"external text\" href=\"https://en.wikisource.org/wiki/en:United_States_Code/Title_17/Chapter_1/Sections_105_and_106\">Title 17, Chapter 1, Section 105</a> of the <a href=\"https://en.wikipedia.org/wiki/United_States_Code\" class=\"extiw\" title=\"w:United States Code\">U.S Code</a>.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "personality",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

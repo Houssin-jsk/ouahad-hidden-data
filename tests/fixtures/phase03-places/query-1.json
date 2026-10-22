@@ -1,0 +1,1111 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 10,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "8152404": {
+        "pageid": 8152404,
+        "ns": 6,
+        "title": "File:Merchants Museum Bedroom LC-G602-CT--054-color-bed cropped.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 12850,
+            "width": 189,
+            "height": 289,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Merchants_Museum_Bedroom_LC-G602-CT--054-color-bed_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 768,
+            "thumbheight": 1174,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/Merchants_Museum_Bedroom_LC-G602-CT--054-color-bed_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1174
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Merchants_Museum_Bedroom_LC-G602-CT--054-color-bed_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Merchants_Museum_Bedroom_LC-G602-CT--054-color-bed_cropped.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=8152404",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2009-10-21 01:15:42",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Merchants Museum Bedroom LC-G602-CT--054-color-bed cropped",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Retouched pictures|Samuel Gottscho|Four poster beds|Bed curtains|Historic American Buildings Survey of New York City|PD US NPS|Files from the Historic American Buildings Survey|Bed valances|Uploaded with derivativeFX|Beds in the United States|Bedrooms in New York City|Red curtains|Red and white furniture|Bedrooms in museums|Interior of Merchant's House Museum",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/Merchant%27s_House_Museum\" class=\"extiw\" title=\"w:Merchant's House Museum\">Merchant's House Museum</a> Old Merchant's House, formerly Seabury Tredwell's residence on E. 4th St., New York City - Bedroom.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2009-10-21 01:14",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<ul><li><a href=\"//commons.wikimedia.org/wiki/File:Merchants_Museum_Bedroom_LC-G602-CT--054-_color.jpg\" title=\"File:Merchants Museum Bedroom LC-G602-CT--054- color.jpg\">Merchants_Museum_Bedroom_LC-G602-CT--054-_color.jpg</a></li></ul>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<ul><li><a href=\"//commons.wikimedia.org/wiki/File:Merchants_Museum_Bedroom_LC-G602-CT--054-_color.jpg\" title=\"File:Merchants Museum Bedroom LC-G602-CT--054- color.jpg\">Merchants_Museum_Bedroom_LC-G602-CT--054-_color.jpg</a>: Samuel Herman Gottscho, HABS photographer</li>\n<li>derivative work: <a href=\"//commons.wikimedia.org/wiki/User:Newman_Luke\" title=\"User:Newman Luke\">Newman Luke</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Newman_Luke\" title=\"User talk:Newman Luke\"><span class=\"signature-talk\">talk</span></a>)</li></ul>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "26073474": {
+        "pageid": 26073474,
+        "ns": 6,
+        "title": "File:StateLibQld 2 15898 Interior view of a bedroom featured in a magazine, 1906.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 94409,
+            "width": 1000,
+            "height": 751,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/StateLibQld_2_15898_Interior_view_of_a_bedroom_featured_in_a_magazine%2C_1906.jpg/960px-StateLibQld_2_15898_Interior_view_of_a_bedroom_featured_in_a_magazine%2C_1906.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 577,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/7/7c/StateLibQld_2_15898_Interior_view_of_a_bedroom_featured_in_a_magazine%2C_1906.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/StateLibQld_2_15898_Interior_view_of_a_bedroom_featured_in_a_magazine%2C_1906.jpg/960px-StateLibQld_2_15898_Interior_view_of_a_bedroom_featured_in_a_magazine%2C_1906.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 577,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/7c/StateLibQld_2_15898_Interior_view_of_a_bedroom_featured_in_a_magazine%2C_1906.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/StateLibQld_2_15898_Interior_view_of_a_bedroom_featured_in_a_magazine%2C_1906.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:StateLibQld_2_15898_Interior_view_of_a_bedroom_featured_in_a_magazine,_1906.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=26073474",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-05-14 05:59:21",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "StateLibQld 2 15898 Interior view of a bedroom featured in a magazine, 1906",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Washstands|PD-Australia|Images from the State Library of Queensland|Bedrooms in Australia|Interior decoration in Australia|Black and white photographs in the 1900s|1906 in Queensland|Black and white photographs of Queensland|Bedrooms in the 1900s|Furniture in Queensland|Lits à l'ange|PD-old missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Interior view of a bedroom featured in a magazine, 1906\nThe double bed is draped at the head with netting and the frame is metal. Pictures hang from the walls and a china washbasin set sits on a table beside the bed. The ceiling is pressed tin.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1906",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.handle.net/10462/deriv/438\">Item is held by John Oxley Library, State Library of Queensland</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Contributor(s): Beautiful Homes",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "41854554": {
+        "pageid": 41854554,
+        "ns": 6,
+        "title": "File:Interieur slaapkamer - Bedroom Interior (5259997289).jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 166200,
+            "width": 1280,
+            "height": 986,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Interieur_slaapkamer_-_Bedroom_Interior_%285259997289%29.jpg/960px-Interieur_slaapkamer_-_Bedroom_Interior_%285259997289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 592,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/7/75/Interieur_slaapkamer_-_Bedroom_Interior_%285259997289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Interieur_slaapkamer_-_Bedroom_Interior_%285259997289%29.jpg/960px-Interieur_slaapkamer_-_Bedroom_Interior_%285259997289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 592,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/75/Interieur_slaapkamer_-_Bedroom_Interior_%285259997289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Interieur_slaapkamer_-_Bedroom_Interior_%285259997289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Interieur_slaapkamer_-_Bedroom_Interior_(5259997289).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=41854554",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-07-26 03:15:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Interieur slaapkamer - Bedroom Interior (5259997289)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Building interiors|Albert Hendrik van Rood|Photos uploaded from Flickr by Fæ using a script|Flickr images reviewed by FlickreviewR|Files from Flickr's 'The Commons'|Sepia photographs of the Netherlands|Beds in the Netherlands|Photographs by Het Nieuwe Instituut|Wooden beds|Double beds|Images from Het Nieuwe Instituut requiring sorting by time period",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<b>Interieur slaapkamer. Architect / ontwerper: A.H. van Rood. </b><br>\n<p>Fotograaf: onbekend. Collectie NAi / TENT_o757<br>\nURL van deze afbeelding: <a rel=\"nofollow\" class=\"external text\" href=\"http://zoeken.nai.nl/CIS/object/5241\">zoeken.nai.nl/CIS/object/5241</a><br>\nMeer foto's uit deze collectie kunt u bekijken in de <a rel=\"nofollow\" class=\"external text\" href=\"http://zoeken.nai.nl\">Collectiedatabase</a> van het NAi. <br>\nNiet van alle gebouwen en interieurs zijn alle gegevens bekend. Heeft u meer informatie of weet u het adres van een gebouw? Laat dan een reactie achter (als u ingelogd bent bij Flickr) of stuur een mailtje naar: flickr@nai.nl <br>\nAl deze foto's zijn gemaakt in de eerste helft van de twintigste eeuw. Wij zijn benieuwd hoe deze gebouwen er vandaag de dag uitzien. Heeft u recente foto's van deze gebouwen of locaties, voeg ze dan toe als commentaar. U kunt een eigen Flickr-foto toevoegen door de URL ervan tussen vierkante haken in het commentaarveld te plakken. Als uw foto's een Creative Commons licentie hebben, nemen we ze bovendien graag op in de NAi Collectiedatabase. <br>\n<br>\n<b>Bedroom Interior. Architect / designer: A.H. van Rood.</b><br>\nPhotographer: unknown. NAI Collection / TENT_o757<br>\nPersistent URL: <a rel=\"nofollow\" class=\"external text\" href=\"http://zoeken.nai.nl/CIS/object/5241\">zoeken.nai.nl/CIS/object/5241</a><br>\nFor more photographs from this collection, please visit the <a rel=\"nofollow\" class=\"external text\" href=\"http://zoeken.nai.nl\">NAI Collection Database</a><br>\nYou can help us gain more knowledge on the content of our collection by adding a comment with information. If you do not wish to log in, you can write an e-mail to: flickr@nai.nl<br>\n</p>\nAll these pictures are taken in the first half of the twentieth century. We are curious to learn how these buildings look like today. If you have recently taken photographs of these buildings or locations, please add them to your comment. If you'd like to include a Flickr photo, simply copy and paste its URL between square brackets in the commentary-field. Photos with a Creative Commons licence may be used to illustrate the NAi Collection Database.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2009-11-11 11:41:00",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/nai_collection/5259997289/\">https://www.flickr.com/photos/nai_collection/5259997289/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/47154409@N06\">Het Nieuwe Instituut - Architecture Collection</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "At the time of upload, the image license was automatically confirmed using the Flickr <a href=\"https://en.wikipedia.org/wiki/API\" class=\"extiw\" title=\"en:API\">API</a>. For more information see <a href=\"//commons.wikimedia.org/wiki/User:F%C3%A6/Flickr_API_detail\" title=\"User:Fæ/Flickr API detail\">Flickr API detail</a>.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "No restrictions",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "No known copyright restrictions",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://www.flickr.com/commons/usage/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "138126935": {
+        "pageid": 138126935,
+        "ns": 6,
+        "title": "File:Canopy bed of Khan Pool Suite in Amantaka luxury Resort & Hotel in Luang Prabang Laos.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7670281,
+            "width": 6390,
+            "height": 4260,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Canopy_bed_of_Khan_Pool_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/960px-Canopy_bed_of_Khan_Pool_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 512,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Canopy_bed_of_Khan_Pool_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/1920px-Canopy_bed_of_Khan_Pool_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Canopy_bed_of_Khan_Pool_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/960px-Canopy_bed_of_Khan_Pool_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 512,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Canopy_bed_of_Khan_Pool_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/1920px-Canopy_bed_of_Khan_Pool_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Canopy_bed_of_Khan_Pool_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Canopy_bed_of_Khan_Pool_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=138126935",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-09-26 04:40:18",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Canopy bed of Khan Pool Suite in Amantaka luxury Resort & Hotel in Luang Prabang Laos",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS 5D Mark IV and Canon EF 11-24mm F4L USM|Amantaka Hotel|Four poster beds|Self-published work|Bedrooms in Laos|Interiors of hotels in Laos|Files with coordinates missing SDC location of creation|Hotel beds|Hotels photographed in 2023|Photographs by Basile Morin|Symmetry impressions of building interiors|Laos photographs taken on 2023-09-18|Long exposure photography in architecture|Vertical symmetry impressions|Hotel lamps",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "19.886060",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "102.134405",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/Canopy_bed\" class=\"extiw\" title=\"en:Canopy bed\">Canopy bed</a> of Khan Pool Suite in <b><a href=\"https://en.wikipedia.org/wiki/Amantaka\" class=\"extiw\" title=\"en:Amantaka\">Amantaka</a></b> luxury resort and hotel in <a href=\"https://en.wikipedia.org/wiki/Luang_Prabang\" class=\"extiw\" title=\"en:Luang Prabang\">Luang Prabang</a>, <a href=\"https://en.wikipedia.org/wiki/Laos\" class=\"extiw\" title=\"en:Laos\">Laos</a>. Amantaka is one of the 34 properties operated by <a href=\"https://en.wikipedia.org/wiki/Aman_Resorts\" class=\"extiw\" title=\"en:Aman Resorts\">Aman Resorts</a>, hospitality company founded by Indonesian hotelier <a href=\"https://en.wikipedia.org/wiki/Adrian_Zecha\" class=\"extiw\" title=\"en:Adrian Zecha\">Adrian Zecha</a> in 1988, present in more than 20 countries. The hotel, located in a French colonial building, opened in September 2009. A boutique hotel, it contains 24 lavish suites, encircling a central courtyard and is designed with a mixture of traditional Lao furnishings and modern. <a rel=\"nofollow\" class=\"external text\" href=\"https://www.aman.com/resorts/amantaka/accommodation/suites\">The suites</a> range in size from 70 to 120 square metres and include eight suites, four pool suites, eight Khan pool suites, two Mekong pool suites and two Amantaka pool suites. All of the rooms have a king-sized bed centre of the suites beneath a traditional high ceiling. They are painted in white and have mahogany or dark wood furnishings and windows. The rooms are reported to be between 1,100 USD and 1,900 USD a night.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-09-18 16:13:35",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Basile_Morin\" title=\"User:Basile Morin\">Basile Morin</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "138166098": {
+        "pageid": 138166098,
+        "ns": 6,
+        "title": "File:Canopy bed and wardrobes in Khan Pool Suite at Amantaka luxury Resort & Hotel in Luang Prabang Laos.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7144043,
+            "width": 5833,
+            "height": 3889,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Canopy_bed_and_wardrobes_in_Khan_Pool_Suite_at_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/960px-Canopy_bed_and_wardrobes_in_Khan_Pool_Suite_at_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 512,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Canopy_bed_and_wardrobes_in_Khan_Pool_Suite_at_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/1920px-Canopy_bed_and_wardrobes_in_Khan_Pool_Suite_at_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Canopy_bed_and_wardrobes_in_Khan_Pool_Suite_at_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/960px-Canopy_bed_and_wardrobes_in_Khan_Pool_Suite_at_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 512,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Canopy_bed_and_wardrobes_in_Khan_Pool_Suite_at_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/1920px-Canopy_bed_and_wardrobes_in_Khan_Pool_Suite_at_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Canopy_bed_and_wardrobes_in_Khan_Pool_Suite_at_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Canopy_bed_and_wardrobes_in_Khan_Pool_Suite_at_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=138166098",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-09-27 01:53:09",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Canopy bed and wardrobes in Khan Pool Suite at Amantaka luxury Resort & Hotel in Luang Prabang Laos",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS 5D Mark IV and Canon EF 11-24mm F4L USM|Amantaka Hotel|Four poster beds|Self-published work|Bedrooms in Laos|Interiors of hotels in Laos|Files with coordinates missing SDC location of creation|Hotel beds|Hotels photographed in 2023|Photographs by Basile Morin|Symmetry impressions of building interiors|Laos photographs taken on 2023-09-18|Long exposure photography in architecture|Vertical symmetry impressions|Wooden wardrobes",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "19.886133",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "102.134472",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/Canopy_bed\" class=\"extiw\" title=\"en:Canopy bed\">Canopy bed</a> and wodden wardrobes in Khan Pool Suite at <b><a href=\"https://en.wikipedia.org/wiki/Amantaka\" class=\"extiw\" title=\"en:Amantaka\">Amantaka</a></b> luxury resort and hotel in <a href=\"https://en.wikipedia.org/wiki/Luang_Prabang\" class=\"extiw\" title=\"en:Luang Prabang\">Luang Prabang</a>, <a href=\"https://en.wikipedia.org/wiki/Laos\" class=\"extiw\" title=\"en:Laos\">Laos</a>. Amantaka is one of the 34 properties operated by <a href=\"https://en.wikipedia.org/wiki/Aman_Resorts\" class=\"extiw\" title=\"en:Aman Resorts\">Aman Resorts</a>, hospitality company founded by Indonesian hotelier <a href=\"https://en.wikipedia.org/wiki/Adrian_Zecha\" class=\"extiw\" title=\"en:Adrian Zecha\">Adrian Zecha</a> in 1988, present in more than 20 countries. The hotel, located in a French colonial building, opened in September 2009. A boutique hotel, it contains 24 lavish suites, encircling a central courtyard and is designed with a mixture of traditional Lao furnishings and modern. <a rel=\"nofollow\" class=\"external text\" href=\"https://www.aman.com/resorts/amantaka/accommodation/suites\">The suites</a> range in size from 70 to 120 square metres and include eight suites, four pool suites, eight Khan pool suites, two Mekong pool suites and two Amantaka pool suites. All of the rooms have a king-sized bed centre of the suites beneath a traditional high ceiling. They are painted in white and have mahogany or dark wood furnishings and windows. The rooms are reported to be between 1,100 USD and 1,900 USD a night.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-09-18 16:14:57",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Basile_Morin\" title=\"User:Basile Morin\">Basile Morin</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "138344663": {
+        "pageid": 138344663,
+        "ns": 6,
+        "title": "File:Canopy bed of Amantaka Suite in Amantaka luxury Resort & Hotel in Luang Prabang Laos.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5865298,
+            "width": 5795,
+            "height": 4346,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Canopy_bed_of_Amantaka_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/960px-Canopy_bed_of_Amantaka_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Canopy_bed_of_Amantaka_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/1920px-Canopy_bed_of_Amantaka_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Canopy_bed_of_Amantaka_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/960px-Canopy_bed_of_Amantaka_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Canopy_bed_of_Amantaka_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/1920px-Canopy_bed_of_Amantaka_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Canopy_bed_of_Amantaka_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Canopy_bed_of_Amantaka_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=138344663",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-10-21 00:13:52",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Canopy bed of Amantaka Suite in Amantaka luxury Resort & Hotel in Luang Prabang Laos",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS 5D Mark IV and Canon EF 11-24mm F4L USM|Amantaka Hotel|Four poster beds|Self-published work|Featured pictures of Laos|Bedrooms in Laos|Interiors of hotels in Laos|Featured pictures of building interiors|Files with coordinates missing SDC location of creation|Featured pictures by Basile Morin|Hotel beds|Hotels photographed in 2023|Photographs by Basile Morin|Symmetry impressions of building interiors|Laos photographs taken on 2023-09-18|Long exposure photography in architecture|Vertical symmetry impressions|2023 in Luang Prabang Province|Featured pictures of hotels|Hotel doors",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality|featured|potd",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "19.886288",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "102.134892",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/Canopy_bed\" class=\"extiw\" title=\"en:Canopy bed\">Canopy bed</a> of Amantaka Suite in <b><a href=\"https://en.wikipedia.org/wiki/Amantaka\" class=\"extiw\" title=\"en:Amantaka\">Amantaka</a></b> luxury resort and hotel in <a href=\"https://en.wikipedia.org/wiki/Luang_Prabang\" class=\"extiw\" title=\"en:Luang Prabang\">Luang Prabang</a>, <a href=\"https://en.wikipedia.org/wiki/Laos\" class=\"extiw\" title=\"en:Laos\">Laos</a>. Amantaka is one of the 34 properties operated by <a href=\"https://en.wikipedia.org/wiki/Aman_Resorts\" class=\"extiw\" title=\"en:Aman Resorts\">Aman Resorts</a>, hospitality company founded by Indonesian hotelier <a href=\"https://en.wikipedia.org/wiki/Adrian_Zecha\" class=\"extiw\" title=\"en:Adrian Zecha\">Adrian Zecha</a> in 1988, present in more than 20 countries. The hotel, located in a French colonial building, opened in September 2009. A boutique hotel, it contains 24 lavish suites, encircling a central courtyard and is designed with a mixture of traditional Lao furnishings and modern. <a rel=\"nofollow\" class=\"external text\" href=\"https://www.aman.com/resorts/amantaka/accommodation/suites\">The suites</a> range in size from 70 to 120 square metres and include eight suites, four pool suites, eight Khan pool suites, two Mekong pool suites and two Amantaka pool suites. All of the rooms have a king-sized bed centre of the suites beneath a traditional high ceiling. They are painted in white and have mahogany or dark wood furnishings and windows. The rooms are reported to be between 1,100 USD and 1,900 USD a night.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-09-18 16:54:42",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Basile_Morin\" title=\"User:Basile Morin\">Basile Morin</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "138384653": {
+        "pageid": 138384653,
+        "ns": 6,
+        "title": "File:Canopy bed of Amantaka Suite in Amantaka luxury Resort & Hotel in Luang Prabang Laos 5x4.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4690693,
+            "width": 5310,
+            "height": 4248,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Canopy_bed_of_Amantaka_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos_5x4.jpg/960px-Canopy_bed_of_Amantaka_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos_5x4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 614,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Canopy_bed_of_Amantaka_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos_5x4.jpg/1920px-Canopy_bed_of_Amantaka_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos_5x4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Canopy_bed_of_Amantaka_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos_5x4.jpg/960px-Canopy_bed_of_Amantaka_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos_5x4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 614,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Canopy_bed_of_Amantaka_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos_5x4.jpg/1920px-Canopy_bed_of_Amantaka_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos_5x4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Canopy_bed_of_Amantaka_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos_5x4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Canopy_bed_of_Amantaka_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos_5x4.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=138384653",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-10-02 04:01:22",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Canopy bed of Amantaka Suite in Amantaka luxury Resort & Hotel in Luang Prabang Laos 5x4",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS 5D Mark IV and Canon EF 11-24mm F4L USM|Amantaka Hotel|Four poster beds|Self-published work|Bedrooms in Laos|Interiors of hotels in Laos|Files with coordinates missing SDC location of creation|Hotel beds|Hotels photographed in 2023|Photographs by Basile Morin|Symmetry impressions of building interiors|Long exposure photography in architecture|Vertical symmetry impressions|2023 in Luang Prabang Province|Hotel doors",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "19.886220",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "102.134967",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/Canopy_bed\" class=\"extiw\" title=\"en:Canopy bed\">Canopy bed</a> of Amantaka Suite in <b><a href=\"https://en.wikipedia.org/wiki/Amantaka\" class=\"extiw\" title=\"en:Amantaka\">Amantaka</a></b> luxury resort and hotel in <a href=\"https://en.wikipedia.org/wiki/Luang_Prabang\" class=\"extiw\" title=\"en:Luang Prabang\">Luang Prabang</a>, <a href=\"https://en.wikipedia.org/wiki/Laos\" class=\"extiw\" title=\"en:Laos\">Laos</a>. Amantaka is one of the 34 properties operated by <a href=\"https://en.wikipedia.org/wiki/Aman_Resorts\" class=\"extiw\" title=\"en:Aman Resorts\">Aman Resorts</a>, hospitality company founded by Indonesian hotelier <a href=\"https://en.wikipedia.org/wiki/Adrian_Zecha\" class=\"extiw\" title=\"en:Adrian Zecha\">Adrian Zecha</a> in 1988, present in more than 20 countries. The hotel, located in a French colonial building, opened in September 2009. A boutique hotel, it contains 24 lavish suites, encircling a central courtyard and is designed with a mixture of traditional Lao furnishings and modern. <a rel=\"nofollow\" class=\"external text\" href=\"https://www.aman.com/resorts/amantaka/accommodation/suites\">The suites</a> range in size from 70 to 120 square metres and include eight suites, four pool suites, eight Khan pool suites, two Mekong pool suites and two Amantaka pool suites. All of the rooms have a king-sized bed centre of the suites beneath a traditional high ceiling. They are painted in white and have mahogany or dark wood furnishings and windows. The rooms are reported to be between 1,100 USD and 1,900 USD a night.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-09-18 16:55:14",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Basile_Morin\" title=\"User:Basile Morin\">Basile Morin</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "187101710": {
+        "pageid": 187101710,
+        "ns": 6,
+        "title": "File:Modern bedroom design featuring colorful headboard and plush pillows in a contemporary setting.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 16555434,
+            "width": 4016,
+            "height": 6016,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Modern_bedroom_design_featuring_colorful_headboard_and_plush_pillows_in_a_contemporary_setting.jpg/960px-Modern_bedroom_design_featuring_colorful_headboard_and_plush_pillows_in_a_contemporary_setting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1150,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Modern_bedroom_design_featuring_colorful_headboard_and_plush_pillows_in_a_contemporary_setting.jpg/1920px-Modern_bedroom_design_featuring_colorful_headboard_and_plush_pillows_in_a_contemporary_setting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Modern_bedroom_design_featuring_colorful_headboard_and_plush_pillows_in_a_contemporary_setting.jpg/960px-Modern_bedroom_design_featuring_colorful_headboard_and_plush_pillows_in_a_contemporary_setting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1150,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Modern_bedroom_design_featuring_colorful_headboard_and_plush_pillows_in_a_contemporary_setting.jpg/1920px-Modern_bedroom_design_featuring_colorful_headboard_and_plush_pillows_in_a_contemporary_setting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Modern_bedroom_design_featuring_colorful_headboard_and_plush_pillows_in_a_contemporary_setting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Modern_bedroom_design_featuring_colorful_headboard_and_plush_pillows_in_a_contemporary_setting.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=187101710",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-03-26 12:08:10",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Modern bedroom design featuring colorful headboard and plush pillows in a contemporary setting",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Bedrooms|Beds|Self-published work|Interiors of hotels",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Stylish bedroom showcases a unique headboard with a mix of colors and plush white pillows. The minimalist design adds a touch of elegance to the cozy space.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-05-20 17:26:44",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Shixart1985\" title=\"User:Shixart1985\">Shixart1985</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "187101722": {
+        "pageid": 187101722,
+        "ns": 6,
+        "title": "File:Stylish bedroom interior featuring a unique headboard design with geometric patterns and elegant bedding decor.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 12235990,
+            "width": 3924,
+            "height": 5878,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Stylish_bedroom_interior_featuring_a_unique_headboard_design_with_geometric_patterns_and_elegant_bedding_decor.jpg/960px-Stylish_bedroom_interior_featuring_a_unique_headboard_design_with_geometric_patterns_and_elegant_bedding_decor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1150,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Stylish_bedroom_interior_featuring_a_unique_headboard_design_with_geometric_patterns_and_elegant_bedding_decor.jpg/1920px-Stylish_bedroom_interior_featuring_a_unique_headboard_design_with_geometric_patterns_and_elegant_bedding_decor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Stylish_bedroom_interior_featuring_a_unique_headboard_design_with_geometric_patterns_and_elegant_bedding_decor.jpg/960px-Stylish_bedroom_interior_featuring_a_unique_headboard_design_with_geometric_patterns_and_elegant_bedding_decor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1150,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Stylish_bedroom_interior_featuring_a_unique_headboard_design_with_geometric_patterns_and_elegant_bedding_decor.jpg/1920px-Stylish_bedroom_interior_featuring_a_unique_headboard_design_with_geometric_patterns_and_elegant_bedding_decor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Stylish_bedroom_interior_featuring_a_unique_headboard_design_with_geometric_patterns_and_elegant_bedding_decor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Stylish_bedroom_interior_featuring_a_unique_headboard_design_with_geometric_patterns_and_elegant_bedding_decor.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=187101722",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-03-26 12:08:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Stylish bedroom interior featuring a unique headboard design with geometric patterns and elegant bedding decor",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Bedrooms|Beds|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A modern bedroom showcases a creatively designed headboard with blue and orange elements against a dark geometric wall. Plush white bedding adds a cozy touch to the atmosphere.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-05-20 17:16:08",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Shixart1985\" title=\"User:Shixart1985\">Shixart1985</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "189945287": {
+        "pageid": 189945287,
+        "ns": 6,
+        "title": "File:Newark Park Bedroom Ozleworth Gloucestershire England.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 28676277,
+            "width": 5824,
+            "height": 4109,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Newark_Park_Bedroom_Ozleworth_Gloucestershire_England.jpg/960px-Newark_Park_Bedroom_Ozleworth_Gloucestershire_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 542,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Newark_Park_Bedroom_Ozleworth_Gloucestershire_England.jpg/1920px-Newark_Park_Bedroom_Ozleworth_Gloucestershire_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Newark_Park_Bedroom_Ozleworth_Gloucestershire_England.jpg/960px-Newark_Park_Bedroom_Ozleworth_Gloucestershire_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 542,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Newark_Park_Bedroom_Ozleworth_Gloucestershire_England.jpg/1920px-Newark_Park_Bedroom_Ozleworth_Gloucestershire_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Newark_Park_Bedroom_Ozleworth_Gloucestershire_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Newark_Park_Bedroom_Ozleworth_Gloucestershire_England.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=189945287",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-04-21 13:56:38",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Newark Park Bedroom Ozleworth Gloucestershire England",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS 6D Mark II and Canon EF 24-105mm F4L IS USM|Self-published work|Bedrooms in the 2000s|Empty rooms in the United Kingdom|Houses photographed in 2026|Panel doors in England|Single beds|Acabashi photos: buildings in Gloucestershire|England photographs taken on 2026-04-07|April 2026 in Gloucestershire|England photos taken with Canon EOS 6D Mark II|Empty bedrooms|Buildings in Gloucestershire photographed in 2026|Interior of Newark Park|Bedrooms in Gloucestershire",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Bedroom at Newark Park, a National Trust and Grade I-listed house, originally an Elizabethen Hunting Lodge, near Ozleworth, Gloucestershire, England.<br>Wikimedia (2026) makes it difficult to view photos related to this image. To see its most relevant allied photo groups, click on the categories at the bottom of this page, or this uploader's <a href=\"//commons.wikimedia.org/wiki/Category:Photos_by_Acabashi\" title=\"Category:Photos by Acabashi\">Photos</a>. This image is one of a series of date and/or subject allied consecutive photographs kept in progression or location by file name, number and/or time marking.<br><b>Camera</b>: <a href=\"https://en.wikipedia.org/wiki/Canon_EOS_6D_Mark_II\" class=\"extiw\" title=\"en:Canon EOS 6D Mark II\">Canon EOS 6D Mark II</a>. <b>Software</b>: file lens-corrected and optimized with <a href=\"https://en.wikipedia.org/wiki/DxO_PhotoLab\" class=\"extiw\" title=\"en:DxO PhotoLab\">DxO PhotoLab 9 Elite</a>.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-04-07 14:27:14",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Acabashi\" title=\"User:Acabashi\">Acabashi</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

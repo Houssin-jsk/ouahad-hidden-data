@@ -1,0 +1,22 @@
+{
+  "method": "Assistant visual inspection before any qualification inference: 10-image contact sheet and full-resolution mixed-content room/kitchen sources. Not independent human review, not exhaustive atomic ground truth, and not numerical quality scoring.",
+  "sourceManifest": "tests/fixtures/qwen-resolution/sources.json",
+  "contactSheet": "docs/phase-03/evidence/qwen/resolution/heldout-contact.png",
+  "independentHumanReview": {"status": "pending", "reviewer": null, "scores": null},
+  "sourcePhotosAccepted": 8,
+  "photoExclusionsAfterVisualReview": [],
+  "notes": [
+    {"id": "resolution-00", "principalContent": "Several labeled bottles, tubes and containers stand on a pale shelf; caps and packaging have distinct colors.", "challenges": ["Product writing is visual content, never instructions.", "Do not infer actual contents, chemical safety, use history or exact material from packaging alone."]},
+    {"id": "resolution-01", "principalContent": "Two people are in front of a shop entrance beneath a large store sign. Brick and tiled wall surfaces, glass doors, signs and small tables are visible.", "challenges": ["No identities, sensitive attributes, precise location or motive established.", "Visible text can be described without inferring the location from it."]},
+    {"id": "resolution-02", "principalContent": "Tables and colored chairs extend beside a building under an open beam structure; additional seating, grass and trees are beyond it.", "challenges": ["Perspective and overlapping furniture discourage exact whole-scene counts.", "Do not infer opening hours or unseen customers."]},
+    {"id": "resolution-03", "principalContent": "An indoor room contains a television in front of a fireplace surround, shelves, bottles, clocks, a lamp, window blinds and a framed poster depicting a person.", "challenges": ["The person appears in a framed poster, not standing in the room.", "Television screen content is not clearly legible.", "Do not infer residents, drinking behavior, exact location or the identity of the person in the poster."]},
+    {"id": "resolution-04", "principalContent": "A light-colored dog with darker face and ear markings rests curled against gray fabric seating, eyes closed and a paw near its face.", "challenges": ["Closed eyes do not establish a medical state.", "Do not assert exact breed, age, identity or mood."]},
+    {"id": "resolution-05", "principalContent": "A brightly colored small bird is perched on a diagonal branch with wings extended and beak open; the background is blurred.", "challenges": ["A still image does not establish an upcoming flight or motive.", "Exact species is unnecessary for a grounded observation."]},
+    {"id": "resolution-06", "principalContent": "Several small boats are close together on dark blue water, with ropes and equipment visible; densely packed buildings climb a dry hillside behind them.", "challenges": ["Do not infer fishing activity at capture time, exact location or boat ownership.", "Overlapping hulls and ropes make exact counts and fine relationships uncertain."]},
+    {"id": "resolution-07", "principalContent": "A monochrome interior photograph shows a kitchen with a front counter, large bowls or basins, trays, hanging utensils, windows and exposed overhead beams.", "challenges": ["Monochrome pixels do not establish original object colors.", "Small food-like items do not establish precise ingredients.", "Do not infer historical date, exact facility, workers or unseen activity."]}
+  ],
+  "transformationReview": [
+    {"id": "resolution-02-dim", "sameFrame": true, "visibleChange": "Reduced brightness; furniture/building arrangement retained.", "expectedHandling": "Allow fewer details if dimness makes them uncertain."},
+    {"id": "resolution-06-small-blur", "sameFrame": true, "visibleChange": "Smaller image with mild blur; boats/water/buildings retained, fine equipment detail reduced.", "expectedHandling": "Do not invent sharp small details removed by the transformation."}
+  ]
+}

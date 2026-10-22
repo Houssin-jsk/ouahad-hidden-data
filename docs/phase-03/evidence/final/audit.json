@@ -1,0 +1,201 @@
+[
+  {
+    "id": "onnx-community/TinyCLIP-ViT-8M-16-Text-3M-YFCC15M-ONNX",
+    "revision": "9463a9c508a344c837ffefe9d724f3827bf2dc79",
+    "license": "mit",
+    "files": [
+      {
+        "rfilename": ".gitattributes",
+        "blobId": "a6344aac8c09253b3b630fb776ae94478aa0275b",
+        "size": 1519
+      },
+      {
+        "rfilename": "README.md",
+        "blobId": "ab964e45be55b39f1cd98e7c606c6954ac744789",
+        "size": 6589
+      },
+      {
+        "rfilename": "config.json",
+        "blobId": "16ce9285b1cb515cf91d1b2c79390b57efd292a0",
+        "size": 850
+      },
+      {
+        "rfilename": "merges.txt",
+        "blobId": "76e821f1b6f0a9709293c3b6b51ed90980b3166b",
+        "size": 524619
+      },
+      {
+        "rfilename": "onnx/model.onnx",
+        "blobId": "ba4a1e5fbfb8a1361a96aa5c4752797d4e602168",
+        "size": 94071688,
+        "lfs": {
+          "sha256": "31d28cb07209533d10fc4fef73ac324ce17de6741a2372e7e1531a4ac8fdaeb2",
+          "size": 94071688,
+          "pointerSize": 133
+        }
+      },
+      {
+        "rfilename": "onnx/model_bnb4.onnx",
+        "blobId": "0b3d44d803f130e5f7a6ac4690b168ace909f7dd",
+        "size": 58039360,
+        "lfs": {
+          "sha256": "a05e32b645bdd784c4d0a62554b4235af75e772ea70e1833fb2c197573dd42d2",
+          "size": 58039360,
+          "pointerSize": 133
+        }
+      },
+      {
+        "rfilename": "onnx/model_fp16.onnx",
+        "blobId": "3794a4b44019477139aa79486800816174308336",
+        "size": 47180275,
+        "lfs": {
+          "sha256": "16c1359af7f557c3a0966f707f30f115c275972db8847eb7b20bfa2cb69f0d2d",
+          "size": 47180275,
+          "pointerSize": 133
+        }
+      },
+      {
+        "rfilename": "onnx/model_int8.onnx",
+        "blobId": "fb58bf2900434def13f8723351a657c4274bc6aa",
+        "size": 24281512,
+        "lfs": {
+          "sha256": "844d1a46ab18acf50c989e541b12fe3b6dc7f8d6004725b4e992d142788e0600",
+          "size": 24281512,
+          "pointerSize": 133
+        }
+      },
+      {
+        "rfilename": "onnx/model_q4.onnx",
+        "blobId": "638a644cdff944ea335e9343b767d4628a78634f",
+        "size": 58694084,
+        "lfs": {
+          "sha256": "da0a8a3d997374bdc28885524d50d0bec80589791f7c0ca5a3afb22440075a8d",
+          "size": 58694084,
+          "pointerSize": 133
+        }
+      },
+      {
+        "rfilename": "onnx/model_q4f16.onnx",
+        "blobId": "14dfa85740ae429c6952a356712e54d4c76384d4",
+        "size": 32118827,
+        "lfs": {
+          "sha256": "67389ec90efcaf43917410617db5d236d24817f31748aa87d6a740a05eaecb8b",
+          "size": 32118827,
+          "pointerSize": 133
+        }
+      },
+      {
+        "rfilename": "onnx/model_quantized.onnx",
+        "blobId": "3373dd46f25be1e6533d137036a743e0f36ca87b",
+        "size": 24281512,
+        "lfs": {
+          "sha256": "10921310ddef06557ec1598d1260470a0a4db53f70ffe0deb60b946dcad6d27a",
+          "size": 24281512,
+          "pointerSize": 133
+        }
+      },
+      {
+        "rfilename": "onnx/model_uint8.onnx",
+        "blobId": "3373dd46f25be1e6533d137036a743e0f36ca87b",
+        "size": 24281512,
+        "lfs": {
+          "sha256": "10921310ddef06557ec1598d1260470a0a4db53f70ffe0deb60b946dcad6d27a",
+          "size": 24281512,
+          "pointerSize": 133
+        }
+      },
+      {
+        "rfilename": "preprocessor_config.json",
+        "blobId": "36598b309c6f7a665f53b7cfff7fb7d69fecc43a",
+        "size": 468
+      },
+      {
+        "rfilename": "quantize_config.json",
+        "blobId": "cc312cee238f28e3c023c713ac2b09f90cc03ace",
+        "size": 310
+      },
+      {
+        "rfilename": "special_tokens_map.json",
+        "blobId": "d073e26c77c9d2dcb62c109b4488565af35fb5bb",
+        "size": 133
+      },
+      {
+        "rfilename": "tokenizer.json",
+        "blobId": "bd1e367764006ad6a2249b1dcc0b20879c7c211f",
+        "size": 3642073
+      },
+      {
+        "rfilename": "tokenizer_config.json",
+        "blobId": "d104242d2b21ced492e0337e3d144209ca52b341",
+        "size": 726
+      },
+      {
+        "rfilename": "vocab.json",
+        "blobId": "182766ce89b439768edadda342519f33802f5364",
+        "size": 862328
+      }
+    ]
+  },
+  {
+    "id": "wkcn/TinyCLIP-ViT-8M-16-Text-3M-YFCC15M",
+    "revision": "a2a8c6eaa2549ad66eb7c31b85022bf58273a26c",
+    "license": "mit",
+    "files": [
+      {
+        "rfilename": ".gitattributes",
+        "blobId": "32097d9fd8e70a7ca2a98b89e1d080cc880c9f39",
+        "size": 1492
+      },
+      {
+        "rfilename": "README.md",
+        "blobId": "b31a0475d183ffc47dcdf73f89ac9907655fd4d3",
+        "size": 5961
+      },
+      {
+        "rfilename": "config.json",
+        "blobId": "5df1711dff244027dd3976604c406b138e1e9fcd",
+        "size": 4602
+      },
+      {
+        "rfilename": "figure/TinyCLIP.jpg",
+        "blobId": "165461aa292c162f419fe40dd9e84ff00d85fea0",
+        "size": 356005
+      },
+      {
+        "rfilename": "figure/fig1.jpg",
+        "blobId": "863c337c4d3d4716f962ccb5c83feee37d97d776",
+        "size": 124003
+      },
+      {
+        "rfilename": "model.safetensors",
+        "blobId": "b90b238116b0a83aec3a92c32f196c6f6f4de5f5",
+        "size": 93812468,
+        "lfs": {
+          "sha256": "9339ee3d736344d0ddcaa6c03edc9f89688f08caaea5401220885233da726fcc",
+          "size": 93812468,
+          "pointerSize": 133
+        }
+      },
+      {
+        "rfilename": "preprocessor_config.json",
+        "blobId": "5a12a1eb250987a4eee0e3e7d7338c4b22724be1",
+        "size": 316
+      },
+      {
+        "rfilename": "pytorch_model.bin",
+        "blobId": "69992350ed5eb46228e3882f1c2239efd69c7ff0",
+        "size": 93857857,
+        "lfs": {
+          "sha256": "45d832b8c61a631df7b739fecd3fe895a92e57e3a3f318ede459ee0ca6e9c565",
+          "size": 93857857,
+          "pointerSize": 133
+        }
+      },
+      {
+        "rfilename": "tokenizer.json",
+        "blobId": "564c0ebd5ce29c4ee4864004aee693deadd3128c",
+        "size": 2224041
+      }
+    ]
+  }
+]

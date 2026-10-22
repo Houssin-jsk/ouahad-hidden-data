@@ -1,0 +1,2115 @@
+{
+  "requestUrl": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=dog+sleeping+sofa+filetype%3Abitmap&gsrnamespace=6&gsrlimit=20&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1536",
+  "response": {
+    "batchcomplete": "",
+    "continue": {
+      "gsroffset": 20,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": {
+        "43427050": {
+          "pageid": 43427050,
+          "ns": 6,
+          "title": "File:The story of Doctor Dolittle, being the history of his peculiar life at home and astonishing adventures in foreign parts (1920) (14752555002).jpg",
+          "index": 7,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 667676,
+              "width": 2880,
+              "height": 1216,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/The_story_of_Doctor_Dolittle%2C_being_the_history_of_his_peculiar_life_at_home_and_astonishing_adventures_in_foreign_parts_%281920%29_%2814752555002%29.jpg/1920px-The_story_of_Doctor_Dolittle%2C_being_the_history_of_his_peculiar_life_at_home_and_astonishing_adventures_in_foreign_parts_%281920%29_%2814752555002%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 649,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/b/bf/The_story_of_Doctor_Dolittle%2C_being_the_history_of_his_peculiar_life_at_home_and_astonishing_adventures_in_foreign_parts_%281920%29_%2814752555002%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/The_story_of_Doctor_Dolittle%2C_being_the_history_of_his_peculiar_life_at_home_and_astonishing_adventures_in_foreign_parts_%281920%29_%2814752555002%29.jpg/1920px-The_story_of_Doctor_Dolittle%2C_being_the_history_of_his_peculiar_life_at_home_and_astonishing_adventures_in_foreign_parts_%281920%29_%2814752555002%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 649,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/bf/The_story_of_Doctor_Dolittle%2C_being_the_history_of_his_peculiar_life_at_home_and_astonishing_adventures_in_foreign_parts_%281920%29_%2814752555002%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/The_story_of_Doctor_Dolittle%2C_being_the_history_of_his_peculiar_life_at_home_and_astonishing_adventures_in_foreign_parts_%281920%29_%2814752555002%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_story_of_Doctor_Dolittle,_being_the_history_of_his_peculiar_life_at_home_and_astonishing_adventures_in_foreign_parts_(1920)_(14752555002).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=43427050",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2019-09-05 10:00:59",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "The story of Doctor Dolittle, being the history of his peculiar life at home and astonishing adventures in foreign parts (1920) (14752555002)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Illustrations for The Story of Doctor Dolittle|Photos uploaded from Flickr by Fæ using a script|Flickr images reviewed by FlickreviewR|Files from Internet Archive Book Images Flickr stream|Files from Flickr's 'The Commons'",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<br>\n<p><b>Identifier</b>: storyofdoctordol00loft (<a class=\"external text\" href=\"https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&amp;profile=default&amp;fulltext=Search&amp;search=insource%3A%2Fstoryofdoctordol00loft%2F\">find matches</a>)<br>\n<b>Title</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookidstoryofdoctordol00loft\">The story of Doctor Dolittle, being the history of his peculiar life at home and astonishing adventures in foreign parts</a><br>\n<b>Year</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookyear1920\">1920</a> (<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookdecade1920\">1920s</a>)<br>\n<b>Authors</b>:  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookauthorLofting__Hugh__1886_1947\">Lofting, Hugh, 1886-1947</a><br>\n<b>Subjects</b>: <br>\n<b>Publisher</b>:  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookpublisherNew_York___Frederick_A__Stokes_Company\">New York : Frederick A. Stokes Company</a><br>\n<b>Contributing Library</b>:  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookcontributorNew_York_Public_Library\">New York Public Library</a><br>\n<b>Digitizing Sponsor</b>:  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/booksponsorMSN\">MSN</a><br>\n<br>\n<b>View Book Page</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/stream/storyofdoctordol00loft/storyofdoctordol00loft#page/n24/mode/1up\">Book Viewer</a><br>\n<b>About This Book</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/details/storyofdoctordol00loft\">Catalog Entry</a><br>\n<b>View All Images</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookidstoryofdoctordol00loft\">All Images From Book</a><br>\nClick here to <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/stream/storyofdoctordol00loft/storyofdoctordol00loft#page/n24/mode/1up\"><b>view book online</b></a> to see this illustration in context in a browseable online version of this book.<br>\n<br>\n<b>Text Appearing Before Image:</b><br>\n<i>nod their heads. The house he lived in, on the edge of thetown, was quite small; but his garden was verylarge and had a wide lawn and stone seats andweeping-willows hanging over. His sister,Sarah Dolittle, was housekeeper for him; butthe Doctor looked after the garden himself. He was very fond of animals and kept manykinds of pets. Besides the gold-fish in the pondat the bottom of his garden, he had rabbits inthe pantry, white mice in his piano, a squirrelin the linen closet and a hedgehog in the cellar.He had a cow with a calf too, and an old lamehorse--twenty-five years of age—and chickens,and pigeons, and two lambs, and many otheranimals. But his favorite pets were Dab-Dabthe duck, Jip the dog, Gub-Gub the baby pig,Polynesia the parrot, and the owl Too-Too. His sister used to grumble about all these ani-.mals and said they made the house untidy.And one day when an old lady with rheumatismcame to see the Doctor, she sat on the hedge-hog who was sleeping on the sofa and never came</i><br>\n<b>Text Appearing After Image:</b><br>\n<i>o s c.6 &lt;u(ft o I-o 4 The Story of Doctor Dolittle to see him any more, but drove every Saturdayall the way to Oxenthorpe, another town tenmiles off, to see a different doctor. Then his sister, Sarah Dolittle, came to himand said, John, how can you expect sick people tocome and see you when you keep all these ani-mals in the house? Its a fine doctor would havehis parlor full of hedgehogs and mice! Thatsthe fourth personage these animals have drivenaway. Squire Jenkins and the Parson say theywouldnt come near your house again—no mat-ter how sick they are. We are getting poorerevery day. If you go on like this, none of thebest people will have you for a doctor.* But I like the animals better than the bestpeople, said the Doctor. You are ridiculous, said his sister, andwalked out of the room. So, as time went on, the Doctor got more andmore animals; and the people who came to seehim got less and less. Till at last he had noone left—except the Cats-meat-Man, who didntmind any kind</i><br>\n<br>\n<b>Note About Images</b><br>\n</p>\n<i>Please note that these images are extracted from scanned page images that may have been digitally enhanced for readability - coloration and appearance of these illustrations may not perfectly resemble the original work.</i>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1920",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/internetarchivebookimages/14752555002/\">https://www.flickr.com/photos/internetarchivebookimages/14752555002/</a>\n</p>\n<ul><li>Source book page: <a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/stream/storyofdoctordol00loft/storyofdoctordol00loft#page/n24/mode/1up\">https://archive.org/stream/storyofdoctordol00loft/storyofdoctordol00loft#page/n24/mode/1up</a></li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/126377022@N07\">Internet Archive Book Images</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "At the time of upload, the image license was automatically confirmed using the Flickr <a href=\"https://en.wikipedia.org/wiki/API\" class=\"extiw\" title=\"en:API\">API</a>. For more information see <a href=\"//commons.wikimedia.org/wiki/User:F%C3%A6/Flickr_API_detail\" title=\"User:Fæ/Flickr API detail\">Flickr API detail</a>.",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "No restrictions",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "No known copyright restrictions",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://www.flickr.com/commons/usage/",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "71356390": {
+          "pageid": 71356390,
+          "ns": 6,
+          "title": "File:Rest (47964298).jpeg",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 243716,
+              "width": 981,
+              "height": 1200,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Rest_%2847964298%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 1536,
+              "thumbheight": 1879,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/Rest_%2847964298%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1879
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Rest_%2847964298%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rest_(47964298).jpeg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=71356390",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2018-08-05 00:15:04",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nRest</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Sleeping dogs|Photos imported with import-500px",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\n<a rel=\"nofollow\" class=\"external text\" href=\"https://500px.com/RobbieVize\">Robbie Vize</a></div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n500px provided description: A napping pup [#dog ,#leather ,#evening  ,#soft ,#sofa ,#couch ,#nap]</div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "8 September 2013, 02:20:46 (UTC)",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "Imported from <a rel=\"nofollow\" class=\"external text\" href=\"https://500px.com/photo/47964298/rest-by-robbie-vize\">500px</a> (<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/201807id_/https://drscdn.500px.org/photo/47964298/m%3D2048/v2?webp=true&amp;sig=dc727dbc21fa921fb5534b51662e46c90137f4562ae70167069bda52bb6ac0cb\">archived version</a>) by <a rel=\"nofollow\" class=\"external text\" href=\"https://www.archiveteam.org/index.php?title=500px\">the Archive Team</a>. (<a href=\"https://iw.toolforge.org/import-500px/photo/47964298\" class=\"extiw\" title=\"toolforge:import-500px/photo/47964298\">detail page</a>)",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/3.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "96640586": {
+          "pageid": 96640586,
+          "ns": 6,
+          "title": "File:Dog sleeping on sofa.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 277500,
+              "width": 1080,
+              "height": 1080,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Dog_sleeping_on_sofa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 1536,
+              "thumbheight": 1536,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Dog_sleeping_on_sofa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1536
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Dog_sleeping_on_sofa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dog_sleeping_on_sofa.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=96640586",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-11-23 11:18:39",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Dog sleeping on sofa",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|Sleeping dogs",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Dog sleeping on sofa",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2020-11-23",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Nicole_Qowens\" title=\"User:Nicole Qowens\">Nicole Qowens</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "133433085": {
+          "pageid": 133433085,
+          "ns": 6,
+          "title": "File:Frances (Appleton) Longfellow to Emmeline (Austin) Wadsworth, 31 August 1847 (368fe2a0-1ae3-457b-a746-59b1dfbcb8e2).jpg",
+          "index": 19,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2184164,
+              "width": 3650,
+              "height": 2906,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Frances_%28Appleton%29_Longfellow_to_Emmeline_%28Austin%29_Wadsworth%2C_31_August_1847_%28368fe2a0-1ae3-457b-a746-59b1dfbcb8e2%29.jpg/1920px-Frances_%28Appleton%29_Longfellow_to_Emmeline_%28Austin%29_Wadsworth%2C_31_August_1847_%28368fe2a0-1ae3-457b-a746-59b1dfbcb8e2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1223,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Frances_%28Appleton%29_Longfellow_to_Emmeline_%28Austin%29_Wadsworth%2C_31_August_1847_%28368fe2a0-1ae3-457b-a746-59b1dfbcb8e2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Frances_%28Appleton%29_Longfellow_to_Emmeline_%28Austin%29_Wadsworth%2C_31_August_1847_%28368fe2a0-1ae3-457b-a746-59b1dfbcb8e2%29.jpg/1920px-Frances_%28Appleton%29_Longfellow_to_Emmeline_%28Austin%29_Wadsworth%2C_31_August_1847_%28368fe2a0-1ae3-457b-a746-59b1dfbcb8e2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1223,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Frances_%28Appleton%29_Longfellow_to_Emmeline_%28Austin%29_Wadsworth%2C_31_August_1847_%28368fe2a0-1ae3-457b-a746-59b1dfbcb8e2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Frances_%28Appleton%29_Longfellow_to_Emmeline_%28Austin%29_Wadsworth%2C_31_August_1847_%28368fe2a0-1ae3-457b-a746-59b1dfbcb8e2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Frances_(Appleton)_Longfellow_to_Emmeline_(Austin)_Wadsworth,_31_August_1847_(368fe2a0-1ae3-457b-a746-59b1dfbcb8e2).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=133433085",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-06-22 08:30:35",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Frances (Appleton) Longfellow to Emmeline (Austin) Wadsworth, 31 August 1847 (368fe2a0-1ae3-457b-a746-59b1dfbcb8e2)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD US expired|Images from NPGallery|Frances (Appleton) Longfellow to Emmeline (Austin) Wadsworth, 1840s",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<p>Manuscript letter</p>\n<p>Archives Number: 1011/002.001-018#022</p>\n<p>Nahant. Wednesday. <br>\nTomorrow beloved, we return to the comforts of Craigie Castle, after a ten days visit here, &amp; most thankful shall I be to be under my own roof again, unless the dog star is malicious to my children.  We came here from Portland via Lynn, &amp; trusting to find the Hotel thin did not secure rooms, &amp; were accordingly perched up in the garret whose sloping roof seemed quite picturesque at first, &amp; I joked Henry upon finding his true poetical elevation, the attic, at last, &amp; imagined myself a poor woman ‘distrained for rint,’ seeing my baby buried in an unpainted, wooden cradle, antique enough for the infant Them, &amp; knocking my [p. 2] head against the rafters at every step.  In a few days we joyfully descended, however, to other rooms, tho still so small they are like mouse traps, &amp; we sleep with our feet almost out of the window.  I think I could not survive for a summer the dirt &amp; discomfort of this hotel, but, except that the weather has not been warm enough, &amp; I have had a wretched cold ever since I came, I have enjoyed this much time very well.  I found to my joy Mrs Sidney Brooks here, &amp; Mrs Goram [sic]; Mrs Bacon, the Rices, the Belknaps &amp; other Boston people &amp; quite a number of Canadians have also been pleasant.  There is the usual strolling &amp; gossiping on the verandahs, &amp; congregating on or near the sofas in the entry – but nothing very [p. 3] lively has been going on since I came – the Horner romance was growing stale, tho’ the hero of it still remains, promenading with his arm in a black handkerchief by way of looking interesting, constantly accompanied by the mamma &amp; daughter, the father having retired in indignation to his own house.  Mrs Brooks left for her Fathers a day or two since, &amp; gives no encouragement of visiting Geneseo.  Wm Birtt described his visit in glowing terms – to me – “altogether the most charming one her ever made in America,” so you see your efforts were not thrown away.  The style opf the house &amp; dinners delighted him, not to speak of the hostesses whicho can not be praised in the same breath. <br>\nWe have some very pretty girls here – A Miss Stone with fine brow &amp; eyes, &amp; half a dozen little sisters [p. 4] pretty, nice children &amp; amazingly clever.  They got up tableaux two evenings, grouping &amp; dressing themselves with wonderful grace &amp; taste their mother is a fine looking woman  Then Miss Sprague is a fresh &amp; fair damsel, &amp; a Miss Dana is very stately (whose brother is engaged to one of the Jays) but perhaps the loveliest person is Mrs Abbot Lawrence [crossed out: who married] a Philadelphia girl very pleasing &amp; dressing charmingly.  I feel very shabby among the nice dresses, having had no time, this summer, to have a respectable wardrobe.  Miss Ruggles often comes over from Mrs Paiges.  I like her much.  Mrs P., by the way, has a most tasteful mansion constructed out of the Codmans old one, &amp; gives dinners equal to her town ones.  Nahant is most thickly settled now but the region is as wild &amp; grand as ever.  I have longed in vain for fine surf.  We have had a dead calm [p. 5] &amp; such chilly mists that the moon has been lost upon us.  Tom has returned from Newport with lively accounts of the Fancy Ball, where he was Manager in his Greek dress.  A connection of Mackintoshes, a Mrs Wedgwood, has arrived from England, &amp; wishes to see Niagara &amp; as much besides as possible.  She has found a female friend, but no male, one to accompany her, &amp; seizes upon Tom, who goodnaturedly assents, &amp; they will set forth day after tomorrow probably &amp; will I hope see you en route.  She is a fat, sensible pleasing woman &amp; highly delighted with every thing American, from the beauty of the women &amp; children to other things many quarrel with.  [p. 6]  She passed the day here yesterday, &amp; was much stuck by the grandeur of this shore. <br>\nI have begun a charming book Hans Andersen’s story of his life.  Have you seen it?  It has all the simplicity &amp; sentiment of the North &amp; a man of genius.  I am hoping daily for your last letter. <br>\nOur landlord is insanely talking of a fancy ball next week, but where he will find performers I know not, unless he invites the mermaids &amp; mermen in their national costume.  We are thinning off very fast, altho’ all prophecy September will be warm.  I have hardly [crossed out: hardly] had a day warm enough this summer &amp; shall enjoy a sunny Autumn. <br>\n[p. 7] I asked Mrs Belknap &amp; Mrs Chase lore of Mrs Ritch, &amp; found she had a tedious, but not painful, time.  She had very slight, ineffectual pains which prolonged so much the crisis.  She used the ether only at the last.  I have heard of many new cases here, &amp; it seems now quite universal, &amp; I am cordially thanked by more than one for pioneering to such a blessing.  Mary Dwight has a boy a week old born down here.  Her eldest boy is most singularly affected they say.  The sight of children makes him ill, &amp; every mole-hill is a mountain to him.  He has been sadly indulged in such sensitiveness I believe, but when to pull the bit &amp; how far is a most puzzling manner. <br>\n[p. 8] I almost despair of educating my children decently – they are so perverse at times that any sincerity seems excusable, &amp; then are so lovely &amp; trusting that your heart melts. <br>\nBut I am weary scribbling so much on my knee, tho loath to leave any unoccupied ground.  Dr Lieber is in this vicinity. <br>\nFarewell beloved – with warmest remembrances to all about you – ever thy affte <br>\nFan – <br>\nHenry’s best love.</p>\n<ul><li>Keywords: correspondence; long archives; frances e. a. longfellow papers (long 20257); frances elizabeth (appleton) longfellow; people; document; ma; nahant; united states; places; subject; family life; social life; travel; Correspondence (1011/002); (LONG-SeriesName); Letters from Frances Longfellow (1011/002.001); (LONG-SubseriesName); 1848 (1011/002.001-018); (LONG-FileUnitName)</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1847-08-31",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://npgallery.nps.gov/\">NPGallery</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Fanny (Appleton) Longfellow (1817-1861)",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in the <a href=\"https://en.wikipedia.org/wiki/United_States\" class=\"extiw\" title=\"en:United States\">United States</a> because it was <a href=\"//commons.wikimedia.org/wiki/Commons:Publication\" title=\"Commons:Publication\">published</a> (or registered with the <a href=\"https://en.wikipedia.org/wiki/United_States_Copyright_Office\" class=\"extiw\" title=\"en:United States Copyright Office\">U.S. Copyright Office</a>) before January 1, 1931.",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "133433579": {
+          "pageid": 133433579,
+          "ns": 6,
+          "title": "File:Erica (Thorp) de Berry to Thorp family, 15 February 1917 (37e34a06-1d49-44d3-8f28-a3c9927ca4ed).jpg",
+          "index": 13,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 606897,
+              "width": 1670,
+              "height": 2459,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Erica_%28Thorp%29_de_Berry_to_Thorp_family%2C_15_February_1917_%2837e34a06-1d49-44d3-8f28-a3c9927ca4ed%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 1536,
+              "thumbheight": 2262,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/Erica_%28Thorp%29_de_Berry_to_Thorp_family%2C_15_February_1917_%2837e34a06-1d49-44d3-8f28-a3c9927ca4ed%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 2262
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Erica_%28Thorp%29_de_Berry_to_Thorp_family%2C_15_February_1917_%2837e34a06-1d49-44d3-8f28-a3c9927ca4ed%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Erica_(Thorp)_de_Berry_to_Thorp_family,_15_February_1917_(37e34a06-1d49-44d3-8f28-a3c9927ca4ed).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=133433579",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-06-22 08:46:51",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Erica (Thorp) de Berry to Thorp family, 15 February 1917 (37e34a06-1d49-44d3-8f28-a3c9927ca4ed)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD US expired|Images from NPGallery to check|Documents of Massachusetts|Images from NPGallery|Letters by Erica de Berry",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<p>Manuscript letter</p>\n<p>Archives Number: 1006/004.006.002-005#006</p>\n<p>[printed letterhead: Pine Mountain Settlement School] <br>\nMy dearest Family, <br>\nAfter a week of cotton-battening in true Louisville hospitality, I feel like a veritable soft-boiled egg, as Miss de Long expresses it – massaged in every pore, shockingly well-fed, and entertained within an inch of my life! <br>\nHonestly, you can’t imagine how good they are !! <br>\nIn the first place, Dr Brandeis and her sister, Miss Belle, have taken me in like a <br>\n[written cross on L margin and top] <br>\nmiserable shame! <br>\nI’m off for an electrical back massage such as Ede gets! Did you ever know such a sybarite! Best love to you all from your ex-pioneer Bun (p.2) daughter, calling me “dear child” “little lady” and “Erica” at the first go-off, petting and spoiling me in every conceivable way – special dishes to make me feel at home, special sleeping indulgences, etc. etc. – till I’ve forgotten that there ever was such a person as “Miss Thorp” or such a problem as discipline ^in the world!^ They’re just like sweet, little ladies in a book or play. In fact, the whole thing is so book-like, so absurdly lucky, that neither of us can believe its true! <br>\nAnd Ede is gaining so! <br>\t\t\t\t\t\t\t\t\t\t2.\n(p.3) Two weeks after the tonsils, she had five teeth taken out, which were badly infected and since then, she’s gained a pound and a half, and can eat and sleep as she hasn’t for months! It’s so wonderful to see the change in her. And she’s so comfortable and happy here! I spend about half the day with her, then go out to Fannie Brandeis’s or round to various entertainments as the guest of wonderfully kind Brandeis and Wehle relatives. They’re so good! And as Miss de Long has urged me to stay over for a full two weeks, I’m going to – <br>\n(p.4 ) Mamma, all my various garments have arrived, for which I’m so grateful. I’ve been to a concert, a picture exhibit, Keith’s automobiling, and even antique-furniture-buying with Harry Wehle’s brother! And to crown everything – while I was at a charming bride’s luncheon the other day, along came a telegram from one L. A. Morgan, saying that he was aiming to spend Sunday I L’ville en route to Cincinnati!! – Did you ever hear anything  more wonderfully, adorably Morgan-esque !! <br>\n-- You can’t imagine (p.5) how exciting it was to have old Les [Leo?] appear, so good-looking and so gallant and so bubbling over! <br>\nIf it hadn’t rained, we would have taken a wonderful all-dy country walk thro’ a gorge --  but as it was we got in a long walk in various parks in the A M. had dinner here (the Brandeis sisters were thrilled, and of course Les [Leo?] made a tremendous hit!) and went out to Fannie’s for more walking and supper. <br>\nIt seemed the most natural thing in the world to be strolling along a country road again with Les [Leo?], singing the medley at the top of our (p.6) lungs! And we talked Cambridge and Pine Mt. till not an incident of the past five months was left undiscussed. Wasn’t it a strange, thrilling coincidence – just at Washington’s Birthday time, too, when all the rest of the clan was gathering at Manch. Les seems awfully pleased with his business and enjoying Milwaukee greatly. Isn’t it fine! To me, that seems so much more characteristic a job for him. <br>\nWell, it certainly was delightful to be gallantly escorted and stood up for and car-fared again – and the surprise made it ten times nicer! <br>\t\t\t\t\t\t\t\n(p.7) With such sudden excitements, and constant variation life seems very dazzling and wonderful – but I guess two weeks of it is enough. <br>\nFannie’s family and home are so fine! The house – a beautiful great stucco one on a hill above the river – is all that an ideal house should be – Cotton -or Garfield – esque, with great, spacious, homelike rooms, exquisitely furnished, yet so simple And I’ve had the joy of playing 2-piano duets with Fanny, and hearing her and her mother  play – oh the bliss of it!\nThen we walk with (p.8) the dogs – Jean’s blessed Beppo sheep-dog – and recline on luxurious sofas, and I drink whole pitchers of milk at meals and wear silk stockings and Ede’s lynx coat and just revel in being well-dressed and clean and airy again! <br>\nMrs Brandeis is just like a mother – so wonderfully kind and sweet – and Fannie is so Jean-like and dear! Well, you simply can’t imagine how I appreciate it and revel in the luxury of a private room and bath and such “purely” kindness all around! <br>\n(p.9) Two concentrated weeks of it thus are blissful – after leading such an utterly different life. But with Spring coming and warm weather and flowers, won’t I be glad to sight the crest of Pine Mt. again! <br>\nThink of Tuk coming down in the end of March ! And Sitoo and Al and perhaps Mamma later !! –\n-- Life is so thrilling! <br>\n-- I’m longing to hear of March doings –and about all the war excitement at home. Here its impossible to believe – either people (p.10) are indifferent or else it’s surpressed [sic]. At Fannie’s the topic is scrupulously avoided. Dr B. is not pro-German, so we talk a good deal – but it’s strange to see how little is made of it about the city. <br>\nPapa, did you know Mr Albert Brandeis in your class ’79 --? He’s their brother – no longer living. <br>\nThe O.C. Book Store sent me a bill for “The Little House on the Marne” which I didn’t get. I told them to take it up with you, but they don’t seem to have &amp; have sent another bill. Will you see about it? <br>\nMamma dear, I’m so sorry about your ankle .. I hope it isn’t troubling you much!! What a <br>\n[letter finishes on first page]</p>\n<ul><li>Keywords: long archives; henry w. longfellow family papers (long 27930); erica (thorp) de berry; document; correspondence; education; henry wadsworth longfellow family papers (1006); united states; ky; places; subject; health and illness; social life; travel; Erica Thorp deBerry Papers (1006/004.006); (LONG-SeriesName); Outgoing (1006/004.006.002); (LONG-SubseriesName); 1917 (1006/004.006.002-005); (LONG-FileUnitName)</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1917-02-15",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://npgallery.nps.gov/\">NPGallery</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Erica (Thorp) de Berry (1890-1943)",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in the <a href=\"https://en.wikipedia.org/wiki/United_States\" class=\"extiw\" title=\"en:United States\">United States</a> because it was <a href=\"//commons.wikimedia.org/wiki/Commons:Publication\" title=\"Commons:Publication\">published</a> (or registered with the <a href=\"https://en.wikipedia.org/wiki/United_States_Copyright_Office\" class=\"extiw\" title=\"en:United States Copyright Office\">U.S. Copyright Office</a>) before January 1, 1931.",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "133435809": {
+          "pageid": 133435809,
+          "ns": 6,
+          "title": "File:Erica (Thorp) de Berry to Thorp family, 15 February 1917 (3cd7ba8f-5bf9-46c6-8cbe-8a021872aa39).jpg",
+          "index": 16,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 603809,
+              "width": 1620,
+              "height": 2454,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Erica_%28Thorp%29_de_Berry_to_Thorp_family%2C_15_February_1917_%283cd7ba8f-5bf9-46c6-8cbe-8a021872aa39%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 1536,
+              "thumbheight": 2327,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Erica_%28Thorp%29_de_Berry_to_Thorp_family%2C_15_February_1917_%283cd7ba8f-5bf9-46c6-8cbe-8a021872aa39%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 2327
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Erica_%28Thorp%29_de_Berry_to_Thorp_family%2C_15_February_1917_%283cd7ba8f-5bf9-46c6-8cbe-8a021872aa39%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Erica_(Thorp)_de_Berry_to_Thorp_family,_15_February_1917_(3cd7ba8f-5bf9-46c6-8cbe-8a021872aa39).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=133435809",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-06-22 09:54:00",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Erica (Thorp) de Berry to Thorp family, 15 February 1917 (3cd7ba8f-5bf9-46c6-8cbe-8a021872aa39)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD US expired|Images from NPGallery to check|Documents of Massachusetts|Images from NPGallery|Letters by Erica de Berry",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<p>Manuscript letter</p>\n<p>Archives Number: 1006/004.006.002-005#006</p>\n<p>[printed letterhead: Pine Mountain Settlement School] <br>\nMy dearest Family, <br>\nAfter a week of cotton-battening in true Louisville hospitality, I feel like a veritable soft-boiled egg, as Miss de Long expresses it – massaged in every pore, shockingly well-fed, and entertained within an inch of my life! <br>\nHonestly, you can’t imagine how good they are !! <br>\nIn the first place, Dr Brandeis and her sister, Miss Belle, have taken me in like a <br>\n[written cross on L margin and top] <br>\nmiserable shame! <br>\nI’m off for an electrical back massage such as Ede gets! Did you ever know such a sybarite! Best love to you all from your ex-pioneer Bun (p.2) daughter, calling me “dear child” “little lady” and “Erica” at the first go-off, petting and spoiling me in every conceivable way – special dishes to make me feel at home, special sleeping indulgences, etc. etc. – till I’ve forgotten that there ever was such a person as “Miss Thorp” or such a problem as discipline ^in the world!^ They’re just like sweet, little ladies in a book or play. In fact, the whole thing is so book-like, so absurdly lucky, that neither of us can believe its true! <br>\nAnd Ede is gaining so! <br>\t\t\t\t\t\t\t\t\t\t2.\n(p.3) Two weeks after the tonsils, she had five teeth taken out, which were badly infected and since then, she’s gained a pound and a half, and can eat and sleep as she hasn’t for months! It’s so wonderful to see the change in her. And she’s so comfortable and happy here! I spend about half the day with her, then go out to Fannie Brandeis’s or round to various entertainments as the guest of wonderfully kind Brandeis and Wehle relatives. They’re so good! And as Miss de Long has urged me to stay over for a full two weeks, I’m going to – <br>\n(p.4 ) Mamma, all my various garments have arrived, for which I’m so grateful. I’ve been to a concert, a picture exhibit, Keith’s automobiling, and even antique-furniture-buying with Harry Wehle’s brother! And to crown everything – while I was at a charming bride’s luncheon the other day, along came a telegram from one L. A. Morgan, saying that he was aiming to spend Sunday I L’ville en route to Cincinnati!! – Did you ever hear anything  more wonderfully, adorably Morgan-esque !! <br>\n-- You can’t imagine (p.5) how exciting it was to have old Les [Leo?] appear, so good-looking and so gallant and so bubbling over! <br>\nIf it hadn’t rained, we would have taken a wonderful all-dy country walk thro’ a gorge --  but as it was we got in a long walk in various parks in the A M. had dinner here (the Brandeis sisters were thrilled, and of course Les [Leo?] made a tremendous hit!) and went out to Fannie’s for more walking and supper. <br>\nIt seemed the most natural thing in the world to be strolling along a country road again with Les [Leo?], singing the medley at the top of our (p.6) lungs! And we talked Cambridge and Pine Mt. till not an incident of the past five months was left undiscussed. Wasn’t it a strange, thrilling coincidence – just at Washington’s Birthday time, too, when all the rest of the clan was gathering at Manch. Les seems awfully pleased with his business and enjoying Milwaukee greatly. Isn’t it fine! To me, that seems so much more characteristic a job for him. <br>\nWell, it certainly was delightful to be gallantly escorted and stood up for and car-fared again – and the surprise made it ten times nicer! <br>\t\t\t\t\t\t\t\n(p.7) With such sudden excitements, and constant variation life seems very dazzling and wonderful – but I guess two weeks of it is enough. <br>\nFannie’s family and home are so fine! The house – a beautiful great stucco one on a hill above the river – is all that an ideal house should be – Cotton -or Garfield – esque, with great, spacious, homelike rooms, exquisitely furnished, yet so simple And I’ve had the joy of playing 2-piano duets with Fanny, and hearing her and her mother  play – oh the bliss of it!\nThen we walk with (p.8) the dogs – Jean’s blessed Beppo sheep-dog – and recline on luxurious sofas, and I drink whole pitchers of milk at meals and wear silk stockings and Ede’s lynx coat and just revel in being well-dressed and clean and airy again! <br>\nMrs Brandeis is just like a mother – so wonderfully kind and sweet – and Fannie is so Jean-like and dear! Well, you simply can’t imagine how I appreciate it and revel in the luxury of a private room and bath and such “purely” kindness all around! <br>\n(p.9) Two concentrated weeks of it thus are blissful – after leading such an utterly different life. But with Spring coming and warm weather and flowers, won’t I be glad to sight the crest of Pine Mt. again! <br>\nThink of Tuk coming down in the end of March ! And Sitoo and Al and perhaps Mamma later !! –\n-- Life is so thrilling! <br>\n-- I’m longing to hear of March doings –and about all the war excitement at home. Here its impossible to believe – either people (p.10) are indifferent or else it’s surpressed [sic]. At Fannie’s the topic is scrupulously avoided. Dr B. is not pro-German, so we talk a good deal – but it’s strange to see how little is made of it about the city. <br>\nPapa, did you know Mr Albert Brandeis in your class ’79 --? He’s their brother – no longer living. <br>\nThe O.C. Book Store sent me a bill for “The Little House on the Marne” which I didn’t get. I told them to take it up with you, but they don’t seem to have &amp; have sent another bill. Will you see about it? <br>\nMamma dear, I’m so sorry about your ankle .. I hope it isn’t troubling you much!! What a <br>\n[letter finishes on first page]</p>\n<ul><li>Keywords: long archives; henry w. longfellow family papers (long 27930); erica (thorp) de berry; document; correspondence; education; henry wadsworth longfellow family papers (1006); united states; ky; places; subject; health and illness; social life; travel; Erica Thorp deBerry Papers (1006/004.006); (LONG-SeriesName); Outgoing (1006/004.006.002); (LONG-SubseriesName); 1917 (1006/004.006.002-005); (LONG-FileUnitName)</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1917-02-15",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://npgallery.nps.gov/\">NPGallery</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Erica (Thorp) de Berry (1890-1943)",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in the <a href=\"https://en.wikipedia.org/wiki/United_States\" class=\"extiw\" title=\"en:United States\">United States</a> because it was <a href=\"//commons.wikimedia.org/wiki/Commons:Publication\" title=\"Commons:Publication\">published</a> (or registered with the <a href=\"https://en.wikipedia.org/wiki/United_States_Copyright_Office\" class=\"extiw\" title=\"en:United States Copyright Office\">U.S. Copyright Office</a>) before January 1, 1931.",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "133437345": {
+          "pageid": 133437345,
+          "ns": 6,
+          "title": "File:Erica (Thorp) de Berry to Thorp family, 15 February 1917 (3f233120-d38b-4403-aa81-9bf54324ad68).jpg",
+          "index": 10,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 582549,
+              "width": 1629,
+              "height": 2454,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Erica_%28Thorp%29_de_Berry_to_Thorp_family%2C_15_February_1917_%283f233120-d38b-4403-aa81-9bf54324ad68%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 1536,
+              "thumbheight": 2314,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/Erica_%28Thorp%29_de_Berry_to_Thorp_family%2C_15_February_1917_%283f233120-d38b-4403-aa81-9bf54324ad68%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 2314
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Erica_%28Thorp%29_de_Berry_to_Thorp_family%2C_15_February_1917_%283f233120-d38b-4403-aa81-9bf54324ad68%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Erica_(Thorp)_de_Berry_to_Thorp_family,_15_February_1917_(3f233120-d38b-4403-aa81-9bf54324ad68).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=133437345",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-06-22 10:36:01",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Erica (Thorp) de Berry to Thorp family, 15 February 1917 (3f233120-d38b-4403-aa81-9bf54324ad68)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD US expired|Images from NPGallery to check|Documents of Massachusetts|Images from NPGallery|Letters by Erica de Berry",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<p>Manuscript letter</p>\n<p>Archives Number: 1006/004.006.002-005#006</p>\n<p>[printed letterhead: Pine Mountain Settlement School] <br>\nMy dearest Family, <br>\nAfter a week of cotton-battening in true Louisville hospitality, I feel like a veritable soft-boiled egg, as Miss de Long expresses it – massaged in every pore, shockingly well-fed, and entertained within an inch of my life! <br>\nHonestly, you can’t imagine how good they are !! <br>\nIn the first place, Dr Brandeis and her sister, Miss Belle, have taken me in like a <br>\n[written cross on L margin and top] <br>\nmiserable shame! <br>\nI’m off for an electrical back massage such as Ede gets! Did you ever know such a sybarite! Best love to you all from your ex-pioneer Bun (p.2) daughter, calling me “dear child” “little lady” and “Erica” at the first go-off, petting and spoiling me in every conceivable way – special dishes to make me feel at home, special sleeping indulgences, etc. etc. – till I’ve forgotten that there ever was such a person as “Miss Thorp” or such a problem as discipline ^in the world!^ They’re just like sweet, little ladies in a book or play. In fact, the whole thing is so book-like, so absurdly lucky, that neither of us can believe its true! <br>\nAnd Ede is gaining so! <br>\t\t\t\t\t\t\t\t\t\t2.\n(p.3) Two weeks after the tonsils, she had five teeth taken out, which were badly infected and since then, she’s gained a pound and a half, and can eat and sleep as she hasn’t for months! It’s so wonderful to see the change in her. And she’s so comfortable and happy here! I spend about half the day with her, then go out to Fannie Brandeis’s or round to various entertainments as the guest of wonderfully kind Brandeis and Wehle relatives. They’re so good! And as Miss de Long has urged me to stay over for a full two weeks, I’m going to – <br>\n(p.4 ) Mamma, all my various garments have arrived, for which I’m so grateful. I’ve been to a concert, a picture exhibit, Keith’s automobiling, and even antique-furniture-buying with Harry Wehle’s brother! And to crown everything – while I was at a charming bride’s luncheon the other day, along came a telegram from one L. A. Morgan, saying that he was aiming to spend Sunday I L’ville en route to Cincinnati!! – Did you ever hear anything  more wonderfully, adorably Morgan-esque !! <br>\n-- You can’t imagine (p.5) how exciting it was to have old Les [Leo?] appear, so good-looking and so gallant and so bubbling over! <br>\nIf it hadn’t rained, we would have taken a wonderful all-dy country walk thro’ a gorge --  but as it was we got in a long walk in various parks in the A M. had dinner here (the Brandeis sisters were thrilled, and of course Les [Leo?] made a tremendous hit!) and went out to Fannie’s for more walking and supper. <br>\nIt seemed the most natural thing in the world to be strolling along a country road again with Les [Leo?], singing the medley at the top of our (p.6) lungs! And we talked Cambridge and Pine Mt. till not an incident of the past five months was left undiscussed. Wasn’t it a strange, thrilling coincidence – just at Washington’s Birthday time, too, when all the rest of the clan was gathering at Manch. Les seems awfully pleased with his business and enjoying Milwaukee greatly. Isn’t it fine! To me, that seems so much more characteristic a job for him. <br>\nWell, it certainly was delightful to be gallantly escorted and stood up for and car-fared again – and the surprise made it ten times nicer! <br>\t\t\t\t\t\t\t\n(p.7) With such sudden excitements, and constant variation life seems very dazzling and wonderful – but I guess two weeks of it is enough. <br>\nFannie’s family and home are so fine! The house – a beautiful great stucco one on a hill above the river – is all that an ideal house should be – Cotton -or Garfield – esque, with great, spacious, homelike rooms, exquisitely furnished, yet so simple And I’ve had the joy of playing 2-piano duets with Fanny, and hearing her and her mother  play – oh the bliss of it!\nThen we walk with (p.8) the dogs – Jean’s blessed Beppo sheep-dog – and recline on luxurious sofas, and I drink whole pitchers of milk at meals and wear silk stockings and Ede’s lynx coat and just revel in being well-dressed and clean and airy again! <br>\nMrs Brandeis is just like a mother – so wonderfully kind and sweet – and Fannie is so Jean-like and dear! Well, you simply can’t imagine how I appreciate it and revel in the luxury of a private room and bath and such “purely” kindness all around! <br>\n(p.9) Two concentrated weeks of it thus are blissful – after leading such an utterly different life. But with Spring coming and warm weather and flowers, won’t I be glad to sight the crest of Pine Mt. again! <br>\nThink of Tuk coming down in the end of March ! And Sitoo and Al and perhaps Mamma later !! –\n-- Life is so thrilling! <br>\n-- I’m longing to hear of March doings –and about all the war excitement at home. Here its impossible to believe – either people (p.10) are indifferent or else it’s surpressed [sic]. At Fannie’s the topic is scrupulously avoided. Dr B. is not pro-German, so we talk a good deal – but it’s strange to see how little is made of it about the city. <br>\nPapa, did you know Mr Albert Brandeis in your class ’79 --? He’s their brother – no longer living. <br>\nThe O.C. Book Store sent me a bill for “The Little House on the Marne” which I didn’t get. I told them to take it up with you, but they don’t seem to have &amp; have sent another bill. Will you see about it? <br>\nMamma dear, I’m so sorry about your ankle .. I hope it isn’t troubling you much!! What a <br>\n[letter finishes on first page]</p>\n<ul><li>Keywords: long archives; henry w. longfellow family papers (long 27930); erica (thorp) de berry; document; correspondence; education; henry wadsworth longfellow family papers (1006); united states; ky; places; subject; health and illness; social life; travel; Erica Thorp deBerry Papers (1006/004.006); (LONG-SeriesName); Outgoing (1006/004.006.002); (LONG-SubseriesName); 1917 (1006/004.006.002-005); (LONG-FileUnitName)</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1917-02-15",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://npgallery.nps.gov/\">NPGallery</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Erica (Thorp) de Berry (1890-1943)",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in the <a href=\"https://en.wikipedia.org/wiki/United_States\" class=\"extiw\" title=\"en:United States\">United States</a> because it was <a href=\"//commons.wikimedia.org/wiki/Commons:Publication\" title=\"Commons:Publication\">published</a> (or registered with the <a href=\"https://en.wikipedia.org/wiki/United_States_Copyright_Office\" class=\"extiw\" title=\"en:United States Copyright Office\">U.S. Copyright Office</a>) before January 1, 1931.",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "133440469": {
+          "pageid": 133440469,
+          "ns": 6,
+          "title": "File:Erica (Thorp) de Berry to Thorp family, 15 February 1917 (46eb81cb-b44a-48b9-9e4d-3bbabc08768f).jpg",
+          "index": 15,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 617040,
+              "width": 1652,
+              "height": 2461,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Erica_%28Thorp%29_de_Berry_to_Thorp_family%2C_15_February_1917_%2846eb81cb-b44a-48b9-9e4d-3bbabc08768f%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 1536,
+              "thumbheight": 2288,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/Erica_%28Thorp%29_de_Berry_to_Thorp_family%2C_15_February_1917_%2846eb81cb-b44a-48b9-9e4d-3bbabc08768f%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 2288
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Erica_%28Thorp%29_de_Berry_to_Thorp_family%2C_15_February_1917_%2846eb81cb-b44a-48b9-9e4d-3bbabc08768f%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Erica_(Thorp)_de_Berry_to_Thorp_family,_15_February_1917_(46eb81cb-b44a-48b9-9e4d-3bbabc08768f).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=133440469",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-06-22 11:54:29",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Erica (Thorp) de Berry to Thorp family, 15 February 1917 (46eb81cb-b44a-48b9-9e4d-3bbabc08768f)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD US expired|Images from NPGallery to check|Documents of Massachusetts|Images from NPGallery|Letters by Erica de Berry",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<p>Manuscript letter</p>\n<p>Archives Number: 1006/004.006.002-005#006</p>\n<p>[printed letterhead: Pine Mountain Settlement School] <br>\nMy dearest Family, <br>\nAfter a week of cotton-battening in true Louisville hospitality, I feel like a veritable soft-boiled egg, as Miss de Long expresses it – massaged in every pore, shockingly well-fed, and entertained within an inch of my life! <br>\nHonestly, you can’t imagine how good they are !! <br>\nIn the first place, Dr Brandeis and her sister, Miss Belle, have taken me in like a <br>\n[written cross on L margin and top] <br>\nmiserable shame! <br>\nI’m off for an electrical back massage such as Ede gets! Did you ever know such a sybarite! Best love to you all from your ex-pioneer Bun (p.2) daughter, calling me “dear child” “little lady” and “Erica” at the first go-off, petting and spoiling me in every conceivable way – special dishes to make me feel at home, special sleeping indulgences, etc. etc. – till I’ve forgotten that there ever was such a person as “Miss Thorp” or such a problem as discipline ^in the world!^ They’re just like sweet, little ladies in a book or play. In fact, the whole thing is so book-like, so absurdly lucky, that neither of us can believe its true! <br>\nAnd Ede is gaining so! <br>\t\t\t\t\t\t\t\t\t\t2.\n(p.3) Two weeks after the tonsils, she had five teeth taken out, which were badly infected and since then, she’s gained a pound and a half, and can eat and sleep as she hasn’t for months! It’s so wonderful to see the change in her. And she’s so comfortable and happy here! I spend about half the day with her, then go out to Fannie Brandeis’s or round to various entertainments as the guest of wonderfully kind Brandeis and Wehle relatives. They’re so good! And as Miss de Long has urged me to stay over for a full two weeks, I’m going to – <br>\n(p.4 ) Mamma, all my various garments have arrived, for which I’m so grateful. I’ve been to a concert, a picture exhibit, Keith’s automobiling, and even antique-furniture-buying with Harry Wehle’s brother! And to crown everything – while I was at a charming bride’s luncheon the other day, along came a telegram from one L. A. Morgan, saying that he was aiming to spend Sunday I L’ville en route to Cincinnati!! – Did you ever hear anything  more wonderfully, adorably Morgan-esque !! <br>\n-- You can’t imagine (p.5) how exciting it was to have old Les [Leo?] appear, so good-looking and so gallant and so bubbling over! <br>\nIf it hadn’t rained, we would have taken a wonderful all-dy country walk thro’ a gorge --  but as it was we got in a long walk in various parks in the A M. had dinner here (the Brandeis sisters were thrilled, and of course Les [Leo?] made a tremendous hit!) and went out to Fannie’s for more walking and supper. <br>\nIt seemed the most natural thing in the world to be strolling along a country road again with Les [Leo?], singing the medley at the top of our (p.6) lungs! And we talked Cambridge and Pine Mt. till not an incident of the past five months was left undiscussed. Wasn’t it a strange, thrilling coincidence – just at Washington’s Birthday time, too, when all the rest of the clan was gathering at Manch. Les seems awfully pleased with his business and enjoying Milwaukee greatly. Isn’t it fine! To me, that seems so much more characteristic a job for him. <br>\nWell, it certainly was delightful to be gallantly escorted and stood up for and car-fared again – and the surprise made it ten times nicer! <br>\t\t\t\t\t\t\t\n(p.7) With such sudden excitements, and constant variation life seems very dazzling and wonderful – but I guess two weeks of it is enough. <br>\nFannie’s family and home are so fine! The house – a beautiful great stucco one on a hill above the river – is all that an ideal house should be – Cotton -or Garfield – esque, with great, spacious, homelike rooms, exquisitely furnished, yet so simple And I’ve had the joy of playing 2-piano duets with Fanny, and hearing her and her mother  play – oh the bliss of it!\nThen we walk with (p.8) the dogs – Jean’s blessed Beppo sheep-dog – and recline on luxurious sofas, and I drink whole pitchers of milk at meals and wear silk stockings and Ede’s lynx coat and just revel in being well-dressed and clean and airy again! <br>\nMrs Brandeis is just like a mother – so wonderfully kind and sweet – and Fannie is so Jean-like and dear! Well, you simply can’t imagine how I appreciate it and revel in the luxury of a private room and bath and such “purely” kindness all around! <br>\n(p.9) Two concentrated weeks of it thus are blissful – after leading such an utterly different life. But with Spring coming and warm weather and flowers, won’t I be glad to sight the crest of Pine Mt. again! <br>\nThink of Tuk coming down in the end of March ! And Sitoo and Al and perhaps Mamma later !! –\n-- Life is so thrilling! <br>\n-- I’m longing to hear of March doings –and about all the war excitement at home. Here its impossible to believe – either people (p.10) are indifferent or else it’s surpressed [sic]. At Fannie’s the topic is scrupulously avoided. Dr B. is not pro-German, so we talk a good deal – but it’s strange to see how little is made of it about the city. <br>\nPapa, did you know Mr Albert Brandeis in your class ’79 --? He’s their brother – no longer living. <br>\nThe O.C. Book Store sent me a bill for “The Little House on the Marne” which I didn’t get. I told them to take it up with you, but they don’t seem to have &amp; have sent another bill. Will you see about it? <br>\nMamma dear, I’m so sorry about your ankle .. I hope it isn’t troubling you much!! What a <br>\n[letter finishes on first page]</p>\n<ul><li>Keywords: long archives; henry w. longfellow family papers (long 27930); erica (thorp) de berry; document; correspondence; education; henry wadsworth longfellow family papers (1006); united states; ky; places; subject; health and illness; social life; travel; Erica Thorp deBerry Papers (1006/004.006); (LONG-SeriesName); Outgoing (1006/004.006.002); (LONG-SubseriesName); 1917 (1006/004.006.002-005); (LONG-FileUnitName)</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1917-02-15",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://npgallery.nps.gov/\">NPGallery</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Erica (Thorp) de Berry (1890-1943)",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in the <a href=\"https://en.wikipedia.org/wiki/United_States\" class=\"extiw\" title=\"en:United States\">United States</a> because it was <a href=\"//commons.wikimedia.org/wiki/Commons:Publication\" title=\"Commons:Publication\">published</a> (or registered with the <a href=\"https://en.wikipedia.org/wiki/United_States_Copyright_Office\" class=\"extiw\" title=\"en:United States Copyright Office\">U.S. Copyright Office</a>) before January 1, 1931.",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "133441159": {
+          "pageid": 133441159,
+          "ns": 6,
+          "title": "File:Erica (Thorp) de Berry to Thorp family, 15 February 1917 (47d617b5-1063-4457-bb47-402467458c09).jpg",
+          "index": 9,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 620696,
+              "width": 1651,
+              "height": 2495,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Erica_%28Thorp%29_de_Berry_to_Thorp_family%2C_15_February_1917_%2847d617b5-1063-4457-bb47-402467458c09%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 1536,
+              "thumbheight": 2321,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Erica_%28Thorp%29_de_Berry_to_Thorp_family%2C_15_February_1917_%2847d617b5-1063-4457-bb47-402467458c09%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 2321
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Erica_%28Thorp%29_de_Berry_to_Thorp_family%2C_15_February_1917_%2847d617b5-1063-4457-bb47-402467458c09%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Erica_(Thorp)_de_Berry_to_Thorp_family,_15_February_1917_(47d617b5-1063-4457-bb47-402467458c09).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=133441159",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-06-22 12:12:40",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Erica (Thorp) de Berry to Thorp family, 15 February 1917 (47d617b5-1063-4457-bb47-402467458c09)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD US expired|Images from NPGallery to check|Documents of Massachusetts|Images from NPGallery|Letters by Erica de Berry",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<p>Manuscript letter</p>\n<p>Archives Number: 1006/004.006.002-005#006</p>\n<p>[printed letterhead: Pine Mountain Settlement School] <br>\nMy dearest Family, <br>\nAfter a week of cotton-battening in true Louisville hospitality, I feel like a veritable soft-boiled egg, as Miss de Long expresses it – massaged in every pore, shockingly well-fed, and entertained within an inch of my life! <br>\nHonestly, you can’t imagine how good they are !! <br>\nIn the first place, Dr Brandeis and her sister, Miss Belle, have taken me in like a <br>\n[written cross on L margin and top] <br>\nmiserable shame! <br>\nI’m off for an electrical back massage such as Ede gets! Did you ever know such a sybarite! Best love to you all from your ex-pioneer Bun (p.2) daughter, calling me “dear child” “little lady” and “Erica” at the first go-off, petting and spoiling me in every conceivable way – special dishes to make me feel at home, special sleeping indulgences, etc. etc. – till I’ve forgotten that there ever was such a person as “Miss Thorp” or such a problem as discipline ^in the world!^ They’re just like sweet, little ladies in a book or play. In fact, the whole thing is so book-like, so absurdly lucky, that neither of us can believe its true! <br>\nAnd Ede is gaining so! <br>\t\t\t\t\t\t\t\t\t\t2.\n(p.3) Two weeks after the tonsils, she had five teeth taken out, which were badly infected and since then, she’s gained a pound and a half, and can eat and sleep as she hasn’t for months! It’s so wonderful to see the change in her. And she’s so comfortable and happy here! I spend about half the day with her, then go out to Fannie Brandeis’s or round to various entertainments as the guest of wonderfully kind Brandeis and Wehle relatives. They’re so good! And as Miss de Long has urged me to stay over for a full two weeks, I’m going to – <br>\n(p.4 ) Mamma, all my various garments have arrived, for which I’m so grateful. I’ve been to a concert, a picture exhibit, Keith’s automobiling, and even antique-furniture-buying with Harry Wehle’s brother! And to crown everything – while I was at a charming bride’s luncheon the other day, along came a telegram from one L. A. Morgan, saying that he was aiming to spend Sunday I L’ville en route to Cincinnati!! – Did you ever hear anything  more wonderfully, adorably Morgan-esque !! <br>\n-- You can’t imagine (p.5) how exciting it was to have old Les [Leo?] appear, so good-looking and so gallant and so bubbling over! <br>\nIf it hadn’t rained, we would have taken a wonderful all-dy country walk thro’ a gorge --  but as it was we got in a long walk in various parks in the A M. had dinner here (the Brandeis sisters were thrilled, and of course Les [Leo?] made a tremendous hit!) and went out to Fannie’s for more walking and supper. <br>\nIt seemed the most natural thing in the world to be strolling along a country road again with Les [Leo?], singing the medley at the top of our (p.6) lungs! And we talked Cambridge and Pine Mt. till not an incident of the past five months was left undiscussed. Wasn’t it a strange, thrilling coincidence – just at Washington’s Birthday time, too, when all the rest of the clan was gathering at Manch. Les seems awfully pleased with his business and enjoying Milwaukee greatly. Isn’t it fine! To me, that seems so much more characteristic a job for him. <br>\nWell, it certainly was delightful to be gallantly escorted and stood up for and car-fared again – and the surprise made it ten times nicer! <br>\t\t\t\t\t\t\t\n(p.7) With such sudden excitements, and constant variation life seems very dazzling and wonderful – but I guess two weeks of it is enough. <br>\nFannie’s family and home are so fine! The house – a beautiful great stucco one on a hill above the river – is all that an ideal house should be – Cotton -or Garfield – esque, with great, spacious, homelike rooms, exquisitely furnished, yet so simple And I’ve had the joy of playing 2-piano duets with Fanny, and hearing her and her mother  play – oh the bliss of it!\nThen we walk with (p.8) the dogs – Jean’s blessed Beppo sheep-dog – and recline on luxurious sofas, and I drink whole pitchers of milk at meals and wear silk stockings and Ede’s lynx coat and just revel in being well-dressed and clean and airy again! <br>\nMrs Brandeis is just like a mother – so wonderfully kind and sweet – and Fannie is so Jean-like and dear! Well, you simply can’t imagine how I appreciate it and revel in the luxury of a private room and bath and such “purely” kindness all around! <br>\n(p.9) Two concentrated weeks of it thus are blissful – after leading such an utterly different life. But with Spring coming and warm weather and flowers, won’t I be glad to sight the crest of Pine Mt. again! <br>\nThink of Tuk coming down in the end of March ! And Sitoo and Al and perhaps Mamma later !! –\n-- Life is so thrilling! <br>\n-- I’m longing to hear of March doings –and about all the war excitement at home. Here its impossible to believe – either people (p.10) are indifferent or else it’s surpressed [sic]. At Fannie’s the topic is scrupulously avoided. Dr B. is not pro-German, so we talk a good deal – but it’s strange to see how little is made of it about the city. <br>\nPapa, did you know Mr Albert Brandeis in your class ’79 --? He’s their brother – no longer living. <br>\nThe O.C. Book Store sent me a bill for “The Little House on the Marne” which I didn’t get. I told them to take it up with you, but they don’t seem to have &amp; have sent another bill. Will you see about it? <br>\nMamma dear, I’m so sorry about your ankle .. I hope it isn’t troubling you much!! What a <br>\n[letter finishes on first page]</p>\n<ul><li>Keywords: long archives; henry w. longfellow family papers (long 27930); erica (thorp) de berry; document; correspondence; education; henry wadsworth longfellow family papers (1006); united states; ky; places; subject; health and illness; social life; travel; Erica Thorp deBerry Papers (1006/004.006); (LONG-SeriesName); Outgoing (1006/004.006.002); (LONG-SubseriesName); 1917 (1006/004.006.002-005); (LONG-FileUnitName)</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1917-02-15",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://npgallery.nps.gov/\">NPGallery</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Erica (Thorp) de Berry (1890-1943)",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in the <a href=\"https://en.wikipedia.org/wiki/United_States\" class=\"extiw\" title=\"en:United States\">United States</a> because it was <a href=\"//commons.wikimedia.org/wiki/Commons:Publication\" title=\"Commons:Publication\">published</a> (or registered with the <a href=\"https://en.wikipedia.org/wiki/United_States_Copyright_Office\" class=\"extiw\" title=\"en:United States Copyright Office\">U.S. Copyright Office</a>) before January 1, 1931.",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "133454375": {
+          "pageid": 133454375,
+          "ns": 6,
+          "title": "File:Erica (Thorp) de Berry to Thorp family, 15 February 1917 (5e95741d-de5c-412b-bb33-23ec224e3ec8).jpg",
+          "index": 12,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 577465,
+              "width": 1635,
+              "height": 2461,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Erica_%28Thorp%29_de_Berry_to_Thorp_family%2C_15_February_1917_%285e95741d-de5c-412b-bb33-23ec224e3ec8%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 1536,
+              "thumbheight": 2312,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Erica_%28Thorp%29_de_Berry_to_Thorp_family%2C_15_February_1917_%285e95741d-de5c-412b-bb33-23ec224e3ec8%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 2312
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Erica_%28Thorp%29_de_Berry_to_Thorp_family%2C_15_February_1917_%285e95741d-de5c-412b-bb33-23ec224e3ec8%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Erica_(Thorp)_de_Berry_to_Thorp_family,_15_February_1917_(5e95741d-de5c-412b-bb33-23ec224e3ec8).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=133454375",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-06-22 18:37:43",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Erica (Thorp) de Berry to Thorp family, 15 February 1917 (5e95741d-de5c-412b-bb33-23ec224e3ec8)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD US expired|Images from NPGallery to check|Documents of Massachusetts|Images from NPGallery|Letters by Erica de Berry",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<p>Manuscript letter</p>\n<p>Archives Number: 1006/004.006.002-005#006</p>\n<p>[printed letterhead: Pine Mountain Settlement School] <br>\nMy dearest Family, <br>\nAfter a week of cotton-battening in true Louisville hospitality, I feel like a veritable soft-boiled egg, as Miss de Long expresses it – massaged in every pore, shockingly well-fed, and entertained within an inch of my life! <br>\nHonestly, you can’t imagine how good they are !! <br>\nIn the first place, Dr Brandeis and her sister, Miss Belle, have taken me in like a <br>\n[written cross on L margin and top] <br>\nmiserable shame! <br>\nI’m off for an electrical back massage such as Ede gets! Did you ever know such a sybarite! Best love to you all from your ex-pioneer Bun (p.2) daughter, calling me “dear child” “little lady” and “Erica” at the first go-off, petting and spoiling me in every conceivable way – special dishes to make me feel at home, special sleeping indulgences, etc. etc. – till I’ve forgotten that there ever was such a person as “Miss Thorp” or such a problem as discipline ^in the world!^ They’re just like sweet, little ladies in a book or play. In fact, the whole thing is so book-like, so absurdly lucky, that neither of us can believe its true! <br>\nAnd Ede is gaining so! <br>\t\t\t\t\t\t\t\t\t\t2.\n(p.3) Two weeks after the tonsils, she had five teeth taken out, which were badly infected and since then, she’s gained a pound and a half, and can eat and sleep as she hasn’t for months! It’s so wonderful to see the change in her. And she’s so comfortable and happy here! I spend about half the day with her, then go out to Fannie Brandeis’s or round to various entertainments as the guest of wonderfully kind Brandeis and Wehle relatives. They’re so good! And as Miss de Long has urged me to stay over for a full two weeks, I’m going to – <br>\n(p.4 ) Mamma, all my various garments have arrived, for which I’m so grateful. I’ve been to a concert, a picture exhibit, Keith’s automobiling, and even antique-furniture-buying with Harry Wehle’s brother! And to crown everything – while I was at a charming bride’s luncheon the other day, along came a telegram from one L. A. Morgan, saying that he was aiming to spend Sunday I L’ville en route to Cincinnati!! – Did you ever hear anything  more wonderfully, adorably Morgan-esque !! <br>\n-- You can’t imagine (p.5) how exciting it was to have old Les [Leo?] appear, so good-looking and so gallant and so bubbling over! <br>\nIf it hadn’t rained, we would have taken a wonderful all-dy country walk thro’ a gorge --  but as it was we got in a long walk in various parks in the A M. had dinner here (the Brandeis sisters were thrilled, and of course Les [Leo?] made a tremendous hit!) and went out to Fannie’s for more walking and supper. <br>\nIt seemed the most natural thing in the world to be strolling along a country road again with Les [Leo?], singing the medley at the top of our (p.6) lungs! And we talked Cambridge and Pine Mt. till not an incident of the past five months was left undiscussed. Wasn’t it a strange, thrilling coincidence – just at Washington’s Birthday time, too, when all the rest of the clan was gathering at Manch. Les seems awfully pleased with his business and enjoying Milwaukee greatly. Isn’t it fine! To me, that seems so much more characteristic a job for him. <br>\nWell, it certainly was delightful to be gallantly escorted and stood up for and car-fared again – and the surprise made it ten times nicer! <br>\t\t\t\t\t\t\t\n(p.7) With such sudden excitements, and constant variation life seems very dazzling and wonderful – but I guess two weeks of it is enough. <br>\nFannie’s family and home are so fine! The house – a beautiful great stucco one on a hill above the river – is all that an ideal house should be – Cotton -or Garfield – esque, with great, spacious, homelike rooms, exquisitely furnished, yet so simple And I’ve had the joy of playing 2-piano duets with Fanny, and hearing her and her mother  play – oh the bliss of it!\nThen we walk with (p.8) the dogs – Jean’s blessed Beppo sheep-dog – and recline on luxurious sofas, and I drink whole pitchers of milk at meals and wear silk stockings and Ede’s lynx coat and just revel in being well-dressed and clean and airy again! <br>\nMrs Brandeis is just like a mother – so wonderfully kind and sweet – and Fannie is so Jean-like and dear! Well, you simply can’t imagine how I appreciate it and revel in the luxury of a private room and bath and such “purely” kindness all around! <br>\n(p.9) Two concentrated weeks of it thus are blissful – after leading such an utterly different life. But with Spring coming and warm weather and flowers, won’t I be glad to sight the crest of Pine Mt. again! <br>\nThink of Tuk coming down in the end of March ! And Sitoo and Al and perhaps Mamma later !! –\n-- Life is so thrilling! <br>\n-- I’m longing to hear of March doings –and about all the war excitement at home. Here its impossible to believe – either people (p.10) are indifferent or else it’s surpressed [sic]. At Fannie’s the topic is scrupulously avoided. Dr B. is not pro-German, so we talk a good deal – but it’s strange to see how little is made of it about the city. <br>\nPapa, did you know Mr Albert Brandeis in your class ’79 --? He’s their brother – no longer living. <br>\nThe O.C. Book Store sent me a bill for “The Little House on the Marne” which I didn’t get. I told them to take it up with you, but they don’t seem to have &amp; have sent another bill. Will you see about it? <br>\nMamma dear, I’m so sorry about your ankle .. I hope it isn’t troubling you much!! What a <br>\n[letter finishes on first page]</p>\n<ul><li>Keywords: long archives; henry w. longfellow family papers (long 27930); erica (thorp) de berry; document; correspondence; education; henry wadsworth longfellow family papers (1006); united states; ky; places; subject; health and illness; social life; travel; Erica Thorp deBerry Papers (1006/004.006); (LONG-SeriesName); Outgoing (1006/004.006.002); (LONG-SubseriesName); 1917 (1006/004.006.002-005); (LONG-FileUnitName)</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1917-02-15",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://npgallery.nps.gov/\">NPGallery</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Erica (Thorp) de Berry (1890-1943)",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in the <a href=\"https://en.wikipedia.org/wiki/United_States\" class=\"extiw\" title=\"en:United States\">United States</a> because it was <a href=\"//commons.wikimedia.org/wiki/Commons:Publication\" title=\"Commons:Publication\">published</a> (or registered with the <a href=\"https://en.wikipedia.org/wiki/United_States_Copyright_Office\" class=\"extiw\" title=\"en:United States Copyright Office\">U.S. Copyright Office</a>) before January 1, 1931.",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "133462815": {
+          "pageid": 133462815,
+          "ns": 6,
+          "title": "File:Erica (Thorp) de Berry to Thorp family, 15 February 1917 (6f774a18-0156-4020-bf9a-9599b518bc99).jpg",
+          "index": 8,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 592377,
+              "width": 1668,
+              "height": 2480,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Erica_%28Thorp%29_de_Berry_to_Thorp_family%2C_15_February_1917_%286f774a18-0156-4020-bf9a-9599b518bc99%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 1536,
+              "thumbheight": 2284,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/6/67/Erica_%28Thorp%29_de_Berry_to_Thorp_family%2C_15_February_1917_%286f774a18-0156-4020-bf9a-9599b518bc99%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 2284
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Erica_%28Thorp%29_de_Berry_to_Thorp_family%2C_15_February_1917_%286f774a18-0156-4020-bf9a-9599b518bc99%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Erica_(Thorp)_de_Berry_to_Thorp_family,_15_February_1917_(6f774a18-0156-4020-bf9a-9599b518bc99).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=133462815",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-06-22 23:17:12",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Erica (Thorp) de Berry to Thorp family, 15 February 1917 (6f774a18-0156-4020-bf9a-9599b518bc99)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD US expired|Images from NPGallery to check|Documents of Massachusetts|Images from NPGallery|Letters by Erica de Berry",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<p>Manuscript letter</p>\n<p>Archives Number: 1006/004.006.002-005#006</p>\n<p>[printed letterhead: Pine Mountain Settlement School] <br>\nMy dearest Family, <br>\nAfter a week of cotton-battening in true Louisville hospitality, I feel like a veritable soft-boiled egg, as Miss de Long expresses it – massaged in every pore, shockingly well-fed, and entertained within an inch of my life! <br>\nHonestly, you can’t imagine how good they are !! <br>\nIn the first place, Dr Brandeis and her sister, Miss Belle, have taken me in like a <br>\n[written cross on L margin and top] <br>\nmiserable shame! <br>\nI’m off for an electrical back massage such as Ede gets! Did you ever know such a sybarite! Best love to you all from your ex-pioneer Bun (p.2) daughter, calling me “dear child” “little lady” and “Erica” at the first go-off, petting and spoiling me in every conceivable way – special dishes to make me feel at home, special sleeping indulgences, etc. etc. – till I’ve forgotten that there ever was such a person as “Miss Thorp” or such a problem as discipline ^in the world!^ They’re just like sweet, little ladies in a book or play. In fact, the whole thing is so book-like, so absurdly lucky, that neither of us can believe its true! <br>\nAnd Ede is gaining so! <br>\t\t\t\t\t\t\t\t\t\t2.\n(p.3) Two weeks after the tonsils, she had five teeth taken out, which were badly infected and since then, she’s gained a pound and a half, and can eat and sleep as she hasn’t for months! It’s so wonderful to see the change in her. And she’s so comfortable and happy here! I spend about half the day with her, then go out to Fannie Brandeis’s or round to various entertainments as the guest of wonderfully kind Brandeis and Wehle relatives. They’re so good! And as Miss de Long has urged me to stay over for a full two weeks, I’m going to – <br>\n(p.4 ) Mamma, all my various garments have arrived, for which I’m so grateful. I’ve been to a concert, a picture exhibit, Keith’s automobiling, and even antique-furniture-buying with Harry Wehle’s brother! And to crown everything – while I was at a charming bride’s luncheon the other day, along came a telegram from one L. A. Morgan, saying that he was aiming to spend Sunday I L’ville en route to Cincinnati!! – Did you ever hear anything  more wonderfully, adorably Morgan-esque !! <br>\n-- You can’t imagine (p.5) how exciting it was to have old Les [Leo?] appear, so good-looking and so gallant and so bubbling over! <br>\nIf it hadn’t rained, we would have taken a wonderful all-dy country walk thro’ a gorge --  but as it was we got in a long walk in various parks in the A M. had dinner here (the Brandeis sisters were thrilled, and of course Les [Leo?] made a tremendous hit!) and went out to Fannie’s for more walking and supper. <br>\nIt seemed the most natural thing in the world to be strolling along a country road again with Les [Leo?], singing the medley at the top of our (p.6) lungs! And we talked Cambridge and Pine Mt. till not an incident of the past five months was left undiscussed. Wasn’t it a strange, thrilling coincidence – just at Washington’s Birthday time, too, when all the rest of the clan was gathering at Manch. Les seems awfully pleased with his business and enjoying Milwaukee greatly. Isn’t it fine! To me, that seems so much more characteristic a job for him. <br>\nWell, it certainly was delightful to be gallantly escorted and stood up for and car-fared again – and the surprise made it ten times nicer! <br>\t\t\t\t\t\t\t\n(p.7) With such sudden excitements, and constant variation life seems very dazzling and wonderful – but I guess two weeks of it is enough. <br>\nFannie’s family and home are so fine! The house – a beautiful great stucco one on a hill above the river – is all that an ideal house should be – Cotton -or Garfield – esque, with great, spacious, homelike rooms, exquisitely furnished, yet so simple And I’ve had the joy of playing 2-piano duets with Fanny, and hearing her and her mother  play – oh the bliss of it!\nThen we walk with (p.8) the dogs – Jean’s blessed Beppo sheep-dog – and recline on luxurious sofas, and I drink whole pitchers of milk at meals and wear silk stockings and Ede’s lynx coat and just revel in being well-dressed and clean and airy again! <br>\nMrs Brandeis is just like a mother – so wonderfully kind and sweet – and Fannie is so Jean-like and dear! Well, you simply can’t imagine how I appreciate it and revel in the luxury of a private room and bath and such “purely” kindness all around! <br>\n(p.9) Two concentrated weeks of it thus are blissful – after leading such an utterly different life. But with Spring coming and warm weather and flowers, won’t I be glad to sight the crest of Pine Mt. again! <br>\nThink of Tuk coming down in the end of March ! And Sitoo and Al and perhaps Mamma later !! –\n-- Life is so thrilling! <br>\n-- I’m longing to hear of March doings –and about all the war excitement at home. Here its impossible to believe – either people (p.10) are indifferent or else it’s surpressed [sic]. At Fannie’s the topic is scrupulously avoided. Dr B. is not pro-German, so we talk a good deal – but it’s strange to see how little is made of it about the city. <br>\nPapa, did you know Mr Albert Brandeis in your class ’79 --? He’s their brother – no longer living. <br>\nThe O.C. Book Store sent me a bill for “The Little House on the Marne” which I didn’t get. I told them to take it up with you, but they don’t seem to have &amp; have sent another bill. Will you see about it? <br>\nMamma dear, I’m so sorry about your ankle .. I hope it isn’t troubling you much!! What a <br>\n[letter finishes on first page]</p>\n<ul><li>Keywords: long archives; henry w. longfellow family papers (long 27930); erica (thorp) de berry; document; correspondence; education; henry wadsworth longfellow family papers (1006); united states; ky; places; subject; health and illness; social life; travel; Erica Thorp deBerry Papers (1006/004.006); (LONG-SeriesName); Outgoing (1006/004.006.002); (LONG-SubseriesName); 1917 (1006/004.006.002-005); (LONG-FileUnitName)</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1917-02-15",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://npgallery.nps.gov/\">NPGallery</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Erica (Thorp) de Berry (1890-1943)",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in the <a href=\"https://en.wikipedia.org/wiki/United_States\" class=\"extiw\" title=\"en:United States\">United States</a> because it was <a href=\"//commons.wikimedia.org/wiki/Commons:Publication\" title=\"Commons:Publication\">published</a> (or registered with the <a href=\"https://en.wikipedia.org/wiki/United_States_Copyright_Office\" class=\"extiw\" title=\"en:United States Copyright Office\">U.S. Copyright Office</a>) before January 1, 1931.",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "133463863": {
+          "pageid": 133463863,
+          "ns": 6,
+          "title": "File:Erica (Thorp) de Berry to Thorp family, 15 February 1917 (725fdd60-a2c4-4d0c-84b6-ca2a5dfb2ac3).jpg",
+          "index": 17,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 585042,
+              "width": 1664,
+              "height": 2495,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/9/97/Erica_%28Thorp%29_de_Berry_to_Thorp_family%2C_15_February_1917_%28725fdd60-a2c4-4d0c-84b6-ca2a5dfb2ac3%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 1536,
+              "thumbheight": 2303,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/9/97/Erica_%28Thorp%29_de_Berry_to_Thorp_family%2C_15_February_1917_%28725fdd60-a2c4-4d0c-84b6-ca2a5dfb2ac3%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 2303
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Erica_%28Thorp%29_de_Berry_to_Thorp_family%2C_15_February_1917_%28725fdd60-a2c4-4d0c-84b6-ca2a5dfb2ac3%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Erica_(Thorp)_de_Berry_to_Thorp_family,_15_February_1917_(725fdd60-a2c4-4d0c-84b6-ca2a5dfb2ac3).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=133463863",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-06-23 00:19:40",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Erica (Thorp) de Berry to Thorp family, 15 February 1917 (725fdd60-a2c4-4d0c-84b6-ca2a5dfb2ac3)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD US expired|Images from NPGallery to check|Documents of Massachusetts|Images from NPGallery|Letters by Erica de Berry",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<p>Manuscript letter</p>\n<p>Archives Number: 1006/004.006.002-005#006</p>\n<p>[printed letterhead: Pine Mountain Settlement School] <br>\nMy dearest Family, <br>\nAfter a week of cotton-battening in true Louisville hospitality, I feel like a veritable soft-boiled egg, as Miss de Long expresses it – massaged in every pore, shockingly well-fed, and entertained within an inch of my life! <br>\nHonestly, you can’t imagine how good they are !! <br>\nIn the first place, Dr Brandeis and her sister, Miss Belle, have taken me in like a <br>\n[written cross on L margin and top] <br>\nmiserable shame! <br>\nI’m off for an electrical back massage such as Ede gets! Did you ever know such a sybarite! Best love to you all from your ex-pioneer Bun (p.2) daughter, calling me “dear child” “little lady” and “Erica” at the first go-off, petting and spoiling me in every conceivable way – special dishes to make me feel at home, special sleeping indulgences, etc. etc. – till I’ve forgotten that there ever was such a person as “Miss Thorp” or such a problem as discipline ^in the world!^ They’re just like sweet, little ladies in a book or play. In fact, the whole thing is so book-like, so absurdly lucky, that neither of us can believe its true! <br>\nAnd Ede is gaining so! <br>\t\t\t\t\t\t\t\t\t\t2.\n(p.3) Two weeks after the tonsils, she had five teeth taken out, which were badly infected and since then, she’s gained a pound and a half, and can eat and sleep as she hasn’t for months! It’s so wonderful to see the change in her. And she’s so comfortable and happy here! I spend about half the day with her, then go out to Fannie Brandeis’s or round to various entertainments as the guest of wonderfully kind Brandeis and Wehle relatives. They’re so good! And as Miss de Long has urged me to stay over for a full two weeks, I’m going to – <br>\n(p.4 ) Mamma, all my various garments have arrived, for which I’m so grateful. I’ve been to a concert, a picture exhibit, Keith’s automobiling, and even antique-furniture-buying with Harry Wehle’s brother! And to crown everything – while I was at a charming bride’s luncheon the other day, along came a telegram from one L. A. Morgan, saying that he was aiming to spend Sunday I L’ville en route to Cincinnati!! – Did you ever hear anything  more wonderfully, adorably Morgan-esque !! <br>\n-- You can’t imagine (p.5) how exciting it was to have old Les [Leo?] appear, so good-looking and so gallant and so bubbling over! <br>\nIf it hadn’t rained, we would have taken a wonderful all-dy country walk thro’ a gorge --  but as it was we got in a long walk in various parks in the A M. had dinner here (the Brandeis sisters were thrilled, and of course Les [Leo?] made a tremendous hit!) and went out to Fannie’s for more walking and supper. <br>\nIt seemed the most natural thing in the world to be strolling along a country road again with Les [Leo?], singing the medley at the top of our (p.6) lungs! And we talked Cambridge and Pine Mt. till not an incident of the past five months was left undiscussed. Wasn’t it a strange, thrilling coincidence – just at Washington’s Birthday time, too, when all the rest of the clan was gathering at Manch. Les seems awfully pleased with his business and enjoying Milwaukee greatly. Isn’t it fine! To me, that seems so much more characteristic a job for him. <br>\nWell, it certainly was delightful to be gallantly escorted and stood up for and car-fared again – and the surprise made it ten times nicer! <br>\t\t\t\t\t\t\t\n(p.7) With such sudden excitements, and constant variation life seems very dazzling and wonderful – but I guess two weeks of it is enough. <br>\nFannie’s family and home are so fine! The house – a beautiful great stucco one on a hill above the river – is all that an ideal house should be – Cotton -or Garfield – esque, with great, spacious, homelike rooms, exquisitely furnished, yet so simple And I’ve had the joy of playing 2-piano duets with Fanny, and hearing her and her mother  play – oh the bliss of it!\nThen we walk with (p.8) the dogs – Jean’s blessed Beppo sheep-dog – and recline on luxurious sofas, and I drink whole pitchers of milk at meals and wear silk stockings and Ede’s lynx coat and just revel in being well-dressed and clean and airy again! <br>\nMrs Brandeis is just like a mother – so wonderfully kind and sweet – and Fannie is so Jean-like and dear! Well, you simply can’t imagine how I appreciate it and revel in the luxury of a private room and bath and such “purely” kindness all around! <br>\n(p.9) Two concentrated weeks of it thus are blissful – after leading such an utterly different life. But with Spring coming and warm weather and flowers, won’t I be glad to sight the crest of Pine Mt. again! <br>\nThink of Tuk coming down in the end of March ! And Sitoo and Al and perhaps Mamma later !! –\n-- Life is so thrilling! <br>\n-- I’m longing to hear of March doings –and about all the war excitement at home. Here its impossible to believe – either people (p.10) are indifferent or else it’s surpressed [sic]. At Fannie’s the topic is scrupulously avoided. Dr B. is not pro-German, so we talk a good deal – but it’s strange to see how little is made of it about the city. <br>\nPapa, did you know Mr Albert Brandeis in your class ’79 --? He’s their brother – no longer living. <br>\nThe O.C. Book Store sent me a bill for “The Little House on the Marne” which I didn’t get. I told them to take it up with you, but they don’t seem to have &amp; have sent another bill. Will you see about it? <br>\nMamma dear, I’m so sorry about your ankle .. I hope it isn’t troubling you much!! What a <br>\n[letter finishes on first page]</p>\n<ul><li>Keywords: long archives; henry w. longfellow family papers (long 27930); erica (thorp) de berry; document; correspondence; education; henry wadsworth longfellow family papers (1006); united states; ky; places; subject; health and illness; social life; travel; Erica Thorp deBerry Papers (1006/004.006); (LONG-SeriesName); Outgoing (1006/004.006.002); (LONG-SubseriesName); 1917 (1006/004.006.002-005); (LONG-FileUnitName)</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1917-02-15",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://npgallery.nps.gov/\">NPGallery</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Erica (Thorp) de Berry (1890-1943)",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in the <a href=\"https://en.wikipedia.org/wiki/United_States\" class=\"extiw\" title=\"en:United States\">United States</a> because it was <a href=\"//commons.wikimedia.org/wiki/Commons:Publication\" title=\"Commons:Publication\">published</a> (or registered with the <a href=\"https://en.wikipedia.org/wiki/United_States_Copyright_Office\" class=\"extiw\" title=\"en:United States Copyright Office\">U.S. Copyright Office</a>) before January 1, 1931.",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "133513217": {
+          "pageid": 133513217,
+          "ns": 6,
+          "title": "File:Frances (Appleton) Longfellow to Emmeline (Austin) Wadsworth, 31 August 1847 (ba730941-b0b7-4132-a705-0d72e5893472).jpg",
+          "index": 20,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1895788,
+              "width": 3650,
+              "height": 2944,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Frances_%28Appleton%29_Longfellow_to_Emmeline_%28Austin%29_Wadsworth%2C_31_August_1847_%28ba730941-b0b7-4132-a705-0d72e5893472%29.jpg/1920px-Frances_%28Appleton%29_Longfellow_to_Emmeline_%28Austin%29_Wadsworth%2C_31_August_1847_%28ba730941-b0b7-4132-a705-0d72e5893472%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1239,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Frances_%28Appleton%29_Longfellow_to_Emmeline_%28Austin%29_Wadsworth%2C_31_August_1847_%28ba730941-b0b7-4132-a705-0d72e5893472%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Frances_%28Appleton%29_Longfellow_to_Emmeline_%28Austin%29_Wadsworth%2C_31_August_1847_%28ba730941-b0b7-4132-a705-0d72e5893472%29.jpg/1920px-Frances_%28Appleton%29_Longfellow_to_Emmeline_%28Austin%29_Wadsworth%2C_31_August_1847_%28ba730941-b0b7-4132-a705-0d72e5893472%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1239,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Frances_%28Appleton%29_Longfellow_to_Emmeline_%28Austin%29_Wadsworth%2C_31_August_1847_%28ba730941-b0b7-4132-a705-0d72e5893472%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Frances_%28Appleton%29_Longfellow_to_Emmeline_%28Austin%29_Wadsworth%2C_31_August_1847_%28ba730941-b0b7-4132-a705-0d72e5893472%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Frances_(Appleton)_Longfellow_to_Emmeline_(Austin)_Wadsworth,_31_August_1847_(ba730941-b0b7-4132-a705-0d72e5893472).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=133513217",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-06-24 03:27:21",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Frances (Appleton) Longfellow to Emmeline (Austin) Wadsworth, 31 August 1847 (ba730941-b0b7-4132-a705-0d72e5893472)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD US expired|Images from NPGallery|Frances (Appleton) Longfellow to Emmeline (Austin) Wadsworth, 1840s",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<p>Manuscript letter</p>\n<p>Archives Number: 1011/002.001-018#022</p>\n<p>Nahant. Wednesday. <br>\nTomorrow beloved, we return to the comforts of Craigie Castle, after a ten days visit here, &amp; most thankful shall I be to be under my own roof again, unless the dog star is malicious to my children.  We came here from Portland via Lynn, &amp; trusting to find the Hotel thin did not secure rooms, &amp; were accordingly perched up in the garret whose sloping roof seemed quite picturesque at first, &amp; I joked Henry upon finding his true poetical elevation, the attic, at last, &amp; imagined myself a poor woman ‘distrained for rint,’ seeing my baby buried in an unpainted, wooden cradle, antique enough for the infant Them, &amp; knocking my [p. 2] head against the rafters at every step.  In a few days we joyfully descended, however, to other rooms, tho still so small they are like mouse traps, &amp; we sleep with our feet almost out of the window.  I think I could not survive for a summer the dirt &amp; discomfort of this hotel, but, except that the weather has not been warm enough, &amp; I have had a wretched cold ever since I came, I have enjoyed this much time very well.  I found to my joy Mrs Sidney Brooks here, &amp; Mrs Goram [sic]; Mrs Bacon, the Rices, the Belknaps &amp; other Boston people &amp; quite a number of Canadians have also been pleasant.  There is the usual strolling &amp; gossiping on the verandahs, &amp; congregating on or near the sofas in the entry – but nothing very [p. 3] lively has been going on since I came – the Horner romance was growing stale, tho’ the hero of it still remains, promenading with his arm in a black handkerchief by way of looking interesting, constantly accompanied by the mamma &amp; daughter, the father having retired in indignation to his own house.  Mrs Brooks left for her Fathers a day or two since, &amp; gives no encouragement of visiting Geneseo.  Wm Birtt described his visit in glowing terms – to me – “altogether the most charming one her ever made in America,” so you see your efforts were not thrown away.  The style opf the house &amp; dinners delighted him, not to speak of the hostesses whicho can not be praised in the same breath. <br>\nWe have some very pretty girls here – A Miss Stone with fine brow &amp; eyes, &amp; half a dozen little sisters [p. 4] pretty, nice children &amp; amazingly clever.  They got up tableaux two evenings, grouping &amp; dressing themselves with wonderful grace &amp; taste their mother is a fine looking woman  Then Miss Sprague is a fresh &amp; fair damsel, &amp; a Miss Dana is very stately (whose brother is engaged to one of the Jays) but perhaps the loveliest person is Mrs Abbot Lawrence [crossed out: who married] a Philadelphia girl very pleasing &amp; dressing charmingly.  I feel very shabby among the nice dresses, having had no time, this summer, to have a respectable wardrobe.  Miss Ruggles often comes over from Mrs Paiges.  I like her much.  Mrs P., by the way, has a most tasteful mansion constructed out of the Codmans old one, &amp; gives dinners equal to her town ones.  Nahant is most thickly settled now but the region is as wild &amp; grand as ever.  I have longed in vain for fine surf.  We have had a dead calm [p. 5] &amp; such chilly mists that the moon has been lost upon us.  Tom has returned from Newport with lively accounts of the Fancy Ball, where he was Manager in his Greek dress.  A connection of Mackintoshes, a Mrs Wedgwood, has arrived from England, &amp; wishes to see Niagara &amp; as much besides as possible.  She has found a female friend, but no male, one to accompany her, &amp; seizes upon Tom, who goodnaturedly assents, &amp; they will set forth day after tomorrow probably &amp; will I hope see you en route.  She is a fat, sensible pleasing woman &amp; highly delighted with every thing American, from the beauty of the women &amp; children to other things many quarrel with.  [p. 6]  She passed the day here yesterday, &amp; was much stuck by the grandeur of this shore. <br>\nI have begun a charming book Hans Andersen’s story of his life.  Have you seen it?  It has all the simplicity &amp; sentiment of the North &amp; a man of genius.  I am hoping daily for your last letter. <br>\nOur landlord is insanely talking of a fancy ball next week, but where he will find performers I know not, unless he invites the mermaids &amp; mermen in their national costume.  We are thinning off very fast, altho’ all prophecy September will be warm.  I have hardly [crossed out: hardly] had a day warm enough this summer &amp; shall enjoy a sunny Autumn. <br>\n[p. 7] I asked Mrs Belknap &amp; Mrs Chase lore of Mrs Ritch, &amp; found she had a tedious, but not painful, time.  She had very slight, ineffectual pains which prolonged so much the crisis.  She used the ether only at the last.  I have heard of many new cases here, &amp; it seems now quite universal, &amp; I am cordially thanked by more than one for pioneering to such a blessing.  Mary Dwight has a boy a week old born down here.  Her eldest boy is most singularly affected they say.  The sight of children makes him ill, &amp; every mole-hill is a mountain to him.  He has been sadly indulged in such sensitiveness I believe, but when to pull the bit &amp; how far is a most puzzling manner. <br>\n[p. 8] I almost despair of educating my children decently – they are so perverse at times that any sincerity seems excusable, &amp; then are so lovely &amp; trusting that your heart melts. <br>\nBut I am weary scribbling so much on my knee, tho loath to leave any unoccupied ground.  Dr Lieber is in this vicinity. <br>\nFarewell beloved – with warmest remembrances to all about you – ever thy affte <br>\nFan – <br>\nHenry’s best love.</p>\n<ul><li>Keywords: correspondence; long archives; frances e. a. longfellow papers (long 20257); frances elizabeth (appleton) longfellow; people; document; ma; nahant; united states; places; subject; family life; social life; travel; Correspondence (1011/002); (LONG-SeriesName); Letters from Frances Longfellow (1011/002.001); (LONG-SubseriesName); 1848 (1011/002.001-018); (LONG-FileUnitName)</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1847-08-31",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://npgallery.nps.gov/\">NPGallery</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Fanny (Appleton) Longfellow (1817-1861)",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in the <a href=\"https://en.wikipedia.org/wiki/United_States\" class=\"extiw\" title=\"en:United States\">United States</a> because it was <a href=\"//commons.wikimedia.org/wiki/Commons:Publication\" title=\"Commons:Publication\">published</a> (or registered with the <a href=\"https://en.wikipedia.org/wiki/United_States_Copyright_Office\" class=\"extiw\" title=\"en:United States Copyright Office\">U.S. Copyright Office</a>) before January 1, 1931.",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "133517165": {
+          "pageid": 133517165,
+          "ns": 6,
+          "title": "File:Erica (Thorp) de Berry to Thorp family, 15 February 1917 (c710013c-18f0-4a3d-a99f-c10d422d2140).jpg",
+          "index": 11,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 648942,
+              "width": 1649,
+              "height": 2429,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Erica_%28Thorp%29_de_Berry_to_Thorp_family%2C_15_February_1917_%28c710013c-18f0-4a3d-a99f-c10d422d2140%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 1536,
+              "thumbheight": 2263,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Erica_%28Thorp%29_de_Berry_to_Thorp_family%2C_15_February_1917_%28c710013c-18f0-4a3d-a99f-c10d422d2140%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 2263
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Erica_%28Thorp%29_de_Berry_to_Thorp_family%2C_15_February_1917_%28c710013c-18f0-4a3d-a99f-c10d422d2140%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Erica_(Thorp)_de_Berry_to_Thorp_family,_15_February_1917_(c710013c-18f0-4a3d-a99f-c10d422d2140).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=133517165",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-06-24 07:02:26",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Erica (Thorp) de Berry to Thorp family, 15 February 1917 (c710013c-18f0-4a3d-a99f-c10d422d2140)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD US expired|Images from NPGallery to check|Documents of Massachusetts|Images from NPGallery|Letters by Erica de Berry",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<p>Manuscript letter</p>\n<p>Archives Number: 1006/004.006.002-005#006</p>\n<p>[printed letterhead: Pine Mountain Settlement School] <br>\nMy dearest Family, <br>\nAfter a week of cotton-battening in true Louisville hospitality, I feel like a veritable soft-boiled egg, as Miss de Long expresses it – massaged in every pore, shockingly well-fed, and entertained within an inch of my life! <br>\nHonestly, you can’t imagine how good they are !! <br>\nIn the first place, Dr Brandeis and her sister, Miss Belle, have taken me in like a <br>\n[written cross on L margin and top] <br>\nmiserable shame! <br>\nI’m off for an electrical back massage such as Ede gets! Did you ever know such a sybarite! Best love to you all from your ex-pioneer Bun (p.2) daughter, calling me “dear child” “little lady” and “Erica” at the first go-off, petting and spoiling me in every conceivable way – special dishes to make me feel at home, special sleeping indulgences, etc. etc. – till I’ve forgotten that there ever was such a person as “Miss Thorp” or such a problem as discipline ^in the world!^ They’re just like sweet, little ladies in a book or play. In fact, the whole thing is so book-like, so absurdly lucky, that neither of us can believe its true! <br>\nAnd Ede is gaining so! <br>\t\t\t\t\t\t\t\t\t\t2.\n(p.3) Two weeks after the tonsils, she had five teeth taken out, which were badly infected and since then, she’s gained a pound and a half, and can eat and sleep as she hasn’t for months! It’s so wonderful to see the change in her. And she’s so comfortable and happy here! I spend about half the day with her, then go out to Fannie Brandeis’s or round to various entertainments as the guest of wonderfully kind Brandeis and Wehle relatives. They’re so good! And as Miss de Long has urged me to stay over for a full two weeks, I’m going to – <br>\n(p.4 ) Mamma, all my various garments have arrived, for which I’m so grateful. I’ve been to a concert, a picture exhibit, Keith’s automobiling, and even antique-furniture-buying with Harry Wehle’s brother! And to crown everything – while I was at a charming bride’s luncheon the other day, along came a telegram from one L. A. Morgan, saying that he was aiming to spend Sunday I L’ville en route to Cincinnati!! – Did you ever hear anything  more wonderfully, adorably Morgan-esque !! <br>\n-- You can’t imagine (p.5) how exciting it was to have old Les [Leo?] appear, so good-looking and so gallant and so bubbling over! <br>\nIf it hadn’t rained, we would have taken a wonderful all-dy country walk thro’ a gorge --  but as it was we got in a long walk in various parks in the A M. had dinner here (the Brandeis sisters were thrilled, and of course Les [Leo?] made a tremendous hit!) and went out to Fannie’s for more walking and supper. <br>\nIt seemed the most natural thing in the world to be strolling along a country road again with Les [Leo?], singing the medley at the top of our (p.6) lungs! And we talked Cambridge and Pine Mt. till not an incident of the past five months was left undiscussed. Wasn’t it a strange, thrilling coincidence – just at Washington’s Birthday time, too, when all the rest of the clan was gathering at Manch. Les seems awfully pleased with his business and enjoying Milwaukee greatly. Isn’t it fine! To me, that seems so much more characteristic a job for him. <br>\nWell, it certainly was delightful to be gallantly escorted and stood up for and car-fared again – and the surprise made it ten times nicer! <br>\t\t\t\t\t\t\t\n(p.7) With such sudden excitements, and constant variation life seems very dazzling and wonderful – but I guess two weeks of it is enough. <br>\nFannie’s family and home are so fine! The house – a beautiful great stucco one on a hill above the river – is all that an ideal house should be – Cotton -or Garfield – esque, with great, spacious, homelike rooms, exquisitely furnished, yet so simple And I’ve had the joy of playing 2-piano duets with Fanny, and hearing her and her mother  play – oh the bliss of it!\nThen we walk with (p.8) the dogs – Jean’s blessed Beppo sheep-dog – and recline on luxurious sofas, and I drink whole pitchers of milk at meals and wear silk stockings and Ede’s lynx coat and just revel in being well-dressed and clean and airy again! <br>\nMrs Brandeis is just like a mother – so wonderfully kind and sweet – and Fannie is so Jean-like and dear! Well, you simply can’t imagine how I appreciate it and revel in the luxury of a private room and bath and such “purely” kindness all around! <br>\n(p.9) Two concentrated weeks of it thus are blissful – after leading such an utterly different life. But with Spring coming and warm weather and flowers, won’t I be glad to sight the crest of Pine Mt. again! <br>\nThink of Tuk coming down in the end of March ! And Sitoo and Al and perhaps Mamma later !! –\n-- Life is so thrilling! <br>\n-- I’m longing to hear of March doings –and about all the war excitement at home. Here its impossible to believe – either people (p.10) are indifferent or else it’s surpressed [sic]. At Fannie’s the topic is scrupulously avoided. Dr B. is not pro-German, so we talk a good deal – but it’s strange to see how little is made of it about the city. <br>\nPapa, did you know Mr Albert Brandeis in your class ’79 --? He’s their brother – no longer living. <br>\nThe O.C. Book Store sent me a bill for “The Little House on the Marne” which I didn’t get. I told them to take it up with you, but they don’t seem to have &amp; have sent another bill. Will you see about it? <br>\nMamma dear, I’m so sorry about your ankle .. I hope it isn’t troubling you much!! What a <br>\n[letter finishes on first page]</p>\n<ul><li>Keywords: long archives; henry w. longfellow family papers (long 27930); erica (thorp) de berry; document; correspondence; education; henry wadsworth longfellow family papers (1006); united states; ky; places; subject; health and illness; social life; travel; Erica Thorp deBerry Papers (1006/004.006); (LONG-SeriesName); Outgoing (1006/004.006.002); (LONG-SubseriesName); 1917 (1006/004.006.002-005); (LONG-FileUnitName)</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1917-02-15",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://npgallery.nps.gov/\">NPGallery</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Erica (Thorp) de Berry (1890-1943)",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in the <a href=\"https://en.wikipedia.org/wiki/United_States\" class=\"extiw\" title=\"en:United States\">United States</a> because it was <a href=\"//commons.wikimedia.org/wiki/Commons:Publication\" title=\"Commons:Publication\">published</a> (or registered with the <a href=\"https://en.wikipedia.org/wiki/United_States_Copyright_Office\" class=\"extiw\" title=\"en:United States Copyright Office\">U.S. Copyright Office</a>) before January 1, 1931.",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "133523710": {
+          "pageid": 133523710,
+          "ns": 6,
+          "title": "File:Erica (Thorp) de Berry to Thorp family, 15 February 1917 (d822f5e8-1158-4840-af0c-54906f58c69a).jpg",
+          "index": 14,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 596791,
+              "width": 1677,
+              "height": 2480,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/9/97/Erica_%28Thorp%29_de_Berry_to_Thorp_family%2C_15_February_1917_%28d822f5e8-1158-4840-af0c-54906f58c69a%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 1536,
+              "thumbheight": 2271,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/9/97/Erica_%28Thorp%29_de_Berry_to_Thorp_family%2C_15_February_1917_%28d822f5e8-1158-4840-af0c-54906f58c69a%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 2271
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Erica_%28Thorp%29_de_Berry_to_Thorp_family%2C_15_February_1917_%28d822f5e8-1158-4840-af0c-54906f58c69a%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Erica_(Thorp)_de_Berry_to_Thorp_family,_15_February_1917_(d822f5e8-1158-4840-af0c-54906f58c69a).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=133523710",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-06-24 12:09:33",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Erica (Thorp) de Berry to Thorp family, 15 February 1917 (d822f5e8-1158-4840-af0c-54906f58c69a)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD US expired|Images from NPGallery to check|Documents of Massachusetts|Images from NPGallery|Letters by Erica de Berry",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<p>Manuscript letter</p>\n<p>Archives Number: 1006/004.006.002-005#006</p>\n<p>[printed letterhead: Pine Mountain Settlement School] <br>\nMy dearest Family, <br>\nAfter a week of cotton-battening in true Louisville hospitality, I feel like a veritable soft-boiled egg, as Miss de Long expresses it – massaged in every pore, shockingly well-fed, and entertained within an inch of my life! <br>\nHonestly, you can’t imagine how good they are !! <br>\nIn the first place, Dr Brandeis and her sister, Miss Belle, have taken me in like a <br>\n[written cross on L margin and top] <br>\nmiserable shame! <br>\nI’m off for an electrical back massage such as Ede gets! Did you ever know such a sybarite! Best love to you all from your ex-pioneer Bun (p.2) daughter, calling me “dear child” “little lady” and “Erica” at the first go-off, petting and spoiling me in every conceivable way – special dishes to make me feel at home, special sleeping indulgences, etc. etc. – till I’ve forgotten that there ever was such a person as “Miss Thorp” or such a problem as discipline ^in the world!^ They’re just like sweet, little ladies in a book or play. In fact, the whole thing is so book-like, so absurdly lucky, that neither of us can believe its true! <br>\nAnd Ede is gaining so! <br>\t\t\t\t\t\t\t\t\t\t2.\n(p.3) Two weeks after the tonsils, she had five teeth taken out, which were badly infected and since then, she’s gained a pound and a half, and can eat and sleep as she hasn’t for months! It’s so wonderful to see the change in her. And she’s so comfortable and happy here! I spend about half the day with her, then go out to Fannie Brandeis’s or round to various entertainments as the guest of wonderfully kind Brandeis and Wehle relatives. They’re so good! And as Miss de Long has urged me to stay over for a full two weeks, I’m going to – <br>\n(p.4 ) Mamma, all my various garments have arrived, for which I’m so grateful. I’ve been to a concert, a picture exhibit, Keith’s automobiling, and even antique-furniture-buying with Harry Wehle’s brother! And to crown everything – while I was at a charming bride’s luncheon the other day, along came a telegram from one L. A. Morgan, saying that he was aiming to spend Sunday I L’ville en route to Cincinnati!! – Did you ever hear anything  more wonderfully, adorably Morgan-esque !! <br>\n-- You can’t imagine (p.5) how exciting it was to have old Les [Leo?] appear, so good-looking and so gallant and so bubbling over! <br>\nIf it hadn’t rained, we would have taken a wonderful all-dy country walk thro’ a gorge --  but as it was we got in a long walk in various parks in the A M. had dinner here (the Brandeis sisters were thrilled, and of course Les [Leo?] made a tremendous hit!) and went out to Fannie’s for more walking and supper. <br>\nIt seemed the most natural thing in the world to be strolling along a country road again with Les [Leo?], singing the medley at the top of our (p.6) lungs! And we talked Cambridge and Pine Mt. till not an incident of the past five months was left undiscussed. Wasn’t it a strange, thrilling coincidence – just at Washington’s Birthday time, too, when all the rest of the clan was gathering at Manch. Les seems awfully pleased with his business and enjoying Milwaukee greatly. Isn’t it fine! To me, that seems so much more characteristic a job for him. <br>\nWell, it certainly was delightful to be gallantly escorted and stood up for and car-fared again – and the surprise made it ten times nicer! <br>\t\t\t\t\t\t\t\n(p.7) With such sudden excitements, and constant variation life seems very dazzling and wonderful – but I guess two weeks of it is enough. <br>\nFannie’s family and home are so fine! The house – a beautiful great stucco one on a hill above the river – is all that an ideal house should be – Cotton -or Garfield – esque, with great, spacious, homelike rooms, exquisitely furnished, yet so simple And I’ve had the joy of playing 2-piano duets with Fanny, and hearing her and her mother  play – oh the bliss of it!\nThen we walk with (p.8) the dogs – Jean’s blessed Beppo sheep-dog – and recline on luxurious sofas, and I drink whole pitchers of milk at meals and wear silk stockings and Ede’s lynx coat and just revel in being well-dressed and clean and airy again! <br>\nMrs Brandeis is just like a mother – so wonderfully kind and sweet – and Fannie is so Jean-like and dear! Well, you simply can’t imagine how I appreciate it and revel in the luxury of a private room and bath and such “purely” kindness all around! <br>\n(p.9) Two concentrated weeks of it thus are blissful – after leading such an utterly different life. But with Spring coming and warm weather and flowers, won’t I be glad to sight the crest of Pine Mt. again! <br>\nThink of Tuk coming down in the end of March ! And Sitoo and Al and perhaps Mamma later !! –\n-- Life is so thrilling! <br>\n-- I’m longing to hear of March doings –and about all the war excitement at home. Here its impossible to believe – either people (p.10) are indifferent or else it’s surpressed [sic]. At Fannie’s the topic is scrupulously avoided. Dr B. is not pro-German, so we talk a good deal – but it’s strange to see how little is made of it about the city. <br>\nPapa, did you know Mr Albert Brandeis in your class ’79 --? He’s their brother – no longer living. <br>\nThe O.C. Book Store sent me a bill for “The Little House on the Marne” which I didn’t get. I told them to take it up with you, but they don’t seem to have &amp; have sent another bill. Will you see about it? <br>\nMamma dear, I’m so sorry about your ankle .. I hope it isn’t troubling you much!! What a <br>\n[letter finishes on first page]</p>\n<ul><li>Keywords: long archives; henry w. longfellow family papers (long 27930); erica (thorp) de berry; document; correspondence; education; henry wadsworth longfellow family papers (1006); united states; ky; places; subject; health and illness; social life; travel; Erica Thorp deBerry Papers (1006/004.006); (LONG-SeriesName); Outgoing (1006/004.006.002); (LONG-SubseriesName); 1917 (1006/004.006.002-005); (LONG-FileUnitName)</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1917-02-15",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://npgallery.nps.gov/\">NPGallery</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Erica (Thorp) de Berry (1890-1943)",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in the <a href=\"https://en.wikipedia.org/wiki/United_States\" class=\"extiw\" title=\"en:United States\">United States</a> because it was <a href=\"//commons.wikimedia.org/wiki/Commons:Publication\" title=\"Commons:Publication\">published</a> (or registered with the <a href=\"https://en.wikipedia.org/wiki/United_States_Copyright_Office\" class=\"extiw\" title=\"en:United States Copyright Office\">U.S. Copyright Office</a>) before January 1, 1931.",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "146159239": {
+          "pageid": 146159239,
+          "ns": 6,
+          "title": "File:Nylabone (2757666895).jpg",
+          "index": 6,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 868752,
+              "width": 1016,
+              "height": 813,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Nylabone_%282757666895%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 1536,
+              "thumbheight": 1229,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Nylabone_%282757666895%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1229
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Nylabone_%282757666895%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nylabone_(2757666895).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146159239",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-03-07 18:55:26",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Nylabone (2757666895)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Korean Jindo|Mixed-breed dogs|Kai Inu|Dogs of Nevada|Flickr images reviewed by FlickreviewR 2|Files from Mitch Barrie Flickr stream",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<p>Photo taken the second day Cisco lived with me.  For quite a long time it was my favorite photo of him; dunno why I just got around to uploading it to Flickr.\n</p><p>For the first year he was an obnoxious chewer.  He would chew shoes, books, anything he could.  He'd work on the &lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://www.nylabone.com/\">http://www.nylabone.com/</a>\"&gt;Nylabones&lt;a&gt; for hours, they were great.  Some vet told me they didn't recommend Nylabones.  I don't know why, maybe because the dogs chew off bits of plastic and swallow them.  BFD, it certainly wouldn't be the worst thing your dog ingests.\n</p>\nThe sofa is in my office now, in a much reduced state, and he still spends part of the day sleeping on it.&lt;/a&gt;&lt;/a&gt;",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2002-04-12 08:17",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/simonov/2757666895/\">Nylabone</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/26209464@N00\">Mitch Barrie</a> from Reno, NV, USA",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "148498720": {
+          "pageid": 148498720,
+          "ns": 6,
+          "title": "File:Beagle sleeping on the sofa.jpg",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1802488,
+              "width": 4032,
+              "height": 3024,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Beagle_sleeping_on_the_sofa.jpg/1920px-Beagle_sleeping_on_the_sofa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1152,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Beagle_sleeping_on_the_sofa.jpg/3840px-Beagle_sleeping_on_the_sofa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Beagle_sleeping_on_the_sofa.jpg/1920px-Beagle_sleeping_on_the_sofa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1152,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Beagle_sleeping_on_the_sofa.jpg/3840px-Beagle_sleeping_on_the_sofa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Beagle_sleeping_on_the_sofa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Beagle_sleeping_on_the_sofa.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=148498720",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-05-19 07:49:43",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Beagle sleeping on the sofa",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Beagle (dog)|Self-published work|Dogs of Thailand|Files with coordinates missing SDC location of creation",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "13.741894",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "100.567817",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Coco the beagle sleeping on a sofa",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2022-11-06 10:11:57",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Slyronit\" title=\"User:Slyronit\">Slyronit</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "148498807": {
+          "pageid": 148498807,
+          "ns": 6,
+          "title": "File:Beagle puppy sleeping 2.jpg",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 4039063,
+              "width": 3024,
+              "height": 4032,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Beagle_puppy_sleeping_2.jpg/1920px-Beagle_puppy_sleeping_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 2048,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Beagle_puppy_sleeping_2.jpg/1920px-Beagle_puppy_sleeping_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 2048
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Beagle_puppy_sleeping_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Beagle_puppy_sleeping_2.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=148498807",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-05-19 07:50:29",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Beagle puppy sleeping 2",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Beagle (dog)|Self-published work|Dogs of Thailand|Files with coordinates missing SDC location of creation|Sleeping puppies|Beagle puppies",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "13.744231",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "100.568619",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Coco the beagle puppy sleeping on her side on the sofa",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2021-04-29 16:42:20",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Slyronit\" title=\"User:Slyronit\">Slyronit</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "157700663": {
+          "pageid": 157700663,
+          "ns": 6,
+          "title": "File:Pet tech smart dog house.gif",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 9630080,
+              "width": 800,
+              "height": 560,
+              "duration": 4.999999999999998,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Pet_tech_smart_dog_house.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 1536,
+              "thumbheight": 1075,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/d/da/Pet_tech_smart_dog_house.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1075
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Pet_tech_smart_dog_house.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pet_tech_smart_dog_house.gif",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=157700663",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2025-01-09 08:44:41",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Pet tech smart dog house",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|Unidentified dogs",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "The dachshund sleeps comfortably on the lazy pet sofa in the smart dog house",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2025-01-04",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Chris_Yi_Liu&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Chris Yi Liu (page does not exist)\">Chris Yi Liu</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "157899335": {
+          "pageid": 157899335,
+          "ns": 6,
+          "title": "File:Thomas Butler Gunn Diaries- Volume 18, page 218, February 7, 1862 - DPLA - 4acb39b2e765a0c4c88d6dfd6d422830.jpg",
+          "index": 18,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1634464,
+              "width": 2879,
+              "height": 4433,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Thomas_Butler_Gunn_Diaries-_Volume_18%2C_page_218%2C_February_7%2C_1862_-_DPLA_-_4acb39b2e765a0c4c88d6dfd6d422830.jpg/1920px-Thomas_Butler_Gunn_Diaries-_Volume_18%2C_page_218%2C_February_7%2C_1862_-_DPLA_-_4acb39b2e765a0c4c88d6dfd6d422830.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 2365,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/4/40/Thomas_Butler_Gunn_Diaries-_Volume_18%2C_page_218%2C_February_7%2C_1862_-_DPLA_-_4acb39b2e765a0c4c88d6dfd6d422830.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Thomas_Butler_Gunn_Diaries-_Volume_18%2C_page_218%2C_February_7%2C_1862_-_DPLA_-_4acb39b2e765a0c4c88d6dfd6d422830.jpg/1920px-Thomas_Butler_Gunn_Diaries-_Volume_18%2C_page_218%2C_February_7%2C_1862_-_DPLA_-_4acb39b2e765a0c4c88d6dfd6d422830.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 2365,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/4/40/Thomas_Butler_Gunn_Diaries-_Volume_18%2C_page_218%2C_February_7%2C_1862_-_DPLA_-_4acb39b2e765a0c4c88d6dfd6d422830.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Thomas_Butler_Gunn_Diaries-_Volume_18%2C_page_218%2C_February_7%2C_1862_-_DPLA_-_4acb39b2e765a0c4c88d6dfd6d422830.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Thomas_Butler_Gunn_Diaries-_Volume_18,_page_218,_February_7,_1862_-_DPLA_-_4acb39b2e765a0c4c88d6dfd6d422830.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=157899335",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2025-01-13 22:04:48",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nThomas Butler Gunn Diaries: Volume 18, page 218, February 7, 1862</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD US|Media contributed by the Digital Public Library of America|Artworks without Wikidata item|Information field template with formatting|Media contributed by Heartland Hub|Media contributed by Missouri Historical Society",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "Gunn, Thomas Butler, 1826-1903",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nDescribes Frank Bellew's house. Transcription: 197 then to a sofa-bed in the adjoining room. It was a suggestive position, the handsome but half-furnished apartment; the adjoining one with its unwashed marble mantel piece and artist-litter, the mice nibbling and scratching in the wainscot, like the cares that wear where eating the hearts of the miserable couple above. What ingeniously-wrought novelistic revenge for the breaking of that commandment could equal all this? I felt profoundly sorry for [Frank] Bellew, — and went to sleep. In two hours time I heard him in the next parlor. A howling dog prevented his slumber. I hadn't heard the creature, but did distinguish a yap and momentary yell subsequently. Bellew went to bed again and slept soundly, as I did, till God's sunlight came in through the windows and aroused me. My host was up presently. All the arrangements of the household struck me as in keeping, a curious blending of magnificence and discomfort. The plug to the wash basin in the bath room was mislaid; I had to wash in running water, a la Eothen — (a good plan, too.) One handsome chair in Bellew's studio was deficient of an arm. When the girl made the fire she didn't clean out the cinders of overnight, but heaped on top an extravagant and unnecessary amount of wood — which Bellew removed. We</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "This file was contributed to Wikimedia Commons by <a href=\"https://en.wikipedia.org/wiki/en:Missouri_Historical_Society\" class=\"extiw\" title=\"w:en:Missouri Historical Society\"><span title=\"organization in US\">Missouri Historical Society</span></a> as part of a cooperation project. The donation was facilitated by the <a href=\"https://en.wikipedia.org/wiki/Digital_Public_Library_of_America\" class=\"extiw\" title=\"w:Digital Public Library of America\">Digital Public Library of America</a>, via its partner <a href=\"https://www.wikidata.org/wiki/Q83878488\" class=\"extiw\" title=\"d:Q83878488\"><span title=\"regional digital library in the United States, and service hub for DPLA\">Heartland Hub</span></a>.<span style=\"text-align:left\">\n<ul><li><a rel=\"nofollow\" class=\"external text\" href=\"https://mohistory.org/collections/item/DX01934870\">Record in source catalog</a></li>\n<li>DPLA identifier: <a rel=\"nofollow\" class=\"external text\" href=\"https://dp.la/item/4acb39b2e765a0c4c88d6dfd6d422830\">4acb39b2e765a0c4c88d6dfd6d422830</a></li>\n<li>Missouri Historical Society identifier: DX01934870</li></ul>\n</span>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "This image might not be in the public domain outside of the United States; this especially applies in the countries and areas that do not apply the <a href=\"https://en.wikipedia.org/wiki/rule_of_the_shorter_term\" class=\"extiw\" title=\"w:rule of the shorter term\">rule of the shorter term</a> for US works, such as Canada, Mainland China (not Hong Kong or Macao), Germany, Mexico, and Switzerland. The creator and year of publication are essential information and must be provided. See <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Public_domain\" class=\"extiw\" title=\"w:Wikipedia:Public domain\">Wikipedia:Public domain</a> and <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Copyrights\" class=\"extiw\" title=\"w:Wikipedia:Copyrights\">Wikipedia:Copyrights</a> for more details.",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

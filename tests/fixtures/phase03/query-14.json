@@ -1,0 +1,1095 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 10,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "643902": {
+        "pageid": 643902,
+        "ns": 6,
+        "title": "File:Classical Guitar two views.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 393726,
+            "width": 1051,
+            "height": 1600,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Classical_Guitar_two_views.jpg/960px-Classical_Guitar_two_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1169,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Classical_Guitar_two_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Classical_Guitar_two_views.jpg/960px-Classical_Guitar_two_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1169,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Classical_Guitar_two_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Classical_Guitar_two_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Classical_Guitar_two_views.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=643902",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2006-03-19 14:38:39",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Classical Guitar two views",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Classical guitars|Guitar construction|Classical guitar construction diagrams|Language-neutral diagrams of musical instruments|Yamaha classical guitars",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<b>Classical Guitar, front and side view</b>. This image shows two views of a classical guitar.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2006-03",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "[own]",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Martin_M%C3%B6ller&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Martin Möller (page does not exist)\">Martin Möller</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0 de",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0 de",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0-de",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "6003081": {
+        "pageid": 6003081,
+        "ns": 6,
+        "title": "File:Electric Guitar (Superstrat based on ESP KH - vertical) - with hint lines and numbers.png",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1856481,
+            "width": 1111,
+            "height": 2982,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Electric_Guitar_%28Superstrat_based_on_ESP_KH_-_vertical%29_-_with_hint_lines_and_numbers.png/960px-Electric_Guitar_%28Superstrat_based_on_ESP_KH_-_vertical%29_-_with_hint_lines_and_numbers.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 2061,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Electric_Guitar_%28Superstrat_based_on_ESP_KH_-_vertical%29_-_with_hint_lines_and_numbers.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Electric_Guitar_%28Superstrat_based_on_ESP_KH_-_vertical%29_-_with_hint_lines_and_numbers.png/960px-Electric_Guitar_%28Superstrat_based_on_ESP_KH_-_vertical%29_-_with_hint_lines_and_numbers.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 2061,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Electric_Guitar_%28Superstrat_based_on_ESP_KH_-_vertical%29_-_with_hint_lines_and_numbers.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Electric_Guitar_%28Superstrat_based_on_ESP_KH_-_vertical%29_-_with_hint_lines_and_numbers.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Electric_Guitar_(Superstrat_based_on_ESP_KH_-_vertical)_-_with_hint_lines_and_numbers.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=6003081",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2009-02-21 00:49:17",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Electric Guitar (Superstrat based on ESP KH - vertical) - with hint lines and numbers",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "ESP guitars|GFDL|License migration redundant|CC-BY-SA-4.0,3.0,2.5,2.0,1.0|Self-published work|Featured diagrams|Featured pictures on Wikipedia, Polish|Red guitars|Electric guitar construction diagrams|Files with Assessments template missing SDC Commons no value quality assessment|Musical instrument diagrams labelled with numbers only",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/Electric_guitar\" title=\"Electric guitar\">Electric Guitar</a> based on ESP KH model.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2009-02-21 00:49",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span> (<span lang=\"en\" dir=\"ltr\">Original text: <i><bdi lang=\"\">Own work by uploader based on ESP KH and Floyd Rose Pro photos.</bdi></i></span>)",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Spike78\" title=\"User:Spike78\">Spike78</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Spike78\" title=\"User:Spike78\">Spike78</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "6832639": {
+        "pageid": 6832639,
+        "ns": 6,
+        "title": "File:Guitar May 2009-1.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3440093,
+            "width": 2548,
+            "height": 3663,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Guitar_May_2009-1.jpg/960px-Guitar_May_2009-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1104,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Guitar_May_2009-1.jpg/1920px-Guitar_May_2009-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Guitar_May_2009-1.jpg/960px-Guitar_May_2009-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1104,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Guitar_May_2009-1.jpg/1920px-Guitar_May_2009-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Guitar_May_2009-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Guitar_May_2009-1.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=6832639",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2009-05-21 14:08:13",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Guitar May 2009-1",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Nikon D80|License migration redundant|Self-published work|Photographs by Alvesgaspar|Classical guitar headstocks",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality|valued",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A classic guitar headstock, showing the machine heads, nut and strings.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2009-05",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\">Self-photographed</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Alvesgaspar\" title=\"User:Alvesgaspar\">Alvesgaspar</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Alvesgaspar\" title=\"User talk:Alvesgaspar\"><span class=\"signature-talk\">talk</span></a>)",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "20197477": {
+        "pageid": 20197477,
+        "ns": 6,
+        "title": "File:Electric Guitar (Superstrat based on ESP KH - vertical) - with hint lines and numbers in Farsi numbers.png",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1532974,
+            "width": 2982,
+            "height": 1111,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Electric_Guitar_%28Superstrat_based_on_ESP_KH_-_vertical%29_-_with_hint_lines_and_numbers_in_Farsi_numbers.png/960px-Electric_Guitar_%28Superstrat_based_on_ESP_KH_-_vertical%29_-_with_hint_lines_and_numbers_in_Farsi_numbers.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 286,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Electric_Guitar_%28Superstrat_based_on_ESP_KH_-_vertical%29_-_with_hint_lines_and_numbers_in_Farsi_numbers.png/1920px-Electric_Guitar_%28Superstrat_based_on_ESP_KH_-_vertical%29_-_with_hint_lines_and_numbers_in_Farsi_numbers.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Electric_Guitar_%28Superstrat_based_on_ESP_KH_-_vertical%29_-_with_hint_lines_and_numbers_in_Farsi_numbers.png/960px-Electric_Guitar_%28Superstrat_based_on_ESP_KH_-_vertical%29_-_with_hint_lines_and_numbers_in_Farsi_numbers.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 286,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Electric_Guitar_%28Superstrat_based_on_ESP_KH_-_vertical%29_-_with_hint_lines_and_numbers_in_Farsi_numbers.png/1920px-Electric_Guitar_%28Superstrat_based_on_ESP_KH_-_vertical%29_-_with_hint_lines_and_numbers_in_Farsi_numbers.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Electric_Guitar_%28Superstrat_based_on_ESP_KH_-_vertical%29_-_with_hint_lines_and_numbers_in_Farsi_numbers.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Electric_Guitar_(Superstrat_based_on_ESP_KH_-_vertical)_-_with_hint_lines_and_numbers_in_Farsi_numbers.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=20197477",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-09-29 20:12:52",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Electric Guitar (Superstrat based on ESP KH - vertical) - with hint lines and numbers in Farsi numbers",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "ESP guitars|Self-published work|Featured diagrams|Featured pictures on Wikipedia, Persian|Electric guitar construction diagrams|Files with Assessments template missing SDC Commons no value quality assessment|Musical instrument diagrams labelled with numbers only|Persian-language diagrams of musical instruments",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Electric Guitar based on ESP KH model.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2009-02-21 00:49",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "work by <a href=\"//commons.wikimedia.org/wiki/User:Spike78\" title=\"User:Spike78\">Spike78</a> uploader based on ESP KH and Floyd Rose Pro photos. orginal file: <a href=\"//commons.wikimedia.org/wiki/File:Electric_Guitar_(Superstrat_based_on_ESP_KH_-_vertical)_-_with_hint_lines_and_numbers.png\" title=\"File:Electric Guitar (Superstrat based on ESP KH - vertical) - with hint lines and numbers.png\">File:Electric Guitar (Superstrat based on ESP KH - vertical) - with hint lines and numbers.png</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Spike78\" title=\"User:Spike78\">Spike78</a> edited in Persian (Farsi) language by <a href=\"//commons.wikimedia.org/wiki/User:Alborzagros\" title=\"User:Alborzagros\">Alborzagros</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "23405828": {
+        "pageid": 23405828,
+        "ns": 6,
+        "title": "File:Vienna - Double guitar Paris 1690 - 9606.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7113645,
+            "width": 2912,
+            "height": 4368,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Vienna_-_Double_guitar_Paris_1690_-_9606.jpg/960px-Vienna_-_Double_guitar_Paris_1690_-_9606.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1152,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Vienna_-_Double_guitar_Paris_1690_-_9606.jpg/1920px-Vienna_-_Double_guitar_Paris_1690_-_9606.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Vienna_-_Double_guitar_Paris_1690_-_9606.jpg/960px-Vienna_-_Double_guitar_Paris_1690_-_9606.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1152,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Vienna_-_Double_guitar_Paris_1690_-_9606.jpg/1920px-Vienna_-_Double_guitar_Paris_1690_-_9606.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Vienna_-_Double_guitar_Paris_1690_-_9606.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vienna_-_Double_guitar_Paris_1690_-_9606.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=23405828",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-09-24 14:29:10",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Vienna - Double guitar Paris 1690 - 9606",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS 5D|Alexandre Voboam (luthier)|Double neck guitars|Baroque guitars|Self-published work|Featured pictures by others nominated by Yann Forget|Information field template with formatting|Musical instruments in the Collection of Ancient Musical Instruments, Kunsthistorisches Museum|Featured pictures of Vienna|Unique guitars|Photos of Austria by User:jorgeroyan|Featured pictures by Jorge Royan|Featured pictures of musical instruments|5 double courses string instruments|5 double courses guitars",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality|featured|potd",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Double guitar from the luthier Alexandre Voboam, Paris, 1690.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2007",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Jorge Royan",
+                "source": "commons-desc-page"
+              },
+              "Attribution": {
+                "value": "© Jorge Royan / <a rel=\"nofollow\" class=\"external free\" href=\"http://www.royan.com.ar\">http://www.royan.com.ar</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "24483704": {
+        "pageid": 24483704,
+        "ns": 6,
+        "title": "File:Guitar-1333353440ujZ.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 297338,
+            "width": 1280,
+            "height": 1920,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Guitar-1333353440ujZ.jpg/960px-Guitar-1333353440ujZ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1152,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/1/19/Guitar-1333353440ujZ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Guitar-1333353440ujZ.jpg/960px-Guitar-1333353440ujZ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1152,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/1/19/Guitar-1333353440ujZ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Guitar-1333353440ujZ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Guitar-1333353440ujZ.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24483704",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-02-06 02:16:24",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Guitar-1333353440ujZ",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Classical guitars|CC-Zero|Media needing category review with 2 suggested categories|Media needing category review as of 7 February 2013|Media needing category review in use in a gallery|Black and white photographs of musical instruments",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A black and white photograph of a guitar.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-02-05 20:12:02",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.publicdomainpictures.net/view-image.php?image=20930&amp;picture=guitar&amp;large=1\">http://www.publicdomainpictures.net/view-image.php?image=20930&amp;picture=guitar&amp;large=1</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Anna Longova",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "33732656": {
+        "pageid": 33732656,
+        "ns": 6,
+        "title": "File:Musical instruments on display at the MIM Voodoo Guitar.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 76595,
+            "width": 397,
+            "height": 640,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Musical_instruments_on_display_at_the_MIM_Voodoo_Guitar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 768,
+            "thumbheight": 1238,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/6/69/Musical_instruments_on_display_at_the_MIM_Voodoo_Guitar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1238
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Musical_instruments_on_display_at_the_MIM_Voodoo_Guitar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Musical_instruments_on_display_at_the_MIM_Voodoo_Guitar.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=33732656",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-07-03 23:13:45",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Musical instruments on display at the MIM Voodoo Guitar",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Hurricane Katrina|Fender Telecaster|Individual guitars|Flickr images reviewed by FlickreviewR|Photographs by Frank Kovalchek|Decorated guitars|Musical Instrument Museum (Phoenix) (flat list)|Guitars in the Musical Instrument Museum (Phoenix)|Musical Instrument Museum (Phoenix) images by Frank Kovalchek",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<div style=\"width:52em;\">\n<div style=\"column-count:2;margin:.3em 0;\" class=\"columns\"><div style=\"margin:-.3em 0;\">\n<div style=\"line-height:0.55ex;\"><br></div>\n<pre>“<b>Voodoo guitar</b>”<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>\nNew Orleans, Louisiana, USA, 2005-2010\nWood, copper, brass, steel, tin, crystal, LED,\nchicken foot, mojo\nDon Moser, artist\n\n<small>Loan courtesy of Don Moser</small>\n<small>L2012.9.1</small>\n</pre>\n<div style=\"line-height:0ex;\"><br></div>\n<pre>A Fender Telecaster stripped down\nby Hurricane Katrina and rebuilt by\n<i>Don Moser</i> in tribute to Southern\nfolk culture and African-influenced\nspirituality.\n<br><br>\n</pre>\n<div style=\"line-height:0;\"></div>\n</div></div></div>\n<div style=\"font-size:80%;line-height:2ex;\">\n<hr>\n<p>We read about the Musical Instrument Museum (MIM) on Trip Advisor - it was the top rated attraction in Phoenix - and now we can see why! The museum is dedicated to musical instruments from around the world - the collection is fascinating, the exhibits are great and the hands-on displays were fun. We spent almost 5 hours here and still felt rushed - this place is definitely worth a detour.\n</p><p>I know nothing about musical instruments so if you happen to know what a particular instrument is, please feel free to comment on it. I tried to include as many labels as possible.\n</p><p>The museum is in Phoenix, AZ - we visited it in March 2014.\n</p>\n<hr>\n</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-06-04 14:20",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/72213316@N00/14371976503/\">Musical instruments on display at the MIM</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/72213316@N00\">Frank Kovalchek</a> from Anchorage, Alaska, USA",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "61378011": {
+        "pageid": 61378011,
+        "ns": 6,
+        "title": "File:Mexican guitars and toys.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 13452302,
+            "width": 4719,
+            "height": 3756,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Mexican_guitars_and_toys.jpg/960px-Mexican_guitars_and_toys.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 611,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Mexican_guitars_and_toys.jpg/1920px-Mexican_guitars_and_toys.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Mexican_guitars_and_toys.jpg/960px-Mexican_guitars_and_toys.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 611,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Mexican_guitars_and_toys.jpg/1920px-Mexican_guitars_and_toys.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Mexican_guitars_and_toys.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mexican_guitars_and_toys.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=61378011",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-07-30 06:34:58",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Mexican guitars and toys",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Featured pictures of Mexico|Self-published work|Information field template with formatting|Guitars from Mexico|Mexico photographs taken on 2017-07-29|Featured pictures of musical instruments|String instruments in Mexico|Guitar toys|Markets in Guanajuato (city)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "featured",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Mexican guitars and toys in Guanajuato, Mexico.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-07-29 15:50:09",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Tomascastelazo\" title=\"User:Tomascastelazo\">Tomascastelazo</a>",
+                "source": "commons-desc-page"
+              },
+              "Attribution": {
+                "value": "In order to comply with the use and licensing terms of this image, the following text must must be included with the image when published in any medium, failure to do so constitutes a violation of the licensing terms and copyright infringement: © Tomas Castelazo, <a rel=\"nofollow\" class=\"external text\" href=\"https://www.tomascastelazo.com\">www.tomascastelazo.com</a> / <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "86334911": {
+        "pageid": 86334911,
+        "ns": 6,
+        "title": "File:Man playing an acoustic brazilian guitar (Violão) on Marco Zero Square, Refice, Pernambuco, Brazil.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 12116874,
+            "width": 6000,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Man_playing_an_acoustic_brazilian_guitar_%28Viol%C3%A3o%29_on_Marco_Zero_Square%2C_Refice%2C_Pernambuco%2C_Brazil.jpg/960px-Man_playing_an_acoustic_brazilian_guitar_%28Viol%C3%A3o%29_on_Marco_Zero_Square%2C_Refice%2C_Pernambuco%2C_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 512,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Man_playing_an_acoustic_brazilian_guitar_%28Viol%C3%A3o%29_on_Marco_Zero_Square%2C_Refice%2C_Pernambuco%2C_Brazil.jpg/1920px-Man_playing_an_acoustic_brazilian_guitar_%28Viol%C3%A3o%29_on_Marco_Zero_Square%2C_Refice%2C_Pernambuco%2C_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Man_playing_an_acoustic_brazilian_guitar_%28Viol%C3%A3o%29_on_Marco_Zero_Square%2C_Refice%2C_Pernambuco%2C_Brazil.jpg/960px-Man_playing_an_acoustic_brazilian_guitar_%28Viol%C3%A3o%29_on_Marco_Zero_Square%2C_Refice%2C_Pernambuco%2C_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 512,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Man_playing_an_acoustic_brazilian_guitar_%28Viol%C3%A3o%29_on_Marco_Zero_Square%2C_Refice%2C_Pernambuco%2C_Brazil.jpg/1920px-Man_playing_an_acoustic_brazilian_guitar_%28Viol%C3%A3o%29_on_Marco_Zero_Square%2C_Refice%2C_Pernambuco%2C_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Man_playing_an_acoustic_brazilian_guitar_%28Viol%C3%A3o%29_on_Marco_Zero_Square%2C_Refice%2C_Pernambuco%2C_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Man_playing_an_acoustic_brazilian_guitar_(Viol%C3%A3o)_on_Marco_Zero_Square,_Refice,_Pernambuco,_Brazil.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=86334911",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-01-26 18:43:54",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Man playing an acoustic brazilian guitar (Violão) on Marco Zero Square, Refice, Pernambuco, Brazil",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Resonator guitars|Guitars from Brazil|Self-published work|Featured pictures by User:Wilfredor|21st-century black and white photographs of Brazil|Men with acoustic guitars|Brazil photographs taken on 2020-01-03|Featured contemporary black and white photographs|Featured pictures of musical instruments|Featured photographs in the public domain|Black and white photographs of hands|Black and White Pictures by Wilfredor|Featured pictures of Recife",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality|featured|potd",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Man playing an acoustic brazilian guitar (Violão) on Marco Zero Square, Refice, Pernambuco, Brazil.<a href=\"//commons.wikimedia.org/wiki/File:Embolada_folk_music_of_Recife,_Pernambuco,_Brazil.ogg\" title=\"File:Embolada folk music of Recife, Pernambuco, Brazil.ogg\">Play music of this image</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2020-01-03 09:55:50",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q115464159\" class=\"extiw\" title=\"d:Q115464159\"><span title=\"developer analyst and photographer from Venezuela\">Wilfredor</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "149522039": {
+        "pageid": 149522039,
+        "ns": 6,
+        "title": "File:Glen Campbell costum and Guitars at thecMusical Instrument Museum.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6193411,
+            "width": 2605,
+            "height": 3511,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Glen_Campbell_costum_and_Guitars_at_thecMusical_Instrument_Museum.jpg/960px-Glen_Campbell_costum_and_Guitars_at_thecMusical_Instrument_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1035,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Glen_Campbell_costum_and_Guitars_at_thecMusical_Instrument_Museum.jpg/1920px-Glen_Campbell_costum_and_Guitars_at_thecMusical_Instrument_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Glen_Campbell_costum_and_Guitars_at_thecMusical_Instrument_Museum.jpg/960px-Glen_Campbell_costum_and_Guitars_at_thecMusical_Instrument_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1035,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Glen_Campbell_costum_and_Guitars_at_thecMusical_Instrument_Museum.jpg/1920px-Glen_Campbell_costum_and_Guitars_at_thecMusical_Instrument_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Glen_Campbell_costum_and_Guitars_at_thecMusical_Instrument_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Glen_Campbell_costum_and_Guitars_at_thecMusical_Instrument_Museum.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=149522039",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-06-19 08:06:18",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Glen Campbell costum and Guitars at thecMusical Instrument Museum",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Glen Campbell|Guitars|Musical Instrument Museum (Phoenix)|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2024-04-04",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "33.667396",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-111.977968",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Glen Campbell costum and Guitars at the Musical Instrument Museum (museum in Phoenix, Arizona). Photo by Jim Heaphy.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "4 April 2024<span typeof=\"mw:Entity\"> </span>(according to <span lang=\"en\" dir=\"ltr\"><a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/Exif\" title=\"en:Exif\" class=\"extiw\">Exif</a></span> data)<link rel=\"mw:PageProp/Category\" href=\"./Category:Photographs_taken_on_2024-04-04\">",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:Cullen328\" title=\"User:Cullen328\">Cullen328</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

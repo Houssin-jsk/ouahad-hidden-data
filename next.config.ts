@@ -1,3 +1,10 @@
 import type { NextConfig } from "next";
-const config: NextConfig = { poweredByHeader: false };
+const research = process.env.HIDDEN_DATA_BUILD_TARGET === "research";
+const config: NextConfig = {
+  poweredByHeader: false,
+  distDir: research ? ".next-research" : ".next",
+  pageExtensions: research
+    ? ["tsx", "ts", "research.tsx", "research.ts"]
+    : ["tsx", "ts"],
+};
 export default config;

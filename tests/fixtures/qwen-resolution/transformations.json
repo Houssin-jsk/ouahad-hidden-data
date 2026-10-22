@@ -1,0 +1,36 @@
+{
+  "transforms": [
+    {
+      "id": "resolution-02-dim",
+      "sourceId": "resolution-02",
+      "operation": "sharp linear(0.55,0), JPEG90",
+      "purpose": "Reduced exposure; same full frame and aspect ratio.",
+      "file": "tests/fixtures/qwen-resolution/resolution-02-dim.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 547761,
+      "sha256": "de69f8d1d9a9afa2fd37fe91f3da4f6dab579277f290f0fd9812d0069af01825",
+      "sourceSha256": "45397f0d4b19a17a087e3ff21b579bd4a18efc7feb15689a68cf2b891672b161",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "attributionSource": "https://commons.wikimedia.org/wiki/File:Burns_Museum_Cafe,_Tables_and_Chairs_-_geograph.org.uk_-_6032041.jpg",
+      "changed": true
+    },
+    {
+      "id": "resolution-06-small-blur",
+      "sourceId": "resolution-06",
+      "operation": "sharp resize width384 without enlargement then blur sigma0.7, JPEG90",
+      "purpose": "Reduced fine detail; no crop or added content.",
+      "file": "tests/fixtures/qwen-resolution/resolution-06-small-blur.jpg",
+      "width": 384,
+      "height": 266,
+      "bytes": 30577,
+      "sha256": "d76697e76dfcffefd551406fc9200ea0b6d188c8860ae747fd98f49e6ee78426",
+      "sourceSha256": "cf3f17d957053ccaf702fb1a0199b0b653adb2f3ce3381aae4cd1eaca86a320d",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attributionSource": "https://commons.wikimedia.org/wiki/File:Fishing_boats._Ano_Symi_harbor,_Greece.jpg",
+      "changed": true
+    }
+  ]
+}

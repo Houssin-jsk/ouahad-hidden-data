@@ -1,0 +1,1182 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 10,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "3752724": {
+        "pageid": 3752724,
+        "ns": 6,
+        "title": "File:Large Sailing Yacht Viaduct Basin.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1188392,
+            "width": 1200,
+            "height": 1600,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Large_Sailing_Yacht_Viaduct_Basin.jpg/960px-Large_Sailing_Yacht_Viaduct_Basin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1024,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Large_Sailing_Yacht_Viaduct_Basin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Large_Sailing_Yacht_Viaduct_Basin.jpg/960px-Large_Sailing_Yacht_Viaduct_Basin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1024,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Large_Sailing_Yacht_Viaduct_Basin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Large_Sailing_Yacht_Viaduct_Basin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Large_Sailing_Yacht_Viaduct_Basin.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3752724",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2008-03-22 05:17:21",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Large Sailing Yacht Viaduct Basin",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Piers in New Zealand|Sailing yachts of New Zealand|Viaduct Harbour|Self-published work|PD-self|New Zealand photographs taken on 2008-03-22|Photos taken by Ingolfson|March 2008 in Auckland",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A large yacht in the <a href=\"https://en.wikipedia.org/wiki/Viaduct_Basin\" class=\"extiw\" title=\"en:Viaduct Basin\">Viaduct Basin</a> / Viaduct Harbour, <a href=\"https://en.wikipedia.org/wiki/Auckland_City\" class=\"extiw\" title=\"en:Auckland City\">Auckland City</a>, <a href=\"https://en.wikipedia.org/wiki/New_Zealand\" class=\"extiw\" title=\"en:New Zealand\">New Zealand</a>.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2008-03-22",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\">Self-photographed</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ingolfson\" title=\"User:Ingolfson\">Ingolfson</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "25908290": {
+        "pageid": 25908290,
+        "ns": 6,
+        "title": "File:2013 Ahmanson Cup Regatta yacht Zapata II b photo Don Ramey Logan.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4310758,
+            "width": 2848,
+            "height": 4288,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/2013_Ahmanson_Cup_Regatta_yacht_Zapata_II_b_photo_Don_Ramey_Logan.jpg/960px-2013_Ahmanson_Cup_Regatta_yacht_Zapata_II_b_photo_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1156,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/2013_Ahmanson_Cup_Regatta_yacht_Zapata_II_b_photo_Don_Ramey_Logan.jpg/1920px-2013_Ahmanson_Cup_Regatta_yacht_Zapata_II_b_photo_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/2013_Ahmanson_Cup_Regatta_yacht_Zapata_II_b_photo_Don_Ramey_Logan.jpg/960px-2013_Ahmanson_Cup_Regatta_yacht_Zapata_II_b_photo_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1156,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/2013_Ahmanson_Cup_Regatta_yacht_Zapata_II_b_photo_Don_Ramey_Logan.jpg/1920px-2013_Ahmanson_Cup_Regatta_yacht_Zapata_II_b_photo_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/2013_Ahmanson_Cup_Regatta_yacht_Zapata_II_b_photo_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:2013_Ahmanson_Cup_Regatta_yacht_Zapata_II_b_photo_Don_Ramey_Logan.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=25908290",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-05-05 03:44:07",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "2013 Ahmanson Cup Regatta yacht Zapata II b photo Don Ramey Logan",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Photographs by Don Ramey Logan|2013 in sailing|Zapata II (ship, 1964)|Featured pictures on Wikipedia, English|Ahmanson Cup Regatta|Files with Assessments template missing SDC Commons no value quality assessment|Featured pictures on Wikipedia, Galician|Sailing photographs by Don Ramey Logan|Don Ramey Logan/Featured Pictures",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The 2013 Ahmanson Cup Regatta yacht Zapata II photo Don Ramey Logan",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-05-03 20:37:15",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"//commons.wikimedia.org/wiki/Category:Photographs_by_Don_Ramey_Logan\" title=\"Category:Photographs by Don Ramey Logan\">Don Ramey Logan</a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table style=\"width:100%; clear:both; margin:0.5em auto; border-spacing:8px; background-color:var(--background-color-neutral-subtle,#f7f8ff); border:2px solid #8888aa;color: inherit;\" lang=\"\" dir=\"ltr\" class=\"layouttemplate restrictiontemplate plainlinks\">\n<tbody><tr>\n<td><span aria-hidden=\"true\"><span class=\"mw-default-size skin-invert\" typeof=\"mw:File/Frameless\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"110\" height=\"44\" style=\"--mw-file-upright: 0.45\" class=\"mw-file-element mw-file-upright\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span></span><br>\n</td>\n<td>This image is <b>not in the <a href=\"https://en.wikipedia.org/wiki/Public_domain\" class=\"extiw\" title=\"w:Public domain\">public domain</a></b>. If you wish to use it anywhere other than on Wikipedia or <a href=\"https://meta.wikimedia.org/wiki/Wikimedia_projects\" class=\"extiw\" title=\"m:Wikimedia projects\">other Wikimedia projects</a> you are obligated to provide the following details along with it:<br>\n<ul><li>Author: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.imdb.com/name/nm10366764/\">Don Ramey Logan</a></li>\n<li><i><a class=\"mw-selflink-fragment\" href=\"##\">2013 Ahmanson Cup Regatta yacht Zapata II b photo Don Ramey Logan.jpg</a></i> from <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a><br></li>\n<li>License: <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Creative Commons Attribution-ShareAlike 3.0</a><br></li></ul>\n<p><b>Credit line example:</b> \"<a class=\"mw-selflink-fragment\" href=\"##\">2013 Ahmanson Cup Regatta yacht Zapata II b photo Don Ramey Logan.jpg</a> from <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a> by <a rel=\"nofollow\" class=\"external text\" href=\"https://www.imdb.com/name/nm10366764/\">Don Ramey Logan</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">CC-BY-SA 3.0</a>\"<br>\nA statement such as \"From Wikimedia Commons\" or similar is <i>not</i> by itself sufficient. If you do not provide clear attribution to the author and indicate the file name as shown here, you didn't comply with the terms of the file's license and may not use this file. If you are unable or unwilling to provide attribution and <b>release your own work</b> that <a href=\"//commons.wikimedia.org/wiki/Commons:Derivative_works\" title=\"Commons:Derivative works\">incorporates this work</a> with a Creative Commons Attribution-ShareAlike 3.0 license you should contact <a rel=\"nofollow\" class=\"external text\" href=\"https://www.imdb.com/name/nm10366764/\">Don Ramey Logan</a> to negotiate a different license.  More of my work can be found in <a href=\"//commons.wikimedia.org/wiki/Category:Photographs_by_Don_Ramey_Logan\" title=\"Category:Photographs by Don Ramey Logan\">Category:Photographs by Don Ramey Logan</a>. There is <a href=\"//commons.wikimedia.org/wiki/User:WPPilot/Credits\" title=\"User:WPPilot/Credits\">more detailed information about licensing</a> available.\n\n</p>\n</td></tr>\n<tr>\n<td>\n</td>\n<td><div style=\"text-align:center\"><div style=\"margin-top:0.75em;\"><b>I. Licence</b></div>\n<div style=\"margin-top:0.5em;\">This photograph is protected by copyright law. However, it may be used for free by anyone, provided it is used in accordance with the license <b>Creative Commons License <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed\">“Attribution-ShareAlike 4.0 International”</a></b> (CC BY-SA 4.0). These include, among other things, the naming of the author and the license, as well as the setting of a link to the license text or its complete imprint. The attribution should be done as follows:</div>\n<div style=\"margin-top:0.5em; text-align:center;\"><b>Photograph by Don Ramey Logan</b><br><b>License: Creative Commons Attribution-ShareAlike 4.0 International</b><br></div>\n<div style=\"margin-top:0.5em;\">Please read the text of the license carefully before using the photograph. If you do not agree with the conditions of the license or if you do not understand these conditions, please refrain from using the photograph. If you have any questions regarding the license or the reuse of the image, please contact me before using it. If you do not comply with the terms of the license, you do not acquire any right to use the image. If you need another license to use, please contact the author <b>before</b> using.</div>\n<div style=\"margin-top:0.5em;\">For information about the license see section <a class=\"mw-selflink-fragment\" href=\"#ImgLic\">Licensing</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">human-readable summary</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">full licence text</a> at Creative Commons. In addition to the above, a link to the source - so this page with the descriptions and license terms - is appreciated. More information or examples of use can be found at <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">re-use (with example file)</a>. The <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:2013_Ahmanson_Cup_Regatta_yacht_Zapata_II_b_photo_Don_Ramey_Logan.jpg\">Attribution Generator</a> is helpful in licensing matters.</div>\n<div style=\"margin:0.5em auto 1em;text-align:center;\" class=\"plainlinks\"><span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:2013_Ahmanson_Cup_Regatta_yacht_Zapata_II_b_photo_Don_Ramey_Logan.jpg\"><span class=\"submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-secondary ui-button-blue\" role=\"button\"><span class=\"ui-button-text\">Generate License <b>Attribution</b></span><span class=\"ui-button-icon-secondary ui-icon ui-icon-extlink\"> </span></span></a></span></div>\n<div style=\"margin-top:0.5em;\"></div>\n<div style=\"margin-top:0.75em;\"><b>II. Fairness</b></div>\n<div style=\"margin-top:0.5em;\">From printed materials and other tangible products that use that work, the user is requested but not obligated to send a copy to the author as a thank you. The mailing address can be requested via the contact options.</div>\n<div style=\"margin-top:0.5em;\">Please note that the author had quite considerable effort to draw up this file. Thus, it is only fair to comply with the conditions of <a href=\"https://en.wikipedia.org/wiki/Free_license\" class=\"extiw\" title=\"en:Free license\">free licenses</a> listed here. In the case of violation of the license conditions, the rights granted hereunder will expire automatically.</div>\n<div style=\"margin-top:0.75em; clear: both;\"><b>III. Disclaimer</b></div>\n<div style=\"margin-top:0.5em;\">Please note the licence does grant you any rights to change, alter, modify, crop or use this file in any manner then as it is depicted herein, unless those changes are described in the attribution, and that the license applies solely for the reuse of the photograph itself. The license doesn't grant you any right regarding the depicted object (eg, copyright or proprietary rights) or the personality rights of the person eventually shown. (See <a href=\"//commons.wikimedia.org/wiki/Commons:L\" class=\"mw-redirect\" title=\"Commons:L\">licences</a> and <a href=\"//commons.wikimedia.org/wiki/Commons:SOSUMI\" class=\"mw-redirect\" title=\"Commons:SOSUMI\">non-copyright restrictions</a>.) I do not grant any warranty that the subsequent use of the photograph is legally possible concerning the object or person shown in the photograph. You are responsible to check and respect these rights in the publication in the respective medium or country.</div>\n<div style=\"margin-top:0.5em;\">The author is not responsible for the accuracy of the information contained herein (description, title, etc.). Likewise, the author assumes no liability for further use. Please note the <a href=\"//commons.wikimedia.org/wiki/Commons:General_disclaimer\" title=\"Commons:General disclaimer\">general disclaimer</a> and please read <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">reusing content outside Wikimedia</a> too.</div>\n<div style=\"margin-top:0.75em;\"><b>IV. Contact</b></div>\n<div style=\"margin-top:0.5em;\"><b><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:UserIconMail.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/40px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/60px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"700\" data-file-height=\"700\"></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"mailto:don@logan.com\">E-mail to the author</a></b> or the <a href=\"//commons.wikimedia.org/wiki/User_talk:WPPilot\" title=\"User talk:WPPilot\">author's talk page</a> <small>or the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.mediadev.net/\">author's website</a></small></div></div>\n</td></tr></tbody></table>\n<style data-mw-deduplicate=\"TemplateStyles:r1065912264\">.mw-parser-output .note{background-position:left 7px top 50%;padding:0.5em 0.5em 0.5em 40px;margin:0.5em 0;overflow:hidden;background-color:var(--background-color-base,#fff);color:var(--color-base,#202122);background-repeat:no-repeat;border:1px solid var(--border-color-base,#ddd)}.mw-parser-output .note-inline{display:inline-block;vertical-align:middle}.mw-parser-output .note-info{background-color:var(--background-color-base,#fff);color:var(--color-base,#202122);background-image:url(\"https://upload.wikimedia.org/wikipedia/commons/e/ec/OOjs_UI_icon_information-progressive.svg\");background-size:25px;border:1px solid var(--border-color-progressive,#6485d1);padding-left:40px;min-height:25px}.mw-parser-output .note-reminder{background-color:var(--background-color-warning-subtle,#fdf2d5);color:var(--color-base,#202122);background-image:url(\"https://upload.wikimedia.org/wikipedia/commons/a/a8/OOjs_UI_icon_lightbulb-yellow.svg\");background-size:25px;border:1px solid var(--border-color-content-removed,#ffe49c);min-height:25px}.mw-parser-output .note-warn{background-color:var(--background-color-warning-subtle,#fdf2d5);color:var(--color-base,#202122);background-image:url(\"https://upload.wikimedia.org/wikipedia/commons/3/3b/OOjs_UI_icon_alert-warning.svg\");background-size:25px;border:1px solid var(--border-color-content-removed,#ffe49c);min-height:25px}.mw-parser-output .note-error{background-color:var(--background-color-error-subtle,#ffe9e5);color:var(--color-base,#202122);background-image:url(\"https://upload.wikimedia.org/wikipedia/commons/b/bf/OOjs_UI_icon_notice-destructive.svg\");background-size:25px;border:1px solid var(--border-color-destructive,#f54739);min-height:25px}</style><div role=\"note\" class=\"note note-info\"><figure class=\"mw-halign-right\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:No_Facebook.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/No_Facebook.svg/250px-No_Facebook.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"135\" height=\"30\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/No_Facebook.svg/330px-No_Facebook.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"14\"></a><figcaption></figcaption></figure> Beware that some social media platforms require their users to give the platform a sub-licensable license for any file their users upload. Platforms like Facebook do not recognize Creative Commons licenses and don't adhere to their attribution requirements, so only the copyright holder can provide the permission as described in their terms of service.\n<div class=\"collapsibletemplate collapsed\" style=\"border: none; padding: 0;\">\n<div class=\"collapsibleheader header\" style=\"font-size: 105%; text-align: left;\"><span class=\"headertext\">References</span></div>\n<div class=\"body show-on-commons\"><ul style=\"list-style: none none; margin-left: 0; margin-left:2em; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;\"><li style=\"line-height: inherit; margin: 0\"> 1. <a rel=\"nofollow\" class=\"external text\" href=\"https://www.facebook.com/legal/terms\">Facebook Terms of Service</a> (<span class=\"mw-formatted-date\" title=\"2024-01-12\">12 January 2024</span>). \"when you share, post, or upload content that is covered by intellectual property rights (like photos or videos) on or in connection with our Products, you grant us a non-exclusive, transferable, sub-licensable, and worldwide license\"\n </li><li style=\"line-height: inherit; margin: 0\"> 2. <a rel=\"nofollow\" class=\"external text\" href=\"https://help.instagram.com/581066165581870/\">\"Instagram Terms of Service</a> (<span class=\"mw-formatted-date\" title=\"2024-01-12\">12 January 2024</span>). \"When you share, post, or upload content that is covered by intellectual property rights (like photos or videos) on or in connection with our Service, you hereby grant to us a non-exclusive, royalty-free, transferable, sub-licensable, worldwide license\"\n </li><li style=\"line-height: inherit; margin: 0\"> 3. <a rel=\"nofollow\" class=\"external text\" href=\"https://www.tiktok.com/legal/page/eea/terms-of-service/en\">TikTok Terms of Service</a> (<span class=\"mw-formatted-date\" title=\"2024-01-10\">10 January 2024</span>). \"By creating, posting or otherwise making content available on the Platform, you grant to TikTok a: non-exclusive, royalty-free, transferable, sub-licensable and worldwide licence to use your content\"\n </li><li style=\"line-height: inherit; margin: 0\"> 4. <a rel=\"nofollow\" class=\"external text\" href=\"https://snap.com/en-US/terms\">Snapchat Terms of Service</a> (<span class=\"mw-formatted-date\" title=\"2024-01-10\">10 January 2024</span>). \"For all content you submit to the Services, you grant Snap and our affiliates a worldwide, royalty-free, sublicencable, and transferable licence\"\n </li><li style=\"line-height: inherit; margin: 0\"> 5. <a rel=\"nofollow\" class=\"external text\" href=\"https://x.com/en/tos\">X Terms of Service</a> (<span class=\"mw-formatted-date\" title=\"2026-10-09\">October 9, 2026</span>). \"You retain ownership and rights to any of your Content you post or share, and you provide us with a broad, royalty-free license to make your Content available to the rest of the world and to let others do the same.[...]In choosing to submit, input, create, generate, post, or display Content on or through the Services, you grant us a worldwide, non-exclusive, royalty-free license (with the right to sublicense) to use, copy, reproduce, process, adapt, modify, publish, transmit, display, upload, download, and distribute such Content, including anything referenced therein, in any and all media or distribution methods now known or later developed, for any purpose. For clarity, these rights include, for example, curating, transforming, and translating. This license authorizes us to make your Content available to the rest of the world and to let others do the same.\"\n</li></ul>\n</div></div></div><div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">Photograph by Don Ramey Logan</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Photograph by Don Ramey Logan",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "40167532": {
+        "pageid": 40167532,
+        "ns": 6,
+        "title": "File:Sailing Yacht Wizard motors in Newport Harbor by Don Ramey Logan.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2336412,
+            "width": 2312,
+            "height": 2788,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Sailing_Yacht_Wizard_motors_in_Newport_Harbor_by_Don_Ramey_Logan.jpg/960px-Sailing_Yacht_Wizard_motors_in_Newport_Harbor_by_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 926,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Sailing_Yacht_Wizard_motors_in_Newport_Harbor_by_Don_Ramey_Logan.jpg/1920px-Sailing_Yacht_Wizard_motors_in_Newport_Harbor_by_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Sailing_Yacht_Wizard_motors_in_Newport_Harbor_by_Don_Ramey_Logan.jpg/960px-Sailing_Yacht_Wizard_motors_in_Newport_Harbor_by_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 926,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Sailing_Yacht_Wizard_motors_in_Newport_Harbor_by_Don_Ramey_Logan.jpg/1920px-Sailing_Yacht_Wizard_motors_in_Newport_Harbor_by_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Sailing_Yacht_Wizard_motors_in_Newport_Harbor_by_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sailing_Yacht_Wizard_motors_in_Newport_Harbor_by_Don_Ramey_Logan.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=40167532",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-05-12 20:00:10",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Sailing Yacht Wizard motors in Newport Harbor by Don Ramey Logan",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Photographs by Don Ramey Logan|Sailing yachts|Ships named Wizard",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Sailing Yacht Wizard motors in Newport Harbor by Don Ramey Logan",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-03-17 16:55:21",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"//commons.wikimedia.org/wiki/Category:Photographs_by_Don_Ramey_Logan\" title=\"Category:Photographs by Don Ramey Logan\">Don Ramey Logan</a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table style=\"width:100%; clear:both; margin:0.5em auto; border-spacing:8px; background-color:var(--background-color-neutral-subtle,#f7f8ff); border:2px solid #8888aa;color: inherit;\" lang=\"\" dir=\"ltr\" class=\"layouttemplate restrictiontemplate plainlinks\">\n<tbody><tr>\n<td><span aria-hidden=\"true\"><span class=\"mw-default-size skin-invert\" typeof=\"mw:File/Frameless\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"110\" height=\"44\" style=\"--mw-file-upright: 0.45\" class=\"mw-file-element mw-file-upright\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span></span><br>\n</td>\n<td>This image is <b>not in the <a href=\"https://en.wikipedia.org/wiki/Public_domain\" class=\"extiw\" title=\"w:Public domain\">public domain</a></b>. If you wish to use it anywhere other than on Wikipedia or <a href=\"https://meta.wikimedia.org/wiki/Wikimedia_projects\" class=\"extiw\" title=\"m:Wikimedia projects\">other Wikimedia projects</a> you are obligated to provide the following details along with it:<br>\n<ul><li>Author: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.imdb.com/name/nm10366764/\">Don Ramey Logan</a></li>\n<li><i><a class=\"mw-selflink-fragment\" href=\"##\">Sailing Yacht Wizard motors in Newport Harbor by Don Ramey Logan.jpg</a></i> from <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a><br></li>\n<li>License: <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\">Creative Commons Attribution 4.0</a><br></li></ul>\n<p><b>Credit line example:</b> \"<a class=\"mw-selflink-fragment\" href=\"##\">Sailing Yacht Wizard motors in Newport Harbor by Don Ramey Logan.jpg</a> from <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a> by <a rel=\"nofollow\" class=\"external text\" href=\"https://www.imdb.com/name/nm10366764/\">Don Ramey Logan</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\">CC-BY 4.0</a>\"<br>\nA statement such as \"From Wikimedia Commons\" or similar is <i>not</i> by itself sufficient. If you do not provide clear attribution to the author and indicate the file name as shown here, you didn't comply with the terms of the file's license and may not use this file. If you are unable or unwilling to provide attribution  you should contact <a rel=\"nofollow\" class=\"external text\" href=\"https://www.imdb.com/name/nm10366764/\">Don Ramey Logan</a> to negotiate a different license.  More of my work can be found in <a href=\"//commons.wikimedia.org/wiki/Category:Photographs_by_Don_Ramey_Logan\" title=\"Category:Photographs by Don Ramey Logan\">Category:Photographs by Don Ramey Logan</a>. There is <a href=\"//commons.wikimedia.org/wiki/User:WPPilot/Credits\" title=\"User:WPPilot/Credits\">more detailed information about licensing</a> available.\n\n</p>\n</td></tr>\n<tr>\n<td>\n</td>\n<td><div style=\"text-align:center\"><div style=\"margin-top:0.75em;\"><b>I. Licence</b></div>\n<div style=\"margin-top:0.5em;\">This photograph is protected by copyright law. However, it may be used for free by anyone, provided it is used in accordance with the license <b>Creative Commons License <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed\">“Attribution-ShareAlike 4.0 International”</a></b> (CC BY-SA 4.0). These include, among other things, the naming of the author and the license, as well as the setting of a link to the license text or its complete imprint. The attribution should be done as follows:</div>\n<div style=\"margin-top:0.5em; text-align:center;\"><b>Photograph by Don Ramey Logan</b><br><b>License: Creative Commons Attribution-ShareAlike 4.0 International</b><br></div>\n<div style=\"margin-top:0.5em;\">Please read the text of the license carefully before using the photograph. If you do not agree with the conditions of the license or if you do not understand these conditions, please refrain from using the photograph. If you have any questions regarding the license or the reuse of the image, please contact me before using it. If you do not comply with the terms of the license, you do not acquire any right to use the image. If you need another license to use, please contact the author <b>before</b> using.</div>\n<div style=\"margin-top:0.5em;\">For information about the license see section <a class=\"mw-selflink-fragment\" href=\"#ImgLic\">Licensing</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">human-readable summary</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">full licence text</a> at Creative Commons. In addition to the above, a link to the source - so this page with the descriptions and license terms - is appreciated. More information or examples of use can be found at <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">re-use (with example file)</a>. The <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Sailing_Yacht_Wizard_motors_in_Newport_Harbor_by_Don_Ramey_Logan.jpg\">Attribution Generator</a> is helpful in licensing matters.</div>\n<div style=\"margin:0.5em auto 1em;text-align:center;\" class=\"plainlinks\"><span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Sailing_Yacht_Wizard_motors_in_Newport_Harbor_by_Don_Ramey_Logan.jpg\"><span class=\"submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-secondary ui-button-blue\" role=\"button\"><span class=\"ui-button-text\">Generate License <b>Attribution</b></span><span class=\"ui-button-icon-secondary ui-icon ui-icon-extlink\"> </span></span></a></span></div>\n<div style=\"margin-top:0.5em;\"></div>\n<div style=\"margin-top:0.75em;\"><b>II. Fairness</b></div>\n<div style=\"margin-top:0.5em;\">From printed materials and other tangible products that use that work, the user is requested but not obligated to send a copy to the author as a thank you. The mailing address can be requested via the contact options.</div>\n<div style=\"margin-top:0.5em;\">Please note that the author had quite considerable effort to draw up this file. Thus, it is only fair to comply with the conditions of <a href=\"https://en.wikipedia.org/wiki/Free_license\" class=\"extiw\" title=\"en:Free license\">free licenses</a> listed here. In the case of violation of the license conditions, the rights granted hereunder will expire automatically.</div>\n<div style=\"margin-top:0.75em; clear: both;\"><b>III. Disclaimer</b></div>\n<div style=\"margin-top:0.5em;\">Please note the licence does grant you any rights to change, alter, modify, crop or use this file in any manner then as it is depicted herein, unless those changes are described in the attribution, and that the license applies solely for the reuse of the photograph itself. The license doesn't grant you any right regarding the depicted object (eg, copyright or proprietary rights) or the personality rights of the person eventually shown. (See <a href=\"//commons.wikimedia.org/wiki/Commons:L\" class=\"mw-redirect\" title=\"Commons:L\">licences</a> and <a href=\"//commons.wikimedia.org/wiki/Commons:SOSUMI\" class=\"mw-redirect\" title=\"Commons:SOSUMI\">non-copyright restrictions</a>.) I do not grant any warranty that the subsequent use of the photograph is legally possible concerning the object or person shown in the photograph. You are responsible to check and respect these rights in the publication in the respective medium or country.</div>\n<div style=\"margin-top:0.5em;\">The author is not responsible for the accuracy of the information contained herein (description, title, etc.). Likewise, the author assumes no liability for further use. Please note the <a href=\"//commons.wikimedia.org/wiki/Commons:General_disclaimer\" title=\"Commons:General disclaimer\">general disclaimer</a> and please read <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">reusing content outside Wikimedia</a> too.</div>\n<div style=\"margin-top:0.75em;\"><b>IV. Contact</b></div>\n<div style=\"margin-top:0.5em;\"><b><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:UserIconMail.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/40px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/60px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"700\" data-file-height=\"700\"></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"mailto:don@logan.com\">E-mail to the author</a></b> or the <a href=\"//commons.wikimedia.org/wiki/User_talk:WPPilot\" title=\"User talk:WPPilot\">author's talk page</a> <small>or the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.mediadev.net/\">author's website</a></small></div></div>\n</td></tr></tbody></table>\n<style data-mw-deduplicate=\"TemplateStyles:r1065912264\">.mw-parser-output .note{background-position:left 7px top 50%;padding:0.5em 0.5em 0.5em 40px;margin:0.5em 0;overflow:hidden;background-color:var(--background-color-base,#fff);color:var(--color-base,#202122);background-repeat:no-repeat;border:1px solid var(--border-color-base,#ddd)}.mw-parser-output .note-inline{display:inline-block;vertical-align:middle}.mw-parser-output .note-info{background-color:var(--background-color-base,#fff);color:var(--color-base,#202122);background-image:url(\"https://upload.wikimedia.org/wikipedia/commons/e/ec/OOjs_UI_icon_information-progressive.svg\");background-size:25px;border:1px solid var(--border-color-progressive,#6485d1);padding-left:40px;min-height:25px}.mw-parser-output .note-reminder{background-color:var(--background-color-warning-subtle,#fdf2d5);color:var(--color-base,#202122);background-image:url(\"https://upload.wikimedia.org/wikipedia/commons/a/a8/OOjs_UI_icon_lightbulb-yellow.svg\");background-size:25px;border:1px solid var(--border-color-content-removed,#ffe49c);min-height:25px}.mw-parser-output .note-warn{background-color:var(--background-color-warning-subtle,#fdf2d5);color:var(--color-base,#202122);background-image:url(\"https://upload.wikimedia.org/wikipedia/commons/3/3b/OOjs_UI_icon_alert-warning.svg\");background-size:25px;border:1px solid var(--border-color-content-removed,#ffe49c);min-height:25px}.mw-parser-output .note-error{background-color:var(--background-color-error-subtle,#ffe9e5);color:var(--color-base,#202122);background-image:url(\"https://upload.wikimedia.org/wikipedia/commons/b/bf/OOjs_UI_icon_notice-destructive.svg\");background-size:25px;border:1px solid var(--border-color-destructive,#f54739);min-height:25px}</style><div role=\"note\" class=\"note note-info\"><figure class=\"mw-halign-right\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:No_Facebook.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/No_Facebook.svg/250px-No_Facebook.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"135\" height=\"30\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/No_Facebook.svg/330px-No_Facebook.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"14\"></a><figcaption></figcaption></figure> Beware that some social media platforms require their users to give the platform a sub-licensable license for any file their users upload. Platforms like Facebook do not recognize Creative Commons licenses and don't adhere to their attribution requirements, so only the copyright holder can provide the permission as described in their terms of service.\n<div class=\"collapsibletemplate collapsed\" style=\"border: none; padding: 0;\">\n<div class=\"collapsibleheader header\" style=\"font-size: 105%; text-align: left;\"><span class=\"headertext\">References</span></div>\n<div class=\"body show-on-commons\"><ul style=\"list-style: none none; margin-left: 0; margin-left:2em; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;\"><li style=\"line-height: inherit; margin: 0\"> 1. <a rel=\"nofollow\" class=\"external text\" href=\"https://www.facebook.com/legal/terms\">Facebook Terms of Service</a> (<span class=\"mw-formatted-date\" title=\"2024-01-12\">12 January 2024</span>). \"when you share, post, or upload content that is covered by intellectual property rights (like photos or videos) on or in connection with our Products, you grant us a non-exclusive, transferable, sub-licensable, and worldwide license\"\n </li><li style=\"line-height: inherit; margin: 0\"> 2. <a rel=\"nofollow\" class=\"external text\" href=\"https://help.instagram.com/581066165581870/\">\"Instagram Terms of Service</a> (<span class=\"mw-formatted-date\" title=\"2024-01-12\">12 January 2024</span>). \"When you share, post, or upload content that is covered by intellectual property rights (like photos or videos) on or in connection with our Service, you hereby grant to us a non-exclusive, royalty-free, transferable, sub-licensable, worldwide license\"\n </li><li style=\"line-height: inherit; margin: 0\"> 3. <a rel=\"nofollow\" class=\"external text\" href=\"https://www.tiktok.com/legal/page/eea/terms-of-service/en\">TikTok Terms of Service</a> (<span class=\"mw-formatted-date\" title=\"2024-01-10\">10 January 2024</span>). \"By creating, posting or otherwise making content available on the Platform, you grant to TikTok a: non-exclusive, royalty-free, transferable, sub-licensable and worldwide licence to use your content\"\n </li><li style=\"line-height: inherit; margin: 0\"> 4. <a rel=\"nofollow\" class=\"external text\" href=\"https://snap.com/en-US/terms\">Snapchat Terms of Service</a> (<span class=\"mw-formatted-date\" title=\"2024-01-10\">10 January 2024</span>). \"For all content you submit to the Services, you grant Snap and our affiliates a worldwide, royalty-free, sublicencable, and transferable licence\"\n </li><li style=\"line-height: inherit; margin: 0\"> 5. <a rel=\"nofollow\" class=\"external text\" href=\"https://x.com/en/tos\">X Terms of Service</a> (<span class=\"mw-formatted-date\" title=\"2026-10-09\">October 9, 2026</span>). \"You retain ownership and rights to any of your Content you post or share, and you provide us with a broad, royalty-free license to make your Content available to the rest of the world and to let others do the same.[...]In choosing to submit, input, create, generate, post, or display Content on or through the Services, you grant us a worldwide, non-exclusive, royalty-free license (with the right to sublicense) to use, copy, reproduce, process, adapt, modify, publish, transmit, display, upload, download, and distribute such Content, including anything referenced therein, in any and all media or distribution methods now known or later developed, for any purpose. For clarity, these rights include, for example, curating, transforming, and translating. This license authorizes us to make your Content available to the rest of the world and to let others do the same.\"\n</li></ul>\n</div></div></div><div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/4.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/4.0/deed.en\">Attribution 4.0 International</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">Photograph by Don Ramey Logan</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/4.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 4.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 4.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Photograph by Don Ramey Logan",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "40178206": {
+        "pageid": 40178206,
+        "ns": 6,
+        "title": "File:ZAPATA II a 50' Classic Yacht built by CALKINS - AMERICAN MARINE and delivered in 1964 in the 2013 Ahmanson Cup Regatta photo Don Ramey Logan.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4885155,
+            "width": 2736,
+            "height": 4500,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/ZAPATA_II_a_50%27_Classic_Yacht_built_by_CALKINS_-_AMERICAN_MARINE_and_delivered_in_1964_in_the_2013_Ahmanson_Cup_Regatta_photo_Don_Ramey_Logan.jpg/960px-ZAPATA_II_a_50%27_Classic_Yacht_built_by_CALKINS_-_AMERICAN_MARINE_and_delivered_in_1964_in_the_2013_Ahmanson_Cup_Regatta_photo_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1263,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/ZAPATA_II_a_50%27_Classic_Yacht_built_by_CALKINS_-_AMERICAN_MARINE_and_delivered_in_1964_in_the_2013_Ahmanson_Cup_Regatta_photo_Don_Ramey_Logan.jpg/1920px-ZAPATA_II_a_50%27_Classic_Yacht_built_by_CALKINS_-_AMERICAN_MARINE_and_delivered_in_1964_in_the_2013_Ahmanson_Cup_Regatta_photo_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/ZAPATA_II_a_50%27_Classic_Yacht_built_by_CALKINS_-_AMERICAN_MARINE_and_delivered_in_1964_in_the_2013_Ahmanson_Cup_Regatta_photo_Don_Ramey_Logan.jpg/960px-ZAPATA_II_a_50%27_Classic_Yacht_built_by_CALKINS_-_AMERICAN_MARINE_and_delivered_in_1964_in_the_2013_Ahmanson_Cup_Regatta_photo_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1263,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/ZAPATA_II_a_50%27_Classic_Yacht_built_by_CALKINS_-_AMERICAN_MARINE_and_delivered_in_1964_in_the_2013_Ahmanson_Cup_Regatta_photo_Don_Ramey_Logan.jpg/1920px-ZAPATA_II_a_50%27_Classic_Yacht_built_by_CALKINS_-_AMERICAN_MARINE_and_delivered_in_1964_in_the_2013_Ahmanson_Cup_Regatta_photo_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/ZAPATA_II_a_50%27_Classic_Yacht_built_by_CALKINS_-_AMERICAN_MARINE_and_delivered_in_1964_in_the_2013_Ahmanson_Cup_Regatta_photo_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:ZAPATA_II_a_50%27_Classic_Yacht_built_by_CALKINS_-_AMERICAN_MARINE_and_delivered_in_1964_in_the_2013_Ahmanson_Cup_Regatta_photo_Don_Ramey_Logan.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=40178206",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-05-13 11:39:31",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "ZAPATA II a 50' Classic Yacht built by CALKINS - AMERICAN MARINE and delivered in 1964 in the 2013 Ahmanson Cup Regatta photo Don Ramey Logan",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Photographs by Don Ramey Logan|Retouched pictures|2013 in sailing|Featured pictures of California|Zapata II (ship, 1964)|Featured pictures of sailboats|Featured pictures of the Pacific Ocean|Derivative versions|Ahmanson Cup Regatta",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "featured|potd",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The 2013 Ahmanson Cup Regatta yacht Zapata II photo Don Ramey Logan",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-05-03 20:37:15",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/File:2013_Ahmanson_Cup_Regatta_yacht_Zapata_II_b_photo_D_Ramey_Logan.jpg\" class=\"mw-redirect\" title=\"File:2013 Ahmanson Cup Regatta yacht Zapata II b photo D Ramey Logan.jpg\">File:2013 Ahmanson Cup Regatta yacht Zapata II b photo D Ramey Logan.jpg</a>, edited by <a href=\"//commons.wikimedia.org/wiki/User:Laitche\" title=\"User:Laitche\">Laitche</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"//commons.wikimedia.org/wiki/Category:Photographs_by_Don_Ramey_Logan\" title=\"Category:Photographs by Don Ramey Logan\">Don Ramey Logan</a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table style=\"width:100%; clear:both; margin:0.5em auto; border-spacing:8px; background-color:var(--background-color-neutral-subtle,#f7f8ff); border:2px solid #8888aa;color: inherit;\" lang=\"\" dir=\"ltr\" class=\"layouttemplate restrictiontemplate plainlinks\">\n<tbody><tr>\n<td><span aria-hidden=\"true\"><span class=\"mw-default-size skin-invert\" typeof=\"mw:File/Frameless\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"110\" height=\"44\" style=\"--mw-file-upright: 0.45\" class=\"mw-file-element mw-file-upright\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span></span><br>\n</td>\n<td>This image is <b>not in the <a href=\"https://en.wikipedia.org/wiki/Public_domain\" class=\"extiw\" title=\"w:Public domain\">public domain</a></b>. If you wish to use it anywhere other than on Wikipedia or <a href=\"https://meta.wikimedia.org/wiki/Wikimedia_projects\" class=\"extiw\" title=\"m:Wikimedia projects\">other Wikimedia projects</a> you are obligated to provide the following details along with it:<br>\n<ul><li>Author: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.imdb.com/name/nm10366764/\">Don Ramey Logan</a></li>\n<li><i><a class=\"mw-selflink-fragment\" href=\"##\">ZAPATA II a 50' Classic Yacht built by CALKINS - AMERICAN MARINE and delivered in 1964 in the 2013 Ahmanson Cup Regatta photo Don Ramey Logan.jpg</a></i> from <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a><br></li>\n<li>License: <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Creative Commons Attribution-ShareAlike 3.0</a><br></li></ul>\n<p><b>Credit line example:</b> \"<a class=\"mw-selflink-fragment\" href=\"##\">ZAPATA II a 50' Classic Yacht built by CALKINS - AMERICAN MARINE and delivered in 1964 in the 2013 Ahmanson Cup Regatta photo Don Ramey Logan.jpg</a> from <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a> by <a rel=\"nofollow\" class=\"external text\" href=\"https://www.imdb.com/name/nm10366764/\">Don Ramey Logan</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">CC-BY-SA 3.0</a>\"<br>\nA statement such as \"From Wikimedia Commons\" or similar is <i>not</i> by itself sufficient. If you do not provide clear attribution to the author and indicate the file name as shown here, you didn't comply with the terms of the file's license and may not use this file. If you are unable or unwilling to provide attribution and <b>release your own work</b> that <a href=\"//commons.wikimedia.org/wiki/Commons:Derivative_works\" title=\"Commons:Derivative works\">incorporates this work</a> with a Creative Commons Attribution-ShareAlike 3.0 license you should contact <a rel=\"nofollow\" class=\"external text\" href=\"https://www.imdb.com/name/nm10366764/\">Don Ramey Logan</a> to negotiate a different license.  More of my work can be found in <a href=\"//commons.wikimedia.org/wiki/Category:Photographs_by_Don_Ramey_Logan\" title=\"Category:Photographs by Don Ramey Logan\">Category:Photographs by Don Ramey Logan</a>. There is <a href=\"//commons.wikimedia.org/wiki/User:WPPilot/Credits\" title=\"User:WPPilot/Credits\">more detailed information about licensing</a> available.\n\n</p>\n</td></tr>\n<tr>\n<td>\n</td>\n<td><div style=\"text-align:center\"><div style=\"margin-top:0.75em;\"><b>I. Licence</b></div>\n<div style=\"margin-top:0.5em;\">This photograph is protected by copyright law. However, it may be used for free by anyone, provided it is used in accordance with the license <b>Creative Commons License <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed\">“Attribution-ShareAlike 4.0 International”</a></b> (CC BY-SA 4.0). These include, among other things, the naming of the author and the license, as well as the setting of a link to the license text or its complete imprint. The attribution should be done as follows:</div>\n<div style=\"margin-top:0.5em; text-align:center;\"><b>Photograph by Don Ramey Logan</b><br><b>License: Creative Commons Attribution-ShareAlike 4.0 International</b><br></div>\n<div style=\"margin-top:0.5em;\">Please read the text of the license carefully before using the photograph. If you do not agree with the conditions of the license or if you do not understand these conditions, please refrain from using the photograph. If you have any questions regarding the license or the reuse of the image, please contact me before using it. If you do not comply with the terms of the license, you do not acquire any right to use the image. If you need another license to use, please contact the author <b>before</b> using.</div>\n<div style=\"margin-top:0.5em;\">For information about the license see section <a class=\"mw-selflink-fragment\" href=\"#ImgLic\">Licensing</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">human-readable summary</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">full licence text</a> at Creative Commons. In addition to the above, a link to the source - so this page with the descriptions and license terms - is appreciated. More information or examples of use can be found at <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">re-use (with example file)</a>. The <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:ZAPATA_II_a_50%27_Classic_Yacht_built_by_CALKINS_-_AMERICAN_MARINE_and_delivered_in_1964_in_the_2013_Ahmanson_Cup_Regatta_photo_Don_Ramey_Logan.jpg\">Attribution Generator</a> is helpful in licensing matters.</div>\n<div style=\"margin:0.5em auto 1em;text-align:center;\" class=\"plainlinks\"><span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:ZAPATA_II_a_50%27_Classic_Yacht_built_by_CALKINS_-_AMERICAN_MARINE_and_delivered_in_1964_in_the_2013_Ahmanson_Cup_Regatta_photo_Don_Ramey_Logan.jpg\"><span class=\"submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-secondary ui-button-blue\" role=\"button\"><span class=\"ui-button-text\">Generate License <b>Attribution</b></span><span class=\"ui-button-icon-secondary ui-icon ui-icon-extlink\"> </span></span></a></span></div>\n<div style=\"margin-top:0.5em;\"></div>\n<div style=\"margin-top:0.75em;\"><b>II. Fairness</b></div>\n<div style=\"margin-top:0.5em;\">From printed materials and other tangible products that use that work, the user is requested but not obligated to send a copy to the author as a thank you. The mailing address can be requested via the contact options.</div>\n<div style=\"margin-top:0.5em;\">Please note that the author had quite considerable effort to draw up this file. Thus, it is only fair to comply with the conditions of <a href=\"https://en.wikipedia.org/wiki/Free_license\" class=\"extiw\" title=\"en:Free license\">free licenses</a> listed here. In the case of violation of the license conditions, the rights granted hereunder will expire automatically.</div>\n<div style=\"margin-top:0.75em; clear: both;\"><b>III. Disclaimer</b></div>\n<div style=\"margin-top:0.5em;\">Please note the licence does grant you any rights to change, alter, modify, crop or use this file in any manner then as it is depicted herein, unless those changes are described in the attribution, and that the license applies solely for the reuse of the photograph itself. The license doesn't grant you any right regarding the depicted object (eg, copyright or proprietary rights) or the personality rights of the person eventually shown. (See <a href=\"//commons.wikimedia.org/wiki/Commons:L\" class=\"mw-redirect\" title=\"Commons:L\">licences</a> and <a href=\"//commons.wikimedia.org/wiki/Commons:SOSUMI\" class=\"mw-redirect\" title=\"Commons:SOSUMI\">non-copyright restrictions</a>.) I do not grant any warranty that the subsequent use of the photograph is legally possible concerning the object or person shown in the photograph. You are responsible to check and respect these rights in the publication in the respective medium or country.</div>\n<div style=\"margin-top:0.5em;\">The author is not responsible for the accuracy of the information contained herein (description, title, etc.). Likewise, the author assumes no liability for further use. Please note the <a href=\"//commons.wikimedia.org/wiki/Commons:General_disclaimer\" title=\"Commons:General disclaimer\">general disclaimer</a> and please read <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">reusing content outside Wikimedia</a> too.</div>\n<div style=\"margin-top:0.75em;\"><b>IV. Contact</b></div>\n<div style=\"margin-top:0.5em;\"><b><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:UserIconMail.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/40px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/60px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"700\" data-file-height=\"700\"></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"mailto:don@logan.com\">E-mail to the author</a></b> or the <a href=\"//commons.wikimedia.org/wiki/User_talk:WPPilot\" title=\"User talk:WPPilot\">author's talk page</a> <small>or the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.mediadev.net/\">author's website</a></small></div></div>\n</td></tr></tbody></table>\n<style data-mw-deduplicate=\"TemplateStyles:r1065912264\">.mw-parser-output .note{background-position:left 7px top 50%;padding:0.5em 0.5em 0.5em 40px;margin:0.5em 0;overflow:hidden;background-color:var(--background-color-base,#fff);color:var(--color-base,#202122);background-repeat:no-repeat;border:1px solid var(--border-color-base,#ddd)}.mw-parser-output .note-inline{display:inline-block;vertical-align:middle}.mw-parser-output .note-info{background-color:var(--background-color-base,#fff);color:var(--color-base,#202122);background-image:url(\"https://upload.wikimedia.org/wikipedia/commons/e/ec/OOjs_UI_icon_information-progressive.svg\");background-size:25px;border:1px solid var(--border-color-progressive,#6485d1);padding-left:40px;min-height:25px}.mw-parser-output .note-reminder{background-color:var(--background-color-warning-subtle,#fdf2d5);color:var(--color-base,#202122);background-image:url(\"https://upload.wikimedia.org/wikipedia/commons/a/a8/OOjs_UI_icon_lightbulb-yellow.svg\");background-size:25px;border:1px solid var(--border-color-content-removed,#ffe49c);min-height:25px}.mw-parser-output .note-warn{background-color:var(--background-color-warning-subtle,#fdf2d5);color:var(--color-base,#202122);background-image:url(\"https://upload.wikimedia.org/wikipedia/commons/3/3b/OOjs_UI_icon_alert-warning.svg\");background-size:25px;border:1px solid var(--border-color-content-removed,#ffe49c);min-height:25px}.mw-parser-output .note-error{background-color:var(--background-color-error-subtle,#ffe9e5);color:var(--color-base,#202122);background-image:url(\"https://upload.wikimedia.org/wikipedia/commons/b/bf/OOjs_UI_icon_notice-destructive.svg\");background-size:25px;border:1px solid var(--border-color-destructive,#f54739);min-height:25px}</style><div role=\"note\" class=\"note note-info\"><figure class=\"mw-halign-right\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:No_Facebook.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/No_Facebook.svg/250px-No_Facebook.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"135\" height=\"30\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/No_Facebook.svg/330px-No_Facebook.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"14\"></a><figcaption></figcaption></figure> Beware that some social media platforms require their users to give the platform a sub-licensable license for any file their users upload. Platforms like Facebook do not recognize Creative Commons licenses and don't adhere to their attribution requirements, so only the copyright holder can provide the permission as described in their terms of service.\n<div class=\"collapsibletemplate collapsed\" style=\"border: none; padding: 0;\">\n<div class=\"collapsibleheader header\" style=\"font-size: 105%; text-align: left;\"><span class=\"headertext\">References</span></div>\n<div class=\"body show-on-commons\"><ul style=\"list-style: none none; margin-left: 0; margin-left:2em; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;\"><li style=\"line-height: inherit; margin: 0\"> 1. <a rel=\"nofollow\" class=\"external text\" href=\"https://www.facebook.com/legal/terms\">Facebook Terms of Service</a> (<span class=\"mw-formatted-date\" title=\"2024-01-12\">12 January 2024</span>). \"when you share, post, or upload content that is covered by intellectual property rights (like photos or videos) on or in connection with our Products, you grant us a non-exclusive, transferable, sub-licensable, and worldwide license\"\n </li><li style=\"line-height: inherit; margin: 0\"> 2. <a rel=\"nofollow\" class=\"external text\" href=\"https://help.instagram.com/581066165581870/\">\"Instagram Terms of Service</a> (<span class=\"mw-formatted-date\" title=\"2024-01-12\">12 January 2024</span>). \"When you share, post, or upload content that is covered by intellectual property rights (like photos or videos) on or in connection with our Service, you hereby grant to us a non-exclusive, royalty-free, transferable, sub-licensable, worldwide license\"\n </li><li style=\"line-height: inherit; margin: 0\"> 3. <a rel=\"nofollow\" class=\"external text\" href=\"https://www.tiktok.com/legal/page/eea/terms-of-service/en\">TikTok Terms of Service</a> (<span class=\"mw-formatted-date\" title=\"2024-01-10\">10 January 2024</span>). \"By creating, posting or otherwise making content available on the Platform, you grant to TikTok a: non-exclusive, royalty-free, transferable, sub-licensable and worldwide licence to use your content\"\n </li><li style=\"line-height: inherit; margin: 0\"> 4. <a rel=\"nofollow\" class=\"external text\" href=\"https://snap.com/en-US/terms\">Snapchat Terms of Service</a> (<span class=\"mw-formatted-date\" title=\"2024-01-10\">10 January 2024</span>). \"For all content you submit to the Services, you grant Snap and our affiliates a worldwide, royalty-free, sublicencable, and transferable licence\"\n </li><li style=\"line-height: inherit; margin: 0\"> 5. <a rel=\"nofollow\" class=\"external text\" href=\"https://x.com/en/tos\">X Terms of Service</a> (<span class=\"mw-formatted-date\" title=\"2026-10-09\">October 9, 2026</span>). \"You retain ownership and rights to any of your Content you post or share, and you provide us with a broad, royalty-free license to make your Content available to the rest of the world and to let others do the same.[...]In choosing to submit, input, create, generate, post, or display Content on or through the Services, you grant us a worldwide, non-exclusive, royalty-free license (with the right to sublicense) to use, copy, reproduce, process, adapt, modify, publish, transmit, display, upload, download, and distribute such Content, including anything referenced therein, in any and all media or distribution methods now known or later developed, for any purpose. For clarity, these rights include, for example, curating, transforming, and translating. This license authorizes us to make your Content available to the rest of the world and to let others do the same.\"\n</li></ul>\n</div></div></div><div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">Photograph by Don Ramey Logan</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Photograph by Don Ramey Logan",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "52459572": {
+        "pageid": 52459572,
+        "ns": 6,
+        "title": "File:Classic Sailing Yacht in Newport Harbor by Don Ramey Logan.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7619724,
+            "width": 3456,
+            "height": 4608,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Classic_Sailing_Yacht_in_Newport_Harbor_by_Don_Ramey_Logan.jpg/960px-Classic_Sailing_Yacht_in_Newport_Harbor_by_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1024,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Classic_Sailing_Yacht_in_Newport_Harbor_by_Don_Ramey_Logan.jpg/1920px-Classic_Sailing_Yacht_in_Newport_Harbor_by_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Classic_Sailing_Yacht_in_Newport_Harbor_by_Don_Ramey_Logan.jpg/960px-Classic_Sailing_Yacht_in_Newport_Harbor_by_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1024,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Classic_Sailing_Yacht_in_Newport_Harbor_by_Don_Ramey_Logan.jpg/1920px-Classic_Sailing_Yacht_in_Newport_Harbor_by_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Classic_Sailing_Yacht_in_Newport_Harbor_by_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Classic_Sailing_Yacht_in_Newport_Harbor_by_Don_Ramey_Logan.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=52459572",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-10-23 18:49:52",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Classic Sailing Yacht in Newport Harbor by Don Ramey Logan",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Sailing yachts of the United States|Photographs by Don Ramey Logan|2016 in sailing|Watercraft in Newport Beach, California",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Classic Sailing Yacht in Newport Harbor",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2016-10-15",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"//commons.wikimedia.org/wiki/Category:Photographs_by_Don_Ramey_Logan\" title=\"Category:Photographs by Don Ramey Logan\">Don Ramey Logan</a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table style=\"width:100%; clear:both; margin:0.5em auto; border-spacing:8px; background-color:var(--background-color-neutral-subtle,#f7f8ff); border:2px solid #8888aa;color: inherit;\" lang=\"\" dir=\"ltr\" class=\"layouttemplate restrictiontemplate plainlinks\">\n<tbody><tr>\n<td><span aria-hidden=\"true\"><span class=\"mw-default-size skin-invert\" typeof=\"mw:File/Frameless\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"110\" height=\"44\" style=\"--mw-file-upright: 0.45\" class=\"mw-file-element mw-file-upright\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span></span><br>\n</td>\n<td>This image is <b>not in the <a href=\"https://en.wikipedia.org/wiki/Public_domain\" class=\"extiw\" title=\"w:Public domain\">public domain</a></b>. If you wish to use it anywhere other than on Wikipedia or <a href=\"https://meta.wikimedia.org/wiki/Wikimedia_projects\" class=\"extiw\" title=\"m:Wikimedia projects\">other Wikimedia projects</a> you are obligated to provide the following details along with it:<br>\n<ul><li>Author: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.imdb.com/name/nm10366764/\">Don Ramey Logan</a></li>\n<li><i><a class=\"mw-selflink-fragment\" href=\"##\">Classic Sailing Yacht in Newport Harbor by Don Ramey Logan.jpg</a></i> from <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a><br></li>\n<li>License: <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\">Creative Commons Attribution 4.0</a><br></li></ul>\n<p><b>Credit line example:</b> \"<a class=\"mw-selflink-fragment\" href=\"##\">Classic Sailing Yacht in Newport Harbor by Don Ramey Logan.jpg</a> from <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a> by <a rel=\"nofollow\" class=\"external text\" href=\"https://www.imdb.com/name/nm10366764/\">Don Ramey Logan</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\">CC-BY 4.0</a>\"<br>\nA statement such as \"From Wikimedia Commons\" or similar is <i>not</i> by itself sufficient. If you do not provide clear attribution to the author and indicate the file name as shown here, you didn't comply with the terms of the file's license and may not use this file. If you are unable or unwilling to provide attribution  you should contact <a rel=\"nofollow\" class=\"external text\" href=\"https://www.imdb.com/name/nm10366764/\">Don Ramey Logan</a> to negotiate a different license.  More of my work can be found in <a href=\"//commons.wikimedia.org/wiki/Category:Photographs_by_Don_Ramey_Logan\" title=\"Category:Photographs by Don Ramey Logan\">Category:Photographs by Don Ramey Logan</a>. There is <a href=\"//commons.wikimedia.org/wiki/User:WPPilot/Credits\" title=\"User:WPPilot/Credits\">more detailed information about licensing</a> available.\n\n</p>\n</td></tr>\n<tr>\n<td>\n</td>\n<td><div style=\"text-align:center\"><div style=\"margin-top:0.75em;\"><b>I. Licence</b></div>\n<div style=\"margin-top:0.5em;\">This photograph is protected by copyright law. However, it may be used for free by anyone, provided it is used in accordance with the license <b>Creative Commons License <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed\">“Attribution-ShareAlike 4.0 International”</a></b> (CC BY-SA 4.0). These include, among other things, the naming of the author and the license, as well as the setting of a link to the license text or its complete imprint. The attribution should be done as follows:</div>\n<div style=\"margin-top:0.5em; text-align:center;\"><b>Photograph by Don Ramey Logan</b><br><b>License: Creative Commons Attribution-ShareAlike 4.0 International</b><br></div>\n<div style=\"margin-top:0.5em;\">Please read the text of the license carefully before using the photograph. If you do not agree with the conditions of the license or if you do not understand these conditions, please refrain from using the photograph. If you have any questions regarding the license or the reuse of the image, please contact me before using it. If you do not comply with the terms of the license, you do not acquire any right to use the image. If you need another license to use, please contact the author <b>before</b> using.</div>\n<div style=\"margin-top:0.5em;\">For information about the license see section <a class=\"mw-selflink-fragment\" href=\"#ImgLic\">Licensing</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">human-readable summary</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">full licence text</a> at Creative Commons. In addition to the above, a link to the source - so this page with the descriptions and license terms - is appreciated. More information or examples of use can be found at <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">re-use (with example file)</a>. The <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Classic_Sailing_Yacht_in_Newport_Harbor_by_Don_Ramey_Logan.jpg\">Attribution Generator</a> is helpful in licensing matters.</div>\n<div style=\"margin:0.5em auto 1em;text-align:center;\" class=\"plainlinks\"><span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Classic_Sailing_Yacht_in_Newport_Harbor_by_Don_Ramey_Logan.jpg\"><span class=\"submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-secondary ui-button-blue\" role=\"button\"><span class=\"ui-button-text\">Generate License <b>Attribution</b></span><span class=\"ui-button-icon-secondary ui-icon ui-icon-extlink\"> </span></span></a></span></div>\n<div style=\"margin-top:0.5em;\"></div>\n<div style=\"margin-top:0.75em;\"><b>II. Fairness</b></div>\n<div style=\"margin-top:0.5em;\">From printed materials and other tangible products that use that work, the user is requested but not obligated to send a copy to the author as a thank you. The mailing address can be requested via the contact options.</div>\n<div style=\"margin-top:0.5em;\">Please note that the author had quite considerable effort to draw up this file. Thus, it is only fair to comply with the conditions of <a href=\"https://en.wikipedia.org/wiki/Free_license\" class=\"extiw\" title=\"en:Free license\">free licenses</a> listed here. In the case of violation of the license conditions, the rights granted hereunder will expire automatically.</div>\n<div style=\"margin-top:0.75em; clear: both;\"><b>III. Disclaimer</b></div>\n<div style=\"margin-top:0.5em;\">Please note the licence does grant you any rights to change, alter, modify, crop or use this file in any manner then as it is depicted herein, unless those changes are described in the attribution, and that the license applies solely for the reuse of the photograph itself. The license doesn't grant you any right regarding the depicted object (eg, copyright or proprietary rights) or the personality rights of the person eventually shown. (See <a href=\"//commons.wikimedia.org/wiki/Commons:L\" class=\"mw-redirect\" title=\"Commons:L\">licences</a> and <a href=\"//commons.wikimedia.org/wiki/Commons:SOSUMI\" class=\"mw-redirect\" title=\"Commons:SOSUMI\">non-copyright restrictions</a>.) I do not grant any warranty that the subsequent use of the photograph is legally possible concerning the object or person shown in the photograph. You are responsible to check and respect these rights in the publication in the respective medium or country.</div>\n<div style=\"margin-top:0.5em;\">The author is not responsible for the accuracy of the information contained herein (description, title, etc.). Likewise, the author assumes no liability for further use. Please note the <a href=\"//commons.wikimedia.org/wiki/Commons:General_disclaimer\" title=\"Commons:General disclaimer\">general disclaimer</a> and please read <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">reusing content outside Wikimedia</a> too.</div>\n<div style=\"margin-top:0.75em;\"><b>IV. Contact</b></div>\n<div style=\"margin-top:0.5em;\"><b><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:UserIconMail.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/40px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/60px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"700\" data-file-height=\"700\"></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"mailto:don@logan.com\">E-mail to the author</a></b> or the <a href=\"//commons.wikimedia.org/wiki/User_talk:WPPilot\" title=\"User talk:WPPilot\">author's talk page</a> <small>or the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.mediadev.net/\">author's website</a></small></div></div>\n</td></tr></tbody></table>\n<style data-mw-deduplicate=\"TemplateStyles:r1065912264\">.mw-parser-output .note{background-position:left 7px top 50%;padding:0.5em 0.5em 0.5em 40px;margin:0.5em 0;overflow:hidden;background-color:var(--background-color-base,#fff);color:var(--color-base,#202122);background-repeat:no-repeat;border:1px solid var(--border-color-base,#ddd)}.mw-parser-output .note-inline{display:inline-block;vertical-align:middle}.mw-parser-output .note-info{background-color:var(--background-color-base,#fff);color:var(--color-base,#202122);background-image:url(\"https://upload.wikimedia.org/wikipedia/commons/e/ec/OOjs_UI_icon_information-progressive.svg\");background-size:25px;border:1px solid var(--border-color-progressive,#6485d1);padding-left:40px;min-height:25px}.mw-parser-output .note-reminder{background-color:var(--background-color-warning-subtle,#fdf2d5);color:var(--color-base,#202122);background-image:url(\"https://upload.wikimedia.org/wikipedia/commons/a/a8/OOjs_UI_icon_lightbulb-yellow.svg\");background-size:25px;border:1px solid var(--border-color-content-removed,#ffe49c);min-height:25px}.mw-parser-output .note-warn{background-color:var(--background-color-warning-subtle,#fdf2d5);color:var(--color-base,#202122);background-image:url(\"https://upload.wikimedia.org/wikipedia/commons/3/3b/OOjs_UI_icon_alert-warning.svg\");background-size:25px;border:1px solid var(--border-color-content-removed,#ffe49c);min-height:25px}.mw-parser-output .note-error{background-color:var(--background-color-error-subtle,#ffe9e5);color:var(--color-base,#202122);background-image:url(\"https://upload.wikimedia.org/wikipedia/commons/b/bf/OOjs_UI_icon_notice-destructive.svg\");background-size:25px;border:1px solid var(--border-color-destructive,#f54739);min-height:25px}</style><div role=\"note\" class=\"note note-info\"><figure class=\"mw-halign-right\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:No_Facebook.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/No_Facebook.svg/250px-No_Facebook.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"135\" height=\"30\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/No_Facebook.svg/330px-No_Facebook.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"14\"></a><figcaption></figcaption></figure> Beware that some social media platforms require their users to give the platform a sub-licensable license for any file their users upload. Platforms like Facebook do not recognize Creative Commons licenses and don't adhere to their attribution requirements, so only the copyright holder can provide the permission as described in their terms of service.\n<div class=\"collapsibletemplate collapsed\" style=\"border: none; padding: 0;\">\n<div class=\"collapsibleheader header\" style=\"font-size: 105%; text-align: left;\"><span class=\"headertext\">References</span></div>\n<div class=\"body show-on-commons\"><ul style=\"list-style: none none; margin-left: 0; margin-left:2em; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;\"><li style=\"line-height: inherit; margin: 0\"> 1. <a rel=\"nofollow\" class=\"external text\" href=\"https://www.facebook.com/legal/terms\">Facebook Terms of Service</a> (<span class=\"mw-formatted-date\" title=\"2024-01-12\">12 January 2024</span>). \"when you share, post, or upload content that is covered by intellectual property rights (like photos or videos) on or in connection with our Products, you grant us a non-exclusive, transferable, sub-licensable, and worldwide license\"\n </li><li style=\"line-height: inherit; margin: 0\"> 2. <a rel=\"nofollow\" class=\"external text\" href=\"https://help.instagram.com/581066165581870/\">\"Instagram Terms of Service</a> (<span class=\"mw-formatted-date\" title=\"2024-01-12\">12 January 2024</span>). \"When you share, post, or upload content that is covered by intellectual property rights (like photos or videos) on or in connection with our Service, you hereby grant to us a non-exclusive, royalty-free, transferable, sub-licensable, worldwide license\"\n </li><li style=\"line-height: inherit; margin: 0\"> 3. <a rel=\"nofollow\" class=\"external text\" href=\"https://www.tiktok.com/legal/page/eea/terms-of-service/en\">TikTok Terms of Service</a> (<span class=\"mw-formatted-date\" title=\"2024-01-10\">10 January 2024</span>). \"By creating, posting or otherwise making content available on the Platform, you grant to TikTok a: non-exclusive, royalty-free, transferable, sub-licensable and worldwide licence to use your content\"\n </li><li style=\"line-height: inherit; margin: 0\"> 4. <a rel=\"nofollow\" class=\"external text\" href=\"https://snap.com/en-US/terms\">Snapchat Terms of Service</a> (<span class=\"mw-formatted-date\" title=\"2024-01-10\">10 January 2024</span>). \"For all content you submit to the Services, you grant Snap and our affiliates a worldwide, royalty-free, sublicencable, and transferable licence\"\n </li><li style=\"line-height: inherit; margin: 0\"> 5. <a rel=\"nofollow\" class=\"external text\" href=\"https://x.com/en/tos\">X Terms of Service</a> (<span class=\"mw-formatted-date\" title=\"2026-10-09\">October 9, 2026</span>). \"You retain ownership and rights to any of your Content you post or share, and you provide us with a broad, royalty-free license to make your Content available to the rest of the world and to let others do the same.[...]In choosing to submit, input, create, generate, post, or display Content on or through the Services, you grant us a worldwide, non-exclusive, royalty-free license (with the right to sublicense) to use, copy, reproduce, process, adapt, modify, publish, transmit, display, upload, download, and distribute such Content, including anything referenced therein, in any and all media or distribution methods now known or later developed, for any purpose. For clarity, these rights include, for example, curating, transforming, and translating. This license authorizes us to make your Content available to the rest of the world and to let others do the same.\"\n</li></ul>\n</div></div></div><div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/4.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/4.0/deed.en\">Attribution 4.0 International</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">Photograph by Don Ramey Logan</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/4.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 4.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 4.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Photograph by Don Ramey Logan",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "71770535": {
+        "pageid": 71770535,
+        "ns": 6,
+        "title": "File:Sailing yacht 'Globetrotter' off Broadstairs, Kent, England.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 14232131,
+            "width": 3782,
+            "height": 3026,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Sailing_yacht_%27Globetrotter%27_off_Broadstairs%2C_Kent%2C_England.jpg/960px-Sailing_yacht_%27Globetrotter%27_off_Broadstairs%2C_Kent%2C_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 614,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Sailing_yacht_%27Globetrotter%27_off_Broadstairs%2C_Kent%2C_England.jpg/1920px-Sailing_yacht_%27Globetrotter%27_off_Broadstairs%2C_Kent%2C_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Sailing_yacht_%27Globetrotter%27_off_Broadstairs%2C_Kent%2C_England.jpg/960px-Sailing_yacht_%27Globetrotter%27_off_Broadstairs%2C_Kent%2C_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 614,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Sailing_yacht_%27Globetrotter%27_off_Broadstairs%2C_Kent%2C_England.jpg/1920px-Sailing_yacht_%27Globetrotter%27_off_Broadstairs%2C_Kent%2C_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Sailing_yacht_%27Globetrotter%27_off_Broadstairs%2C_Kent%2C_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sailing_yacht_%27Globetrotter%27_off_Broadstairs,_Kent,_England.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=71770535",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-08-19 15:38:08",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Sailing yacht 'Globetrotter' off Broadstairs, Kent, England",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Sailing yachts of the United Kingdom|Photographs with aspect ratio of 5:4|Self-published work|Side views of watercraft|Watercraft in motion|Summer in Kent|Sailboats in the United Kingdom|Summer 2018 in the United Kingdom|Watercraft in the United Kingdom photographed in the 2000s|Acabashi photos: boats|Watercraft off Broadstairs|August 2018 in Kent|United Kingdom photographs taken on 2018-08-14|Acabashi photos: water|Boats and ships taken with Canon PowerShot SX60 HS|Watercraft facing left|Files with coordinates missing SDC location of creation (51° N, 1° E)|Boats in Kent|Kent photos taken with Canon PowerShot SX60 HS|Images from Kent",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "51.357553",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "1.453290",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Sailing yacht 'Globetrotter' taken from Victoria Parade on Viking Bay, at <a href=\"https://en.wikipedia.org/wiki/Broadstairs\" class=\"extiw\" title=\"en:Broadstairs\">Broadstairs</a> in <a href=\"https://en.wikipedia.org/wiki/Kent\" class=\"extiw\" title=\"en:Kent\">Kent</a>, England.<br><b>Camera</b>: <a href=\"https://en.wikipedia.org/wiki/Canon_PowerShot_SX60_HS\" class=\"extiw\" title=\"w:Canon PowerShot SX60 HS\">Canon PowerShot SX60 HS</a><br><b>Software</b>: File lens-corrected, optimized, perhaps cropped, with <a href=\"https://en.wikipedia.org/wiki/DxO_PhotoLab\" class=\"extiw\" title=\"en:DxO PhotoLab\">DxO PhotoLab Elite</a>, and likely further optimized with <a href=\"https://en.wikipedia.org/wiki/Adobe_Photoshop#CS2\" class=\"extiw\" title=\"en:Adobe Photoshop\">Adobe Photoshop CS2</a>.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-08-14 11:20:16",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Acabashi\" title=\"User:Acabashi\">Acabashi</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<div style=\"clear:both; border:1px solid #999999; margin:1em 0.8em; padding:0.5em 0.8em; background-color: #ffffff; font-size: 100%;\">\n<p><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:CCBYSA_yellow.png\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/2/29/CCBYSA_yellow.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail_unscaled\" decoding=\"async\" loading=\"lazy\" width=\"87\" height=\"35\" class=\"mw-file-element\" data-file-width=\"87\" data-file-height=\"35\"></a></span>\n</p><p>Permission is given to reuse this file under conditions stipulated by <a href=\"https://en.wikipedia.org/wiki/Creative_Commons\" class=\"extiw\" title=\"en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-ShareAlike 4.0 International</a> licensing. Please note that although this file is <a href=\"//commons.wikimedia.org/wiki/Commons:Licensing\" title=\"Commons:Licensing\">freely licenced</a> it is <b>not in the <a href=\"https://en.wikipedia.org/wiki/Public_domain\" class=\"extiw\" title=\"en:Public domain\">public domain</a></b>, and might have specific <b>exclusion</b> for use in <b>social media</b>.\n</p><p>Before download and reuse, please consult the Wikimedia page <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing content outside Wikimedia</a>. Attribution <b>must</b> be given for republishing this image in <b>any</b> media, and requires the name of the creator (<a href=\"//commons.wikimedia.org/wiki/User:Acabashi\" title=\"User:Acabashi\">Acabashi</a>), and a link to the content here if web based, or written accreditation if not web based. If you change, manipulate or add to any resolution of the file, or use the file or parts of it within other works, on publication in any media you <b>must still</b> credit the creator here as described above for this original image used, and must detail the changes you made. In all cases you must also add follow-on <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-ShareAlike 4.0 International</a> copyright license and disclaimer notices. You must state that your variation is freely available under this same level Creative Commons license, and that any follow-on publishing by others, with or without their further changes as above, must add the same licensing statement, and attribution referral to the original image here.\n</p><p><b>Put simply</b>, you must not re-publish this file without attribution and Creative Commons license, whether or not you have built on it, or with it, and you must not insist on your own copyright notification stopping others from freely using it or your variation or composite.\n</p><p><b>Online attribution</b>: Image © <a href=\"//commons.wikimedia.org/wiki/User:Acabashi\" title=\"User:Acabashi\">Acabashi</a>; <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/legalcode\">Creative Commons CC-BY-SA 4.0</a>; Source: <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a><br>\n</p>\n<b>Print attribution</b>: Image © Acabashi, Creative Commons CC-BY-SA 4.0, Wikimedia Commons</div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "71771606": {
+        "pageid": 71771606,
+        "ns": 6,
+        "title": "File:Sailing yacht 'Cariona' off Broadstairs, Kent, England 1.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8031835,
+            "width": 2695,
+            "height": 3368,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Sailing_yacht_%27Cariona%27_off_Broadstairs%2C_Kent%2C_England_1.jpg/960px-Sailing_yacht_%27Cariona%27_off_Broadstairs%2C_Kent%2C_England_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 960,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Sailing_yacht_%27Cariona%27_off_Broadstairs%2C_Kent%2C_England_1.jpg/1920px-Sailing_yacht_%27Cariona%27_off_Broadstairs%2C_Kent%2C_England_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Sailing_yacht_%27Cariona%27_off_Broadstairs%2C_Kent%2C_England_1.jpg/960px-Sailing_yacht_%27Cariona%27_off_Broadstairs%2C_Kent%2C_England_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 960,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Sailing_yacht_%27Cariona%27_off_Broadstairs%2C_Kent%2C_England_1.jpg/1920px-Sailing_yacht_%27Cariona%27_off_Broadstairs%2C_Kent%2C_England_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Sailing_yacht_%27Cariona%27_off_Broadstairs%2C_Kent%2C_England_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sailing_yacht_%27Cariona%27_off_Broadstairs,_Kent,_England_1.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=71771606",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-08-19 16:16:23",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Sailing yacht 'Cariona' off Broadstairs, Kent, England 1",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Sailing yachts of the United Kingdom|Photographs with aspect ratio of 4:5|Self-published work|Side views of watercraft|Watercraft in motion|Summer in Kent|Blue boats|Sailboats in the United Kingdom|Summer 2018 in the United Kingdom|Watercraft in the United Kingdom photographed in the 2000s|Acabashi photos: boats|Watercraft off Broadstairs|August 2018 in Kent|United Kingdom photographs taken on 2018-08-14|Acabashi photos: water|Boats and ships taken with Canon PowerShot SX60 HS|Watercraft facing left|Files with coordinates missing SDC location of creation (51° N, 1° E)|Boats in Kent|Kent photos taken with Canon PowerShot SX60 HS|Images from Kent",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "51.356374",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "1.452989",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Sailing yacht 'Cariona' taken from Victoria Parade on Viking Bay, at <a href=\"https://en.wikipedia.org/wiki/Broadstairs\" class=\"extiw\" title=\"en:Broadstairs\">Broadstairs</a> in <a href=\"https://en.wikipedia.org/wiki/Kent\" class=\"extiw\" title=\"en:Kent\">Kent</a>, England.<br><b>Camera</b>: <a href=\"https://en.wikipedia.org/wiki/Canon_PowerShot_SX60_HS\" class=\"extiw\" title=\"w:Canon PowerShot SX60 HS\">Canon PowerShot SX60 HS</a><br><b>Software</b>: File lens-corrected, optimized, perhaps cropped, with <a href=\"https://en.wikipedia.org/wiki/DxO_PhotoLab\" class=\"extiw\" title=\"en:DxO PhotoLab\">DxO PhotoLab Elite</a>, and likely further optimized with <a href=\"https://en.wikipedia.org/wiki/Adobe_Photoshop#CS2\" class=\"extiw\" title=\"en:Adobe Photoshop\">Adobe Photoshop CS2</a>.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-08-14 12:39:13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Acabashi\" title=\"User:Acabashi\">Acabashi</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<div style=\"clear:both; border:1px solid #999999; margin:1em 0.8em; padding:0.5em 0.8em; background-color: #ffffff; font-size: 100%;\">\n<p><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:CCBYSA_yellow.png\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/2/29/CCBYSA_yellow.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail_unscaled\" decoding=\"async\" loading=\"lazy\" width=\"87\" height=\"35\" class=\"mw-file-element\" data-file-width=\"87\" data-file-height=\"35\"></a></span>\n</p><p>Permission is given to reuse this file under conditions stipulated by <a href=\"https://en.wikipedia.org/wiki/Creative_Commons\" class=\"extiw\" title=\"en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-ShareAlike 4.0 International</a> licensing. Please note that although this file is <a href=\"//commons.wikimedia.org/wiki/Commons:Licensing\" title=\"Commons:Licensing\">freely licenced</a> it is <b>not in the <a href=\"https://en.wikipedia.org/wiki/Public_domain\" class=\"extiw\" title=\"en:Public domain\">public domain</a></b>, and might have specific <b>exclusion</b> for use in <b>social media</b>.\n</p><p>Before download and reuse, please consult the Wikimedia page <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing content outside Wikimedia</a>. Attribution <b>must</b> be given for republishing this image in <b>any</b> media, and requires the name of the creator (<a href=\"//commons.wikimedia.org/wiki/User:Acabashi\" title=\"User:Acabashi\">Acabashi</a>), and a link to the content here if web based, or written accreditation if not web based. If you change, manipulate or add to any resolution of the file, or use the file or parts of it within other works, on publication in any media you <b>must still</b> credit the creator here as described above for this original image used, and must detail the changes you made. In all cases you must also add follow-on <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-ShareAlike 4.0 International</a> copyright license and disclaimer notices. You must state that your variation is freely available under this same level Creative Commons license, and that any follow-on publishing by others, with or without their further changes as above, must add the same licensing statement, and attribution referral to the original image here.\n</p><p><b>Put simply</b>, you must not re-publish this file without attribution and Creative Commons license, whether or not you have built on it, or with it, and you must not insist on your own copyright notification stopping others from freely using it or your variation or composite.\n</p><p><b>Online attribution</b>: Image © <a href=\"//commons.wikimedia.org/wiki/User:Acabashi\" title=\"User:Acabashi\">Acabashi</a>; <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/legalcode\">Creative Commons CC-BY-SA 4.0</a>; Source: <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a><br>\n</p>\n<b>Print attribution</b>: Image © Acabashi, Creative Commons CC-BY-SA 4.0, Wikimedia Commons</div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "82617090": {
+        "pageid": 82617090,
+        "ns": 6,
+        "title": "File:Sailing yacht on Vlieland shore at low tide (Netherlands 2015) (20265092131).jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 278167,
+            "width": 1350,
+            "height": 900,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Sailing_yacht_on_Vlieland_shore_at_low_tide_%28Netherlands_2015%29_%2820265092131%29.jpg/960px-Sailing_yacht_on_Vlieland_shore_at_low_tide_%28Netherlands_2015%29_%2820265092131%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 512,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Sailing_yacht_on_Vlieland_shore_at_low_tide_%28Netherlands_2015%29_%2820265092131%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Sailing_yacht_on_Vlieland_shore_at_low_tide_%28Netherlands_2015%29_%2820265092131%29.jpg/960px-Sailing_yacht_on_Vlieland_shore_at_low_tide_%28Netherlands_2015%29_%2820265092131%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 512,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Sailing_yacht_on_Vlieland_shore_at_low_tide_%28Netherlands_2015%29_%2820265092131%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Sailing_yacht_on_Vlieland_shore_at_low_tide_%28Netherlands_2015%29_%2820265092131%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sailing_yacht_on_Vlieland_shore_at_low_tide_(Netherlands_2015)_(20265092131).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82617090",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-09-28 10:19:28",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Sailing yacht on Vlieland shore at low tide (Netherlands 2015) (20265092131)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Netherlands photographs taken on 2015-07-31|Vlieland beach|Flickr images reviewed by FlickreviewR 2|Sailing yachts in the Netherlands|Photographs by Paul Arps",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "53.294971",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "5.067873",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Sailing yacht on Vlieland shore at low tide (Netherlands 2015)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-07-31 16:55",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/slapers/20265092131/\">Sailing yacht on Vlieland shore at low tide (Netherlands 2015)</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/21160385@N02\">Paul Arps</a> from The Netherlands",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "91447949": {
+        "pageid": 91447949,
+        "ns": 6,
+        "title": "File:Sailing yacht, Shetlands-Larsens Brygge, 2019 (01).jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8607314,
+            "width": 3366,
+            "height": 5996,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Sailing_yacht%2C_Shetlands-Larsens_Brygge%2C_2019_%2801%29.jpg/960px-Sailing_yacht%2C_Shetlands-Larsens_Brygge%2C_2019_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1368,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Sailing_yacht%2C_Shetlands-Larsens_Brygge%2C_2019_%2801%29.jpg/1920px-Sailing_yacht%2C_Shetlands-Larsens_Brygge%2C_2019_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Sailing_yacht%2C_Shetlands-Larsens_Brygge%2C_2019_%2801%29.jpg/960px-Sailing_yacht%2C_Shetlands-Larsens_Brygge%2C_2019_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1368,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Sailing_yacht%2C_Shetlands-Larsens_Brygge%2C_2019_%2801%29.jpg/1920px-Sailing_yacht%2C_Shetlands-Larsens_Brygge%2C_2019_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Sailing_yacht%2C_Shetlands-Larsens_Brygge%2C_2019_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sailing_yacht,_Shetlands-Larsens_Brygge,_2019_(01).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91447949",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-06-22 13:16:53",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Sailing yacht, Shetlands-Larsens Brygge, 2019 (01)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Nikon D750 and AF-S VR Zoom-Nikkor 24-85mm f/3.5-4.5G ED|Sailing yachts of the Netherlands|Self-published work|Sailing yachts in Norway|Images by Bahnfrend|Watercraft in Norway photographed in 2019|Files with coordinates missing SDC location of creation|August 2019 in Bergen, Norway|Norway photographs taken on 2019-08-31|Boats moored at a wharf or quay in Bergen, Norway|Shetlands-Larsens Brygge|Boats facing right",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "60.395556",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "5.325444",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A sailing yacht from the Netherlands moored at Shetlands-Larsens Brygge in the bay of <a href=\"https://en.wikipedia.org/wiki/V%C3%A5gen,_Bergen\" class=\"extiw\" title=\"w:Vågen, Bergen\">Vågen, Bergen</a>, Norway",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-09-01 03:48:14",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Bahnfrend\" title=\"User:Bahnfrend\">Bahnfrend</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "173834239": {
+        "pageid": 173834239,
+        "ns": 6,
+        "title": "File:Arabella, a 157 foot sailing yacht, in the west channel of the East River, NYC.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4570002,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Arabella%2C_a_157_foot_sailing_yacht%2C_in_the_west_channel_of_the_East_River%2C_NYC.jpg/960px-Arabella%2C_a_157_foot_sailing_yacht%2C_in_the_west_channel_of_the_East_River%2C_NYC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Arabella%2C_a_157_foot_sailing_yacht%2C_in_the_west_channel_of_the_East_River%2C_NYC.jpg/1920px-Arabella%2C_a_157_foot_sailing_yacht%2C_in_the_west_channel_of_the_East_River%2C_NYC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Arabella%2C_a_157_foot_sailing_yacht%2C_in_the_west_channel_of_the_East_River%2C_NYC.jpg/960px-Arabella%2C_a_157_foot_sailing_yacht%2C_in_the_west_channel_of_the_East_River%2C_NYC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Arabella%2C_a_157_foot_sailing_yacht%2C_in_the_west_channel_of_the_East_River%2C_NYC.jpg/1920px-Arabella%2C_a_157_foot_sailing_yacht%2C_in_the_west_channel_of_the_East_River%2C_NYC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Arabella%2C_a_157_foot_sailing_yacht%2C_in_the_west_channel_of_the_East_River%2C_NYC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Arabella,_a_157_foot_sailing_yacht,_in_the_west_channel_of_the_East_River,_NYC.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=173834239",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-08-28 19:30:21",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Arabella, a 157 foot sailing yacht, in the west channel of the East River, NYC",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Sailing yachts of the United States|Sailboats in New York (state)|Self-published work|Files with coordinates missing SDC location of creation|New York City photographs taken on 2025-08-28|Water transport on the East River",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "40.767131",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-73.951439",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Arabella, a 157 foot sailing yacht, in the west channel of the East River, NYC",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-08-28 13:17:47",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Stuttle2&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Stuttle2 (page does not exist)\">Stuttle2</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

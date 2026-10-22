@@ -1,0 +1,48 @@
+test_duplicate_and_nonfinite_json_rejected (test_service.ContractTests.test_duplicate_and_nonfinite_json_rejected) ... ok
+test_image_dimensions_and_format (test_service.ContractTests.test_image_dimensions_and_format) ... ok
+test_missing_import_is_not_available (test_service.ContractTests.test_missing_import_is_not_available) ... ok
+test_origin_configuration_is_explicit_https (test_service.ContractTests.test_origin_configuration_is_explicit_https) ... ok
+test_stale_preprocessing_cannot_start_after_cancel (test_service.ContractTests.test_stale_preprocessing_cannot_start_after_cancel) ... ok
+test_strict_response_shape (test_service.ContractTests.test_strict_response_shape) ... ok
+test_concurrency_rejected_cancel_after_session_expiry_unloads (test_service.ServiceTests.test_concurrency_rejected_cancel_after_session_expiry_unloads) ... ok
+test_disconnect_revokes_token_and_stops_active_generation (test_service.ServiceTests.test_disconnect_revokes_token_and_stops_active_generation) ... ok
+test_exact_origin_and_no_wildcard_cors (test_service.ServiceTests.test_exact_origin_and_no_wildcard_cors) ... ok
+test_expired_code_and_session (test_service.ServiceTests.test_expired_code_and_session) ... ok
+test_failed_quality_gate_prevents_production_inference (test_service.ServiceTests.test_failed_quality_gate_prevents_production_inference) ... ok
+test_listener_is_ipv4_loopback_only (test_service.ServiceTests.test_listener_is_ipv4_loopback_only) ... ok
+test_no_unauthorized_decode_or_inference (test_service.ServiceTests.test_no_unauthorized_decode_or_inference) ... ok
+test_pair_attempt_limit (test_service.ServiceTests.test_pair_attempt_limit) ... ok
+test_pair_code_one_use (test_service.ServiceTests.test_pair_code_one_use) ... ok
+test_preflight_has_exact_methods_headers_and_origin (test_service.ServiceTests.test_preflight_has_exact_methods_headers_and_origin) ... ok
+test_privacy_source_metadata_removed_before_inference (test_service.ServiceTests.test_privacy_source_metadata_removed_before_inference) ... ok
+test_rebinding_host_rejected (test_service.ServiceTests.test_rebinding_host_rejected) ... ERROR
+test_size_content_type_and_malformed_json (test_service.ServiceTests.test_size_content_type_and_malformed_json) ... ok
+test_unknown_paths_and_filesystem_commands_rejected (test_service.ServiceTests.test_unknown_paths_and_filesystem_commands_rejected) ... ok
+
+======================================================================
+ERROR: test_rebinding_host_rejected (test_service.ServiceTests.test_rebinding_host_rejected)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\ouaha\OneDrive\Desktop\ouahad-hidden-data\companion\tests\test_service.py", line 109, in test_rebinding_host_rejected
+    status, headers, _ = self.request('/v1/pair', {'code':self.code}, headers={'Host':'rebound.evil'})
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ouaha\OneDrive\Desktop\ouahad-hidden-data\companion\tests\test_service.py", line 83, in request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ouaha\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1430, in getresponse
+    response.begin()
+  File "C:\Users\ouaha\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ouaha\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ouaha\AppData\Local\Programs\Python\Python312\Lib\socket.py", line 720, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+ConnectionAbortedError: [WinError 10053] An established connection was aborted by the software in your host machine
+
+----------------------------------------------------------------------
+Ran 20 tests in 9.468s
+
+FAILED (errors=1)

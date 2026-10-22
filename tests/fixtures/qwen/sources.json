@@ -1,0 +1,88 @@
+{
+  "selection": "Six fixed queries; first distinct licensed JPEG in search order. No model outputs inspected during selection. All held out from prompt development.",
+  "records": [
+    {
+      "id": "heldout-0",
+      "split": "heldout",
+      "query": "street market vegetables photograph",
+      "title": "File:Child working selling vegetables in downtown Maracaibo.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Child_working_selling_vegetables_in_downtown_Maracaibo.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Child_working_selling_vegetables_in_downtown_Maracaibo.jpg/960px-Child_working_selling_vegetables_in_downtown_Maracaibo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "authorHtml": "<a href=\"//commons.wikimedia.org/wiki/User:Wilfredor\" class=\"mw-redirect\" title=\"User:Wilfredor\">Wilfredor</a>",
+      "file": "tests/fixtures/qwen/heldout-0.jpg",
+      "bytes": 256938,
+      "sha256": "7d4cdb2ae5bb073834363eb3fe4b7d7e46b9447843c0ff42fc06ebc7f8751b79"
+    },
+    {
+      "id": "heldout-1",
+      "split": "heldout",
+      "query": "workshop tools workbench photograph",
+      "title": "File:Topmast Studio (WORKSHOP) Swiss Tools at the workbench Pfeil Wood Carving Tools Gouges, Chisels, Carving Sets (pic.g1).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Topmast_Studio_(WORKSHOP)_Swiss_Tools_at_the_workbench_Pfeil_Wood_Carving_Tools_Gouges,_Chisels,_Carving_Sets_(pic.g1).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Topmast_Studio_%28WORKSHOP%29_Swiss_Tools_at_the_workbench_Pfeil_Wood_Carving_Tools_Gouges%2C_Chisels%2C_Carving_Sets_%28pic.g1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "authorHtml": "<a href=\"//commons.wikimedia.org/wiki/User:David_Adam_Kess\" title=\"User:David Adam Kess\">David Adam Kess</a>",
+      "file": "tests/fixtures/qwen/heldout-1.jpg",
+      "bytes": 104413,
+      "sha256": "aed77a9b009054afc1d35da2528bea81db4b918db27943822e04d255fb7c4846"
+    },
+    {
+      "id": "heldout-2",
+      "split": "heldout",
+      "query": "bird perched branch photograph",
+      "title": "File:Small bird perching on a branch.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Small_bird_perching_on_a_branch.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Small_bird_perching_on_a_branch.jpg/960px-Small_bird_perching_on_a_branch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "authorHtml": "<a href=\"//commons.wikimedia.org/wiki/User:Laitche\" title=\"User:Laitche\">Laitche</a>",
+      "file": "tests/fixtures/qwen/heldout-2.jpg",
+      "bytes": 82922,
+      "sha256": "772354a6e94475ddbf7918c756efcb6730a9baae08dc41eb4b21832fcc755f44"
+    },
+    {
+      "id": "heldout-3",
+      "split": "heldout",
+      "query": "fog forest path photograph",
+      "title": "File:Loch Lubnaig from the path to Ben Ledi, Scotland.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Loch_Lubnaig_from_the_path_to_Ben_Ledi,_Scotland.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Loch_Lubnaig_from_the_path_to_Ben_Ledi%2C_Scotland.jpg/960px-Loch_Lubnaig_from_the_path_to_Ben_Ledi%2C_Scotland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "authorHtml": "<a href=\"//commons.wikimedia.org/wiki/User:Podzemnik\" title=\"User:Podzemnik\">Michal Klajban</a>",
+      "file": "tests/fixtures/qwen/heldout-3.jpg",
+      "bytes": 91197,
+      "sha256": "aa40d21b16ff26ab476e478f98d31b7e66617e4029b386db5477551b04763022"
+    },
+    {
+      "id": "heldout-4",
+      "split": "heldout",
+      "query": "kayak lake photograph",
+      "title": "File:Kayak tour on Yellowstone Lake (e2c11780-f266-4891-ac47-04875206774b).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Kayak_tour_on_Yellowstone_Lake_(e2c11780-f266-4891-ac47-04875206774b).jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Kayak_tour_on_Yellowstone_Lake_%28e2c11780-f266-4891-ac47-04875206774b%29.jpg/960px-Kayak_tour_on_Yellowstone_Lake_%28e2c11780-f266-4891-ac47-04875206774b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license": "Public domain",
+      "authorHtml": "NPS/Diane Renkin",
+      "file": "tests/fixtures/qwen/heldout-4.jpg",
+      "bytes": 89500,
+      "sha256": "adcc5aadd840c8fa319c0ae8ca17a7631c141d31f620ae193cf3961e34a1a0d1"
+    },
+    {
+      "id": "heldout-5",
+      "split": "heldout",
+      "query": "restaurant table meal photograph",
+      "title": "File:'Baa Baa' burger meal, Grill'd William Street, 2026 (01).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:%27Baa_Baa%27_burger_meal,_Grill%27d_William_Street,_2026_(01).jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/%27Baa_Baa%27_burger_meal%2C_Grill%27d_William_Street%2C_2026_%2801%29.jpg/960px-%27Baa_Baa%27_burger_meal%2C_Grill%27d_William_Street%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "authorHtml": "<a href=\"//commons.wikimedia.org/wiki/User:Bahnfrend\" title=\"User:Bahnfrend\">Bahnfrend</a>",
+      "file": "tests/fixtures/qwen/heldout-5.jpg",
+      "bytes": 167736,
+      "sha256": "ca39998673bca2948d3d5047c55bb564122481606d01c2d33688472b6d30ed3f"
+    }
+  ]
+}

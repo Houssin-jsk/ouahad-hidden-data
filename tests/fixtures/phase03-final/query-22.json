@@ -1,0 +1,1157 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 10,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "253058": {
+        "pageid": 253058,
+        "ns": 6,
+        "title": "File:Child laborer.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5420209,
+            "width": 4622,
+            "height": 3417,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Child_laborer.jpg/960px-Child_laborer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 568,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Child_laborer.jpg/1920px-Child_laborer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Child_laborer.jpg/960px-Child_laborer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 568,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Child_laborer.jpg/1920px-Child_laborer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Child_laborer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Child_laborer.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=253058",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2009-02-15 11:34:12",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Child laborer",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Labour movement in the United States|Images from the Library of Congress|Retouched pictures|Newberry, South Carolina|Photographs of child laborers by Lewis Hine|Ring spinning|Featured pictures of South Carolina|Commons featured desktop backgrounds|PD-NCLC|Featured pictures on Wikipedia, Persian|Featured pictures on Wikipedia, Spanish|Featured pictures on Wikipedia, Turkish|Children of South Carolina|Front views of girls|Featured pictures on Wikipedia, Bengali|Library of Congress-no known copyright restrictions|December 1908 in South Carolina|Featured pictures of children|United States photographs taken on 1908-12-03|Girls standing|Featured photographs in the public domain|Featured pictures from the Library of Congress|Assessment tagged pages marked as POTY candidates|Featured pictures taken on glass plates|Children with machines",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "featured|potd|poty",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "\"A little spinner in the Mollohan Mills, Newberry, S.C. She was tending her 'sides' like a veteran, but after I took the photo, the overseer came up and said in an apologetic tone that was pathetic, 'She just happened in.' Then a moment later he repeated the information. The mills appear to be full of youngsters that 'just happened in,' or 'are helping sister.' Dec. 3, 08. Witness Sara R. Hine. Location: Newberry, South Carolina\"",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1908-12-03",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This image  is available from the United States <a href=\"//commons.wikimedia.org/wiki/Library_of_Congress\" title=\"Library of Congress\">Library of Congress</a>'s <a rel=\"nofollow\" class=\"external text\" href=\"//www.loc.gov/rr/print/\">Prints and Photographs division</a><br> under the digital ID <a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.loc.gov/loc.pnp/nclc.01451\">nclc.01451</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Lewis W. Hine for the National Child Labor Committee",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td>This work is from the <a rel=\"nofollow\" class=\"external text\" href=\"https://www.loc.gov/pictures/collection/nclc/\">National Child Labor Committee</a> collection at the <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Library_of_Congress\" class=\"extiw\" title=\"en:Library of Congress\"><span lang=\"en\" dir=\"ltr\">Library of Congress</span></a></span>. According to the library, there are <a rel=\"nofollow\" class=\"external text\" href=\"https://www.loc.gov/rr/print/res/097_hine.html\">no known copyright restrictions</a> on the use of this work.\n</td>\n<td><figure class=\"mw-halign-right skin-invert noresize\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/Library_of_Congress\" title=\"Library of Congress\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Seal_of_the_United_States_Library_of_Congress.svg/120px-Seal_of_the_United_States_Library_of_Congress.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"63\" height=\"63\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Seal_of_the_United_States_Library_of_Congress.svg/250px-Seal_of_the_United_States_Library_of_Congress.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"720\" data-file-height=\"720\"></a><figcaption></figcaption></figure>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "3637489": {
+        "pageid": 3637489,
+        "ns": 6,
+        "title": "File:Gasshukoku suishi teitoku kōjōgaki (Oral statement by the American Navy admiral).png",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 15811080,
+            "width": 3512,
+            "height": 2624,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Gasshukoku_suishi_teitoku_k%C5%8Dj%C5%8Dgaki_%28Oral_statement_by_the_American_Navy_admiral%29.png/960px-Gasshukoku_suishi_teitoku_k%C5%8Dj%C5%8Dgaki_%28Oral_statement_by_the_American_Navy_admiral%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 574,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Gasshukoku_suishi_teitoku_k%C5%8Dj%C5%8Dgaki_%28Oral_statement_by_the_American_Navy_admiral%29.png/1920px-Gasshukoku_suishi_teitoku_k%C5%8Dj%C5%8Dgaki_%28Oral_statement_by_the_American_Navy_admiral%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Gasshukoku_suishi_teitoku_k%C5%8Dj%C5%8Dgaki_%28Oral_statement_by_the_American_Navy_admiral%29.png/960px-Gasshukoku_suishi_teitoku_k%C5%8Dj%C5%8Dgaki_%28Oral_statement_by_the_American_Navy_admiral%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 574,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Gasshukoku_suishi_teitoku_k%C5%8Dj%C5%8Dgaki_%28Oral_statement_by_the_American_Navy_admiral%29.png/1920px-Gasshukoku_suishi_teitoku_k%C5%8Dj%C5%8Dgaki_%28Oral_statement_by_the_American_Navy_admiral%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Gasshukoku_suishi_teitoku_k%C5%8Dj%C5%8Dgaki_%28Oral_statement_by_the_American_Navy_admiral%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gasshukoku_suishi_teitoku_k%C5%8Dj%C5%8Dgaki_(Oral_statement_by_the_American_Navy_admiral).png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3637489",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2009-03-22 10:30:00",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Gasshukoku suishi teitoku kōjōgaki (Oral statement by the American Navy admiral)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "31 March|Millard Fillmore|Featured pictures of Japan|Images from the Library of Congress|Retouched pictures|PD-Japan|Kurihama, Yokosuka|History of Yokosuka|Henry A. Adams|Documents of Japan|Featured pictures on Wikipedia, English|Commons featured desktop backgrounds|PD-Art (PD-old-100)|Featured pictures on Wikipedia, Turkish|Template Unknown (author)|CC-PD-Mark|PD-Art missing SDC copyright status|Featured pictures in the public domain|PD-old missing SDC copyright status|Featured pictures from the Library of Congress|Assessment tagged pages marked as POTY candidates|Matthew Perry (naval officer) in art|Perry Expedition in art|Ukiyo-e of historical figures and folk tales|Woodblock prints of the Edo period|Perry Expedition (1853)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "featured|poty",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "This image  is available from the United States <a href=\"//commons.wikimedia.org/wiki/Library_of_Congress\" title=\"Library of Congress\">Library of Congress</a>'s <a rel=\"nofollow\" class=\"external text\" href=\"//www.loc.gov/rr/print/\">Prints and Photographs division</a><br> under the digital ID <a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.loc.gov/loc.pnp/cph.3g10708\">cph.3g10708</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "circa 1854<div style=\"display: none;\">date QS:P,+1854-00-00T00:00:00Z/9,P1480,Q5727902</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Library of Congress",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "The Library of Congress says \"No known restrictions on publication\"",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "6529777": {
+        "pageid": 6529777,
+        "ns": 6,
+        "title": "File:B'nai B'rith membership certificate 1876.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4001209,
+            "width": 2450,
+            "height": 3081,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/B%27nai_B%27rith_membership_certificate_1876.jpg/960px-B%27nai_B%27rith_membership_certificate_1876.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 966,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/B%27nai_B%27rith_membership_certificate_1876.jpg/1920px-B%27nai_B%27rith_membership_certificate_1876.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/B%27nai_B%27rith_membership_certificate_1876.jpg/960px-B%27nai_B%27rith_membership_certificate_1876.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 966,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/B%27nai_B%27rith_membership_certificate_1876.jpg/1920px-B%27nai_B%27rith_membership_certificate_1876.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/B%27nai_B%27rith_membership_certificate_1876.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:B%27nai_B%27rith_membership_certificate_1876.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=6529777",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2009-04-15 17:57:39",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "B'nai B'rith membership certificate 1876",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "1876 in Wisconsin|Images from the Library of Congress|Milwaukee, Wisconsin|Retouched pictures|Orphanages|Eye of Providence|B'nai B'rith|Louis Kurz|Featured pictures on Wikipedia, English|PD US expired|Featured pictures on Wikipedia, Turkish|Menorah in art|1876 documents of the United States|Featured pictures in the public domain|Featured pictures from the Library of Congress|Engravings of Abraham|Assessment tagged pages marked as POTY candidates|Engravings of Isaac|Engravings of Moses",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "featured|potd|poty",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Blank membership certificate for the \"Independent Order of B'nai B'rith\".<br>\n<p>Beneath a banner labelled \"Benevolence, Brotherly Love, and Harmony\", a blank membership certificate is surrounded by vignettes of an orphan asylum, Moses, Abraham and Isaac, a menorah, domestic scenes, and others.  <br>\n</p>\nLithograph.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1876",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This image  is available from the United States <a href=\"//commons.wikimedia.org/wiki/Library_of_Congress\" title=\"Library of Congress\">Library of Congress</a>'s <a rel=\"nofollow\" class=\"external text\" href=\"//www.loc.gov/rr/print/\">Prints and Photographs division</a><br> under the digital ID <a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.loc.gov/loc.pnp/ppmsca.05662\">ppmsca.05662</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Louis Kurz (1833-1921), for the American Oleograph Company",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "Public domain works must be out of copyright in both the United States and in the source country of the work in order to be hosted on the Commons. If the work is not a U.S. work, the file <b>must</b> have an additional <a href=\"//commons.wikimedia.org/wiki/Commons:Copyright_tags\" title=\"Commons:Copyright tags\">copyright tag</a> indicating the copyright status in the source country.<br><b>Note:</b> This tag should <i>not</i> be used for sound recordings.<span style=\"display:none;\"><span class=\"licensetpl_short\">PD-1923</span><span class=\"licensetpl_long\"><a href=\"//commons.wikimedia.org/wiki/Public_domain\" class=\"mw-redirect\" title=\"Public domain\">Public domain</a> in the United States</span><span class=\"licensetpl_link\">//commons.wikimedia.org/wiki/File:B%27nai_B%27rith_membership_certificate_1876.jpg</span></span>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "10181169": {
+        "pageid": 10181169,
+        "ns": 6,
+        "title": "File:Lamborghini Super Trofeo 99 2010 amk.JPG",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4155592,
+            "width": 3393,
+            "height": 2262,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Lamborghini_Super_Trofeo_99_2010_amk.JPG/960px-Lamborghini_Super_Trofeo_99_2010_amk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 512,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Lamborghini_Super_Trofeo_99_2010_amk.JPG/1920px-Lamborghini_Super_Trofeo_99_2010_amk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Lamborghini_Super_Trofeo_99_2010_amk.JPG/960px-Lamborghini_Super_Trofeo_99_2010_amk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 512,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Lamborghini_Super_Trofeo_99_2010_amk.JPG/1920px-Lamborghini_Super_Trofeo_99_2010_amk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Lamborghini_Super_Trofeo_99_2010_amk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lamborghini_Super_Trofeo_99_2010_amk.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10181169",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2010-04-28 20:37:35",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Lamborghini Super Trofeo 99 2010 amk",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Canon EOS 40D|Hockenheimring|License migration redundant|Lamborghini Super Trofeo|Self-published work|Automobiles facing right|Side views of racing automobiles|Featured pictures by User:AngMoKio|Photographs by User:AngMoKio|Orange racing automobiles|Featured pictures on Wikipedia, Persian|Featured pictures on Wikipedia, Vietnamese|Number 99 on Lamborghini racing cars|Files with coordinates missing SDC location of creation (49° N, 8° E)|Assessment tagged pages marked as POTY candidates|Panning of racing automobiles|Featured pictures of automobile racing|Lamborghini Gallardo LP560-4 Super Trofeo",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality|featured|potd|poty",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "49.330765",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "8.575537",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A sports car <a href=\"https://en.wikipedia.org/wiki/Lamborghini_Gallardo\" class=\"extiw\" title=\"w:Lamborghini Gallardo\">Lamborghini Gallardo</a> during a race of <a href=\"https://en.wikipedia.org/wiki/Lamborghini_Super_Trofeo\" class=\"extiw\" title=\"w:Lamborghini Super Trofeo\">Lamborghini Super Trofeo</a>. (Drivers: P. Charouz / A. Lacko)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2010-04-25",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:AngMoKio\" title=\"User:AngMoKio\">AngMoKio</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<div style=\"background-color: #f0f0ff; width: 70%; border: 1px solid #8888aa; padding: 5px;\">\n<p>If you use this picture somewhere outside the wiki-world, I'd be happy to get a short eMail  from you.  In print-media please add my name, which you get by mailing me. You can send me an eMail by clicking <b><a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/AngMoKio\" title=\"Special:EmailUser/AngMoKio\">here</a></b> (account needed). If you don't have an account and you don't want to create one (it is easy), you can also write a short message on my <a href=\"//commons.wikimedia.org/wiki/User_talk:AngMoKio\" title=\"User talk:AngMoKio\">discussion page</a>. <br><small>Find some more info about the usage of my photos <i><b><a href=\"//commons.wikimedia.org/wiki/User:AngMoKio#Usage_of_my_photos\" title=\"User:AngMoKio\">here</a></b></i>.</small>\n</p><p>Other licensing terms can get discussed too, if necessary.<br>\n</p>\n<hr>\n<p><b>&gt;&gt;</b> Find more free pictures of various topics on my <a href=\"//commons.wikimedia.org/wiki/User:AngMoKio\" title=\"User:AngMoKio\">userpage (AngMoKio)</a> <b>&lt;&lt;</b>.\n</p>\n</div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "10270026": {
+        "pageid": 10270026,
+        "ns": 6,
+        "title": "File:Chiang Kai-shek memorial 2 amk.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4360662,
+            "width": 2567,
+            "height": 3272,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Chiang_Kai-shek_memorial_2_amk.jpg/960px-Chiang_Kai-shek_memorial_2_amk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 979,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Chiang_Kai-shek_memorial_2_amk.jpg/1920px-Chiang_Kai-shek_memorial_2_amk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Chiang_Kai-shek_memorial_2_amk.jpg/960px-Chiang_Kai-shek_memorial_2_amk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 979,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Chiang_Kai-shek_memorial_2_amk.jpg/1920px-Chiang_Kai-shek_memorial_2_amk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Chiang_Kai-shek_memorial_2_amk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Chiang_Kai-shek_memorial_2_amk.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10270026",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2010-05-09 11:00:43",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Chiang Kai-shek memorial 2 amk",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Canon EOS 40D|License migration redundant|Taiwan photographs taken on 2009-08-24|Self-published work|Featured pictures by User:AngMoKio|Photographs by User:AngMoKio|FoP-Taiwan|Files with coordinates missing SDC location of creation|Liberty Square (Taipei) from the northwest|Assessment tagged pages marked as POTY candidates|Clouds and blue sky in Taipei|Featured pictures of Chiang Kai-shek Memorial Hall",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality|featured|poty|potd",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "25.036880",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "121.517308",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Chiang Kai-shek Memorial seen through the main gate of Liberty Square. (Taipei, Taiwan)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 24 August 2009",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:AngMoKio\" title=\"User:AngMoKio\">AngMoKio</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<div style=\"background-color: #f0f0ff; width: 70%; border: 1px solid #8888aa; padding: 5px;\">\n<p>If you use this picture somewhere outside the wiki-world, I'd be happy to get a short eMail  from you.  In print-media please add my name, which you get by mailing me. You can send me an eMail by clicking <b><a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/AngMoKio\" title=\"Special:EmailUser/AngMoKio\">here</a></b> (account needed). If you don't have an account and you don't want to create one (it is easy), you can also write a short message on my <a href=\"//commons.wikimedia.org/wiki/User_talk:AngMoKio\" title=\"User talk:AngMoKio\">discussion page</a>. <br><small>Find some more info about the usage of my photos <i><b><a href=\"//commons.wikimedia.org/wiki/User:AngMoKio#Usage_of_my_photos\" title=\"User:AngMoKio\">here</a></b></i>.</small>\n</p><p>Other licensing terms can get discussed too, if necessary.<br>\n</p>\n<hr>\n<p><b>&gt;&gt;</b> Find more free pictures of various topics on my <a href=\"//commons.wikimedia.org/wiki/User:AngMoKio\" title=\"User:AngMoKio\">userpage (AngMoKio)</a> <b>&lt;&lt;</b>.\n</p>\n</div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "10279769": {
+        "pageid": 10279769,
+        "ns": 6,
+        "title": "File:Taipei 101 2009 amk.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4004480,
+            "width": 2000,
+            "height": 3187,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Taipei_101_2009_amk.jpg/960px-Taipei_101_2009_amk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1224,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Taipei_101_2009_amk.jpg/1920px-Taipei_101_2009_amk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Taipei_101_2009_amk.jpg/960px-Taipei_101_2009_amk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1224,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Taipei_101_2009_amk.jpg/1920px-Taipei_101_2009_amk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Taipei_101_2009_amk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Taipei_101_2009_amk.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10279769",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2010-05-08 22:16:39",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Taipei 101 2009 amk",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|License migration redundant|Taiwan photographs taken on 2009-08-24|Self-published work|Featured pictures by User:AngMoKio|Photographs by User:AngMoKio|Featured pictures on Wikipedia, German|Featured pictures of Taipei|FoP-Taiwan|2009 at Taipei 101|Featured pictures of towers|Files with coordinates missing SDC location of creation|2009 photographs of Taipei|Remote views of Taipei 101|Assessment tagged pages marked as POTY candidates|Views From Sun Yat-sen Memorial Hall, Taipei",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality|featured|poty|potd",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "25.039282",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "121.560151",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/Taipei_101\" class=\"extiw\" title=\"en:Taipei 101\">Taipei 101</a> as seen from <a href=\"https://en.wikipedia.org/wiki/Sun_Yat-sen_Memorial_Hall\" class=\"extiw\" title=\"en:Sun Yat-sen Memorial Hall\">Sun Yat-sen Memorial Hall</a> in Taipei, Taiwan.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 24 August 2009",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:AngMoKio\" title=\"User:AngMoKio\">AngMoKio</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<div style=\"background-color: #f0f0ff; width: 70%; border: 1px solid #8888aa; padding: 5px;\">\n<p>If you use this picture somewhere outside the wiki-world, I'd be happy to get a short eMail  from you.  In print-media please add my name, which you get by mailing me. You can send me an eMail by clicking <b><a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/AngMoKio\" title=\"Special:EmailUser/AngMoKio\">here</a></b> (account needed). If you don't have an account and you don't want to create one (it is easy), you can also write a short message on my <a href=\"//commons.wikimedia.org/wiki/User_talk:AngMoKio\" title=\"User talk:AngMoKio\">discussion page</a>. <br><small>Find some more info about the usage of my photos <i><b><a href=\"//commons.wikimedia.org/wiki/User:AngMoKio#Usage_of_my_photos\" title=\"User:AngMoKio\">here</a></b></i>.</small>\n</p><p>Other licensing terms can get discussed too, if necessary.<br>\n</p>\n<hr>\n<p><b>&gt;&gt;</b> Find more free pictures of various topics on my <a href=\"//commons.wikimedia.org/wiki/User:AngMoKio\" title=\"User:AngMoKio\">userpage (AngMoKio)</a> <b>&lt;&lt;</b>.\n</p>\n</div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "11535111": {
+        "pageid": 11535111,
+        "ns": 6,
+        "title": "File:Actiniaria.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6479802,
+            "width": 3000,
+            "height": 1924,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Actiniaria.jpg/960px-Actiniaria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 493,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Actiniaria.jpg/1920px-Actiniaria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Actiniaria.jpg/960px-Actiniaria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 493,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Actiniaria.jpg/1920px-Actiniaria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Actiniaria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Actiniaria.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=11535111",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2010-09-19 17:17:36",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Actiniaria",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Actinia equina|Anemonia sulcata|Actinia cari|Cerianthus membranacea|Astroides calycularis|Condylactis aurantiaca|Aiptasia mutabilis|Adamsia palliata|Cereus pedunculatus|Phymanthus pulcher|Retouched pictures|Comingio Merculiano|Seabed|Artworks without Wikidata item|Featured pictures on Wikipedia, English|PD-scan (PD-old-auto-expired)|Commons featured widescreen desktop backgrounds|PD-old-80-expired|Anemonactis|CC-PD-Mark|Objects with inscriptions (language unspecified)|Illustrations of marine animals|Featured pictures in the public domain|Assessment tagged pages marked as POTY candidates|Actiniaria illustrations|The Royal Natural History (1893)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "featured|valued|potd|poty",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Giacomo_Merculiano\" class=\"extiw\" title=\"w:en:Giacomo Merculiano\"><span title=\"Italian sculptor (1859-1935)\">Giacomo Merculiano</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Various examples of sea anemones (1893 print).",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1893<div style=\"display: none;\">date QS:P571,+1893-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/details/royalnaturalhist06lyderich\"><i>The royal natural history</i></a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "12368431": {
+        "pageid": 12368431,
+        "ns": 6,
+        "title": "File:Sct Mathias xmas illumination 2010-12-14.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2745828,
+            "width": 3674,
+            "height": 2582,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Sct_Mathias_xmas_illumination_2010-12-14.jpg/960px-Sct_Mathias_xmas_illumination_2010-12-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 540,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Sct_Mathias_xmas_illumination_2010-12-14.jpg/1920px-Sct_Mathias_xmas_illumination_2010-12-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Sct_Mathias_xmas_illumination_2010-12-14.jpg/960px-Sct_Mathias_xmas_illumination_2010-12-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 540,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Sct_Mathias_xmas_illumination_2010-12-14.jpg/1920px-Sct_Mathias_xmas_illumination_2010-12-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Sct_Mathias_xmas_illumination_2010-12-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sct_Mathias_xmas_illumination_2010-12-14.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=12368431",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2010-12-18 21:18:46",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Sct Mathias xmas illumination 2010-12-14",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Sony DSLR-A300|Sct. Mathias Centret|Images with annotations|License migration redundant|LED Christmas lighting|Sanct Mathias Gade|Self-published work|Photographs by User:Slaunger|Featured pictures by User:Slaunger|Featured night photography|Christmas lights in Denmark|Featured pictures on Wikipedia, Vietnamese|Light decorations|Street lights in Denmark|Featured pictures of cityscapes|Christmas 2010 in Denmark|Quality night photography|Parked bicycles in Denmark|M in logos|Files with coordinates missing SDC location of creation|3D logos|Denmark photographs taken on 2010-12-14|Bicycles in Denmark at night|Featured pictures of Christmas|Assessment tagged pages marked as POTY candidates",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality|featured|potd|poty",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "56.449358",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "9.404950",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Christmas illumination in Sct. Mathias Gade, <a href=\"//commons.wikimedia.org/wiki/Category:Viborg\" title=\"Category:Viborg\">Viborg</a>, <a href=\"//commons.wikimedia.org/wiki/Category:Denmark\" title=\"Category:Denmark\">Denmark</a>. To the right is shown the main entrance to Sct. Mathias Centret, a shopping mall. The street lightning was first used in 2010 and based on <a href=\"//commons.wikimedia.org/wiki/Category:LED\" class=\"mw-disambig\" title=\"Category:LED\">LEDs</a>. Some facts according to \"Viborg Nyt\", Week 48, 1/12 - 7/12 2010 p. 25, <i>Viborgs julebelysning tager hensyn til miljøet</i>: Compared to the previous illumination used in 2009 and before, the LED-based lights will be lead to a reduction in cost for the electricity of 39000 DKK, savings in energy of 29,000 kWh, corresponding to 14.5 ton of CO<sub>2</sub>. The cost for setting up and putting down the illumination including transportation and VAT was over 500,000 DKK in 2009. The cost of the illumination itself is in excess of 1,000,000 DKK sponsored by the shop owners and Viborg Kommune. Perspective corrected using GIMP. A Manfrotto tripod was used. The pavement material shown was replaced in 2011 with granite bricks imported from China.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2010-12-14",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Slaunger\" title=\"User:Slaunger\">Kim Hansen</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "120739892": {
+        "pageid": 120739892,
+        "ns": 6,
+        "title": "File:Photograph of Benjamin and Mary Lord Harrison in Upstairs Sitting Room - DPLA - 7828628ec6c34a33e7742cfedafef748 (page 2).jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4540975,
+            "width": 4955,
+            "height": 6190,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Photograph_of_Benjamin_and_Mary_Lord_Harrison_in_Upstairs_Sitting_Room_-_DPLA_-_7828628ec6c34a33e7742cfedafef748_%28page_2%29.jpg/960px-Photograph_of_Benjamin_and_Mary_Lord_Harrison_in_Upstairs_Sitting_Room_-_DPLA_-_7828628ec6c34a33e7742cfedafef748_%28page_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 959,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Photograph_of_Benjamin_and_Mary_Lord_Harrison_in_Upstairs_Sitting_Room_-_DPLA_-_7828628ec6c34a33e7742cfedafef748_%28page_2%29.jpg/1920px-Photograph_of_Benjamin_and_Mary_Lord_Harrison_in_Upstairs_Sitting_Room_-_DPLA_-_7828628ec6c34a33e7742cfedafef748_%28page_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Photograph_of_Benjamin_and_Mary_Lord_Harrison_in_Upstairs_Sitting_Room_-_DPLA_-_7828628ec6c34a33e7742cfedafef748_%28page_2%29.jpg/960px-Photograph_of_Benjamin_and_Mary_Lord_Harrison_in_Upstairs_Sitting_Room_-_DPLA_-_7828628ec6c34a33e7742cfedafef748_%28page_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 959,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Photograph_of_Benjamin_and_Mary_Lord_Harrison_in_Upstairs_Sitting_Room_-_DPLA_-_7828628ec6c34a33e7742cfedafef748_%28page_2%29.jpg/1920px-Photograph_of_Benjamin_and_Mary_Lord_Harrison_in_Upstairs_Sitting_Room_-_DPLA_-_7828628ec6c34a33e7742cfedafef748_%28page_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Photograph_of_Benjamin_and_Mary_Lord_Harrison_in_Upstairs_Sitting_Room_-_DPLA_-_7828628ec6c34a33e7742cfedafef748_%28page_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Photograph_of_Benjamin_and_Mary_Lord_Harrison_in_Upstairs_Sitting_Room_-_DPLA_-_7828628ec6c34a33e7742cfedafef748_(page_2).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=120739892",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-07-19 05:40:51",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Photograph of Benjamin and Mary Lord Harrison in Upstairs Sitting Room - DPLA - 7828628ec6c34a33e7742cfedafef748 (page 2)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Documents|PD US|Files with no machine-readable author|Media contributed by Indiana Memory|Media contributed by the Digital Public Library of America|Media contributed by Benjamin Harrison Presidential Site|Digital Public Library of America files missing creator",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Gray cardboard &amp; matte print. Written on back: \"Gen. &amp; Mrs. Harrison in Mrs. Harrison's sitting room (upstairs) 1896- shortly before Elizabeth was born\".",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1896",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span style=\"display:inline-block; padding: 4px 16px; vertical-align: middle;\"><span class=\"skin-invert\" typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Codex_icon_download_color-progressive.svg/40px-Codex_icon_download_color-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Codex_icon_download_color-progressive.svg/60px-Codex_icon_download_color-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"20\" data-file-height=\"20\"></span></span> <a rel=\"nofollow\" class=\"external text\" href=\"https://cdm17475.contentdm.oclc.org/iiif/2/BHPS:856/full/full/0/default.jpg\">File URL</a></span><span style=\"display:inline-block; padding: 4px 16px; vertical-align: middle; border-left: 2px solid #a2a9b1;\"><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/International_Image_Interoperability_Framework_logo.png/40px-International_Image_Interoperability_Framework_logo.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/International_Image_Interoperability_Framework_logo.png/60px-International_Image_Interoperability_Framework_logo.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"460\" data-file-height=\"460\"></span></span> <a rel=\"nofollow\" class=\"external text\" href=\"http://iuidigital.contentdm.oclc.org/iiif/info/BHPS/857/manifest.json\">IIIF manifest</a></span><span style=\"display:inline-block; padding: 4px 16px; vertical-align: middle; border-left: 2px solid #a2a9b1;\"><span class=\"skin-invert\" typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Breezeicons-actions-22-database-index.svg/40px-Breezeicons-actions-22-database-index.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Breezeicons-actions-22-database-index.svg/60px-Breezeicons-actions-22-database-index.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"512\"></span></span> <a rel=\"nofollow\" class=\"external text\" href=\"http://iuidigital.contentdm.oclc.org/cdm/ref/collection/BHPS/id/857\">Catalog record</a></span>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "This image might not be in the public domain outside of the United States; this especially applies in the countries and areas that do not apply the <a href=\"https://en.wikipedia.org/wiki/rule_of_the_shorter_term\" class=\"extiw\" title=\"w:rule of the shorter term\">rule of the shorter term</a> for US works, such as Canada, Mainland China (not Hong Kong or Macao), Germany, Mexico, and Switzerland. The creator and year of publication are essential information and must be provided. See <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Public_domain\" class=\"extiw\" title=\"w:Wikipedia:Public domain\">Wikipedia:Public domain</a> and <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Copyrights\" class=\"extiw\" title=\"w:Wikipedia:Copyrights\">Wikipedia:Copyrights</a> for more details.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "190865266": {
+        "pageid": 190865266,
+        "ns": 6,
+        "title": "File:Dülmen, Merfeld, Merfelder Bruch, Dülmener Wildpferde -- 2026 -- 0837.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 12988292,
+            "width": 6265,
+            "height": 4699,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/D%C3%BClmen%2C_Merfeld%2C_Merfelder_Bruch%2C_D%C3%BClmener_Wildpferde_--_2026_--_0837.jpg/960px-D%C3%BClmen%2C_Merfeld%2C_Merfelder_Bruch%2C_D%C3%BClmener_Wildpferde_--_2026_--_0837.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/D%C3%BClmen%2C_Merfeld%2C_Merfelder_Bruch%2C_D%C3%BClmener_Wildpferde_--_2026_--_0837.jpg/1920px-D%C3%BClmen%2C_Merfeld%2C_Merfelder_Bruch%2C_D%C3%BClmener_Wildpferde_--_2026_--_0837.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/D%C3%BClmen%2C_Merfeld%2C_Merfelder_Bruch%2C_D%C3%BClmener_Wildpferde_--_2026_--_0837.jpg/960px-D%C3%BClmen%2C_Merfeld%2C_Merfelder_Bruch%2C_D%C3%BClmener_Wildpferde_--_2026_--_0837.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/D%C3%BClmen%2C_Merfeld%2C_Merfelder_Bruch%2C_D%C3%BClmener_Wildpferde_--_2026_--_0837.jpg/1920px-D%C3%BClmen%2C_Merfeld%2C_Merfelder_Bruch%2C_D%C3%BClmener_Wildpferde_--_2026_--_0837.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/D%C3%BClmen%2C_Merfeld%2C_Merfelder_Bruch%2C_D%C3%BClmener_Wildpferde_--_2026_--_0837.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Merfeld,_Merfelder_Bruch,_D%C3%BClmener_Wildpferde_--_2026_--_0837.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=190865266",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-05-06 04:25:11",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Dülmen, Merfeld, Merfelder Bruch, Dülmener Wildpferde -- 2026 -- 0837",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Photographs by Dietmar Rabich/Featured pictures of Germany|Horse ears|ISO speed rating 800|Photographs with aspect ratio of 4:3|Wildlife photography|Naturschutzgebiet Wildpferdebahn im Merfelder Bruch|Self-published work|Commons featured desktop backgrounds|Photographs by Dietmar Rabich/Bokeh|Featured pictures of Dülmen|Exposure time 1/80 sec|Images with extracted images|Photographs by Dietmar Rabich/Dülmen|Photographs by Dietmar Rabich/Featured pictures|Photographs by Dietmar Rabich/Quality images|Information field template with formatting|Featured pictures of horses|F-number f/8|Changes of XRay's photographs of the recent weeks|Images by XRay (flat list)|Photographs by Dietmar Rabich/Quality images of animals|Protected areas with known WDPA-ID|Uploaded with LrMediaWiki|Images from Wiki Loves Earth 2026 in Germany|Feral Dülmener horses in Merfelder Bruch|Photographs by Dietmar Rabich/Featured pictures from Wiki Loves Earth|Photographs by Dietmar Rabich/Featured pictures on Wikimedia Commons|Featured photographs of bokeh|Quality photographs of bokeh|Bokeh photographs of animals|Bokeh photographs of North Rhine-Westphalia|Photographs by Dietmar Rabich/Quality images of nature reserves|Photographs by Dietmar Rabich/Quality images of North Rhine-Westphalia|Photographs by Dietmar Rabich/Animal photography/Horses|Photographs by Dietmar Rabich/Quality images from Wiki Loves Earth|Taken with Fujifilm X-E5|Photographs by Dietmar Rabich/Year/2026|Taken with Fujinon XF70-300mm F4-5.6 R LM OIS WR|Images from Wiki Loves Earth 2026|Lens focal length 206.5 mm|Images from Wiki Loves Earth 2026, DE detail|Featured pictures from Wiki Loves Earth 2026 in Germany|Dülmen photographs taken on 2026-04-24|Images from Wiki Loves Earth 2026, DE-NW|Photographs by Dietmar Rabich/Wiki Loves Earth/2026|Stock photographs of Germany",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality|featured|potd",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "51.834466",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "7.166829",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/D%C3%BClmener\" class=\"extiw\" title=\"en:Dülmener\">Dülmen wild horses</a> in the Merfelder Bruch, Merfeld, <a href=\"https://en.wikipedia.org/wiki/D%C3%BClmen\" class=\"extiw\" title=\"en:Dülmen\">Dülmen</a>, <a href=\"https://en.wikipedia.org/wiki/North_Rhine-Westphalia\" class=\"extiw\" title=\"en:North Rhine-Westphalia\">North Rhine-Westphalia</a>, Germany<br><small>The Dülmen horse is a breed of pony that lives mainly in Dülmen in Westphalia in the Merfelder Bruch. Around 300 to 400 horses live in this fenced-off area, also known as the Wild Horse Trail, largely unaffected by humans. The wild horses of Dülmen were first mentioned in documents in 1316. One of the oldest German horse breeds, originally called Dülmener Brücher, these horses have been listed on the Red List of endangered livestock breeds by the Society for the Preservation of Old and Endangered Domestic Animal Breeds since February 1994. From a biological point of view, the Dülmen horse is not a wild horse. The name refers to its semi-wild lifestyle.</small>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 24 April 2026, 08:36",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q34788025\" class=\"extiw\" title=\"d:Q34788025\"><span title=\"German photographer and mathematician\">Dietmar Rabich</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"layouttemplate navigation-not-searchable\" style=\"margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;border:1px solid var(--background-color-disabled,#eeeeee)\" data-nosnippet=\"\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/40px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"14\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1000\" data-file-height=\"600\"></span></span>\n</td>\n<td>Dieser Text und viele andere auch sind ebenso in deutscher Sprache verfügbar. Um diese sehen zu können, wähle bitte auf dieser Webseite die Spracheinstellung „Deutsch“.\n</td></tr></tbody></table><div style=\"clear:both;border:1px solid var(--background-color-disabled,#eeeeee);margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;font-size:90%;\" class=\"searchaux\" data-nosnippet=\"\">\n<figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:HSSection_sign.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/120px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/250px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"156\" data-file-height=\"156\"></a><figcaption></figcaption></figure><figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Cc_by-sa_(1).svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/120px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"35\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/250px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"120\" data-file-height=\"42\"></a><figcaption></figcaption></figure><div><b>I. Licence</b></div>\n<div style=\"margin-top:0.5em;\">This photograph is protected by copyright law. However, it may be used for free by anyone, provided it is used in accordance with the license <b>Creative Commons License <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed\">“Attribution-ShareAlike 4.0 International”</a></b> (CC BY-SA 4.0). These include, among other things, the naming of the author and the license, as well as the setting of a link to the license text or its complete imprint. The attribution should be done as follows:</div>\n<div style=\"margin-top:0.5em; text-align:center;\"><i><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a> / <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a> / <span class=\"plainlinks noprint\"><a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/File:D%C3%BClmen,_Merfeld,_Merfelder_Bruch,_D%C3%BClmener_Wildpferde_--_2026_--_0837.jpg\" href=\"https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Merfeld,_Merfelder_Bruch,_D%C3%BClmener_Wildpferde_--_2026_--_0837.jpg\">“Dülmen, Merfeld, Merfelder Bruch, Dülmener Wildpferde -- 2026 -- 0837”</a></span> / <span class=\"plainlinks noprint\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a></span></i></div>\n<div style=\"margin-top:0.5em;\">Please read the text of the license carefully before using the photograph. If you do not agree with the conditions of the license or if you do not understand these conditions, please refrain from using the photo. If you have any questions regarding the license or the reuse of the image, please contact me before using it. If you do not comply with the terms of the license, you do not acquire any right to use the image. If you need another license to use, please contact the author <b>before</b> using.</div>\n<div style=\"margin-top:0.5em;\">For informations about the licence see section <a class=\"mw-selflink-fragment\" href=\"#ImgLic\">Licensing</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">human-readable summary</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">full licence text</a> at Creative Commons. In addition to the above, a link to the source - so this page with the descriptions and license terms - is appreciated. More information or examples of use can be found at <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">re-use (with example file)</a>. The <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Merfeld,_Merfelder_Bruch,_D%C3%BClmener_Wildpferde_--_2026_--_0837.jpg\">Attribution Generator</a> is helpful in licensing matters.</div>\n<div style=\"margin:0.5em auto 1em;text-align:center;\" class=\"plainlinks\"><span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Merfeld,_Merfelder_Bruch,_D%C3%BClmener_Wildpferde_--_2026_--_0837.jpg\"><span class=\"submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-secondary ui-button-blue\" role=\"button\"><span class=\"ui-button-text\">Generate License <b>Attribution</b></span><span class=\"ui-button-icon-secondary ui-icon ui-icon-extlink\"> </span></span></a></span></div>\n<div style=\"margin-top:0.5em;\">As an alternative to the Creative Commons License <i>CC BY-SA 4.0</i>, the <i><a href=\"https://en.wikipedia.org/wiki/Free_Art_License\" class=\"extiw\" title=\"en:Free Art License\">Free Art License</a></i> (<a rel=\"nofollow\" class=\"external text\" href=\"http://artlibre.org/licence/lal/en/\">from version 1.3</a>) may also be used.</div>\n<div style=\"margin-top:0.75em;\"><b>II. Fairness</b></div>\n<div style=\"margin-top:0.5em;\">From printed materials and other tangible products that use that work, the user is asked to send a copy to the author as thank you. However, this is not a condition for the use of the photo, but a voluntary service. The mailing address can be requested via the contact options.</div>\n<div style=\"margin-top:0.5em;\">Please note that the author had quite considerable effort to draw up this file. Thus, it is only fair to comply with the conditions of <a href=\"https://en.wikipedia.org/wiki/Free_license\" class=\"extiw\" title=\"en:Free license\">free licenses</a> listed here. In the case of violation of the license conditions, the rights granted hereunder will expire automatically.</div>\n<div style=\"margin-top:0.75em; clear: both;\"><b>III. Disclaimer</b></div>\n<div style=\"margin-top:0.5em;\">Please note that the rights granted under the license apply exclusively to the photograph itself, but not to the rights of third parties — such as copyrights or property rights in the object depicted or the personal rights of any individuals who may be depicted. (See <a href=\"//commons.wikimedia.org/wiki/Commons:L\" class=\"mw-redirect\" title=\"Commons:L\">licences</a> and <a href=\"//commons.wikimedia.org/wiki/Commons:SOSUMI\" class=\"mw-redirect\" title=\"Commons:SOSUMI\">non-copyright restrictions</a>.) I do not grant any warranty that the subsequent use of the photograph is legally possible concerning the object or person shown in the photograph. You are responsible to check and respect these rights in the publication in the respective medium or country.</div>\n<div style=\"margin-top:0.5em;\">The author is not responsible for the accuracy of the information contained herein (description, title, etc.). Likewise, the author assumes no liability for further use. Please note the <a href=\"//commons.wikimedia.org/wiki/Commons:General_disclaimer\" title=\"Commons:General disclaimer\">general disclaimer</a> and please read <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">reusing content outside Wikimedia</a> too.</div>\n<div style=\"margin-top:0.75em;\"><b>IV. Contact</b></div>\n<div style=\"margin-top:0.5em;\"><b><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:UserIconMail.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/40px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/60px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"700\" data-file-height=\"700\"></a></span> <a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/XRay\" title=\"Special:EmailUser/XRay\">E-mail to the author</a></b> or the <a href=\"//commons.wikimedia.org/wiki/User_talk:XRay\" title=\"User talk:XRay\">author's talk page</a> <small>or the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.rabich.de/\">author's website</a></small></div></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<b><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a></b>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

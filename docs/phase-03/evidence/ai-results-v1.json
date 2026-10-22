@@ -1,0 +1,4142 @@
+[
+  {
+    "schemaVersion": "ai-result/1",
+    "model": {
+      "id": "Xenova/clip-vit-base-patch32",
+      "revision": "d15189d7028b43f1d3e65039190477f6af591c2a",
+      "task": "supplied-description-ranking",
+      "taxonomy": "ouahad-scenes-36-v2-audit",
+      "preprocessingVersion": "whole-frame-white-letterbox224-clip-normalize/v1"
+    },
+    "backend": "wasm",
+    "scoreSemantics": "cosine-similarity",
+    "predictions": [
+      {
+        "id": "forest",
+        "label": "forest",
+        "rawScore": 0.2566541368968457
+      },
+      {
+        "id": "road-vehicles",
+        "label": "road-vehicles",
+        "rawScore": 0.23886807583241337
+      },
+      {
+        "id": "railway",
+        "label": "railway",
+        "rawScore": 0.23251513256970932
+      },
+      {
+        "id": "birds",
+        "label": "birds",
+        "rawScore": 0.2321527459511642
+      },
+      {
+        "id": "gardening",
+        "label": "gardening",
+        "rawScore": 0.22696303620000682
+      },
+      {
+        "id": "coast",
+        "label": "coast",
+        "rawScore": 0.22510694716785776
+      },
+      {
+        "id": "optics",
+        "label": "optics",
+        "rawScore": 0.22435878911722515
+      },
+      {
+        "id": "classroom",
+        "label": "classroom",
+        "rawScore": 0.2229865521492828
+      },
+      {
+        "id": "mountain-lake",
+        "label": "mountain-lake",
+        "rawScore": 0.22277620883411164
+      },
+      {
+        "id": "wildlife",
+        "label": "wildlife",
+        "rawScore": 0.2226908530720152
+      },
+      {
+        "id": "electronics",
+        "label": "electronics",
+        "rawScore": 0.22125396477884615
+      },
+      {
+        "id": "farmland",
+        "label": "farmland",
+        "rawScore": 0.22122192189326925
+      },
+      {
+        "id": "bedroom",
+        "label": "bedroom",
+        "rawScore": 0.2190179488644205
+      },
+      {
+        "id": "living-room",
+        "label": "living-room",
+        "rawScore": 0.21823761015342646
+      },
+      {
+        "id": "warehouse",
+        "label": "warehouse",
+        "rawScore": 0.21719581462315896
+      },
+      {
+        "id": "street-people",
+        "label": "street-people",
+        "rawScore": 0.21575442400661385
+      },
+      {
+        "id": "books",
+        "label": "books",
+        "rawScore": 0.21550850630380983
+      },
+      {
+        "id": "reflections",
+        "label": "reflections",
+        "rawScore": 0.21319841097541115
+      },
+      {
+        "id": "music",
+        "label": "music",
+        "rawScore": 0.21246888196395938
+      },
+      {
+        "id": "tools",
+        "label": "tools",
+        "rawScore": 0.20858442458986723
+      },
+      {
+        "id": "sport",
+        "label": "sport",
+        "rawScore": 0.20736350576038487
+      },
+      {
+        "id": "meal",
+        "label": "meal",
+        "rawScore": 0.20475341286045215
+      },
+      {
+        "id": "textiles",
+        "label": "textiles",
+        "rawScore": 0.20453406992818327
+      },
+      {
+        "id": "pottery",
+        "label": "pottery",
+        "rawScore": 0.20329672287703332
+      },
+      {
+        "id": "river",
+        "label": "river",
+        "rawScore": 0.20312808429463255
+      },
+      {
+        "id": "architecture",
+        "label": "architecture",
+        "rawScore": 0.20201716235597636
+      },
+      {
+        "id": "harbor",
+        "label": "harbor",
+        "rawScore": 0.2005279321126857
+      },
+      {
+        "id": "pets",
+        "label": "pets",
+        "rawScore": 0.19780821227710407
+      },
+      {
+        "id": "desert",
+        "label": "desert",
+        "rawScore": 0.19569503314168102
+      },
+      {
+        "id": "drinks",
+        "label": "drinks",
+        "rawScore": 0.195055085355282
+      },
+      {
+        "id": "office",
+        "label": "office",
+        "rawScore": 0.1913400770673596
+      },
+      {
+        "id": "outdoor-cooking",
+        "label": "outdoor-cooking",
+        "rawScore": 0.190169779888567
+      },
+      {
+        "id": "food-preparation",
+        "label": "food-preparation",
+        "rawScore": 0.19014085079611
+      },
+      {
+        "id": "bakery",
+        "label": "bakery",
+        "rawScore": 0.1895601324751
+      },
+      {
+        "id": "bathroom",
+        "label": "bathroom",
+        "rawScore": 0.1819440243616477
+      },
+      {
+        "id": "produce-market",
+        "label": "produce-market",
+        "rawScore": 0.15966363712112344
+      }
+    ],
+    "interpretation": "Research prediction among supplied descriptions; not a generated caption or a correctness probability.",
+    "abstention": {
+      "abstained": true,
+      "reason": "Below calibration-only score or margin threshold; insufficient support."
+    },
+    "limitations": [
+      "Small single-annotator benchmark",
+      "Unsupported content can resemble a supplied description",
+      "No production model selected"
+    ],
+    "evaluationReference": "phase03-natural-v1/natural-00",
+    "state": "complete",
+    "error": null
+  },
+  {
+    "schemaVersion": "ai-result/1",
+    "model": {
+      "id": "Xenova/clip-vit-base-patch32",
+      "revision": "d15189d7028b43f1d3e65039190477f6af591c2a",
+      "task": "supplied-description-ranking",
+      "taxonomy": "ouahad-scenes-36-v2-audit",
+      "preprocessingVersion": "whole-frame-white-letterbox224-clip-normalize/v1"
+    },
+    "backend": "wasm",
+    "scoreSemantics": "cosine-similarity",
+    "predictions": [
+      {
+        "id": "mountain-lake",
+        "label": "mountain-lake",
+        "rawScore": 0.2680185196315915
+      },
+      {
+        "id": "reflections",
+        "label": "reflections",
+        "rawScore": 0.22731954678036023
+      },
+      {
+        "id": "river",
+        "label": "river",
+        "rawScore": 0.2265409303460715
+      },
+      {
+        "id": "coast",
+        "label": "coast",
+        "rawScore": 0.2260531291652131
+      },
+      {
+        "id": "optics",
+        "label": "optics",
+        "rawScore": 0.2248682115173969
+      },
+      {
+        "id": "classroom",
+        "label": "classroom",
+        "rawScore": 0.22431022700620393
+      },
+      {
+        "id": "birds",
+        "label": "birds",
+        "rawScore": 0.22375953955740568
+      },
+      {
+        "id": "railway",
+        "label": "railway",
+        "rawScore": 0.22245586542587725
+      },
+      {
+        "id": "sport",
+        "label": "sport",
+        "rawScore": 0.22096557557277866
+      },
+      {
+        "id": "street-people",
+        "label": "street-people",
+        "rawScore": 0.22028546512871
+      },
+      {
+        "id": "architecture",
+        "label": "architecture",
+        "rawScore": 0.22025038685227627
+      },
+      {
+        "id": "wildlife",
+        "label": "wildlife",
+        "rawScore": 0.21550151012858124
+      },
+      {
+        "id": "farmland",
+        "label": "farmland",
+        "rawScore": 0.2153697679929515
+      },
+      {
+        "id": "tools",
+        "label": "tools",
+        "rawScore": 0.21419228002190255
+      },
+      {
+        "id": "harbor",
+        "label": "harbor",
+        "rawScore": 0.21385502193769623
+      },
+      {
+        "id": "road-vehicles",
+        "label": "road-vehicles",
+        "rawScore": 0.2137170868898382
+      },
+      {
+        "id": "outdoor-cooking",
+        "label": "outdoor-cooking",
+        "rawScore": 0.2125959687527427
+      },
+      {
+        "id": "desert",
+        "label": "desert",
+        "rawScore": 0.2119110450956793
+      },
+      {
+        "id": "music",
+        "label": "music",
+        "rawScore": 0.2106179282642712
+      },
+      {
+        "id": "gardening",
+        "label": "gardening",
+        "rawScore": 0.21026067659608932
+      },
+      {
+        "id": "forest",
+        "label": "forest",
+        "rawScore": 0.2101160368056531
+      },
+      {
+        "id": "living-room",
+        "label": "living-room",
+        "rawScore": 0.20966928336584023
+      },
+      {
+        "id": "electronics",
+        "label": "electronics",
+        "rawScore": 0.20929898956193616
+      },
+      {
+        "id": "bedroom",
+        "label": "bedroom",
+        "rawScore": 0.2077045725648369
+      },
+      {
+        "id": "books",
+        "label": "books",
+        "rawScore": 0.20577159587928814
+      },
+      {
+        "id": "warehouse",
+        "label": "warehouse",
+        "rawScore": 0.2017335185119188
+      },
+      {
+        "id": "textiles",
+        "label": "textiles",
+        "rawScore": 0.2012183191029437
+      },
+      {
+        "id": "office",
+        "label": "office",
+        "rawScore": 0.2008870441702442
+      },
+      {
+        "id": "drinks",
+        "label": "drinks",
+        "rawScore": 0.20037649948909228
+      },
+      {
+        "id": "pottery",
+        "label": "pottery",
+        "rawScore": 0.19928767680159398
+      },
+      {
+        "id": "food-preparation",
+        "label": "food-preparation",
+        "rawScore": 0.1927766146627698
+      },
+      {
+        "id": "meal",
+        "label": "meal",
+        "rawScore": 0.19202440460363723
+      },
+      {
+        "id": "bakery",
+        "label": "bakery",
+        "rawScore": 0.19011580680330123
+      },
+      {
+        "id": "bathroom",
+        "label": "bathroom",
+        "rawScore": 0.18724603697513117
+      },
+      {
+        "id": "produce-market",
+        "label": "produce-market",
+        "rawScore": 0.1697704820364813
+      },
+      {
+        "id": "pets",
+        "label": "pets",
+        "rawScore": 0.16661050201272537
+      }
+    ],
+    "interpretation": "Research prediction among supplied descriptions; not a generated caption or a correctness probability.",
+    "abstention": {
+      "abstained": false,
+      "reason": "Meets calibration-only score and margin policy; model remains unapproved."
+    },
+    "limitations": [
+      "Small single-annotator benchmark",
+      "Unsupported content can resemble a supplied description",
+      "No production model selected"
+    ],
+    "evaluationReference": "phase03-natural-v1/natural-01",
+    "state": "complete",
+    "error": null
+  },
+  {
+    "schemaVersion": "ai-result/1",
+    "model": {
+      "id": "Xenova/clip-vit-base-patch32",
+      "revision": "d15189d7028b43f1d3e65039190477f6af591c2a",
+      "task": "supplied-description-ranking",
+      "taxonomy": "ouahad-scenes-36-v2-audit",
+      "preprocessingVersion": "whole-frame-white-letterbox224-clip-normalize/v1"
+    },
+    "backend": "wasm",
+    "scoreSemantics": "cosine-similarity",
+    "predictions": [
+      {
+        "id": "coast",
+        "label": "coast",
+        "rawScore": 0.28122537411904713
+      },
+      {
+        "id": "desert",
+        "label": "desert",
+        "rawScore": 0.24862723680020524
+      },
+      {
+        "id": "birds",
+        "label": "birds",
+        "rawScore": 0.23991176325478092
+      },
+      {
+        "id": "reflections",
+        "label": "reflections",
+        "rawScore": 0.23609563179672938
+      },
+      {
+        "id": "optics",
+        "label": "optics",
+        "rawScore": 0.23138965081662657
+      },
+      {
+        "id": "harbor",
+        "label": "harbor",
+        "rawScore": 0.23060120543125148
+      },
+      {
+        "id": "mountain-lake",
+        "label": "mountain-lake",
+        "rawScore": 0.2251613969152329
+      },
+      {
+        "id": "books",
+        "label": "books",
+        "rawScore": 0.21836764794203065
+      },
+      {
+        "id": "farmland",
+        "label": "farmland",
+        "rawScore": 0.21831711761286998
+      },
+      {
+        "id": "classroom",
+        "label": "classroom",
+        "rawScore": 0.21812327849088992
+      },
+      {
+        "id": "sport",
+        "label": "sport",
+        "rawScore": 0.21693251450410872
+      },
+      {
+        "id": "electronics",
+        "label": "electronics",
+        "rawScore": 0.2144709649673118
+      },
+      {
+        "id": "street-people",
+        "label": "street-people",
+        "rawScore": 0.21374232997521048
+      },
+      {
+        "id": "wildlife",
+        "label": "wildlife",
+        "rawScore": 0.21374133579731544
+      },
+      {
+        "id": "forest",
+        "label": "forest",
+        "rawScore": 0.2134540935505713
+      },
+      {
+        "id": "railway",
+        "label": "railway",
+        "rawScore": 0.21265976477813633
+      },
+      {
+        "id": "architecture",
+        "label": "architecture",
+        "rawScore": 0.2118917167865674
+      },
+      {
+        "id": "living-room",
+        "label": "living-room",
+        "rawScore": 0.2115764763935889
+      },
+      {
+        "id": "tools",
+        "label": "tools",
+        "rawScore": 0.2114252734814309
+      },
+      {
+        "id": "music",
+        "label": "music",
+        "rawScore": 0.21029297561447788
+      },
+      {
+        "id": "pottery",
+        "label": "pottery",
+        "rawScore": 0.2083307378097983
+      },
+      {
+        "id": "bakery",
+        "label": "bakery",
+        "rawScore": 0.20738561704569838
+      },
+      {
+        "id": "drinks",
+        "label": "drinks",
+        "rawScore": 0.20719716287263332
+      },
+      {
+        "id": "gardening",
+        "label": "gardening",
+        "rawScore": 0.20635362099595084
+      },
+      {
+        "id": "road-vehicles",
+        "label": "road-vehicles",
+        "rawScore": 0.20634125583158092
+      },
+      {
+        "id": "river",
+        "label": "river",
+        "rawScore": 0.20437235769918916
+      },
+      {
+        "id": "textiles",
+        "label": "textiles",
+        "rawScore": 0.20311483755460666
+      },
+      {
+        "id": "bedroom",
+        "label": "bedroom",
+        "rawScore": 0.2016188957688256
+      },
+      {
+        "id": "meal",
+        "label": "meal",
+        "rawScore": 0.2007688381514719
+      },
+      {
+        "id": "outdoor-cooking",
+        "label": "outdoor-cooking",
+        "rawScore": 0.199425244818882
+      },
+      {
+        "id": "pets",
+        "label": "pets",
+        "rawScore": 0.19901125355397117
+      },
+      {
+        "id": "warehouse",
+        "label": "warehouse",
+        "rawScore": 0.19843566885424155
+      },
+      {
+        "id": "food-preparation",
+        "label": "food-preparation",
+        "rawScore": 0.19714699435009764
+      },
+      {
+        "id": "office",
+        "label": "office",
+        "rawScore": 0.195804770967354
+      },
+      {
+        "id": "bathroom",
+        "label": "bathroom",
+        "rawScore": 0.16993205195455335
+      },
+      {
+        "id": "produce-market",
+        "label": "produce-market",
+        "rawScore": 0.15631855793834407
+      }
+    ],
+    "interpretation": "Research prediction among supplied descriptions; not a generated caption or a correctness probability.",
+    "abstention": {
+      "abstained": false,
+      "reason": "Meets calibration-only score and margin policy; model remains unapproved."
+    },
+    "limitations": [
+      "Small single-annotator benchmark",
+      "Unsupported content can resemble a supplied description",
+      "No production model selected"
+    ],
+    "evaluationReference": "phase03-natural-v1/natural-02",
+    "state": "complete",
+    "error": null
+  },
+  {
+    "schemaVersion": "ai-result/1",
+    "model": {
+      "id": "Xenova/clip-vit-base-patch32",
+      "revision": "d15189d7028b43f1d3e65039190477f6af591c2a",
+      "task": "supplied-description-ranking",
+      "taxonomy": "ouahad-scenes-36-v2-audit",
+      "preprocessingVersion": "whole-frame-white-letterbox224-clip-normalize/v1"
+    },
+    "backend": "wasm",
+    "scoreSemantics": "cosine-similarity",
+    "predictions": [
+      {
+        "id": "road-vehicles",
+        "label": "road-vehicles",
+        "rawScore": 0.2553465387839915
+      },
+      {
+        "id": "railway",
+        "label": "railway",
+        "rawScore": 0.2521895588354895
+      },
+      {
+        "id": "street-people",
+        "label": "street-people",
+        "rawScore": 0.24946263794413445
+      },
+      {
+        "id": "optics",
+        "label": "optics",
+        "rawScore": 0.24224907065087561
+      },
+      {
+        "id": "architecture",
+        "label": "architecture",
+        "rawScore": 0.23133505085051326
+      },
+      {
+        "id": "classroom",
+        "label": "classroom",
+        "rawScore": 0.22176477007323803
+      },
+      {
+        "id": "coast",
+        "label": "coast",
+        "rawScore": 0.22095286930203023
+      },
+      {
+        "id": "reflections",
+        "label": "reflections",
+        "rawScore": 0.2205988761640274
+      },
+      {
+        "id": "harbor",
+        "label": "harbor",
+        "rawScore": 0.22032489010691322
+      },
+      {
+        "id": "electronics",
+        "label": "electronics",
+        "rawScore": 0.21981899415172895
+      },
+      {
+        "id": "farmland",
+        "label": "farmland",
+        "rawScore": 0.21897799766417722
+      },
+      {
+        "id": "gardening",
+        "label": "gardening",
+        "rawScore": 0.2167678668720565
+      },
+      {
+        "id": "sport",
+        "label": "sport",
+        "rawScore": 0.21659651856239892
+      },
+      {
+        "id": "birds",
+        "label": "birds",
+        "rawScore": 0.21594897678069228
+      },
+      {
+        "id": "music",
+        "label": "music",
+        "rawScore": 0.20930008253040447
+      },
+      {
+        "id": "pottery",
+        "label": "pottery",
+        "rawScore": 0.20923692089180398
+      },
+      {
+        "id": "forest",
+        "label": "forest",
+        "rawScore": 0.20862093017339067
+      },
+      {
+        "id": "books",
+        "label": "books",
+        "rawScore": 0.20861058116740624
+      },
+      {
+        "id": "warehouse",
+        "label": "warehouse",
+        "rawScore": 0.2069656210761693
+      },
+      {
+        "id": "office",
+        "label": "office",
+        "rawScore": 0.2062591645331258
+      },
+      {
+        "id": "tools",
+        "label": "tools",
+        "rawScore": 0.20505883196016123
+      },
+      {
+        "id": "textiles",
+        "label": "textiles",
+        "rawScore": 0.20350168354898585
+      },
+      {
+        "id": "living-room",
+        "label": "living-room",
+        "rawScore": 0.2031379041529187
+      },
+      {
+        "id": "wildlife",
+        "label": "wildlife",
+        "rawScore": 0.20289566825333713
+      },
+      {
+        "id": "bakery",
+        "label": "bakery",
+        "rawScore": 0.20233934609523221
+      },
+      {
+        "id": "drinks",
+        "label": "drinks",
+        "rawScore": 0.20110448057338398
+      },
+      {
+        "id": "pets",
+        "label": "pets",
+        "rawScore": 0.19581473063771948
+      },
+      {
+        "id": "outdoor-cooking",
+        "label": "outdoor-cooking",
+        "rawScore": 0.1949268324989206
+      },
+      {
+        "id": "desert",
+        "label": "desert",
+        "rawScore": 0.19483940037615796
+      },
+      {
+        "id": "meal",
+        "label": "meal",
+        "rawScore": 0.1894701609837546
+      },
+      {
+        "id": "bedroom",
+        "label": "bedroom",
+        "rawScore": 0.18928646207138092
+      },
+      {
+        "id": "mountain-lake",
+        "label": "mountain-lake",
+        "rawScore": 0.18617377463480833
+      },
+      {
+        "id": "produce-market",
+        "label": "produce-market",
+        "rawScore": 0.18185825868091354
+      },
+      {
+        "id": "bathroom",
+        "label": "bathroom",
+        "rawScore": 0.18030618712346586
+      },
+      {
+        "id": "food-preparation",
+        "label": "food-preparation",
+        "rawScore": 0.17530039417176374
+      },
+      {
+        "id": "river",
+        "label": "river",
+        "rawScore": 0.17514582128627376
+      }
+    ],
+    "interpretation": "Research prediction among supplied descriptions; not a generated caption or a correctness probability.",
+    "abstention": {
+      "abstained": true,
+      "reason": "Below calibration-only score or margin threshold; insufficient support."
+    },
+    "limitations": [
+      "Small single-annotator benchmark",
+      "Unsupported content can resemble a supplied description",
+      "No production model selected"
+    ],
+    "evaluationReference": "phase03-natural-v1/natural-03",
+    "state": "complete",
+    "error": null
+  },
+  {
+    "schemaVersion": "ai-result/1",
+    "model": {
+      "id": "Xenova/clip-vit-base-patch32",
+      "revision": "d15189d7028b43f1d3e65039190477f6af591c2a",
+      "task": "supplied-description-ranking",
+      "taxonomy": "ouahad-scenes-36-v2-audit",
+      "preprocessingVersion": "whole-frame-white-letterbox224-clip-normalize/v1"
+    },
+    "backend": "wasm",
+    "scoreSemantics": "cosine-similarity",
+    "predictions": [
+      {
+        "id": "bedroom",
+        "label": "bedroom",
+        "rawScore": 0.28210787832977297
+      },
+      {
+        "id": "living-room",
+        "label": "living-room",
+        "rawScore": 0.27453702349850717
+      },
+      {
+        "id": "warehouse",
+        "label": "warehouse",
+        "rawScore": 0.2539721260541136
+      },
+      {
+        "id": "classroom",
+        "label": "classroom",
+        "rawScore": 0.24647875602678376
+      },
+      {
+        "id": "optics",
+        "label": "optics",
+        "rawScore": 0.24468111764057565
+      },
+      {
+        "id": "bathroom",
+        "label": "bathroom",
+        "rawScore": 0.24069947682601864
+      },
+      {
+        "id": "textiles",
+        "label": "textiles",
+        "rawScore": 0.23930828833478282
+      },
+      {
+        "id": "office",
+        "label": "office",
+        "rawScore": 0.2381072404731796
+      },
+      {
+        "id": "books",
+        "label": "books",
+        "rawScore": 0.2378132190171578
+      },
+      {
+        "id": "music",
+        "label": "music",
+        "rawScore": 0.23583441725912288
+      },
+      {
+        "id": "tools",
+        "label": "tools",
+        "rawScore": 0.23325826867383953
+      },
+      {
+        "id": "pottery",
+        "label": "pottery",
+        "rawScore": 0.23240360273599558
+      },
+      {
+        "id": "electronics",
+        "label": "electronics",
+        "rawScore": 0.23120977571865842
+      },
+      {
+        "id": "reflections",
+        "label": "reflections",
+        "rawScore": 0.22822884632960988
+      },
+      {
+        "id": "birds",
+        "label": "birds",
+        "rawScore": 0.2278521931339675
+      },
+      {
+        "id": "meal",
+        "label": "meal",
+        "rawScore": 0.22500545850562778
+      },
+      {
+        "id": "architecture",
+        "label": "architecture",
+        "rawScore": 0.22336841687449793
+      },
+      {
+        "id": "gardening",
+        "label": "gardening",
+        "rawScore": 0.2174960821297578
+      },
+      {
+        "id": "food-preparation",
+        "label": "food-preparation",
+        "rawScore": 0.21267185329707788
+      },
+      {
+        "id": "drinks",
+        "label": "drinks",
+        "rawScore": 0.20921967873632147
+      },
+      {
+        "id": "farmland",
+        "label": "farmland",
+        "rawScore": 0.20771240518376846
+      },
+      {
+        "id": "street-people",
+        "label": "street-people",
+        "rawScore": 0.2066929716087639
+      },
+      {
+        "id": "sport",
+        "label": "sport",
+        "rawScore": 0.20647352127968913
+      },
+      {
+        "id": "bakery",
+        "label": "bakery",
+        "rawScore": 0.20341484492940184
+      },
+      {
+        "id": "railway",
+        "label": "railway",
+        "rawScore": 0.2031273912660876
+      },
+      {
+        "id": "forest",
+        "label": "forest",
+        "rawScore": 0.20280113838745567
+      },
+      {
+        "id": "wildlife",
+        "label": "wildlife",
+        "rawScore": 0.2027993381669442
+      },
+      {
+        "id": "coast",
+        "label": "coast",
+        "rawScore": 0.200099092516911
+      },
+      {
+        "id": "pets",
+        "label": "pets",
+        "rawScore": 0.19626066324223848
+      },
+      {
+        "id": "mountain-lake",
+        "label": "mountain-lake",
+        "rawScore": 0.19574159359727075
+      },
+      {
+        "id": "road-vehicles",
+        "label": "road-vehicles",
+        "rawScore": 0.19555593439204175
+      },
+      {
+        "id": "harbor",
+        "label": "harbor",
+        "rawScore": 0.195379794142359
+      },
+      {
+        "id": "desert",
+        "label": "desert",
+        "rawScore": 0.18635457409036624
+      },
+      {
+        "id": "outdoor-cooking",
+        "label": "outdoor-cooking",
+        "rawScore": 0.17782708317489512
+      },
+      {
+        "id": "produce-market",
+        "label": "produce-market",
+        "rawScore": 0.17743639446315035
+      },
+      {
+        "id": "river",
+        "label": "river",
+        "rawScore": 0.17178966992456907
+      }
+    ],
+    "interpretation": "Research prediction among supplied descriptions; not a generated caption or a correctness probability.",
+    "abstention": {
+      "abstained": true,
+      "reason": "Below calibration-only score or margin threshold; insufficient support."
+    },
+    "limitations": [
+      "Small single-annotator benchmark",
+      "Unsupported content can resemble a supplied description",
+      "No production model selected"
+    ],
+    "evaluationReference": "phase03-natural-v1/natural-04",
+    "state": "complete",
+    "error": null
+  },
+  {
+    "schemaVersion": "ai-result/1",
+    "model": {
+      "id": "Xenova/clip-vit-base-patch32",
+      "revision": "d15189d7028b43f1d3e65039190477f6af591c2a",
+      "task": "supplied-description-ranking",
+      "taxonomy": "ouahad-scenes-36-v2-audit",
+      "preprocessingVersion": "whole-frame-white-letterbox224-clip-normalize/v1"
+    },
+    "backend": "wasm",
+    "scoreSemantics": "cosine-similarity",
+    "predictions": [
+      {
+        "id": "meal",
+        "label": "meal",
+        "rawScore": 0.260899753686492
+      },
+      {
+        "id": "food-preparation",
+        "label": "food-preparation",
+        "rawScore": 0.23597558564146612
+      },
+      {
+        "id": "farmland",
+        "label": "farmland",
+        "rawScore": 0.20746090870878975
+      },
+      {
+        "id": "railway",
+        "label": "railway",
+        "rawScore": 0.20281835331671066
+      },
+      {
+        "id": "pottery",
+        "label": "pottery",
+        "rawScore": 0.20252525871192265
+      },
+      {
+        "id": "outdoor-cooking",
+        "label": "outdoor-cooking",
+        "rawScore": 0.20164134860590172
+      },
+      {
+        "id": "electronics",
+        "label": "electronics",
+        "rawScore": 0.19893594566594314
+      },
+      {
+        "id": "bakery",
+        "label": "bakery",
+        "rawScore": 0.1988590891166204
+      },
+      {
+        "id": "birds",
+        "label": "birds",
+        "rawScore": 0.1985188910973544
+      },
+      {
+        "id": "gardening",
+        "label": "gardening",
+        "rawScore": 0.19699963902934978
+      },
+      {
+        "id": "harbor",
+        "label": "harbor",
+        "rawScore": 0.19691547789233646
+      },
+      {
+        "id": "warehouse",
+        "label": "warehouse",
+        "rawScore": 0.1954596125050196
+      },
+      {
+        "id": "optics",
+        "label": "optics",
+        "rawScore": 0.19501020882481893
+      },
+      {
+        "id": "mountain-lake",
+        "label": "mountain-lake",
+        "rawScore": 0.19348159703467244
+      },
+      {
+        "id": "street-people",
+        "label": "street-people",
+        "rawScore": 0.1929290913498701
+      },
+      {
+        "id": "pets",
+        "label": "pets",
+        "rawScore": 0.19288294490175964
+      },
+      {
+        "id": "road-vehicles",
+        "label": "road-vehicles",
+        "rawScore": 0.1924755068306574
+      },
+      {
+        "id": "produce-market",
+        "label": "produce-market",
+        "rawScore": 0.19229872113110155
+      },
+      {
+        "id": "coast",
+        "label": "coast",
+        "rawScore": 0.1911417568046927
+      },
+      {
+        "id": "wildlife",
+        "label": "wildlife",
+        "rawScore": 0.19113304514872184
+      },
+      {
+        "id": "living-room",
+        "label": "living-room",
+        "rawScore": 0.18984088364808877
+      },
+      {
+        "id": "sport",
+        "label": "sport",
+        "rawScore": 0.1888916073729435
+      },
+      {
+        "id": "drinks",
+        "label": "drinks",
+        "rawScore": 0.18825130686452174
+      },
+      {
+        "id": "classroom",
+        "label": "classroom",
+        "rawScore": 0.18610510048521922
+      },
+      {
+        "id": "bedroom",
+        "label": "bedroom",
+        "rawScore": 0.18496776609966195
+      },
+      {
+        "id": "music",
+        "label": "music",
+        "rawScore": 0.18338788903251269
+      },
+      {
+        "id": "books",
+        "label": "books",
+        "rawScore": 0.18155548249173464
+      },
+      {
+        "id": "desert",
+        "label": "desert",
+        "rawScore": 0.18106646615565264
+      },
+      {
+        "id": "bathroom",
+        "label": "bathroom",
+        "rawScore": 0.17922701962866905
+      },
+      {
+        "id": "river",
+        "label": "river",
+        "rawScore": 0.17755465379863017
+      },
+      {
+        "id": "architecture",
+        "label": "architecture",
+        "rawScore": 0.17686896828177934
+      },
+      {
+        "id": "textiles",
+        "label": "textiles",
+        "rawScore": 0.1751087593364932
+      },
+      {
+        "id": "forest",
+        "label": "forest",
+        "rawScore": 0.17473019393017783
+      },
+      {
+        "id": "tools",
+        "label": "tools",
+        "rawScore": 0.17350888993738847
+      },
+      {
+        "id": "office",
+        "label": "office",
+        "rawScore": 0.15644363035422668
+      },
+      {
+        "id": "reflections",
+        "label": "reflections",
+        "rawScore": 0.1508432948424072
+      }
+    ],
+    "interpretation": "Research prediction among supplied descriptions; not a generated caption or a correctness probability.",
+    "abstention": {
+      "abstained": true,
+      "reason": "Below calibration-only score or margin threshold; insufficient support."
+    },
+    "limitations": [
+      "Small single-annotator benchmark",
+      "Unsupported content can resemble a supplied description",
+      "No production model selected"
+    ],
+    "evaluationReference": "phase03-natural-v1/natural-05",
+    "state": "complete",
+    "error": null
+  },
+  {
+    "schemaVersion": "ai-result/1",
+    "model": {
+      "id": "Xenova/clip-vit-base-patch32",
+      "revision": "d15189d7028b43f1d3e65039190477f6af591c2a",
+      "task": "supplied-description-ranking",
+      "taxonomy": "ouahad-scenes-36-v2-audit",
+      "preprocessingVersion": "whole-frame-white-letterbox224-clip-normalize/v1"
+    },
+    "backend": "wasm",
+    "scoreSemantics": "cosine-similarity",
+    "predictions": [
+      {
+        "id": "wildlife",
+        "label": "wildlife",
+        "rawScore": 0.21564302937193655
+      },
+      {
+        "id": "pets",
+        "label": "pets",
+        "rawScore": 0.21514309170102122
+      },
+      {
+        "id": "bedroom",
+        "label": "bedroom",
+        "rawScore": 0.20229330607839782
+      },
+      {
+        "id": "living-room",
+        "label": "living-room",
+        "rawScore": 0.2012251439177432
+      },
+      {
+        "id": "meal",
+        "label": "meal",
+        "rawScore": 0.20018220101990858
+      },
+      {
+        "id": "bakery",
+        "label": "bakery",
+        "rawScore": 0.19898580945441094
+      },
+      {
+        "id": "pottery",
+        "label": "pottery",
+        "rawScore": 0.19481063322030684
+      },
+      {
+        "id": "harbor",
+        "label": "harbor",
+        "rawScore": 0.19257006732766008
+      },
+      {
+        "id": "optics",
+        "label": "optics",
+        "rawScore": 0.19254673762446287
+      },
+      {
+        "id": "books",
+        "label": "books",
+        "rawScore": 0.19204941308849074
+      },
+      {
+        "id": "electronics",
+        "label": "electronics",
+        "rawScore": 0.19160278401147318
+      },
+      {
+        "id": "reflections",
+        "label": "reflections",
+        "rawScore": 0.19002220169150585
+      },
+      {
+        "id": "bathroom",
+        "label": "bathroom",
+        "rawScore": 0.18717314863529153
+      },
+      {
+        "id": "sport",
+        "label": "sport",
+        "rawScore": 0.18661039626321083
+      },
+      {
+        "id": "food-preparation",
+        "label": "food-preparation",
+        "rawScore": 0.183243907321309
+      },
+      {
+        "id": "birds",
+        "label": "birds",
+        "rawScore": 0.18272860671632626
+      },
+      {
+        "id": "warehouse",
+        "label": "warehouse",
+        "rawScore": 0.18063069506302973
+      },
+      {
+        "id": "textiles",
+        "label": "textiles",
+        "rawScore": 0.17831510129959435
+      },
+      {
+        "id": "gardening",
+        "label": "gardening",
+        "rawScore": 0.17805473192146995
+      },
+      {
+        "id": "road-vehicles",
+        "label": "road-vehicles",
+        "rawScore": 0.1780529780249629
+      },
+      {
+        "id": "classroom",
+        "label": "classroom",
+        "rawScore": 0.1778524623478966
+      },
+      {
+        "id": "farmland",
+        "label": "farmland",
+        "rawScore": 0.17754998014174603
+      },
+      {
+        "id": "drinks",
+        "label": "drinks",
+        "rawScore": 0.17743452929754205
+      },
+      {
+        "id": "street-people",
+        "label": "street-people",
+        "rawScore": 0.17535717131342704
+      },
+      {
+        "id": "music",
+        "label": "music",
+        "rawScore": 0.1743070885740901
+      },
+      {
+        "id": "outdoor-cooking",
+        "label": "outdoor-cooking",
+        "rawScore": 0.17210314797205806
+      },
+      {
+        "id": "architecture",
+        "label": "architecture",
+        "rawScore": 0.17091801681672808
+      },
+      {
+        "id": "railway",
+        "label": "railway",
+        "rawScore": 0.167793065604828
+      },
+      {
+        "id": "coast",
+        "label": "coast",
+        "rawScore": 0.16717478868697003
+      },
+      {
+        "id": "tools",
+        "label": "tools",
+        "rawScore": 0.1651075295185606
+      },
+      {
+        "id": "desert",
+        "label": "desert",
+        "rawScore": 0.1636010386620002
+      },
+      {
+        "id": "office",
+        "label": "office",
+        "rawScore": 0.16310967676593802
+      },
+      {
+        "id": "mountain-lake",
+        "label": "mountain-lake",
+        "rawScore": 0.16253741701529204
+      },
+      {
+        "id": "forest",
+        "label": "forest",
+        "rawScore": 0.15809834978432696
+      },
+      {
+        "id": "river",
+        "label": "river",
+        "rawScore": 0.1578969915410831
+      },
+      {
+        "id": "produce-market",
+        "label": "produce-market",
+        "rawScore": 0.14599987653264013
+      }
+    ],
+    "interpretation": "Research prediction among supplied descriptions; not a generated caption or a correctness probability.",
+    "abstention": {
+      "abstained": true,
+      "reason": "Below calibration-only score or margin threshold; insufficient support."
+    },
+    "limitations": [
+      "Small single-annotator benchmark",
+      "Unsupported content can resemble a supplied description",
+      "No production model selected"
+    ],
+    "evaluationReference": "phase03-natural-v1/natural-06",
+    "state": "complete",
+    "error": null
+  },
+  {
+    "schemaVersion": "ai-result/1",
+    "model": {
+      "id": "Xenova/clip-vit-base-patch32",
+      "revision": "d15189d7028b43f1d3e65039190477f6af591c2a",
+      "task": "supplied-description-ranking",
+      "taxonomy": "ouahad-scenes-36-v2-audit",
+      "preprocessingVersion": "whole-frame-white-letterbox224-clip-normalize/v1"
+    },
+    "backend": "wasm",
+    "scoreSemantics": "cosine-similarity",
+    "predictions": [
+      {
+        "id": "wildlife",
+        "label": "wildlife",
+        "rawScore": 0.2514818441992581
+      },
+      {
+        "id": "sport",
+        "label": "sport",
+        "rawScore": 0.22225196569905917
+      },
+      {
+        "id": "books",
+        "label": "books",
+        "rawScore": 0.20968823538427134
+      },
+      {
+        "id": "street-people",
+        "label": "street-people",
+        "rawScore": 0.20959512200023075
+      },
+      {
+        "id": "pottery",
+        "label": "pottery",
+        "rawScore": 0.2060114493273283
+      },
+      {
+        "id": "tools",
+        "label": "tools",
+        "rawScore": 0.2040953645946442
+      },
+      {
+        "id": "drinks",
+        "label": "drinks",
+        "rawScore": 0.20146212424425225
+      },
+      {
+        "id": "electronics",
+        "label": "electronics",
+        "rawScore": 0.19859275877621113
+      },
+      {
+        "id": "optics",
+        "label": "optics",
+        "rawScore": 0.1978680154024815
+      },
+      {
+        "id": "forest",
+        "label": "forest",
+        "rawScore": 0.1976292772881701
+      },
+      {
+        "id": "classroom",
+        "label": "classroom",
+        "rawScore": 0.19745011015409192
+      },
+      {
+        "id": "music",
+        "label": "music",
+        "rawScore": 0.19707149112106645
+      },
+      {
+        "id": "birds",
+        "label": "birds",
+        "rawScore": 0.19613243654220713
+      },
+      {
+        "id": "textiles",
+        "label": "textiles",
+        "rawScore": 0.19511991632157166
+      },
+      {
+        "id": "pets",
+        "label": "pets",
+        "rawScore": 0.19477657732614553
+      },
+      {
+        "id": "outdoor-cooking",
+        "label": "outdoor-cooking",
+        "rawScore": 0.19474048932478044
+      },
+      {
+        "id": "meal",
+        "label": "meal",
+        "rawScore": 0.19182073431125865
+      },
+      {
+        "id": "gardening",
+        "label": "gardening",
+        "rawScore": 0.19155583391798858
+      },
+      {
+        "id": "food-preparation",
+        "label": "food-preparation",
+        "rawScore": 0.19028218701936095
+      },
+      {
+        "id": "produce-market",
+        "label": "produce-market",
+        "rawScore": 0.18184974468656523
+      },
+      {
+        "id": "harbor",
+        "label": "harbor",
+        "rawScore": 0.18115403496207821
+      },
+      {
+        "id": "mountain-lake",
+        "label": "mountain-lake",
+        "rawScore": 0.18097454712680036
+      },
+      {
+        "id": "reflections",
+        "label": "reflections",
+        "rawScore": 0.18077436289931342
+      },
+      {
+        "id": "river",
+        "label": "river",
+        "rawScore": 0.1768054896233874
+      },
+      {
+        "id": "desert",
+        "label": "desert",
+        "rawScore": 0.17481281149381694
+      },
+      {
+        "id": "coast",
+        "label": "coast",
+        "rawScore": 0.17458571575108725
+      },
+      {
+        "id": "farmland",
+        "label": "farmland",
+        "rawScore": 0.17417366460302433
+      },
+      {
+        "id": "bathroom",
+        "label": "bathroom",
+        "rawScore": 0.17172015297352686
+      },
+      {
+        "id": "bakery",
+        "label": "bakery",
+        "rawScore": 0.17148155185268324
+      },
+      {
+        "id": "architecture",
+        "label": "architecture",
+        "rawScore": 0.1709689456573595
+      },
+      {
+        "id": "road-vehicles",
+        "label": "road-vehicles",
+        "rawScore": 0.17089669885688888
+      },
+      {
+        "id": "living-room",
+        "label": "living-room",
+        "rawScore": 0.1688085233508353
+      },
+      {
+        "id": "railway",
+        "label": "railway",
+        "rawScore": 0.1685783237178352
+      },
+      {
+        "id": "warehouse",
+        "label": "warehouse",
+        "rawScore": 0.16684936109101559
+      },
+      {
+        "id": "bedroom",
+        "label": "bedroom",
+        "rawScore": 0.16428644061038983
+      },
+      {
+        "id": "office",
+        "label": "office",
+        "rawScore": 0.16426099861292162
+      }
+    ],
+    "interpretation": "Research prediction among supplied descriptions; not a generated caption or a correctness probability.",
+    "abstention": {
+      "abstained": true,
+      "reason": "Below calibration-only score or margin threshold; insufficient support."
+    },
+    "limitations": [
+      "Small single-annotator benchmark",
+      "Unsupported content can resemble a supplied description",
+      "No production model selected"
+    ],
+    "evaluationReference": "phase03-natural-v1/natural-07",
+    "state": "complete",
+    "error": null
+  },
+  {
+    "schemaVersion": "ai-result/1",
+    "model": {
+      "id": "Xenova/clip-vit-base-patch32",
+      "revision": "d15189d7028b43f1d3e65039190477f6af591c2a",
+      "task": "supplied-description-ranking",
+      "taxonomy": "ouahad-scenes-36-v2-audit",
+      "preprocessingVersion": "whole-frame-white-letterbox224-clip-normalize/v1"
+    },
+    "backend": "wasm",
+    "scoreSemantics": "cosine-similarity",
+    "predictions": [
+      {
+        "id": "sport",
+        "label": "sport",
+        "rawScore": 0.2224081115136097
+      },
+      {
+        "id": "wildlife",
+        "label": "wildlife",
+        "rawScore": 0.22015152530577334
+      },
+      {
+        "id": "electronics",
+        "label": "electronics",
+        "rawScore": 0.2171010345707843
+      },
+      {
+        "id": "optics",
+        "label": "optics",
+        "rawScore": 0.21588047672533991
+      },
+      {
+        "id": "books",
+        "label": "books",
+        "rawScore": 0.21540136108059274
+      },
+      {
+        "id": "desert",
+        "label": "desert",
+        "rawScore": 0.21385101285468652
+      },
+      {
+        "id": "reflections",
+        "label": "reflections",
+        "rawScore": 0.2119322995752074
+      },
+      {
+        "id": "gardening",
+        "label": "gardening",
+        "rawScore": 0.21165215420677458
+      },
+      {
+        "id": "street-people",
+        "label": "street-people",
+        "rawScore": 0.20990390123701808
+      },
+      {
+        "id": "meal",
+        "label": "meal",
+        "rawScore": 0.20959718790097365
+      },
+      {
+        "id": "harbor",
+        "label": "harbor",
+        "rawScore": 0.20756066751933475
+      },
+      {
+        "id": "drinks",
+        "label": "drinks",
+        "rawScore": 0.2068144987387145
+      },
+      {
+        "id": "farmland",
+        "label": "farmland",
+        "rawScore": 0.20592391238455132
+      },
+      {
+        "id": "forest",
+        "label": "forest",
+        "rawScore": 0.20339023558531943
+      },
+      {
+        "id": "road-vehicles",
+        "label": "road-vehicles",
+        "rawScore": 0.20230345523114412
+      },
+      {
+        "id": "pottery",
+        "label": "pottery",
+        "rawScore": 0.201477967408987
+      },
+      {
+        "id": "bedroom",
+        "label": "bedroom",
+        "rawScore": 0.2008902694026107
+      },
+      {
+        "id": "railway",
+        "label": "railway",
+        "rawScore": 0.1999730322413017
+      },
+      {
+        "id": "warehouse",
+        "label": "warehouse",
+        "rawScore": 0.19932253443178827
+      },
+      {
+        "id": "textiles",
+        "label": "textiles",
+        "rawScore": 0.19927478235249452
+      },
+      {
+        "id": "birds",
+        "label": "birds",
+        "rawScore": 0.1992348825233276
+      },
+      {
+        "id": "food-preparation",
+        "label": "food-preparation",
+        "rawScore": 0.1988630072621925
+      },
+      {
+        "id": "coast",
+        "label": "coast",
+        "rawScore": 0.19791039215891276
+      },
+      {
+        "id": "pets",
+        "label": "pets",
+        "rawScore": 0.19729103937445222
+      },
+      {
+        "id": "bakery",
+        "label": "bakery",
+        "rawScore": 0.19663234153709863
+      },
+      {
+        "id": "classroom",
+        "label": "classroom",
+        "rawScore": 0.1964517819995951
+      },
+      {
+        "id": "music",
+        "label": "music",
+        "rawScore": 0.1959108111057809
+      },
+      {
+        "id": "outdoor-cooking",
+        "label": "outdoor-cooking",
+        "rawScore": 0.19325156299779853
+      },
+      {
+        "id": "living-room",
+        "label": "living-room",
+        "rawScore": 0.1910238595645869
+      },
+      {
+        "id": "tools",
+        "label": "tools",
+        "rawScore": 0.188684718669521
+      },
+      {
+        "id": "produce-market",
+        "label": "produce-market",
+        "rawScore": 0.18862004020688858
+      },
+      {
+        "id": "architecture",
+        "label": "architecture",
+        "rawScore": 0.18811751483932526
+      },
+      {
+        "id": "river",
+        "label": "river",
+        "rawScore": 0.1867749920980621
+      },
+      {
+        "id": "mountain-lake",
+        "label": "mountain-lake",
+        "rawScore": 0.18405965221893864
+      },
+      {
+        "id": "bathroom",
+        "label": "bathroom",
+        "rawScore": 0.18289857297787535
+      },
+      {
+        "id": "office",
+        "label": "office",
+        "rawScore": 0.17602745385918372
+      }
+    ],
+    "interpretation": "Research prediction among supplied descriptions; not a generated caption or a correctness probability.",
+    "abstention": {
+      "abstained": true,
+      "reason": "Below calibration-only score or margin threshold; insufficient support."
+    },
+    "limitations": [
+      "Small single-annotator benchmark",
+      "Unsupported content can resemble a supplied description",
+      "No production model selected"
+    ],
+    "evaluationReference": "phase03-natural-v1/natural-08",
+    "state": "complete",
+    "error": null
+  },
+  {
+    "schemaVersion": "ai-result/1",
+    "model": {
+      "id": "Xenova/clip-vit-base-patch32",
+      "revision": "d15189d7028b43f1d3e65039190477f6af591c2a",
+      "task": "supplied-description-ranking",
+      "taxonomy": "ouahad-scenes-36-v2-audit",
+      "preprocessingVersion": "whole-frame-white-letterbox224-clip-normalize/v1"
+    },
+    "backend": "wasm",
+    "scoreSemantics": "cosine-similarity",
+    "predictions": [
+      {
+        "id": "gardening",
+        "label": "gardening",
+        "rawScore": 0.23783637251984208
+      },
+      {
+        "id": "reflections",
+        "label": "reflections",
+        "rawScore": 0.23096768539924356
+      },
+      {
+        "id": "bedroom",
+        "label": "bedroom",
+        "rawScore": 0.22717316042130756
+      },
+      {
+        "id": "books",
+        "label": "books",
+        "rawScore": 0.22604643596113694
+      },
+      {
+        "id": "optics",
+        "label": "optics",
+        "rawScore": 0.22470167163262206
+      },
+      {
+        "id": "electronics",
+        "label": "electronics",
+        "rawScore": 0.2218570477102971
+      },
+      {
+        "id": "classroom",
+        "label": "classroom",
+        "rawScore": 0.22048714404381148
+      },
+      {
+        "id": "coast",
+        "label": "coast",
+        "rawScore": 0.21824711019621432
+      },
+      {
+        "id": "living-room",
+        "label": "living-room",
+        "rawScore": 0.21645588379716227
+      },
+      {
+        "id": "music",
+        "label": "music",
+        "rawScore": 0.2147318628686375
+      },
+      {
+        "id": "birds",
+        "label": "birds",
+        "rawScore": 0.21462428194219568
+      },
+      {
+        "id": "drinks",
+        "label": "drinks",
+        "rawScore": 0.21423448805697234
+      },
+      {
+        "id": "pottery",
+        "label": "pottery",
+        "rawScore": 0.21376856278833606
+      },
+      {
+        "id": "wildlife",
+        "label": "wildlife",
+        "rawScore": 0.21370930555946982
+      },
+      {
+        "id": "tools",
+        "label": "tools",
+        "rawScore": 0.2130716566909291
+      },
+      {
+        "id": "street-people",
+        "label": "street-people",
+        "rawScore": 0.21289446891797184
+      },
+      {
+        "id": "harbor",
+        "label": "harbor",
+        "rawScore": 0.21287397682266346
+      },
+      {
+        "id": "farmland",
+        "label": "farmland",
+        "rawScore": 0.21223096995973564
+      },
+      {
+        "id": "meal",
+        "label": "meal",
+        "rawScore": 0.21175229863407888
+      },
+      {
+        "id": "warehouse",
+        "label": "warehouse",
+        "rawScore": 0.21083875932681806
+      },
+      {
+        "id": "sport",
+        "label": "sport",
+        "rawScore": 0.20845951712737154
+      },
+      {
+        "id": "desert",
+        "label": "desert",
+        "rawScore": 0.2079937175670258
+      },
+      {
+        "id": "railway",
+        "label": "railway",
+        "rawScore": 0.20638370331090172
+      },
+      {
+        "id": "pets",
+        "label": "pets",
+        "rawScore": 0.20517045885131652
+      },
+      {
+        "id": "mountain-lake",
+        "label": "mountain-lake",
+        "rawScore": 0.20462005442049394
+      },
+      {
+        "id": "food-preparation",
+        "label": "food-preparation",
+        "rawScore": 0.20431499772367365
+      },
+      {
+        "id": "textiles",
+        "label": "textiles",
+        "rawScore": 0.20193602245680126
+      },
+      {
+        "id": "bakery",
+        "label": "bakery",
+        "rawScore": 0.20149365864237992
+      },
+      {
+        "id": "outdoor-cooking",
+        "label": "outdoor-cooking",
+        "rawScore": 0.20061120804521676
+      },
+      {
+        "id": "architecture",
+        "label": "architecture",
+        "rawScore": 0.19750264369307244
+      },
+      {
+        "id": "road-vehicles",
+        "label": "road-vehicles",
+        "rawScore": 0.19709010871113766
+      },
+      {
+        "id": "office",
+        "label": "office",
+        "rawScore": 0.19378843417842018
+      },
+      {
+        "id": "forest",
+        "label": "forest",
+        "rawScore": 0.1926794802763759
+      },
+      {
+        "id": "produce-market",
+        "label": "produce-market",
+        "rawScore": 0.1924610065506094
+      },
+      {
+        "id": "bathroom",
+        "label": "bathroom",
+        "rawScore": 0.18661735949666683
+      },
+      {
+        "id": "river",
+        "label": "river",
+        "rawScore": 0.18255942272008535
+      }
+    ],
+    "interpretation": "Research prediction among supplied descriptions; not a generated caption or a correctness probability.",
+    "abstention": {
+      "abstained": true,
+      "reason": "Below calibration-only score or margin threshold; insufficient support."
+    },
+    "limitations": [
+      "Small single-annotator benchmark",
+      "Unsupported content can resemble a supplied description",
+      "No production model selected"
+    ],
+    "evaluationReference": "phase03-natural-v1/natural-09",
+    "state": "complete",
+    "error": null
+  },
+  {
+    "schemaVersion": "ai-result/1",
+    "model": {
+      "id": "Xenova/clip-vit-base-patch32",
+      "revision": "d15189d7028b43f1d3e65039190477f6af591c2a",
+      "task": "supplied-description-ranking",
+      "taxonomy": "ouahad-scenes-36-v2-audit",
+      "preprocessingVersion": "whole-frame-white-letterbox224-clip-normalize/v1"
+    },
+    "backend": "wasm",
+    "scoreSemantics": "cosine-similarity",
+    "predictions": [
+      {
+        "id": "optics",
+        "label": "optics",
+        "rawScore": 0.2402706496454602
+      },
+      {
+        "id": "birds",
+        "label": "birds",
+        "rawScore": 0.23512103359767927
+      },
+      {
+        "id": "electronics",
+        "label": "electronics",
+        "rawScore": 0.22376972270657416
+      },
+      {
+        "id": "outdoor-cooking",
+        "label": "outdoor-cooking",
+        "rawScore": 0.22166604774489676
+      },
+      {
+        "id": "street-people",
+        "label": "street-people",
+        "rawScore": 0.21708354985995956
+      },
+      {
+        "id": "sport",
+        "label": "sport",
+        "rawScore": 0.21445458190648123
+      },
+      {
+        "id": "road-vehicles",
+        "label": "road-vehicles",
+        "rawScore": 0.2115942567966767
+      },
+      {
+        "id": "railway",
+        "label": "railway",
+        "rawScore": 0.21124421082514644
+      },
+      {
+        "id": "books",
+        "label": "books",
+        "rawScore": 0.21045992439438596
+      },
+      {
+        "id": "wildlife",
+        "label": "wildlife",
+        "rawScore": 0.21043594840750815
+      },
+      {
+        "id": "harbor",
+        "label": "harbor",
+        "rawScore": 0.2103747485566195
+      },
+      {
+        "id": "music",
+        "label": "music",
+        "rawScore": 0.20947162598955837
+      },
+      {
+        "id": "gardening",
+        "label": "gardening",
+        "rawScore": 0.20859860867830463
+      },
+      {
+        "id": "warehouse",
+        "label": "warehouse",
+        "rawScore": 0.20816839776299462
+      },
+      {
+        "id": "reflections",
+        "label": "reflections",
+        "rawScore": 0.20721714791181778
+      },
+      {
+        "id": "classroom",
+        "label": "classroom",
+        "rawScore": 0.20445897382508088
+      },
+      {
+        "id": "farmland",
+        "label": "farmland",
+        "rawScore": 0.20156439316019112
+      },
+      {
+        "id": "tools",
+        "label": "tools",
+        "rawScore": 0.20138045669535273
+      },
+      {
+        "id": "coast",
+        "label": "coast",
+        "rawScore": 0.19824969250313118
+      },
+      {
+        "id": "architecture",
+        "label": "architecture",
+        "rawScore": 0.19719280286730517
+      },
+      {
+        "id": "bedroom",
+        "label": "bedroom",
+        "rawScore": 0.19352864879692636
+      },
+      {
+        "id": "drinks",
+        "label": "drinks",
+        "rawScore": 0.1929331497818533
+      },
+      {
+        "id": "food-preparation",
+        "label": "food-preparation",
+        "rawScore": 0.1892655855330972
+      },
+      {
+        "id": "pets",
+        "label": "pets",
+        "rawScore": 0.18747722181900595
+      },
+      {
+        "id": "textiles",
+        "label": "textiles",
+        "rawScore": 0.18528293987825498
+      },
+      {
+        "id": "meal",
+        "label": "meal",
+        "rawScore": 0.18396756933731567
+      },
+      {
+        "id": "bakery",
+        "label": "bakery",
+        "rawScore": 0.18267570769881641
+      },
+      {
+        "id": "living-room",
+        "label": "living-room",
+        "rawScore": 0.18265355684449633
+      },
+      {
+        "id": "pottery",
+        "label": "pottery",
+        "rawScore": 0.18257158239793467
+      },
+      {
+        "id": "desert",
+        "label": "desert",
+        "rawScore": 0.18202082684626808
+      },
+      {
+        "id": "forest",
+        "label": "forest",
+        "rawScore": 0.18058844085835435
+      },
+      {
+        "id": "mountain-lake",
+        "label": "mountain-lake",
+        "rawScore": 0.178331422409133
+      },
+      {
+        "id": "river",
+        "label": "river",
+        "rawScore": 0.1664156037992595
+      },
+      {
+        "id": "produce-market",
+        "label": "produce-market",
+        "rawScore": 0.16629825675038923
+      },
+      {
+        "id": "office",
+        "label": "office",
+        "rawScore": 0.16120704451929366
+      },
+      {
+        "id": "bathroom",
+        "label": "bathroom",
+        "rawScore": 0.15577106272904062
+      }
+    ],
+    "interpretation": "Research prediction among supplied descriptions; not a generated caption or a correctness probability.",
+    "abstention": {
+      "abstained": true,
+      "reason": "Below calibration-only score or margin threshold; insufficient support."
+    },
+    "limitations": [
+      "Small single-annotator benchmark",
+      "Unsupported content can resemble a supplied description",
+      "No production model selected"
+    ],
+    "evaluationReference": "phase03-natural-v1/natural-10",
+    "state": "complete",
+    "error": null
+  },
+  {
+    "schemaVersion": "ai-result/1",
+    "model": {
+      "id": "Xenova/clip-vit-base-patch32",
+      "revision": "d15189d7028b43f1d3e65039190477f6af591c2a",
+      "task": "supplied-description-ranking",
+      "taxonomy": "ouahad-scenes-36-v2-audit",
+      "preprocessingVersion": "whole-frame-white-letterbox224-clip-normalize/v1"
+    },
+    "backend": "wasm",
+    "scoreSemantics": "cosine-similarity",
+    "predictions": [
+      {
+        "id": "architecture",
+        "label": "architecture",
+        "rawScore": 0.23418218568827026
+      },
+      {
+        "id": "optics",
+        "label": "optics",
+        "rawScore": 0.23394306264336454
+      },
+      {
+        "id": "birds",
+        "label": "birds",
+        "rawScore": 0.21949697508408864
+      },
+      {
+        "id": "reflections",
+        "label": "reflections",
+        "rawScore": 0.21935292589579866
+      },
+      {
+        "id": "warehouse",
+        "label": "warehouse",
+        "rawScore": 0.21583647996983998
+      },
+      {
+        "id": "railway",
+        "label": "railway",
+        "rawScore": 0.2094024931043356
+      },
+      {
+        "id": "electronics",
+        "label": "electronics",
+        "rawScore": 0.20815334718884113
+      },
+      {
+        "id": "music",
+        "label": "music",
+        "rawScore": 0.20805794713213818
+      },
+      {
+        "id": "tools",
+        "label": "tools",
+        "rawScore": 0.20775044340804497
+      },
+      {
+        "id": "classroom",
+        "label": "classroom",
+        "rawScore": 0.2067993579022191
+      },
+      {
+        "id": "street-people",
+        "label": "street-people",
+        "rawScore": 0.2054170274209186
+      },
+      {
+        "id": "bedroom",
+        "label": "bedroom",
+        "rawScore": 0.20087903275983723
+      },
+      {
+        "id": "books",
+        "label": "books",
+        "rawScore": 0.20048166249474042
+      },
+      {
+        "id": "office",
+        "label": "office",
+        "rawScore": 0.19694384461066253
+      },
+      {
+        "id": "textiles",
+        "label": "textiles",
+        "rawScore": 0.19492300893372816
+      },
+      {
+        "id": "pottery",
+        "label": "pottery",
+        "rawScore": 0.19434804270621392
+      },
+      {
+        "id": "sport",
+        "label": "sport",
+        "rawScore": 0.19426228464017925
+      },
+      {
+        "id": "gardening",
+        "label": "gardening",
+        "rawScore": 0.18997980716099602
+      },
+      {
+        "id": "living-room",
+        "label": "living-room",
+        "rawScore": 0.18883280149755918
+      },
+      {
+        "id": "harbor",
+        "label": "harbor",
+        "rawScore": 0.18579324188233423
+      },
+      {
+        "id": "farmland",
+        "label": "farmland",
+        "rawScore": 0.18535501824192077
+      },
+      {
+        "id": "coast",
+        "label": "coast",
+        "rawScore": 0.1852362659644776
+      },
+      {
+        "id": "road-vehicles",
+        "label": "road-vehicles",
+        "rawScore": 0.18521819281790886
+      },
+      {
+        "id": "wildlife",
+        "label": "wildlife",
+        "rawScore": 0.18013302359221856
+      },
+      {
+        "id": "outdoor-cooking",
+        "label": "outdoor-cooking",
+        "rawScore": 0.17869387853067112
+      },
+      {
+        "id": "meal",
+        "label": "meal",
+        "rawScore": 0.1768296401301851
+      },
+      {
+        "id": "drinks",
+        "label": "drinks",
+        "rawScore": 0.17645553153906418
+      },
+      {
+        "id": "bakery",
+        "label": "bakery",
+        "rawScore": 0.17399642314680133
+      },
+      {
+        "id": "forest",
+        "label": "forest",
+        "rawScore": 0.17202936622274864
+      },
+      {
+        "id": "pets",
+        "label": "pets",
+        "rawScore": 0.17202016625873506
+      },
+      {
+        "id": "mountain-lake",
+        "label": "mountain-lake",
+        "rawScore": 0.16928665363797785
+      },
+      {
+        "id": "bathroom",
+        "label": "bathroom",
+        "rawScore": 0.16871313128565174
+      },
+      {
+        "id": "food-preparation",
+        "label": "food-preparation",
+        "rawScore": 0.16422208368376676
+      },
+      {
+        "id": "produce-market",
+        "label": "produce-market",
+        "rawScore": 0.15980858320956498
+      },
+      {
+        "id": "desert",
+        "label": "desert",
+        "rawScore": 0.1574318013173646
+      },
+      {
+        "id": "river",
+        "label": "river",
+        "rawScore": 0.14157202792355347
+      }
+    ],
+    "interpretation": "Research prediction among supplied descriptions; not a generated caption or a correctness probability.",
+    "abstention": {
+      "abstained": true,
+      "reason": "Below calibration-only score or margin threshold; insufficient support."
+    },
+    "limitations": [
+      "Small single-annotator benchmark",
+      "Unsupported content can resemble a supplied description",
+      "No production model selected"
+    ],
+    "evaluationReference": "phase03-natural-v1/natural-11",
+    "state": "complete",
+    "error": null
+  },
+  {
+    "schemaVersion": "ai-result/1",
+    "model": {
+      "id": "Xenova/clip-vit-base-patch32",
+      "revision": "d15189d7028b43f1d3e65039190477f6af591c2a",
+      "task": "supplied-description-ranking",
+      "taxonomy": "ouahad-scenes-36-v2-audit",
+      "preprocessingVersion": "whole-frame-white-letterbox224-clip-normalize/v1"
+    },
+    "backend": "wasm",
+    "scoreSemantics": "cosine-similarity",
+    "predictions": [
+      {
+        "id": "reflections",
+        "label": "reflections",
+        "rawScore": 0.2570018570578448
+      },
+      {
+        "id": "drinks",
+        "label": "drinks",
+        "rawScore": 0.2384935494040505
+      },
+      {
+        "id": "optics",
+        "label": "optics",
+        "rawScore": 0.22792419398648955
+      },
+      {
+        "id": "electronics",
+        "label": "electronics",
+        "rawScore": 0.2248721543107873
+      },
+      {
+        "id": "books",
+        "label": "books",
+        "rawScore": 0.2140646575398324
+      },
+      {
+        "id": "harbor",
+        "label": "harbor",
+        "rawScore": 0.21264564222223858
+      },
+      {
+        "id": "music",
+        "label": "music",
+        "rawScore": 0.21236603013436428
+      },
+      {
+        "id": "tools",
+        "label": "tools",
+        "rawScore": 0.2121993158651803
+      },
+      {
+        "id": "food-preparation",
+        "label": "food-preparation",
+        "rawScore": 0.21145338535503977
+      },
+      {
+        "id": "pottery",
+        "label": "pottery",
+        "rawScore": 0.2109938186724993
+      },
+      {
+        "id": "textiles",
+        "label": "textiles",
+        "rawScore": 0.20980710233728944
+      },
+      {
+        "id": "sport",
+        "label": "sport",
+        "rawScore": 0.20888342234307722
+      },
+      {
+        "id": "mountain-lake",
+        "label": "mountain-lake",
+        "rawScore": 0.20788668931255927
+      },
+      {
+        "id": "birds",
+        "label": "birds",
+        "rawScore": 0.20783675409072214
+      },
+      {
+        "id": "outdoor-cooking",
+        "label": "outdoor-cooking",
+        "rawScore": 0.2074976053955053
+      },
+      {
+        "id": "wildlife",
+        "label": "wildlife",
+        "rawScore": 0.20664871992796477
+      },
+      {
+        "id": "meal",
+        "label": "meal",
+        "rawScore": 0.2045708486161261
+      },
+      {
+        "id": "coast",
+        "label": "coast",
+        "rawScore": 0.20405391900589856
+      },
+      {
+        "id": "classroom",
+        "label": "classroom",
+        "rawScore": 0.20362607934371338
+      },
+      {
+        "id": "gardening",
+        "label": "gardening",
+        "rawScore": 0.20324432866281206
+      },
+      {
+        "id": "street-people",
+        "label": "street-people",
+        "rawScore": 0.20124210734977577
+      },
+      {
+        "id": "desert",
+        "label": "desert",
+        "rawScore": 0.20107802159547303
+      },
+      {
+        "id": "bedroom",
+        "label": "bedroom",
+        "rawScore": 0.19895183595821553
+      },
+      {
+        "id": "warehouse",
+        "label": "warehouse",
+        "rawScore": 0.19834720014042465
+      },
+      {
+        "id": "river",
+        "label": "river",
+        "rawScore": 0.19805015324491268
+      },
+      {
+        "id": "produce-market",
+        "label": "produce-market",
+        "rawScore": 0.19464529316323945
+      },
+      {
+        "id": "bathroom",
+        "label": "bathroom",
+        "rawScore": 0.1942816950207189
+      },
+      {
+        "id": "farmland",
+        "label": "farmland",
+        "rawScore": 0.1939828956768145
+      },
+      {
+        "id": "pets",
+        "label": "pets",
+        "rawScore": 0.1935960655430729
+      },
+      {
+        "id": "road-vehicles",
+        "label": "road-vehicles",
+        "rawScore": 0.19262951181373483
+      },
+      {
+        "id": "bakery",
+        "label": "bakery",
+        "rawScore": 0.19187291368415568
+      },
+      {
+        "id": "railway",
+        "label": "railway",
+        "rawScore": 0.18737705743724678
+      },
+      {
+        "id": "living-room",
+        "label": "living-room",
+        "rawScore": 0.18692078714287275
+      },
+      {
+        "id": "architecture",
+        "label": "architecture",
+        "rawScore": 0.18214655229105958
+      },
+      {
+        "id": "forest",
+        "label": "forest",
+        "rawScore": 0.17584247743560388
+      },
+      {
+        "id": "office",
+        "label": "office",
+        "rawScore": 0.16515218084682753
+      }
+    ],
+    "interpretation": "Research prediction among supplied descriptions; not a generated caption or a correctness probability.",
+    "abstention": {
+      "abstained": true,
+      "reason": "Below calibration-only score or margin threshold; insufficient support."
+    },
+    "limitations": [
+      "Small single-annotator benchmark",
+      "Unsupported content can resemble a supplied description",
+      "No production model selected"
+    ],
+    "evaluationReference": "phase03-natural-v1/natural-12",
+    "state": "complete",
+    "error": null
+  },
+  {
+    "schemaVersion": "ai-result/1",
+    "model": {
+      "id": "Xenova/clip-vit-base-patch32",
+      "revision": "d15189d7028b43f1d3e65039190477f6af591c2a",
+      "task": "supplied-description-ranking",
+      "taxonomy": "ouahad-scenes-36-v2-audit",
+      "preprocessingVersion": "whole-frame-white-letterbox224-clip-normalize/v1"
+    },
+    "backend": "wasm",
+    "scoreSemantics": "cosine-similarity",
+    "predictions": [
+      {
+        "id": "drinks",
+        "label": "drinks",
+        "rawScore": 0.26464704635252373
+      },
+      {
+        "id": "pottery",
+        "label": "pottery",
+        "rawScore": 0.25088892763048903
+      },
+      {
+        "id": "reflections",
+        "label": "reflections",
+        "rawScore": 0.22679605428250083
+      },
+      {
+        "id": "meal",
+        "label": "meal",
+        "rawScore": 0.21972834113584735
+      },
+      {
+        "id": "produce-market",
+        "label": "produce-market",
+        "rawScore": 0.2193958432983088
+      },
+      {
+        "id": "music",
+        "label": "music",
+        "rawScore": 0.21758797620450263
+      },
+      {
+        "id": "food-preparation",
+        "label": "food-preparation",
+        "rawScore": 0.2155124814584956
+      },
+      {
+        "id": "birds",
+        "label": "birds",
+        "rawScore": 0.2114354939764691
+      },
+      {
+        "id": "optics",
+        "label": "optics",
+        "rawScore": 0.20943282912297317
+      },
+      {
+        "id": "tools",
+        "label": "tools",
+        "rawScore": 0.20900846164946194
+      },
+      {
+        "id": "harbor",
+        "label": "harbor",
+        "rawScore": 0.207281296530969
+      },
+      {
+        "id": "living-room",
+        "label": "living-room",
+        "rawScore": 0.20548692236033234
+      },
+      {
+        "id": "sport",
+        "label": "sport",
+        "rawScore": 0.2048866851727952
+      },
+      {
+        "id": "architecture",
+        "label": "architecture",
+        "rawScore": 0.1975903180764217
+      },
+      {
+        "id": "gardening",
+        "label": "gardening",
+        "rawScore": 0.1958097203093762
+      },
+      {
+        "id": "warehouse",
+        "label": "warehouse",
+        "rawScore": 0.19559183793822832
+      },
+      {
+        "id": "books",
+        "label": "books",
+        "rawScore": 0.1953691050954969
+      },
+      {
+        "id": "bakery",
+        "label": "bakery",
+        "rawScore": 0.19453521797824327
+      },
+      {
+        "id": "bedroom",
+        "label": "bedroom",
+        "rawScore": 0.19450223622869736
+      },
+      {
+        "id": "outdoor-cooking",
+        "label": "outdoor-cooking",
+        "rawScore": 0.1918288785076982
+      },
+      {
+        "id": "coast",
+        "label": "coast",
+        "rawScore": 0.19160001878458824
+      },
+      {
+        "id": "electronics",
+        "label": "electronics",
+        "rawScore": 0.19083597026982219
+      },
+      {
+        "id": "textiles",
+        "label": "textiles",
+        "rawScore": 0.18896076593568972
+      },
+      {
+        "id": "bathroom",
+        "label": "bathroom",
+        "rawScore": 0.18774892134397064
+      },
+      {
+        "id": "classroom",
+        "label": "classroom",
+        "rawScore": 0.18698167543478572
+      },
+      {
+        "id": "street-people",
+        "label": "street-people",
+        "rawScore": 0.18651683223517265
+      },
+      {
+        "id": "farmland",
+        "label": "farmland",
+        "rawScore": 0.18600825609684865
+      },
+      {
+        "id": "wildlife",
+        "label": "wildlife",
+        "rawScore": 0.18479931025460655
+      },
+      {
+        "id": "desert",
+        "label": "desert",
+        "rawScore": 0.18256923648929443
+      },
+      {
+        "id": "forest",
+        "label": "forest",
+        "rawScore": 0.18143010010778549
+      },
+      {
+        "id": "office",
+        "label": "office",
+        "rawScore": 0.18115926711922423
+      },
+      {
+        "id": "road-vehicles",
+        "label": "road-vehicles",
+        "rawScore": 0.18044319401605577
+      },
+      {
+        "id": "mountain-lake",
+        "label": "mountain-lake",
+        "rawScore": 0.17988404160907764
+      },
+      {
+        "id": "railway",
+        "label": "railway",
+        "rawScore": 0.17747842917091047
+      },
+      {
+        "id": "pets",
+        "label": "pets",
+        "rawScore": 0.17270823083506723
+      },
+      {
+        "id": "river",
+        "label": "river",
+        "rawScore": 0.1596167414160582
+      }
+    ],
+    "interpretation": "Research prediction among supplied descriptions; not a generated caption or a correctness probability.",
+    "abstention": {
+      "abstained": true,
+      "reason": "Below calibration-only score or margin threshold; insufficient support."
+    },
+    "limitations": [
+      "Small single-annotator benchmark",
+      "Unsupported content can resemble a supplied description",
+      "No production model selected"
+    ],
+    "evaluationReference": "phase03-natural-v1/natural-13",
+    "state": "complete",
+    "error": null
+  },
+  {
+    "schemaVersion": "ai-result/1",
+    "model": {
+      "id": "Xenova/clip-vit-base-patch32",
+      "revision": "d15189d7028b43f1d3e65039190477f6af591c2a",
+      "task": "supplied-description-ranking",
+      "taxonomy": "ouahad-scenes-36-v2-audit",
+      "preprocessingVersion": "whole-frame-white-letterbox224-clip-normalize/v1"
+    },
+    "backend": "wasm",
+    "scoreSemantics": "cosine-similarity",
+    "predictions": [
+      {
+        "id": "music",
+        "label": "music",
+        "rawScore": 0.26428556788883745
+      },
+      {
+        "id": "tools",
+        "label": "tools",
+        "rawScore": 0.21035543086099162
+      },
+      {
+        "id": "electronics",
+        "label": "electronics",
+        "rawScore": 0.20824544347205723
+      },
+      {
+        "id": "pottery",
+        "label": "pottery",
+        "rawScore": 0.20495582446826918
+      },
+      {
+        "id": "bedroom",
+        "label": "bedroom",
+        "rawScore": 0.19905986681862886
+      },
+      {
+        "id": "classroom",
+        "label": "classroom",
+        "rawScore": 0.1972960392848732
+      },
+      {
+        "id": "sport",
+        "label": "sport",
+        "rawScore": 0.19537964803473815
+      },
+      {
+        "id": "harbor",
+        "label": "harbor",
+        "rawScore": 0.1951879463523901
+      },
+      {
+        "id": "warehouse",
+        "label": "warehouse",
+        "rawScore": 0.19370179852896927
+      },
+      {
+        "id": "textiles",
+        "label": "textiles",
+        "rawScore": 0.1934093426162938
+      },
+      {
+        "id": "birds",
+        "label": "birds",
+        "rawScore": 0.1901211799652321
+      },
+      {
+        "id": "meal",
+        "label": "meal",
+        "rawScore": 0.18683952190404565
+      },
+      {
+        "id": "reflections",
+        "label": "reflections",
+        "rawScore": 0.18656949256269134
+      },
+      {
+        "id": "coast",
+        "label": "coast",
+        "rawScore": 0.18477267224398086
+      },
+      {
+        "id": "books",
+        "label": "books",
+        "rawScore": 0.18074254978926804
+      },
+      {
+        "id": "pets",
+        "label": "pets",
+        "rawScore": 0.1805721885567469
+      },
+      {
+        "id": "drinks",
+        "label": "drinks",
+        "rawScore": 0.180496010050507
+      },
+      {
+        "id": "wildlife",
+        "label": "wildlife",
+        "rawScore": 0.18036234520828195
+      },
+      {
+        "id": "outdoor-cooking",
+        "label": "outdoor-cooking",
+        "rawScore": 0.17954368664082615
+      },
+      {
+        "id": "optics",
+        "label": "optics",
+        "rawScore": 0.1789374192206898
+      },
+      {
+        "id": "forest",
+        "label": "forest",
+        "rawScore": 0.1788620176111676
+      },
+      {
+        "id": "living-room",
+        "label": "living-room",
+        "rawScore": 0.1782656560417214
+      },
+      {
+        "id": "farmland",
+        "label": "farmland",
+        "rawScore": 0.1781310953113636
+      },
+      {
+        "id": "mountain-lake",
+        "label": "mountain-lake",
+        "rawScore": 0.17803326194804667
+      },
+      {
+        "id": "street-people",
+        "label": "street-people",
+        "rawScore": 0.17758199670364572
+      },
+      {
+        "id": "gardening",
+        "label": "gardening",
+        "rawScore": 0.1755079643366855
+      },
+      {
+        "id": "food-preparation",
+        "label": "food-preparation",
+        "rawScore": 0.17536821323881208
+      },
+      {
+        "id": "bakery",
+        "label": "bakery",
+        "rawScore": 0.17508853048438833
+      },
+      {
+        "id": "desert",
+        "label": "desert",
+        "rawScore": 0.17235193457449266
+      },
+      {
+        "id": "architecture",
+        "label": "architecture",
+        "rawScore": 0.1666048530893369
+      },
+      {
+        "id": "river",
+        "label": "river",
+        "rawScore": 0.1655212088443268
+      },
+      {
+        "id": "produce-market",
+        "label": "produce-market",
+        "rawScore": 0.1646401154010917
+      },
+      {
+        "id": "road-vehicles",
+        "label": "road-vehicles",
+        "rawScore": 0.16250349509517298
+      },
+      {
+        "id": "office",
+        "label": "office",
+        "rawScore": 0.15797437520705582
+      },
+      {
+        "id": "bathroom",
+        "label": "bathroom",
+        "rawScore": 0.15749326717970139
+      },
+      {
+        "id": "railway",
+        "label": "railway",
+        "rawScore": 0.15340502896954056
+      }
+    ],
+    "interpretation": "Research prediction among supplied descriptions; not a generated caption or a correctness probability.",
+    "abstention": {
+      "abstained": false,
+      "reason": "Meets calibration-only score and margin policy; model remains unapproved."
+    },
+    "limitations": [
+      "Small single-annotator benchmark",
+      "Unsupported content can resemble a supplied description",
+      "No production model selected"
+    ],
+    "evaluationReference": "phase03-natural-v1/natural-14",
+    "state": "complete",
+    "error": null
+  },
+  {
+    "schemaVersion": "ai-result/1",
+    "model": {
+      "id": "Xenova/clip-vit-base-patch32",
+      "revision": "d15189d7028b43f1d3e65039190477f6af591c2a",
+      "task": "supplied-description-ranking",
+      "taxonomy": "ouahad-scenes-36-v2-audit",
+      "preprocessingVersion": "whole-frame-white-letterbox224-clip-normalize/v1"
+    },
+    "backend": "wasm",
+    "scoreSemantics": "cosine-similarity",
+    "predictions": [
+      {
+        "id": "sport",
+        "label": "sport",
+        "rawScore": 0.2578400210261825
+      },
+      {
+        "id": "optics",
+        "label": "optics",
+        "rawScore": 0.22765952030497122
+      },
+      {
+        "id": "gardening",
+        "label": "gardening",
+        "rawScore": 0.2105205910829383
+      },
+      {
+        "id": "electronics",
+        "label": "electronics",
+        "rawScore": 0.2098213802701582
+      },
+      {
+        "id": "birds",
+        "label": "birds",
+        "rawScore": 0.2071366045004868
+      },
+      {
+        "id": "farmland",
+        "label": "farmland",
+        "rawScore": 0.20279912334955527
+      },
+      {
+        "id": "books",
+        "label": "books",
+        "rawScore": 0.20136307021509145
+      },
+      {
+        "id": "outdoor-cooking",
+        "label": "outdoor-cooking",
+        "rawScore": 0.20118735224061363
+      },
+      {
+        "id": "wildlife",
+        "label": "wildlife",
+        "rawScore": 0.2004019498880749
+      },
+      {
+        "id": "tools",
+        "label": "tools",
+        "rawScore": 0.19849677151346376
+      },
+      {
+        "id": "street-people",
+        "label": "street-people",
+        "rawScore": 0.1984620773135808
+      },
+      {
+        "id": "textiles",
+        "label": "textiles",
+        "rawScore": 0.19806555866333525
+      },
+      {
+        "id": "road-vehicles",
+        "label": "road-vehicles",
+        "rawScore": 0.19704846134585496
+      },
+      {
+        "id": "pottery",
+        "label": "pottery",
+        "rawScore": 0.19695806464238497
+      },
+      {
+        "id": "architecture",
+        "label": "architecture",
+        "rawScore": 0.19626997538254726
+      },
+      {
+        "id": "music",
+        "label": "music",
+        "rawScore": 0.19514445980168152
+      },
+      {
+        "id": "reflections",
+        "label": "reflections",
+        "rawScore": 0.19464445944577258
+      },
+      {
+        "id": "harbor",
+        "label": "harbor",
+        "rawScore": 0.19212020699260476
+      },
+      {
+        "id": "pets",
+        "label": "pets",
+        "rawScore": 0.19188167162095138
+      },
+      {
+        "id": "classroom",
+        "label": "classroom",
+        "rawScore": 0.1907943270385749
+      },
+      {
+        "id": "living-room",
+        "label": "living-room",
+        "rawScore": 0.18724222966786627
+      },
+      {
+        "id": "bakery",
+        "label": "bakery",
+        "rawScore": 0.18626355583326937
+      },
+      {
+        "id": "meal",
+        "label": "meal",
+        "rawScore": 0.18577831953727267
+      },
+      {
+        "id": "warehouse",
+        "label": "warehouse",
+        "rawScore": 0.18395895955001268
+      },
+      {
+        "id": "forest",
+        "label": "forest",
+        "rawScore": 0.1821098443437256
+      },
+      {
+        "id": "railway",
+        "label": "railway",
+        "rawScore": 0.18113442311019276
+      },
+      {
+        "id": "bedroom",
+        "label": "bedroom",
+        "rawScore": 0.18073729051294987
+      },
+      {
+        "id": "coast",
+        "label": "coast",
+        "rawScore": 0.18034996733945263
+      },
+      {
+        "id": "drinks",
+        "label": "drinks",
+        "rawScore": 0.1799174837870663
+      },
+      {
+        "id": "mountain-lake",
+        "label": "mountain-lake",
+        "rawScore": 0.17569175986900648
+      },
+      {
+        "id": "food-preparation",
+        "label": "food-preparation",
+        "rawScore": 0.17410250004714237
+      },
+      {
+        "id": "office",
+        "label": "office",
+        "rawScore": 0.16508806062103587
+      },
+      {
+        "id": "desert",
+        "label": "desert",
+        "rawScore": 0.16492070886511723
+      },
+      {
+        "id": "produce-market",
+        "label": "produce-market",
+        "rawScore": 0.15851225198565871
+      },
+      {
+        "id": "river",
+        "label": "river",
+        "rawScore": 0.158415436388837
+      },
+      {
+        "id": "bathroom",
+        "label": "bathroom",
+        "rawScore": 0.15149598264882685
+      }
+    ],
+    "interpretation": "Research prediction among supplied descriptions; not a generated caption or a correctness probability.",
+    "abstention": {
+      "abstained": true,
+      "reason": "Below calibration-only score or margin threshold; insufficient support."
+    },
+    "limitations": [
+      "Small single-annotator benchmark",
+      "Unsupported content can resemble a supplied description",
+      "No production model selected"
+    ],
+    "evaluationReference": "phase03-natural-v1/natural-15",
+    "state": "complete",
+    "error": null
+  },
+  {
+    "schemaVersion": "ai-result/1",
+    "model": {
+      "id": "Xenova/clip-vit-base-patch32",
+      "revision": "d15189d7028b43f1d3e65039190477f6af591c2a",
+      "task": "supplied-description-ranking",
+      "taxonomy": "ouahad-scenes-36-v2-audit",
+      "preprocessingVersion": "whole-frame-white-letterbox224-clip-normalize/v1"
+    },
+    "backend": "wasm",
+    "scoreSemantics": "cosine-similarity",
+    "predictions": [
+      {
+        "id": "mountain-lake",
+        "label": "mountain-lake",
+        "rawScore": 0.266262952605724
+      },
+      {
+        "id": "reflections",
+        "label": "reflections",
+        "rawScore": 0.2591311103400807
+      },
+      {
+        "id": "coast",
+        "label": "coast",
+        "rawScore": 0.24136191730256723
+      },
+      {
+        "id": "optics",
+        "label": "optics",
+        "rawScore": 0.2406160911928509
+      },
+      {
+        "id": "birds",
+        "label": "birds",
+        "rawScore": 0.22892361492891386
+      },
+      {
+        "id": "harbor",
+        "label": "harbor",
+        "rawScore": 0.2275231115162621
+      },
+      {
+        "id": "classroom",
+        "label": "classroom",
+        "rawScore": 0.22585095349749515
+      },
+      {
+        "id": "desert",
+        "label": "desert",
+        "rawScore": 0.22456295638932564
+      },
+      {
+        "id": "electronics",
+        "label": "electronics",
+        "rawScore": 0.22280806887577803
+      },
+      {
+        "id": "street-people",
+        "label": "street-people",
+        "rawScore": 0.22176443526359807
+      },
+      {
+        "id": "outdoor-cooking",
+        "label": "outdoor-cooking",
+        "rawScore": 0.21988715163152298
+      },
+      {
+        "id": "railway",
+        "label": "railway",
+        "rawScore": 0.2190599215800891
+      },
+      {
+        "id": "sport",
+        "label": "sport",
+        "rawScore": 0.21893683265319192
+      },
+      {
+        "id": "bedroom",
+        "label": "bedroom",
+        "rawScore": 0.21770733652270866
+      },
+      {
+        "id": "wildlife",
+        "label": "wildlife",
+        "rawScore": 0.2173547383035888
+      },
+      {
+        "id": "river",
+        "label": "river",
+        "rawScore": 0.21667828561372046
+      },
+      {
+        "id": "architecture",
+        "label": "architecture",
+        "rawScore": 0.21635572234639347
+      },
+      {
+        "id": "tools",
+        "label": "tools",
+        "rawScore": 0.21632096293337263
+      },
+      {
+        "id": "living-room",
+        "label": "living-room",
+        "rawScore": 0.2155124450502098
+      },
+      {
+        "id": "road-vehicles",
+        "label": "road-vehicles",
+        "rawScore": 0.21273419679029948
+      },
+      {
+        "id": "books",
+        "label": "books",
+        "rawScore": 0.212474862951963
+      },
+      {
+        "id": "forest",
+        "label": "forest",
+        "rawScore": 0.2116195879399731
+      },
+      {
+        "id": "warehouse",
+        "label": "warehouse",
+        "rawScore": 0.21073792306866387
+      },
+      {
+        "id": "pottery",
+        "label": "pottery",
+        "rawScore": 0.21023993756421958
+      },
+      {
+        "id": "gardening",
+        "label": "gardening",
+        "rawScore": 0.20757912636829817
+      },
+      {
+        "id": "music",
+        "label": "music",
+        "rawScore": 0.20744263189282314
+      },
+      {
+        "id": "drinks",
+        "label": "drinks",
+        "rawScore": 0.20708233564351672
+      },
+      {
+        "id": "farmland",
+        "label": "farmland",
+        "rawScore": 0.20680078440748992
+      },
+      {
+        "id": "textiles",
+        "label": "textiles",
+        "rawScore": 0.20518485780824114
+      },
+      {
+        "id": "meal",
+        "label": "meal",
+        "rawScore": 0.1997460842418662
+      },
+      {
+        "id": "office",
+        "label": "office",
+        "rawScore": 0.19722397421924306
+      },
+      {
+        "id": "pets",
+        "label": "pets",
+        "rawScore": 0.19178122579545967
+      },
+      {
+        "id": "food-preparation",
+        "label": "food-preparation",
+        "rawScore": 0.19075175834606606
+      },
+      {
+        "id": "bakery",
+        "label": "bakery",
+        "rawScore": 0.18569397089198333
+      },
+      {
+        "id": "bathroom",
+        "label": "bathroom",
+        "rawScore": 0.1790456245836799
+      },
+      {
+        "id": "produce-market",
+        "label": "produce-market",
+        "rawScore": 0.16966567627231607
+      }
+    ],
+    "interpretation": "Research prediction among supplied descriptions; not a generated caption or a correctness probability.",
+    "abstention": {
+      "abstained": true,
+      "reason": "Below calibration-only score or margin threshold; insufficient support."
+    },
+    "limitations": [
+      "Small single-annotator benchmark",
+      "Unsupported content can resemble a supplied description",
+      "No production model selected"
+    ],
+    "evaluationReference": "phase03-natural-v1/natural-01-low-light",
+    "state": "complete",
+    "error": null
+  },
+  {
+    "schemaVersion": "ai-result/1",
+    "model": {
+      "id": "Xenova/clip-vit-base-patch32",
+      "revision": "d15189d7028b43f1d3e65039190477f6af591c2a",
+      "task": "supplied-description-ranking",
+      "taxonomy": "ouahad-scenes-36-v2-audit",
+      "preprocessingVersion": "whole-frame-white-letterbox224-clip-normalize/v1"
+    },
+    "backend": "wasm",
+    "scoreSemantics": "cosine-similarity",
+    "predictions": [
+      {
+        "id": "road-vehicles",
+        "label": "road-vehicles",
+        "rawScore": 0.25584755555086874
+      },
+      {
+        "id": "optics",
+        "label": "optics",
+        "rawScore": 0.25422862604264423
+      },
+      {
+        "id": "street-people",
+        "label": "street-people",
+        "rawScore": 0.2482881463078115
+      },
+      {
+        "id": "railway",
+        "label": "railway",
+        "rawScore": 0.24055557186685766
+      },
+      {
+        "id": "architecture",
+        "label": "architecture",
+        "rawScore": 0.2297118468543414
+      },
+      {
+        "id": "electronics",
+        "label": "electronics",
+        "rawScore": 0.2294412783037215
+      },
+      {
+        "id": "reflections",
+        "label": "reflections",
+        "rawScore": 0.2266449176174801
+      },
+      {
+        "id": "classroom",
+        "label": "classroom",
+        "rawScore": 0.22230394382697616
+      },
+      {
+        "id": "birds",
+        "label": "birds",
+        "rawScore": 0.2197911222448838
+      },
+      {
+        "id": "coast",
+        "label": "coast",
+        "rawScore": 0.21810767458773814
+      },
+      {
+        "id": "farmland",
+        "label": "farmland",
+        "rawScore": 0.2179843792085518
+      },
+      {
+        "id": "harbor",
+        "label": "harbor",
+        "rawScore": 0.2177401751797641
+      },
+      {
+        "id": "sport",
+        "label": "sport",
+        "rawScore": 0.2171478176698366
+      },
+      {
+        "id": "books",
+        "label": "books",
+        "rawScore": 0.21608509746708926
+      },
+      {
+        "id": "pottery",
+        "label": "pottery",
+        "rawScore": 0.21437936125012985
+      },
+      {
+        "id": "forest",
+        "label": "forest",
+        "rawScore": 0.21432422725277606
+      },
+      {
+        "id": "gardening",
+        "label": "gardening",
+        "rawScore": 0.21286531193240912
+      },
+      {
+        "id": "warehouse",
+        "label": "warehouse",
+        "rawScore": 0.2113837426560214
+      },
+      {
+        "id": "tools",
+        "label": "tools",
+        "rawScore": 0.2097840151079104
+      },
+      {
+        "id": "living-room",
+        "label": "living-room",
+        "rawScore": 0.20903236439380324
+      },
+      {
+        "id": "music",
+        "label": "music",
+        "rawScore": 0.20789183132928007
+      },
+      {
+        "id": "office",
+        "label": "office",
+        "rawScore": 0.2068162842280303
+      },
+      {
+        "id": "drinks",
+        "label": "drinks",
+        "rawScore": 0.2065215494208278
+      },
+      {
+        "id": "desert",
+        "label": "desert",
+        "rawScore": 0.20543642785771205
+      },
+      {
+        "id": "textiles",
+        "label": "textiles",
+        "rawScore": 0.20520436336833345
+      },
+      {
+        "id": "wildlife",
+        "label": "wildlife",
+        "rawScore": 0.20504986443257037
+      },
+      {
+        "id": "bakery",
+        "label": "bakery",
+        "rawScore": 0.20419481031515127
+      },
+      {
+        "id": "pets",
+        "label": "pets",
+        "rawScore": 0.20012658315497966
+      },
+      {
+        "id": "outdoor-cooking",
+        "label": "outdoor-cooking",
+        "rawScore": 0.19883544445505663
+      },
+      {
+        "id": "bedroom",
+        "label": "bedroom",
+        "rawScore": 0.19819619249643866
+      },
+      {
+        "id": "meal",
+        "label": "meal",
+        "rawScore": 0.19711288705498112
+      },
+      {
+        "id": "mountain-lake",
+        "label": "mountain-lake",
+        "rawScore": 0.1918495939923263
+      },
+      {
+        "id": "produce-market",
+        "label": "produce-market",
+        "rawScore": 0.18774915978776185
+      },
+      {
+        "id": "river",
+        "label": "river",
+        "rawScore": 0.18100571758378856
+      },
+      {
+        "id": "bathroom",
+        "label": "bathroom",
+        "rawScore": 0.18070435116136135
+      },
+      {
+        "id": "food-preparation",
+        "label": "food-preparation",
+        "rawScore": 0.1780184741734792
+      }
+    ],
+    "interpretation": "Research prediction among supplied descriptions; not a generated caption or a correctness probability.",
+    "abstention": {
+      "abstained": true,
+      "reason": "Below calibration-only score or margin threshold; insufficient support."
+    },
+    "limitations": [
+      "Small single-annotator benchmark",
+      "Unsupported content can resemble a supplied description",
+      "No production model selected"
+    ],
+    "evaluationReference": "phase03-natural-v1/natural-03-low-contrast",
+    "state": "complete",
+    "error": null
+  },
+  {
+    "schemaVersion": "ai-result/1",
+    "model": {
+      "id": "Xenova/clip-vit-base-patch32",
+      "revision": "d15189d7028b43f1d3e65039190477f6af591c2a",
+      "task": "supplied-description-ranking",
+      "taxonomy": "ouahad-scenes-36-v2-audit",
+      "preprocessingVersion": "whole-frame-white-letterbox224-clip-normalize/v1"
+    },
+    "backend": "wasm",
+    "scoreSemantics": "cosine-similarity",
+    "predictions": [
+      {
+        "id": "wildlife",
+        "label": "wildlife",
+        "rawScore": 0.24417618660634266
+      },
+      {
+        "id": "sport",
+        "label": "sport",
+        "rawScore": 0.23635766141678952
+      },
+      {
+        "id": "optics",
+        "label": "optics",
+        "rawScore": 0.23072954048765193
+      },
+      {
+        "id": "electronics",
+        "label": "electronics",
+        "rawScore": 0.22379489558567775
+      },
+      {
+        "id": "tools",
+        "label": "tools",
+        "rawScore": 0.22083872774835678
+      },
+      {
+        "id": "pets",
+        "label": "pets",
+        "rawScore": 0.21862400827967296
+      },
+      {
+        "id": "forest",
+        "label": "forest",
+        "rawScore": 0.21828446039070307
+      },
+      {
+        "id": "books",
+        "label": "books",
+        "rawScore": 0.2173883420389727
+      },
+      {
+        "id": "street-people",
+        "label": "street-people",
+        "rawScore": 0.21700316528082975
+      },
+      {
+        "id": "reflections",
+        "label": "reflections",
+        "rawScore": 0.21583641879817264
+      },
+      {
+        "id": "gardening",
+        "label": "gardening",
+        "rawScore": 0.21500688558217054
+      },
+      {
+        "id": "music",
+        "label": "music",
+        "rawScore": 0.21408826048513405
+      },
+      {
+        "id": "pottery",
+        "label": "pottery",
+        "rawScore": 0.21145304995028197
+      },
+      {
+        "id": "outdoor-cooking",
+        "label": "outdoor-cooking",
+        "rawScore": 0.21099931146551493
+      },
+      {
+        "id": "textiles",
+        "label": "textiles",
+        "rawScore": 0.2076044621406324
+      },
+      {
+        "id": "meal",
+        "label": "meal",
+        "rawScore": 0.2072542431340735
+      },
+      {
+        "id": "drinks",
+        "label": "drinks",
+        "rawScore": 0.2045546051783208
+      },
+      {
+        "id": "railway",
+        "label": "railway",
+        "rawScore": 0.2022112192874076
+      },
+      {
+        "id": "birds",
+        "label": "birds",
+        "rawScore": 0.2011988096235588
+      },
+      {
+        "id": "mountain-lake",
+        "label": "mountain-lake",
+        "rawScore": 0.1997766165349646
+      },
+      {
+        "id": "desert",
+        "label": "desert",
+        "rawScore": 0.19807328605509905
+      },
+      {
+        "id": "classroom",
+        "label": "classroom",
+        "rawScore": 0.19670226429693538
+      },
+      {
+        "id": "food-preparation",
+        "label": "food-preparation",
+        "rawScore": 0.1964007662613594
+      },
+      {
+        "id": "bedroom",
+        "label": "bedroom",
+        "rawScore": 0.1943660538267072
+      },
+      {
+        "id": "farmland",
+        "label": "farmland",
+        "rawScore": 0.1940039308128166
+      },
+      {
+        "id": "road-vehicles",
+        "label": "road-vehicles",
+        "rawScore": 0.1939145110603966
+      },
+      {
+        "id": "coast",
+        "label": "coast",
+        "rawScore": 0.19357864125085802
+      },
+      {
+        "id": "warehouse",
+        "label": "warehouse",
+        "rawScore": 0.19263256420138786
+      },
+      {
+        "id": "harbor",
+        "label": "harbor",
+        "rawScore": 0.19054971620117486
+      },
+      {
+        "id": "produce-market",
+        "label": "produce-market",
+        "rawScore": 0.1904947354712239
+      },
+      {
+        "id": "river",
+        "label": "river",
+        "rawScore": 0.1891770103495102
+      },
+      {
+        "id": "bakery",
+        "label": "bakery",
+        "rawScore": 0.1886291597882538
+      },
+      {
+        "id": "living-room",
+        "label": "living-room",
+        "rawScore": 0.18510660782214264
+      },
+      {
+        "id": "architecture",
+        "label": "architecture",
+        "rawScore": 0.1833501121060427
+      },
+      {
+        "id": "bathroom",
+        "label": "bathroom",
+        "rawScore": 0.17003292840997514
+      },
+      {
+        "id": "office",
+        "label": "office",
+        "rawScore": 0.16378054099554643
+      }
+    ],
+    "interpretation": "Research prediction among supplied descriptions; not a generated caption or a correctness probability.",
+    "abstention": {
+      "abstained": true,
+      "reason": "Below calibration-only score or margin threshold; insufficient support."
+    },
+    "limitations": [
+      "Small single-annotator benchmark",
+      "Unsupported content can resemble a supplied description",
+      "No production model selected"
+    ],
+    "evaluationReference": "phase03-natural-v1/natural-07-blur",
+    "state": "complete",
+    "error": null
+  },
+  {
+    "schemaVersion": "ai-result/1",
+    "model": {
+      "id": "Xenova/clip-vit-base-patch32",
+      "revision": "d15189d7028b43f1d3e65039190477f6af591c2a",
+      "task": "supplied-description-ranking",
+      "taxonomy": "ouahad-scenes-36-v2-audit",
+      "preprocessingVersion": "whole-frame-white-letterbox224-clip-normalize/v1"
+    },
+    "backend": "wasm",
+    "scoreSemantics": "cosine-similarity",
+    "predictions": [
+      {
+        "id": "sport",
+        "label": "sport",
+        "rawScore": 0.25998596303766003
+      },
+      {
+        "id": "optics",
+        "label": "optics",
+        "rawScore": 0.23945289174223042
+      },
+      {
+        "id": "electronics",
+        "label": "electronics",
+        "rawScore": 0.22643599031087533
+      },
+      {
+        "id": "textiles",
+        "label": "textiles",
+        "rawScore": 0.2173637029813966
+      },
+      {
+        "id": "reflections",
+        "label": "reflections",
+        "rawScore": 0.2154867324002677
+      },
+      {
+        "id": "tools",
+        "label": "tools",
+        "rawScore": 0.214037519547233
+      },
+      {
+        "id": "gardening",
+        "label": "gardening",
+        "rawScore": 0.21329919789124566
+      },
+      {
+        "id": "outdoor-cooking",
+        "label": "outdoor-cooking",
+        "rawScore": 0.21219031599165322
+      },
+      {
+        "id": "books",
+        "label": "books",
+        "rawScore": 0.21117389729727515
+      },
+      {
+        "id": "street-people",
+        "label": "street-people",
+        "rawScore": 0.207675126597067
+      },
+      {
+        "id": "road-vehicles",
+        "label": "road-vehicles",
+        "rawScore": 0.20720928669109795
+      },
+      {
+        "id": "birds",
+        "label": "birds",
+        "rawScore": 0.20649037788640343
+      },
+      {
+        "id": "pottery",
+        "label": "pottery",
+        "rawScore": 0.20545196502344437
+      },
+      {
+        "id": "classroom",
+        "label": "classroom",
+        "rawScore": 0.2025504608879051
+      },
+      {
+        "id": "architecture",
+        "label": "architecture",
+        "rawScore": 0.20223274983425973
+      },
+      {
+        "id": "music",
+        "label": "music",
+        "rawScore": 0.2013152931260943
+      },
+      {
+        "id": "wildlife",
+        "label": "wildlife",
+        "rawScore": 0.20106245056349645
+      },
+      {
+        "id": "farmland",
+        "label": "farmland",
+        "rawScore": 0.20050508813784412
+      },
+      {
+        "id": "forest",
+        "label": "forest",
+        "rawScore": 0.19911442149728506
+      },
+      {
+        "id": "pets",
+        "label": "pets",
+        "rawScore": 0.19867431757238083
+      },
+      {
+        "id": "harbor",
+        "label": "harbor",
+        "rawScore": 0.1962449088909501
+      },
+      {
+        "id": "warehouse",
+        "label": "warehouse",
+        "rawScore": 0.19433228976641456
+      },
+      {
+        "id": "railway",
+        "label": "railway",
+        "rawScore": 0.19345457001752953
+      },
+      {
+        "id": "drinks",
+        "label": "drinks",
+        "rawScore": 0.19328063560766984
+      },
+      {
+        "id": "bakery",
+        "label": "bakery",
+        "rawScore": 0.18933736082681787
+      },
+      {
+        "id": "meal",
+        "label": "meal",
+        "rawScore": 0.1891888209001822
+      },
+      {
+        "id": "bedroom",
+        "label": "bedroom",
+        "rawScore": 0.18629430820837428
+      },
+      {
+        "id": "coast",
+        "label": "coast",
+        "rawScore": 0.18607570889680092
+      },
+      {
+        "id": "mountain-lake",
+        "label": "mountain-lake",
+        "rawScore": 0.18318921474602914
+      },
+      {
+        "id": "living-room",
+        "label": "living-room",
+        "rawScore": 0.1824203870350768
+      },
+      {
+        "id": "food-preparation",
+        "label": "food-preparation",
+        "rawScore": 0.18165545157175308
+      },
+      {
+        "id": "office",
+        "label": "office",
+        "rawScore": 0.17903617125654367
+      },
+      {
+        "id": "desert",
+        "label": "desert",
+        "rawScore": 0.17725453648804476
+      },
+      {
+        "id": "produce-market",
+        "label": "produce-market",
+        "rawScore": 0.1723979970908721
+      },
+      {
+        "id": "river",
+        "label": "river",
+        "rawScore": 0.16726485445852926
+      },
+      {
+        "id": "bathroom",
+        "label": "bathroom",
+        "rawScore": 0.16273608630299274
+      }
+    ],
+    "interpretation": "Research prediction among supplied descriptions; not a generated caption or a correctness probability.",
+    "abstention": {
+      "abstained": true,
+      "reason": "Below calibration-only score or margin threshold; insufficient support."
+    },
+    "limitations": [
+      "Small single-annotator benchmark",
+      "Unsupported content can resemble a supplied description",
+      "No production model selected"
+    ],
+    "evaluationReference": "phase03-natural-v1/natural-15-crop-occlusion",
+    "state": "complete",
+    "error": null
+  }
+]

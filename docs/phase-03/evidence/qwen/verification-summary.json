@@ -1,0 +1,98 @@
+{
+  "phase": "03",
+  "status": "BLOCKED",
+  "scope": "Approved optional native local companion",
+  "reason": "Frozen held-out review failed: unsupported age/activity assertions, inconsistent person/cart relationships after dimming and blur, and an unsupported ocean claim. Structured JSON success is insufficient for grounded observations.",
+  "productionObservationsEnabled": false,
+  "tests": {
+    "unit": 87,
+    "security": 20,
+    "existingProductionChrome": 50,
+    "companionProductionChrome": 5,
+    "allPassed": true
+  },
+  "realImageInference": {
+    "reference": true,
+    "heldoutOriginals": 6,
+    "transformations": 4,
+    "structuredValid": 10,
+    "groundingGate": "FAIL",
+    "independentHumanReview": false
+  },
+  "transport": {
+    "origin": "https://hidden-data.ouahad.space",
+    "browser": "155.0.8059.85",
+    "httpsVerified": true,
+    "permission": "standard local-network-access granted in isolated test context",
+    "securityExceptions": false,
+    "productionSiteChanged": false,
+    "controlledEvaluationHarness": true
+  },
+  "measurements": {
+    "loadingSeconds": 4.375,
+    "referenceLoadingSeconds": 7.094000000011874,
+    "coldSeconds": 31.905999999988126,
+    "warmMinSeconds": 22.280999999988126,
+    "warmMedianSeconds": 38.76600000000326,
+    "warmMaxSeconds": 56.78200000000652,
+    "preprocessMinSeconds": 0.01600000000325963,
+    "preprocessMaxSeconds": 0.07800000000861473,
+    "peakNativeRSSBytes": 3553243136,
+    "peakNativePrivateBytes": 2865549312,
+    "physicalRAMBytes": 16993001472,
+    "logicalCPUs": 12,
+    "inferenceThreads": 4,
+    "gpuLayers": 0,
+    "maxOutputTokens": 384,
+    "actualOutputTokens": [
+      149,
+      147,
+      139,
+      180,
+      128,
+      159,
+      150,
+      153,
+      149,
+      160
+    ],
+    "normalUnloadSeconds": 1.1409999999741558,
+    "httpsCancellationMs": 1137.4000000059605,
+    "parentCrashChildTerminationSeconds": 0.375
+  },
+  "release": {
+    "routes": [
+      "/_global-error/page",
+      "/_not-found/page",
+      "/page"
+    ],
+    "inspectedOutputFiles": 78,
+    "modelAssetsFound": false,
+    "companionSourceExcludedFromCliUpload": true
+  },
+  "distribution": {
+    "platform": "Windows x64",
+    "archive": "companion-dist/HiddenData-AI-Companion-Windows-x64.zip",
+    "archiveBytes": 21977763,
+    "archiveSha256": "d9dce95ff1b222dfb7decbc843684fc5b4fed1956bb7e5373377e088f182ea18",
+    "uncompressedBytes": 56158175,
+    "verifiedFiles": 2088,
+    "signed": false,
+    "published": false,
+    "modelWeightsIncluded": false
+  },
+  "limitations": [
+    "Grounding gate failed: no production promotion.",
+    "No independent human quality review.",
+    "Windows x64 only; unsigned portable package, no public model distribution or installer publication.",
+    "Native window launch/initial layout/exit observed; complete final GUI import/start/stop interaction not verified because computer-use capture repeatedly returned the foreground browser rather than the companion. Packaged-runtime import/start/stop/cancel/crash cleanup verified independently.",
+    "Other browsers, physical mobile, GPU, lower-memory devices and cross-platform distribution untested."
+  ],
+  "prohibitedActions": {
+    "commit": false,
+    "push": false,
+    "merge": false,
+    "deploy": false,
+    "phase04": false
+  }
+}

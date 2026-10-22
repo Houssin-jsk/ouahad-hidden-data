@@ -1,0 +1,1775 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 15,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "81536355": {
+        "pageid": 81536355,
+        "ns": 6,
+        "title": "File:Shanghai Restaurant - August 2019 - Stierch 08.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4045503,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Shanghai_Restaurant_-_August_2019_-_Stierch_08.jpg/960px-Shanghai_Restaurant_-_August_2019_-_Stierch_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Shanghai_Restaurant_-_August_2019_-_Stierch_08.jpg/1920px-Shanghai_Restaurant_-_August_2019_-_Stierch_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Shanghai_Restaurant_-_August_2019_-_Stierch_08.jpg/960px-Shanghai_Restaurant_-_August_2019_-_Stierch_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Shanghai_Restaurant_-_August_2019_-_Stierch_08.jpg/1920px-Shanghai_Restaurant_-_August_2019_-_Stierch_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Shanghai_Restaurant_-_August_2019_-_Stierch_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shanghai_Restaurant_-_August_2019_-_Stierch_08.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81536355",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-08-22 15:50:43",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Shanghai Restaurant - August 2019 - Stierch 08",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "August 2019 in California|Self-published work|Restaurants in the United States photographed in 2019|United States photographs taken on 2019-08-21|Food photos by Sarah Stierch|2019 in Sonoma, California|Shanghai Restaurant (Sonoma, California)|Tables with food",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Meal at Shanghai Restaurant in Sonoma, California",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 21 August 2019, 18:43:41",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Missvain\" title=\"User:Missvain\">Missvain</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "107402012": {
+        "pageid": 107402012,
+        "ns": 6,
+        "title": "File:HK SW 上環 Sheung Wan 星月樓 Sky Cuisine Restaurant 飲 早茶 breakfast tea meal table cup n teapot July 2021 SS2.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3395002,
+            "width": 3096,
+            "height": 4128,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/HK_SW_%E4%B8%8A%E7%92%B0_Sheung_Wan_%E6%98%9F%E6%9C%88%E6%A8%93_Sky_Cuisine_Restaurant_%E9%A3%B2_%E6%97%A9%E8%8C%B6_breakfast_tea_meal_table_cup_n_teapot_July_2021_SS2.jpg/960px-HK_SW_%E4%B8%8A%E7%92%B0_Sheung_Wan_%E6%98%9F%E6%9C%88%E6%A8%93_Sky_Cuisine_Restaurant_%E9%A3%B2_%E6%97%A9%E8%8C%B6_breakfast_tea_meal_table_cup_n_teapot_July_2021_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1024,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/HK_SW_%E4%B8%8A%E7%92%B0_Sheung_Wan_%E6%98%9F%E6%9C%88%E6%A8%93_Sky_Cuisine_Restaurant_%E9%A3%B2_%E6%97%A9%E8%8C%B6_breakfast_tea_meal_table_cup_n_teapot_July_2021_SS2.jpg/1920px-HK_SW_%E4%B8%8A%E7%92%B0_Sheung_Wan_%E6%98%9F%E6%9C%88%E6%A8%93_Sky_Cuisine_Restaurant_%E9%A3%B2_%E6%97%A9%E8%8C%B6_breakfast_tea_meal_table_cup_n_teapot_July_2021_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/HK_SW_%E4%B8%8A%E7%92%B0_Sheung_Wan_%E6%98%9F%E6%9C%88%E6%A8%93_Sky_Cuisine_Restaurant_%E9%A3%B2_%E6%97%A9%E8%8C%B6_breakfast_tea_meal_table_cup_n_teapot_July_2021_SS2.jpg/960px-HK_SW_%E4%B8%8A%E7%92%B0_Sheung_Wan_%E6%98%9F%E6%9C%88%E6%A8%93_Sky_Cuisine_Restaurant_%E9%A3%B2_%E6%97%A9%E8%8C%B6_breakfast_tea_meal_table_cup_n_teapot_July_2021_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1024,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/HK_SW_%E4%B8%8A%E7%92%B0_Sheung_Wan_%E6%98%9F%E6%9C%88%E6%A8%93_Sky_Cuisine_Restaurant_%E9%A3%B2_%E6%97%A9%E8%8C%B6_breakfast_tea_meal_table_cup_n_teapot_July_2021_SS2.jpg/1920px-HK_SW_%E4%B8%8A%E7%92%B0_Sheung_Wan_%E6%98%9F%E6%9C%88%E6%A8%93_Sky_Cuisine_Restaurant_%E9%A3%B2_%E6%97%A9%E8%8C%B6_breakfast_tea_meal_table_cup_n_teapot_July_2021_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/HK_SW_%E4%B8%8A%E7%92%B0_Sheung_Wan_%E6%98%9F%E6%9C%88%E6%A8%93_Sky_Cuisine_Restaurant_%E9%A3%B2_%E6%97%A9%E8%8C%B6_breakfast_tea_meal_table_cup_n_teapot_July_2021_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_SW_%E4%B8%8A%E7%92%B0_Sheung_Wan_%E6%98%9F%E6%9C%88%E6%A8%93_Sky_Cuisine_Restaurant_%E9%A3%B2_%E6%97%A9%E8%8C%B6_breakfast_tea_meal_table_cup_n_teapot_July_2021_SS2.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=107402012",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-07-10 18:05:11",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK SW 上環 Sheung Wan 星月樓 Sky Cuisine Restaurant 飲 早茶 breakfast tea meal table cup n teapot July 2021 SS2",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Hong Kong photographs taken on 2021-07-10|Files with coordinates missing SDC location of creation|July 2021 in Sheung Wan|Sky Cuisine Chinese Restaurant - Food products|Sky Cuisine Chinese Restaurant in 2021|Sky Cuisine Chinese Restaurant - Breakfast",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.286782",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.151822",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK SW <a href=\"https://zh.wikipedia.org/wiki/%E4%B8%8A%E7%92%B0\" class=\"extiw\" title=\"zh:上環\">zh:上環</a> Sheung Wan 星月樓 Sky Cuisine Restaurant 飲 早茶 breakfast tea meal in July 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-07-10 08:45:13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:NGALuSoI_Faimm\" title=\"User:NGALuSoI Faimm\">NGALuSoI Faimm</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "117576525": {
+        "pageid": 117576525,
+        "ns": 6,
+        "title": "File:Fish meal in Therma.jpg",
+        "index": 14,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3368101,
+            "width": 4608,
+            "height": 3456,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Fish_meal_in_Therma.jpg/960px-Fish_meal_in_Therma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Fish_meal_in_Therma.jpg/1920px-Fish_meal_in_Therma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Fish_meal_in_Therma.jpg/960px-Fish_meal_in_Therma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Fish_meal_in_Therma.jpg/1920px-Fish_meal_in_Therma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Fish_meal_in_Therma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Fish_meal_in_Therma.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=117576525",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-05-01 07:43:42",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Fish meal in Therma",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Seafood restaurants in Greece|Table settings in Greece|Greece photographs taken on 2015-04-17|Flickr images reviewed by FlickreviewR 2|Restaurants in Ikaria|2015 in Ikaria|Therma (Ikaria)|Ikarian food",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Taverna in Therma.IKaria\n<p>The fish in sauce with salad and with bread was 8 Euros.\nI could have eaten spaghetti Bolognese for 5 Euros!\nThe half litre of wine was 3 Euros.\nBut at payment time she only wanted 10 Euros.\nAll fresh, all local produce.\n</p>\nWith a fantastic sea view.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-04-17 17:51:37",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/132886285@N08/17113166869/\">https://www.flickr.com/photos/132886285@N08/17113166869/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "adamansel52",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "170376128": {
+        "pageid": 170376128,
+        "ns": 6,
+        "title": "File:Wild Wild West burger meal, Grill'd Applecross, 2025 (01).jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2650554,
+            "width": 3056,
+            "height": 3056,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Wild_Wild_West_burger_meal%2C_Grill%27d_Applecross%2C_2025_%2801%29.jpg/960px-Wild_Wild_West_burger_meal%2C_Grill%27d_Applecross%2C_2025_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 768,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Wild_Wild_West_burger_meal%2C_Grill%27d_Applecross%2C_2025_%2801%29.jpg/1920px-Wild_Wild_West_burger_meal%2C_Grill%27d_Applecross%2C_2025_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Wild_Wild_West_burger_meal%2C_Grill%27d_Applecross%2C_2025_%2801%29.jpg/960px-Wild_Wild_West_burger_meal%2C_Grill%27d_Applecross%2C_2025_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 768,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Wild_Wild_West_burger_meal%2C_Grill%27d_Applecross%2C_2025_%2801%29.jpg/1920px-Wild_Wild_West_burger_meal%2C_Grill%27d_Applecross%2C_2025_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Wild_Wild_West_burger_meal%2C_Grill%27d_Applecross%2C_2025_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wild_Wild_West_burger_meal,_Grill%27d_Applecross,_2025_(01).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=170376128",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-07-20 07:19:32",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Wild Wild West burger meal, Grill'd Applecross, 2025 (01)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Ardross, Western Australia|Self-published work|Images by Bahnfrend|Files with coordinates missing SDC location of creation|Brown tables|Interiors of restaurants in Western Australia|Restaurants in Australia photographed in 2025|Meals in the 2020s|July 2025 in Perth, Western Australia|Australia photographs taken on 2025-07-09|Lipton Ice Tea|Food on white plates|Iced tea in Australia|Ceramic cups|Knife handles|Tea and food|French fry holders|Fast food meals|Lunch in Australia|Plates with food in Australia|Taken with Samsung Galaxy A14 5G|Burgers and fries in Australia|Round corner rectangle plates|Beverage with plastic bottles|Fast food restaurant French fries|Bottles in Australia|Bottled products with label|Tea bottles|Beverages in Australia photographed in 2025|Food in Australia photographed in 2025|Food and drink by restaurant in Perth|Wooden tables in Australia|Fast food restaurants in Perth, Western Australia|Grill'd restaurants|Grill'd products|Views of food from above|Views of beverages from above|Cutlery holders|Tables with food in Australia|Ceramic plates with food in Australia",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-32.021008",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "115.835047",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A self-assembled meal at Grill'd Applecross, made up of a Wild Wild West burger in a traditional bun, a regular Famous Grill'd Chips, and a bottle of Lipton's no sugar peach flavour ice tea",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-07-09 15:14:00",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Bahnfrend\" title=\"User:Bahnfrend\">Bahnfrend</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "180299797": {
+        "pageid": 180299797,
+        "ns": 6,
+        "title": "File:Large Bacon Deluxe Value Meal, Hungry Jack's Cannington Carousel, 2025 (01).jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3976500,
+            "width": 3060,
+            "height": 4080,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Large_Bacon_Deluxe_Value_Meal%2C_Hungry_Jack%27s_Cannington_Carousel%2C_2025_%2801%29.jpg/960px-Large_Bacon_Deluxe_Value_Meal%2C_Hungry_Jack%27s_Cannington_Carousel%2C_2025_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1024,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Large_Bacon_Deluxe_Value_Meal%2C_Hungry_Jack%27s_Cannington_Carousel%2C_2025_%2801%29.jpg/1920px-Large_Bacon_Deluxe_Value_Meal%2C_Hungry_Jack%27s_Cannington_Carousel%2C_2025_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Large_Bacon_Deluxe_Value_Meal%2C_Hungry_Jack%27s_Cannington_Carousel%2C_2025_%2801%29.jpg/960px-Large_Bacon_Deluxe_Value_Meal%2C_Hungry_Jack%27s_Cannington_Carousel%2C_2025_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1024,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Large_Bacon_Deluxe_Value_Meal%2C_Hungry_Jack%27s_Cannington_Carousel%2C_2025_%2801%29.jpg/1920px-Large_Bacon_Deluxe_Value_Meal%2C_Hungry_Jack%27s_Cannington_Carousel%2C_2025_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Large_Bacon_Deluxe_Value_Meal%2C_Hungry_Jack%27s_Cannington_Carousel%2C_2025_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Large_Bacon_Deluxe_Value_Meal,_Hungry_Jack%27s_Cannington_Carousel,_2025_(01).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=180299797",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-12-19 13:41:54",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Large Bacon Deluxe Value Meal, Hungry Jack's Cannington Carousel, 2025 (01)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Giveaways|Cannington, Western Australia|Self-published work|Images by Bahnfrend|Files with coordinates missing SDC location of creation|Red tables|Interiors of restaurants in Western Australia|Restaurants in Australia photographed in 2025|Meals in the 2020s|Soft drink cups|November 2025 in Perth, Western Australia|Australia photographs taken on 2025-11-12|Food with soft drink|Paper cups with drinking straws|Paper napkins with food|Wrapped food|Paper packaging|Fast food meals|Lunch in Australia|Taken with Samsung Galaxy A14 5G|Burgers and fries in Australia|Drinking glasses in Australia|Hungry Jack's in 2025|Beverages in Australia photographed in 2025|Food in Australia photographed in 2025|Food and drink by restaurant in Perth|Hungry Jack's restaurants in Perth, Western Australia|Hungry Jack's products|Views of food from above|Views of beverages from above|Tables with food in Australia",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-32.020528",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "115.936611",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Large Bacon Deluxe Value Meal (with free glass), Hungry Jack's Cannington Carousel",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-11-12 14:55:07",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Bahnfrend\" title=\"User:Bahnfrend\">Bahnfrend</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "181311191": {
+        "pageid": 181311191,
+        "ns": 6,
+        "title": "File:Dinner, Eastern Burger Restaurant, 2023 (01).jpg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1027603,
+            "width": 2048,
+            "height": 1536,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Dinner%2C_Eastern_Burger_Restaurant%2C_2023_%2801%29.jpg/960px-Dinner%2C_Eastern_Burger_Restaurant%2C_2023_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Dinner%2C_Eastern_Burger_Restaurant%2C_2023_%2801%29.jpg/1920px-Dinner%2C_Eastern_Burger_Restaurant%2C_2023_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Dinner%2C_Eastern_Burger_Restaurant%2C_2023_%2801%29.jpg/960px-Dinner%2C_Eastern_Burger_Restaurant%2C_2023_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Dinner%2C_Eastern_Burger_Restaurant%2C_2023_%2801%29.jpg/1920px-Dinner%2C_Eastern_Burger_Restaurant%2C_2023_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Dinner%2C_Eastern_Burger_Restaurant%2C_2023_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dinner,_Eastern_Burger_Restaurant,_2023_(01).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=181311191",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-01-05 21:40:36",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Dinner, Eastern Burger Restaurant, 2023 (01)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Samsung Galaxy J2 (2018)|Gricenfor|Self-published work|Chinese style restaurants in East Timor|Images by Bahnfrend|East Timor photographs taken on 2023-08-25|Dinner in East Timor|Interiors of restaurants|Files with coordinates missing SDC location of creation|Gray tables|Restaurants photographed in 2023|Bowls with food|Meals in the 2020s|Food photographed in 2023|Beverages photographed in 2023|White bowls|Views of food from above|Views of beverages from above",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-8.552389",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "125.584917",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Dinner, Eastern\n Burger Restaurant, Dili, Timor-Leste",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-08-25 20:29:11",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Bahnfrend\" title=\"User:Bahnfrend\">Bahnfrend</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "181546112": {
+        "pageid": 181546112,
+        "ns": 6,
+        "title": "File:Pegasus Meal, Zeus Street Greek Westfield Carousel, 2026 (01).jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3162953,
+            "width": 2833,
+            "height": 2832,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Pegasus_Meal%2C_Zeus_Street_Greek_Westfield_Carousel%2C_2026_%2801%29.jpg/960px-Pegasus_Meal%2C_Zeus_Street_Greek_Westfield_Carousel%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 768,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Pegasus_Meal%2C_Zeus_Street_Greek_Westfield_Carousel%2C_2026_%2801%29.jpg/1920px-Pegasus_Meal%2C_Zeus_Street_Greek_Westfield_Carousel%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Pegasus_Meal%2C_Zeus_Street_Greek_Westfield_Carousel%2C_2026_%2801%29.jpg/960px-Pegasus_Meal%2C_Zeus_Street_Greek_Westfield_Carousel%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 768,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Pegasus_Meal%2C_Zeus_Street_Greek_Westfield_Carousel%2C_2026_%2801%29.jpg/1920px-Pegasus_Meal%2C_Zeus_Street_Greek_Westfield_Carousel%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Pegasus_Meal%2C_Zeus_Street_Greek_Westfield_Carousel%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pegasus_Meal,_Zeus_Street_Greek_Westfield_Carousel,_2026_(01).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=181546112",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-01-10 02:49:24",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Pegasus Meal, Zeus Street Greek Westfield Carousel, 2026 (01)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Coca-Cola Zero|Self-published work|Images by Bahnfrend|Files with coordinates missing SDC location of creation|Brown tables|Interiors of restaurants in Western Australia|Restaurants in Australia photographed in 2026|Meals in the 2020s|Nick Kyrgios in 2026|January 2026 in Perth, Western Australia|Paper napkins with food|French fry holders|Chips in Australia|Cardboard food boxes|Lunch in Australia|Taken with Samsung Galaxy A14 5G|Coca-Cola in Australia|Beverage with plastic bottles|Gyros in Australia|Bottles in Australia|Bottled products with label|Food and drink by restaurant in Perth|Wooden tables in Australia|Fast food restaurants in Perth, Western Australia|Australia photographs taken on 2026-01-05|Zeus Street Greek restaurants|Zeus Street Greek products|French fries as a side dish|Beverages in Australia photographed in 2026|Food in Australia photographed in 2026|Views of food from above|Side views of beverages|Interior of Westfield Carousel|Tables with food in Australia",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-32.016339",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "115.942978",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A Pegasus Meal served in collaboration with Nick Kyrgios at Zeus Street Greek Westfield Carousel: it is described as \"Flame-grilled chicken pita with Nick’s spicy sambal-tamarind aioli, Yia Yia’s chips and a soft drink\" (Coke Zero in this case)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-01-05 12:25:59",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Bahnfrend\" title=\"User:Bahnfrend\">Bahnfrend</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "The box is not subject to copyright because it is of a generic design, and the printing on the box, and the bottle, are not to be treated as copyrightable as the photograph is of the box, bottle, wrappings and food as a whole (with the point being to capture them in their entirety). More specifically, the design on the box, and the bottle, are <i>de minimis</i>, as the photograph is of the box, bottle, wrappings and food as a whole, and the designs and the shape of the bottle, are therefore incidental. See <i><a href=\"https://en.wikisource.org/wiki/en:Ets-Hokin_v._Skyy_Spirits_Inc.\" class=\"extiw\" title=\"s:en:Ets-Hokin v. Skyy Spirits Inc.\">Ets-Hokin v. Skyy Spirits, Inc.</a></i>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "182681348": {
+        "pageid": 182681348,
+        "ns": 6,
+        "title": "File:Sweet Chilli Chicken burger meal, Grill'd Fremantle, 2026 (01).jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3169454,
+            "width": 2457,
+            "height": 3274,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Sweet_Chilli_Chicken_burger_meal%2C_Grill%27d_Fremantle%2C_2026_%2801%29.jpg/960px-Sweet_Chilli_Chicken_burger_meal%2C_Grill%27d_Fremantle%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1023,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Sweet_Chilli_Chicken_burger_meal%2C_Grill%27d_Fremantle%2C_2026_%2801%29.jpg/1920px-Sweet_Chilli_Chicken_burger_meal%2C_Grill%27d_Fremantle%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Sweet_Chilli_Chicken_burger_meal%2C_Grill%27d_Fremantle%2C_2026_%2801%29.jpg/960px-Sweet_Chilli_Chicken_burger_meal%2C_Grill%27d_Fremantle%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1023,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Sweet_Chilli_Chicken_burger_meal%2C_Grill%27d_Fremantle%2C_2026_%2801%29.jpg/1920px-Sweet_Chilli_Chicken_burger_meal%2C_Grill%27d_Fremantle%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Sweet_Chilli_Chicken_burger_meal%2C_Grill%27d_Fremantle%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sweet_Chilli_Chicken_burger_meal,_Grill%27d_Fremantle,_2026_(01).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=182681348",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-01-29 15:37:57",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Sweet Chilli Chicken burger meal, Grill'd Fremantle, 2026 (01)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Fremantle, Western Australia|Chicken sandwiches (burger-type)|Self-published work|Images by Bahnfrend|Files with coordinates missing SDC location of creation|Brown tables|Interiors of restaurants in Western Australia|Restaurants in Australia photographed in 2026|Meals in the 2020s|Lipton Ice Tea|January 2026 in Fremantle|Australia photographs taken on 2026-01-15|Food on white plates|Iced tea in Australia|Ceramic cups|Knife handles|Tea and food|French fry holders|Fast food meals|Dinner in Australia|Taken with Samsung Galaxy A14 5G|Burgers and fries in Australia|Round corner rectangle plates|Night in Fremantle|Beverage with plastic bottles|Fast food restaurant French fries|Bottles in Australia|Bottled products with label|Tea bottles|Food and drink by restaurant in Perth|Fast food restaurants in Perth, Western Australia|Grill'd restaurants|Grill'd products|Beverages in Australia photographed in 2026|Food in Australia photographed in 2026|Views of food from above|Views of beverages from above|Cutlery holders|Tables with food in Australia|Ceramic plates with food in Australia",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-32.055933",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "115.747636",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A self-assembled meal at Grill'd Fremantle, made up of a Sweet Chilli Chicken burger in a traditional bun, a regular Famous Grill'd Chips, and a bottle of Lipton's no sugar peach flavour ice tea",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-01-15 21:23:51",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Bahnfrend\" title=\"User:Bahnfrend\">Bahnfrend</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "190429834": {
+        "pageid": 190429834,
+        "ns": 6,
+        "title": "File:Chicken quarter meal, Two Peck Crispy Chicken Cannington, 2026 (01).jpg",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5367662,
+            "width": 4080,
+            "height": 3060,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Chicken_quarter_meal%2C_Two_Peck_Crispy_Chicken_Cannington%2C_2026_%2801%29.jpg/960px-Chicken_quarter_meal%2C_Two_Peck_Crispy_Chicken_Cannington%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Chicken_quarter_meal%2C_Two_Peck_Crispy_Chicken_Cannington%2C_2026_%2801%29.jpg/1920px-Chicken_quarter_meal%2C_Two_Peck_Crispy_Chicken_Cannington%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Chicken_quarter_meal%2C_Two_Peck_Crispy_Chicken_Cannington%2C_2026_%2801%29.jpg/960px-Chicken_quarter_meal%2C_Two_Peck_Crispy_Chicken_Cannington%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Chicken_quarter_meal%2C_Two_Peck_Crispy_Chicken_Cannington%2C_2026_%2801%29.jpg/1920px-Chicken_quarter_meal%2C_Two_Peck_Crispy_Chicken_Cannington%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Chicken_quarter_meal%2C_Two_Peck_Crispy_Chicken_Cannington%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Chicken_quarter_meal,_Two_Peck_Crispy_Chicken_Cannington,_2026_(01).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=190429834",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-04-26 09:59:10",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Chicken quarter meal, Two Peck Crispy Chicken Cannington, 2026 (01)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Coca-Cola Zero|Self-published work|Coca-Cola cans|Images by Bahnfrend|Files with coordinates missing SDC location of creation|Black food trays|White tables|Interiors of restaurants in Western Australia|Restaurants in Australia photographed in 2026|Meals in the 2020s|Food courts in Western Australia|March 2026 in Perth, Western Australia|Food with Cola drinks|Fried chicken in Australia|Shopping mall food courts|Chips in Australia|Fast food meals|Plastic food trays|Trays with food in Australia|Lunch in Australia|Taken with Samsung Galaxy A14 5G|Expanded polystyrene food boxes|Fast food restaurant French fries|Pineapple fritters|Australia photographs taken on 2026-03-31|Food and drink by restaurant in Perth|Fast food restaurants in Perth, Western Australia|Chicken quarter dishes|French fries as a side dish|Beverages in Australia photographed in 2026|Food in Australia photographed in 2026|Views of food from above|Views of beverages from above|Interior of Westfield Carousel|Two Peck Crispy Chicken products",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-32.017687",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "115.937463",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Chicken quarter meal, Two Peck Crispy Chicken Cannington",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-03-31 13:02:29",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Bahnfrend\" title=\"User:Bahnfrend\">Bahnfrend</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "192591467": {
+        "pageid": 192591467,
+        "ns": 6,
+        "title": "File:Large Bistro Whopper Value Meal, Hungry Jack's Perth International Airport, 2026 (01).jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3104471,
+            "width": 2924,
+            "height": 2920,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Large_Bistro_Whopper_Value_Meal%2C_Hungry_Jack%27s_Perth_International_Airport%2C_2026_%2801%29.jpg/960px-Large_Bistro_Whopper_Value_Meal%2C_Hungry_Jack%27s_Perth_International_Airport%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 767,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Large_Bistro_Whopper_Value_Meal%2C_Hungry_Jack%27s_Perth_International_Airport%2C_2026_%2801%29.jpg/1920px-Large_Bistro_Whopper_Value_Meal%2C_Hungry_Jack%27s_Perth_International_Airport%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Large_Bistro_Whopper_Value_Meal%2C_Hungry_Jack%27s_Perth_International_Airport%2C_2026_%2801%29.jpg/960px-Large_Bistro_Whopper_Value_Meal%2C_Hungry_Jack%27s_Perth_International_Airport%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 767,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Large_Bistro_Whopper_Value_Meal%2C_Hungry_Jack%27s_Perth_International_Airport%2C_2026_%2801%29.jpg/1920px-Large_Bistro_Whopper_Value_Meal%2C_Hungry_Jack%27s_Perth_International_Airport%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Large_Bistro_Whopper_Value_Meal%2C_Hungry_Jack%27s_Perth_International_Airport%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Large_Bistro_Whopper_Value_Meal,_Hungry_Jack%27s_Perth_International_Airport,_2026_(01).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=192591467",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-05-22 14:30:59",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Large Bistro Whopper Value Meal, Hungry Jack's Perth International Airport, 2026 (01)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Perth Airport Terminal 1 - International|Self-published work|Images by Bahnfrend|Files with coordinates missing SDC location of creation|Brown tables|Interiors of restaurants in Western Australia|Restaurants in Australia photographed in 2026|Meals in the 2020s|Soft drink cups|Food with soft drink|Paper cups with drinking straws|Fast food meals|Taken with Samsung Galaxy A14 5G|Burgers and fries in Australia|Shop paper bags|Breakfast in Australia|Australia photographs taken on 2026-05-19|Food and drink by restaurant in Perth|Hungry Jack's restaurants in Perth, Western Australia|Beverages in Australia photographed in 2026|Food in Australia photographed in 2026|Views of food from above|Views of beverages from above|May 2026 at Perth Airport|Hungry Jack's in 2026|Whopper with Cheese in Australia|Aviation photographs taken on 2026-05-19|Tables with food in Australia",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-31.941266",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "115.974280",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Large Bistro Whopper Value Meal, Hungry Jack's Perth International Airport, with the Whopper described as \"100% flame-grilled Aussie beef topped with melted Swiss cheese, Grilled Onions, Peppercorn Sauce, Tomato, Lettuce and Mayo on a toasted sesame seed bun.\"",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-05-19 04:39:31",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Bahnfrend\" title=\"User:Bahnfrend\">Bahnfrend</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "195923978": {
+        "pageid": 195923978,
+        "ns": 6,
+        "title": "File:Jordanian Traditional Mansaf, Petra Restaurant, 2026 (01).jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2172531,
+            "width": 3356,
+            "height": 2237,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Jordanian_Traditional_Mansaf%2C_Petra_Restaurant%2C_2026_%2801%29.jpg/960px-Jordanian_Traditional_Mansaf%2C_Petra_Restaurant%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 512,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Jordanian_Traditional_Mansaf%2C_Petra_Restaurant%2C_2026_%2801%29.jpg/1920px-Jordanian_Traditional_Mansaf%2C_Petra_Restaurant%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Jordanian_Traditional_Mansaf%2C_Petra_Restaurant%2C_2026_%2801%29.jpg/960px-Jordanian_Traditional_Mansaf%2C_Petra_Restaurant%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 512,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Jordanian_Traditional_Mansaf%2C_Petra_Restaurant%2C_2026_%2801%29.jpg/1920px-Jordanian_Traditional_Mansaf%2C_Petra_Restaurant%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Jordanian_Traditional_Mansaf%2C_Petra_Restaurant%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jordanian_Traditional_Mansaf,_Petra_Restaurant,_2026_(01).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195923978",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-07-20 04:37:12",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Jordanian Traditional Mansaf, Petra Restaurant, 2026 (01)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Victoria Park, Western Australia|Mansaf|Self-published work|Australia photographs taken on 2023-07-19|Images by Bahnfrend|Files with coordinates missing SDC location of creation|Brown tables|Interiors of restaurants in Western Australia|Restaurants in Australia photographed in 2026|Meals in the 2020s|Food on white plates|Lunch in Australia|Taken with Samsung Galaxy A14 5G|Lamb dishes of Australia|Stainless steel knives|July 2026 in Perth, Western Australia|Food and drink by restaurant in Perth|Rice meals in Australia|Table knives in Australia|Food in Australia photographed in 2026|Views of food from above|Arab cuisine in Australia|Ceramic plates with food in Australia",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-31.973853",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "115.896735",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Jordanian Traditional Mansaf, served at Petra Restaurant, Victoria Park, Western Australia",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-07-19 13:27:23",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Bahnfrend\" title=\"User:Bahnfrend\">Bahnfrend</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "195924067": {
+        "pageid": 195924067,
+        "ns": 6,
+        "title": "File:Tabuleh, Petra Restaurant, 2026 (01).jpg",
+        "index": 13,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3342602,
+            "width": 2934,
+            "height": 2934,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Tabuleh%2C_Petra_Restaurant%2C_2026_%2801%29.jpg/960px-Tabuleh%2C_Petra_Restaurant%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 768,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Tabuleh%2C_Petra_Restaurant%2C_2026_%2801%29.jpg/1920px-Tabuleh%2C_Petra_Restaurant%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Tabuleh%2C_Petra_Restaurant%2C_2026_%2801%29.jpg/960px-Tabuleh%2C_Petra_Restaurant%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 768,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Tabuleh%2C_Petra_Restaurant%2C_2026_%2801%29.jpg/1920px-Tabuleh%2C_Petra_Restaurant%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Tabuleh%2C_Petra_Restaurant%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tabuleh,_Petra_Restaurant,_2026_(01).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195924067",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-07-20 04:41:49",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Tabuleh, Petra Restaurant, 2026 (01)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Tabbouleh|Victoria Park, Western Australia|Self-published work|Australia photographs taken on 2023-07-19|Images by Bahnfrend|Interiors of restaurants in Australia|Files with coordinates missing SDC location of creation|Brown tables|Restaurants in Australia photographed in 2026|Meals in the 2020s|White bowls|Lunch in Australia|Taken with Samsung Galaxy A14 5G|Salads of Australia|July 2026 in Perth, Western Australia|Food and drink by restaurant in Perth|Food in Australia photographed in 2026|Views of food from above|Arab cuisine in Australia|Ceramic bowls with food",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-31.973853",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "115.896735",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Tabuleh served at Petra Restaurant, Victoria Park, Western Australia",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-07-19 13:02:26",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:Bahnfrend\" title=\"User:Bahnfrend\">Bahnfrend</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "195924212": {
+        "pageid": 195924212,
+        "ns": 6,
+        "title": "File:4pcs Falafel, Petra Restaurant, 2026 (01).jpg",
+        "index": 15,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5096617,
+            "width": 4080,
+            "height": 3060,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/4pcs_Falafel%2C_Petra_Restaurant%2C_2026_%2801%29.jpg/960px-4pcs_Falafel%2C_Petra_Restaurant%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/4pcs_Falafel%2C_Petra_Restaurant%2C_2026_%2801%29.jpg/1920px-4pcs_Falafel%2C_Petra_Restaurant%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/4pcs_Falafel%2C_Petra_Restaurant%2C_2026_%2801%29.jpg/960px-4pcs_Falafel%2C_Petra_Restaurant%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/4pcs_Falafel%2C_Petra_Restaurant%2C_2026_%2801%29.jpg/1920px-4pcs_Falafel%2C_Petra_Restaurant%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/4pcs_Falafel%2C_Petra_Restaurant%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:4pcs_Falafel,_Petra_Restaurant,_2026_(01).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195924212",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-07-20 05:04:48",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "4pcs Falafel, Petra Restaurant, 2026 (01)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Falafel|Flatbread|Victoria Park, Western Australia|Self-published work|Australia photographs taken on 2023-07-19|Images by Bahnfrend|Interiors of restaurants in Australia|Files with coordinates missing SDC location of creation|Brown tables|Restaurants in Australia photographed in 2026|Meals in the 2020s|Food on white plates|Rectangular plates|Lunch in Australia|Plates with food in Australia|Taken with Samsung Galaxy A14 5G|Plates with salad|Salads of Australia|July 2026 in Perth, Western Australia|Food and drink by restaurant in Perth|Food in Australia photographed in 2026|Views of food from above|Arab cuisine in Australia|Ceramic plates with food in Australia",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-31.973853",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "115.896735",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "4pcs Falafel served at Petra Restaurant, Victoria Park, Western Australia",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-07-19 13:04:00",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Bahnfrend\" title=\"User:Bahnfrend\">Bahnfrend</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "200904801": {
+        "pageid": 200904801,
+        "ns": 6,
+        "title": "File:'Baa Baa' burger meal, Grill'd William Street, 2026 (01).jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5320811,
+            "width": 4008,
+            "height": 3007,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/%27Baa_Baa%27_burger_meal%2C_Grill%27d_William_Street%2C_2026_%2801%29.jpg/960px-%27Baa_Baa%27_burger_meal%2C_Grill%27d_William_Street%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/%27Baa_Baa%27_burger_meal%2C_Grill%27d_William_Street%2C_2026_%2801%29.jpg/1920px-%27Baa_Baa%27_burger_meal%2C_Grill%27d_William_Street%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/%27Baa_Baa%27_burger_meal%2C_Grill%27d_William_Street%2C_2026_%2801%29.jpg/960px-%27Baa_Baa%27_burger_meal%2C_Grill%27d_William_Street%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/%27Baa_Baa%27_burger_meal%2C_Grill%27d_William_Street%2C_2026_%2801%29.jpg/1920px-%27Baa_Baa%27_burger_meal%2C_Grill%27d_William_Street%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/%27Baa_Baa%27_burger_meal%2C_Grill%27d_William_Street%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%27Baa_Baa%27_burger_meal,_Grill%27d_William_Street,_2026_(01).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=200904801",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-10-03 14:40:03",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "'Baa Baa' burger meal, Grill'd William Street, 2026 (01)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Lamb burgers|Self-published work|Images by Bahnfrend|Files with coordinates missing SDC location of creation|Brown tables|Interiors of restaurants in Western Australia|Restaurants in Australia photographed in 2026|Meals in the 2020s|Food on white plates|Ceramic cups|Knife handles|Fast food meals|Cardboard food boxes|Lunch in Australia|Round corner rectangle plates|Chicken bites|Portion cups with food|September 2026 in Perth, Western Australia|Taken with Samsung Galaxy A17 5G|Food and drink by restaurant in Perth|Australia photographs taken on 2026-09-20|Fast food restaurants in Perth, Western Australia|Grill'd restaurants|Grill'd products|Food in Australia photographed in 2026|Views of food from above|Cutlery holders|Tables with food in Australia|Ceramic plates with food in Australia|Cardboard boxes in Australia",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-31.952110",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "115.857736",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A self-assembled meal at Grill'd William Street, made up of a 'Baa Baa' burger in a panini bun (described as \"Pasture-raised, premium lamb patty w/ tasty cheese, avocado, cos lettuce, tomato, Spanish onion, relish &amp; herbed mayo ... [s]erved on our Hi Fibre Lo GI Panini bun\"), and a box of 9 \"Healthy Fried Chicken Bites\"",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-09-20 14:32:46",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Bahnfrend\" title=\"User:Bahnfrend\">Bahnfrend</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "200904819": {
+        "pageid": 200904819,
+        "ns": 6,
+        "title": "File:'Baa Baa' burger meal, Grill'd William Street, 2026 (02).jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5358041,
+            "width": 4023,
+            "height": 3017,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/%27Baa_Baa%27_burger_meal%2C_Grill%27d_William_Street%2C_2026_%2802%29.jpg/960px-%27Baa_Baa%27_burger_meal%2C_Grill%27d_William_Street%2C_2026_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/%27Baa_Baa%27_burger_meal%2C_Grill%27d_William_Street%2C_2026_%2802%29.jpg/1920px-%27Baa_Baa%27_burger_meal%2C_Grill%27d_William_Street%2C_2026_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/%27Baa_Baa%27_burger_meal%2C_Grill%27d_William_Street%2C_2026_%2802%29.jpg/960px-%27Baa_Baa%27_burger_meal%2C_Grill%27d_William_Street%2C_2026_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/%27Baa_Baa%27_burger_meal%2C_Grill%27d_William_Street%2C_2026_%2802%29.jpg/1920px-%27Baa_Baa%27_burger_meal%2C_Grill%27d_William_Street%2C_2026_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/%27Baa_Baa%27_burger_meal%2C_Grill%27d_William_Street%2C_2026_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%27Baa_Baa%27_burger_meal,_Grill%27d_William_Street,_2026_(02).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=200904819",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-10-03 14:40:13",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "'Baa Baa' burger meal, Grill'd William Street, 2026 (02)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Lamb burgers|Self-published work|Images by Bahnfrend|Files with coordinates missing SDC location of creation|Brown tables|Interiors of restaurants in Western Australia|Restaurants in Australia photographed in 2026|Meals in the 2020s|Food on white plates|Ceramic cups|Knife handles|Open food boxes|Fast food meals|Cardboard food boxes|Lunch in Australia|Round corner rectangle plates|Chicken bites|Portion cups with food|September 2026 in Perth, Western Australia|Taken with Samsung Galaxy A17 5G|Food and drink by restaurant in Perth|Australia photographs taken on 2026-09-20|Fast food restaurants in Perth, Western Australia|Grill'd restaurants|Grill'd products|Food in Australia photographed in 2026|Views of food from above|Cutlery holders|Tables with food in Australia|Ceramic plates with food in Australia|Cardboard boxes in Australia",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-31.952130",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "115.857748",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A self-assembled meal at Grill'd William Street, made up of a 'Baa Baa' burger in a panini bun (described as \"Pasture-raised, premium lamb patty w/ tasty cheese, avocado, cos lettuce, tomato, Spanish onion, relish &amp; herbed mayo ... [s]erved on our Hi Fibre Lo GI Panini bun\"), and a box of 9 \"Healthy Fried Chicken Bites\"",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-09-20 14:33:29",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Bahnfrend\" title=\"User:Bahnfrend\">Bahnfrend</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

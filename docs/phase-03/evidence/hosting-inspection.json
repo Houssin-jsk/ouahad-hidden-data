@@ -1,0 +1,24 @@
+{
+  "checkedDate": "2026-10-21",
+  "mode": "read-only",
+  "project": "ouahad-hidden-data",
+  "projectId": "prj_FvVAFdh3F40jVALigGo5PKUNH5Ci",
+  "teamId": "team_5in7qS71jvCu1cRcEACIpdKK",
+  "projectList": "success",
+  "projectDetail": {
+    "status": 403,
+    "reason": "Connection lacks grant for houssin-jsks-projects scope",
+    "requestId": "arn1:sfo1::tgq5q-1792543478063-a560b6c302f2"
+  },
+  "cliVersion": "56.5.0",
+  "cliFallbacks": [
+    {"scope":"team_5in7qS71jvCu1cRcEACIpdKK","action":"project inspect ouahad-hidden-data --non-interactive","exitCode":1,"result":"The specified scope does not exist"},
+    {"scope":"houssin-jsks-projects","action":"project inspect ouahad-hidden-data --non-interactive","exitCode":1,"result":"The specified scope does not exist"}
+  ],
+  "localVercelBinding": false,
+  "actualPlanVerified": false,
+  "productionModelHostingVerified": false,
+  "productionModified": false,
+  "references": ["https://vercel.com/docs/limits", "https://vercel.com/docs/errors/function_payload_too_large"],
+  "interpretation": "100MB Hobby/1GB Pro limits describe total CLI source upload, not individual static file limits. No model selected; no asset hosting provisioned. Existing research streaming routes are not certified production delivery. Grant target-team access only if future detailed inspection is needed."
+}

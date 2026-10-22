@@ -1,0 +1,1102 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 10,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "36218504": {
+        "pageid": 36218504,
+        "ns": 6,
+        "title": "File:Interior of living room 01.JPG",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4542330,
+            "width": 2816,
+            "height": 2112,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Interior_of_living_room_01.JPG/960px-Interior_of_living_room_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Interior_of_living_room_01.JPG/1920px-Interior_of_living_room_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Interior_of_living_room_01.JPG/960px-Interior_of_living_room_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Interior_of_living_room_01.JPG/1920px-Interior_of_living_room_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Interior_of_living_room_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Interior_of_living_room_01.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=36218504",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-10-17 21:48:49",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Interior of living room 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon PowerShot S3 IS|Coffee tables|Round tables|Stands (support furniture)|Self-published work|Wooden tables|Images by Andrey Korzun|Lamps in Russia|Living rooms in Russia|Tables in Russia|Vintage tables|Coffee sets|Upholstered chairs|Vintage chairs|Furniture in the State Museum of the History of Saint Petersburg|Vintage lamps|Chairs in Saint Petersburg",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Saint Petersburg. Museum of history of St.-Petersburg (an exposition in the Commandant's house of the Peter and Paul Fortress). IItems of interior of living room of the early twentieth century.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2007-06-12 18:26:13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:Andrey_Korzun\" title=\"User:Andrey Korzun\">Andrey Korzun</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "41855185": {
+        "pageid": 41855185,
+        "ns": 6,
+        "title": "File:Interieur woonkamer - Living Room Interior (5260603106).jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 167342,
+            "width": 1280,
+            "height": 954,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Interieur_woonkamer_-_Living_Room_Interior_%285260603106%29.jpg/960px-Interieur_woonkamer_-_Living_Room_Interior_%285260603106%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 572,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Interieur_woonkamer_-_Living_Room_Interior_%285260603106%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Interieur_woonkamer_-_Living_Room_Interior_%285260603106%29.jpg/960px-Interieur_woonkamer_-_Living_Room_Interior_%285260603106%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 572,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Interieur_woonkamer_-_Living_Room_Interior_%285260603106%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Interieur_woonkamer_-_Living_Room_Interior_%285260603106%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Interieur_woonkamer_-_Living_Room_Interior_(5260603106).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=41855185",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-07-26 04:08:28",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Interieur woonkamer - Living Room Interior (5260603106)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Living rooms|Photos uploaded from Flickr by Fæ using a script|Flickr images reviewed by FlickreviewR|Furniture in the Netherlands|Files from Flickr's 'The Commons'|Sepia photographs of the Netherlands|Photographs by Het Nieuwe Instituut|Images from Het Nieuwe Instituut requiring sorting by time period",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<b>Interieur woonkamer. Architect / ontwerper: J.B. van Loghem. </b><br>\n<p>Fotograaf: onbekend. Collectie NAi / TENT_o467<br>\nURL van deze afbeelding: <a rel=\"nofollow\" class=\"external text\" href=\"http://zoeken.nai.nl/CIS/object/4808\">zoeken.nai.nl/CIS/object/4808</a><br>\nMeer foto's uit deze collectie kunt u bekijken in de <a rel=\"nofollow\" class=\"external text\" href=\"http://zoeken.nai.nl\">Collectiedatabase</a> van het NAi. <br>\nNiet van alle gebouwen en interieurs zijn alle gegevens bekend. Heeft u meer informatie of weet u het adres van een gebouw? Laat dan een reactie achter (als u ingelogd bent bij Flickr) of stuur een mailtje naar: flickr@nai.nl <br>\nAl deze foto's zijn gemaakt in de eerste helft van de twintigste eeuw. Wij zijn benieuwd hoe deze gebouwen er vandaag de dag uitzien. Heeft u recente foto's van deze gebouwen of locaties, voeg ze dan toe als commentaar. U kunt een eigen Flickr-foto toevoegen door de URL ervan tussen vierkante haken in het commentaarveld te plakken. Als uw foto's een Creative Commons licentie hebben, nemen we ze bovendien graag op in de NAi Collectiedatabase. <br>\n<br>\n<b>Living Room Interior. Architect / designer: J.B. van Loghem. </b><br>\nPhotographer: unknown. NAI Collection / TENT_o467<br>\nPersistent URL: <a rel=\"nofollow\" class=\"external text\" href=\"http://zoeken.nai.nl/CIS/object/4808\">zoeken.nai.nl/CIS/object/4808</a><br>\nFor more photographs from this collection, please visit the <a rel=\"nofollow\" class=\"external text\" href=\"http://zoeken.nai.nl\">NAI Collection Database</a><br>\nYou can help us gain more knowledge on the content of our collection by adding a comment with information. If you do not wish to log in, you can write an e-mail to: flickr@nai.nl<br>\n</p>\nAll these pictures are taken in the first half of the twentieth century. We are curious to learn how these buildings look like today. If you have recently taken photographs of these buildings or locations, please add them to your comment. If you'd like to include a Flickr photo, simply copy and paste its URL between square brackets in the commentary-field. Photos with a Creative Commons licence may be used to illustrate the NAi Collection Database.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2009-11-11 10:42:00",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/nai_collection/5260603106/\">https://www.flickr.com/photos/nai_collection/5260603106/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/47154409@N06\">Het Nieuwe Instituut - Architecture Collection</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "At the time of upload, the image license was automatically confirmed using the Flickr <a href=\"https://en.wikipedia.org/wiki/API\" class=\"extiw\" title=\"en:API\">API</a>. For more information see <a href=\"//commons.wikimedia.org/wiki/User:F%C3%A6/Flickr_API_detail\" title=\"User:Fæ/Flickr API detail\">Flickr API detail</a>.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "No restrictions",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "No known copyright restrictions",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://www.flickr.com/commons/usage/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "66665127": {
+        "pageid": 66665127,
+        "ns": 6,
+        "title": "File:Home interior, living room furniture LCCN2016825250.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4025323,
+            "width": 6460,
+            "height": 5106,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Home_interior%2C_living_room_furniture_LCCN2016825250.jpg/960px-Home_interior%2C_living_room_furniture_LCCN2016825250.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 607,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Home_interior%2C_living_room_furniture_LCCN2016825250.jpg/1920px-Home_interior%2C_living_room_furniture_LCCN2016825250.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Home_interior%2C_living_room_furniture_LCCN2016825250.jpg/960px-Home_interior%2C_living_room_furniture_LCCN2016825250.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 607,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Home_interior%2C_living_room_furniture_LCCN2016825250.jpg/1920px-Home_interior%2C_living_room_furniture_LCCN2016825250.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Home_interior%2C_living_room_furniture_LCCN2016825250.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Home_interior,_living_room_furniture_LCCN2016825250.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=66665127",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-06-21 10:47:39",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Home interior, living room furniture LCCN2016825250",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Images from the Library of Congress|Images uploaded by Fæ|PD US no notice|PD-National Photo Company|National Photo Company Collection|Library of Congress-no known copyright restrictions|Media from Library of Congress to categorize",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<i>Title:</i> Home interior, living room furniture\n<i>Abstract/medium:</i> 1 negative : glass ; 8 x 10 in. or smaller",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "between 1910 and 1925<div style=\"display: none;\">date QS:P,+1950-00-00T00:00:00Z/7,P1319,+1910-00-00T00:00:00Z/9,P1326,+1925-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p>Library of Congress\n</p>\n<ul><li><i>Catalog:</i> <a rel=\"nofollow\" class=\"external free\" href=\"http://lccn.loc.gov/2016825250\">http://lccn.loc.gov/2016825250</a></li>\n<li><i>Image download:</i> <a rel=\"nofollow\" class=\"external free\" href=\"http://cdn.loc.gov/service/pnp/npcc/31800/31829v.jpg\">http://cdn.loc.gov/service/pnp/npcc/31800/31829v.jpg</a></li>\n<li><i>Original url:</i> <a rel=\"nofollow\" class=\"external free\" href=\"https://www.loc.gov/pictures/item/2016825250/\">https://www.loc.gov/pictures/item/2016825250/</a></li></ul>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "National Photo Company Collection",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "This image  is available from the United States <a href=\"//commons.wikimedia.org/wiki/Library_of_Congress\" title=\"Library of Congress\">Library of Congress</a>'s <a rel=\"nofollow\" class=\"external text\" href=\"//www.loc.gov/rr/print/\">Prints and Photographs division</a><br> under the digital ID <a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.loc.gov/loc.pnp/npcc.31829\">npcc.31829</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "66665290": {
+        "pageid": 66665290,
+        "ns": 6,
+        "title": "File:Home interior, living room furniture LCCN2016825250.tif",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 32989266,
+            "width": 6460,
+            "height": 5106,
+            "pagecount": 1,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Home_interior%2C_living_room_furniture_LCCN2016825250.tif/lossy-page1-960px-Home_interior%2C_living_room_furniture_LCCN2016825250.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 607,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Home_interior%2C_living_room_furniture_LCCN2016825250.tif/lossy-page1-1920px-Home_interior%2C_living_room_furniture_LCCN2016825250.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Home_interior%2C_living_room_furniture_LCCN2016825250.tif/lossy-page1-960px-Home_interior%2C_living_room_furniture_LCCN2016825250.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 607,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Home_interior%2C_living_room_furniture_LCCN2016825250.tif/lossy-page1-1920px-Home_interior%2C_living_room_furniture_LCCN2016825250.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Home_interior%2C_living_room_furniture_LCCN2016825250.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Home_interior,_living_room_furniture_LCCN2016825250.tif",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=66665290",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-02-21 15:12:25",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Home interior, living room furniture LCCN2016825250",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Furniture|Images from the Library of Congress|Images uploaded by Fæ|PD US no notice|PD-National Photo Company|National Photo Company Collection|Library of Congress-no known copyright restrictions",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<i>Title:</i> Home interior, living room furniture\n<i>Abstract/medium:</i> 1 negative : glass ; 8 x 10 in. or smaller",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "between 1910 and 1925<div style=\"display: none;\">date QS:P,+1950-00-00T00:00:00Z/7,P1319,+1910-00-00T00:00:00Z/9,P1326,+1925-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p>Library of Congress\n</p>\n<ul><li><i>Catalog:</i> <a rel=\"nofollow\" class=\"external free\" href=\"http://lccn.loc.gov/2016825250\">http://lccn.loc.gov/2016825250</a></li>\n<li><i>Image download:</i> <a rel=\"nofollow\" class=\"external free\" href=\"http://cdn.loc.gov/master/pnp/npcc/31800/31829u.tif\">http://cdn.loc.gov/master/pnp/npcc/31800/31829u.tif</a></li>\n<li><i>Original url:</i> <a rel=\"nofollow\" class=\"external free\" href=\"https://www.loc.gov/pictures/item/2016825250/\">https://www.loc.gov/pictures/item/2016825250/</a></li></ul>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "National Photo Company Collection",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "This image  is available from the United States <a href=\"//commons.wikimedia.org/wiki/Library_of_Congress\" title=\"Library of Congress\">Library of Congress</a>'s <a rel=\"nofollow\" class=\"external text\" href=\"//www.loc.gov/rr/print/\">Prints and Photographs division</a><br> under the digital ID <a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.loc.gov/loc.pnp/npcc.31829\">npcc.31829</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "99898796": {
+        "pageid": 99898796,
+        "ns": 6,
+        "title": "File:Hester Diamond Living Room 2 by Rachel Kaminsky.9.2020 03.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3137031,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Hester_Diamond_Living_Room_2_by_Rachel_Kaminsky.9.2020_03.jpg/960px-Hester_Diamond_Living_Room_2_by_Rachel_Kaminsky.9.2020_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Hester_Diamond_Living_Room_2_by_Rachel_Kaminsky.9.2020_03.jpg/1920px-Hester_Diamond_Living_Room_2_by_Rachel_Kaminsky.9.2020_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Hester_Diamond_Living_Room_2_by_Rachel_Kaminsky.9.2020_03.jpg/960px-Hester_Diamond_Living_Room_2_by_Rachel_Kaminsky.9.2020_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Hester_Diamond_Living_Room_2_by_Rachel_Kaminsky.9.2020_03.jpg/1920px-Hester_Diamond_Living_Room_2_by_Rachel_Kaminsky.9.2020_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Hester_Diamond_Living_Room_2_by_Rachel_Kaminsky.9.2020_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hester_Diamond_Living_Room_2_by_Rachel_Kaminsky.9.2020_03.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=99898796",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-02-15 17:14:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hester Diamond Living Room 2 by Rachel Kaminsky.9.2020 03",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Living rooms|Hester Diamond|Interior design|Items with VRTS permission confirmed|Art in interior design|Residential interiors in New York City",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Living room by interior designer Hester Diamond, noted for combining contemporary furniture with Old Master artwork.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2020-07-07 16:00:22",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Rachel Kaminsky, Hester Diamond's stepdaughter",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Rachel Kaminsky",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<p><span class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=PermissionTicket 1%3Dhttps%3A%2F%2Fticket.wikimedia.org%2Fotrs%2Findex.pl%3FAction%3DAgentTicketZoom%26TicketNumber%3D2021032810000474 2%3D2021032810000474\"> </span>\n</p>\n<style data-mw-deduplicate=\"TemplateStyles:r1254222110\">.mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-subtle,#fbfcff);color:var(--color-base,#202122);box-sizing:border-box;border-inline-start-width:8px}.mw-parser-output .messagebox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .mbox-warning,.mw-parser-output .mbox-speedy{border:2px solid var(--border-color-error,#b22222);background:var(--background-color-error-subtle,#ffdbdb);border-inline-start-width:8px}.mw-parser-output .mbox-serious,.mw-parser-output .mbox-delete,.mw-parser-output .mbox-stop{border:2px solid var(--border-color-error,#b22222);border-inline-start-width:8px}.mw-parser-output .mbox-issue,.mw-parser-output .mbox-content{border:2px solid #f28500;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-query,.mw-parser-output .mbox-style{border:2px solid #f4c430;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-shit{border:2px solid #960;border-inline-start-width:8px}.mw-parser-output .mbox-license{border:2px solid #88a;border-inline-start-width:initial}.mw-parser-output .mbox-legal{border:2px solid var(--border-color-notice,#666);background:var(--background-color-base,#fff);border-inline-start-width:8px}.mw-parser-output .mbox-honor{border:2px solid #ca3;background:var(--background-color-warning-subtle,#fcf4db);border-inline-start-width:8px}.mw-parser-output .mbox-growth{border:2px solid #8d4;background:var(--background-color-success-subtle,#d5fdf4);border-inline-start-width:8px}.mw-parser-output .mbox-move{border:2px solid #93c;border-inline-start-width:8px}.mw-parser-output .mbox-protection,.mw-parser-output .mbox-message{border:2px solid var(--border-color-base,#aaa);border-inline-start-width:8px}.mw-parser-output .messagebox .mbox-text{border:none;padding:0.25em 0.9em;width:100%}.mw-parser-output .messagebox .mbox-image{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0.9em;padding-inline-end:0;text-align:center}.mw-parser-output .messagebox .mbox-imageright{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0;padding-inline-end:0.9em;text-align:center}.mw-parser-output .messagebox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .messagebox .mbox-invalid-type{text-align:center}@media(min-width:720px){.mw-parser-output .messagebox{margin:4px 10%}.mw-parser-output .messagebox.mbox-small{clear:right;float:right;margin:4px 0 4px 1em;width:238px}}body.skin--responsive .mw-parser-output table.messagebox img{max-width:none!important}</style><table class=\"plainlinks messagebox mbox-notice layouttemplate\" role=\"presentation\" style=\"margin:0.3em 0;width:100%;\"><tbody><tr><td class=\"mbox-image\"><span typeof=\"mw:File\"><span title=\"VRT Wikimedia\"><img alt=\"VRT Wikimedia\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/120px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"75\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/250px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"935\" data-file-height=\"600\"></span></span></td><td class=\"mbox-text\">This work is <a href=\"https://freedomdefined.org/Definition\" class=\"extiw\" title=\"freedomdefined:Definition\">free</a> and may be used by anyone for any purpose. If you wish to <b><a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">use this content</a></b>, you do not need to request permission as long as you follow any licensing requirements mentioned on this page.\n<p>The Wikimedia Foundation has received an e-mail confirming that the copyright holder has approved publication under the terms mentioned on this page. This correspondence has been <b><span style=\"background:transparent;color:#0f7f1f;font-weight:400;\" title=\"transparent\">reviewed</span></b> by a <a href=\"//commons.wikimedia.org/wiki/Template:PermissionTicket/Users\" title=\"Template:PermissionTicket/Users\">Volunteer Response Team (VRT) member</a> and stored in our <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team\" title=\"Commons:Volunteer Response Team\">permission archive</a>. The correspondence is available to trusted volunteers as <b><a href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2021032810000474\" class=\"extiw\" title=\"ticket:2021032810000474\">ticket #2021032810000474</a></b>.\n</p><p><small>If you have questions about the archived correspondence, please use the <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team/Noticeboard\" title=\"Commons:Volunteer Response Team/Noticeboard\">VRT noticeboard</a>.</small>\n<small>Ticket link: <a class=\"external free\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2021032810000474\">https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2021032810000474</a></small>\n<br><small>Find other files from the same ticket:</small> <span typeof=\"mw:File\"><a href=\"https://wcqs-beta.wmflabs.org/#%23defaultView%3AImageGrid%09%0ASELECT%20%3Fimage%20%20%20%7B%0A%20%20%3Ffile%20wdt%3AP6305%20%222021032810000474%22%20.%0A%20%20%3Ffile%20schema%3Aurl%20%3Fimage.%0A%7D%20%0A\" title=\"SDC query (SPARQL)\" rel=\"nofollow\"><img alt=\"SDC query (SPARQL)\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/20px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"15\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/40px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"688\"></a></span>\n</p>\n<span id=\"field-otrs\" title=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2021032810000474\"></span></td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "99898799": {
+        "pageid": 99898799,
+        "ns": 6,
+        "title": "File:Hester Diamond Living Room by Rachel Kaminsky.9.2020 01.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 10592224,
+            "width": 9468,
+            "height": 3752,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Hester_Diamond_Living_Room_by_Rachel_Kaminsky.9.2020_01.jpg/960px-Hester_Diamond_Living_Room_by_Rachel_Kaminsky.9.2020_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 304,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Hester_Diamond_Living_Room_by_Rachel_Kaminsky.9.2020_01.jpg/1920px-Hester_Diamond_Living_Room_by_Rachel_Kaminsky.9.2020_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Hester_Diamond_Living_Room_by_Rachel_Kaminsky.9.2020_01.jpg/960px-Hester_Diamond_Living_Room_by_Rachel_Kaminsky.9.2020_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 304,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Hester_Diamond_Living_Room_by_Rachel_Kaminsky.9.2020_01.jpg/1920px-Hester_Diamond_Living_Room_by_Rachel_Kaminsky.9.2020_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Hester_Diamond_Living_Room_by_Rachel_Kaminsky.9.2020_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hester_Diamond_Living_Room_by_Rachel_Kaminsky.9.2020_01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=99898799",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-02-15 17:14:25",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hester Diamond Living Room by Rachel Kaminsky.9.2020 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Living rooms|Couches|Hester Diamond|Interior design|Items with VRTS permission confirmed|Art in interior design|Residential interiors in New York City",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Living room by interior designer Hester Diamond, noted for combining contemporary furniture with Old Master artwork.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2020-07-07 15:50:54",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Rachel Kaminsky,  Hester Diamond's stepdaughter",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Rachel Kaminsky",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<p><span class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=PermissionTicket 1%3Dhttps%3A%2F%2Fticket.wikimedia.org%2Fotrs%2Findex.pl%3FAction%3DAgentTicketZoom%26TicketNumber%3D2021032810000474 2%3D2021032810000474\"> </span>\n</p>\n<style data-mw-deduplicate=\"TemplateStyles:r1254222110\">.mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-subtle,#fbfcff);color:var(--color-base,#202122);box-sizing:border-box;border-inline-start-width:8px}.mw-parser-output .messagebox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .mbox-warning,.mw-parser-output .mbox-speedy{border:2px solid var(--border-color-error,#b22222);background:var(--background-color-error-subtle,#ffdbdb);border-inline-start-width:8px}.mw-parser-output .mbox-serious,.mw-parser-output .mbox-delete,.mw-parser-output .mbox-stop{border:2px solid var(--border-color-error,#b22222);border-inline-start-width:8px}.mw-parser-output .mbox-issue,.mw-parser-output .mbox-content{border:2px solid #f28500;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-query,.mw-parser-output .mbox-style{border:2px solid #f4c430;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-shit{border:2px solid #960;border-inline-start-width:8px}.mw-parser-output .mbox-license{border:2px solid #88a;border-inline-start-width:initial}.mw-parser-output .mbox-legal{border:2px solid var(--border-color-notice,#666);background:var(--background-color-base,#fff);border-inline-start-width:8px}.mw-parser-output .mbox-honor{border:2px solid #ca3;background:var(--background-color-warning-subtle,#fcf4db);border-inline-start-width:8px}.mw-parser-output .mbox-growth{border:2px solid #8d4;background:var(--background-color-success-subtle,#d5fdf4);border-inline-start-width:8px}.mw-parser-output .mbox-move{border:2px solid #93c;border-inline-start-width:8px}.mw-parser-output .mbox-protection,.mw-parser-output .mbox-message{border:2px solid var(--border-color-base,#aaa);border-inline-start-width:8px}.mw-parser-output .messagebox .mbox-text{border:none;padding:0.25em 0.9em;width:100%}.mw-parser-output .messagebox .mbox-image{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0.9em;padding-inline-end:0;text-align:center}.mw-parser-output .messagebox .mbox-imageright{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0;padding-inline-end:0.9em;text-align:center}.mw-parser-output .messagebox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .messagebox .mbox-invalid-type{text-align:center}@media(min-width:720px){.mw-parser-output .messagebox{margin:4px 10%}.mw-parser-output .messagebox.mbox-small{clear:right;float:right;margin:4px 0 4px 1em;width:238px}}body.skin--responsive .mw-parser-output table.messagebox img{max-width:none!important}</style><table class=\"plainlinks messagebox mbox-notice layouttemplate\" role=\"presentation\" style=\"margin:0.3em 0;width:100%;\"><tbody><tr><td class=\"mbox-image\"><span typeof=\"mw:File\"><span title=\"VRT Wikimedia\"><img alt=\"VRT Wikimedia\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/120px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"75\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/250px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"935\" data-file-height=\"600\"></span></span></td><td class=\"mbox-text\">This work is <a href=\"https://freedomdefined.org/Definition\" class=\"extiw\" title=\"freedomdefined:Definition\">free</a> and may be used by anyone for any purpose. If you wish to <b><a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">use this content</a></b>, you do not need to request permission as long as you follow any licensing requirements mentioned on this page.\n<p>The Wikimedia Foundation has received an e-mail confirming that the copyright holder has approved publication under the terms mentioned on this page. This correspondence has been <b><span style=\"background:transparent;color:#0f7f1f;font-weight:400;\" title=\"transparent\">reviewed</span></b> by a <a href=\"//commons.wikimedia.org/wiki/Template:PermissionTicket/Users\" title=\"Template:PermissionTicket/Users\">Volunteer Response Team (VRT) member</a> and stored in our <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team\" title=\"Commons:Volunteer Response Team\">permission archive</a>. The correspondence is available to trusted volunteers as <b><a href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2021032810000474\" class=\"extiw\" title=\"ticket:2021032810000474\">ticket #2021032810000474</a></b>.\n</p><p><small>If you have questions about the archived correspondence, please use the <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team/Noticeboard\" title=\"Commons:Volunteer Response Team/Noticeboard\">VRT noticeboard</a>.</small>\n<small>Ticket link: <a class=\"external free\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2021032810000474\">https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2021032810000474</a></small>\n<br><small>Find other files from the same ticket:</small> <span typeof=\"mw:File\"><a href=\"https://wcqs-beta.wmflabs.org/#%23defaultView%3AImageGrid%09%0ASELECT%20%3Fimage%20%20%20%7B%0A%20%20%3Ffile%20wdt%3AP6305%20%222021032810000474%22%20.%0A%20%20%3Ffile%20schema%3Aurl%20%3Fimage.%0A%7D%20%0A\" title=\"SDC query (SPARQL)\" rel=\"nofollow\"><img alt=\"SDC query (SPARQL)\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/20px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"15\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/40px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"688\"></a></span>\n</p>\n<span id=\"field-otrs\" title=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2021032810000474\"></span></td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "162917794": {
+        "pageid": 162917794,
+        "ns": 6,
+        "title": "File:Living room decorated by Eero Aarnio 1968 (JOKAOM14AiD KSS01-4).tif",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 129082763,
+            "width": 4642,
+            "height": 4633,
+            "pagecount": 1,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Living_room_decorated_by_Eero_Aarnio_1968_%28JOKAOM14AiD_KSS01-4%29.tif/lossy-page1-960px-Living_room_decorated_by_Eero_Aarnio_1968_%28JOKAOM14AiD_KSS01-4%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 767,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Living_room_decorated_by_Eero_Aarnio_1968_%28JOKAOM14AiD_KSS01-4%29.tif/lossy-page1-1920px-Living_room_decorated_by_Eero_Aarnio_1968_%28JOKAOM14AiD_KSS01-4%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Living_room_decorated_by_Eero_Aarnio_1968_%28JOKAOM14AiD_KSS01-4%29.tif/lossy-page1-960px-Living_room_decorated_by_Eero_Aarnio_1968_%28JOKAOM14AiD_KSS01-4%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 767,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Living_room_decorated_by_Eero_Aarnio_1968_%28JOKAOM14AiD_KSS01-4%29.tif/lossy-page1-1920px-Living_room_decorated_by_Eero_Aarnio_1968_%28JOKAOM14AiD_KSS01-4%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Living_room_decorated_by_Eero_Aarnio_1968_%28JOKAOM14AiD_KSS01-4%29.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Living_room_decorated_by_Eero_Aarnio_1968_(JOKAOM14AiD_KSS01-4).tif",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162917794",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-28 19:43:55",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Living room decorated by Eero Aarnio",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Finna review needed|Furniture in Finland|Living rooms in Finland|Couches in Finland|Interior decoration in Finland|Bookshelves in Finland|Files uploaded by FinnaUploadBot|1960s interiors|JOKA Press Photo Archive|1968 in Lahti|1960s furniture|Building interiors in Lahti|Photographs by Eero Aarnio",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Eero_Aarnio\" class=\"extiw\" title=\"w:en:Eero Aarnio\"><span title=\"Finnish interior designer (born 1932)\">Eero Aarnio</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Asko Oy's markerting director's Iiro Santalahti's home's living room in Lahti which was designed by Eero Aarnio. In the room there are Aarnio's designed Ball Chair and Lokki -lamps which were designed by Yki Nurmi.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "kuvausaika 1968, kuvausaika 1960-luku, 1900-luku, kuvausaika 1968, kuvausaika 1960's, 20th century",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://finna.fi/Record/museovirasto.7aa28a07-1b32-48a4-bcc8-d70b5b35e6f1\">https://finna.fi/Record/museovirasto.7aa28a07-1b32-48a4-bcc8-d70b5b35e6f1</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://creativecommons.org/licenses/by/4.0/deed.fi\">CC BY 4.0</a>; ['Tiedostoa voi käyttää vapaasti myös kaupallisesti. Tiedoston yhteydessä on mainittava tekijä ja/tai kuvaaja sekä kokoelman ja organisaation nimi. \\n\\nKäyttöohjeet:\\nKäyttäjä vastaa tekijänoikeuksien ja yksityisyyden suojan kunnioittamisesta sekä siitä, että tiedot ovat oikein. Henkilökuvien käyttö markkinoinnissa ja mainonnassa on kielletty ilman kuvassa olevan henkilön suostumusta. Käyttäjä vastaa lupien hankkimisesta tiedostoissa esiintyvien henkilöiden, teosten ja tavaramerkkien osalta. Käyttäjä vastaa käyttötarkoituksen mukaisesta tiedostonkäsittelystä. Pyydämme toimittamaan Museoviraston kirjastoon vapaakappaleen EU-alueella painetusta julkaisusta, jossa tiedostoa on käytetty. Jos ladattavan tiedoston ominaisuudet eivät ole riittävät, ota yhteyttä Museoviraston Kuvakokoelmiin (kuvakokoelmat@museovirasto.fi). \\n\\n3D: FINNA-palvelussa on julkaistu 3D mallista verkkoesittämiseen soveltuva kevennetty versio.']",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "162917861": {
+        "pageid": 162917861,
+        "ns": 6,
+        "title": "File:Living room decorated by Eero Aarnio 1966 (JOKAOM14AiD KSS01-3).tif",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 127350299,
+            "width": 4562,
+            "height": 4651,
+            "pagecount": 1,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Living_room_decorated_by_Eero_Aarnio_1966_%28JOKAOM14AiD_KSS01-3%29.tif/lossy-page1-960px-Living_room_decorated_by_Eero_Aarnio_1966_%28JOKAOM14AiD_KSS01-3%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 783,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Living_room_decorated_by_Eero_Aarnio_1966_%28JOKAOM14AiD_KSS01-3%29.tif/lossy-page1-1920px-Living_room_decorated_by_Eero_Aarnio_1966_%28JOKAOM14AiD_KSS01-3%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Living_room_decorated_by_Eero_Aarnio_1966_%28JOKAOM14AiD_KSS01-3%29.tif/lossy-page1-960px-Living_room_decorated_by_Eero_Aarnio_1966_%28JOKAOM14AiD_KSS01-3%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 783,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Living_room_decorated_by_Eero_Aarnio_1966_%28JOKAOM14AiD_KSS01-3%29.tif/lossy-page1-1920px-Living_room_decorated_by_Eero_Aarnio_1966_%28JOKAOM14AiD_KSS01-3%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Living_room_decorated_by_Eero_Aarnio_1966_%28JOKAOM14AiD_KSS01-3%29.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Living_room_decorated_by_Eero_Aarnio_1966_(JOKAOM14AiD_KSS01-3).tif",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162917861",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-28 19:46:19",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Living room decorated by Eero Aarnio",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Kontula|Finna review needed|Furniture in Finland|Living rooms in Finland|1966 in Helsinki|Tables in Finland|Chairs in Finland|Couches in Finland|Interior decoration in Finland|Files uploaded by FinnaUploadBot|1960s interiors|JOKA Press Photo Archive|1960s furniture|Photographs by Eero Aarnio|Interiors of residential buildings in Helsinki|Mid-century modern interiors",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Eero_Aarnio\" class=\"extiw\" title=\"w:en:Eero Aarnio\"><span title=\"Finnish interior designer (born 1932)\">Eero Aarnio</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Living room in a one bedroom apartment in Kontula which is decorated by Eero Aarnio. The chairs by the table are designed by Aarnio.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "kuvausaika 1966, kuvausaika 1960-luku, 1900-luku, kuvausaika 1966, kuvausaika 1960's, 20th century",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://finna.fi/Record/museovirasto.11a72031-c281-4fce-95b0-c783848d98f4\">https://finna.fi/Record/museovirasto.11a72031-c281-4fce-95b0-c783848d98f4</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/deed.fi\">CC BY 4.0</a>; ['Tiedostoa voi käyttää vapaasti myös kaupallisesti. Tiedoston yhteydessä on mainittava tekijä ja/tai kuvaaja sekä kokoelman ja organisaation nimi. \\n\\nKäyttöohjeet:\\nKäyttäjä vastaa tekijänoikeuksien ja yksityisyyden suojan kunnioittamisesta sekä siitä, että tiedot ovat oikein. Henkilökuvien käyttö markkinoinnissa ja mainonnassa on kielletty ilman kuvassa olevan henkilön suostumusta. Käyttäjä vastaa lupien hankkimisesta tiedostoissa esiintyvien henkilöiden, teosten ja tavaramerkkien osalta. Käyttäjä vastaa käyttötarkoituksen mukaisesta tiedostonkäsittelystä. Pyydämme toimittamaan Museoviraston kirjastoon vapaakappaleen EU-alueella painetusta julkaisusta, jossa tiedostoa on käytetty. Jos ladattavan tiedoston ominaisuudet eivät ole riittävät, ota yhteyttä Museoviraston Kuvakokoelmiin (kuvakokoelmat@museovirasto.fi). \\n\\n3D: FINNA-palvelussa on julkaistu 3D mallista verkkoesittämiseen soveltuva kevennetty versio.']",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "162918038": {
+        "pageid": 162918038,
+        "ns": 6,
+        "title": "File:Living room decorated by Eero Aarnio 1966 (JOKAOM14AiD KSS01-2).tif",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 127774444,
+            "width": 4586,
+            "height": 4642,
+            "pagecount": 1,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Living_room_decorated_by_Eero_Aarnio_1966_%28JOKAOM14AiD_KSS01-2%29.tif/lossy-page1-960px-Living_room_decorated_by_Eero_Aarnio_1966_%28JOKAOM14AiD_KSS01-2%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 777,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Living_room_decorated_by_Eero_Aarnio_1966_%28JOKAOM14AiD_KSS01-2%29.tif/lossy-page1-1920px-Living_room_decorated_by_Eero_Aarnio_1966_%28JOKAOM14AiD_KSS01-2%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Living_room_decorated_by_Eero_Aarnio_1966_%28JOKAOM14AiD_KSS01-2%29.tif/lossy-page1-960px-Living_room_decorated_by_Eero_Aarnio_1966_%28JOKAOM14AiD_KSS01-2%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 777,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Living_room_decorated_by_Eero_Aarnio_1966_%28JOKAOM14AiD_KSS01-2%29.tif/lossy-page1-1920px-Living_room_decorated_by_Eero_Aarnio_1966_%28JOKAOM14AiD_KSS01-2%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Living_room_decorated_by_Eero_Aarnio_1966_%28JOKAOM14AiD_KSS01-2%29.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Living_room_decorated_by_Eero_Aarnio_1966_(JOKAOM14AiD_KSS01-2).tif",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162918038",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-28 19:49:57",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Living room decorated by Eero Aarnio",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Kontula|Finna review needed|Furniture in Finland|Living rooms in Finland|1966 in Helsinki|Interior decoration in Finland|Files uploaded by FinnaUploadBot|1960s interiors|JOKA Press Photo Archive|1960s furniture|Photographs by Eero Aarnio|Interiors of residential buildings in Helsinki",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Eero_Aarnio\" class=\"extiw\" title=\"w:en:Eero Aarnio\"><span title=\"Finnish interior designer (born 1932)\">Eero Aarnio</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Living room in a one bedroom apartment in Kontula which is decorated by Eero Aarnio.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "kuvausaika 1966, kuvausaika 1960-luku, 1900-luku, kuvausaika 1966, kuvausaika 1960's, 20th century",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://finna.fi/Record/museovirasto.c57cb850-36ec-47ba-8226-b381eb49cb2b\">https://finna.fi/Record/museovirasto.c57cb850-36ec-47ba-8226-b381eb49cb2b</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/deed.fi\">CC BY 4.0</a>; ['Tiedostoa voi käyttää vapaasti myös kaupallisesti. Tiedoston yhteydessä on mainittava tekijä ja/tai kuvaaja sekä kokoelman ja organisaation nimi. \\n\\nKäyttöohjeet:\\nKäyttäjä vastaa tekijänoikeuksien ja yksityisyyden suojan kunnioittamisesta sekä siitä, että tiedot ovat oikein. Henkilökuvien käyttö markkinoinnissa ja mainonnassa on kielletty ilman kuvassa olevan henkilön suostumusta. Käyttäjä vastaa lupien hankkimisesta tiedostoissa esiintyvien henkilöiden, teosten ja tavaramerkkien osalta. Käyttäjä vastaa käyttötarkoituksen mukaisesta tiedostonkäsittelystä. Pyydämme toimittamaan Museoviraston kirjastoon vapaakappaleen EU-alueella painetusta julkaisusta, jossa tiedostoa on käytetty. Jos ladattavan tiedoston ominaisuudet eivät ole riittävät, ota yhteyttä Museoviraston Kuvakokoelmiin (kuvakokoelmat@museovirasto.fi). \\n\\n3D: FINNA-palvelussa on julkaistu 3D mallista verkkoesittämiseen soveltuva kevennetty versio.']",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "195294813": {
+        "pageid": 195294813,
+        "ns": 6,
+        "title": "File:Living room with 1960s objects.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5160445,
+            "width": 3264,
+            "height": 2448,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Living_room_with_1960s_objects.jpg/960px-Living_room_with_1960s_objects.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Living_room_with_1960s_objects.jpg/1920px-Living_room_with_1960s_objects.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Living_room_with_1960s_objects.jpg/960px-Living_room_with_1960s_objects.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Living_room_with_1960s_objects.jpg/1920px-Living_room_with_1960s_objects.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Living_room_with_1960s_objects.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Living_room_with_1960s_objects.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195294813",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-07-07 13:08:53",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Living room with 1960s objects",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Marimekko|1970s furniture|Leather furniture|Self-published work|Living rooms in Finland|Interiors of apartment buildings in Finland|1960s furniture|Sony television sets",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Leather sofas by Isku, lounge chair by Avarte, design Yrjö Kukkapuro, storage furniture Vitriini by Ahti Taskinen, curtains by Marimekko with pattern Meloni by Maija Isola.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2012-04-08 19:41:19",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:Kotivalo\" title=\"User:Kotivalo\">Kotivalo</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

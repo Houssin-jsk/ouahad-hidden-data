@@ -1,0 +1,404 @@
+{
+  "checkedAt": "2026-10-21T01:02:25.569Z",
+  "versions": {
+    "transformers": "4.3.1",
+    "onnxruntimeWeb": "1.31.0-dev.20260914-8d85527a0",
+    "next": "16.4.0"
+  },
+  "baseline": {
+    "modelRevision": "3ba07f12712fa58fd6b3d661f9909c9e332c5005",
+    "transformersVersion": "4.3.1",
+    "runtimeVersion": "1.31.0-dev.20260914-8d85527a0",
+    "assets": [
+      {
+        "path": "mobilenetv4/config.json",
+        "bytes": 69895,
+        "sha256": "ae99506e66f8e19bc73809e5b4c3ae31fc7c2bca53752dc7cb89c1e47831a335"
+      },
+      {
+        "path": "mobilenetv4/preprocessor_config.json",
+        "bytes": 441,
+        "sha256": "21bb2bccbd790ded22ca9ac77758578bae4d90d8fc578a612097bd38e9d40b2f"
+      },
+      {
+        "path": "mobilenetv4/onnx/model.onnx",
+        "bytes": 15086122,
+        "sha256": "ca5b8dbf490f54e83c5d72f787821565447ea94347935f6b834cf0a4af0e8d37"
+      },
+      {
+        "path": "runtime/ort-wasm-simd-threaded.asyncify.mjs",
+        "bytes": 53057,
+        "sha256": "0966b6105cd936744498aa60df7a22cbd47af3374dbc64a9ab561c08a71e3611"
+      },
+      {
+        "path": "runtime/ort-wasm-simd-threaded.asyncify.wasm",
+        "bytes": 26861777,
+        "sha256": "49871f5a4409519797e127440868a6d1923339d9185907f301a5b2a1d90af082"
+      }
+    ]
+  },
+  "experiments": {
+    "runtime": "Transformers.js 4.3.1; existing same-origin Asyncify WASM",
+    "models": [
+      {
+        "id": "Xenova/yolos-tiny",
+        "revision": "e2f9c7673f0fa61849efe2b56a0d7774779ebb9d",
+        "dir": "yolos",
+        "assets": [
+          {
+            "path": "config.json",
+            "bytes": 4145,
+            "sha256": "ce8640ba6bd97a7b36ccf2d0dba9a6ac233211e2dc0c5dc4c63d922e80338c08"
+          },
+          {
+            "path": "preprocessor_config.json",
+            "bytes": 457,
+            "sha256": "b010730968cdbccf8767b61b0a8e903396d831fd97f3c44cc9f0c0437deb7b7f"
+          },
+          {
+            "path": "onnx/model_quantized.onnx",
+            "bytes": 9661148,
+            "sha256": "82b5c1de8aaaffd763c67d67b09b742a1c53628acfee3077af3fa59233e86b6b"
+          }
+        ]
+      },
+      {
+        "id": "Xenova/clip-vit-base-patch32",
+        "revision": "d15189d7028b43f1d3e65039190477f6af591c2a",
+        "dir": "clip",
+        "assets": [
+          {
+            "path": "config.json",
+            "bytes": 4524,
+            "sha256": "493ef57ff783e42d1530c91b53469b7fdf8db8a9c1408e86998fcb7899a4f495"
+          },
+          {
+            "path": "preprocessor_config.json",
+            "bytes": 520,
+            "sha256": "6f638fb9401a6d6296feff533ee7efe657b787c49f954f82f5906b36ef2a1b1f"
+          },
+          {
+            "path": "special_tokens_map.json",
+            "bytes": 472,
+            "sha256": "c4864a9376a8401918425bed71fc14fc0e81f9b59ec45c1cf96cccb2df508eac"
+          },
+          {
+            "path": "tokenizer.json",
+            "bytes": 2224119,
+            "sha256": "f7f3b7af117d467b58374797691a6438d3e6b9e9cef800dfd5dced7f697a90cd"
+          },
+          {
+            "path": "tokenizer_config.json",
+            "bytes": 775,
+            "sha256": "60ba2912bc6344c94bc16bbdec27fa1209409167b6f2fdf3cfe9e65462ea3967"
+          },
+          {
+            "path": "onnx/model_quantized.onnx",
+            "bytes": 153695702,
+            "sha256": "0898a3facfdb27f0a041e57649b4989cfd094e4a0040d6ae75ed69917dfc7328"
+          }
+        ]
+      }
+    ]
+  },
+  "checked": [
+    {
+      "path": "mobilenetv4/config.json",
+      "bytes": 69895,
+      "sha256": "ae99506e66f8e19bc73809e5b4c3ae31fc7c2bca53752dc7cb89c1e47831a335",
+      "file": "research/assets/ai/mobilenetv4/config.json",
+      "observedBytes": 69895,
+      "observedSHA256": "ae99506e66f8e19bc73809e5b4c3ae31fc7c2bca53752dc7cb89c1e47831a335",
+      "match": true
+    },
+    {
+      "path": "mobilenetv4/preprocessor_config.json",
+      "bytes": 441,
+      "sha256": "21bb2bccbd790ded22ca9ac77758578bae4d90d8fc578a612097bd38e9d40b2f",
+      "file": "research/assets/ai/mobilenetv4/preprocessor_config.json",
+      "observedBytes": 441,
+      "observedSHA256": "21bb2bccbd790ded22ca9ac77758578bae4d90d8fc578a612097bd38e9d40b2f",
+      "match": true
+    },
+    {
+      "path": "mobilenetv4/onnx/model.onnx",
+      "bytes": 15086122,
+      "sha256": "ca5b8dbf490f54e83c5d72f787821565447ea94347935f6b834cf0a4af0e8d37",
+      "file": "research/assets/ai/mobilenetv4/onnx/model.onnx",
+      "observedBytes": 15086122,
+      "observedSHA256": "ca5b8dbf490f54e83c5d72f787821565447ea94347935f6b834cf0a4af0e8d37",
+      "match": true
+    },
+    {
+      "path": "runtime/ort-wasm-simd-threaded.asyncify.mjs",
+      "bytes": 53057,
+      "sha256": "0966b6105cd936744498aa60df7a22cbd47af3374dbc64a9ab561c08a71e3611",
+      "file": "research/assets/ai/runtime/ort-wasm-simd-threaded.asyncify.mjs",
+      "observedBytes": 53057,
+      "observedSHA256": "0966b6105cd936744498aa60df7a22cbd47af3374dbc64a9ab561c08a71e3611",
+      "match": true
+    },
+    {
+      "path": "runtime/ort-wasm-simd-threaded.asyncify.wasm",
+      "bytes": 26861777,
+      "sha256": "49871f5a4409519797e127440868a6d1923339d9185907f301a5b2a1d90af082",
+      "file": "research/assets/ai/runtime/ort-wasm-simd-threaded.asyncify.wasm",
+      "observedBytes": 26861777,
+      "observedSHA256": "49871f5a4409519797e127440868a6d1923339d9185907f301a5b2a1d90af082",
+      "match": true
+    },
+    {
+      "path": "config.json",
+      "bytes": 4145,
+      "sha256": "ce8640ba6bd97a7b36ccf2d0dba9a6ac233211e2dc0c5dc4c63d922e80338c08",
+      "file": "research/assets/experiments/ai/yolos/config.json",
+      "observedBytes": 4145,
+      "observedSHA256": "ce8640ba6bd97a7b36ccf2d0dba9a6ac233211e2dc0c5dc4c63d922e80338c08",
+      "match": true
+    },
+    {
+      "path": "preprocessor_config.json",
+      "bytes": 457,
+      "sha256": "b010730968cdbccf8767b61b0a8e903396d831fd97f3c44cc9f0c0437deb7b7f",
+      "file": "research/assets/experiments/ai/yolos/preprocessor_config.json",
+      "observedBytes": 457,
+      "observedSHA256": "b010730968cdbccf8767b61b0a8e903396d831fd97f3c44cc9f0c0437deb7b7f",
+      "match": true
+    },
+    {
+      "path": "onnx/model_quantized.onnx",
+      "bytes": 9661148,
+      "sha256": "82b5c1de8aaaffd763c67d67b09b742a1c53628acfee3077af3fa59233e86b6b",
+      "file": "research/assets/experiments/ai/yolos/onnx/model_quantized.onnx",
+      "observedBytes": 9661148,
+      "observedSHA256": "82b5c1de8aaaffd763c67d67b09b742a1c53628acfee3077af3fa59233e86b6b",
+      "match": true
+    },
+    {
+      "path": "config.json",
+      "bytes": 4524,
+      "sha256": "493ef57ff783e42d1530c91b53469b7fdf8db8a9c1408e86998fcb7899a4f495",
+      "file": "research/assets/experiments/ai/clip/config.json",
+      "observedBytes": 4524,
+      "observedSHA256": "493ef57ff783e42d1530c91b53469b7fdf8db8a9c1408e86998fcb7899a4f495",
+      "match": true
+    },
+    {
+      "path": "preprocessor_config.json",
+      "bytes": 520,
+      "sha256": "6f638fb9401a6d6296feff533ee7efe657b787c49f954f82f5906b36ef2a1b1f",
+      "file": "research/assets/experiments/ai/clip/preprocessor_config.json",
+      "observedBytes": 520,
+      "observedSHA256": "6f638fb9401a6d6296feff533ee7efe657b787c49f954f82f5906b36ef2a1b1f",
+      "match": true
+    },
+    {
+      "path": "special_tokens_map.json",
+      "bytes": 472,
+      "sha256": "c4864a9376a8401918425bed71fc14fc0e81f9b59ec45c1cf96cccb2df508eac",
+      "file": "research/assets/experiments/ai/clip/special_tokens_map.json",
+      "observedBytes": 472,
+      "observedSHA256": "c4864a9376a8401918425bed71fc14fc0e81f9b59ec45c1cf96cccb2df508eac",
+      "match": true
+    },
+    {
+      "path": "tokenizer.json",
+      "bytes": 2224119,
+      "sha256": "f7f3b7af117d467b58374797691a6438d3e6b9e9cef800dfd5dced7f697a90cd",
+      "file": "research/assets/experiments/ai/clip/tokenizer.json",
+      "observedBytes": 2224119,
+      "observedSHA256": "f7f3b7af117d467b58374797691a6438d3e6b9e9cef800dfd5dced7f697a90cd",
+      "match": true
+    },
+    {
+      "path": "tokenizer_config.json",
+      "bytes": 775,
+      "sha256": "60ba2912bc6344c94bc16bbdec27fa1209409167b6f2fdf3cfe9e65462ea3967",
+      "file": "research/assets/experiments/ai/clip/tokenizer_config.json",
+      "observedBytes": 775,
+      "observedSHA256": "60ba2912bc6344c94bc16bbdec27fa1209409167b6f2fdf3cfe9e65462ea3967",
+      "match": true
+    },
+    {
+      "path": "onnx/model_quantized.onnx",
+      "bytes": 153695702,
+      "sha256": "0898a3facfdb27f0a041e57649b4989cfd094e4a0040d6ae75ed69917dfc7328",
+      "file": "research/assets/experiments/ai/clip/onnx/model_quantized.onnx",
+      "observedBytes": 153695702,
+      "observedSHA256": "0898a3facfdb27f0a041e57649b4989cfd094e4a0040d6ae75ed69917dfc7328",
+      "match": true
+    }
+  ],
+  "fixtureChecks": [
+    {
+      "id": "natural-00",
+      "encodedWidth": 960,
+      "encodedHeight": 608,
+      "sourceReportedWidth": 768,
+      "sourceReportedHeight": 486,
+      "match": true
+    },
+    {
+      "id": "natural-01",
+      "encodedWidth": 960,
+      "encodedHeight": 640,
+      "sourceReportedWidth": 768,
+      "sourceReportedHeight": 512,
+      "match": true
+    },
+    {
+      "id": "natural-02",
+      "encodedWidth": 960,
+      "encodedHeight": 556,
+      "sourceReportedWidth": 768,
+      "sourceReportedHeight": 445,
+      "match": true
+    },
+    {
+      "id": "natural-03",
+      "encodedWidth": 960,
+      "encodedHeight": 640,
+      "sourceReportedWidth": 768,
+      "sourceReportedHeight": 512,
+      "match": true
+    },
+    {
+      "id": "natural-04",
+      "encodedWidth": 960,
+      "encodedHeight": 759,
+      "sourceReportedWidth": 768,
+      "sourceReportedHeight": 607,
+      "match": true
+    },
+    {
+      "id": "natural-05",
+      "encodedWidth": 960,
+      "encodedHeight": 722,
+      "sourceReportedWidth": 768,
+      "sourceReportedHeight": 577,
+      "match": true
+    },
+    {
+      "id": "natural-06",
+      "encodedWidth": 960,
+      "encodedHeight": 1275,
+      "sourceReportedWidth": 768,
+      "sourceReportedHeight": 1020,
+      "match": true
+    },
+    {
+      "id": "natural-07",
+      "encodedWidth": 960,
+      "encodedHeight": 640,
+      "sourceReportedWidth": 768,
+      "sourceReportedHeight": 512,
+      "match": true
+    },
+    {
+      "id": "natural-08",
+      "encodedWidth": 761,
+      "encodedHeight": 802,
+      "sourceReportedWidth": 768,
+      "sourceReportedHeight": 809,
+      "match": true
+    },
+    {
+      "id": "natural-09",
+      "encodedWidth": 960,
+      "encodedHeight": 768,
+      "sourceReportedWidth": 768,
+      "sourceReportedHeight": 614,
+      "match": true
+    },
+    {
+      "id": "natural-10",
+      "encodedWidth": 960,
+      "encodedHeight": 640,
+      "sourceReportedWidth": 768,
+      "sourceReportedHeight": 512,
+      "match": true
+    },
+    {
+      "id": "natural-11",
+      "encodedWidth": 480,
+      "encodedHeight": 640,
+      "sourceReportedWidth": 768,
+      "sourceReportedHeight": 1024,
+      "match": true
+    },
+    {
+      "id": "natural-12",
+      "encodedWidth": 960,
+      "encodedHeight": 645,
+      "sourceReportedWidth": 768,
+      "sourceReportedHeight": 516,
+      "match": true
+    },
+    {
+      "id": "natural-13",
+      "encodedWidth": 960,
+      "encodedHeight": 720,
+      "sourceReportedWidth": 768,
+      "sourceReportedHeight": 576,
+      "match": true
+    },
+    {
+      "id": "natural-14",
+      "encodedWidth": 960,
+      "encodedHeight": 1440,
+      "sourceReportedWidth": 768,
+      "sourceReportedHeight": 1152,
+      "match": true
+    },
+    {
+      "id": "natural-15",
+      "encodedWidth": 960,
+      "encodedHeight": 595,
+      "sourceReportedWidth": 768,
+      "sourceReportedHeight": 476,
+      "match": true
+    },
+    {
+      "id": "natural-01-low-light",
+      "encodedWidth": 960,
+      "encodedHeight": 640,
+      "sourceReportedWidth": 768,
+      "sourceReportedHeight": 512,
+      "match": true
+    },
+    {
+      "id": "natural-03-low-contrast",
+      "encodedWidth": 960,
+      "encodedHeight": 640,
+      "sourceReportedWidth": 768,
+      "sourceReportedHeight": 512,
+      "match": true
+    },
+    {
+      "id": "natural-07-blur",
+      "encodedWidth": 960,
+      "encodedHeight": 640,
+      "sourceReportedWidth": 768,
+      "sourceReportedHeight": 512,
+      "match": true
+    },
+    {
+      "id": "natural-15-crop-occlusion",
+      "encodedWidth": 672,
+      "encodedHeight": 416,
+      "sourceReportedWidth": 768,
+      "sourceReportedHeight": 476,
+      "match": true
+    }
+  ],
+  "runtimeChecks": [
+    {
+      "file": "ort-wasm-simd-threaded.asyncify.mjs",
+      "match": true
+    },
+    {
+      "file": "ort-wasm-simd-threaded.asyncify.wasm",
+      "match": true
+    }
+  ]
+}

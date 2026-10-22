@@ -1,0 +1,1118 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 10,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "24110824": {
+        "pageid": 24110824,
+        "ns": 6,
+        "title": "File:Haleakala National Park HALE1829.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3495243,
+            "width": 2048,
+            "height": 3072,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Haleakala_National_Park_HALE1829.jpg/960px-Haleakala_National_Park_HALE1829.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1152,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Haleakala_National_Park_HALE1829.jpg/1920px-Haleakala_National_Park_HALE1829.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Haleakala_National_Park_HALE1829.jpg/960px-Haleakala_National_Park_HALE1829.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1152,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Haleakala_National_Park_HALE1829.jpg/1920px-Haleakala_National_Park_HALE1829.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Haleakala_National_Park_HALE1829.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Haleakala_National_Park_HALE1829.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24110824",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-01-23 10:30:39",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Haleakala National Park HALE1829",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Images uploaded by Fæ|PD US NPS|Unknown date|Waterfalls of Maui|Oheo Gulch",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<br>\n<dl><dd><b>Location</b> Haleakala National Park</dd>\n<dd><b>Description</b>  This special place vibrates with stories of ancient and modern Hawaiian culture and protects the bond between the land and its people. The park also cares for endangered species some of which exist nowhere else. Come visit this special place - renew your spirit of adventure amid stark volcanic landscapes, sub-tropical rain forest and the unforgettable experience of hiking the backcountry.</dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Unknown date<span class=\"mw-empty-elt\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Unknown_date\"></span>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p><a rel=\"mw:ExtLink nofollow\" href=\"http://www.nps.gov/storage/images/hale/Webpages/originals/362.jpg\" class=\"external free\">http://www.nps.gov/storage/images/hale/Webpages/originals/362.jpg</a></p>\n<ul><li>Gallery <a rel=\"mw:ExtLink nofollow\" href=\"http://www.nps.gov/storage/images/hale/Webpages/index.html\" class=\"external free\">http://www.nps.gov/storage/images/hale/Webpages/index.html</a></li>\n<li>Transferred to Commons by <a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:F%C3%A6\" title=\"User:Fæ\">Fæ</a></li></ul>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"mw:ExtLink nofollow\" href=\"http://www.nps.gov/storage/images/\" class=\"external text\">National Park Service Digital Image Archives</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "All photographs and images in this archive [National Park Service Digital Image Archives] are public domain images. You are free to use these images without a release from the National Park Service. However, the photographs and images must not be used to imply National Park Service endorsement of a product, service, organization or individual.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "26263581": {
+        "pageid": 26263581,
+        "ns": 6,
+        "title": "File:San Isidro General, Costa Rica 11.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 912115,
+            "width": 3056,
+            "height": 4592,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/San_Isidro_General%2C_Costa_Rica_11.jpg/960px-San_Isidro_General%2C_Costa_Rica_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1154,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/San_Isidro_General%2C_Costa_Rica_11.jpg/1920px-San_Isidro_General%2C_Costa_Rica_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/San_Isidro_General%2C_Costa_Rica_11.jpg/960px-San_Isidro_General%2C_Costa_Rica_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1154,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/San_Isidro_General%2C_Costa_Rica_11.jpg/1920px-San_Isidro_General%2C_Costa_Rica_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/San_Isidro_General%2C_Costa_Rica_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:San_Isidro_General,_Costa_Rica_11.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=26263581",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-05-23 19:11:26",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "San Isidro General, Costa Rica 11",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Waterfalls in Costa Rica|Self-published work|San Isidro General",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Reserva Skutch landscape",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-05-23 13:07:53",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:MongeNajera\" title=\"User:MongeNajera\">MongeNajera</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "43553895": {
+        "pageid": 43553895,
+        "ns": 6,
+        "title": "File:American forests (17526214614).jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1306016,
+            "width": 2010,
+            "height": 1578,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/American_forests_%2817526214614%29.jpg/960px-American_forests_%2817526214614%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 603,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/American_forests_%2817526214614%29.jpg/1920px-American_forests_%2817526214614%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/American_forests_%2817526214614%29.jpg/960px-American_forests_%2817526214614%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 603,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/American_forests_%2817526214614%29.jpg/1920px-American_forests_%2817526214614%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/American_forests_%2817526214614%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:American_forests_(17526214614).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=43553895",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-09-23 12:34:32",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "American forests (17526214614)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Photos uploaded from Flickr by Fæ using a script|Flickr images reviewed by FlickreviewR|Files from Internet Archive Book Images Flickr stream|Files from Flickr's 'The Commons'|Media needing category review as of 23 September 2015|American Forestry, 1914",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<br>\n<p><b>Title</b>: American forests<br>\n<b>Identifier</b>: americanforests20natiuoft (<a class=\"external text\" href=\"https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&amp;profile=default&amp;fulltext=Search&amp;search=insource%3A%2Famericanforests20natiuoft%2F\">find matches</a>)<br>\n<b>Year</b>: <a rel=\"nofollow\" class=\"external autonumber\" href=\"https://www.flickr.com/search/?tags=bookyear\">[1]</a> (<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/search/?tags=bookdecade\">s</a>)<br>\n<b>Authors</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/search/?tags=bookauthorNational_Irrigation_Association_U_S_\">National Irrigation Association (U. S. )</a>; <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/search/?tags=bookauthorNew_Jersey_Forestry_Association\">New Jersey Forestry Association</a>; <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/search/?tags=bookauthorSouth_Jersey_Woodmen_s_Association\">South Jersey Woodmen's Association</a>; <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/search/?tags=bookauthorAmerican_Forestry_Association\">American Forestry Association</a><br>\n<b>Subjects</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/search/?tags=booksubjectForests_and_forestry_Periodicals\">Forests and forestry -- Periodicals</a><br>\n<b>Publisher</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/search/?tags=bookpublisherWashington_etc_American_Forestry_Association_etc_\">Washington (etc. ) American Forestry Association (etc. )</a><br>\n<b>Contributing Library</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/search/?tags=bookcontributorEarth_Sciences_University_of_Toronto\">Earth Sciences - University of Toronto</a><br>\n<b>Digitizing Sponsor</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/search/?tags=booksponsorMSN\">MSN</a><br>\n<br>\n<b>View Book Page</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/stream/americanforests20natiuoft/#page/n891/mode/1up\">Book Viewer</a><br>\n<b>About This Book</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/details/americanforests20natiuoft\">Catalog Entry</a><br>\n<b>View All Images</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/search/?tags=bookid.americanforests20natiuoft\">All Images From Book</a><br>\nClick here to <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/stream/americanforests20natiuoft/#page/n891/mode/1up\"><b>view book online</b></a> to see this illustration in context in a browseable online version of this book.<br>\n<br>\n<b>Text Appearing Before Image: </b><br>\n<i>876 AMERICAN FORESTRY</i><br>\n<b>Text Appearing After Image: </b><br>\n<i>A Native House on the Beach. THERE IS ALMOST A CONTINUOUS SETTLEMENT ALONG THE BEACH FRONT AROUND THE ENTIRE ISLAND, THE HOUSES BEING ERECTED IN GROVES OF COCOANUTS, BREADFRUIT, MANGOES, ORANGES, BANYANS, AND BAMBOO. quent of pearls and divers, blackbirding and piracy, typhoons, wrecks, and all the adventures of beach and lagoon that make up South Sea history. Yet so charming a scene hardly befits such themes. Rainbow colored fish play through the coral along the very seawall at your feet, the placid green lagoon meets a skyline of palms on either hand, and seaward, beyond a tiny palm-covered islet where a queen once had her fortress, the surf rolls creaming on the barrier reef from the blue tropical ocean, rippling in the soft fresh Trades. Behind the town, itself hidden in verdure, green slopes rise quickly to splintered volcanic peaks nearly 8,000 feet high, carved by pre- cipitous valleys with countless flashing waterfalls. Melville wrote that the ineffable repose and beauty of the Tahitian landscape was such that every object struck him like something seen in a dream and he could scarcely believe such scenes had real existence. \"Of- ten,\" said Bougainville, \"I thought I was walking in the Garden of Eden.\" Papeete is the only town, but the fertile level shores of the island are so thickly populated as to form almost a continuous village along the road that skirts the beach for its circumference, of nearly 100 miles. Yet there is prac- tically no open land except in the unin- habited mountains. Houses and vil- lages are beneath endless groves of cocoanuts, breadfruit, mangoes, oranges, banyans and bamboo, with occasional ornamental exotics from other tropical lands. Alligator pears, native \"chest- nuts,\" mummy-apples and bananas, are in almost every dooryard. Except for two small sugar plantations, a few half- hearted cotton patches, and small clearings for taro, yams and other vege- tables, there is no farming as we know it. Copra and vanilla are the island crops.</i><br>\n<br>\n<b>Note About Images</b><br>\n</p>\n<i>Please note that these images are extracted from scanned page images that may have been digitally enhanced for readability - coloration and appearance of these illustrations may not perfectly resemble the original work.</i>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1825",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/internetarchivebookimages/17526214614/\">https://www.flickr.com/photos/internetarchivebookimages/17526214614/</a>\n</p>\n<ul><li>Source book page: <a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/stream/americanforests20natiuoft/#page/n891/mode/1up\">https://archive.org/stream/americanforests20natiuoft/#page/n891/mode/1up</a></li></ul>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/126377022@N07\">Internet Archive Book Images</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "At the time of upload, the image license was automatically confirmed using the Flickr <a href=\"https://en.wikipedia.org/wiki/API\" class=\"extiw\" title=\"en:API\">API</a>. For more information see <a href=\"//commons.wikimedia.org/wiki/User:F%C3%A6/Flickr_API_detail\" title=\"User:Fæ/Flickr API detail\">Flickr API detail</a>.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "No restrictions",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "No known copyright restrictions",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://www.flickr.com/commons/usage/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "92721005": {
+        "pageid": 92721005,
+        "ns": 6,
+        "title": "File:South Brazil - In Explore 06-23-2015 - Flickr - Doug Scortegagna.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 17896045,
+            "width": 4320,
+            "height": 3240,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/South_Brazil_-_In_Explore_06-23-2015_-_Flickr_-_Doug_Scortegagna.jpg/960px-South_Brazil_-_In_Explore_06-23-2015_-_Flickr_-_Doug_Scortegagna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/South_Brazil_-_In_Explore_06-23-2015_-_Flickr_-_Doug_Scortegagna.jpg/1920px-South_Brazil_-_In_Explore_06-23-2015_-_Flickr_-_Doug_Scortegagna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/South_Brazil_-_In_Explore_06-23-2015_-_Flickr_-_Doug_Scortegagna.jpg/960px-South_Brazil_-_In_Explore_06-23-2015_-_Flickr_-_Doug_Scortegagna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/South_Brazil_-_In_Explore_06-23-2015_-_Flickr_-_Doug_Scortegagna.jpg/1920px-South_Brazil_-_In_Explore_06-23-2015_-_Flickr_-_Doug_Scortegagna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/South_Brazil_-_In_Explore_06-23-2015_-_Flickr_-_Doug_Scortegagna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:South_Brazil_-_In_Explore_06-23-2015_-_Flickr_-_Doug_Scortegagna.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92721005",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-07-30 03:02:08",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "South Brazil - In Explore 06-23-2015 - Flickr - Doug Scortegagna",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Santa Catarina|Rivers of Brazil|Images with watermarks|Forests in Brazil|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Brazil photographs taken on 2014-12-30|Flickr files uploaded by Red panda bot|Photos in Flickr Explore|Photographs by Doug Scortegagna",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-27.952861",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-49.647560",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "At Urubici, Santa Catarina, Brazil",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 30 December 2014, 15:48",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/douglucas/18886832919/\">South Brazil - In Explore 06-23-2015</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/56551021@N06\">Douglas  Scortegagna</a> from Flores da Cunha, Brasil",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "107713545": {
+        "pageid": 107713545,
+        "ns": 6,
+        "title": "File:Photos of natural landscapes and tropical forests in Indonesia. view of the new alley waterfall in North Bengkulu. tourist destination for photographers or those who like to travel.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7147009,
+            "width": 5000,
+            "height": 3333,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Photos_of_natural_landscapes_and_tropical_forests_in_Indonesia._view_of_the_new_alley_waterfall_in_North_Bengkulu._tourist_destination_for_photographers_or_those_who_like_to_travel.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 512,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Photos_of_natural_landscapes_and_tropical_forests_in_Indonesia._view_of_the_new_alley_waterfall_in_North_Bengkulu._tourist_destination_for_photographers_or_those_who_like_to_travel.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Photos_of_natural_landscapes_and_tropical_forests_in_Indonesia._view_of_the_new_alley_waterfall_in_North_Bengkulu._tourist_destination_for_photographers_or_those_who_like_to_travel.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 512,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Photos_of_natural_landscapes_and_tropical_forests_in_Indonesia._view_of_the_new_alley_waterfall_in_North_Bengkulu._tourist_destination_for_photographers_or_those_who_like_to_travel.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Photos_of_natural_landscapes_and_tropical_forests_in_Indonesia._view_of_the_new_alley_waterfall_in_North_Bengkulu._tourist_destination_for_photographers_or_those_who_like_to_travel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Photos_of_natural_landscapes_and_tropical_forests_in_Indonesia._view_of_the_new_alley_waterfall_in_North_Bengkulu._tourist_destination_for_photographers_or_those_who_like_to_travel.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=107713545",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-07-20 17:36:08",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Photos of natural landscapes and tropical forests in Indonesia. view of the new alley waterfall in North Bengkulu. tourist destination for photographers or those who like to travel",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "North Bengkulu Regency|Self-published work|Nature of Sumatra",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "photos of natural landscapes and tropical forests in Indonesia. view of the new alley waterfall in North Bengkulu. tourist destination for photographers or those who like to travel",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-06-12 09:10:18",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:RahmadHimawan_Photography\" title=\"User:RahmadHimawan Photography\">RahmadHimawan Photography</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "169312958": {
+        "pageid": 169312958,
+        "ns": 6,
+        "title": "File:AguaAzulWaterfalls.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1704820,
+            "width": 2268,
+            "height": 4032,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/AguaAzulWaterfalls.jpg/960px-AguaAzulWaterfalls.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1365,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/AguaAzulWaterfalls.jpg/1920px-AguaAzulWaterfalls.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/AguaAzulWaterfalls.jpg/960px-AguaAzulWaterfalls.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1365,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/AguaAzulWaterfalls.jpg/1920px-AguaAzulWaterfalls.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/AguaAzulWaterfalls.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:AguaAzulWaterfalls.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=169312958",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-07-05 21:15:33",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "AguaAzulWaterfalls",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Cascadas de Agua Azul|Self-published work|Files with coordinates missing SDC location of creation|2025 in Tabasco",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "17.284603",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-91.687456",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "This stunning photo captures the Agua Azul Waterfalls, a breathtaking natural wonder located in the state of Chiapas, Mexico. The image showcases:\n<p>A majestic, multi-tiered waterfall cascading down rugged limestone cliffs, framed by dense tropical forest.\n</p><p>The water, rich in minerals, appears a vivid turquoise blue, a signature feature of Agua Azul, especially striking in the daylight.\n</p><p>Below the falls, the rushing river weaves through a series of natural pools and rocky platforms, creating whitewater rapids and calm, reflective pockets.\n</p><p>The lush greenery surrounding the scene adds contrast and serenity, embodying the untouched beauty of Mexico’s jungle regions.\n</p>\nThis photo evokes a sense of peace and awe—a perfect representation of Chiapas’ raw, natural allure and one of Mexico’s most photogenic landscapes.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-07-05",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:MAURICELAURIANO&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:MAURICELAURIANO (page does not exist)\">MAURICELAURIANO</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "186961637": {
+        "pageid": 186961637,
+        "ns": 6,
+        "title": "File:Forest Waterfall and Reflections ^explore - Flickr - Carlos Eduardo Joos.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 121875344,
+            "width": 15811,
+            "height": 10541,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Forest_Waterfall_and_Reflections_%5Eexplore_-_Flickr_-_Carlos_Eduardo_Joos.jpg/960px-Forest_Waterfall_and_Reflections_%5Eexplore_-_Flickr_-_Carlos_Eduardo_Joos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 512,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Forest_Waterfall_and_Reflections_%5Eexplore_-_Flickr_-_Carlos_Eduardo_Joos.jpg/1920px-Forest_Waterfall_and_Reflections_%5Eexplore_-_Flickr_-_Carlos_Eduardo_Joos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Forest_Waterfall_and_Reflections_%5Eexplore_-_Flickr_-_Carlos_Eduardo_Joos.jpg/960px-Forest_Waterfall_and_Reflections_%5Eexplore_-_Flickr_-_Carlos_Eduardo_Joos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 512,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Forest_Waterfall_and_Reflections_%5Eexplore_-_Flickr_-_Carlos_Eduardo_Joos.jpg/1920px-Forest_Waterfall_and_Reflections_%5Eexplore_-_Flickr_-_Carlos_Eduardo_Joos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Forest_Waterfall_and_Reflections_%5Eexplore_-_Flickr_-_Carlos_Eduardo_Joos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Forest_Waterfall_and_Reflections_%5Eexplore_-_Flickr_-_Carlos_Eduardo_Joos.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=186961637",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-03-25 03:44:39",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Forest Waterfall and Reflections ^explore - Flickr - Carlos Eduardo Joos",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Flickr images reviewed by FlickreviewR 2|Flickr files uploaded by Red panda bot|Photos in Flickr Explore|Photographs taken on 2026-01-10|Flickr images missing SDC published in|All media needing categories as of 2026|Media needing categories as of 25 March 2026",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Hidden deep within the forest, a quiet pool reflects the lush greenery and soft light filtering through the trees. A gentle waterfall feeds the amber-toned water, while the long exposure smooths the surface into a mirror of the surrounding wilderness. In this secluded corner of nature, time seems to slow and the forest speaks only in whispers.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 10 January 2026, 17:25",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/joos-gallery/55151031079/\">Forest Waterfall and Reflections #explore</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/40181214@N06\">Carlos Eduardo Joos</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "195194086": {
+        "pageid": 195194086,
+        "ns": 6,
+        "title": "File:(Landscape of a forest in Kohala, United States) - DPLA - 11d3eb1a722ef0e87c3f907ada7271e1.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 364780,
+            "width": 1500,
+            "height": 1504,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/%28Landscape_of_a_forest_in_Kohala%2C_United_States%29_-_DPLA_-_11d3eb1a722ef0e87c3f907ada7271e1.jpg/960px-%28Landscape_of_a_forest_in_Kohala%2C_United_States%29_-_DPLA_-_11d3eb1a722ef0e87c3f907ada7271e1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 770,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/c/c2/%28Landscape_of_a_forest_in_Kohala%2C_United_States%29_-_DPLA_-_11d3eb1a722ef0e87c3f907ada7271e1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/%28Landscape_of_a_forest_in_Kohala%2C_United_States%29_-_DPLA_-_11d3eb1a722ef0e87c3f907ada7271e1.jpg/960px-%28Landscape_of_a_forest_in_Kohala%2C_United_States%29_-_DPLA_-_11d3eb1a722ef0e87c3f907ada7271e1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 770,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/c/c2/%28Landscape_of_a_forest_in_Kohala%2C_United_States%29_-_DPLA_-_11d3eb1a722ef0e87c3f907ada7271e1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/%28Landscape_of_a_forest_in_Kohala%2C_United_States%29_-_DPLA_-_11d3eb1a722ef0e87c3f907ada7271e1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:(Landscape_of_a_forest_in_Kohala,_United_States)_-_DPLA_-_11d3eb1a722ef0e87c3f907ada7271e1.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195194086",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-07-05 20:54:42",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "(Landscape of a forest in Kohala, United States) - DPLA - 11d3eb1a722ef0e87c3f907ada7271e1",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Media contributed by the Digital Public Library of America|Media contributed by The Portal to Texas History|Media contributed by Botanical Research Institute of Texas",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "Carlquist, Sherwin John, 1930-2021",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Photograph of a landscape of a forest in Kohala, United States. The image shows a broad view of a steep forested canyon with several narrow waterfalls descending along the cliff faces. Dense tropical vegetation covers the ridges and valley walls. The waterfalls appear as thin vertical streams cutting through the dark ravines, while distant hills stretch across the horizon beneath a pale sky.<br><br>1 photograph : positive, col. ; 4 x 4 cm.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "[1951..2012]",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span style=\"display:inline-block; padding: 4px 16px; vertical-align: middle;\"><span class=\"skin-invert\" typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Codex_icon_download_color-progressive.svg/40px-Codex_icon_download_color-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Codex_icon_download_color-progressive.svg/60px-Codex_icon_download_color-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"20\" data-file-height=\"20\"></span></span> <a rel=\"nofollow\" class=\"external text\" href=\"https://texashistory.unt.edu/iiif/ark:/67531/metapth1727908/m1/1/full/max/0/default.jpg\">File URL</a></span><span style=\"display:inline-block; padding: 4px 16px; vertical-align: middle; border-left: 2px solid #a2a9b1;\"><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/International_Image_Interoperability_Framework_logo.png/40px-International_Image_Interoperability_Framework_logo.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/International_Image_Interoperability_Framework_logo.png/60px-International_Image_Interoperability_Framework_logo.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"460\" data-file-height=\"460\"></span></span> <a rel=\"nofollow\" class=\"external text\" href=\"https://texashistory.unt.edu/ark:/67531/metapth1727908/manifest/\">IIIF manifest</a></span><span style=\"display:inline-block; padding: 4px 16px; vertical-align: middle; border-left: 2px solid #a2a9b1;\"><span class=\"skin-invert\" typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Breezeicons-actions-22-database-index.svg/40px-Breezeicons-actions-22-database-index.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Breezeicons-actions-22-database-index.svg/60px-Breezeicons-actions-22-database-index.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"512\"></span></span> <a rel=\"nofollow\" class=\"external text\" href=\"https://texashistory.unt.edu/ark:/67531/metapth1727908/\">Catalog record</a></span>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/4.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/4.0/deed.en\">Attribution 4.0 International</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">Carlquist, Sherwin John, 1930-2021 / <span class=\"plainlinks noprint\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/\">Cc-by-4.0</a></span></div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/4.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 4.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 4.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Carlquist, Sherwin John, 1930-2021 / <span class=\"plainlinks noprint\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/\">Cc-by-4.0</a></span>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "195194231": {
+        "pageid": 195194231,
+        "ns": 6,
+        "title": "File:(Landscape of a waterfall in Kohala, United States) - DPLA - 720719128f534bbcdf77998896a2e389.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 135975,
+            "width": 1500,
+            "height": 1504,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/%28Landscape_of_a_waterfall_in_Kohala%2C_United_States%29_-_DPLA_-_720719128f534bbcdf77998896a2e389.jpg/960px-%28Landscape_of_a_waterfall_in_Kohala%2C_United_States%29_-_DPLA_-_720719128f534bbcdf77998896a2e389.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 770,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/3/35/%28Landscape_of_a_waterfall_in_Kohala%2C_United_States%29_-_DPLA_-_720719128f534bbcdf77998896a2e389.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/%28Landscape_of_a_waterfall_in_Kohala%2C_United_States%29_-_DPLA_-_720719128f534bbcdf77998896a2e389.jpg/960px-%28Landscape_of_a_waterfall_in_Kohala%2C_United_States%29_-_DPLA_-_720719128f534bbcdf77998896a2e389.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 770,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/35/%28Landscape_of_a_waterfall_in_Kohala%2C_United_States%29_-_DPLA_-_720719128f534bbcdf77998896a2e389.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/%28Landscape_of_a_waterfall_in_Kohala%2C_United_States%29_-_DPLA_-_720719128f534bbcdf77998896a2e389.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:(Landscape_of_a_waterfall_in_Kohala,_United_States)_-_DPLA_-_720719128f534bbcdf77998896a2e389.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195194231",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-07-05 20:56:29",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "(Landscape of a waterfall in Kohala, United States) - DPLA - 720719128f534bbcdf77998896a2e389",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Media contributed by the Digital Public Library of America|Media contributed by The Portal to Texas History|Media contributed by Botanical Research Institute of Texas",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "Carlquist, Sherwin John, 1930-2021",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Photograph of a landscape of a waterfall in Kohala, United States. The image shows a tropical forest with dense vegetation and tree ferns surrounding a partially visible waterfall at the center of the photo. Dark tree branches frame the foreground, while layers of foliage recede into a foggy background.<br><br>1 photograph : positive, col. ; 4 x 4 cm.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "[1951..2012]",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span style=\"display:inline-block; padding: 4px 16px; vertical-align: middle;\"><span class=\"skin-invert\" typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Codex_icon_download_color-progressive.svg/40px-Codex_icon_download_color-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Codex_icon_download_color-progressive.svg/60px-Codex_icon_download_color-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"20\" data-file-height=\"20\"></span></span> <a rel=\"nofollow\" class=\"external text\" href=\"https://texashistory.unt.edu/iiif/ark:/67531/metapth1727907/m1/1/full/max/0/default.jpg\">File URL</a></span><span style=\"display:inline-block; padding: 4px 16px; vertical-align: middle; border-left: 2px solid #a2a9b1;\"><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/International_Image_Interoperability_Framework_logo.png/40px-International_Image_Interoperability_Framework_logo.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/International_Image_Interoperability_Framework_logo.png/60px-International_Image_Interoperability_Framework_logo.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"460\" data-file-height=\"460\"></span></span> <a rel=\"nofollow\" class=\"external text\" href=\"https://texashistory.unt.edu/ark:/67531/metapth1727907/manifest/\">IIIF manifest</a></span><span style=\"display:inline-block; padding: 4px 16px; vertical-align: middle; border-left: 2px solid #a2a9b1;\"><span class=\"skin-invert\" typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Breezeicons-actions-22-database-index.svg/40px-Breezeicons-actions-22-database-index.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Breezeicons-actions-22-database-index.svg/60px-Breezeicons-actions-22-database-index.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"512\"></span></span> <a rel=\"nofollow\" class=\"external text\" href=\"https://texashistory.unt.edu/ark:/67531/metapth1727907/\">Catalog record</a></span>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/4.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/4.0/deed.en\">Attribution 4.0 International</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">Carlquist, Sherwin John, 1930-2021 / <span class=\"plainlinks noprint\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/\">Cc-by-4.0</a></span></div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/4.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 4.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 4.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Carlquist, Sherwin John, 1930-2021 / <span class=\"plainlinks noprint\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/\">Cc-by-4.0</a></span>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "197580609": {
+        "pageid": 197580609,
+        "ns": 6,
+        "title": "File:Keindahan Air Terjun Sarasah Gaduik.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1287380,
+            "width": 2268,
+            "height": 1276,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Keindahan_Air_Terjun_Sarasah_Gaduik.jpg/960px-Keindahan_Air_Terjun_Sarasah_Gaduik.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 432,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Keindahan_Air_Terjun_Sarasah_Gaduik.jpg/1920px-Keindahan_Air_Terjun_Sarasah_Gaduik.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Keindahan_Air_Terjun_Sarasah_Gaduik.jpg/960px-Keindahan_Air_Terjun_Sarasah_Gaduik.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 432,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Keindahan_Air_Terjun_Sarasah_Gaduik.jpg/1920px-Keindahan_Air_Terjun_Sarasah_Gaduik.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Keindahan_Air_Terjun_Sarasah_Gaduik.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Keindahan_Air_Terjun_Sarasah_Gaduik.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=197580609",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-08-16 06:15:01",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Keindahan Air Terjun Sarasah Gaduik",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Agam Regency|Self-published work|Landscapes of Indonesia|Kompetisi Fotografi WikiJalajah 2.0|Natural monuments of Indonesia|Waterfalls of West Sumatra",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The beautiful Sarasah Gaduik Waterfall is located in the campus area of Andalas University, Padang, West Sumatra. This tiered waterfall flows down over black rocks surrounded by dense tropical forest that creates a cool and peaceful atmosphere. The clear water and green scenery make it a favorite nature spot for students and visitors. Sarasah Gaduik represents the natural beauty of West Sumatra and reminds us to preserve forests and waterfalls as important ecosystems and educational tourist destinations for future generations.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-07-05",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:DahliaDahlia_Putri\" title=\"User:DahliaDahlia Putri\">DahliaDahlia Putri</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

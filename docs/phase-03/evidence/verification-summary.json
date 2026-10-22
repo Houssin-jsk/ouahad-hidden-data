@@ -1,0 +1,102 @@
+{
+  "recordedAt": "2026-10-21T01:05:50.532Z",
+  "phase03": "BLOCKED",
+  "selectedModel": null,
+  "reason": "Calibrated covered test coverage 1/7 < .5; no qualifying production candidate. Converted-asset clearance and actual Vercel hosting qualification also incomplete.",
+  "units": {
+    "tests": 82,
+    "pass": 82,
+    "fail": 0,
+    "skipped": 0
+  },
+  "browser": {
+    "initial": {
+      "startTime": "2026-10-21T00:48:07.325Z",
+      "duration": 172318.428,
+      "expected": 47,
+      "skipped": 0,
+      "unexpected": 3,
+      "flaky": 0
+    },
+    "unchangedRecheck": {
+      "startTime": "2026-10-21T00:52:39.195Z",
+      "duration": 26674.649,
+      "expected": 3,
+      "skipped": 0,
+      "unexpected": 0,
+      "flaky": 0
+    },
+    "finalSerial": {
+      "startTime": "2026-10-21T00:53:27.200Z",
+      "duration": 499038.946,
+      "expected": 50,
+      "skipped": 0,
+      "unexpected": 0,
+      "flaky": 0
+    }
+  },
+  "research": {
+    "corpusTest": {
+      "passed": 1,
+      "source": "Observed successful Playwright process session68757; lifecycle.json written after all assertions"
+    },
+    "reproduction": {
+      "startTime": "2026-10-21T01:02:53.888Z",
+      "duration": 16543.632999999998,
+      "expected": 1,
+      "skipped": 0,
+      "unexpected": 0,
+      "flaky": 0
+    },
+    "recordedInferences": 40,
+    "additionalSuccessfulManualRetry": true,
+    "gpuProbe": {
+      "exposed": true,
+      "adapterAvailable": true,
+      "inferenceTested": false
+    }
+  },
+  "qualityGates": {
+    "coveredTop1": true,
+    "coveredTop4": true,
+    "acceptedPrecision": true,
+    "coveredCoverage": false,
+    "unsupportedFalseAccepts": true
+  },
+  "observedCommandOutcomes": {
+    "unit": "passed",
+    "lint": "passed",
+    "typecheck": "passed",
+    "researchBuild": "passed",
+    "productionBuild": "passed",
+    "releaseInspection": "passed"
+  },
+  "isolation": {
+    "target": "non-AI release",
+    "routes": [
+      "/_global-error/page",
+      "/_not-found/page",
+      "/page"
+    ],
+    "publicFiles": [
+      "public\\brand\\app_icon.png",
+      "public\\brand\\logo_#077F64.png",
+      "public\\brand\\logo_#3590DF.png",
+      "public\\brand\\logo_#F3A339.png",
+      "public\\brand\\logo_black.png",
+      "public\\brand\\Logo_White.png"
+    ],
+    "inspectedOutputFiles": 78,
+    "aiTokensFound": false,
+    "modelAssetsFound": false
+  },
+  "assets": {
+    "audited": 14,
+    "fixtures": 20,
+    "installedRuntimeMatches": 2
+  },
+  "productionModified": false,
+  "committed": false,
+  "pushed": false,
+  "phase04Started": false
+}

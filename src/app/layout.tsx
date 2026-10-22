@@ -3,7 +3,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "HIDDEN DATA — by OUAHAD SPACE",
   description:
-    "Every image has a story. Explore color and light, privately in your browser.",
+    "Explore color and light locally in your browser, with optional, consent-based Cloud AI observations.",
   icons: { icon: "/brand/app_icon.png" },
 };
 export default function RootLayout({

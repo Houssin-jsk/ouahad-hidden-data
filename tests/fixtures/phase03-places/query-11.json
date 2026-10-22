@@ -1,0 +1,1174 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 10,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "8712015": {
+        "pageid": 8712015,
+        "ns": 6,
+        "title": "File:Pongrácz Kálmán sírja.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 232333,
+            "width": 800,
+            "height": 600,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Pongr%C3%A1cz_K%C3%A1lm%C3%A1n_s%C3%ADrja.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/Pongr%C3%A1cz_K%C3%A1lm%C3%A1n_s%C3%ADrja.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Pongr%C3%A1cz_K%C3%A1lm%C3%A1n_s%C3%ADrja.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pongr%C3%A1cz_K%C3%A1lm%C3%A1n_s%C3%ADrja.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=8712015",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2009-12-10 11:32:34",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Pongrácz Kálmán sírja",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Kálmán Pongrácz|Items with VRTS permission confirmed|Stone sculptures in Hungary|1982 sculptures in Hungary|Steel sculptures in Hungary|Aluminium sculptures in Hungary|Photographs by József Varga|Abstract sculptures in Hungary|Budapest in art|Tombs with sculpture in Farkasréti Cemetery|Sculptures by István Marosits",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Tomb of Kálmán Pongrácz (1898 - 1980). The abstract stone sculpture with steel sculpture and aluminium elements is symbolizing Budapest. The sculpture mad by István Marosits. Inaugurated on October 11, 1982",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.agt.bme.hu/varga/foto/farkasreti/pongracz.html\">http://www.agt.bme.hu/varga/foto/farkasreti/pongracz.html</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Dr Varga József",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<p><span class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=PermissionTicket 1%3Dhttps%3A%2F%2Fticket.wikimedia.org%2Fotrs%2Findex.pl%3FAction%3DAgentTicketZoom%26TicketNumber%3D2008090810023993 2%3D2008090810023993\"> </span>\n</p>\n<style data-mw-deduplicate=\"TemplateStyles:r1254222110\">.mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-subtle,#fbfcff);color:var(--color-base,#202122);box-sizing:border-box;border-inline-start-width:8px}.mw-parser-output .messagebox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .mbox-warning,.mw-parser-output .mbox-speedy{border:2px solid var(--border-color-error,#b22222);background:var(--background-color-error-subtle,#ffdbdb);border-inline-start-width:8px}.mw-parser-output .mbox-serious,.mw-parser-output .mbox-delete,.mw-parser-output .mbox-stop{border:2px solid var(--border-color-error,#b22222);border-inline-start-width:8px}.mw-parser-output .mbox-issue,.mw-parser-output .mbox-content{border:2px solid #f28500;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-query,.mw-parser-output .mbox-style{border:2px solid #f4c430;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-shit{border:2px solid #960;border-inline-start-width:8px}.mw-parser-output .mbox-license{border:2px solid #88a;border-inline-start-width:initial}.mw-parser-output .mbox-legal{border:2px solid var(--border-color-notice,#666);background:var(--background-color-base,#fff);border-inline-start-width:8px}.mw-parser-output .mbox-honor{border:2px solid #ca3;background:var(--background-color-warning-subtle,#fcf4db);border-inline-start-width:8px}.mw-parser-output .mbox-growth{border:2px solid #8d4;background:var(--background-color-success-subtle,#d5fdf4);border-inline-start-width:8px}.mw-parser-output .mbox-move{border:2px solid #93c;border-inline-start-width:8px}.mw-parser-output .mbox-protection,.mw-parser-output .mbox-message{border:2px solid var(--border-color-base,#aaa);border-inline-start-width:8px}.mw-parser-output .messagebox .mbox-text{border:none;padding:0.25em 0.9em;width:100%}.mw-parser-output .messagebox .mbox-image{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0.9em;padding-inline-end:0;text-align:center}.mw-parser-output .messagebox .mbox-imageright{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0;padding-inline-end:0.9em;text-align:center}.mw-parser-output .messagebox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .messagebox .mbox-invalid-type{text-align:center}@media(min-width:720px){.mw-parser-output .messagebox{margin:4px 10%}.mw-parser-output .messagebox.mbox-small{clear:right;float:right;margin:4px 0 4px 1em;width:238px}}body.skin--responsive .mw-parser-output table.messagebox img{max-width:none!important}</style><table class=\"plainlinks messagebox mbox-notice layouttemplate\" role=\"presentation\" style=\"margin:0.3em 0;width:100%;\"><tbody><tr><td class=\"mbox-image\"><span typeof=\"mw:File\"><span title=\"VRT Wikimedia\"><img alt=\"VRT Wikimedia\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/120px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"75\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/250px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"935\" data-file-height=\"600\"></span></span></td><td class=\"mbox-text\">This work is <a href=\"https://freedomdefined.org/Definition\" class=\"extiw\" title=\"freedomdefined:Definition\">free</a> and may be used by anyone for any purpose. If you wish to <b><a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">use this content</a></b>, you do not need to request permission as long as you follow any licensing requirements mentioned on this page.\n<p>The Wikimedia Foundation has received an e-mail confirming that the copyright holder has approved publication under the terms mentioned on this page. This correspondence has been <b><span style=\"background:transparent;color:#0f7f1f;font-weight:400;\" title=\"transparent\">reviewed</span></b> by a <a href=\"//commons.wikimedia.org/wiki/Template:PermissionTicket/Users\" title=\"Template:PermissionTicket/Users\">Volunteer Response Team (VRT) member</a> and stored in our <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team\" title=\"Commons:Volunteer Response Team\">permission archive</a>. The correspondence is available to trusted volunteers as <b><a href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2008090810023993\" class=\"extiw\" title=\"ticket:2008090810023993\">ticket #2008090810023993</a></b>.\n</p><p><small>If you have questions about the archived correspondence, please use the <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team/Noticeboard\" title=\"Commons:Volunteer Response Team/Noticeboard\">VRT noticeboard</a>.</small>\n<small>Ticket link: <a class=\"external free\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2008090810023993\">https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2008090810023993</a></small>\n<br><small>Find other files from the same ticket:</small> <span typeof=\"mw:File\"><a href=\"https://wcqs-beta.wmflabs.org/#%23defaultView%3AImageGrid%09%0ASELECT%20%3Fimage%20%20%20%7B%0A%20%20%3Ffile%20wdt%3AP6305%20%222008090810023993%22%20.%0A%20%20%3Ffile%20schema%3Aurl%20%3Fimage.%0A%7D%20%0A\" title=\"SDC query (SPARQL)\" rel=\"nofollow\"><img alt=\"SDC query (SPARQL)\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/20px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"15\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/40px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"688\"></a></span>\n</p>\n<span id=\"field-otrs\" title=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2008090810023993\"></span></td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "62438907": {
+        "pageid": 62438907,
+        "ns": 6,
+        "title": "File:Abstract sculpture by Ádám Farkas, 2017 Tatabánya.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 983131,
+            "width": 1704,
+            "height": 2272,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Abstract_sculpture_by_%C3%81d%C3%A1m_Farkas%2C_2017_Tatab%C3%A1nya.jpg/960px-Abstract_sculpture_by_%C3%81d%C3%A1m_Farkas%2C_2017_Tatab%C3%A1nya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1024,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Abstract_sculpture_by_%C3%81d%C3%A1m_Farkas%2C_2017_Tatab%C3%A1nya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Abstract_sculpture_by_%C3%81d%C3%A1m_Farkas%2C_2017_Tatab%C3%A1nya.jpg/960px-Abstract_sculpture_by_%C3%81d%C3%A1m_Farkas%2C_2017_Tatab%C3%A1nya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1024,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Abstract_sculpture_by_%C3%81d%C3%A1m_Farkas%2C_2017_Tatab%C3%A1nya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Abstract_sculpture_by_%C3%81d%C3%A1m_Farkas%2C_2017_Tatab%C3%A1nya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Abstract_sculpture_by_%C3%81d%C3%A1m_Farkas,_2017_Tatab%C3%A1nya.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=62438907",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-09-14 20:50:08",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Abstract sculpture by Ádám Farkas, 2017 Tatabánya",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|July 2017 Hungary photographs|2017 in Tatabánya|Térforma (Farkas Ádám), Tatabánya",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "47.579169",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "18.389167",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": " : Abstract sculpture by Ádám Farkas (1981, stone). - Dózsa Street, <a href=\"https://en.wikipedia.org/wiki/Tatab%C3%A1nya\" class=\"extiw\" title=\"en:Tatabánya\">Tatabánya</a>, <a href=\"https://en.wikipedia.org/wiki/Kom%C3%A1rom-Esztergom_County\" class=\"extiw\" title=\"en:Komárom-Esztergom County\">Komárom-Esztergom County</a>, <a href=\"https://en.wikipedia.org/wiki/Hungary\" class=\"extiw\" title=\"en:Hungary\">Hungary</a>.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Globetrotter19\" title=\"User:Globetrotter19\">Globetrotter19</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "68193533": {
+        "pageid": 68193533,
+        "ns": 6,
+        "title": "File:Museo de Escultura al Aire Libre de Alcalá de Henares (RPS 15-07-2012) Feliciano.png",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 13829362,
+            "width": 4000,
+            "height": 2248,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Museo_de_Escultura_al_Aire_Libre_de_Alcal%C3%A1_de_Henares_%28RPS_15-07-2012%29_Feliciano.png/960px-Museo_de_Escultura_al_Aire_Libre_de_Alcal%C3%A1_de_Henares_%28RPS_15-07-2012%29_Feliciano.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 432,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Museo_de_Escultura_al_Aire_Libre_de_Alcal%C3%A1_de_Henares_%28RPS_15-07-2012%29_Feliciano.png/1920px-Museo_de_Escultura_al_Aire_Libre_de_Alcal%C3%A1_de_Henares_%28RPS_15-07-2012%29_Feliciano.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Museo_de_Escultura_al_Aire_Libre_de_Alcal%C3%A1_de_Henares_%28RPS_15-07-2012%29_Feliciano.png/960px-Museo_de_Escultura_al_Aire_Libre_de_Alcal%C3%A1_de_Henares_%28RPS_15-07-2012%29_Feliciano.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 432,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Museo_de_Escultura_al_Aire_Libre_de_Alcal%C3%A1_de_Henares_%28RPS_15-07-2012%29_Feliciano.png/1920px-Museo_de_Escultura_al_Aire_Libre_de_Alcal%C3%A1_de_Henares_%28RPS_15-07-2012%29_Feliciano.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Museo_de_Escultura_al_Aire_Libre_de_Alcal%C3%A1_de_Henares_%28RPS_15-07-2012%29_Feliciano.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Museo_de_Escultura_al_Aire_Libre_de_Alcal%C3%A1_de_Henares_(RPS_15-07-2012)_Feliciano.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=68193533",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-04-09 20:54:06",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Museo de Escultura al Aire Libre de Alcalá de Henares (RPS 15-07-2012) Feliciano",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Geometric abstraction|Abstract sculptures|Feliciano Hernández|Museo de Escultura al Aire Libre de Alcalá de Henares|Self-published work|FoP-Spain|1993 sculptures in Spain|Files by User:Raimundo Pastor|Granite sculptures in Spain|July 2012 in Alcalá de Henares|Spain photographs taken on 2012-07-15|Gray sculptures in Spain|Museums in Alcalá de Henares photographed in 2012|PNG photos|Stone statues in Alcalá de Henares|20th-century sculptures in Alcalá de Henares",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "40.485936",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-3.362539",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Feliciano sculpture at the <a href=\"https://en.wikipedia.org/wiki/en:Museo_de_Escultura_al_Aire_Libre_de_Alcal%C3%A1_de_Henares\" class=\"extiw\" title=\"w:en:Museo de Escultura al Aire Libre de Alcalá de Henares\">Museum of Outdoor Sculpture of Alcala de Henares</a> (<a href=\"//commons.wikimedia.org/wiki/Community_of_Madrid\" class=\"mw-redirect\" title=\"Community of Madrid\">Community of Madrid</a> - <a href=\"//commons.wikimedia.org/wiki/Spain\" class=\"mw-redirect\" title=\"Spain\">Spain</a>).",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2012-07-15",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Raimundo_Pastor\" title=\"User:Raimundo Pastor\">Raimundo Pastor</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "The photographical reproduction of this work is covered under the article 35.2 of the <a rel=\"nofollow\" class=\"external text\" href=\"http://civil.udg.es/normacivil/estatal/reals/Lpi.html\">Royal Legislative Decree 1/1996 of April 12, 1996</a>, and amended by <a rel=\"nofollow\" class=\"external text\" href=\"http://noticias.juridicas.com/base_datos/Admin/l5-1998.html\">Law 5/1998 of March 6, 1998</a>, which states that:\n<dl><dd>Works permanently located in parks or on streets, squares or other public thoroughfares may be freely reproduced, distributed and communicated by painting, drawing, photography and audiovisual processes.</dd></dl>\nSee <a href=\"//commons.wikimedia.org/wiki/Commons:CRT/Spain#Freedom_of_panorama\" class=\"mw-redirect\" title=\"Commons:CRT/Spain\">COM:CRT/Spain#Freedom of panorama</a> for more information.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "81142635": {
+        "pageid": 81142635,
+        "ns": 6,
+        "title": "File:Szellő (Sen Mitsui), 2019 Veresegyház.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 980119,
+            "width": 2272,
+            "height": 1704,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Szell%C5%91_%28Sen_Mitsui%29%2C_2019_Veresegyh%C3%A1z.jpg/960px-Szell%C5%91_%28Sen_Mitsui%29%2C_2019_Veresegyh%C3%A1z.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Szell%C5%91_%28Sen_Mitsui%29%2C_2019_Veresegyh%C3%A1z.jpg/1920px-Szell%C5%91_%28Sen_Mitsui%29%2C_2019_Veresegyh%C3%A1z.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Szell%C5%91_%28Sen_Mitsui%29%2C_2019_Veresegyh%C3%A1z.jpg/960px-Szell%C5%91_%28Sen_Mitsui%29%2C_2019_Veresegyh%C3%A1z.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Szell%C5%91_%28Sen_Mitsui%29%2C_2019_Veresegyh%C3%A1z.jpg/1920px-Szell%C5%91_%28Sen_Mitsui%29%2C_2019_Veresegyh%C3%A1z.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Szell%C5%91_%28Sen_Mitsui%29%2C_2019_Veresegyh%C3%A1z.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Szell%C5%91_(Sen_Mitsui),_2019_Veresegyh%C3%A1z.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81142635",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-08-08 21:11:01",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Szellő (Sen Mitsui), 2019 Veresegyház",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Abstract sculptures|Sen Mitsui|Self-published work|Stone sculptures in Hungary|1994 sculptures in Hungary|FoP-Hungary|On OSM|Files with coordinates missing SDC location of creation|June 2019 Hungary photographs|Sculptures in Veresegyház",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "47.641676",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "19.275244",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": " : Breeze by Sen Mitsui - Ivacs neighborhood, <a href=\"https://en.wikipedia.org/wiki/Veresegyh%C3%A1z\" class=\"extiw\" title=\"en:Veresegyház\">Veresegyház</a>, <a href=\"https://en.wikipedia.org/wiki/Pest_County\" class=\"extiw\" title=\"en:Pest County\">Pest County</a>, <a href=\"https://en.wikipedia.org/wiki/Hungary\" class=\"extiw\" title=\"en:Hungary\">Hungary</a>.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-06",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Globetrotter19\" title=\"User:Globetrotter19\">Globetrotter19</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "93452020": {
+        "pageid": 93452020,
+        "ns": 6,
+        "title": "File:Modern sculptures, Kálmán Imre Square, 2020 Nyergesújfalu.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1021015,
+            "width": 2272,
+            "height": 1704,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Modern_sculptures%2C_K%C3%A1lm%C3%A1n_Imre_Square%2C_2020_Nyerges%C3%BAjfalu.jpg/960px-Modern_sculptures%2C_K%C3%A1lm%C3%A1n_Imre_Square%2C_2020_Nyerges%C3%BAjfalu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Modern_sculptures%2C_K%C3%A1lm%C3%A1n_Imre_Square%2C_2020_Nyerges%C3%BAjfalu.jpg/1920px-Modern_sculptures%2C_K%C3%A1lm%C3%A1n_Imre_Square%2C_2020_Nyerges%C3%BAjfalu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Modern_sculptures%2C_K%C3%A1lm%C3%A1n_Imre_Square%2C_2020_Nyerges%C3%BAjfalu.jpg/960px-Modern_sculptures%2C_K%C3%A1lm%C3%A1n_Imre_Square%2C_2020_Nyerges%C3%BAjfalu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Modern_sculptures%2C_K%C3%A1lm%C3%A1n_Imre_Square%2C_2020_Nyerges%C3%BAjfalu.jpg/1920px-Modern_sculptures%2C_K%C3%A1lm%C3%A1n_Imre_Square%2C_2020_Nyerges%C3%BAjfalu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Modern_sculptures%2C_K%C3%A1lm%C3%A1n_Imre_Square%2C_2020_Nyerges%C3%BAjfalu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Modern_sculptures,_K%C3%A1lm%C3%A1n_Imre_Square,_2020_Nyerges%C3%BAjfalu.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93452020",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-08-23 23:10:30",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Modern sculptures, Kálmán Imre Square, 2020 Nyergesújfalu",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "20th-century sculptures in Hungary|Self-published work|Stone sculptures in Hungary|July 2020 Hungary photographs|Files with coordinates missing SDC location of creation|Sculptures in gardens and parks in Hungary|Abstract sculptures in Hungary|Kálmán Imre tér, Nyergesújfalu|Sculptures in Nyergesújfalu",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "47.761614",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "18.562028",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<br>\n<dl><dd>Park, modern sculptures (circa 2nd half of the 20th century) - Kálmán Imre Square, <a href=\"https://en.wikipedia.org/wiki/Nyerges%C3%BAjfalu\" class=\"extiw\" title=\"en:Nyergesújfalu\">Nyergesújfalu</a>, <a href=\"https://en.wikipedia.org/wiki/Kom%C3%A1rom-Esztergom_County\" class=\"extiw\" title=\"en:Komárom-Esztergom County\">Komárom-Esztergom County</a>, <a href=\"https://en.wikipedia.org/wiki/Hungary\" class=\"extiw\" title=\"en:Hungary\">Hungary</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2020-07",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Globetrotter19\" title=\"User:Globetrotter19\">Globetrotter19</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "135153952": {
+        "pageid": 135153952,
+        "ns": 6,
+        "title": "File:Garden sculpture stele Gibberd Garden Harlow Essex England.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 27101936,
+            "width": 3930,
+            "height": 5896,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Garden_sculpture_stele_Gibberd_Garden_Harlow_Essex_England.jpg/960px-Garden_sculpture_stele_Gibberd_Garden_Harlow_Essex_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1152,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Garden_sculpture_stele_Gibberd_Garden_Harlow_Essex_England.jpg/1920px-Garden_sculpture_stele_Gibberd_Garden_Harlow_Essex_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Garden_sculpture_stele_Gibberd_Garden_Harlow_Essex_England.jpg/960px-Garden_sculpture_stele_Gibberd_Garden_Harlow_Essex_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1152,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Garden_sculpture_stele_Gibberd_Garden_Harlow_Essex_England.jpg/1920px-Garden_sculpture_stele_Gibberd_Garden_Harlow_Essex_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Garden_sculpture_stele_Gibberd_Garden_Harlow_Essex_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Garden_sculpture_stele_Gibberd_Garden_Harlow_Essex_England.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=135153952",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-07-28 17:09:36",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Garden sculpture stele Gibberd Garden Harlow Essex England",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS 6D Mark II and Canon EF 24-105mm F4L IS USM|Abstract sculptures|Self-published work|Sculptures in Essex|Summer in Essex|Garden features and elements in England|Photographs taken on 2023-07-26|July 2023 in Essex|Sculptures in the United Kingdom photographed in 2023|Files with coordinates missing SDC location of creation (51° N, 0° E)|Stone sculptures in England|Acabashi photos: Gibberd Garden|Gardens photographed in 2023|Sculptures at Gibberd Garden",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "51.792390",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "0.148485",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Garden sculpture stele in the Gibberd Garden, in Harlow, Essex, England.<br>To see the most relevant allied photos, click on <a href=\"//commons.wikimedia.org/wiki/Category:Gibberd_Garden\" title=\"Category:Gibberd Garden\">Gibberd Garden</a>, and this uploader's <a href=\"//commons.wikimedia.org/wiki/Category:Acabashi_photos:_parks_and_gardens\" title=\"Category:Acabashi photos: parks and gardens\">Parks and Gardens</a> photos. You can find image links related to this one in a variety of ways at the very bottom of the page. This image is one of a series of date and/or subject allied consecutive photographs kept in progression or location by file name number and/or time marking.<br><b>Camera</b>: <a href=\"https://en.wikipedia.org/wiki/Canon_EOS_6D_Mark_II\" class=\"extiw\" title=\"w:Canon EOS 6D Mark II\">Canon EOS 6D Mark II</a> with <a href=\"https://en.wikipedia.org/wiki/Canon_EF_24%E2%80%93105mm_lens\" class=\"extiw\" title=\"w:Canon EF 24–105mm lens\">Canon EF 24-105mm F4L IS USM</a> lens.<br><b>Software</b>: <a href=\"https://en.wikipedia.org/wiki/Raw_image_format\" class=\"extiw\" title=\"en:Raw image format\">RAW file</a> lens-corrected, optimized and converted to JPEG with <a href=\"https://en.wikipedia.org/wiki/DxO_PhotoLab\" class=\"extiw\" title=\"en:DxO PhotoLab\">DxO PhotoLab 6 Elite</a>.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-07-26 15:34:46",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Acabashi\" title=\"User:Acabashi\">Acabashi</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "137776356": {
+        "pageid": 137776356,
+        "ns": 6,
+        "title": "File:Moeder met kind - Haagweg 248 Breda 1.png",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8315655,
+            "width": 2000,
+            "height": 2250,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Moeder_met_kind_-_Haagweg_248_Breda_1.png/960px-Moeder_met_kind_-_Haagweg_248_Breda_1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 864,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Moeder_met_kind_-_Haagweg_248_Breda_1.png/1920px-Moeder_met_kind_-_Haagweg_248_Breda_1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Moeder_met_kind_-_Haagweg_248_Breda_1.png/960px-Moeder_met_kind_-_Haagweg_248_Breda_1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 864,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Moeder_met_kind_-_Haagweg_248_Breda_1.png/1920px-Moeder_met_kind_-_Haagweg_248_Breda_1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Moeder_met_kind_-_Haagweg_248_Breda_1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Moeder_met_kind_-_Haagweg_248_Breda_1.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=137776356",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-09-18 10:56:57",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Moeder met kind - Haagweg 248 Breda 1",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Haagweg (Breda)|Self-published work|Stone sculptures in the Netherlands|Sculptures in Breda, Netherlands|Netherlands photographs taken on 2023-07-08|Images by User:ReneeWrites|Photographs by User:ReneeWrites|Uploads by User:ReneeWrites|Abstract sculptures in the Netherlands|July 2023 in Breda, Netherlands|Sculptures in the Netherlands by unknown artists|Photographs of the Netherlands by User:ReneeWrites|Photographs by User:ReneeWrites taken with Samsung Galaxy S22|2023 photographs by User:ReneeWrites",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Sculpture \"Mother and Child\" at Haagweg 248 in Breda",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-07-08",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:ReneeWrites\" title=\"User:ReneeWrites\">Renée Kools</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<p style=\"margin-top:unset;\">This image is released under a <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/\">CC-BY-4.0 license.</a> This means you can use, re-use or adapt this image for any purpose, including for profit, for as long as appropriate credit is given to me and a link to the license is provided. Please credit me by adding the following text legibly next to or below the image:\n\n</p><dl><dd><i>Image by <a href=\"//commons.wikimedia.org/wiki/User:ReneeWrites\" title=\"User:ReneeWrites\">Renée Kools</a> via Wikimedia Commons, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/\">CC-BY-4.0.</a></i><p class=\"mw-empty-elt\"></p></dd></dl>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "137776357": {
+        "pageid": 137776357,
+        "ns": 6,
+        "title": "File:Moeder met kind - Haagweg 248 Breda 2.png",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 12490561,
+            "width": 2500,
+            "height": 2750,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Moeder_met_kind_-_Haagweg_248_Breda_2.png/960px-Moeder_met_kind_-_Haagweg_248_Breda_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 845,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Moeder_met_kind_-_Haagweg_248_Breda_2.png/1920px-Moeder_met_kind_-_Haagweg_248_Breda_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Moeder_met_kind_-_Haagweg_248_Breda_2.png/960px-Moeder_met_kind_-_Haagweg_248_Breda_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 845,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Moeder_met_kind_-_Haagweg_248_Breda_2.png/1920px-Moeder_met_kind_-_Haagweg_248_Breda_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Moeder_met_kind_-_Haagweg_248_Breda_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Moeder_met_kind_-_Haagweg_248_Breda_2.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=137776357",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-09-18 10:56:58",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Moeder met kind - Haagweg 248 Breda 2",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Haagweg (Breda)|Self-published work|Stone sculptures in the Netherlands|Sculptures in Breda, Netherlands|Netherlands photographs taken on 2023-07-08|Images by User:ReneeWrites|Photographs by User:ReneeWrites|Uploads by User:ReneeWrites|Abstract sculptures in the Netherlands|July 2023 in Breda, Netherlands|Sculptures in the Netherlands by unknown artists|Photographs of the Netherlands by User:ReneeWrites|Photographs by User:ReneeWrites taken with Samsung Galaxy S22|2023 photographs by User:ReneeWrites",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Sculpture \"Mother and Child\" at Haagweg 248 in Breda",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-07-08",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:ReneeWrites\" title=\"User:ReneeWrites\">Renée Kools</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<p style=\"margin-top:unset;\">This image is released under a <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/\">CC-BY-4.0 license.</a> This means you can use, re-use or adapt this image for any purpose, including for profit, for as long as appropriate credit is given to me and a link to the license is provided. Please credit me by adding the following text legibly next to or below the image:\n\n</p><dl><dd><i>Image by <a href=\"//commons.wikimedia.org/wiki/User:ReneeWrites\" title=\"User:ReneeWrites\">Renée Kools</a> via Wikimedia Commons, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/\">CC-BY-4.0.</a></i><p class=\"mw-empty-elt\"></p></dd></dl>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "177133418": {
+        "pageid": 177133418,
+        "ns": 6,
+        "title": "File:Petőfistrasse, Skulpturenpark, 2025 Püspökladány.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1212008,
+            "width": 1704,
+            "height": 2272,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Pet%C5%91fistrasse%2C_Skulpturenpark%2C_2025_P%C3%BCsp%C3%B6klad%C3%A1ny.jpg/960px-Pet%C5%91fistrasse%2C_Skulpturenpark%2C_2025_P%C3%BCsp%C3%B6klad%C3%A1ny.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1024,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Pet%C5%91fistrasse%2C_Skulpturenpark%2C_2025_P%C3%BCsp%C3%B6klad%C3%A1ny.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Pet%C5%91fistrasse%2C_Skulpturenpark%2C_2025_P%C3%BCsp%C3%B6klad%C3%A1ny.jpg/960px-Pet%C5%91fistrasse%2C_Skulpturenpark%2C_2025_P%C3%BCsp%C3%B6klad%C3%A1ny.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1024,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Pet%C5%91fistrasse%2C_Skulpturenpark%2C_2025_P%C3%BCsp%C3%B6klad%C3%A1ny.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Pet%C5%91fistrasse%2C_Skulpturenpark%2C_2025_P%C3%BCsp%C3%B6klad%C3%A1ny.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pet%C5%91fistrasse,_Skulpturenpark,_2025_P%C3%BCsp%C3%B6klad%C3%A1ny.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=177133418",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-10-21 10:38:03",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Petőfistrasse, Skulpturenpark, 2025 Püspökladány",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Stone sculptures in Hungary|1996 sculptures in Hungary|Files with coordinates missing SDC location of creation|Abstract sculptures in Hungary|August 2025 Hungary photographs|2025 in Püspökladány|Petőfi Sándor utca, Püspökladány",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "47.321903",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "21.104106",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<br>\n<dl><dd>Leftover?? Sculpture park with modern, abstract, stone sculptures.  All works created at the 4th International Stone Sculpture Symposium in 1996. Once here were five artworks by Roman Vasil (Vasyl?) from Ukraine, Mikola Maliska and Jenő Kiss There was already a work in 2010 that was on the verge of destruction; by 2025, they all disappeared. Were they stolen? Did they crumble? -  Petőfi Street (Route 42), <a href=\"https://en.wikipedia.org/wiki/P%C3%BCsp%C3%B6klad%C3%A1ny\" class=\"extiw\" title=\"en:Püspökladány\">Püspökladány</a>, <a href=\"https://en.wikipedia.org/wiki/Hajd%C3%BA%E2%80%93Bihar_County\" class=\"extiw\" title=\"en:Hajdú–Bihar County\">Hajdú–Bihar County</a>, <a href=\"https://en.wikipedia.org/wiki/Hungary\" class=\"extiw\" title=\"en:Hungary\">Hungary</a>.</dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken in August 2025",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Globetrotter19\" title=\"User:Globetrotter19\">Globetrotter19</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "177209767": {
+        "pageid": 177209767,
+        "ns": 6,
+        "title": "File:Gyógyfürdő Park, Skulptur, 2025 Püspökladány.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 936846,
+            "width": 1643,
+            "height": 2190,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Gy%C3%B3gyf%C3%BCrd%C5%91_Park%2C_Skulptur%2C_2025_P%C3%BCsp%C3%B6klad%C3%A1ny.jpg/960px-Gy%C3%B3gyf%C3%BCrd%C5%91_Park%2C_Skulptur%2C_2025_P%C3%BCsp%C3%B6klad%C3%A1ny.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1024,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Gy%C3%B3gyf%C3%BCrd%C5%91_Park%2C_Skulptur%2C_2025_P%C3%BCsp%C3%B6klad%C3%A1ny.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Gy%C3%B3gyf%C3%BCrd%C5%91_Park%2C_Skulptur%2C_2025_P%C3%BCsp%C3%B6klad%C3%A1ny.jpg/960px-Gy%C3%B3gyf%C3%BCrd%C5%91_Park%2C_Skulptur%2C_2025_P%C3%BCsp%C3%B6klad%C3%A1ny.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1024,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Gy%C3%B3gyf%C3%BCrd%C5%91_Park%2C_Skulptur%2C_2025_P%C3%BCsp%C3%B6klad%C3%A1ny.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Gy%C3%B3gyf%C3%BCrd%C5%91_Park%2C_Skulptur%2C_2025_P%C3%BCsp%C3%B6klad%C3%A1ny.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gy%C3%B3gyf%C3%BCrd%C5%91_Park,_Skulptur,_2025_P%C3%BCsp%C3%B6klad%C3%A1ny.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=177209767",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-10-22 12:13:42",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Gyógyfürdő Park, Skulptur, 2025 Püspökladány",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Stone sculptures in Hungary|1996 sculptures in Hungary|Files with coordinates missing SDC location of creation|Abstract sculptures in Hungary|August 2025 Hungary photographs|2025 in Püspökladány|Sculptures in Püspökladány|Petőfi Sándor utca, Püspökladány",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "47.322119",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "21.104461",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<br>\n<dl><dd>Sculpture park with modern, abstract, stone sculptures. All works created at the 4th International Stone Sculpture Symposium in 1996. Once here were five artworks by Roman Vasil (Vasyl?) from Ukraine, Mikola Maliska and Jenő Kiss - Petőfi Street (Route 42), <a href=\"https://en.wikipedia.org/wiki/P%C3%BCsp%C3%B6klad%C3%A1ny\" class=\"extiw\" title=\"en:Püspökladány\">Püspökladány</a>, <a href=\"https://en.wikipedia.org/wiki/Hajd%C3%BA%E2%80%93Bihar_County\" class=\"extiw\" title=\"en:Hajdú–Bihar County\">Hajdú–Bihar County</a>, <a href=\"https://en.wikipedia.org/wiki/Hungary\" class=\"extiw\" title=\"en:Hungary\">Hungary</a>.</dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken in August 2025",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Globetrotter19\" title=\"User:Globetrotter19\">Globetrotter19</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

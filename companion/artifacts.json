@@ -1,0 +1,277 @@
+[
+  {
+    "path": "weights/model-q4_k_m.gguf",
+    "bytes": 1108016576,
+    "sha256": "bd2179e37645d5435e0214e5399e5997408a7e9685ba527cbb60726e6a32fd99"
+  },
+  {
+    "path": "vision/mmproj.gguf",
+    "bytes": 822540352,
+    "sha256": "4dc7bc5863d7fc3ad784acf677f72f009ab5fd3758855f1996b678b621817190"
+  },
+  {
+    "path": "licenses/MODEL-LICENSE.txt",
+    "bytes": 11355,
+    "sha256": "7339fa418c9ad3e8e12e74ad0fd26a9cc4be8703f9c110728a992b193be85cb2"
+  },
+  {
+    "path": "licenses/runtime/CPP_HTTPLIB_LICENSE",
+    "bytes": 1097,
+    "sha256": "bb546eae5924d8ee842e0e567e6d533c5824bdebccf605f99a5b3429034e6697"
+  },
+  {
+    "path": "licenses/runtime/CUDNN_LICENSE.txt",
+    "bytes": 1169,
+    "sha256": "b6fe452605fe29245f0cbafa724b42df94a5e170bedb9d45bc9cfaa4883ad907"
+  },
+  {
+    "path": "licenses/runtime/CUTLASS_LICENSE.txt",
+    "bytes": 1888,
+    "sha256": "48eb34a9124af8fdd2ad1858a64be9827ebc42e5389c6dd4b5a93e411ac7e693"
+  },
+  {
+    "path": "licenses/runtime/DLFCN_WIN32_COPYING",
+    "bytes": 1040,
+    "sha256": "4cc7ac997b9293db5919baf630100cc09b3508efdfe6a6611c95511fb863b3c7"
+  },
+  {
+    "path": "licenses/runtime/DLPACK_LICENSE",
+    "bytes": 11546,
+    "sha256": "9bda2385fa325d1df6dc39772eba3cc6d07bdfaf2c656cd644cd29f7509514fd"
+  },
+  {
+    "path": "licenses/runtime/FMT_LICENSE",
+    "bytes": 1458,
+    "sha256": "25b5db04aa6070c12ac518b91cbd0a59725c050ecb091456e6ebc3d3eeb369cf"
+  },
+  {
+    "path": "runtime/windows-x64-cpu/ggml-base.dll",
+    "bytes": 820104,
+    "sha256": "da9913762648d3d97829245096c9388a229e5b8e9a40d49513a56d69803a2a2c"
+  },
+  {
+    "path": "runtime/windows-x64-cpu/ggml-cpu-alderlake.dll",
+    "bytes": 1729928,
+    "sha256": "099fd0100509bed33dc5af30c5078a4420c8927244c377acc657b03e83f48d52"
+  },
+  {
+    "path": "runtime/windows-x64-cpu/ggml-cpu-cannonlake.dll",
+    "bytes": 2003336,
+    "sha256": "a568552c7576a5fce1d160a02be08c5a6e0c4054594b201b7acce56985b07407"
+  },
+  {
+    "path": "runtime/windows-x64-cpu/ggml-cpu-cascadelake.dll",
+    "bytes": 1986440,
+    "sha256": "676cc1471c5f70f0ef7f6a577a8a90d5f4319e228fb9ae5fd94525fa5afb6f93"
+  },
+  {
+    "path": "runtime/windows-x64-cpu/ggml-cpu-cooperlake.dll",
+    "bytes": 1984392,
+    "sha256": "04e562a9d834a33035d11707dd0bb13046ce5a1ab99e6e1cdea81a12dae845ed"
+  },
+  {
+    "path": "runtime/windows-x64-cpu/ggml-cpu-haswell.dll",
+    "bytes": 1737096,
+    "sha256": "e278b1e3c6a48854c110ed29abb5eb083f48e53779157aecc31c8637dec4f703"
+  },
+  {
+    "path": "runtime/windows-x64-cpu/ggml-cpu-icelake.dll",
+    "bytes": 1993608,
+    "sha256": "757c790512a44a9cc2d141d84d13064cbab98313e29365deed8da682964c2a1c"
+  },
+  {
+    "path": "runtime/windows-x64-cpu/ggml-cpu-ivybridge.dll",
+    "bytes": 1615240,
+    "sha256": "60d025fe37e893652682b951efda5b76f6ec0e4ad2f07efcd329b0e6f3c39142"
+  },
+  {
+    "path": "runtime/windows-x64-cpu/ggml-cpu-piledriver.dll",
+    "bytes": 1620360,
+    "sha256": "7d7ef8198de069f6339e95eee5b57716e6b94d59c0c1c2ff2e4ee2d6aba28fe7"
+  },
+  {
+    "path": "runtime/windows-x64-cpu/ggml-cpu-sandybridge.dll",
+    "bytes": 1634696,
+    "sha256": "c194af819cda4d20428ec97123a40de0f85013f76f8157e26d719fed805a04b2"
+  },
+  {
+    "path": "runtime/windows-x64-cpu/ggml-cpu-sapphirerapids.dll",
+    "bytes": 2285960,
+    "sha256": "bb40ff01d64648e081e2b206457d0bc2382fa3daef88a65a38132cdce00c9f94"
+  },
+  {
+    "path": "runtime/windows-x64-cpu/ggml-cpu-skylakex.dll",
+    "bytes": 1996680,
+    "sha256": "2a14086af5d1b2941fa4ede37a677023490aa94021c8253df7de9bc5c839db8e"
+  },
+  {
+    "path": "runtime/windows-x64-cpu/ggml-cpu-sse42.dll",
+    "bytes": 1259400,
+    "sha256": "4deaa8e7e2fa7b3dc5d4f50bfcf466057f951e61b938b3a9f94ad5db27c6e89c"
+  },
+  {
+    "path": "runtime/windows-x64-cpu/ggml-cpu-x64.dll",
+    "bytes": 1246600,
+    "sha256": "515a8f34ea43c6fbff524c161f7cb9fb5f09e854e5c253ab713813db05547e14"
+  },
+  {
+    "path": "runtime/windows-x64-cpu/ggml-cpu-zen4.dll",
+    "bytes": 1991560,
+    "sha256": "ec9beeac17d98f3de9cd115800a40057c3f8e334c59c35de39d6a9d3943c7e25"
+  },
+  {
+    "path": "runtime/windows-x64-cpu/ggml.dll",
+    "bytes": 49032,
+    "sha256": "1855a5bb33cc4a42e3fe5b9e6a9eac7c5e4b969366abe472337750e31b5d16cd"
+  },
+  {
+    "path": "licenses/runtime/GO_LICENSE",
+    "bytes": 166573,
+    "sha256": "7fee9b29a1541b5a9ec03c5d57e095ad280f67a824cf3818445ba6996f86fe85"
+  },
+  {
+    "path": "licenses/runtime/JSON_LICENSE.MIT",
+    "bytes": 1076,
+    "sha256": "86b998c792894ccb911a1cb7994f7a9652894e7a094c0b5e45be2f553f45cf14"
+  },
+  {
+    "path": "runtime/windows-x64-cpu/libc++.dll",
+    "bytes": 1767816,
+    "sha256": "2ca4c00c8b4f7daf8965d93feb92ec275c3355286b679cc67687c0ac5b7da81d"
+  },
+  {
+    "path": "runtime/windows-x64-cpu/libllama-common.dll",
+    "bytes": 4282248,
+    "sha256": "73cee75ae67f3876548551e377109506f86ea9b912dc14faa8d5166a72e9594e"
+  },
+  {
+    "path": "runtime/windows-x64-cpu/libllama-quantize-impl.dll",
+    "bytes": 83848,
+    "sha256": "25b647ee67aa8cfed88f185bdc6615ef98c93199bf97b6726d25856cd7ccf3bc"
+  },
+  {
+    "path": "runtime/windows-x64-cpu/libllama-server-impl.dll",
+    "bytes": 2705800,
+    "sha256": "175498a864ea95d8d72ffbb018127b411549622c9c27c836c2c67a381bc823e2"
+  },
+  {
+    "path": "runtime/windows-x64-cpu/libllama.dll",
+    "bytes": 3858824,
+    "sha256": "18aa7d8ffb2f84fb1453595fea31d9b848adeb77292180e46df30393ea9ba44f"
+  },
+  {
+    "path": "runtime/windows-x64-cpu/libmtmd.dll",
+    "bytes": 1465736,
+    "sha256": "5f5ae1a2c9137ab3dc227abf6b9df5726a2266bc6f6d86cb9fe9f419917c1628"
+  },
+  {
+    "path": "runtime/windows-x64-cpu/libomp.dll",
+    "bytes": 965000,
+    "sha256": "132279c0558a11ed8e686af29576af9fc25bba759dac20410102f94c5e45a14a"
+  },
+  {
+    "path": "runtime/windows-x64-cpu/libunwind.dll",
+    "bytes": 107912,
+    "sha256": "9b3a107b54885224edeeba178e23ac2c441d1b24a44fb9d9b8c5b8c9ea073c71"
+  },
+  {
+    "path": "runtime/windows-x64-cpu/libwinpthread-1.dll",
+    "bytes": 390024,
+    "sha256": "99fc12979b2fe1de87c408f64add69bbfc7eec4a027448cfbb03b456edf22750"
+  },
+  {
+    "path": "runtime/windows-x64-cpu/llama-server.exe",
+    "bytes": 22920,
+    "sha256": "bb3d2f86e3d8907c4febc3d7a299a8d13d95ddc281c5f81fe496e0d32b12dca3"
+  },
+  {
+    "path": "licenses/runtime/LLAMA_CPP_LICENSE",
+    "bytes": 1099,
+    "sha256": "bcd8ec749126d45cb06737d0690295d73df4b6e7e194205bcf91190368f27285"
+  },
+  {
+    "path": "licenses/runtime/LLAMA_CPP_VENDORS_LICENSE",
+    "bytes": 7424,
+    "sha256": "7547ae6372a35e7382898dd9f5519ebc16e93095f69c2466b5b74b617c33d4da"
+  },
+  {
+    "path": "licenses/runtime/MLX_C_LICENSE",
+    "bytes": 1088,
+    "sha256": "d8d63c7fa57071d80d30116d014e4189c52ef4cb2d1671f6d848e78d9f6cfad0"
+  },
+  {
+    "path": "licenses/runtime/MLX_LICENSE",
+    "bytes": 1087,
+    "sha256": "e93675e97d080c4fcfef6dd530448b9a6fd7c1ad43c736d593537079cd669d3d"
+  },
+  {
+    "path": "licenses/runtime/NVTX3_LICENSE.txt",
+    "bytes": 12706,
+    "sha256": "c3b19baa37cf18bac07b65700824acadcfa617316f02af10d3852ed20f4f6ab8"
+  },
+  {
+    "path": "licenses/runtime/PICOJSON_LICENSE",
+    "bytes": 1441,
+    "sha256": "02f4aea46c66a0c110bb4fd995817db2dc2af0b57c18336b367e6bc9c27eb91f"
+  },
+  {
+    "path": "licenses/runtime/XGRAMMAR_LICENSE",
+    "bytes": 11558,
+    "sha256": "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6"
+  },
+  {
+    "path": "licenses/runtime/XGRAMMAR_NOTICE",
+    "bytes": 57,
+    "sha256": "93971ad2b725c8398df171dbd7c8145fc9d11bf016294aa69a8a783b55a40775"
+  },
+  {
+    "path": "runtime/windows-x64-cpu/concrt140.dll",
+    "bytes": 311688,
+    "sha256": "67fc82843c23ca1fee2e1bb42e3bbb7cb3cea5512023133716bd7473bd979417"
+  },
+  {
+    "path": "runtime/windows-x64-cpu/msvcp140.dll",
+    "bytes": 545160,
+    "sha256": "373e6df48207076cc8861395debc12468eb23af59a474c80d3dd89a922847ca2"
+  },
+  {
+    "path": "runtime/windows-x64-cpu/msvcp140_1.dll",
+    "bytes": 23432,
+    "sha256": "2ec22ec56962daa16e90dff43dbd1dc4395c632837b65b9fc1dfc621909fcb70"
+  },
+  {
+    "path": "runtime/windows-x64-cpu/msvcp140_2.dll",
+    "bytes": 267656,
+    "sha256": "81854dfdb0eb92b2a942ab7bff74725704aa75b0860ba87a0f850837c79271a2"
+  },
+  {
+    "path": "runtime/windows-x64-cpu/msvcp140_atomic_wait.dll",
+    "bytes": 37768,
+    "sha256": "6db5f5774812704a98cb2d5f19baad2a57b13dfbc0cbd0d9bd4bb3766a0744c8"
+  },
+  {
+    "path": "runtime/windows-x64-cpu/msvcp140_codecvt_ids.dll",
+    "bytes": 19336,
+    "sha256": "38f6f1c9d1bc5d6cfb5ff43da353af50dc11f27a59a75ce3d8f3a2985e54ccef"
+  },
+  {
+    "path": "runtime/windows-x64-cpu/vccorlib140.dll",
+    "bytes": 339848,
+    "sha256": "252e7a54080ad0b1c87901387f46d98f7a5ce662075c8b0bef061132039c2378"
+  },
+  {
+    "path": "runtime/windows-x64-cpu/vcruntime140.dll",
+    "bytes": 112008,
+    "sha256": "00fe0498afdcc3fc60d1ef24d27558af5b1670efb47a7a11b687c02c28a0b288"
+  },
+  {
+    "path": "runtime/windows-x64-cpu/vcruntime140_1.dll",
+    "bytes": 37256,
+    "sha256": "0691e1f8f486c1cfc67fc208a575eed582cd9e87da22b7f2475515f5aa65b4f4"
+  },
+  {
+    "path": "runtime/windows-x64-cpu/vcruntime140_threads.dll",
+    "bytes": 25992,
+    "sha256": "c9156480dbb81e96f5df2cf64333992e8fb7e09f7f4fe378494f948dc210eae8"
+  }
+]

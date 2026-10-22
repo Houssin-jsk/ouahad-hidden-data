@@ -1,0 +1,13 @@
+Collecting onnx
+  Downloading onnx-1.23.2-cp312-abi3-win_amd64.whl.metadata (8.7 kB)
+Requirement already satisfied: numpy>=1.23.2 in C:\Users\ouaha\AppData\Local\Programs\Python\Python312\Lib\site-packages (from onnx) (2.4.4)
+Requirement already satisfied: protobuf>=6.31.1 in C:\Users\ouaha\AppData\Local\Programs\Python\Python312\Lib\site-packages (from onnx) (7.34.1)
+Requirement already satisfied: typing_extensions>=4.7.1 in C:\Users\ouaha\AppData\Local\Programs\Python\Python312\Lib\site-packages (from onnx) (4.15.0)
+Requirement already satisfied: ml_dtypes>=0.5.4 in C:\Users\ouaha\AppData\Local\Programs\Python\Python312\Lib\site-packages (from onnx) (0.5.4)
+Downloading onnx-1.23.2-cp312-abi3-win_amd64.whl (7.9 MB)
+   ---------------------------------------- 7.9/7.9 MB 1.5 MB/s  0:00:05
+Installing collected packages: onnx
+Successfully installed onnx-1.23.2
+
+[notice] A new release of pip is available: 26.1.1 -> 26.2.1
+[notice] To update, run: python.exe -m pip install --upgrade pip

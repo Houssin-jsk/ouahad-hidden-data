@@ -1,0 +1,6609 @@
+{
+  "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+  "records": [
+    {
+      "mode": "tiny",
+      "variant": "original",
+      "input": "Final calibration natural-00 only; transformations are related diagnostics, not independent quality examples",
+      "wallMs": 3968,
+      "result": {
+        "mode": "tiny",
+        "backend": "wasm",
+        "initializationMs": 2671.7999999821186,
+        "preprocessingMs": 176.10000002384186,
+        "inferenceMs": 519.0999999940395,
+        "reused": false,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [
+          {
+            "label": "natural scenery",
+            "score": 0.3651317704318617
+          },
+          {
+            "label": "vehicles used for transportation",
+            "score": 0.2737429334250519
+          },
+          {
+            "label": "animals",
+            "score": 0.24931070725633897
+          },
+          {
+            "label": "an indoor room",
+            "score": 0.24403393447984975
+          },
+          {
+            "label": "food or a meal",
+            "score": 0.22708905352692693
+          },
+          {
+            "label": "buildings and city streets",
+            "score": 0.2261678478543414
+          }
+        ],
+        "detections": []
+      },
+      "heartbeat": {
+        "samples": 195,
+        "maxGapMs": 48.79999998211861
+      },
+      "pageV8Heap": {
+        "usedSize": 8064844,
+        "totalSize": 12763136,
+        "embedderHeapUsedSize": 2344656,
+        "backingStorageSize": 1456806
+      }
+    },
+    {
+      "mode": "tiny",
+      "variant": "repeat",
+      "input": "Final calibration natural-00 only; transformations are related diagnostics, not independent quality examples",
+      "wallMs": 897,
+      "result": {
+        "mode": "tiny",
+        "backend": "wasm",
+        "initializationMs": 0,
+        "preprocessingMs": 62.599999994039536,
+        "inferenceMs": 352.90000000596046,
+        "reused": true,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [
+          {
+            "label": "natural scenery",
+            "score": 0.3651317704318617
+          },
+          {
+            "label": "vehicles used for transportation",
+            "score": 0.2737429334250519
+          },
+          {
+            "label": "animals",
+            "score": 0.24931070725633897
+          },
+          {
+            "label": "an indoor room",
+            "score": 0.24403393447984975
+          },
+          {
+            "label": "food or a meal",
+            "score": 0.22708905352692693
+          },
+          {
+            "label": "buildings and city streets",
+            "score": 0.2261678478543414
+          }
+        ],
+        "detections": []
+      },
+      "heartbeat": {
+        "samples": 44,
+        "maxGapMs": 32.900000005960464
+      },
+      "pageV8Heap": {
+        "usedSize": 7482204,
+        "totalSize": 14487552,
+        "embedderHeapUsedSize": 2344656,
+        "backingStorageSize": 1860495
+      }
+    },
+    {
+      "mode": "tiny",
+      "variant": "dark",
+      "input": "Final calibration natural-00 only; transformations are related diagnostics, not independent quality examples",
+      "wallMs": 370,
+      "result": {
+        "mode": "tiny",
+        "backend": "wasm",
+        "initializationMs": 0,
+        "preprocessingMs": 37.80000001192093,
+        "inferenceMs": 245.09999999403954,
+        "reused": true,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [
+          {
+            "label": "natural scenery",
+            "score": 0.3817369990880411
+          },
+          {
+            "label": "an indoor room",
+            "score": 0.29092063238554894
+          },
+          {
+            "label": "animals",
+            "score": 0.2808554153791132
+          },
+          {
+            "label": "vehicles used for transportation",
+            "score": 0.2727012347788436
+          },
+          {
+            "label": "food or a meal",
+            "score": 0.26833183675961275
+          },
+          {
+            "label": "buildings and city streets",
+            "score": 0.2339665139991293
+          }
+        ],
+        "detections": []
+      },
+      "heartbeat": {
+        "samples": 17,
+        "maxGapMs": 31.30000001192093
+      },
+      "pageV8Heap": {
+        "usedSize": 10694136,
+        "totalSize": 17182720,
+        "embedderHeapUsedSize": 2657448,
+        "backingStorageSize": 2154841
+      }
+    },
+    {
+      "mode": "tiny",
+      "variant": "blur",
+      "input": "Final calibration natural-00 only; transformations are related diagnostics, not independent quality examples",
+      "wallMs": 578,
+      "result": {
+        "mode": "tiny",
+        "backend": "wasm",
+        "initializationMs": 0,
+        "preprocessingMs": 46.900000005960464,
+        "inferenceMs": 261.09999999403954,
+        "reused": true,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [
+          {
+            "label": "natural scenery",
+            "score": 0.3767574505689927
+          },
+          {
+            "label": "vehicles used for transportation",
+            "score": 0.2821616785307345
+          },
+          {
+            "label": "animals",
+            "score": 0.2775732337130638
+          },
+          {
+            "label": "an indoor room",
+            "score": 0.27666874821864385
+          },
+          {
+            "label": "food or a meal",
+            "score": 0.2568637163529809
+          },
+          {
+            "label": "buildings and city streets",
+            "score": 0.24932289679654285
+          }
+        ],
+        "detections": []
+      },
+      "heartbeat": {
+        "samples": 16,
+        "maxGapMs": 260.80000001192093
+      },
+      "pageV8Heap": {
+        "usedSize": 8262584,
+        "totalSize": 16584704,
+        "embedderHeapUsedSize": 2920528,
+        "backingStorageSize": 2286018
+      }
+    },
+    {
+      "mode": "places",
+      "variant": "original",
+      "input": "Final calibration natural-00 only; transformations are related diagnostics, not independent quality examples",
+      "wallMs": 2488,
+      "result": {
+        "mode": "places",
+        "backend": "wasm",
+        "reused": false,
+        "initializationMs": 1888.0999999940395,
+        "preprocessingMs": 19.400000005960464,
+        "inferenceMs": 269,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [
+          {
+            "label": "snowfield",
+            "score": 0.4761303711578486
+          },
+          {
+            "label": "mountain_snowy",
+            "score": 0.2795510051227355
+          },
+          {
+            "label": "ski_slope",
+            "score": 0.09842611918139624
+          },
+          {
+            "label": "ski_resort",
+            "score": 0.031230855985130184
+          },
+          {
+            "label": "valley",
+            "score": 0.026037853374939177
+          },
+          {
+            "label": "glacier",
+            "score": 0.018006350695976895
+          },
+          {
+            "label": "mountain",
+            "score": 0.013590066077434966
+          },
+          {
+            "label": "tundra",
+            "score": 0.012334120988497406
+          },
+          {
+            "label": "ice_floe",
+            "score": 0.009493368625192863
+          },
+          {
+            "label": "mountain_path",
+            "score": 0.005413361683442558
+          },
+          {
+            "label": "ice_shelf",
+            "score": 0.004634125905637486
+          },
+          {
+            "label": "village",
+            "score": 0.003215992351312631
+          },
+          {
+            "label": "ice_skating_rink/outdoor",
+            "score": 0.0030757193968620486
+          },
+          {
+            "label": "butte",
+            "score": 0.0025310542795255963
+          },
+          {
+            "label": "hot_spring",
+            "score": 0.0020374263495064114
+          },
+          {
+            "label": "volcano",
+            "score": 0.0016322245423775908
+          },
+          {
+            "label": "iceberg",
+            "score": 0.0015542893546852453
+          },
+          {
+            "label": "chalet",
+            "score": 0.001414439618387974
+          },
+          {
+            "label": "crevasse",
+            "score": 0.0008504810747844486
+          },
+          {
+            "label": "canyon",
+            "score": 0.0007723454619732948
+          },
+          {
+            "label": "cliff",
+            "score": 0.0007052608666696684
+          },
+          {
+            "label": "lake/natural",
+            "score": 0.0005091715443838734
+          },
+          {
+            "label": "river",
+            "score": 0.0004920810514328681
+          },
+          {
+            "label": "sky",
+            "score": 0.0004617289596932162
+          },
+          {
+            "label": "igloo",
+            "score": 0.00042536120213994554
+          },
+          {
+            "label": "creek",
+            "score": 0.0004230461581804977
+          },
+          {
+            "label": "badlands",
+            "score": 0.00036138102278693925
+          },
+          {
+            "label": "ocean",
+            "score": 0.0003223755001567303
+          },
+          {
+            "label": "coast",
+            "score": 0.0003078998935362731
+          },
+          {
+            "label": "field_road",
+            "score": 0.00026609248653673343
+          },
+          {
+            "label": "pasture",
+            "score": 0.00025566544375244855
+          },
+          {
+            "label": "parking_lot",
+            "score": 0.0002247662007615236
+          },
+          {
+            "label": "wave",
+            "score": 0.00021715319466634867
+          },
+          {
+            "label": "pond",
+            "score": 0.0001830791793029907
+          },
+          {
+            "label": "desert/vegetation",
+            "score": 0.00013952125012532866
+          },
+          {
+            "label": "beach",
+            "score": 0.00012192751614317812
+          },
+          {
+            "label": "farm",
+            "score": 0.00011194784251236535
+          },
+          {
+            "label": "campsite",
+            "score": 0.0001035026455394036
+          },
+          {
+            "label": "forest_path",
+            "score": 0.00009700204500832982
+          },
+          {
+            "label": "tree_farm",
+            "score": 0.00008039079707097134
+          },
+          {
+            "label": "watering_hole",
+            "score": 0.00007988451984094054
+          },
+          {
+            "label": "lagoon",
+            "score": 0.00007700999717567737
+          },
+          {
+            "label": "beach_house",
+            "score": 0.00007474352534102236
+          },
+          {
+            "label": "field/wild",
+            "score": 0.00007341592726817613
+          },
+          {
+            "label": "barn",
+            "score": 0.00006935536486446815
+          },
+          {
+            "label": "highway",
+            "score": 0.00006480105373294719
+          },
+          {
+            "label": "desert_road",
+            "score": 0.00006438491185485127
+          },
+          {
+            "label": "landfill",
+            "score": 0.00006401896993801987
+          },
+          {
+            "label": "castle",
+            "score": 0.00005802649578639532
+          },
+          {
+            "label": "marsh",
+            "score": 0.000052192616052892006
+          },
+          {
+            "label": "boardwalk",
+            "score": 0.000051055732438302315
+          },
+          {
+            "label": "islet",
+            "score": 0.00005058745730114134
+          },
+          {
+            "label": "harbor",
+            "score": 0.00004875362445027322
+          },
+          {
+            "label": "vineyard",
+            "score": 0.00004516525074697625
+          },
+          {
+            "label": "forest/broadleaf",
+            "score": 0.000043217174313823477
+          },
+          {
+            "label": "picnic_area",
+            "score": 0.000038561599946793314
+          },
+          {
+            "label": "arch",
+            "score": 0.0000353008619155716
+          },
+          {
+            "label": "golf_course",
+            "score": 0.000034014796506893885
+          },
+          {
+            "label": "rock_arch",
+            "score": 0.00003394750349721255
+          },
+          {
+            "label": "park",
+            "score": 0.00003289716561942243
+          },
+          {
+            "label": "palace",
+            "score": 0.00003124086948616741
+          },
+          {
+            "label": "pier",
+            "score": 0.00002950681865251512
+          },
+          {
+            "label": "corral",
+            "score": 0.000028681920342631904
+          },
+          {
+            "label": "bridge",
+            "score": 0.000024855136410529155
+          },
+          {
+            "label": "campus",
+            "score": 0.0000245796961748766
+          },
+          {
+            "label": "shed",
+            "score": 0.00002037557378704078
+          },
+          {
+            "label": "rainforest",
+            "score": 0.000019741765426157416
+          },
+          {
+            "label": "lighthouse",
+            "score": 0.000019682208473539124
+          },
+          {
+            "label": "windmill",
+            "score": 0.000019103043995608324
+          },
+          {
+            "label": "promenade",
+            "score": 0.000018908610324362497
+          },
+          {
+            "label": "swamp",
+            "score": 0.00001880826881288868
+          },
+          {
+            "label": "swimming_hole",
+            "score": 0.00001824111178674162
+          },
+          {
+            "label": "viaduct",
+            "score": 0.000018126035918749832
+          },
+          {
+            "label": "ice_skating_rink/indoor",
+            "score": 0.000018046550952872124
+          },
+          {
+            "label": "desert/sand",
+            "score": 0.00001793466504829185
+          },
+          {
+            "label": "tower",
+            "score": 0.000017750534106111316
+          },
+          {
+            "label": "orchard",
+            "score": 0.000017438933740024985
+          },
+          {
+            "label": "heliport",
+            "score": 0.000017016767573036524
+          },
+          {
+            "label": "forest_road",
+            "score": 0.00001700999556982491
+          },
+          {
+            "label": "slum",
+            "score": 0.00001644420680170603
+          },
+          {
+            "label": "downtown",
+            "score": 0.00001612214898235232
+          },
+          {
+            "label": "boathouse",
+            "score": 0.00001590458637046624
+          },
+          {
+            "label": "field/cultivated",
+            "score": 0.000015328459070922684
+          },
+          {
+            "label": "junkyard",
+            "score": 0.0000153238641135572
+          },
+          {
+            "label": "gas_station",
+            "score": 0.000015190796775773837
+          },
+          {
+            "label": "kasbah",
+            "score": 0.000014575220116039858
+          },
+          {
+            "label": "dam",
+            "score": 0.000014416040541062151
+          },
+          {
+            "label": "railroad_track",
+            "score": 0.000013678577104084291
+          },
+          {
+            "label": "schoolhouse",
+            "score": 0.00001367732485027256
+          },
+          {
+            "label": "cottage",
+            "score": 0.00001306620356374212
+          },
+          {
+            "label": "yard",
+            "score": 0.000012784112966579748
+          },
+          {
+            "label": "runway",
+            "score": 0.000012728550695038203
+          },
+          {
+            "label": "wind_farm",
+            "score": 0.00001235990121716167
+          },
+          {
+            "label": "hayfield",
+            "score": 0.00001227613978523292
+          },
+          {
+            "label": "waterfall",
+            "score": 0.000011677167019968079
+          },
+          {
+            "label": "raft",
+            "score": 0.000011453794920889062
+          },
+          {
+            "label": "aqueduct",
+            "score": 0.00001135222941354386
+          },
+          {
+            "label": "plaza",
+            "score": 0.000011050728280517355
+          },
+          {
+            "label": "hotel/outdoor",
+            "score": 0.000010663030452047606
+          },
+          {
+            "label": "building_facade",
+            "score": 0.000010090872653040442
+          },
+          {
+            "label": "inn/outdoor",
+            "score": 0.000009672067032913301
+          },
+          {
+            "label": "racecourse",
+            "score": 0.00000946760907155445
+          },
+          {
+            "label": "hospital",
+            "score": 0.000009408283226101813
+          },
+          {
+            "label": "church/outdoor",
+            "score": 0.00000938610598581718
+          },
+          {
+            "label": "volleyball_court/outdoor",
+            "score": 0.000009104106425370181
+          },
+          {
+            "label": "trench",
+            "score": 0.000009039765828988772
+          },
+          {
+            "label": "canal/natural",
+            "score": 0.000009036446817513222
+          },
+          {
+            "label": "water_tower",
+            "score": 0.000008724813819823705
+          },
+          {
+            "label": "office_building",
+            "score": 0.000008671833025858712
+          },
+          {
+            "label": "amphitheater",
+            "score": 0.000008316554950965659
+          },
+          {
+            "label": "botanical_garden",
+            "score": 0.000007961129050214834
+          },
+          {
+            "label": "industrial_area",
+            "score": 0.000007806058981259934
+          },
+          {
+            "label": "playground",
+            "score": 0.000007772107759796535
+          },
+          {
+            "label": "residential_neighborhood",
+            "score": 0.000007758236438956852
+          },
+          {
+            "label": "cemetery",
+            "score": 0.000007142546292289041
+          },
+          {
+            "label": "rice_paddy",
+            "score": 0.000006856865455815749
+          },
+          {
+            "label": "house",
+            "score": 0.0000068251746718059565
+          },
+          {
+            "label": "ruin",
+            "score": 0.000006821367159245257
+          },
+          {
+            "label": "grotto",
+            "score": 0.000006671751753722091
+          },
+          {
+            "label": "underwater/ocean_deep",
+            "score": 0.000006615864346594305
+          },
+          {
+            "label": "skyscraper",
+            "score": 0.000006350006155952453
+          },
+          {
+            "label": "driveway",
+            "score": 0.000006127727033350657
+          },
+          {
+            "label": "rope_bridge",
+            "score": 0.0000060661947238551425
+          },
+          {
+            "label": "mausoleum",
+            "score": 0.00000589542831851051
+          },
+          {
+            "label": "arena/performance",
+            "score": 0.000005855004623504592
+          },
+          {
+            "label": "hunting_lodge/outdoor",
+            "score": 0.000005741830966050332
+          },
+          {
+            "label": "excavation",
+            "score": 0.000005634129929858421
+          },
+          {
+            "label": "mansion",
+            "score": 0.0000055468332441221
+          },
+          {
+            "label": "cabin/outdoor",
+            "score": 0.000005077278125508751
+          },
+          {
+            "label": "motel",
+            "score": 0.000005069941945036303
+          },
+          {
+            "label": "corn_field",
+            "score": 0.000004774121777006244
+          },
+          {
+            "label": "greenhouse/outdoor",
+            "score": 0.000004689196564094336
+          },
+          {
+            "label": "wheat_field",
+            "score": 0.000004514077166477398
+          },
+          {
+            "label": "formal_garden",
+            "score": 0.00000447035387919875
+          },
+          {
+            "label": "street",
+            "score": 0.0000044172642968771815
+          },
+          {
+            "label": "canal/urban",
+            "score": 0.000004322744444205516
+          },
+          {
+            "label": "phone_booth",
+            "score": 0.0000042036453646916055
+          },
+          {
+            "label": "balcony/exterior",
+            "score": 0.000004129387709977815
+          },
+          {
+            "label": "archaelogical_excavation",
+            "score": 0.000004039096883685494
+          },
+          {
+            "label": "elevator_shaft",
+            "score": 0.000004035662375922005
+          },
+          {
+            "label": "crosswalk",
+            "score": 0.000003856934182121693
+          },
+          {
+            "label": "balcony/interior",
+            "score": 0.000003797488217340701
+          },
+          {
+            "label": "archive",
+            "score": 0.000003701500395135538
+          },
+          {
+            "label": "drugstore",
+            "score": 0.0000036849175459613236
+          },
+          {
+            "label": "construction_site",
+            "score": 0.0000036390658062543245
+          },
+          {
+            "label": "football_field",
+            "score": 0.000003527113192542016
+          },
+          {
+            "label": "museum/outdoor",
+            "score": 0.0000034177544967043204
+          },
+          {
+            "label": "raceway",
+            "score": 0.000003341396577538843
+          },
+          {
+            "label": "pavilion",
+            "score": 0.000003306026531675184
+          },
+          {
+            "label": "zen_garden",
+            "score": 0.0000032552912648592358
+          },
+          {
+            "label": "boat_deck",
+            "score": 0.0000032537081671832725
+          },
+          {
+            "label": "medina",
+            "score": 0.00000325109960898315
+          },
+          {
+            "label": "gazebo/exterior",
+            "score": 0.0000030034187695996147
+          },
+          {
+            "label": "pharmacy",
+            "score": 0.0000029639496610706546
+          },
+          {
+            "label": "arena/hockey",
+            "score": 0.000002892988032475316
+          },
+          {
+            "label": "general_store/indoor",
+            "score": 0.000002824489555001793
+          },
+          {
+            "label": "airfield",
+            "score": 0.000002805264127499361
+          },
+          {
+            "label": "apartment_building/outdoor",
+            "score": 0.000002726455951668068
+          },
+          {
+            "label": "water_park",
+            "score": 0.0000026145571484892766
+          },
+          {
+            "label": "swimming_pool/outdoor",
+            "score": 0.0000025549500724538947
+          },
+          {
+            "label": "jewelry_shop",
+            "score": 0.0000024981853099870446
+          },
+          {
+            "label": "staircase",
+            "score": 0.0000024781211689721102
+          },
+          {
+            "label": "lock_chamber",
+            "score": 0.0000024344573142840505
+          },
+          {
+            "label": "stable",
+            "score": 0.0000023004594591110564
+          },
+          {
+            "label": "hangar/outdoor",
+            "score": 0.0000022869873787142453
+          },
+          {
+            "label": "amusement_park",
+            "score": 0.0000021813590089875455
+          },
+          {
+            "label": "fountain",
+            "score": 0.000002079224612538581
+          },
+          {
+            "label": "bookstore",
+            "score": 0.0000020543399528155467
+          },
+          {
+            "label": "oast_house",
+            "score": 0.000002018625015886972
+          },
+          {
+            "label": "bazaar/outdoor",
+            "score": 0.0000019953028323242775
+          },
+          {
+            "label": "tree_house",
+            "score": 0.00000195376157522601
+          },
+          {
+            "label": "hangar/indoor",
+            "score": 0.0000019221572067142033
+          },
+          {
+            "label": "soccer_field",
+            "score": 0.0000019110173678306077
+          },
+          {
+            "label": "moat/water",
+            "score": 0.0000018423068959152674
+          },
+          {
+            "label": "pagoda",
+            "score": 0.0000018394811270767837
+          },
+          {
+            "label": "beauty_salon",
+            "score": 0.0000018180775057187943
+          },
+          {
+            "label": "shopping_mall/indoor",
+            "score": 0.0000017197848401623962
+          },
+          {
+            "label": "fishpond",
+            "score": 0.000001711867834577339
+          },
+          {
+            "label": "market/outdoor",
+            "score": 0.0000017088220394836053
+          },
+          {
+            "label": "candy_store",
+            "score": 0.0000016956720429138108
+          },
+          {
+            "label": "courtyard",
+            "score": 0.0000016829779107231416
+          },
+          {
+            "label": "patio",
+            "score": 0.0000016517903822114773
+          },
+          {
+            "label": "shoe_shop",
+            "score": 0.0000016448029309413096
+          },
+          {
+            "label": "lawn",
+            "score": 0.0000016396369147563314
+          },
+          {
+            "label": "arena/rodeo",
+            "score": 0.000001620886390111902
+          },
+          {
+            "label": "hardware_store",
+            "score": 0.0000016007125073669312
+          },
+          {
+            "label": "diner/outdoor",
+            "score": 0.0000015407902547885662
+          },
+          {
+            "label": "landing_deck",
+            "score": 0.0000015337365574470085
+          },
+          {
+            "label": "japanese_garden",
+            "score": 0.0000015190461280189414
+          },
+          {
+            "label": "bullring",
+            "score": 0.0000015169096587692301
+          },
+          {
+            "label": "television_studio",
+            "score": 0.0000015148384941583064
+          },
+          {
+            "label": "burial_chamber",
+            "score": 0.0000015006745687436644
+          },
+          {
+            "label": "stadium/football",
+            "score": 0.0000014820448329382353
+          },
+          {
+            "label": "temple/asia",
+            "score": 0.0000014490692999060605
+          },
+          {
+            "label": "supermarket",
+            "score": 0.0000014245800424115895
+          },
+          {
+            "label": "stage/outdoor",
+            "score": 0.000001400755355750808
+          },
+          {
+            "label": "jail_cell",
+            "score": 0.0000013947184391600956
+          },
+          {
+            "label": "athletic_field/outdoor",
+            "score": 0.0000013917731215526172
+          },
+          {
+            "label": "oilrig",
+            "score": 0.0000013866171824249942
+          },
+          {
+            "label": "restaurant",
+            "score": 0.0000013705458434290277
+          },
+          {
+            "label": "fire_station",
+            "score": 0.0000013604244033184088
+          },
+          {
+            "label": "doorway/outdoor",
+            "score": 0.0000013238129131379712
+          },
+          {
+            "label": "aquarium",
+            "score": 0.0000013006475563948158
+          },
+          {
+            "label": "alley",
+            "score": 0.0000012918875238542558
+          },
+          {
+            "label": "cockpit",
+            "score": 0.0000012897795311380241
+          },
+          {
+            "label": "library/outdoor",
+            "score": 0.0000012763640512930843
+          },
+          {
+            "label": "barndoor",
+            "score": 0.0000012725799609010178
+          },
+          {
+            "label": "museum/indoor",
+            "score": 0.0000012496712020006838
+          },
+          {
+            "label": "department_store",
+            "score": 0.0000012285542602130676
+          },
+          {
+            "label": "music_studio",
+            "score": 0.0000012184616916557224
+          },
+          {
+            "label": "parking_garage/indoor",
+            "score": 0.0000012142831474272721
+          },
+          {
+            "label": "bar",
+            "score": 0.0000011988654106254156
+          },
+          {
+            "label": "shower",
+            "score": 0.000001197705780600267
+          },
+          {
+            "label": "mosque/outdoor",
+            "score": 0.0000011837842600876206
+          },
+          {
+            "label": "childs_room",
+            "score": 0.0000011478851045500228
+          },
+          {
+            "label": "basement",
+            "score": 0.000001140297552528147
+          },
+          {
+            "label": "general_store/outdoor",
+            "score": 0.0000011367944862770287
+          },
+          {
+            "label": "flea_market/indoor",
+            "score": 0.0000011160509529568996
+          },
+          {
+            "label": "butchers_shop",
+            "score": 0.0000011132890639435551
+          },
+          {
+            "label": "cafeteria",
+            "score": 0.0000011128111292985666
+          },
+          {
+            "label": "airport_terminal",
+            "score": 0.000001085684879554245
+          },
+          {
+            "label": "bakery/shop",
+            "score": 0.000001080712452545652
+          },
+          {
+            "label": "coffee_shop",
+            "score": 0.0000010663261459670636
+          },
+          {
+            "label": "army_base",
+            "score": 0.000001036356220029641
+          },
+          {
+            "label": "restaurant_patio",
+            "score": 0.0000010278909574886699
+          },
+          {
+            "label": "stadium/soccer",
+            "score": 0.0000010189542836064156
+          },
+          {
+            "label": "swimming_pool/indoor",
+            "score": 0.0000010130771453423287
+          },
+          {
+            "label": "auto_factory",
+            "score": 9.81618727056732e-7
+          },
+          {
+            "label": "natural_history_museum",
+            "score": 9.810465584895714e-7
+          },
+          {
+            "label": "art_gallery",
+            "score": 9.733306531342238e-7
+          },
+          {
+            "label": "elevator/door",
+            "score": 9.391105192106825e-7
+          },
+          {
+            "label": "atrium/public",
+            "score": 9.380034201379758e-7
+          },
+          {
+            "label": "physics_laboratory",
+            "score": 9.307591845790656e-7
+          },
+          {
+            "label": "toyshop",
+            "score": 9.09311982524968e-7
+          },
+          {
+            "label": "courthouse",
+            "score": 9.072444684360184e-7
+          },
+          {
+            "label": "discotheque",
+            "score": 8.987729249812424e-7
+          },
+          {
+            "label": "repair_shop",
+            "score": 8.881054918870693e-7
+          },
+          {
+            "label": "gift_shop",
+            "score": 8.87352437395362e-7
+          },
+          {
+            "label": "loading_dock",
+            "score": 8.754176943202618e-7
+          },
+          {
+            "label": "art_studio",
+            "score": 8.616297712353682e-7
+          },
+          {
+            "label": "delicatessen",
+            "score": 7.898761894915882e-7
+          },
+          {
+            "label": "carrousel",
+            "score": 7.843645169201074e-7
+          },
+          {
+            "label": "hospital_room",
+            "score": 7.490766460055947e-7
+          },
+          {
+            "label": "shopfront",
+            "score": 7.341512615822597e-7
+          },
+          {
+            "label": "parking_garage/outdoor",
+            "score": 7.32185713038834e-7
+          },
+          {
+            "label": "stage/indoor",
+            "score": 7.303198818562425e-7
+          },
+          {
+            "label": "recreation_room",
+            "score": 7.258896972642263e-7
+          },
+          {
+            "label": "dining_room",
+            "score": 7.140309634353988e-7
+          },
+          {
+            "label": "engine_room",
+            "score": 7.103340547562771e-7
+          },
+          {
+            "label": "arcade",
+            "score": 7.067646278275121e-7
+          },
+          {
+            "label": "bamboo_forest",
+            "score": 6.988512387187054e-7
+          },
+          {
+            "label": "train_station/platform",
+            "score": 6.731031161340281e-7
+          },
+          {
+            "label": "vegetable_garden",
+            "score": 6.598816111075909e-7
+          },
+          {
+            "label": "fastfood_restaurant",
+            "score": 6.555019589603587e-7
+          },
+          {
+            "label": "attic",
+            "score": 6.484146334527456e-7
+          },
+          {
+            "label": "office",
+            "score": 6.384267356943416e-7
+          },
+          {
+            "label": "beer_hall",
+            "score": 6.375239156046545e-7
+          },
+          {
+            "label": "jacuzzi/indoor",
+            "score": 6.364679521566058e-7
+          },
+          {
+            "label": "clean_room",
+            "score": 6.288012633432626e-7
+          },
+          {
+            "label": "bow_window/indoor",
+            "score": 6.055229254205564e-7
+          },
+          {
+            "label": "auditorium",
+            "score": 6.042256554577679e-7
+          },
+          {
+            "label": "pet_shop",
+            "score": 6.024673183027591e-7
+          },
+          {
+            "label": "boxing_ring",
+            "score": 6.006111306646385e-7
+          },
+          {
+            "label": "beer_garden",
+            "score": 5.93427152225711e-7
+          },
+          {
+            "label": "science_museum",
+            "score": 5.896331284065882e-7
+          },
+          {
+            "label": "home_theater",
+            "score": 5.869348529426399e-7
+          },
+          {
+            "label": "pantry",
+            "score": 5.862652907127758e-7
+          },
+          {
+            "label": "auto_showroom",
+            "score": 5.816286749194324e-7
+          },
+          {
+            "label": "dining_hall",
+            "score": 5.799741904507006e-7
+          },
+          {
+            "label": "amusement_arcade",
+            "score": 5.77215241078138e-7
+          },
+          {
+            "label": "fire_escape",
+            "score": 5.613817756632284e-7
+          },
+          {
+            "label": "pizzeria",
+            "score": 5.601476884892063e-7
+          },
+          {
+            "label": "escalator/indoor",
+            "score": 5.584237505724653e-7
+          },
+          {
+            "label": "entrance_hall",
+            "score": 5.569512520018024e-7
+          },
+          {
+            "label": "home_office",
+            "score": 5.495447215372616e-7
+          },
+          {
+            "label": "ice_cream_parlor",
+            "score": 5.354078220619061e-7
+          },
+          {
+            "label": "sandbox",
+            "score": 5.04678240903588e-7
+          },
+          {
+            "label": "veterinarians_office",
+            "score": 5.016561665597399e-7
+          },
+          {
+            "label": "stadium/baseball",
+            "score": 4.996268918612872e-7
+          },
+          {
+            "label": "galley",
+            "score": 4.984281353344735e-7
+          },
+          {
+            "label": "storage_room",
+            "score": 4.980073417453917e-7
+          },
+          {
+            "label": "airplane_cabin",
+            "score": 4.843969616351767e-7
+          },
+          {
+            "label": "food_court",
+            "score": 4.7158178470214336e-7
+          },
+          {
+            "label": "server_room",
+            "score": 4.6146181699292116e-7
+          },
+          {
+            "label": "manufactured_home",
+            "score": 4.5894963757853787e-7
+          },
+          {
+            "label": "kennel/outdoor",
+            "score": 4.5681868029688067e-7
+          },
+          {
+            "label": "bazaar/indoor",
+            "score": 4.526575176371948e-7
+          },
+          {
+            "label": "alcove",
+            "score": 4.515231706071712e-7
+          },
+          {
+            "label": "bowling_alley",
+            "score": 4.5065117523937644e-7
+          },
+          {
+            "label": "topiary_garden",
+            "score": 4.4997897261545513e-7
+          },
+          {
+            "label": "kitchen",
+            "score": 4.491790288828637e-7
+          },
+          {
+            "label": "assembly_line",
+            "score": 4.423681622572524e-7
+          },
+          {
+            "label": "wet_bar",
+            "score": 4.262131812512946e-7
+          },
+          {
+            "label": "roof_garden",
+            "score": 4.257823392462943e-7
+          },
+          {
+            "label": "bank_vault",
+            "score": 4.239502011083837e-7
+          },
+          {
+            "label": "baseball_field",
+            "score": 4.234129100841276e-7
+          },
+          {
+            "label": "bedroom",
+            "score": 4.214403223387703e-7
+          },
+          {
+            "label": "clothing_store",
+            "score": 4.187865165975312e-7
+          },
+          {
+            "label": "greenhouse/indoor",
+            "score": 4.1613880568180686e-7
+          },
+          {
+            "label": "television_room",
+            "score": 4.005994385378279e-7
+          },
+          {
+            "label": "conference_room",
+            "score": 3.9804279680105924e-7
+          },
+          {
+            "label": "ticket_booth",
+            "score": 3.9614731544751716e-7
+          },
+          {
+            "label": "pub/indoor",
+            "score": 3.9121368380101326e-7
+          },
+          {
+            "label": "restaurant_kitchen",
+            "score": 3.8056480920446474e-7
+          },
+          {
+            "label": "art_school",
+            "score": 3.7816713391342776e-7
+          },
+          {
+            "label": "bus_station/indoor",
+            "score": 3.6850454794266194e-7
+          },
+          {
+            "label": "library/indoor",
+            "score": 3.631897750894026e-7
+          },
+          {
+            "label": "market/indoor",
+            "score": 3.5427128668099756e-7
+          },
+          {
+            "label": "berth",
+            "score": 3.3881165385367974e-7
+          },
+          {
+            "label": "chemistry_lab",
+            "score": 3.3803657874224793e-7
+          },
+          {
+            "label": "biology_laboratory",
+            "score": 3.2838939419669165e-7
+          },
+          {
+            "label": "living_room",
+            "score": 3.2316394254337486e-7
+          },
+          {
+            "label": "movie_theater/indoor",
+            "score": 3.1820123800317486e-7
+          },
+          {
+            "label": "closet",
+            "score": 3.160615582396811e-7
+          },
+          {
+            "label": "embassy",
+            "score": 2.8690631828721035e-7
+          },
+          {
+            "label": "conference_center",
+            "score": 2.756870676833957e-7
+          },
+          {
+            "label": "bathroom",
+            "score": 2.739013685893807e-7
+          },
+          {
+            "label": "florist_shop/indoor",
+            "score": 2.638758406374791e-7
+          },
+          {
+            "label": "ballroom",
+            "score": 2.6329541635705523e-7
+          },
+          {
+            "label": "train_interior",
+            "score": 2.625527133367435e-7
+          },
+          {
+            "label": "elevator_lobby",
+            "score": 2.6169634021844686e-7
+          },
+          {
+            "label": "youth_hostel",
+            "score": 2.4852456446822694e-7
+          },
+          {
+            "label": "banquet_hall",
+            "score": 2.450424849037239e-7
+          },
+          {
+            "label": "corridor",
+            "score": 2.335516782184191e-7
+          },
+          {
+            "label": "booth/indoor",
+            "score": 2.2184345049109732e-7
+          },
+          {
+            "label": "porch",
+            "score": 2.205656342067417e-7
+          },
+          {
+            "label": "office_cubicles",
+            "score": 2.1963151763602781e-7
+          },
+          {
+            "label": "lobby",
+            "score": 2.1777035922113733e-7
+          },
+          {
+            "label": "catacomb",
+            "score": 2.1697576729485114e-7
+          },
+          {
+            "label": "gymnasium/indoor",
+            "score": 2.1501353385608643e-7
+          },
+          {
+            "label": "fabric_store",
+            "score": 2.1181656869984463e-7
+          },
+          {
+            "label": "bus_interior",
+            "score": 2.097318111915609e-7
+          },
+          {
+            "label": "hotel_room",
+            "score": 2.014433649998979e-7
+          },
+          {
+            "label": "car_interior",
+            "score": 1.9758374396312381e-7
+          },
+          {
+            "label": "nursery",
+            "score": 1.966734665863032e-7
+          },
+          {
+            "label": "waiting_room",
+            "score": 1.9629738880748943e-7
+          },
+          {
+            "label": "bedchamber",
+            "score": 1.881967449115748e-7
+          },
+          {
+            "label": "artists_loft",
+            "score": 1.8612547024402063e-7
+          },
+          {
+            "label": "ball_pit",
+            "score": 1.8165815308113704e-7
+          },
+          {
+            "label": "martial_arts_gym",
+            "score": 1.7681981516835498e-7
+          },
+          {
+            "label": "dorm_room",
+            "score": 1.7645405931189042e-7
+          },
+          {
+            "label": "mezzanine",
+            "score": 1.7519888708237167e-7
+          },
+          {
+            "label": "reception",
+            "score": 1.7508656000493918e-7
+          },
+          {
+            "label": "nursing_home",
+            "score": 1.7384542575681892e-7
+          },
+          {
+            "label": "garage/outdoor",
+            "score": 1.7078033438847318e-7
+          },
+          {
+            "label": "orchestra_pit",
+            "score": 1.5979195763196838e-7
+          },
+          {
+            "label": "laundromat",
+            "score": 1.590545373329853e-7
+          },
+          {
+            "label": "operating_room",
+            "score": 1.533327011248779e-7
+          },
+          {
+            "label": "garage/indoor",
+            "score": 1.4272442935420834e-7
+          },
+          {
+            "label": "sauna",
+            "score": 1.4108235804497816e-7
+          },
+          {
+            "label": "computer_room",
+            "score": 1.3328031260482505e-7
+          },
+          {
+            "label": "sushi_bar",
+            "score": 1.2902906684554769e-7
+          },
+          {
+            "label": "utility_room",
+            "score": 1.2334642469257445e-7
+          },
+          {
+            "label": "lecture_room",
+            "score": 1.094742475590412e-7
+          },
+          {
+            "label": "classroom",
+            "score": 9.619141454237252e-8
+          },
+          {
+            "label": "synagogue/outdoor",
+            "score": 8.299520617175277e-8
+          },
+          {
+            "label": "dressing_room",
+            "score": 7.31807501353651e-8
+          },
+          {
+            "label": "kindergarden_classroom",
+            "score": 7.037916926283831e-8
+          },
+          {
+            "label": "legislative_chamber",
+            "score": 6.910926649801452e-8
+          },
+          {
+            "label": "basketball_court/indoor",
+            "score": 6.77591622706206e-8
+          },
+          {
+            "label": "subway_station/platform",
+            "score": 6.759619263085375e-8
+          },
+          {
+            "label": "playroom",
+            "score": 6.276369357156778e-8
+          },
+          {
+            "label": "throne_room",
+            "score": 6.241081988230955e-8
+          },
+          {
+            "label": "locker_room",
+            "score": 6.017045543392201e-8
+          },
+          {
+            "label": "church/indoor",
+            "score": 2.540527626614287e-8
+          }
+        ],
+        "detections": []
+      },
+      "heartbeat": {
+        "samples": 115,
+        "maxGapMs": 95.69999998807907
+      },
+      "pageV8Heap": {
+        "usedSize": 13050656,
+        "totalSize": 21868544,
+        "embedderHeapUsedSize": 5257328,
+        "backingStorageSize": 2719081
+      }
+    },
+    {
+      "mode": "places",
+      "variant": "repeat",
+      "input": "Final calibration natural-00 only; transformations are related diagnostics, not independent quality examples",
+      "wallMs": 893,
+      "result": {
+        "mode": "places",
+        "backend": "wasm",
+        "reused": true,
+        "initializationMs": 0,
+        "preprocessingMs": 13.300000011920929,
+        "inferenceMs": 366.59999999403954,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [
+          {
+            "label": "snowfield",
+            "score": 0.4761303711578486
+          },
+          {
+            "label": "mountain_snowy",
+            "score": 0.2795510051227355
+          },
+          {
+            "label": "ski_slope",
+            "score": 0.09842611918139624
+          },
+          {
+            "label": "ski_resort",
+            "score": 0.031230855985130184
+          },
+          {
+            "label": "valley",
+            "score": 0.026037853374939177
+          },
+          {
+            "label": "glacier",
+            "score": 0.018006350695976895
+          },
+          {
+            "label": "mountain",
+            "score": 0.013590066077434966
+          },
+          {
+            "label": "tundra",
+            "score": 0.012334120988497406
+          },
+          {
+            "label": "ice_floe",
+            "score": 0.009493368625192863
+          },
+          {
+            "label": "mountain_path",
+            "score": 0.005413361683442558
+          },
+          {
+            "label": "ice_shelf",
+            "score": 0.004634125905637486
+          },
+          {
+            "label": "village",
+            "score": 0.003215992351312631
+          },
+          {
+            "label": "ice_skating_rink/outdoor",
+            "score": 0.0030757193968620486
+          },
+          {
+            "label": "butte",
+            "score": 0.0025310542795255963
+          },
+          {
+            "label": "hot_spring",
+            "score": 0.0020374263495064114
+          },
+          {
+            "label": "volcano",
+            "score": 0.0016322245423775908
+          },
+          {
+            "label": "iceberg",
+            "score": 0.0015542893546852453
+          },
+          {
+            "label": "chalet",
+            "score": 0.001414439618387974
+          },
+          {
+            "label": "crevasse",
+            "score": 0.0008504810747844486
+          },
+          {
+            "label": "canyon",
+            "score": 0.0007723454619732948
+          },
+          {
+            "label": "cliff",
+            "score": 0.0007052608666696684
+          },
+          {
+            "label": "lake/natural",
+            "score": 0.0005091715443838734
+          },
+          {
+            "label": "river",
+            "score": 0.0004920810514328681
+          },
+          {
+            "label": "sky",
+            "score": 0.0004617289596932162
+          },
+          {
+            "label": "igloo",
+            "score": 0.00042536120213994554
+          },
+          {
+            "label": "creek",
+            "score": 0.0004230461581804977
+          },
+          {
+            "label": "badlands",
+            "score": 0.00036138102278693925
+          },
+          {
+            "label": "ocean",
+            "score": 0.0003223755001567303
+          },
+          {
+            "label": "coast",
+            "score": 0.0003078998935362731
+          },
+          {
+            "label": "field_road",
+            "score": 0.00026609248653673343
+          },
+          {
+            "label": "pasture",
+            "score": 0.00025566544375244855
+          },
+          {
+            "label": "parking_lot",
+            "score": 0.0002247662007615236
+          },
+          {
+            "label": "wave",
+            "score": 0.00021715319466634867
+          },
+          {
+            "label": "pond",
+            "score": 0.0001830791793029907
+          },
+          {
+            "label": "desert/vegetation",
+            "score": 0.00013952125012532866
+          },
+          {
+            "label": "beach",
+            "score": 0.00012192751614317812
+          },
+          {
+            "label": "farm",
+            "score": 0.00011194784251236535
+          },
+          {
+            "label": "campsite",
+            "score": 0.0001035026455394036
+          },
+          {
+            "label": "forest_path",
+            "score": 0.00009700204500832982
+          },
+          {
+            "label": "tree_farm",
+            "score": 0.00008039079707097134
+          },
+          {
+            "label": "watering_hole",
+            "score": 0.00007988451984094054
+          },
+          {
+            "label": "lagoon",
+            "score": 0.00007700999717567737
+          },
+          {
+            "label": "beach_house",
+            "score": 0.00007474352534102236
+          },
+          {
+            "label": "field/wild",
+            "score": 0.00007341592726817613
+          },
+          {
+            "label": "barn",
+            "score": 0.00006935536486446815
+          },
+          {
+            "label": "highway",
+            "score": 0.00006480105373294719
+          },
+          {
+            "label": "desert_road",
+            "score": 0.00006438491185485127
+          },
+          {
+            "label": "landfill",
+            "score": 0.00006401896993801987
+          },
+          {
+            "label": "castle",
+            "score": 0.00005802649578639532
+          },
+          {
+            "label": "marsh",
+            "score": 0.000052192616052892006
+          },
+          {
+            "label": "boardwalk",
+            "score": 0.000051055732438302315
+          },
+          {
+            "label": "islet",
+            "score": 0.00005058745730114134
+          },
+          {
+            "label": "harbor",
+            "score": 0.00004875362445027322
+          },
+          {
+            "label": "vineyard",
+            "score": 0.00004516525074697625
+          },
+          {
+            "label": "forest/broadleaf",
+            "score": 0.000043217174313823477
+          },
+          {
+            "label": "picnic_area",
+            "score": 0.000038561599946793314
+          },
+          {
+            "label": "arch",
+            "score": 0.0000353008619155716
+          },
+          {
+            "label": "golf_course",
+            "score": 0.000034014796506893885
+          },
+          {
+            "label": "rock_arch",
+            "score": 0.00003394750349721255
+          },
+          {
+            "label": "park",
+            "score": 0.00003289716561942243
+          },
+          {
+            "label": "palace",
+            "score": 0.00003124086948616741
+          },
+          {
+            "label": "pier",
+            "score": 0.00002950681865251512
+          },
+          {
+            "label": "corral",
+            "score": 0.000028681920342631904
+          },
+          {
+            "label": "bridge",
+            "score": 0.000024855136410529155
+          },
+          {
+            "label": "campus",
+            "score": 0.0000245796961748766
+          },
+          {
+            "label": "shed",
+            "score": 0.00002037557378704078
+          },
+          {
+            "label": "rainforest",
+            "score": 0.000019741765426157416
+          },
+          {
+            "label": "lighthouse",
+            "score": 0.000019682208473539124
+          },
+          {
+            "label": "windmill",
+            "score": 0.000019103043995608324
+          },
+          {
+            "label": "promenade",
+            "score": 0.000018908610324362497
+          },
+          {
+            "label": "swamp",
+            "score": 0.00001880826881288868
+          },
+          {
+            "label": "swimming_hole",
+            "score": 0.00001824111178674162
+          },
+          {
+            "label": "viaduct",
+            "score": 0.000018126035918749832
+          },
+          {
+            "label": "ice_skating_rink/indoor",
+            "score": 0.000018046550952872124
+          },
+          {
+            "label": "desert/sand",
+            "score": 0.00001793466504829185
+          },
+          {
+            "label": "tower",
+            "score": 0.000017750534106111316
+          },
+          {
+            "label": "orchard",
+            "score": 0.000017438933740024985
+          },
+          {
+            "label": "heliport",
+            "score": 0.000017016767573036524
+          },
+          {
+            "label": "forest_road",
+            "score": 0.00001700999556982491
+          },
+          {
+            "label": "slum",
+            "score": 0.00001644420680170603
+          },
+          {
+            "label": "downtown",
+            "score": 0.00001612214898235232
+          },
+          {
+            "label": "boathouse",
+            "score": 0.00001590458637046624
+          },
+          {
+            "label": "field/cultivated",
+            "score": 0.000015328459070922684
+          },
+          {
+            "label": "junkyard",
+            "score": 0.0000153238641135572
+          },
+          {
+            "label": "gas_station",
+            "score": 0.000015190796775773837
+          },
+          {
+            "label": "kasbah",
+            "score": 0.000014575220116039858
+          },
+          {
+            "label": "dam",
+            "score": 0.000014416040541062151
+          },
+          {
+            "label": "railroad_track",
+            "score": 0.000013678577104084291
+          },
+          {
+            "label": "schoolhouse",
+            "score": 0.00001367732485027256
+          },
+          {
+            "label": "cottage",
+            "score": 0.00001306620356374212
+          },
+          {
+            "label": "yard",
+            "score": 0.000012784112966579748
+          },
+          {
+            "label": "runway",
+            "score": 0.000012728550695038203
+          },
+          {
+            "label": "wind_farm",
+            "score": 0.00001235990121716167
+          },
+          {
+            "label": "hayfield",
+            "score": 0.00001227613978523292
+          },
+          {
+            "label": "waterfall",
+            "score": 0.000011677167019968079
+          },
+          {
+            "label": "raft",
+            "score": 0.000011453794920889062
+          },
+          {
+            "label": "aqueduct",
+            "score": 0.00001135222941354386
+          },
+          {
+            "label": "plaza",
+            "score": 0.000011050728280517355
+          },
+          {
+            "label": "hotel/outdoor",
+            "score": 0.000010663030452047606
+          },
+          {
+            "label": "building_facade",
+            "score": 0.000010090872653040442
+          },
+          {
+            "label": "inn/outdoor",
+            "score": 0.000009672067032913301
+          },
+          {
+            "label": "racecourse",
+            "score": 0.00000946760907155445
+          },
+          {
+            "label": "hospital",
+            "score": 0.000009408283226101813
+          },
+          {
+            "label": "church/outdoor",
+            "score": 0.00000938610598581718
+          },
+          {
+            "label": "volleyball_court/outdoor",
+            "score": 0.000009104106425370181
+          },
+          {
+            "label": "trench",
+            "score": 0.000009039765828988772
+          },
+          {
+            "label": "canal/natural",
+            "score": 0.000009036446817513222
+          },
+          {
+            "label": "water_tower",
+            "score": 0.000008724813819823705
+          },
+          {
+            "label": "office_building",
+            "score": 0.000008671833025858712
+          },
+          {
+            "label": "amphitheater",
+            "score": 0.000008316554950965659
+          },
+          {
+            "label": "botanical_garden",
+            "score": 0.000007961129050214834
+          },
+          {
+            "label": "industrial_area",
+            "score": 0.000007806058981259934
+          },
+          {
+            "label": "playground",
+            "score": 0.000007772107759796535
+          },
+          {
+            "label": "residential_neighborhood",
+            "score": 0.000007758236438956852
+          },
+          {
+            "label": "cemetery",
+            "score": 0.000007142546292289041
+          },
+          {
+            "label": "rice_paddy",
+            "score": 0.000006856865455815749
+          },
+          {
+            "label": "house",
+            "score": 0.0000068251746718059565
+          },
+          {
+            "label": "ruin",
+            "score": 0.000006821367159245257
+          },
+          {
+            "label": "grotto",
+            "score": 0.000006671751753722091
+          },
+          {
+            "label": "underwater/ocean_deep",
+            "score": 0.000006615864346594305
+          },
+          {
+            "label": "skyscraper",
+            "score": 0.000006350006155952453
+          },
+          {
+            "label": "driveway",
+            "score": 0.000006127727033350657
+          },
+          {
+            "label": "rope_bridge",
+            "score": 0.0000060661947238551425
+          },
+          {
+            "label": "mausoleum",
+            "score": 0.00000589542831851051
+          },
+          {
+            "label": "arena/performance",
+            "score": 0.000005855004623504592
+          },
+          {
+            "label": "hunting_lodge/outdoor",
+            "score": 0.000005741830966050332
+          },
+          {
+            "label": "excavation",
+            "score": 0.000005634129929858421
+          },
+          {
+            "label": "mansion",
+            "score": 0.0000055468332441221
+          },
+          {
+            "label": "cabin/outdoor",
+            "score": 0.000005077278125508751
+          },
+          {
+            "label": "motel",
+            "score": 0.000005069941945036303
+          },
+          {
+            "label": "corn_field",
+            "score": 0.000004774121777006244
+          },
+          {
+            "label": "greenhouse/outdoor",
+            "score": 0.000004689196564094336
+          },
+          {
+            "label": "wheat_field",
+            "score": 0.000004514077166477398
+          },
+          {
+            "label": "formal_garden",
+            "score": 0.00000447035387919875
+          },
+          {
+            "label": "street",
+            "score": 0.0000044172642968771815
+          },
+          {
+            "label": "canal/urban",
+            "score": 0.000004322744444205516
+          },
+          {
+            "label": "phone_booth",
+            "score": 0.0000042036453646916055
+          },
+          {
+            "label": "balcony/exterior",
+            "score": 0.000004129387709977815
+          },
+          {
+            "label": "archaelogical_excavation",
+            "score": 0.000004039096883685494
+          },
+          {
+            "label": "elevator_shaft",
+            "score": 0.000004035662375922005
+          },
+          {
+            "label": "crosswalk",
+            "score": 0.000003856934182121693
+          },
+          {
+            "label": "balcony/interior",
+            "score": 0.000003797488217340701
+          },
+          {
+            "label": "archive",
+            "score": 0.000003701500395135538
+          },
+          {
+            "label": "drugstore",
+            "score": 0.0000036849175459613236
+          },
+          {
+            "label": "construction_site",
+            "score": 0.0000036390658062543245
+          },
+          {
+            "label": "football_field",
+            "score": 0.000003527113192542016
+          },
+          {
+            "label": "museum/outdoor",
+            "score": 0.0000034177544967043204
+          },
+          {
+            "label": "raceway",
+            "score": 0.000003341396577538843
+          },
+          {
+            "label": "pavilion",
+            "score": 0.000003306026531675184
+          },
+          {
+            "label": "zen_garden",
+            "score": 0.0000032552912648592358
+          },
+          {
+            "label": "boat_deck",
+            "score": 0.0000032537081671832725
+          },
+          {
+            "label": "medina",
+            "score": 0.00000325109960898315
+          },
+          {
+            "label": "gazebo/exterior",
+            "score": 0.0000030034187695996147
+          },
+          {
+            "label": "pharmacy",
+            "score": 0.0000029639496610706546
+          },
+          {
+            "label": "arena/hockey",
+            "score": 0.000002892988032475316
+          },
+          {
+            "label": "general_store/indoor",
+            "score": 0.000002824489555001793
+          },
+          {
+            "label": "airfield",
+            "score": 0.000002805264127499361
+          },
+          {
+            "label": "apartment_building/outdoor",
+            "score": 0.000002726455951668068
+          },
+          {
+            "label": "water_park",
+            "score": 0.0000026145571484892766
+          },
+          {
+            "label": "swimming_pool/outdoor",
+            "score": 0.0000025549500724538947
+          },
+          {
+            "label": "jewelry_shop",
+            "score": 0.0000024981853099870446
+          },
+          {
+            "label": "staircase",
+            "score": 0.0000024781211689721102
+          },
+          {
+            "label": "lock_chamber",
+            "score": 0.0000024344573142840505
+          },
+          {
+            "label": "stable",
+            "score": 0.0000023004594591110564
+          },
+          {
+            "label": "hangar/outdoor",
+            "score": 0.0000022869873787142453
+          },
+          {
+            "label": "amusement_park",
+            "score": 0.0000021813590089875455
+          },
+          {
+            "label": "fountain",
+            "score": 0.000002079224612538581
+          },
+          {
+            "label": "bookstore",
+            "score": 0.0000020543399528155467
+          },
+          {
+            "label": "oast_house",
+            "score": 0.000002018625015886972
+          },
+          {
+            "label": "bazaar/outdoor",
+            "score": 0.0000019953028323242775
+          },
+          {
+            "label": "tree_house",
+            "score": 0.00000195376157522601
+          },
+          {
+            "label": "hangar/indoor",
+            "score": 0.0000019221572067142033
+          },
+          {
+            "label": "soccer_field",
+            "score": 0.0000019110173678306077
+          },
+          {
+            "label": "moat/water",
+            "score": 0.0000018423068959152674
+          },
+          {
+            "label": "pagoda",
+            "score": 0.0000018394811270767837
+          },
+          {
+            "label": "beauty_salon",
+            "score": 0.0000018180775057187943
+          },
+          {
+            "label": "shopping_mall/indoor",
+            "score": 0.0000017197848401623962
+          },
+          {
+            "label": "fishpond",
+            "score": 0.000001711867834577339
+          },
+          {
+            "label": "market/outdoor",
+            "score": 0.0000017088220394836053
+          },
+          {
+            "label": "candy_store",
+            "score": 0.0000016956720429138108
+          },
+          {
+            "label": "courtyard",
+            "score": 0.0000016829779107231416
+          },
+          {
+            "label": "patio",
+            "score": 0.0000016517903822114773
+          },
+          {
+            "label": "shoe_shop",
+            "score": 0.0000016448029309413096
+          },
+          {
+            "label": "lawn",
+            "score": 0.0000016396369147563314
+          },
+          {
+            "label": "arena/rodeo",
+            "score": 0.000001620886390111902
+          },
+          {
+            "label": "hardware_store",
+            "score": 0.0000016007125073669312
+          },
+          {
+            "label": "diner/outdoor",
+            "score": 0.0000015407902547885662
+          },
+          {
+            "label": "landing_deck",
+            "score": 0.0000015337365574470085
+          },
+          {
+            "label": "japanese_garden",
+            "score": 0.0000015190461280189414
+          },
+          {
+            "label": "bullring",
+            "score": 0.0000015169096587692301
+          },
+          {
+            "label": "television_studio",
+            "score": 0.0000015148384941583064
+          },
+          {
+            "label": "burial_chamber",
+            "score": 0.0000015006745687436644
+          },
+          {
+            "label": "stadium/football",
+            "score": 0.0000014820448329382353
+          },
+          {
+            "label": "temple/asia",
+            "score": 0.0000014490692999060605
+          },
+          {
+            "label": "supermarket",
+            "score": 0.0000014245800424115895
+          },
+          {
+            "label": "stage/outdoor",
+            "score": 0.000001400755355750808
+          },
+          {
+            "label": "jail_cell",
+            "score": 0.0000013947184391600956
+          },
+          {
+            "label": "athletic_field/outdoor",
+            "score": 0.0000013917731215526172
+          },
+          {
+            "label": "oilrig",
+            "score": 0.0000013866171824249942
+          },
+          {
+            "label": "restaurant",
+            "score": 0.0000013705458434290277
+          },
+          {
+            "label": "fire_station",
+            "score": 0.0000013604244033184088
+          },
+          {
+            "label": "doorway/outdoor",
+            "score": 0.0000013238129131379712
+          },
+          {
+            "label": "aquarium",
+            "score": 0.0000013006475563948158
+          },
+          {
+            "label": "alley",
+            "score": 0.0000012918875238542558
+          },
+          {
+            "label": "cockpit",
+            "score": 0.0000012897795311380241
+          },
+          {
+            "label": "library/outdoor",
+            "score": 0.0000012763640512930843
+          },
+          {
+            "label": "barndoor",
+            "score": 0.0000012725799609010178
+          },
+          {
+            "label": "museum/indoor",
+            "score": 0.0000012496712020006838
+          },
+          {
+            "label": "department_store",
+            "score": 0.0000012285542602130676
+          },
+          {
+            "label": "music_studio",
+            "score": 0.0000012184616916557224
+          },
+          {
+            "label": "parking_garage/indoor",
+            "score": 0.0000012142831474272721
+          },
+          {
+            "label": "bar",
+            "score": 0.0000011988654106254156
+          },
+          {
+            "label": "shower",
+            "score": 0.000001197705780600267
+          },
+          {
+            "label": "mosque/outdoor",
+            "score": 0.0000011837842600876206
+          },
+          {
+            "label": "childs_room",
+            "score": 0.0000011478851045500228
+          },
+          {
+            "label": "basement",
+            "score": 0.000001140297552528147
+          },
+          {
+            "label": "general_store/outdoor",
+            "score": 0.0000011367944862770287
+          },
+          {
+            "label": "flea_market/indoor",
+            "score": 0.0000011160509529568996
+          },
+          {
+            "label": "butchers_shop",
+            "score": 0.0000011132890639435551
+          },
+          {
+            "label": "cafeteria",
+            "score": 0.0000011128111292985666
+          },
+          {
+            "label": "airport_terminal",
+            "score": 0.000001085684879554245
+          },
+          {
+            "label": "bakery/shop",
+            "score": 0.000001080712452545652
+          },
+          {
+            "label": "coffee_shop",
+            "score": 0.0000010663261459670636
+          },
+          {
+            "label": "army_base",
+            "score": 0.000001036356220029641
+          },
+          {
+            "label": "restaurant_patio",
+            "score": 0.0000010278909574886699
+          },
+          {
+            "label": "stadium/soccer",
+            "score": 0.0000010189542836064156
+          },
+          {
+            "label": "swimming_pool/indoor",
+            "score": 0.0000010130771453423287
+          },
+          {
+            "label": "auto_factory",
+            "score": 9.81618727056732e-7
+          },
+          {
+            "label": "natural_history_museum",
+            "score": 9.810465584895714e-7
+          },
+          {
+            "label": "art_gallery",
+            "score": 9.733306531342238e-7
+          },
+          {
+            "label": "elevator/door",
+            "score": 9.391105192106825e-7
+          },
+          {
+            "label": "atrium/public",
+            "score": 9.380034201379758e-7
+          },
+          {
+            "label": "physics_laboratory",
+            "score": 9.307591845790656e-7
+          },
+          {
+            "label": "toyshop",
+            "score": 9.09311982524968e-7
+          },
+          {
+            "label": "courthouse",
+            "score": 9.072444684360184e-7
+          },
+          {
+            "label": "discotheque",
+            "score": 8.987729249812424e-7
+          },
+          {
+            "label": "repair_shop",
+            "score": 8.881054918870693e-7
+          },
+          {
+            "label": "gift_shop",
+            "score": 8.87352437395362e-7
+          },
+          {
+            "label": "loading_dock",
+            "score": 8.754176943202618e-7
+          },
+          {
+            "label": "art_studio",
+            "score": 8.616297712353682e-7
+          },
+          {
+            "label": "delicatessen",
+            "score": 7.898761894915882e-7
+          },
+          {
+            "label": "carrousel",
+            "score": 7.843645169201074e-7
+          },
+          {
+            "label": "hospital_room",
+            "score": 7.490766460055947e-7
+          },
+          {
+            "label": "shopfront",
+            "score": 7.341512615822597e-7
+          },
+          {
+            "label": "parking_garage/outdoor",
+            "score": 7.32185713038834e-7
+          },
+          {
+            "label": "stage/indoor",
+            "score": 7.303198818562425e-7
+          },
+          {
+            "label": "recreation_room",
+            "score": 7.258896972642263e-7
+          },
+          {
+            "label": "dining_room",
+            "score": 7.140309634353988e-7
+          },
+          {
+            "label": "engine_room",
+            "score": 7.103340547562771e-7
+          },
+          {
+            "label": "arcade",
+            "score": 7.067646278275121e-7
+          },
+          {
+            "label": "bamboo_forest",
+            "score": 6.988512387187054e-7
+          },
+          {
+            "label": "train_station/platform",
+            "score": 6.731031161340281e-7
+          },
+          {
+            "label": "vegetable_garden",
+            "score": 6.598816111075909e-7
+          },
+          {
+            "label": "fastfood_restaurant",
+            "score": 6.555019589603587e-7
+          },
+          {
+            "label": "attic",
+            "score": 6.484146334527456e-7
+          },
+          {
+            "label": "office",
+            "score": 6.384267356943416e-7
+          },
+          {
+            "label": "beer_hall",
+            "score": 6.375239156046545e-7
+          },
+          {
+            "label": "jacuzzi/indoor",
+            "score": 6.364679521566058e-7
+          },
+          {
+            "label": "clean_room",
+            "score": 6.288012633432626e-7
+          },
+          {
+            "label": "bow_window/indoor",
+            "score": 6.055229254205564e-7
+          },
+          {
+            "label": "auditorium",
+            "score": 6.042256554577679e-7
+          },
+          {
+            "label": "pet_shop",
+            "score": 6.024673183027591e-7
+          },
+          {
+            "label": "boxing_ring",
+            "score": 6.006111306646385e-7
+          },
+          {
+            "label": "beer_garden",
+            "score": 5.93427152225711e-7
+          },
+          {
+            "label": "science_museum",
+            "score": 5.896331284065882e-7
+          },
+          {
+            "label": "home_theater",
+            "score": 5.869348529426399e-7
+          },
+          {
+            "label": "pantry",
+            "score": 5.862652907127758e-7
+          },
+          {
+            "label": "auto_showroom",
+            "score": 5.816286749194324e-7
+          },
+          {
+            "label": "dining_hall",
+            "score": 5.799741904507006e-7
+          },
+          {
+            "label": "amusement_arcade",
+            "score": 5.77215241078138e-7
+          },
+          {
+            "label": "fire_escape",
+            "score": 5.613817756632284e-7
+          },
+          {
+            "label": "pizzeria",
+            "score": 5.601476884892063e-7
+          },
+          {
+            "label": "escalator/indoor",
+            "score": 5.584237505724653e-7
+          },
+          {
+            "label": "entrance_hall",
+            "score": 5.569512520018024e-7
+          },
+          {
+            "label": "home_office",
+            "score": 5.495447215372616e-7
+          },
+          {
+            "label": "ice_cream_parlor",
+            "score": 5.354078220619061e-7
+          },
+          {
+            "label": "sandbox",
+            "score": 5.04678240903588e-7
+          },
+          {
+            "label": "veterinarians_office",
+            "score": 5.016561665597399e-7
+          },
+          {
+            "label": "stadium/baseball",
+            "score": 4.996268918612872e-7
+          },
+          {
+            "label": "galley",
+            "score": 4.984281353344735e-7
+          },
+          {
+            "label": "storage_room",
+            "score": 4.980073417453917e-7
+          },
+          {
+            "label": "airplane_cabin",
+            "score": 4.843969616351767e-7
+          },
+          {
+            "label": "food_court",
+            "score": 4.7158178470214336e-7
+          },
+          {
+            "label": "server_room",
+            "score": 4.6146181699292116e-7
+          },
+          {
+            "label": "manufactured_home",
+            "score": 4.5894963757853787e-7
+          },
+          {
+            "label": "kennel/outdoor",
+            "score": 4.5681868029688067e-7
+          },
+          {
+            "label": "bazaar/indoor",
+            "score": 4.526575176371948e-7
+          },
+          {
+            "label": "alcove",
+            "score": 4.515231706071712e-7
+          },
+          {
+            "label": "bowling_alley",
+            "score": 4.5065117523937644e-7
+          },
+          {
+            "label": "topiary_garden",
+            "score": 4.4997897261545513e-7
+          },
+          {
+            "label": "kitchen",
+            "score": 4.491790288828637e-7
+          },
+          {
+            "label": "assembly_line",
+            "score": 4.423681622572524e-7
+          },
+          {
+            "label": "wet_bar",
+            "score": 4.262131812512946e-7
+          },
+          {
+            "label": "roof_garden",
+            "score": 4.257823392462943e-7
+          },
+          {
+            "label": "bank_vault",
+            "score": 4.239502011083837e-7
+          },
+          {
+            "label": "baseball_field",
+            "score": 4.234129100841276e-7
+          },
+          {
+            "label": "bedroom",
+            "score": 4.214403223387703e-7
+          },
+          {
+            "label": "clothing_store",
+            "score": 4.187865165975312e-7
+          },
+          {
+            "label": "greenhouse/indoor",
+            "score": 4.1613880568180686e-7
+          },
+          {
+            "label": "television_room",
+            "score": 4.005994385378279e-7
+          },
+          {
+            "label": "conference_room",
+            "score": 3.9804279680105924e-7
+          },
+          {
+            "label": "ticket_booth",
+            "score": 3.9614731544751716e-7
+          },
+          {
+            "label": "pub/indoor",
+            "score": 3.9121368380101326e-7
+          },
+          {
+            "label": "restaurant_kitchen",
+            "score": 3.8056480920446474e-7
+          },
+          {
+            "label": "art_school",
+            "score": 3.7816713391342776e-7
+          },
+          {
+            "label": "bus_station/indoor",
+            "score": 3.6850454794266194e-7
+          },
+          {
+            "label": "library/indoor",
+            "score": 3.631897750894026e-7
+          },
+          {
+            "label": "market/indoor",
+            "score": 3.5427128668099756e-7
+          },
+          {
+            "label": "berth",
+            "score": 3.3881165385367974e-7
+          },
+          {
+            "label": "chemistry_lab",
+            "score": 3.3803657874224793e-7
+          },
+          {
+            "label": "biology_laboratory",
+            "score": 3.2838939419669165e-7
+          },
+          {
+            "label": "living_room",
+            "score": 3.2316394254337486e-7
+          },
+          {
+            "label": "movie_theater/indoor",
+            "score": 3.1820123800317486e-7
+          },
+          {
+            "label": "closet",
+            "score": 3.160615582396811e-7
+          },
+          {
+            "label": "embassy",
+            "score": 2.8690631828721035e-7
+          },
+          {
+            "label": "conference_center",
+            "score": 2.756870676833957e-7
+          },
+          {
+            "label": "bathroom",
+            "score": 2.739013685893807e-7
+          },
+          {
+            "label": "florist_shop/indoor",
+            "score": 2.638758406374791e-7
+          },
+          {
+            "label": "ballroom",
+            "score": 2.6329541635705523e-7
+          },
+          {
+            "label": "train_interior",
+            "score": 2.625527133367435e-7
+          },
+          {
+            "label": "elevator_lobby",
+            "score": 2.6169634021844686e-7
+          },
+          {
+            "label": "youth_hostel",
+            "score": 2.4852456446822694e-7
+          },
+          {
+            "label": "banquet_hall",
+            "score": 2.450424849037239e-7
+          },
+          {
+            "label": "corridor",
+            "score": 2.335516782184191e-7
+          },
+          {
+            "label": "booth/indoor",
+            "score": 2.2184345049109732e-7
+          },
+          {
+            "label": "porch",
+            "score": 2.205656342067417e-7
+          },
+          {
+            "label": "office_cubicles",
+            "score": 2.1963151763602781e-7
+          },
+          {
+            "label": "lobby",
+            "score": 2.1777035922113733e-7
+          },
+          {
+            "label": "catacomb",
+            "score": 2.1697576729485114e-7
+          },
+          {
+            "label": "gymnasium/indoor",
+            "score": 2.1501353385608643e-7
+          },
+          {
+            "label": "fabric_store",
+            "score": 2.1181656869984463e-7
+          },
+          {
+            "label": "bus_interior",
+            "score": 2.097318111915609e-7
+          },
+          {
+            "label": "hotel_room",
+            "score": 2.014433649998979e-7
+          },
+          {
+            "label": "car_interior",
+            "score": 1.9758374396312381e-7
+          },
+          {
+            "label": "nursery",
+            "score": 1.966734665863032e-7
+          },
+          {
+            "label": "waiting_room",
+            "score": 1.9629738880748943e-7
+          },
+          {
+            "label": "bedchamber",
+            "score": 1.881967449115748e-7
+          },
+          {
+            "label": "artists_loft",
+            "score": 1.8612547024402063e-7
+          },
+          {
+            "label": "ball_pit",
+            "score": 1.8165815308113704e-7
+          },
+          {
+            "label": "martial_arts_gym",
+            "score": 1.7681981516835498e-7
+          },
+          {
+            "label": "dorm_room",
+            "score": 1.7645405931189042e-7
+          },
+          {
+            "label": "mezzanine",
+            "score": 1.7519888708237167e-7
+          },
+          {
+            "label": "reception",
+            "score": 1.7508656000493918e-7
+          },
+          {
+            "label": "nursing_home",
+            "score": 1.7384542575681892e-7
+          },
+          {
+            "label": "garage/outdoor",
+            "score": 1.7078033438847318e-7
+          },
+          {
+            "label": "orchestra_pit",
+            "score": 1.5979195763196838e-7
+          },
+          {
+            "label": "laundromat",
+            "score": 1.590545373329853e-7
+          },
+          {
+            "label": "operating_room",
+            "score": 1.533327011248779e-7
+          },
+          {
+            "label": "garage/indoor",
+            "score": 1.4272442935420834e-7
+          },
+          {
+            "label": "sauna",
+            "score": 1.4108235804497816e-7
+          },
+          {
+            "label": "computer_room",
+            "score": 1.3328031260482505e-7
+          },
+          {
+            "label": "sushi_bar",
+            "score": 1.2902906684554769e-7
+          },
+          {
+            "label": "utility_room",
+            "score": 1.2334642469257445e-7
+          },
+          {
+            "label": "lecture_room",
+            "score": 1.094742475590412e-7
+          },
+          {
+            "label": "classroom",
+            "score": 9.619141454237252e-8
+          },
+          {
+            "label": "synagogue/outdoor",
+            "score": 8.299520617175277e-8
+          },
+          {
+            "label": "dressing_room",
+            "score": 7.31807501353651e-8
+          },
+          {
+            "label": "kindergarden_classroom",
+            "score": 7.037916926283831e-8
+          },
+          {
+            "label": "legislative_chamber",
+            "score": 6.910926649801452e-8
+          },
+          {
+            "label": "basketball_court/indoor",
+            "score": 6.77591622706206e-8
+          },
+          {
+            "label": "subway_station/platform",
+            "score": 6.759619263085375e-8
+          },
+          {
+            "label": "playroom",
+            "score": 6.276369357156778e-8
+          },
+          {
+            "label": "throne_room",
+            "score": 6.241081988230955e-8
+          },
+          {
+            "label": "locker_room",
+            "score": 6.017045543392201e-8
+          },
+          {
+            "label": "church/indoor",
+            "score": 2.540527626614287e-8
+          }
+        ],
+        "detections": []
+      },
+      "heartbeat": {
+        "samples": 42,
+        "maxGapMs": 60.900000005960464
+      },
+      "pageV8Heap": {
+        "usedSize": 10801032,
+        "totalSize": 21458944,
+        "embedderHeapUsedSize": 7608344,
+        "backingStorageSize": 3151688
+      }
+    },
+    {
+      "mode": "places",
+      "variant": "dark",
+      "input": "Final calibration natural-00 only; transformations are related diagnostics, not independent quality examples",
+      "wallMs": 362,
+      "result": {
+        "mode": "places",
+        "backend": "wasm",
+        "reused": true,
+        "initializationMs": 0,
+        "preprocessingMs": 12.900000005960464,
+        "inferenceMs": 242.69999998807907,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [
+          {
+            "label": "snowfield",
+            "score": 0.318886855991851
+          },
+          {
+            "label": "mountain_snowy",
+            "score": 0.2982725389355666
+          },
+          {
+            "label": "valley",
+            "score": 0.06439139330267686
+          },
+          {
+            "label": "tundra",
+            "score": 0.059459688772690374
+          },
+          {
+            "label": "glacier",
+            "score": 0.026905322010089782
+          },
+          {
+            "label": "mountain",
+            "score": 0.026553295624586408
+          },
+          {
+            "label": "ski_slope",
+            "score": 0.025840922248305663
+          },
+          {
+            "label": "hot_spring",
+            "score": 0.020618582044958814
+          },
+          {
+            "label": "desert/vegetation",
+            "score": 0.020077628346736345
+          },
+          {
+            "label": "badlands",
+            "score": 0.0189400999281765
+          },
+          {
+            "label": "ice_floe",
+            "score": 0.017875456357197242
+          },
+          {
+            "label": "ice_shelf",
+            "score": 0.016837610749686933
+          },
+          {
+            "label": "volcano",
+            "score": 0.014409294181987196
+          },
+          {
+            "label": "butte",
+            "score": 0.007580983321066855
+          },
+          {
+            "label": "mountain_path",
+            "score": 0.00681933324786313
+          },
+          {
+            "label": "canyon",
+            "score": 0.005326931206171467
+          },
+          {
+            "label": "lake/natural",
+            "score": 0.004919047420423626
+          },
+          {
+            "label": "sky",
+            "score": 0.00457125522506977
+          },
+          {
+            "label": "beach",
+            "score": 0.003428168471627983
+          },
+          {
+            "label": "iceberg",
+            "score": 0.0032592734247387776
+          },
+          {
+            "label": "crevasse",
+            "score": 0.002873158251394693
+          },
+          {
+            "label": "lagoon",
+            "score": 0.002435969099588786
+          },
+          {
+            "label": "ice_skating_rink/outdoor",
+            "score": 0.00196258984978289
+          },
+          {
+            "label": "river",
+            "score": 0.0019531289672919264
+          },
+          {
+            "label": "desert_road",
+            "score": 0.0019403919767680125
+          },
+          {
+            "label": "desert/sand",
+            "score": 0.0018962537428155548
+          },
+          {
+            "label": "pond",
+            "score": 0.001707008461027171
+          },
+          {
+            "label": "ski_resort",
+            "score": 0.0015537998346958483
+          },
+          {
+            "label": "pasture",
+            "score": 0.0014240456098142025
+          },
+          {
+            "label": "igloo",
+            "score": 0.0013977572013973536
+          },
+          {
+            "label": "cliff",
+            "score": 0.0013473209773684804
+          },
+          {
+            "label": "marsh",
+            "score": 0.0012629177375450377
+          },
+          {
+            "label": "field_road",
+            "score": 0.00116529043822502
+          },
+          {
+            "label": "watering_hole",
+            "score": 0.0010303339293853688
+          },
+          {
+            "label": "coast",
+            "score": 0.001028788963038994
+          },
+          {
+            "label": "creek",
+            "score": 0.0008401496759755164
+          },
+          {
+            "label": "ocean",
+            "score": 0.0007695297075774651
+          },
+          {
+            "label": "campsite",
+            "score": 0.0005688460067335491
+          },
+          {
+            "label": "islet",
+            "score": 0.00049451782142777
+          },
+          {
+            "label": "parking_lot",
+            "score": 0.00045202609774450326
+          },
+          {
+            "label": "forest_path",
+            "score": 0.00037813893294777066
+          },
+          {
+            "label": "golf_course",
+            "score": 0.00034042015141926685
+          },
+          {
+            "label": "swamp",
+            "score": 0.00030235596678322756
+          },
+          {
+            "label": "wave",
+            "score": 0.00029557999786775313
+          },
+          {
+            "label": "runway",
+            "score": 0.0002679166112479448
+          },
+          {
+            "label": "field/wild",
+            "score": 0.0002612785896537335
+          },
+          {
+            "label": "hayfield",
+            "score": 0.0002455873676357831
+          },
+          {
+            "label": "rock_arch",
+            "score": 0.00022916215035782915
+          },
+          {
+            "label": "village",
+            "score": 0.00020573012042643957
+          },
+          {
+            "label": "field/cultivated",
+            "score": 0.0001915269319302684
+          },
+          {
+            "label": "tree_farm",
+            "score": 0.00018753032216351807
+          },
+          {
+            "label": "vineyard",
+            "score": 0.000154930785860494
+          },
+          {
+            "label": "highway",
+            "score": 0.00015040255334751551
+          },
+          {
+            "label": "chalet",
+            "score": 0.00014671178657999187
+          },
+          {
+            "label": "dam",
+            "score": 0.00012792823798327873
+          },
+          {
+            "label": "orchard",
+            "score": 0.0001053852081929456
+          },
+          {
+            "label": "wind_farm",
+            "score": 0.00010403076244103681
+          },
+          {
+            "label": "lighthouse",
+            "score": 0.00010242480116376804
+          },
+          {
+            "label": "forest/broadleaf",
+            "score": 0.00010076124598678557
+          },
+          {
+            "label": "landfill",
+            "score": 0.0000999025356428273
+          },
+          {
+            "label": "forest_road",
+            "score": 0.00008417614635262676
+          },
+          {
+            "label": "driveway",
+            "score": 0.00007676719084578594
+          },
+          {
+            "label": "rice_paddy",
+            "score": 0.00007604604940790441
+          },
+          {
+            "label": "underwater/ocean_deep",
+            "score": 0.00007153888941377184
+          },
+          {
+            "label": "boardwalk",
+            "score": 0.00007114633037668856
+          },
+          {
+            "label": "rainforest",
+            "score": 0.00006835143046873142
+          },
+          {
+            "label": "water_tower",
+            "score": 0.00006786880157773317
+          },
+          {
+            "label": "amphitheater",
+            "score": 0.00006733654840673416
+          },
+          {
+            "label": "farm",
+            "score": 0.00006671813693562912
+          },
+          {
+            "label": "harbor",
+            "score": 0.00006658873316538838
+          },
+          {
+            "label": "park",
+            "score": 0.000062446262069518
+          },
+          {
+            "label": "cemetery",
+            "score": 0.00006187779295705981
+          },
+          {
+            "label": "yard",
+            "score": 0.00006168314130621145
+          },
+          {
+            "label": "gas_station",
+            "score": 0.000057491349861008574
+          },
+          {
+            "label": "ice_skating_rink/indoor",
+            "score": 0.00005382533710975862
+          },
+          {
+            "label": "windmill",
+            "score": 0.000051368155472195394
+          },
+          {
+            "label": "kasbah",
+            "score": 0.000050013258392449964
+          },
+          {
+            "label": "grotto",
+            "score": 0.0000481591059867668
+          },
+          {
+            "label": "trench",
+            "score": 0.00004627236183620223
+          },
+          {
+            "label": "swimming_hole",
+            "score": 0.00004404746922022124
+          },
+          {
+            "label": "beach_house",
+            "score": 0.00004305284661258744
+          },
+          {
+            "label": "junkyard",
+            "score": 0.000043021591995793065
+          },
+          {
+            "label": "ruin",
+            "score": 0.00004189156952763718
+          },
+          {
+            "label": "airfield",
+            "score": 0.00003846846267820935
+          },
+          {
+            "label": "arch",
+            "score": 0.000037757591457591994
+          },
+          {
+            "label": "canal/natural",
+            "score": 0.000036501863057885706
+          },
+          {
+            "label": "pier",
+            "score": 0.00003632585413603497
+          },
+          {
+            "label": "barn",
+            "score": 0.0000344345254332446
+          },
+          {
+            "label": "bridge",
+            "score": 0.000033076801478621745
+          },
+          {
+            "label": "castle",
+            "score": 0.000031293505505716184
+          },
+          {
+            "label": "downtown",
+            "score": 0.00003072578800913945
+          },
+          {
+            "label": "construction_site",
+            "score": 0.00002876941835697853
+          },
+          {
+            "label": "wheat_field",
+            "score": 0.00002833901345281162
+          },
+          {
+            "label": "corn_field",
+            "score": 0.000027605006918762805
+          },
+          {
+            "label": "heliport",
+            "score": 0.000027226066708047736
+          },
+          {
+            "label": "corral",
+            "score": 0.000026367208615638107
+          },
+          {
+            "label": "slum",
+            "score": 0.00002435313040828449
+          },
+          {
+            "label": "plaza",
+            "score": 0.000024138611289585606
+          },
+          {
+            "label": "excavation",
+            "score": 0.00002411082731310119
+          },
+          {
+            "label": "tower",
+            "score": 0.000022583164045748323
+          },
+          {
+            "label": "picnic_area",
+            "score": 0.00002133990326180353
+          },
+          {
+            "label": "arena/hockey",
+            "score": 0.00002096887158766865
+          },
+          {
+            "label": "volleyball_court/outdoor",
+            "score": 0.000020349929483011877
+          },
+          {
+            "label": "aqueduct",
+            "score": 0.00001963979698320905
+          },
+          {
+            "label": "railroad_track",
+            "score": 0.0000178686785352662
+          },
+          {
+            "label": "hangar/outdoor",
+            "score": 0.000017321718948535744
+          },
+          {
+            "label": "mausoleum",
+            "score": 0.00001652623196865639
+          },
+          {
+            "label": "promenade",
+            "score": 0.00001640519630232229
+          },
+          {
+            "label": "shed",
+            "score": 0.000016214352177382713
+          },
+          {
+            "label": "hospital",
+            "score": 0.00001563745168008452
+          },
+          {
+            "label": "crosswalk",
+            "score": 0.000015251689248307334
+          },
+          {
+            "label": "zen_garden",
+            "score": 0.000014464514016008318
+          },
+          {
+            "label": "burial_chamber",
+            "score": 0.000014445519921235393
+          },
+          {
+            "label": "raft",
+            "score": 0.000013928658136542981
+          },
+          {
+            "label": "viaduct",
+            "score": 0.000013643367998367725
+          },
+          {
+            "label": "hunting_lodge/outdoor",
+            "score": 0.000013552326666583044
+          },
+          {
+            "label": "motel",
+            "score": 0.000013463309945537875
+          },
+          {
+            "label": "archaelogical_excavation",
+            "score": 0.000013282198993006446
+          },
+          {
+            "label": "medina",
+            "score": 0.00001327408199643961
+          },
+          {
+            "label": "loading_dock",
+            "score": 0.000012956741744711274
+          },
+          {
+            "label": "natural_history_museum",
+            "score": 0.000012874430375609078
+          },
+          {
+            "label": "raceway",
+            "score": 0.000012613810097528068
+          },
+          {
+            "label": "skyscraper",
+            "score": 0.000012406382718207995
+          },
+          {
+            "label": "palace",
+            "score": 0.000012299523652802454
+          },
+          {
+            "label": "bullring",
+            "score": 0.000011331407996296809
+          },
+          {
+            "label": "botanical_garden",
+            "score": 0.000010901014448048478
+          },
+          {
+            "label": "balcony/interior",
+            "score": 0.000010394347261427573
+          },
+          {
+            "label": "aquarium",
+            "score": 0.000010159875297018173
+          },
+          {
+            "label": "waterfall",
+            "score": 0.000010042849341546878
+          },
+          {
+            "label": "industrial_area",
+            "score": 0.00000989567139103102
+          },
+          {
+            "label": "hangar/indoor",
+            "score": 0.000009747890971337881
+          },
+          {
+            "label": "army_base",
+            "score": 0.000009378935790550232
+          },
+          {
+            "label": "mosque/outdoor",
+            "score": 0.000008872809725991404
+          },
+          {
+            "label": "campus",
+            "score": 0.000008850565745841576
+          },
+          {
+            "label": "boathouse",
+            "score": 0.000008794287210619893
+          },
+          {
+            "label": "fountain",
+            "score": 0.000008542932263954792
+          },
+          {
+            "label": "playground",
+            "score": 0.000008398919664493836
+          },
+          {
+            "label": "building_facade",
+            "score": 0.000008152779954114988
+          },
+          {
+            "label": "fishpond",
+            "score": 0.000008138382026510323
+          },
+          {
+            "label": "landing_deck",
+            "score": 0.000008079234954523412
+          },
+          {
+            "label": "oilrig",
+            "score": 0.000008011986879240544
+          },
+          {
+            "label": "schoolhouse",
+            "score": 0.000007716411726091618
+          },
+          {
+            "label": "art_gallery",
+            "score": 0.000007689171004706764
+          },
+          {
+            "label": "basement",
+            "score": 0.00000755886555879514
+          },
+          {
+            "label": "rope_bridge",
+            "score": 0.000007110356974344027
+          },
+          {
+            "label": "art_studio",
+            "score": 0.000007057195596525074
+          },
+          {
+            "label": "office_building",
+            "score": 0.000006912105898904787
+          },
+          {
+            "label": "elevator_shaft",
+            "score": 0.000006784948182514662
+          },
+          {
+            "label": "mansion",
+            "score": 0.000006672392713288304
+          },
+          {
+            "label": "museum/indoor",
+            "score": 0.000006646208580625681
+          },
+          {
+            "label": "patio",
+            "score": 0.0000064188219890032885
+          },
+          {
+            "label": "courtyard",
+            "score": 0.000006373612517593973
+          },
+          {
+            "label": "moat/water",
+            "score": 0.000006245914168379824
+          },
+          {
+            "label": "swimming_pool/outdoor",
+            "score": 0.000006066691806641675
+          },
+          {
+            "label": "airplane_cabin",
+            "score": 0.000005927816909360807
+          },
+          {
+            "label": "bar",
+            "score": 0.000005926873605549019
+          },
+          {
+            "label": "phone_booth",
+            "score": 0.000005908021061129289
+          },
+          {
+            "label": "stadium/soccer",
+            "score": 0.000005903930195276977
+          },
+          {
+            "label": "boat_deck",
+            "score": 0.00000566510324686334
+          },
+          {
+            "label": "science_museum",
+            "score": 0.0000056312316129533494
+          },
+          {
+            "label": "greenhouse/outdoor",
+            "score": 0.000005621690364274421
+          },
+          {
+            "label": "elevator/door",
+            "score": 0.000005596245605604805
+          },
+          {
+            "label": "soccer_field",
+            "score": 0.000005500615421499763
+          },
+          {
+            "label": "catacomb",
+            "score": 0.000005280280604554018
+          },
+          {
+            "label": "staircase",
+            "score": 0.000005231018460733828
+          },
+          {
+            "label": "sandbox",
+            "score": 0.000005209153344353628
+          },
+          {
+            "label": "discotheque",
+            "score": 0.0000052048663146871855
+          },
+          {
+            "label": "ballroom",
+            "score": 0.000005099631796808521
+          },
+          {
+            "label": "street",
+            "score": 0.00000490531720911438
+          },
+          {
+            "label": "stadium/football",
+            "score": 0.000004842704526901436
+          },
+          {
+            "label": "market/outdoor",
+            "score": 0.0000048143083945881055
+          },
+          {
+            "label": "residential_neighborhood",
+            "score": 0.00000475580480892514
+          },
+          {
+            "label": "baseball_field",
+            "score": 0.000004653246651145478
+          },
+          {
+            "label": "fire_station",
+            "score": 0.0000045343591921977665
+          },
+          {
+            "label": "recreation_room",
+            "score": 0.000004324255657886381
+          },
+          {
+            "label": "beer_hall",
+            "score": 0.000004321378626653733
+          },
+          {
+            "label": "cockpit",
+            "score": 0.0000043186613004196265
+          },
+          {
+            "label": "church/outdoor",
+            "score": 0.000004249653684572673
+          },
+          {
+            "label": "manufactured_home",
+            "score": 0.000004191112372898973
+          },
+          {
+            "label": "barndoor",
+            "score": 0.000004096000469156519
+          },
+          {
+            "label": "racecourse",
+            "score": 0.000004061941684891906
+          },
+          {
+            "label": "parking_garage/indoor",
+            "score": 0.0000040616148487435694
+          },
+          {
+            "label": "balcony/exterior",
+            "score": 0.000004047804086069827
+          },
+          {
+            "label": "pavilion",
+            "score": 0.000003838587287922411
+          },
+          {
+            "label": "movie_theater/indoor",
+            "score": 0.000003676229520870192
+          },
+          {
+            "label": "hospital_room",
+            "score": 0.0000036610428481942663
+          },
+          {
+            "label": "arena/rodeo",
+            "score": 0.0000036021449770141342
+          },
+          {
+            "label": "airport_terminal",
+            "score": 0.000003583909839072072
+          },
+          {
+            "label": "lawn",
+            "score": 0.0000035784238543218156
+          },
+          {
+            "label": "museum/outdoor",
+            "score": 0.0000034646798691492787
+          },
+          {
+            "label": "hotel/outdoor",
+            "score": 0.000003376737321506328
+          },
+          {
+            "label": "ice_cream_parlor",
+            "score": 0.0000033045188237487907
+          },
+          {
+            "label": "diner/outdoor",
+            "score": 0.0000032888663966755397
+          },
+          {
+            "label": "berth",
+            "score": 0.000003287080444760377
+          },
+          {
+            "label": "archive",
+            "score": 0.000003224802421794624
+          },
+          {
+            "label": "attic",
+            "score": 0.000003151750426432509
+          },
+          {
+            "label": "cottage",
+            "score": 0.000003129635471888347
+          },
+          {
+            "label": "arena/performance",
+            "score": 0.000003125607665232524
+          },
+          {
+            "label": "bedroom",
+            "score": 0.0000030789200487650755
+          },
+          {
+            "label": "stable",
+            "score": 0.000003049880347459083
+          },
+          {
+            "label": "football_field",
+            "score": 0.000003047870808753605
+          },
+          {
+            "label": "alley",
+            "score": 0.0000030220860092751047
+          },
+          {
+            "label": "pharmacy",
+            "score": 0.0000029525338198795726
+          },
+          {
+            "label": "bazaar/outdoor",
+            "score": 0.0000029479870632020438
+          },
+          {
+            "label": "pagoda",
+            "score": 0.000002863546213982213
+          },
+          {
+            "label": "tree_house",
+            "score": 0.000002765133288083821
+          },
+          {
+            "label": "swimming_pool/indoor",
+            "score": 0.000002758126345157884
+          },
+          {
+            "label": "doorway/outdoor",
+            "score": 0.000002749248095031111
+          },
+          {
+            "label": "restaurant",
+            "score": 0.0000027363482888179007
+          },
+          {
+            "label": "bowling_alley",
+            "score": 0.0000026381104448516573
+          },
+          {
+            "label": "kennel/outdoor",
+            "score": 0.0000025997950178192398
+          },
+          {
+            "label": "art_school",
+            "score": 0.000002577505001147054
+          },
+          {
+            "label": "house",
+            "score": 0.00000255009464169977
+          },
+          {
+            "label": "formal_garden",
+            "score": 0.000002507672379414311
+          },
+          {
+            "label": "television_studio",
+            "score": 0.0000024497787439141352
+          },
+          {
+            "label": "cabin/outdoor",
+            "score": 0.000002441403763073357
+          },
+          {
+            "label": "bathroom",
+            "score": 0.0000024180371025441654
+          },
+          {
+            "label": "gazebo/exterior",
+            "score": 0.000002368164007890689
+          },
+          {
+            "label": "courthouse",
+            "score": 0.000002363348515949123
+          },
+          {
+            "label": "inn/outdoor",
+            "score": 0.000002339808002999842
+          },
+          {
+            "label": "general_store/outdoor",
+            "score": 0.000002309519052915093
+          },
+          {
+            "label": "cafeteria",
+            "score": 0.0000022478252101363017
+          },
+          {
+            "label": "jacuzzi/indoor",
+            "score": 0.000002223602703728268
+          },
+          {
+            "label": "lock_chamber",
+            "score": 0.000002222020509454489
+          },
+          {
+            "label": "oast_house",
+            "score": 0.0000022212826610224747
+          },
+          {
+            "label": "japanese_garden",
+            "score": 0.0000021654431698210894
+          },
+          {
+            "label": "drugstore",
+            "score": 0.0000021316832848979784
+          },
+          {
+            "label": "pub/indoor",
+            "score": 0.0000021313504183401485
+          },
+          {
+            "label": "stadium/baseball",
+            "score": 0.0000020830596368405914
+          },
+          {
+            "label": "athletic_field/outdoor",
+            "score": 0.0000020744958441878566
+          },
+          {
+            "label": "pet_shop",
+            "score": 0.0000020576015251495038
+          },
+          {
+            "label": "wet_bar",
+            "score": 0.0000020267339707316075
+          },
+          {
+            "label": "banquet_hall",
+            "score": 0.0000019739347082386227
+          },
+          {
+            "label": "repair_shop",
+            "score": 0.0000019305322383208974
+          },
+          {
+            "label": "nursery",
+            "score": 0.000001930346986621587
+          },
+          {
+            "label": "auditorium",
+            "score": 0.000001884149797518288
+          },
+          {
+            "label": "jail_cell",
+            "score": 0.0000018585534874813826
+          },
+          {
+            "label": "gift_shop",
+            "score": 0.0000018565979485349067
+          },
+          {
+            "label": "restaurant_patio",
+            "score": 0.0000018324066786501104
+          },
+          {
+            "label": "beer_garden",
+            "score": 0.000001812156869102581
+          },
+          {
+            "label": "ball_pit",
+            "score": 0.0000018063733823745232
+          },
+          {
+            "label": "hardware_store",
+            "score": 0.000001792804995602286
+          },
+          {
+            "label": "dining_hall",
+            "score": 0.0000017896441028628107
+          },
+          {
+            "label": "amusement_arcade",
+            "score": 0.000001769018272387515
+          },
+          {
+            "label": "home_theater",
+            "score": 0.0000017435084784960627
+          },
+          {
+            "label": "supermarket",
+            "score": 0.0000017263858391503095
+          },
+          {
+            "label": "booth/indoor",
+            "score": 0.0000017197957285822013
+          },
+          {
+            "label": "candy_store",
+            "score": 0.0000017079006360581155
+          },
+          {
+            "label": "bakery/shop",
+            "score": 0.0000016846093157606376
+          },
+          {
+            "label": "shower",
+            "score": 0.0000016662275693501416
+          },
+          {
+            "label": "closet",
+            "score": 0.000001651585336199231
+          },
+          {
+            "label": "bookstore",
+            "score": 0.0000016238969397121057
+          },
+          {
+            "label": "butchers_shop",
+            "score": 0.0000016233184214042
+          },
+          {
+            "label": "conference_center",
+            "score": 0.0000016055223885946337
+          },
+          {
+            "label": "childs_room",
+            "score": 0.0000015774566485198358
+          },
+          {
+            "label": "dining_room",
+            "score": 0.0000015732083691369873
+          },
+          {
+            "label": "apartment_building/outdoor",
+            "score": 0.0000015681899152294477
+          },
+          {
+            "label": "stage/indoor",
+            "score": 0.000001555536977389697
+          },
+          {
+            "label": "conference_room",
+            "score": 0.0000015526822405571824
+          },
+          {
+            "label": "veterinarians_office",
+            "score": 0.0000015477002971349532
+          },
+          {
+            "label": "toyshop",
+            "score": 0.0000015400868627847666
+          },
+          {
+            "label": "amusement_park",
+            "score": 0.000001531808417476659
+          },
+          {
+            "label": "flea_market/indoor",
+            "score": 0.0000015233425548944362
+          },
+          {
+            "label": "bamboo_forest",
+            "score": 0.0000015039049566810608
+          },
+          {
+            "label": "canal/urban",
+            "score": 0.0000014879310817419572
+          },
+          {
+            "label": "temple/asia",
+            "score": 0.0000014842381086611682
+          },
+          {
+            "label": "general_store/indoor",
+            "score": 0.000001480962945583412
+          },
+          {
+            "label": "pizzeria",
+            "score": 0.0000014632859586170958
+          },
+          {
+            "label": "youth_hostel",
+            "score": 0.0000014408302965395717
+          },
+          {
+            "label": "coffee_shop",
+            "score": 0.0000014354890274319182
+          },
+          {
+            "label": "pantry",
+            "score": 0.0000014202824730644942
+          },
+          {
+            "label": "server_room",
+            "score": 0.0000013992835244534788
+          },
+          {
+            "label": "vegetable_garden",
+            "score": 0.0000013596198646455347
+          },
+          {
+            "label": "corridor",
+            "score": 0.0000013295398482353384
+          },
+          {
+            "label": "auto_factory",
+            "score": 0.0000013228164938410735
+          },
+          {
+            "label": "beauty_salon",
+            "score": 0.0000012865598963574143
+          },
+          {
+            "label": "florist_shop/indoor",
+            "score": 0.0000012805239642031394
+          },
+          {
+            "label": "library/outdoor",
+            "score": 0.0000012707154694468224
+          },
+          {
+            "label": "lobby",
+            "score": 0.0000012427694615035192
+          },
+          {
+            "label": "sauna",
+            "score": 0.0000012134462681388126
+          },
+          {
+            "label": "dorm_room",
+            "score": 0.000001199565418357184
+          },
+          {
+            "label": "alcove",
+            "score": 0.0000011912043497813933
+          },
+          {
+            "label": "atrium/public",
+            "score": 0.0000011882399057343868
+          },
+          {
+            "label": "fire_escape",
+            "score": 0.0000011843365289366888
+          },
+          {
+            "label": "jewelry_shop",
+            "score": 0.0000011813590384386666
+          },
+          {
+            "label": "boxing_ring",
+            "score": 0.000001162463815532393
+          },
+          {
+            "label": "office",
+            "score": 0.0000011487634802226977
+          },
+          {
+            "label": "living_room",
+            "score": 0.0000011337088534194768
+          },
+          {
+            "label": "fastfood_restaurant",
+            "score": 0.000001086794038923693
+          },
+          {
+            "label": "bow_window/indoor",
+            "score": 0.0000010777178893589582
+          },
+          {
+            "label": "nursing_home",
+            "score": 0.0000010574803802707325
+          },
+          {
+            "label": "shopping_mall/indoor",
+            "score": 0.0000010528660375444055
+          },
+          {
+            "label": "auto_showroom",
+            "score": 0.0000010318732442760344
+          },
+          {
+            "label": "train_interior",
+            "score": 0.0000010174576260091757
+          },
+          {
+            "label": "stage/outdoor",
+            "score": 9.903080611829494e-7
+          },
+          {
+            "label": "water_park",
+            "score": 9.608343257666316e-7
+          },
+          {
+            "label": "ticket_booth",
+            "score": 9.31957117558245e-7
+          },
+          {
+            "label": "hotel_room",
+            "score": 9.032067159823321e-7
+          },
+          {
+            "label": "elevator_lobby",
+            "score": 9.021358132328273e-7
+          },
+          {
+            "label": "entrance_hall",
+            "score": 8.762187582787077e-7
+          },
+          {
+            "label": "storage_room",
+            "score": 8.720204204194332e-7
+          },
+          {
+            "label": "music_studio",
+            "score": 8.547848633828328e-7
+          },
+          {
+            "label": "assembly_line",
+            "score": 8.447967095248548e-7
+          },
+          {
+            "label": "delicatessen",
+            "score": 8.444320252779333e-7
+          },
+          {
+            "label": "food_court",
+            "score": 8.265784116389447e-7
+          },
+          {
+            "label": "garage/outdoor",
+            "score": 8.171002258137301e-7
+          },
+          {
+            "label": "porch",
+            "score": 8.130696067173991e-7
+          },
+          {
+            "label": "carrousel",
+            "score": 8.08418327608307e-7
+          },
+          {
+            "label": "bus_station/indoor",
+            "score": 8.023035107945354e-7
+          },
+          {
+            "label": "fabric_store",
+            "score": 7.714669446163543e-7
+          },
+          {
+            "label": "arcade",
+            "score": 7.712674041492022e-7
+          },
+          {
+            "label": "utility_room",
+            "score": 7.64058464252277e-7
+          },
+          {
+            "label": "garage/indoor",
+            "score": 7.598264948071161e-7
+          },
+          {
+            "label": "department_store",
+            "score": 7.516827097512855e-7
+          },
+          {
+            "label": "reception",
+            "score": 7.463482143721192e-7
+          },
+          {
+            "label": "bedchamber",
+            "score": 7.210598800810956e-7
+          },
+          {
+            "label": "greenhouse/indoor",
+            "score": 7.111059459167001e-7
+          },
+          {
+            "label": "topiary_garden",
+            "score": 7.01194458294256e-7
+          },
+          {
+            "label": "throne_room",
+            "score": 6.67969657966655e-7
+          },
+          {
+            "label": "computer_room",
+            "score": 6.652974399179804e-7
+          },
+          {
+            "label": "martial_arts_gym",
+            "score": 6.591225163103601e-7
+          },
+          {
+            "label": "embassy",
+            "score": 6.319374410061374e-7
+          },
+          {
+            "label": "bank_vault",
+            "score": 6.28663549624396e-7
+          },
+          {
+            "label": "operating_room",
+            "score": 6.255473936790738e-7
+          },
+          {
+            "label": "roof_garden",
+            "score": 6.204259047095887e-7
+          },
+          {
+            "label": "laundromat",
+            "score": 6.100626606382815e-7
+          },
+          {
+            "label": "waiting_room",
+            "score": 5.936920419215351e-7
+          },
+          {
+            "label": "artists_loft",
+            "score": 5.849290572382753e-7
+          },
+          {
+            "label": "office_cubicles",
+            "score": 5.791995026139858e-7
+          },
+          {
+            "label": "parking_garage/outdoor",
+            "score": 5.621301003910023e-7
+          },
+          {
+            "label": "home_office",
+            "score": 5.618526088043826e-7
+          },
+          {
+            "label": "bazaar/indoor",
+            "score": 5.613415309550448e-7
+          },
+          {
+            "label": "clothing_store",
+            "score": 5.146515513681211e-7
+          },
+          {
+            "label": "mezzanine",
+            "score": 5.130845768600362e-7
+          },
+          {
+            "label": "classroom",
+            "score": 5.114011630291501e-7
+          },
+          {
+            "label": "clean_room",
+            "score": 5.095617879642568e-7
+          },
+          {
+            "label": "train_station/platform",
+            "score": 5.047420537330359e-7
+          },
+          {
+            "label": "galley",
+            "score": 4.957622625456273e-7
+          },
+          {
+            "label": "shopfront",
+            "score": 4.947826533014205e-7
+          },
+          {
+            "label": "car_interior",
+            "score": 4.874769130632644e-7
+          },
+          {
+            "label": "restaurant_kitchen",
+            "score": 4.853081389472001e-7
+          },
+          {
+            "label": "lecture_room",
+            "score": 4.819421625157505e-7
+          },
+          {
+            "label": "market/indoor",
+            "score": 4.6299925495907513e-7
+          },
+          {
+            "label": "library/indoor",
+            "score": 4.586256223703122e-7
+          },
+          {
+            "label": "legislative_chamber",
+            "score": 4.57335748707832e-7
+          },
+          {
+            "label": "playroom",
+            "score": 4.572612822682539e-7
+          },
+          {
+            "label": "engine_room",
+            "score": 4.534401749890656e-7
+          },
+          {
+            "label": "shoe_shop",
+            "score": 4.356959689988342e-7
+          },
+          {
+            "label": "television_room",
+            "score": 3.95820827432681e-7
+          },
+          {
+            "label": "sushi_bar",
+            "score": 3.9077944298810633e-7
+          },
+          {
+            "label": "kitchen",
+            "score": 3.885214242713657e-7
+          },
+          {
+            "label": "bus_interior",
+            "score": 3.8725740815588996e-7
+          },
+          {
+            "label": "physics_laboratory",
+            "score": 3.6698613715557215e-7
+          },
+          {
+            "label": "church/indoor",
+            "score": 3.618396330227201e-7
+          },
+          {
+            "label": "escalator/indoor",
+            "score": 3.282952828839538e-7
+          },
+          {
+            "label": "chemistry_lab",
+            "score": 3.087153276412506e-7
+          },
+          {
+            "label": "locker_room",
+            "score": 2.9844818428336027e-7
+          },
+          {
+            "label": "gymnasium/indoor",
+            "score": 2.969907877093973e-7
+          },
+          {
+            "label": "biology_laboratory",
+            "score": 2.878925319416964e-7
+          },
+          {
+            "label": "kindergarden_classroom",
+            "score": 2.757946083589892e-7
+          },
+          {
+            "label": "basketball_court/indoor",
+            "score": 2.195163886684951e-7
+          },
+          {
+            "label": "subway_station/platform",
+            "score": 1.616919102253269e-7
+          },
+          {
+            "label": "synagogue/outdoor",
+            "score": 1.6084464222550892e-7
+          },
+          {
+            "label": "dressing_room",
+            "score": 1.5913410926882337e-7
+          },
+          {
+            "label": "orchestra_pit",
+            "score": 1.442324652924359e-7
+          }
+        ],
+        "detections": []
+      },
+      "heartbeat": {
+        "samples": 17,
+        "maxGapMs": 38.099999994039536
+      },
+      "pageV8Heap": {
+        "usedSize": 11055412,
+        "totalSize": 21458944,
+        "embedderHeapUsedSize": 9910160,
+        "backingStorageSize": 3317097
+      }
+    },
+    {
+      "mode": "places",
+      "variant": "blur",
+      "input": "Final calibration natural-00 only; transformations are related diagnostics, not independent quality examples",
+      "wallMs": 907,
+      "result": {
+        "mode": "places",
+        "backend": "wasm",
+        "reused": true,
+        "initializationMs": 0,
+        "preprocessingMs": 11,
+        "inferenceMs": 400.90000000596046,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [
+          {
+            "label": "snowfield",
+            "score": 0.5855174452958698
+          },
+          {
+            "label": "ice_floe",
+            "score": 0.16481245327340463
+          },
+          {
+            "label": "mountain_snowy",
+            "score": 0.04413279522546889
+          },
+          {
+            "label": "ice_shelf",
+            "score": 0.028457490435585944
+          },
+          {
+            "label": "ski_slope",
+            "score": 0.027208491514286247
+          },
+          {
+            "label": "tundra",
+            "score": 0.026648917995729403
+          },
+          {
+            "label": "glacier",
+            "score": 0.021318991516613966
+          },
+          {
+            "label": "iceberg",
+            "score": 0.01717593106808471
+          },
+          {
+            "label": "wave",
+            "score": 0.007860396468185812
+          },
+          {
+            "label": "ocean",
+            "score": 0.007009403470276029
+          },
+          {
+            "label": "crevasse",
+            "score": 0.005664634023669814
+          },
+          {
+            "label": "coast",
+            "score": 0.005597216301472406
+          },
+          {
+            "label": "hot_spring",
+            "score": 0.004986347153371467
+          },
+          {
+            "label": "igloo",
+            "score": 0.004441208804330887
+          },
+          {
+            "label": "ski_resort",
+            "score": 0.0037130184813206632
+          },
+          {
+            "label": "valley",
+            "score": 0.003622740626491968
+          },
+          {
+            "label": "ice_skating_rink/outdoor",
+            "score": 0.0030224333812648107
+          },
+          {
+            "label": "badlands",
+            "score": 0.002736119362252547
+          },
+          {
+            "label": "river",
+            "score": 0.0021790396689680236
+          },
+          {
+            "label": "mountain",
+            "score": 0.0018838145252064822
+          },
+          {
+            "label": "sky",
+            "score": 0.0018043695328924616
+          },
+          {
+            "label": "beach",
+            "score": 0.0017258850262811157
+          },
+          {
+            "label": "cliff",
+            "score": 0.0015697466438567445
+          },
+          {
+            "label": "lake/natural",
+            "score": 0.0011427699849563806
+          },
+          {
+            "label": "mountain_path",
+            "score": 0.0011015803360609575
+          },
+          {
+            "label": "butte",
+            "score": 0.0010887164258511204
+          },
+          {
+            "label": "lighthouse",
+            "score": 0.0010355961861349087
+          },
+          {
+            "label": "creek",
+            "score": 0.0010238879574644174
+          },
+          {
+            "label": "lagoon",
+            "score": 0.0009082661902918574
+          },
+          {
+            "label": "watering_hole",
+            "score": 0.0008511995885757632
+          },
+          {
+            "label": "field_road",
+            "score": 0.0007847509480124953
+          },
+          {
+            "label": "pasture",
+            "score": 0.0007816404303577158
+          },
+          {
+            "label": "marsh",
+            "score": 0.0007733707028098861
+          },
+          {
+            "label": "desert/vegetation",
+            "score": 0.0007354441398212416
+          },
+          {
+            "label": "volcano",
+            "score": 0.0007244679539256605
+          },
+          {
+            "label": "landfill",
+            "score": 0.0005165832635387446
+          },
+          {
+            "label": "wind_farm",
+            "score": 0.0005134390351902661
+          },
+          {
+            "label": "harbor",
+            "score": 0.0005046888162782968
+          },
+          {
+            "label": "pier",
+            "score": 0.0005011425372238884
+          },
+          {
+            "label": "dam",
+            "score": 0.0004827057963250216
+          },
+          {
+            "label": "desert_road",
+            "score": 0.00047460843752583013
+          },
+          {
+            "label": "chalet",
+            "score": 0.0004690126551718207
+          },
+          {
+            "label": "tree_farm",
+            "score": 0.00046468213896815405
+          },
+          {
+            "label": "islet",
+            "score": 0.00045548538583019765
+          },
+          {
+            "label": "boardwalk",
+            "score": 0.00044058421959017465
+          },
+          {
+            "label": "windmill",
+            "score": 0.0004097213979208846
+          },
+          {
+            "label": "canyon",
+            "score": 0.000403349638067189
+          },
+          {
+            "label": "raft",
+            "score": 0.00039785298253196375
+          },
+          {
+            "label": "vineyard",
+            "score": 0.00037441809344647214
+          },
+          {
+            "label": "field/wild",
+            "score": 0.00035894773615348147
+          },
+          {
+            "label": "pond",
+            "score": 0.0003437811117980836
+          },
+          {
+            "label": "waterfall",
+            "score": 0.0003171357096424456
+          },
+          {
+            "label": "beach_house",
+            "score": 0.0003048608067384286
+          },
+          {
+            "label": "campsite",
+            "score": 0.00026631836945262776
+          },
+          {
+            "label": "orchard",
+            "score": 0.00023076707423434813
+          },
+          {
+            "label": "swamp",
+            "score": 0.0002235548938696778
+          },
+          {
+            "label": "wheat_field",
+            "score": 0.00020317033310168628
+          },
+          {
+            "label": "forest_path",
+            "score": 0.00019794880645731053
+          },
+          {
+            "label": "village",
+            "score": 0.00018802835241532817
+          },
+          {
+            "label": "rock_arch",
+            "score": 0.00018782095134824668
+          },
+          {
+            "label": "field/cultivated",
+            "score": 0.00018142435623938092
+          },
+          {
+            "label": "desert/sand",
+            "score": 0.00017838658825104146
+          },
+          {
+            "label": "farm",
+            "score": 0.0001734151649189582
+          },
+          {
+            "label": "boathouse",
+            "score": 0.0001732357360938446
+          },
+          {
+            "label": "barn",
+            "score": 0.00016680346695799664
+          },
+          {
+            "label": "forest/broadleaf",
+            "score": 0.0001580228437430143
+          },
+          {
+            "label": "runway",
+            "score": 0.00015786965377643416
+          },
+          {
+            "label": "water_tower",
+            "score": 0.00015750028281403194
+          },
+          {
+            "label": "parking_lot",
+            "score": 0.00015395640613244992
+          },
+          {
+            "label": "bridge",
+            "score": 0.0001534432315358012
+          },
+          {
+            "label": "corn_field",
+            "score": 0.00015205776985740014
+          },
+          {
+            "label": "rice_paddy",
+            "score": 0.0001432721190670667
+          },
+          {
+            "label": "shed",
+            "score": 0.0001399125216358305
+          },
+          {
+            "label": "volleyball_court/outdoor",
+            "score": 0.00012465412715191048
+          },
+          {
+            "label": "highway",
+            "score": 0.00012127658471570569
+          },
+          {
+            "label": "rainforest",
+            "score": 0.00012043242557947464
+          },
+          {
+            "label": "promenade",
+            "score": 0.00011959137653248934
+          },
+          {
+            "label": "cemetery",
+            "score": 0.00011845281169189074
+          },
+          {
+            "label": "rope_bridge",
+            "score": 0.00011401891517062425
+          },
+          {
+            "label": "golf_course",
+            "score": 0.00011284743566249321
+          },
+          {
+            "label": "slum",
+            "score": 0.00011061575706352458
+          },
+          {
+            "label": "trench",
+            "score": 0.00010912118994986843
+          },
+          {
+            "label": "railroad_track",
+            "score": 0.00010620651752871268
+          },
+          {
+            "label": "tower",
+            "score": 0.00010599870410621806
+          },
+          {
+            "label": "viaduct",
+            "score": 0.00010111551948861114
+          },
+          {
+            "label": "corral",
+            "score": 0.0000992959897203486
+          },
+          {
+            "label": "racecourse",
+            "score": 0.00009589404255421131
+          },
+          {
+            "label": "hayfield",
+            "score": 0.00008989108821326361
+          },
+          {
+            "label": "landing_deck",
+            "score": 0.00008143685622480992
+          },
+          {
+            "label": "arch",
+            "score": 0.0000788086580474933
+          },
+          {
+            "label": "swimming_hole",
+            "score": 0.00007330958151506932
+          },
+          {
+            "label": "driveway",
+            "score": 0.00007236881446076152
+          },
+          {
+            "label": "zen_garden",
+            "score": 0.00007104624820819443
+          },
+          {
+            "label": "raceway",
+            "score": 0.00006641988705361836
+          },
+          {
+            "label": "heliport",
+            "score": 0.00006631339801314314
+          },
+          {
+            "label": "construction_site",
+            "score": 0.00006403073883563598
+          },
+          {
+            "label": "airfield",
+            "score": 0.00006317734552355441
+          },
+          {
+            "label": "boat_deck",
+            "score": 0.00006314180013444389
+          },
+          {
+            "label": "castle",
+            "score": 0.00006220238720083633
+          },
+          {
+            "label": "forest_road",
+            "score": 0.00005800112850727878
+          },
+          {
+            "label": "playground",
+            "score": 0.00005796872344962057
+          },
+          {
+            "label": "picnic_area",
+            "score": 0.000057831438208951767
+          },
+          {
+            "label": "schoolhouse",
+            "score": 0.00005426721121800499
+          },
+          {
+            "label": "army_base",
+            "score": 0.00005379411949103006
+          },
+          {
+            "label": "yard",
+            "score": 0.00005358176440287222
+          },
+          {
+            "label": "canal/natural",
+            "score": 0.00005218259968323431
+          },
+          {
+            "label": "excavation",
+            "score": 0.000050482208009524795
+          },
+          {
+            "label": "oilrig",
+            "score": 0.00005047395807679482
+          },
+          {
+            "label": "park",
+            "score": 0.00004780928738984688
+          },
+          {
+            "label": "junkyard",
+            "score": 0.000046194883511159515
+          },
+          {
+            "label": "fountain",
+            "score": 0.000044798538423207305
+          },
+          {
+            "label": "cottage",
+            "score": 0.00004479003731002267
+          },
+          {
+            "label": "campus",
+            "score": 0.00003909163276867355
+          },
+          {
+            "label": "cabin/outdoor",
+            "score": 0.000038895633256681576
+          },
+          {
+            "label": "aqueduct",
+            "score": 0.0000380063178951704
+          },
+          {
+            "label": "palace",
+            "score": 0.00003701056104002522
+          },
+          {
+            "label": "house",
+            "score": 0.000032069340450324034
+          },
+          {
+            "label": "water_park",
+            "score": 0.000030287120201479104
+          },
+          {
+            "label": "lock_chamber",
+            "score": 0.00003019524068434387
+          },
+          {
+            "label": "ruin",
+            "score": 0.000027857812345351473
+          },
+          {
+            "label": "industrial_area",
+            "score": 0.00002734864695789419
+          },
+          {
+            "label": "greenhouse/outdoor",
+            "score": 0.00002547888633065178
+          },
+          {
+            "label": "ice_skating_rink/indoor",
+            "score": 0.000025294520039211023
+          },
+          {
+            "label": "downtown",
+            "score": 0.00002510910210580159
+          },
+          {
+            "label": "hunting_lodge/outdoor",
+            "score": 0.000024945650380844964
+          },
+          {
+            "label": "gas_station",
+            "score": 0.00002426096389062702
+          },
+          {
+            "label": "sandbox",
+            "score": 0.00002322518521717897
+          },
+          {
+            "label": "balcony/interior",
+            "score": 0.00002298738172591651
+          },
+          {
+            "label": "church/outdoor",
+            "score": 0.000021567604049500732
+          },
+          {
+            "label": "skyscraper",
+            "score": 0.0000215234502366764
+          },
+          {
+            "label": "oast_house",
+            "score": 0.000021085052286743337
+          },
+          {
+            "label": "aquarium",
+            "score": 0.000019982646420820893
+          },
+          {
+            "label": "residential_neighborhood",
+            "score": 0.000018991515167240367
+          },
+          {
+            "label": "mosque/outdoor",
+            "score": 0.00001864785257149351
+          },
+          {
+            "label": "amusement_park",
+            "score": 0.00001828921540786318
+          },
+          {
+            "label": "gazebo/exterior",
+            "score": 0.000017899826837857014
+          },
+          {
+            "label": "archaelogical_excavation",
+            "score": 0.00001743791194522864
+          },
+          {
+            "label": "hangar/outdoor",
+            "score": 0.000017328390642879295
+          },
+          {
+            "label": "hospital",
+            "score": 0.000016538606465488333
+          },
+          {
+            "label": "crosswalk",
+            "score": 0.000016423574292805272
+          },
+          {
+            "label": "balcony/exterior",
+            "score": 0.00001600320943871901
+          },
+          {
+            "label": "plaza",
+            "score": 0.0000157244001491063
+          },
+          {
+            "label": "botanical_garden",
+            "score": 0.00001539338194585273
+          },
+          {
+            "label": "mansion",
+            "score": 0.00001538351102279408
+          },
+          {
+            "label": "bullring",
+            "score": 0.00001532561327632566
+          },
+          {
+            "label": "stable",
+            "score": 0.000015206949342127208
+          },
+          {
+            "label": "swimming_pool/outdoor",
+            "score": 0.000014831410100628137
+          },
+          {
+            "label": "amphitheater",
+            "score": 0.000014707265305234362
+          },
+          {
+            "label": "phone_booth",
+            "score": 0.000014142963350986806
+          },
+          {
+            "label": "kennel/outdoor",
+            "score": 0.000013735383377321629
+          },
+          {
+            "label": "pavilion",
+            "score": 0.000013275318677085785
+          },
+          {
+            "label": "office_building",
+            "score": 0.000013241432314070023
+          },
+          {
+            "label": "building_facade",
+            "score": 0.000013185411934733396
+          },
+          {
+            "label": "underwater/ocean_deep",
+            "score": 0.000012922005372401265
+          },
+          {
+            "label": "moat/water",
+            "score": 0.00001243582792443949
+          },
+          {
+            "label": "temple/asia",
+            "score": 0.000012252487604390483
+          },
+          {
+            "label": "pagoda",
+            "score": 0.000012137269124083273
+          },
+          {
+            "label": "canal/urban",
+            "score": 0.000012046008301687772
+          },
+          {
+            "label": "motel",
+            "score": 0.00001171235744285229
+          },
+          {
+            "label": "manufactured_home",
+            "score": 0.00001138601371662717
+          },
+          {
+            "label": "grotto",
+            "score": 0.00001087294192247537
+          },
+          {
+            "label": "street",
+            "score": 0.0000107961733165847
+          },
+          {
+            "label": "arena/rodeo",
+            "score": 0.000010031258287803501
+          },
+          {
+            "label": "arena/hockey",
+            "score": 0.000009733852459195247
+          },
+          {
+            "label": "pharmacy",
+            "score": 0.000009730008926875349
+          },
+          {
+            "label": "japanese_garden",
+            "score": 0.000009666468501857403
+          },
+          {
+            "label": "fastfood_restaurant",
+            "score": 0.000009551383322938182
+          },
+          {
+            "label": "burial_chamber",
+            "score": 0.00000930483029621435
+          },
+          {
+            "label": "veterinarians_office",
+            "score": 0.000009095829097395836
+          },
+          {
+            "label": "mausoleum",
+            "score": 0.000009068958526591731
+          },
+          {
+            "label": "football_field",
+            "score": 0.000009053782536703476
+          },
+          {
+            "label": "kasbah",
+            "score": 0.000009021755385439398
+          },
+          {
+            "label": "soccer_field",
+            "score": 0.000009018664725046442
+          },
+          {
+            "label": "tree_house",
+            "score": 0.000008139894045877058
+          },
+          {
+            "label": "cockpit",
+            "score": 0.000007963976656431863
+          },
+          {
+            "label": "loading_dock",
+            "score": 0.000007679261383753916
+          },
+          {
+            "label": "patio",
+            "score": 0.000007616646370354152
+          },
+          {
+            "label": "drugstore",
+            "score": 0.000007311753417644954
+          },
+          {
+            "label": "fire_station",
+            "score": 0.0000071935587577838115
+          },
+          {
+            "label": "apartment_building/outdoor",
+            "score": 0.000006955987398015267
+          },
+          {
+            "label": "museum/outdoor",
+            "score": 0.000006900551926140198
+          },
+          {
+            "label": "elevator_shaft",
+            "score": 0.00000689301969946521
+          },
+          {
+            "label": "barndoor",
+            "score": 0.000006810174502927796
+          },
+          {
+            "label": "vegetable_garden",
+            "score": 0.000006761647798217558
+          },
+          {
+            "label": "courthouse",
+            "score": 0.000006631996146376503
+          },
+          {
+            "label": "ticket_booth",
+            "score": 0.0000066118322842598474
+          },
+          {
+            "label": "courtyard",
+            "score": 0.000006474461870899598
+          },
+          {
+            "label": "stadium/football",
+            "score": 0.000006234456891961318
+          },
+          {
+            "label": "bakery/shop",
+            "score": 0.000006123699730302002
+          },
+          {
+            "label": "general_store/outdoor",
+            "score": 0.000006122911014051881
+          },
+          {
+            "label": "butchers_shop",
+            "score": 0.0000059615003256361495
+          },
+          {
+            "label": "athletic_field/outdoor",
+            "score": 0.000005924371125495578
+          },
+          {
+            "label": "train_station/platform",
+            "score": 0.000005759248398612956
+          },
+          {
+            "label": "hangar/indoor",
+            "score": 0.00000573513499835853
+          },
+          {
+            "label": "inn/outdoor",
+            "score": 0.00000569456152884325
+          },
+          {
+            "label": "medina",
+            "score": 0.000005505571561875449
+          },
+          {
+            "label": "fire_escape",
+            "score": 0.0000053671853395276375
+          },
+          {
+            "label": "bamboo_forest",
+            "score": 0.000005353997317421601
+          },
+          {
+            "label": "lawn",
+            "score": 0.000005343185189200579
+          },
+          {
+            "label": "market/outdoor",
+            "score": 0.000005292527280626925
+          },
+          {
+            "label": "bus_station/indoor",
+            "score": 0.000005242791500734619
+          },
+          {
+            "label": "stadium/baseball",
+            "score": 0.000005218938207492031
+          },
+          {
+            "label": "fishpond",
+            "score": 0.000005125950442964088
+          },
+          {
+            "label": "ice_cream_parlor",
+            "score": 0.000005006369048163123
+          },
+          {
+            "label": "shower",
+            "score": 0.0000048667798714126246
+          },
+          {
+            "label": "baseball_field",
+            "score": 0.000004835855068835434
+          },
+          {
+            "label": "stage/outdoor",
+            "score": 0.0000047986468694666726
+          },
+          {
+            "label": "stadium/soccer",
+            "score": 0.000004604579363798211
+          },
+          {
+            "label": "restaurant",
+            "score": 0.000004472902156751895
+          },
+          {
+            "label": "diner/outdoor",
+            "score": 0.00000442716939540173
+          },
+          {
+            "label": "hotel/outdoor",
+            "score": 0.000004183540175096379
+          },
+          {
+            "label": "topiary_garden",
+            "score": 0.000004162051483687214
+          },
+          {
+            "label": "doorway/outdoor",
+            "score": 0.000004148072519691576
+          },
+          {
+            "label": "alley",
+            "score": 0.000004143500525478299
+          },
+          {
+            "label": "greenhouse/indoor",
+            "score": 0.000004063037317085741
+          },
+          {
+            "label": "supermarket",
+            "score": 0.0000038469458247386955
+          },
+          {
+            "label": "swimming_pool/indoor",
+            "score": 0.000003803476656439118
+          },
+          {
+            "label": "candy_store",
+            "score": 0.000003762771725169066
+          },
+          {
+            "label": "hospital_room",
+            "score": 0.0000036619281946690184
+          },
+          {
+            "label": "beer_garden",
+            "score": 0.000003620470248018142
+          },
+          {
+            "label": "florist_shop/indoor",
+            "score": 0.0000035316367056512775
+          },
+          {
+            "label": "staircase",
+            "score": 0.0000035251701191951114
+          },
+          {
+            "label": "archive",
+            "score": 0.000003518563111373303
+          },
+          {
+            "label": "restaurant_patio",
+            "score": 0.0000034911631240780094
+          },
+          {
+            "label": "garage/outdoor",
+            "score": 0.0000034381805747378182
+          },
+          {
+            "label": "natural_history_museum",
+            "score": 0.000003331873355018672
+          },
+          {
+            "label": "pizzeria",
+            "score": 0.0000032991171005402673
+          },
+          {
+            "label": "jacuzzi/indoor",
+            "score": 0.000003269532330970809
+          },
+          {
+            "label": "bedroom",
+            "score": 0.00000323607476247425
+          },
+          {
+            "label": "beauty_salon",
+            "score": 0.000003220165487409536
+          },
+          {
+            "label": "coffee_shop",
+            "score": 0.0000031747396441222956
+          },
+          {
+            "label": "airplane_cabin",
+            "score": 0.000003088223152757054
+          },
+          {
+            "label": "berth",
+            "score": 0.0000030834622951020737
+          },
+          {
+            "label": "formal_garden",
+            "score": 0.0000030693473833381877
+          },
+          {
+            "label": "bowling_alley",
+            "score": 0.000003033715338651064
+          },
+          {
+            "label": "cafeteria",
+            "score": 0.000002923767744817361
+          },
+          {
+            "label": "airport_terminal",
+            "score": 0.0000028926367937139086
+          },
+          {
+            "label": "carrousel",
+            "score": 0.000002862273343456747
+          },
+          {
+            "label": "pet_shop",
+            "score": 0.0000028269028182710245
+          },
+          {
+            "label": "library/outdoor",
+            "score": 0.0000028205223259377675
+          },
+          {
+            "label": "ball_pit",
+            "score": 0.0000028086836150580873
+          },
+          {
+            "label": "bazaar/outdoor",
+            "score": 0.0000027767941803799395
+          },
+          {
+            "label": "bow_window/indoor",
+            "score": 0.0000027705535385072093
+          },
+          {
+            "label": "embassy",
+            "score": 0.000002661240643862399
+          },
+          {
+            "label": "science_museum",
+            "score": 0.0000026015486276320804
+          },
+          {
+            "label": "conference_center",
+            "score": 0.0000025286959391117387
+          },
+          {
+            "label": "auto_factory",
+            "score": 0.000002509962799515619
+          },
+          {
+            "label": "jail_cell",
+            "score": 0.000002417687294188535
+          },
+          {
+            "label": "parking_garage/outdoor",
+            "score": 0.0000023548488383945727
+          },
+          {
+            "label": "art_gallery",
+            "score": 0.0000023275158445805327
+          },
+          {
+            "label": "art_studio",
+            "score": 0.00000228541933194899
+          },
+          {
+            "label": "delicatessen",
+            "score": 0.0000022095286224839722
+          },
+          {
+            "label": "art_school",
+            "score": 0.0000021545619164948777
+          },
+          {
+            "label": "chemistry_lab",
+            "score": 0.000002143449303100721
+          },
+          {
+            "label": "roof_garden",
+            "score": 0.0000021141761430549847
+          },
+          {
+            "label": "bar",
+            "score": 0.0000019796847495410477
+          },
+          {
+            "label": "escalator/indoor",
+            "score": 0.0000019387488624659195
+          },
+          {
+            "label": "repair_shop",
+            "score": 0.0000018119612387503293
+          },
+          {
+            "label": "hotel_room",
+            "score": 0.0000018071966643164795
+          },
+          {
+            "label": "jewelry_shop",
+            "score": 0.00000176646639335215
+          },
+          {
+            "label": "physics_laboratory",
+            "score": 0.00000167273431613659
+          },
+          {
+            "label": "assembly_line",
+            "score": 0.0000016716447208682524
+          },
+          {
+            "label": "operating_room",
+            "score": 0.0000015794015737571843
+          },
+          {
+            "label": "clothing_store",
+            "score": 0.0000015646260486090799
+          },
+          {
+            "label": "bus_interior",
+            "score": 0.000001560468501301908
+          },
+          {
+            "label": "childs_room",
+            "score": 0.0000015445979694250858
+          },
+          {
+            "label": "catacomb",
+            "score": 0.0000015213713952725655
+          },
+          {
+            "label": "car_interior",
+            "score": 0.000001519087230050868
+          },
+          {
+            "label": "porch",
+            "score": 0.0000015130288672954588
+          },
+          {
+            "label": "hardware_store",
+            "score": 0.0000014970667626316168
+          },
+          {
+            "label": "clean_room",
+            "score": 0.0000014780165914662328
+          },
+          {
+            "label": "bookstore",
+            "score": 0.0000014401362708653514
+          },
+          {
+            "label": "restaurant_kitchen",
+            "score": 0.0000014170196045383344
+          },
+          {
+            "label": "general_store/indoor",
+            "score": 0.0000014117297472277142
+          },
+          {
+            "label": "banquet_hall",
+            "score": 0.000001397715805381764
+          },
+          {
+            "label": "biology_laboratory",
+            "score": 0.0000013298318829862218
+          },
+          {
+            "label": "shopfront",
+            "score": 0.0000013200513197329988
+          },
+          {
+            "label": "arena/performance",
+            "score": 0.0000012879133860401733
+          },
+          {
+            "label": "engine_room",
+            "score": 0.0000012868878987796257
+          },
+          {
+            "label": "auto_showroom",
+            "score": 0.0000012735395388762912
+          },
+          {
+            "label": "gift_shop",
+            "score": 0.0000012370154109049888
+          },
+          {
+            "label": "toyshop",
+            "score": 0.000001221188790297218
+          },
+          {
+            "label": "train_interior",
+            "score": 0.0000012033554938110095
+          },
+          {
+            "label": "food_court",
+            "score": 0.0000011912847776373212
+          },
+          {
+            "label": "youth_hostel",
+            "score": 0.0000011605572329609934
+          },
+          {
+            "label": "beer_hall",
+            "score": 0.0000011498023033934857
+          },
+          {
+            "label": "home_theater",
+            "score": 0.0000010812008288807245
+          },
+          {
+            "label": "television_studio",
+            "score": 0.0000010783576694107225
+          },
+          {
+            "label": "museum/indoor",
+            "score": 0.0000010731844011007044
+          },
+          {
+            "label": "bathroom",
+            "score": 0.00000102184130355979
+          },
+          {
+            "label": "dorm_room",
+            "score": 0.0000010078880246586927
+          },
+          {
+            "label": "parking_garage/indoor",
+            "score": 0.0000010075862540103213
+          },
+          {
+            "label": "amusement_arcade",
+            "score": 9.762652883131893e-7
+          },
+          {
+            "label": "martial_arts_gym",
+            "score": 9.684277749712985e-7
+          },
+          {
+            "label": "alcove",
+            "score": 9.5872844836854e-7
+          },
+          {
+            "label": "attic",
+            "score": 9.55405657168095e-7
+          },
+          {
+            "label": "stage/indoor",
+            "score": 9.519654566415343e-7
+          },
+          {
+            "label": "closet",
+            "score": 9.058513493096665e-7
+          },
+          {
+            "label": "arcade",
+            "score": 8.883280566641138e-7
+          },
+          {
+            "label": "pantry",
+            "score": 8.877056007406784e-7
+          },
+          {
+            "label": "dining_hall",
+            "score": 8.581570316215242e-7
+          },
+          {
+            "label": "nursery",
+            "score": 8.562518629527157e-7
+          },
+          {
+            "label": "synagogue/outdoor",
+            "score": 8.509186818386603e-7
+          },
+          {
+            "label": "elevator/door",
+            "score": 8.299532729526503e-7
+          },
+          {
+            "label": "discotheque",
+            "score": 8.267796821384311e-7
+          },
+          {
+            "label": "music_studio",
+            "score": 8.115147017859967e-7
+          },
+          {
+            "label": "home_office",
+            "score": 7.943809142601561e-7
+          },
+          {
+            "label": "classroom",
+            "score": 7.709984615037055e-7
+          },
+          {
+            "label": "flea_market/indoor",
+            "score": 7.668646181934928e-7
+          },
+          {
+            "label": "computer_room",
+            "score": 7.636873337852108e-7
+          },
+          {
+            "label": "auditorium",
+            "score": 7.592387203931443e-7
+          },
+          {
+            "label": "garage/indoor",
+            "score": 7.535885982850683e-7
+          },
+          {
+            "label": "server_room",
+            "score": 7.415996973732572e-7
+          },
+          {
+            "label": "ballroom",
+            "score": 7.365766075406047e-7
+          },
+          {
+            "label": "legislative_chamber",
+            "score": 7.274691633729865e-7
+          },
+          {
+            "label": "subway_station/platform",
+            "score": 7.138924007457514e-7
+          },
+          {
+            "label": "kitchen",
+            "score": 7.035434171812136e-7
+          },
+          {
+            "label": "bedchamber",
+            "score": 7.001782832616664e-7
+          },
+          {
+            "label": "booth/indoor",
+            "score": 6.834396578631216e-7
+          },
+          {
+            "label": "laundromat",
+            "score": 6.834010410573824e-7
+          },
+          {
+            "label": "nursing_home",
+            "score": 6.682208814694591e-7
+          },
+          {
+            "label": "office",
+            "score": 6.659462204764024e-7
+          },
+          {
+            "label": "fabric_store",
+            "score": 6.395187278724779e-7
+          },
+          {
+            "label": "galley",
+            "score": 6.35092270190685e-7
+          },
+          {
+            "label": "dining_room",
+            "score": 6.333399113726126e-7
+          },
+          {
+            "label": "department_store",
+            "score": 6.329383787060826e-7
+          },
+          {
+            "label": "atrium/public",
+            "score": 6.272175026401427e-7
+          },
+          {
+            "label": "boxing_ring",
+            "score": 6.239264109689515e-7
+          },
+          {
+            "label": "shopping_mall/indoor",
+            "score": 6.221809780859562e-7
+          },
+          {
+            "label": "movie_theater/indoor",
+            "score": 6.113437017106379e-7
+          },
+          {
+            "label": "conference_room",
+            "score": 6.112998308201238e-7
+          },
+          {
+            "label": "basement",
+            "score": 6.071210883631292e-7
+          },
+          {
+            "label": "corridor",
+            "score": 6.062589972875139e-7
+          },
+          {
+            "label": "storage_room",
+            "score": 5.978941184045768e-7
+          },
+          {
+            "label": "television_room",
+            "score": 5.94219848607092e-7
+          },
+          {
+            "label": "market/indoor",
+            "score": 5.896163978657435e-7
+          },
+          {
+            "label": "living_room",
+            "score": 5.789428717173073e-7
+          },
+          {
+            "label": "recreation_room",
+            "score": 5.749038919505998e-7
+          },
+          {
+            "label": "shoe_shop",
+            "score": 5.597559892056293e-7
+          },
+          {
+            "label": "entrance_hall",
+            "score": 5.582507620428783e-7
+          },
+          {
+            "label": "artists_loft",
+            "score": 5.518104843914837e-7
+          },
+          {
+            "label": "bank_vault",
+            "score": 5.363009738928152e-7
+          },
+          {
+            "label": "sauna",
+            "score": 5.280852243947538e-7
+          },
+          {
+            "label": "lecture_room",
+            "score": 5.004330316643488e-7
+          },
+          {
+            "label": "pub/indoor",
+            "score": 4.960859001175092e-7
+          },
+          {
+            "label": "office_cubicles",
+            "score": 4.4565607453663273e-7
+          },
+          {
+            "label": "wet_bar",
+            "score": 4.4224615033383944e-7
+          },
+          {
+            "label": "kindergarden_classroom",
+            "score": 4.231456788557268e-7
+          },
+          {
+            "label": "utility_room",
+            "score": 4.1674247037770043e-7
+          },
+          {
+            "label": "reception",
+            "score": 4.0450022928030505e-7
+          },
+          {
+            "label": "waiting_room",
+            "score": 4.027874201913921e-7
+          },
+          {
+            "label": "elevator_lobby",
+            "score": 3.719308621794125e-7
+          },
+          {
+            "label": "basketball_court/indoor",
+            "score": 2.909616419922765e-7
+          },
+          {
+            "label": "dressing_room",
+            "score": 2.779545896490089e-7
+          },
+          {
+            "label": "sushi_bar",
+            "score": 2.4916258668278706e-7
+          },
+          {
+            "label": "lobby",
+            "score": 2.4485893044344766e-7
+          },
+          {
+            "label": "bazaar/indoor",
+            "score": 2.428080179628004e-7
+          },
+          {
+            "label": "playroom",
+            "score": 2.2043509878382464e-7
+          },
+          {
+            "label": "church/indoor",
+            "score": 2.0499543108626596e-7
+          },
+          {
+            "label": "library/indoor",
+            "score": 1.921335622521996e-7
+          },
+          {
+            "label": "mezzanine",
+            "score": 1.7784835097579018e-7
+          },
+          {
+            "label": "throne_room",
+            "score": 1.6002696197695433e-7
+          },
+          {
+            "label": "gymnasium/indoor",
+            "score": 1.4989635628064245e-7
+          },
+          {
+            "label": "locker_room",
+            "score": 1.2305574500796697e-7
+          },
+          {
+            "label": "orchestra_pit",
+            "score": 9.103447065459438e-8
+          }
+        ],
+        "detections": []
+      },
+      "heartbeat": {
+        "samples": 42,
+        "maxGapMs": 56.400000005960464
+      },
+      "pageV8Heap": {
+        "usedSize": 11112764,
+        "totalSize": 21458944,
+        "embedderHeapUsedSize": 12101240,
+        "backingStorageSize": 3407102
+      }
+    }
+  ],
+  "requests": [
+    {
+      "url": "http://127.0.0.1:3001/experiments/vision",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/1mlt_pkb6y0t0.css",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/0puoccy9vt99i.css",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/1ckvzn7sfprko.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/2r4s4h5xul1n-.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/0s7mvllxht1mo.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/0rm4bmi_uaeqm.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/turbopack-3-ry682tkyiqk.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/0umf92h1sb77c.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/34sejfx77low7.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/brand/app_icon.png",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/?_rsc=kkFecejXpwQ0UtuX",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/?_rsc=gwBX89CGuNYKOOUo",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/3fsc_a9zc29l0.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/0jv-hmy21iqni.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "blob:http://127.0.0.1:3001/529f88fb-5112-40e6-94fa-a725ecae4866",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/turbopack-worker-1hrsqshz0gfey.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/turbopack-27zgoiqjnp_q7.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/1w6qt_d1mp6hr.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/0ip3nqcqsccfg.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/turbopack-3-ry682tkyiqk.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/experiments/ai/tiny/config.json",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/experiments/ai/tiny/onnx/model_int8.onnx",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/ai/runtime/ort-wasm-simd-threaded.asyncify.wasm",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/ai/runtime/ort-wasm-simd-threaded.asyncify.mjs",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "blob:http://127.0.0.1:3001/6c82dbf4-37ac-447c-97a5-990e656819a1",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/experiments/ai/tiny/preprocessor_config.json",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/experiments/ai/tiny/tokenizer.json",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/experiments/ai/tiny/tokenizer_config.json",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "blob:http://127.0.0.1:3001/22375b1d-659f-497d-91a2-c6e5c4b6af45",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "blob:http://127.0.0.1:3001/1c207c4e-42e6-4a89-a917-7b6183131d29",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "blob:http://127.0.0.1:3001/bc4b23c0-150b-492e-be1e-f874876eeeb3",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "blob:http://127.0.0.1:3001/27361d60-99e0-4cc1-8852-a0f02e6f4f98",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/turbopack-worker-1hrsqshz0gfey.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/turbopack-34-sgub9zdn-a.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/3u-e33ho6859p.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/turbopack-3-ry682tkyiqk.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/ai/runtime/ort-wasm-simd-threaded.asyncify.mjs",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/ai/runtime/ort-wasm-simd-threaded.asyncify.wasm",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/experiments/ai/places/model.onnx",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/experiments/ai/places/labels.json",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/experiments/ai/places/reference.json",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "blob:http://127.0.0.1:3001/22023b6f-eff1-46b6-acc9-acbc3e4c8015",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "blob:http://127.0.0.1:3001/8a68822b-7a89-4264-84ea-00a3974dcc15",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "blob:http://127.0.0.1:3001/7f8e78b2-cce7-466c-b7f2-278336b4c9b5",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/turbopack-worker-1hrsqshz0gfey.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/turbopack-27zgoiqjnp_q7.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/1w6qt_d1mp6hr.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/0ip3nqcqsccfg.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/turbopack-3-ry682tkyiqk.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/experiments/ai/tiny/config.json",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/turbopack-worker-1hrsqshz0gfey.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/turbopack-27zgoiqjnp_q7.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/1w6qt_d1mp6hr.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/0ip3nqcqsccfg.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/_next/static/chunks/turbopack-3-ry682tkyiqk.js",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/experiments/ai/tiny/config.json",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/experiments/ai/tiny/onnx/model_int8.onnx",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/ai/runtime/ort-wasm-simd-threaded.asyncify.wasm",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/ai/runtime/ort-wasm-simd-threaded.asyncify.mjs",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "blob:http://127.0.0.1:3001/5870c6c1-1c47-42c9-a53e-5c27db8d356d",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/experiments/ai/tiny/preprocessor_config.json",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/experiments/ai/tiny/tokenizer.json",
+      "method": "GET",
+      "body": false
+    },
+    {
+      "url": "http://127.0.0.1:3001/experiments/ai/tiny/tokenizer_config.json",
+      "method": "GET",
+      "body": false
+    }
+  ],
+  "transfers": [
+    {
+      "url": "http://127.0.0.1:3001/experiments/ai/tiny/config.json",
+      "bytes": 850
+    },
+    {
+      "url": "http://127.0.0.1:3001/experiments/ai/tiny/onnx/model_int8.onnx",
+      "bytes": 24281512
+    },
+    {
+      "url": "http://127.0.0.1:3001/ai/runtime/ort-wasm-simd-threaded.asyncify.wasm",
+      "bytes": 26861777
+    },
+    {
+      "url": "http://127.0.0.1:3001/ai/runtime/ort-wasm-simd-threaded.asyncify.mjs",
+      "bytes": 53057
+    },
+    {
+      "url": "http://127.0.0.1:3001/experiments/ai/tiny/preprocessor_config.json",
+      "bytes": 468
+    },
+    {
+      "url": "http://127.0.0.1:3001/experiments/ai/tiny/tokenizer.json",
+      "bytes": 3642073
+    },
+    {
+      "url": "http://127.0.0.1:3001/experiments/ai/tiny/tokenizer_config.json",
+      "bytes": 726
+    },
+    {
+      "url": "http://127.0.0.1:3001/ai/runtime/ort-wasm-simd-threaded.asyncify.mjs",
+      "bytes": 53057
+    },
+    {
+      "url": "http://127.0.0.1:3001/ai/runtime/ort-wasm-simd-threaded.asyncify.wasm",
+      "bytes": 26861777
+    },
+    {
+      "url": "http://127.0.0.1:3001/experiments/ai/places/model.onnx",
+      "bytes": 45445545
+    },
+    {
+      "url": "http://127.0.0.1:3001/experiments/ai/places/labels.json",
+      "bytes": 5120
+    },
+    {
+      "url": "http://127.0.0.1:3001/experiments/ai/places/reference.json",
+      "bytes": 7110
+    },
+    {
+      "url": "http://127.0.0.1:3001/experiments/ai/tiny/config.json",
+      "bytes": 850
+    },
+    {
+      "url": "http://127.0.0.1:3001/experiments/ai/tiny/onnx/model_int8.onnx",
+      "bytes": 24281512
+    },
+    {
+      "url": "http://127.0.0.1:3001/ai/runtime/ort-wasm-simd-threaded.asyncify.wasm",
+      "bytes": 26861777
+    },
+    {
+      "url": "http://127.0.0.1:3001/ai/runtime/ort-wasm-simd-threaded.asyncify.mjs",
+      "bytes": 53057
+    },
+    {
+      "url": "http://127.0.0.1:3001/experiments/ai/tiny/preprocessor_config.json",
+      "bytes": 468
+    },
+    {
+      "url": "http://127.0.0.1:3001/experiments/ai/tiny/tokenizer.json",
+      "bytes": 3642073
+    },
+    {
+      "url": "http://127.0.0.1:3001/experiments/ai/tiny/tokenizer_config.json",
+      "bytes": 726
+    }
+  ],
+  "workerRelease": true,
+  "manualRetry": true,
+  "memoryCaveat": "Page V8 snapshots exclude worker/native WASM heap and are not peak model memory.",
+  "conditions": "Desktop Chrome/WASM localhost, unthrottled; not physical mobile or WAN transfer."
+}

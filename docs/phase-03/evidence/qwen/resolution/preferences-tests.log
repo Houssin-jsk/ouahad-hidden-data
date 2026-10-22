@@ -1,0 +1,9 @@
+test_fresh_package_has_no_preference (test_preferences.PreferenceTests.test_fresh_package_has_no_preference) ... ok
+test_invalid_oversized_or_unexpected_fields_are_not_restored (test_preferences.PreferenceTests.test_invalid_oversized_or_unexpected_fields_are_not_restored) ... ok
+test_opt_in_round_trip_contains_only_nonsecret_folder (test_preferences.PreferenceTests.test_opt_in_round_trip_contains_only_nonsecret_folder) ... ok
+test_opt_out_overwrites_preference_without_retaining_path (test_preferences.PreferenceTests.test_opt_out_overwrites_preference_without_retaining_path) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.043s
+
+OK

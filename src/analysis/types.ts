@@ -25,6 +25,7 @@ export interface ImageSource {
   format: string;
 }
 export interface AnalysisResult extends PixelStatistics {
+  analytics?: import("./insight-types").ImageAnalytics;
   sampleWidth: number;
   sampleHeight: number;
   sampling: { mode: "all-pixels" | "stratified"; sourcePixels: number };

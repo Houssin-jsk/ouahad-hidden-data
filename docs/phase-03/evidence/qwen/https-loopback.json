@@ -1,0 +1,100 @@
+{
+  "origin": "https://hidden-data.ouahad.space",
+  "transport": "HTTPS production origin to IPv4 loopback HTTP",
+  "browserSecurityExceptions": false,
+  "permissionMethod": "Playwright grants the standard local-network-access permission, equivalent to user approval; no security-disabling flags or certificate bypass.",
+  "testOnlyEvaluationMode": true,
+  "productionObservationsEnabled": false,
+  "browser": "155.0.8059.85",
+  "httpsStatus": 200,
+  "certificate": {
+    "issuer": "YR2",
+    "protocol": "TLS 1.3",
+    "subjectName": "hidden-data.ouahad.space",
+    "validFrom": 1791890538,
+    "validTo": 1799666537
+  },
+  "secureContext": true,
+  "modelLoadingSeconds": 9.21899999998277,
+  "nativeLoopbackPort": 49532,
+  "rawRuntimeUnauthorizedStatus": 401,
+  "pairingStatus": 200,
+  "authorizedStatus": 200,
+  "realImage": {
+    "status": 200,
+    "value": {
+      "version": "1.0.0",
+      "observations": {
+        "summary": "A black cat with striking white eyes is lying on a textured blue blanket.",
+        "objects": [
+          "black cat",
+          "blue blanket",
+          "brown chair",
+          "white wall",
+          "wooden frame"
+        ],
+        "relationships": [
+          "cat is lying on the blanket",
+          "cat is on the chair",
+          "cat is in front of the wall"
+        ],
+        "uncertainties": [
+          "the cat's exact position on the chair is uncertain",
+          "the texture of the blanket is not clearly visible",
+          "the identity of the person or object in the background is uncertain"
+        ]
+      },
+      "limitations": "Model-generated observations can be wrong or incomplete. They do not establish identity, location, sensitive attributes, authenticity, or camera metadata.",
+      "model": "Qwen3-VL 2B Instruct Q4_K_M",
+      "elapsedSeconds": 71.875
+    },
+    "wallMs": 72213.40000000596
+  },
+  "cancellation": {
+    "status": 200,
+    "value": {
+      "state": "stopped"
+    },
+    "wallMs": 1137.4000000059605
+  },
+  "afterCancel": {
+    "state": "stopped",
+    "pid": null,
+    "active": null
+  },
+  "cancelledResponse": {
+    "status": 503,
+    "value": {
+      "error": "Local inference stopped or returned an unsupported response. Restart the model to retry."
+    }
+  },
+  "storage": {
+    "local": 0,
+    "session": 0
+  },
+  "pairingSecretPersisted": false,
+  "requests": [
+    {
+      "path": "/v1/pair",
+      "method": "POST"
+    },
+    {
+      "path": "/v1/status",
+      "method": "GET"
+    },
+    {
+      "path": "/v1/analyze",
+      "method": "POST"
+    },
+    {
+      "path": "/v1/analyze",
+      "method": "POST"
+    },
+    {
+      "path": "/v1/cancel",
+      "method": "POST"
+    }
+  ],
+  "success": true,
+  "harnessExitCode": 0
+}

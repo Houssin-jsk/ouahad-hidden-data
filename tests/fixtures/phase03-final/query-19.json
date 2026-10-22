@@ -1,0 +1,1096 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 10,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "24920220": {
+        "pageid": 24920220,
+        "ns": 6,
+        "title": "File:Stone rock closeup.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 247925,
+            "width": 1024,
+            "height": 768,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Stone_rock_closeup.jpg/960px-Stone_rock_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/1/12/Stone_rock_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Stone_rock_closeup.jpg/960px-Stone_rock_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/1/12/Stone_rock_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Stone_rock_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Stone_rock_closeup.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24920220",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-03-01 05:54:12",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Stone rock closeup",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-author|Images uploaded by Fæ|Stone textures|Public-domain-image.com|Public-domain-image.com (check needed)|Media needing category review as of 12 October 2013",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<br>\n<dl><dd>Image title: Stone rock closeup</dd>\n<dd>Image from Public domain images website, <a rel=\"nofollow\" class=\"external free\" href=\"http://www.public-domain-image.com/full-image/textures-and-patterns-public-domain-images-pictures/rock-stone-texture-public-domain-images-pictures/stone-rock-closeup.jpg.html\">http://www.public-domain-image.com/full-image/textures-and-patterns-public-domain-images-pictures/rock-stone-texture-public-domain-images-pictures/stone-rock-closeup.jpg.html</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "<p>Not given\n</p>\n<ul><li>Transferred by <a href=\"//commons.wikimedia.org/wiki/User:F%C3%A6\" title=\"User:Fæ\">Fæ</a> on 2013-03-01</li></ul>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.public-domain-image.com/public-domain-images-pictures-free-stock-photos/textures-and-patterns-public-domain-images-pictures/rock-stone-texture-public-domain-images-pictures/stone-rock-closeup.jpg\">http://www.public-domain-image.com/public-domain-images-pictures-free-stock-photos/textures-and-patterns-public-domain-images-pictures/rock-stone-texture-public-domain-images-pictures/stone-rock-closeup.jpg</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Titus Tscharntke",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "This file is in public domain, not copyrighted, no rights reserved, free for any use. You can use this picture for any use including commercial purposes without the prior written permission and without fee or obligation.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "24920237": {
+        "pageid": 24920237,
+        "ns": 6,
+        "title": "File:Stone rock texture closeup.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 271433,
+            "width": 1024,
+            "height": 768,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Stone_rock_texture_closeup.jpg/960px-Stone_rock_texture_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Stone_rock_texture_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Stone_rock_texture_closeup.jpg/960px-Stone_rock_texture_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Stone_rock_texture_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Stone_rock_texture_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Stone_rock_texture_closeup.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24920237",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-03-01 05:55:39",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Stone rock texture closeup",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-author|Images uploaded by Fæ|Stone textures|Public-domain-image.com|Public-domain-image.com (check needed)|Media needing category review as of 12 October 2013",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<br>\n<dl><dd>Image title: Stone rock texture closeup</dd>\n<dd>Image from Public domain images website, <a rel=\"nofollow\" class=\"external free\" href=\"http://www.public-domain-image.com/full-image/textures-and-patterns-public-domain-images-pictures/rock-stone-texture-public-domain-images-pictures/stone-rock-texture-closeup.jpg.html\">http://www.public-domain-image.com/full-image/textures-and-patterns-public-domain-images-pictures/rock-stone-texture-public-domain-images-pictures/stone-rock-texture-closeup.jpg.html</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "<p>Not given\n</p>\n<ul><li>Transferred by <a href=\"//commons.wikimedia.org/wiki/User:F%C3%A6\" title=\"User:Fæ\">Fæ</a> on 2013-03-01</li></ul>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.public-domain-image.com/public-domain-images-pictures-free-stock-photos/textures-and-patterns-public-domain-images-pictures/rock-stone-texture-public-domain-images-pictures/stone-rock-texture-closeup.jpg\">http://www.public-domain-image.com/public-domain-images-pictures-free-stock-photos/textures-and-patterns-public-domain-images-pictures/rock-stone-texture-public-domain-images-pictures/stone-rock-texture-closeup.jpg</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Titus Tscharntke",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "This file is in public domain, not copyrighted, no rights reserved, free for any use. You can use this picture for any use including commercial purposes without the prior written permission and without fee or obligation.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "28818876": {
+        "pageid": 28818876,
+        "ns": 6,
+        "title": "File:Surface exterior vertical wall granite or marble with reflections of cars closeup view.JPG",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1141082,
+            "width": 1979,
+            "height": 1936,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Surface_exterior_vertical_wall_granite_or_marble_with_reflections_of_cars_closeup_view.JPG/960px-Surface_exterior_vertical_wall_granite_or_marble_with_reflections_of_cars_closeup_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 751,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Surface_exterior_vertical_wall_granite_or_marble_with_reflections_of_cars_closeup_view.JPG/1920px-Surface_exterior_vertical_wall_granite_or_marble_with_reflections_of_cars_closeup_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Surface_exterior_vertical_wall_granite_or_marble_with_reflections_of_cars_closeup_view.JPG/960px-Surface_exterior_vertical_wall_granite_or_marble_with_reflections_of_cars_closeup_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 751,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Surface_exterior_vertical_wall_granite_or_marble_with_reflections_of_cars_closeup_view.JPG/1920px-Surface_exterior_vertical_wall_granite_or_marble_with_reflections_of_cars_closeup_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Surface_exterior_vertical_wall_granite_or_marble_with_reflections_of_cars_closeup_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Surface_exterior_vertical_wall_granite_or_marble_with_reflections_of_cars_closeup_view.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=28818876",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-10-02 18:00:21",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Surface exterior vertical wall granite or marble with reflections of cars closeup view",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Sony DSC-W530|CC-Zero|Self-published work|Stone textures|Gray textures",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Exploration of surfaces and textures using a close-up camera angle. Marble or granite surface.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-09-24 21:22:19",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Tomwsulcer&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Tomwsulcer (page does not exist)\">Tomwsulcer</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "28818880": {
+        "pageid": 28818880,
+        "ns": 6,
+        "title": "File:Surfaces brick wall multicolor bricks topped by stone closeup view.JPG",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1535882,
+            "width": 2592,
+            "height": 1944,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Surfaces_brick_wall_multicolor_bricks_topped_by_stone_closeup_view.JPG/960px-Surfaces_brick_wall_multicolor_bricks_topped_by_stone_closeup_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Surfaces_brick_wall_multicolor_bricks_topped_by_stone_closeup_view.JPG/1920px-Surfaces_brick_wall_multicolor_bricks_topped_by_stone_closeup_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Surfaces_brick_wall_multicolor_bricks_topped_by_stone_closeup_view.JPG/960px-Surfaces_brick_wall_multicolor_bricks_topped_by_stone_closeup_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Surfaces_brick_wall_multicolor_bricks_topped_by_stone_closeup_view.JPG/1920px-Surfaces_brick_wall_multicolor_bricks_topped_by_stone_closeup_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Surfaces_brick_wall_multicolor_bricks_topped_by_stone_closeup_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Surfaces_brick_wall_multicolor_bricks_topped_by_stone_closeup_view.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=28818880",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-10-02 18:00:25",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Surfaces brick wall multicolor bricks topped by stone closeup view",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Sony DSC-W530|CC-Zero|Self-published work|Brick facades|Brick wall textures",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Exploration of surfaces and textures using a close-up camera angle. Brick pattern with stone.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-09-24 21:28:06",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Tomwsulcer&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Tomwsulcer (page does not exist)\">Tomwsulcer</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "28818899": {
+        "pageid": 28818899,
+        "ns": 6,
+        "title": "File:Surfaces side of a building with pattern closeup view.JPG",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1225091,
+            "width": 2086,
+            "height": 1720,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Surfaces_side_of_a_building_with_pattern_closeup_view.JPG/960px-Surfaces_side_of_a_building_with_pattern_closeup_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 633,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Surfaces_side_of_a_building_with_pattern_closeup_view.JPG/1920px-Surfaces_side_of_a_building_with_pattern_closeup_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Surfaces_side_of_a_building_with_pattern_closeup_view.JPG/960px-Surfaces_side_of_a_building_with_pattern_closeup_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 633,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Surfaces_side_of_a_building_with_pattern_closeup_view.JPG/1920px-Surfaces_side_of_a_building_with_pattern_closeup_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Surfaces_side_of_a_building_with_pattern_closeup_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Surfaces_side_of_a_building_with_pattern_closeup_view.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=28818899",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-10-02 18:00:51",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Surfaces side of a building with pattern closeup view",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Sony DSC-W530|CC-Zero|Carved stone objects|Self-published work|Gray textures",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Exploration of surfaces and textures using a close-up camera angle. Side of a building with pattern.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-09-24 21:36:48",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Tomwsulcer&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Tomwsulcer (page does not exist)\">Tomwsulcer</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "28818903": {
+        "pageid": 28818903,
+        "ns": 6,
+        "title": "File:Surfaces vertical brick wall stone and brick closeup view.JPG",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1331021,
+            "width": 2592,
+            "height": 1944,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Surfaces_vertical_brick_wall_stone_and_brick_closeup_view.JPG/960px-Surfaces_vertical_brick_wall_stone_and_brick_closeup_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Surfaces_vertical_brick_wall_stone_and_brick_closeup_view.JPG/1920px-Surfaces_vertical_brick_wall_stone_and_brick_closeup_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Surfaces_vertical_brick_wall_stone_and_brick_closeup_view.JPG/960px-Surfaces_vertical_brick_wall_stone_and_brick_closeup_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Surfaces_vertical_brick_wall_stone_and_brick_closeup_view.JPG/1920px-Surfaces_vertical_brick_wall_stone_and_brick_closeup_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Surfaces_vertical_brick_wall_stone_and_brick_closeup_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Surfaces_vertical_brick_wall_stone_and_brick_closeup_view.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=28818903",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-10-02 18:01:00",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Surfaces vertical brick wall stone and brick closeup view",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Sony DSC-W530|CC-Zero|Stone walls|Self-published work|Brick walls in unidentified countries|Brick wall textures",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Exploration of surfaces and textures using a close-up camera angle. Brick wall with stone on top.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-09-24 21:24:17",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Tomwsulcer&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Tomwsulcer (page does not exist)\">Tomwsulcer</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "28818905": {
+        "pageid": 28818905,
+        "ns": 6,
+        "title": "File:Surfaces vertical wall stone pattern side of a building closeup view.JPG",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 959282,
+            "width": 1659,
+            "height": 1704,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Surfaces_vertical_wall_stone_pattern_side_of_a_building_closeup_view.JPG/960px-Surfaces_vertical_wall_stone_pattern_side_of_a_building_closeup_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 789,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Surfaces_vertical_wall_stone_pattern_side_of_a_building_closeup_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Surfaces_vertical_wall_stone_pattern_side_of_a_building_closeup_view.JPG/960px-Surfaces_vertical_wall_stone_pattern_side_of_a_building_closeup_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 789,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Surfaces_vertical_wall_stone_pattern_side_of_a_building_closeup_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Surfaces_vertical_wall_stone_pattern_side_of_a_building_closeup_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Surfaces_vertical_wall_stone_pattern_side_of_a_building_closeup_view.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=28818905",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-10-02 18:01:02",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Surfaces vertical wall stone pattern side of a building closeup view",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Sony DSC-W530|CC-Zero|Self-published work|Stone textures|Wall textures",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Exploration of surfaces and textures using a close-up camera angle. Vertical wall in sunlight (left) and shade.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-09-24 21:26:53",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Tomwsulcer&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Tomwsulcer (page does not exist)\">Tomwsulcer</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "28818909": {
+        "pageid": 28818909,
+        "ns": 6,
+        "title": "File:Surfaces wall closeup view pattern with tiny stones.JPG",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1071265,
+            "width": 2592,
+            "height": 1944,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Surfaces_wall_closeup_view_pattern_with_tiny_stones.JPG/960px-Surfaces_wall_closeup_view_pattern_with_tiny_stones.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Surfaces_wall_closeup_view_pattern_with_tiny_stones.JPG/1920px-Surfaces_wall_closeup_view_pattern_with_tiny_stones.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Surfaces_wall_closeup_view_pattern_with_tiny_stones.JPG/960px-Surfaces_wall_closeup_view_pattern_with_tiny_stones.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Surfaces_wall_closeup_view_pattern_with_tiny_stones.JPG/1920px-Surfaces_wall_closeup_view_pattern_with_tiny_stones.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Surfaces_wall_closeup_view_pattern_with_tiny_stones.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Surfaces_wall_closeup_view_pattern_with_tiny_stones.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=28818909",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-10-02 18:01:07",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Surfaces wall closeup view pattern with tiny stones",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Sony DSC-W530|CC-Zero|Self-published work|Wall textures|Stones textures|Pebble textures",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Exploration of surfaces and textures using a close-up camera angle. Tiny stones, vertical wall.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-09-24 21:27:00",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:Tomwsulcer?action=edit&amp;redlink=1\" title=\"User:Tomwsulcer (page does not exist)\" class=\"new\" typeof=\"mw:LocalizedAttrs\" data-mw-i18n='{\"title\":{\"lang\":\"x-page\",\"key\":\"red-link-title\",\"params\":[\"User:Tomwsulcer\"]}}'>Tomwsulcer</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "34021130": {
+        "pageid": 34021130,
+        "ns": 6,
+        "title": "File:Paris, Pont de l’Archevêché -- 2014 -- 1522.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8191291,
+            "width": 3648,
+            "height": 4643,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Paris%2C_Pont_de_l%E2%80%99Archev%C3%AAch%C3%A9_--_2014_--_1522.jpg/960px-Paris%2C_Pont_de_l%E2%80%99Archev%C3%AAch%C3%A9_--_2014_--_1522.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 977,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Paris%2C_Pont_de_l%E2%80%99Archev%C3%AAch%C3%A9_--_2014_--_1522.jpg/1920px-Paris%2C_Pont_de_l%E2%80%99Archev%C3%AAch%C3%A9_--_2014_--_1522.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Paris%2C_Pont_de_l%E2%80%99Archev%C3%AAch%C3%A9_--_2014_--_1522.jpg/960px-Paris%2C_Pont_de_l%E2%80%99Archev%C3%AAch%C3%A9_--_2014_--_1522.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 977,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Paris%2C_Pont_de_l%E2%80%99Archev%C3%AAch%C3%A9_--_2014_--_1522.jpg/1920px-Paris%2C_Pont_de_l%E2%80%99Archev%C3%AAch%C3%A9_--_2014_--_1522.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Paris%2C_Pont_de_l%E2%80%99Archev%C3%AAch%C3%A9_--_2014_--_1522.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paris,_Pont_de_l%E2%80%99Archev%C3%AAch%C3%A9_--_2014_--_1522.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=34021130",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-01-11 19:04:43",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Paris, Pont de l’Archevêché -- 2014 -- 1522",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Photographs by Dietmar Rabich/Quality images of France|Heart symbols|Taken with Canon EOS 70D|Taken with Canon EF-S 15-85mm F3.5-5.6 IS USM|ISO speed rating 100|Photographs with aspect ratio of 7:9|Bridges in France photographed in 2014|Self-published work|Photographs by Dietmar Rabich/Close-ups|F-number f/5.6|Exposure time 1/60 sec|Photographs by Dietmar Rabich/Quality images|Information field template with formatting|2014 photographs of Paris|Buildings with addresses|Images by XRay (flat list)|Photographs by Dietmar Rabich/Quality images of bridges|Photographs by Dietmar Rabich/France|Photographs by Dietmar Rabich/Medium exposure|Paris photographs taken on 2014-07-08|Close-ups of love padlocks|Lens focal length 65 mm|Love padlocks on the Pont de l'Archevêché|Padlock textures|Photographs by Dietmar Rabich/Quality images of padlocks|Photographs by Dietmar Rabich/Quality images of patterns and textures|Photographs by Dietmar Rabich/Year/2014",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "48.851667",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "2.351667",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/Love_lock\" class=\"extiw\" title=\"en:Love lock\">Love padlocks</a> at the Pont de l’Archevêché, <a href=\"https://en.wikipedia.org/wiki/Paris\" class=\"extiw\" title=\"en:Paris\">Paris</a>, France",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 8 July 2014, 18:12",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q34788025\" class=\"extiw\" title=\"d:Q34788025\"><span title=\"German photographer and mathematician\">Dietmar Rabich</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"layouttemplate navigation-not-searchable\" style=\"margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;border:1px solid var(--background-color-disabled,#eeeeee)\" data-nosnippet=\"\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/40px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"14\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1000\" data-file-height=\"600\"></span></span>\n</td>\n<td>Dieser Text und viele andere auch sind ebenso in deutscher Sprache verfügbar. Um diese sehen zu können, wähle bitte auf dieser Webseite die Spracheinstellung „Deutsch“.\n</td></tr></tbody></table><div style=\"clear:both;border:1px solid var(--background-color-disabled,#eeeeee);margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;font-size:90%;\" class=\"searchaux\" data-nosnippet=\"\">\n<figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:HSSection_sign.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/120px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/250px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"156\" data-file-height=\"156\"></a><figcaption></figcaption></figure><figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Cc_by-sa_(1).svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/120px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"35\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/250px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"120\" data-file-height=\"42\"></a><figcaption></figcaption></figure><div><b>I. Licence</b></div>\n<div style=\"margin-top:0.5em;\">This photograph is protected by copyright law. However, it may be used for free by anyone, provided it is used in accordance with the license <b>Creative Commons License <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed\">“Attribution-ShareAlike 4.0 International”</a></b> (CC BY-SA 4.0). These include, among other things, the naming of the author and the license, as well as the setting of a link to the license text or its complete imprint. The attribution should be done as follows:</div>\n<div style=\"margin-top:0.5em; text-align:center;\"><i><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a> / <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a> / <span class=\"plainlinks noprint\"><a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/File:Paris,_Pont_de_l%E2%80%99Archev%C3%AAch%C3%A9_--_2014_--_1522.jpg\" href=\"https://commons.wikimedia.org/wiki/File:Paris,_Pont_de_l%E2%80%99Archev%C3%AAch%C3%A9_--_2014_--_1522.jpg\">“Paris, Pont de l’Archevêché -- 2014 -- 1522”</a></span> / <span class=\"plainlinks noprint\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a></span></i></div>\n<div style=\"margin-top:0.5em;\">Please read the text of the license carefully before using the photograph. If you do not agree with the conditions of the license or if you do not understand these conditions, please refrain from using the photo. If you have any questions regarding the license or the reuse of the image, please contact me before using it. If you do not comply with the terms of the license, you do not acquire any right to use the image. If you need another license to use, please contact the author <b>before</b> using.</div>\n<div style=\"margin-top:0.5em;\">For informations about the licence see section <a class=\"mw-selflink-fragment\" href=\"#ImgLic\">Licensing</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">human-readable summary</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">full licence text</a> at Creative Commons. In addition to the above, a link to the source - so this page with the descriptions and license terms - is appreciated. More information or examples of use can be found at <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">re-use (with example file)</a>. The <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Paris,_Pont_de_l%E2%80%99Archev%C3%AAch%C3%A9_--_2014_--_1522.jpg\">Attribution Generator</a> is helpful in licensing matters.</div>\n<div style=\"margin:0.5em auto 1em;text-align:center;\" class=\"plainlinks\"><span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Paris,_Pont_de_l%E2%80%99Archev%C3%AAch%C3%A9_--_2014_--_1522.jpg\"><span class=\"submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-secondary ui-button-blue\" role=\"button\"><span class=\"ui-button-text\">Generate License <b>Attribution</b></span><span class=\"ui-button-icon-secondary ui-icon ui-icon-extlink\"> </span></span></a></span></div>\n<div style=\"margin-top:0.5em;\">As an alternative to the Creative Commons License <i>CC BY-SA 4.0</i>, the <i><a href=\"https://en.wikipedia.org/wiki/Free_Art_License\" class=\"extiw\" title=\"en:Free Art License\">Free Art License</a></i> (<a rel=\"nofollow\" class=\"external text\" href=\"http://artlibre.org/licence/lal/en/\">from version 1.3</a>) may also be used.</div>\n<div style=\"margin-top:0.75em;\"><b>II. Fairness</b></div>\n<div style=\"margin-top:0.5em;\">From printed materials and other tangible products that use that work, the user is asked to send a copy to the author as thank you. However, this is not a condition for the use of the photo, but a voluntary service. The mailing address can be requested via the contact options.</div>\n<div style=\"margin-top:0.5em;\">Please note that the author had quite considerable effort to draw up this file. Thus, it is only fair to comply with the conditions of <a href=\"https://en.wikipedia.org/wiki/Free_license\" class=\"extiw\" title=\"en:Free license\">free licenses</a> listed here. In the case of violation of the license conditions, the rights granted hereunder will expire automatically.</div>\n<div style=\"margin-top:0.75em; clear: both;\"><b>III. Disclaimer</b></div>\n<div style=\"margin-top:0.5em;\">Please note that the rights granted under the license apply exclusively to the photograph itself, but not to the rights of third parties — such as copyrights or property rights in the object depicted or the personal rights of any individuals who may be depicted. (See <a href=\"//commons.wikimedia.org/wiki/Commons:L\" class=\"mw-redirect\" title=\"Commons:L\">licences</a> and <a href=\"//commons.wikimedia.org/wiki/Commons:SOSUMI\" class=\"mw-redirect\" title=\"Commons:SOSUMI\">non-copyright restrictions</a>.) I do not grant any warranty that the subsequent use of the photograph is legally possible concerning the object or person shown in the photograph. You are responsible to check and respect these rights in the publication in the respective medium or country.</div>\n<div style=\"margin-top:0.5em;\">The author is not responsible for the accuracy of the information contained herein (description, title, etc.). Likewise, the author assumes no liability for further use. Please note the <a href=\"//commons.wikimedia.org/wiki/Commons:General_disclaimer\" title=\"Commons:General disclaimer\">general disclaimer</a> and please read <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">reusing content outside Wikimedia</a> too.</div>\n<div style=\"margin-top:0.75em;\"><b>IV. Contact</b></div>\n<div style=\"margin-top:0.5em;\"><b><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:UserIconMail.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/40px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/60px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"700\" data-file-height=\"700\"></a></span> <a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/XRay\" title=\"Special:EmailUser/XRay\">E-mail to the author</a></b> or the <a href=\"//commons.wikimedia.org/wiki/User_talk:XRay\" title=\"User talk:XRay\">author's talk page</a> <small>or the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.rabich.de/\">author's website</a></small></div></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<b><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a></b>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "148356446": {
+        "pageid": 148356446,
+        "ns": 6,
+        "title": "File:Manti Temple Wall Closeup with Windows.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2336666,
+            "width": 3024,
+            "height": 4032,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Manti_Temple_Wall_Closeup_with_Windows.jpg/960px-Manti_Temple_Wall_Closeup_with_Windows.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1024,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Manti_Temple_Wall_Closeup_with_Windows.jpg/1920px-Manti_Temple_Wall_Closeup_with_Windows.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Manti_Temple_Wall_Closeup_with_Windows.jpg/960px-Manti_Temple_Wall_Closeup_with_Windows.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1024,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Manti_Temple_Wall_Closeup_with_Windows.jpg/1920px-Manti_Temple_Wall_Closeup_with_Windows.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Manti_Temple_Wall_Closeup_with_Windows.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Manti_Temple_Wall_Closeup_with_Windows.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=148356446",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-05-14 23:00:41",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Manti Temple Wall Closeup with Windows",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Manti Utah Temple|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Oolite stone texture is seen along with rising buttresses and vertical windows. The top of the roof is done in the classical style with dentils.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-03-09 15:07:28",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Itsetsyoufree32\" title=\"User:Itsetsyoufree32\">Itsetsyoufree32</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

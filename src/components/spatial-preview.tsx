@@ -97,7 +97,9 @@ export function SpatialPreview({
             : "Detail map: white = the strongest Sobel gradient in this map; black = no gradient. Normalized separately per image; not a sharpness or quality score."}{" "}
           {result?.maps?.width} × {result?.maps?.height} pixels; large images
           are downscaled for maps only. Transparent pixels stay transparent;
-          detail kernels touching fully transparent pixels are excluded.
+          detail kernels touching fully transparent pixels are excluded. Edges
+          can come from subject texture, noise or resizing. These maps do not
+          establish sharp focus, retouching, authenticity or image quality.
         </p>
       )}
       {result?.mapError && <p className="result-footnote">{result.mapError}</p>}

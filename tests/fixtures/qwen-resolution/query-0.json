@@ -1,0 +1,1130 @@
+{
+  "requestUrl": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=bicycle+repair+workshop+photograph+filetype%3Abitmap&gsrnamespace=6&gsrlimit=20&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1536",
+  "response": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "5950130": {
+          "pageid": 5950130,
+          "ns": 6,
+          "title": "File:Zweiradmechanikerwerkstatt - Deutsches Museum Verkehrszentrum.JPG",
+          "index": 10,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2520400,
+              "width": 3072,
+              "height": 2304,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Zweiradmechanikerwerkstatt_-_Deutsches_Museum_Verkehrszentrum.JPG/1920px-Zweiradmechanikerwerkstatt_-_Deutsches_Museum_Verkehrszentrum.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1152,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Zweiradmechanikerwerkstatt_-_Deutsches_Museum_Verkehrszentrum.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Zweiradmechanikerwerkstatt_-_Deutsches_Museum_Verkehrszentrum.JPG/1920px-Zweiradmechanikerwerkstatt_-_Deutsches_Museum_Verkehrszentrum.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1152,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Zweiradmechanikerwerkstatt_-_Deutsches_Museum_Verkehrszentrum.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Zweiradmechanikerwerkstatt_-_Deutsches_Museum_Verkehrszentrum.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zweiradmechanikerwerkstatt_-_Deutsches_Museum_Verkehrszentrum.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=5950130",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2009-02-14 14:16:53",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Zweiradmechanikerwerkstatt - Deutsches Museum Verkehrszentrum",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Germany in the 1950s|Bicycle shops in Germany|Taken with Fujifilm FinePix S5700|Self-published work|PD-self|User:Mattes/Contributions/Topics/Transport|Information field template with formatting|Deutsches Museum Verkehrszentrum - Halle I|Work by Mattes 2009|User:Mattes/Contributions/Topics/Germany/München|File uploads by User:Mattes (flat)|Munich photographs taken on 2009-02-13",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "German two-wheeler mechanic workshop from the 1950s <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Zweiradmechanikerwerkstatt_-_Deutsches_Museum_Verkehrszentrum.JPG#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "Taken on 13 February 2009, 11:56:36 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\">Self-photographed</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mattes\" title=\"User:Mattes\">Mattes</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Zweiradmechanikerwerkstatt_-_Deutsches_Museum_Verkehrszentrum.JPG#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "32167911": {
+          "pageid": 32167911,
+          "ns": 6,
+          "title": "File:Ben's Bikes, Namibia (10676977646).jpg",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 933029,
+              "width": 2692,
+              "height": 4152,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Ben%27s_Bikes%2C_Namibia_%2810676977646%29.jpg/1920px-Ben%27s_Bikes%2C_Namibia_%2810676977646%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 2369,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Ben%27s_Bikes%2C_Namibia_%2810676977646%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Ben%27s_Bikes%2C_Namibia_%2810676977646%29.jpg/1920px-Ben%27s_Bikes%2C_Namibia_%2810676977646%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 2369,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Ben%27s_Bikes%2C_Namibia_%2810676977646%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Ben%27s_Bikes%2C_Namibia_%2810676977646%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ben%27s_Bikes,_Namibia_(10676977646).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=32167911",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2014-04-14 07:02:52",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Ben's Bikes, Namibia (10676977646)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Taken with Canon EOS 5D|Bicycle repair|Personality rights warning|Women of Namibia|Photographs by the Australian Department of Foreign Affairs and Trade|Flickr images reviewed by FlickreviewR|Flickr images missing SDC creator|Bicycles in Namibia|Bicycle maintenance|Flickr images missing SDC published in",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Members of Ben's Bikes,  an NGO set up by an Australian to assist women who were prostitutes find jobs, demonstrate how to mend a bike in the workshop where they work  after the visit of Ms Quentin Bryce AC, Governor General of Australia, Windhoek, Namibia on the 19th March, 2009. This is the first ever official visit of an Australian head of State to Southern and Eastern Africa.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2009-03-19 17:48",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/dfataustralianaid/10676977646/\">Ben's Bikes, Namibia</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Kate Holt/AusAID",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "Kate Holt/AusAID",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "personality",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "32167914": {
+          "pageid": 32167914,
+          "ns": 6,
+          "title": "File:Ben's Bikes, Namibia (10677004674).jpg",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1040012,
+              "width": 4137,
+              "height": 2710,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Ben%27s_Bikes%2C_Namibia_%2810677004674%29.jpg/1920px-Ben%27s_Bikes%2C_Namibia_%2810677004674%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1006,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Ben%27s_Bikes%2C_Namibia_%2810677004674%29.jpg/3840px-Ben%27s_Bikes%2C_Namibia_%2810677004674%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Ben%27s_Bikes%2C_Namibia_%2810677004674%29.jpg/1920px-Ben%27s_Bikes%2C_Namibia_%2810677004674%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1006,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Ben%27s_Bikes%2C_Namibia_%2810677004674%29.jpg/3840px-Ben%27s_Bikes%2C_Namibia_%2810677004674%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Ben%27s_Bikes%2C_Namibia_%2810677004674%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ben%27s_Bikes,_Namibia_(10677004674).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=32167914",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2014-04-14 07:02:54",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Ben's Bikes, Namibia (10677004674)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Taken with Canon EOS 5D|Bicycle repair|Personality rights warning|Women of Namibia|Photographs by the Australian Department of Foreign Affairs and Trade|Flickr images reviewed by FlickreviewR|Flickr images missing SDC creator|Flickr images missing SDC published in",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "A member of Ben's Bikes,  an NGO set up by an Australian to assist women who were prostitutes find jobs, stands against a pile of Bikes in the workshop where she works after the visit of Ms Quentin Bryce AC, Governor General of Australia, Windhoek, Namibia on the 19th March, 2009. This is the first ever official visit of an Australian head of State to Southern and Eastern Africa.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2009-03-19 17:47",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/dfataustralianaid/10677004674/\">Ben's Bikes, Namibia</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Kate Holt/AusAID",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "Kate Holt/AusAID",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "personality",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "32167917": {
+          "pageid": 32167917,
+          "ns": 6,
+          "title": "File:Ben's Bikes, Namibia (10676993974).jpg",
+          "index": 6,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1054716,
+              "width": 2912,
+              "height": 4368,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Ben%27s_Bikes%2C_Namibia_%2810676993974%29.jpg/1920px-Ben%27s_Bikes%2C_Namibia_%2810676993974%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 2304,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Ben%27s_Bikes%2C_Namibia_%2810676993974%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Ben%27s_Bikes%2C_Namibia_%2810676993974%29.jpg/1920px-Ben%27s_Bikes%2C_Namibia_%2810676993974%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 2304,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Ben%27s_Bikes%2C_Namibia_%2810676993974%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Ben%27s_Bikes%2C_Namibia_%2810676993974%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ben%27s_Bikes,_Namibia_(10676993974).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=32167917",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2014-04-14 07:02:55",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Ben's Bikes, Namibia (10676993974)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Taken with Canon EOS 5D|Bicycle repair|Personality rights warning|Women of Namibia|Photographs by the Australian Department of Foreign Affairs and Trade|Flickr images reviewed by FlickreviewR|Flickr images missing SDC creator|Flickr images missing SDC published in",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Members of Ben's Bikes,  an NGO set up by an Australian to assist women who were prostitutes find jobs, demonstrate how to mend a bike in the workshop where they work  after the visit of Ms Quentin Bryce AC, Governor General of Australia, Windhoek, Namibia on the 19th March, 2009. This is the first ever official visit of an Australian head of State to Southern and Eastern Africa.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2009-03-19 17:47",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/dfataustralianaid/10676993974/\">Ben's Bikes, Namibia</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Kate Holt/AusAID",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "Kate Holt/AusAID",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "personality",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "81236753": {
+          "pageid": 81236753,
+          "ns": 6,
+          "title": "File:Atelier vélo Ballenberg.jpg",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 11509123,
+              "width": 4887,
+              "height": 3514,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Atelier_v%C3%A9lo_Ballenberg.jpg/1920px-Atelier_v%C3%A9lo_Ballenberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1104,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Atelier_v%C3%A9lo_Ballenberg.jpg/3840px-Atelier_v%C3%A9lo_Ballenberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Atelier_v%C3%A9lo_Ballenberg.jpg/1920px-Atelier_v%C3%A9lo_Ballenberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1104,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Atelier_v%C3%A9lo_Ballenberg.jpg/3840px-Atelier_v%C3%A9lo_Ballenberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Atelier_v%C3%A9lo_Ballenberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Atelier_v%C3%A9lo_Ballenberg.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81236753",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2019-08-11 12:44:33",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Atelier vélo Ballenberg",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Bicycle repair shops|Self-published work|Switzerland photographs taken on 2019-07-24|Files with coordinates missing SDC location of creation|Ballenberg building interiors|Rusty bicycles|Ballenberg 741 - Farmhouse from Escholzmatt",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "46.748371",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "8.087113",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Reconstruction of a bicycle workshop at the open-air museum Ballenberg (canton of Bern, Switzerland), in a farmhouse coming from Escholzmatt (canton of Luzern).",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2019-07-24 14:23:38",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Gzzz\" title=\"User:Gzzz\">Gzzz</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "86463586": {
+          "pageid": 86463586,
+          "ns": 6,
+          "title": "File:ASC Leiden - NSAG - van Es 2 - 016 - Three young black men are standing in front of a bicycle shop - Kampala, Uganda - 29-11-1961 - 4-12-1961.tif",
+          "index": 9,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 91814152,
+              "width": 6840,
+              "height": 4473,
+              "pagecount": 1,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/ASC_Leiden_-_NSAG_-_van_Es_2_-_016_-_Three_young_black_men_are_standing_in_front_of_a_bicycle_shop_-_Kampala%2C_Uganda_-_29-11-1961_-_4-12-1961.tif/lossy-page1-1920px-ASC_Leiden_-_NSAG_-_van_Es_2_-_016_-_Three_young_black_men_are_standing_in_front_of_a_bicycle_shop_-_Kampala%2C_Uganda_-_29-11-1961_-_4-12-1961.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1004,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/ASC_Leiden_-_NSAG_-_van_Es_2_-_016_-_Three_young_black_men_are_standing_in_front_of_a_bicycle_shop_-_Kampala%2C_Uganda_-_29-11-1961_-_4-12-1961.tif/lossy-page1-3840px-ASC_Leiden_-_NSAG_-_van_Es_2_-_016_-_Three_young_black_men_are_standing_in_front_of_a_bicycle_shop_-_Kampala%2C_Uganda_-_29-11-1961_-_4-12-1961.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/ASC_Leiden_-_NSAG_-_van_Es_2_-_016_-_Three_young_black_men_are_standing_in_front_of_a_bicycle_shop_-_Kampala%2C_Uganda_-_29-11-1961_-_4-12-1961.tif/lossy-page1-1920px-ASC_Leiden_-_NSAG_-_van_Es_2_-_016_-_Three_young_black_men_are_standing_in_front_of_a_bicycle_shop_-_Kampala%2C_Uganda_-_29-11-1961_-_4-12-1961.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1004,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/ASC_Leiden_-_NSAG_-_van_Es_2_-_016_-_Three_young_black_men_are_standing_in_front_of_a_bicycle_shop_-_Kampala%2C_Uganda_-_29-11-1961_-_4-12-1961.tif/lossy-page1-3840px-ASC_Leiden_-_NSAG_-_van_Es_2_-_016_-_Three_young_black_men_are_standing_in_front_of_a_bicycle_shop_-_Kampala%2C_Uganda_-_29-11-1961_-_4-12-1961.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/ASC_Leiden_-_NSAG_-_van_Es_2_-_016_-_Three_young_black_men_are_standing_in_front_of_a_bicycle_shop_-_Kampala%2C_Uganda_-_29-11-1961_-_4-12-1961.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_NSAG_-_van_Es_2_-_016_-_Three_young_black_men_are_standing_in_front_of_a_bicycle_shop_-_Kampala,_Uganda_-_29-11-1961_-_4-12-1961.tif",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=86463586",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-01-31 11:33:52",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "ASC Leiden - NSAG - van Es 2 - 016 - Three young black men are standing in front of a bicycle shop - Kampala, Uganda - 29-11-1961 - 4-12-1961",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "GFDL|Images from the African Studies Centre (Leiden)|Uploaded with pattypan|License migration redundant|Self-published work|Items with VRTS permission confirmed|NSAG - van Es 2|Images donated by the NSAG|Shops in Kampala|1961 in Kampala",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q77084093\" class=\"extiw\" title=\"d:Q77084093\"><span title=\"medical professor at Leiden University\">Leendert Adriaan van Es</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "Three young black men are standing in front of a shop with a corrugated iron roof. The store sells bicycle tires, ABUS locks, woven baskets and rolled up wicker mats. Parked bicycles with hand brakes. Advertising boards with inscriptions \"Lumala\" (bicycle brand from Sri Lanka) and \"Sanyos\". Probably a workshop for repairing bicycles. In the background another store with stacked cups and saucers and advertising for \"Aspro\".",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "29-11-1961 - 4-12-1961",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "NSAG collection. Nederlands Studenten Afrika Gezelschap. 4 1-3 Collectie 4 Van Es - Crebolder - van Dis",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "You may select the license of your choice.",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "L.A. van Es",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "86463592": {
+          "pageid": 86463592,
+          "ns": 6,
+          "title": "File:ASC Leiden - NSAG - van Es 2 - 017 - Three young black men are standing in front of a bicycle shop - Kampala, Uganda - 29-11-1961 - 4-12-1961.tif",
+          "index": 8,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 92324568,
+              "width": 6878,
+              "height": 4473,
+              "pagecount": 1,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/ASC_Leiden_-_NSAG_-_van_Es_2_-_017_-_Three_young_black_men_are_standing_in_front_of_a_bicycle_shop_-_Kampala%2C_Uganda_-_29-11-1961_-_4-12-1961.tif/lossy-page1-1920px-ASC_Leiden_-_NSAG_-_van_Es_2_-_017_-_Three_young_black_men_are_standing_in_front_of_a_bicycle_shop_-_Kampala%2C_Uganda_-_29-11-1961_-_4-12-1961.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 999,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/ASC_Leiden_-_NSAG_-_van_Es_2_-_017_-_Three_young_black_men_are_standing_in_front_of_a_bicycle_shop_-_Kampala%2C_Uganda_-_29-11-1961_-_4-12-1961.tif/lossy-page1-3840px-ASC_Leiden_-_NSAG_-_van_Es_2_-_017_-_Three_young_black_men_are_standing_in_front_of_a_bicycle_shop_-_Kampala%2C_Uganda_-_29-11-1961_-_4-12-1961.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/ASC_Leiden_-_NSAG_-_van_Es_2_-_017_-_Three_young_black_men_are_standing_in_front_of_a_bicycle_shop_-_Kampala%2C_Uganda_-_29-11-1961_-_4-12-1961.tif/lossy-page1-1920px-ASC_Leiden_-_NSAG_-_van_Es_2_-_017_-_Three_young_black_men_are_standing_in_front_of_a_bicycle_shop_-_Kampala%2C_Uganda_-_29-11-1961_-_4-12-1961.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 999,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/ASC_Leiden_-_NSAG_-_van_Es_2_-_017_-_Three_young_black_men_are_standing_in_front_of_a_bicycle_shop_-_Kampala%2C_Uganda_-_29-11-1961_-_4-12-1961.tif/lossy-page1-3840px-ASC_Leiden_-_NSAG_-_van_Es_2_-_017_-_Three_young_black_men_are_standing_in_front_of_a_bicycle_shop_-_Kampala%2C_Uganda_-_29-11-1961_-_4-12-1961.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/ASC_Leiden_-_NSAG_-_van_Es_2_-_017_-_Three_young_black_men_are_standing_in_front_of_a_bicycle_shop_-_Kampala%2C_Uganda_-_29-11-1961_-_4-12-1961.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_NSAG_-_van_Es_2_-_017_-_Three_young_black_men_are_standing_in_front_of_a_bicycle_shop_-_Kampala,_Uganda_-_29-11-1961_-_4-12-1961.tif",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=86463592",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-01-31 11:35:07",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "ASC Leiden - NSAG - van Es 2 - 017 - Three young black men are standing in front of a bicycle shop - Kampala, Uganda - 29-11-1961 - 4-12-1961",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "GFDL|Images from the African Studies Centre (Leiden)|Uploaded with pattypan|License migration redundant|Self-published work|Items with VRTS permission confirmed|NSAG - van Es 2|Images donated by the NSAG|Shops in Kampala|1961 in Kampala",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q77084093\" class=\"extiw\" title=\"d:Q77084093\"><span title=\"medical professor at Leiden University\">Leendert Adriaan van Es</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "Three young black men are standing in front of a shop with a corrugated iron roof. The store sells bicycle tires, ABUS locks, woven baskets and rolled up wicker mats. Parked bicycles with hand brakes. Advertising boards with inscriptions \"Lumala\" (bicycle brand from Sri Lanka) and \"Sanyos\". Probably a workshop for repairing bicycles. In the background another store with stacked cups and saucers and advertising for \"Aspro\".",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "29-11-1961 - 4-12-1961",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "NSAG collection. Nederlands Studenten Afrika Gezelschap. 4 1-3 Collectie 4 Van Es - Crebolder - van Dis",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "You may select the license of your choice.",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "L.A. van Es",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "107955681": {
+          "pageid": 107955681,
+          "ns": 6,
+          "title": "File:Bike repair oils grease cleaners and tyre sealant.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 713676,
+              "width": 4000,
+              "height": 2667,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Bike_repair_oils_grease_cleaners_and_tyre_sealant.jpg/1920px-Bike_repair_oils_grease_cleaners_and_tyre_sealant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1024,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Bike_repair_oils_grease_cleaners_and_tyre_sealant.jpg/3840px-Bike_repair_oils_grease_cleaners_and_tyre_sealant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Bike_repair_oils_grease_cleaners_and_tyre_sealant.jpg/1920px-Bike_repair_oils_grease_cleaners_and_tyre_sealant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1024,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Bike_repair_oils_grease_cleaners_and_tyre_sealant.jpg/3840px-Bike_repair_oils_grease_cleaners_and_tyre_sealant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Bike_repair_oils_grease_cleaners_and_tyre_sealant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bike_repair_oils_grease_cleaners_and_tyre_sealant.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=107955681",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-07-28 14:21:52",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Bike repair oils grease cleaners and tyre sealant",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Lubricants|Oilers|Self-published work|Bicycle maintenance",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "A photograph showing a selection of oils, bike grease and cleaners at a bicycle repair workshop. \nWe've released this image under  Creative Commons Attribution Licensing. This means you have our permission to use it in any way you like. But we do ask that you credit us anytime you use the image, by providing a link to our website: <a rel=\"nofollow\" class=\"external free\" href=\"http://www.tredz.co.uk\">http://www.tredz.co.uk</a>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2021-06-04 11:47:58",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Alextredz&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Alextredz (page does not exist)\">Alextredz</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "125430346": {
+          "pageid": 125430346,
+          "ns": 6,
+          "title": "File:-2022-11-05 Former bicycle shop, Redenhall Road, The Thoroughfare, Harleston, Norfolk.jpg",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 356146,
+              "width": 1600,
+              "height": 1064,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/-2022-11-05_Former_bicycle_shop%2C_Redenhall_Road%2C_The_Thoroughfare%2C_Harleston%2C_Norfolk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 1536,
+              "thumbheight": 1021,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/-2022-11-05_Former_bicycle_shop%2C_Redenhall_Road%2C_The_Thoroughfare%2C_Harleston%2C_Norfolk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1021
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/-2022-11-05_Former_bicycle_shop%2C_Redenhall_Road%2C_The_Thoroughfare%2C_Harleston%2C_Norfolk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:-2022-11-05_Former_bicycle_shop,_Redenhall_Road,_The_Thoroughfare,_Harleston,_Norfolk.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=125430346",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-03-10 18:19:51",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "-2022-11-05 Former bicycle shop, Redenhall Road, The Thoroughfare, Harleston, Norfolk",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Cyclists' Touring Club|Images from Geograph Britain and Ireland|Information field template with formatting|November 2022 in Norfolk, England|United Kingdom photographs taken on 2022-11-05|Redenhall Road, Harleston|Norfolk images by Christopher Hilton|Shops in Harleston",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "52.403906",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "1.301115",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Former bicycle shop, Redenhall Road. The roundel on the first floor is that of the Cyclists' Touring Club. In the late 19th and early 20th century the CTC used these to indicate premises that were welcoming to \"wheelmen\". In general these were pubs and hotels, but in this case there is a small curved bar around the top of the standard logo in which the text \"Repairer to\" indicates that this housed a cycle workshop. It is located in the town of <a href=\"https://en.wikipedia.org/wiki/Harleston,_Norfolk\" class=\"extiw\" title=\"w:Harleston, Norfolk\">Harleston, Norfolk</a>, England.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "Taken on 5 November 2022",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "From <a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/7333023\">geograph.org.uk</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/48366\">Christopher Hilton</a>",
+                  "source": "commons-desc-page"
+                },
+                "Attribution": {
+                  "value": "Christopher Hilton",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "184528928": {
+          "pageid": 184528928,
+          "ns": 6,
+          "title": "File:Photograph of a man engaging haphazardly in welding or brazing work on the side of a busy road in Amritsar, Punjab, India, 8 April 2023.jpg",
+          "index": 7,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 7933687,
+              "width": 6000,
+              "height": 4000,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Photograph_of_a_man_engaging_haphazardly_in_welding_or_brazing_work_on_the_side_of_a_busy_road_in_Amritsar%2C_Punjab%2C_India%2C_8_April_2023.jpg/1920px-Photograph_of_a_man_engaging_haphazardly_in_welding_or_brazing_work_on_the_side_of_a_busy_road_in_Amritsar%2C_Punjab%2C_India%2C_8_April_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1024,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Photograph_of_a_man_engaging_haphazardly_in_welding_or_brazing_work_on_the_side_of_a_busy_road_in_Amritsar%2C_Punjab%2C_India%2C_8_April_2023.jpg/3840px-Photograph_of_a_man_engaging_haphazardly_in_welding_or_brazing_work_on_the_side_of_a_busy_road_in_Amritsar%2C_Punjab%2C_India%2C_8_April_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Photograph_of_a_man_engaging_haphazardly_in_welding_or_brazing_work_on_the_side_of_a_busy_road_in_Amritsar%2C_Punjab%2C_India%2C_8_April_2023.jpg/1920px-Photograph_of_a_man_engaging_haphazardly_in_welding_or_brazing_work_on_the_side_of_a_busy_road_in_Amritsar%2C_Punjab%2C_India%2C_8_April_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1024,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Photograph_of_a_man_engaging_haphazardly_in_welding_or_brazing_work_on_the_side_of_a_busy_road_in_Amritsar%2C_Punjab%2C_India%2C_8_April_2023.jpg/3840px-Photograph_of_a_man_engaging_haphazardly_in_welding_or_brazing_work_on_the_side_of_a_busy_road_in_Amritsar%2C_Punjab%2C_India%2C_8_April_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Photograph_of_a_man_engaging_haphazardly_in_welding_or_brazing_work_on_the_side_of_a_busy_road_in_Amritsar%2C_Punjab%2C_India%2C_8_April_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Photograph_of_a_man_engaging_haphazardly_in_welding_or_brazing_work_on_the_side_of_a_busy_road_in_Amritsar,_Punjab,_India,_8_April_2023.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=184528928",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2026-02-20 01:04:12",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Photograph of a man engaging haphazardly in welding or brazing work on the side of a busy road in Amritsar, Punjab, India, 8 April 2023",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|Images from Wiki Loves Punjab 2026|Uploaded via Campaign:Wiki Loves Punjab 2026",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Photograph of a man engaging haphazardly in welding or brazing work on the side of a busy road in Amritsar, Punjab, India, 8 April 2023 (time is per Eastern Standard Time for Ontario, Canada as I forgot to change the time-setting on my camera before setting-off on my trip to India).\n\nHe is using a blowtorch (connected to the blue and red hoses for oxygen and fuel gas) to apply intense heat to a specific point on the metal. You can see the bright blue flame and the glowing orange \"hot spot\" where he is working. Beside him are various hammers and metalworking tools, which he uses to shape or flatten the metal while it is malleable from the heat. He has a stack of finished or pending metal hoops (possibly bicycle rims or cooling fan guards) sitting behind him. This appears to be a small, roadside metal repair shop or workshop, common in many parts of India. Essentially, he is a blacksmith or metal fabricator engaged in manual repair or production work.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2023-04-08 03:59:59",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:MaplesyrupSushi\" title=\"User:MaplesyrupSushi\">MaplesyrupSushi</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,7 +1,41 @@
 node_modules/
 .next/
+.next-research/
 out/
 *.tsbuildinfo
 test-results/
+research-test-results/
 playwright-report/
 .env*
+.cloud-ai/
+companion-dist/
+**/__pycache__/
+
+# Reproducible optional companion dependencies; source/manifests/licenses remain.
+/companion/vendor/
+/.venv/
+/venv/
+/.pytest_cache/
+*.py[cod]
+
+# Local research downloads: keep manifests, configuration, source and notices.
+/research/assets/**/*.onnx
+/research/assets/**/*.gguf
+/research/assets/**/*.safetensors
+/research/assets/**/*.pth
+/research/assets/**/*.pth.tar
+/research/assets/**/*.bin
+/research/assets/**/*.wasm
+/research/assets/ai/runtime/*.mjs
+/research/assets/**/tokenizer.json
+
+# Individual Flickr rights are unresolved; retain originals locally for history.
+/tests/fixtures/readiness/coco-*.jpg
+
+# Reproducible image-embedded worksheet and redundant evidence archive.
+/docs/phase-03/evidence/qwen/resolution/human-review.html
+/docs/phase-03/evidence/final.zip
+
+# Documentation-example photos lack independently verified redistribution rights.
+/tests/fixtures/tiger.jpg
+/tests/fixtures/evaluation/cats.jpg

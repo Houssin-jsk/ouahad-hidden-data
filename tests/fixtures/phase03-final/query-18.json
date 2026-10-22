@@ -1,0 +1,435 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "24920351": {
+        "pageid": 24920351,
+        "ns": 6,
+        "title": "File:Old grey palm tree trunk closeup.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1481751,
+            "width": 2304,
+            "height": 1728,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Old_grey_palm_tree_trunk_closeup.jpg/960px-Old_grey_palm_tree_trunk_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Old_grey_palm_tree_trunk_closeup.jpg/1920px-Old_grey_palm_tree_trunk_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Old_grey_palm_tree_trunk_closeup.jpg/960px-Old_grey_palm_tree_trunk_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Old_grey_palm_tree_trunk_closeup.jpg/1920px-Old_grey_palm_tree_trunk_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Old_grey_palm_tree_trunk_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Old_grey_palm_tree_trunk_closeup.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24920351",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-03-01 06:10:02",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Old grey palm tree trunk closeup",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-author|Images uploaded by Fæ|Public-domain-image.com|Public-domain-image.com (check needed)|Media needing category review as of 11 October 2013|Arecales trunks|Bark textures",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<br>\n<dl><dd>Image title: Old grey palm tree trunk closeup</dd>\n<dd>Image from Public domain images website, <a rel=\"nofollow\" class=\"external free\" href=\"http://www.public-domain-image.com/full-image/textures-and-patterns-public-domain-images-pictures/tree-bark-cortex-public-domain-images-pictures/old-grey-palm-tree-trunk-closeup.jpg.html\">http://www.public-domain-image.com/full-image/textures-and-patterns-public-domain-images-pictures/tree-bark-cortex-public-domain-images-pictures/old-grey-palm-tree-trunk-closeup.jpg.html</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "<p>Not given\n</p>\n<ul><li>Transferred by <a href=\"//commons.wikimedia.org/wiki/User:F%C3%A6\" title=\"User:Fæ\">Fæ</a> on 2013-03-01</li></ul>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.public-domain-image.com/public-domain-images-pictures-free-stock-photos/textures-and-patterns-public-domain-images-pictures/tree-bark-cortex-public-domain-images-pictures/old-grey-palm-tree-trunk-closeup.jpg\">http://www.public-domain-image.com/public-domain-images-pictures-free-stock-photos/textures-and-patterns-public-domain-images-pictures/tree-bark-cortex-public-domain-images-pictures/old-grey-palm-tree-trunk-closeup.jpg</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Titus Tscharntke",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "This file is in public domain, not copyrighted, no rights reserved, free for any use. You can use this picture for any use including commercial purposes without the prior written permission and without fee or obligation.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "24920353": {
+        "pageid": 24920353,
+        "ns": 6,
+        "title": "File:Old grey palm tree trunk closeup pattern.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2125338,
+            "width": 3072,
+            "height": 2304,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Old_grey_palm_tree_trunk_closeup_pattern.jpg/960px-Old_grey_palm_tree_trunk_closeup_pattern.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Old_grey_palm_tree_trunk_closeup_pattern.jpg/1920px-Old_grey_palm_tree_trunk_closeup_pattern.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Old_grey_palm_tree_trunk_closeup_pattern.jpg/960px-Old_grey_palm_tree_trunk_closeup_pattern.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Old_grey_palm_tree_trunk_closeup_pattern.jpg/1920px-Old_grey_palm_tree_trunk_closeup_pattern.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Old_grey_palm_tree_trunk_closeup_pattern.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Old_grey_palm_tree_trunk_closeup_pattern.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24920353",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-03-01 06:10:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Old grey palm tree trunk closeup pattern",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-author|Images uploaded by Fæ|Public-domain-image.com|Public-domain-image.com (check needed)|Media needing category review as of 11 October 2013|Arecales trunks|Bark textures",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<br>\n<dl><dd>Image title: Old grey palm tree trunk closeup pattern</dd>\n<dd>Image from Public domain images website, <a rel=\"nofollow\" class=\"external free\" href=\"http://www.public-domain-image.com/full-image/textures-and-patterns-public-domain-images-pictures/tree-bark-cortex-public-domain-images-pictures/old-grey-palm-tree-trunk-closeup-pattern.jpg.html\">http://www.public-domain-image.com/full-image/textures-and-patterns-public-domain-images-pictures/tree-bark-cortex-public-domain-images-pictures/old-grey-palm-tree-trunk-closeup-pattern.jpg.html</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "<p>Not given\n</p>\n<ul><li>Transferred by <a href=\"//commons.wikimedia.org/wiki/User:F%C3%A6\" title=\"User:Fæ\">Fæ</a> on 2013-03-01</li></ul>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.public-domain-image.com/public-domain-images-pictures-free-stock-photos/textures-and-patterns-public-domain-images-pictures/tree-bark-cortex-public-domain-images-pictures/old-grey-palm-tree-trunk-closeup-pattern.jpg\">http://www.public-domain-image.com/public-domain-images-pictures-free-stock-photos/textures-and-patterns-public-domain-images-pictures/tree-bark-cortex-public-domain-images-pictures/old-grey-palm-tree-trunk-closeup-pattern.jpg</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Titus Tscharntke",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "This file is in public domain, not copyrighted, no rights reserved, free for any use. You can use this picture for any use including commercial purposes without the prior written permission and without fee or obligation.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "24920357": {
+        "pageid": 24920357,
+        "ns": 6,
+        "title": "File:Old tree closeup.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 604560,
+            "width": 1600,
+            "height": 1200,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Old_tree_closeup.jpg/960px-Old_tree_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Old_tree_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Old_tree_closeup.jpg/960px-Old_tree_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Old_tree_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Old_tree_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Old_tree_closeup.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24920357",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-03-01 06:10:40",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Old tree closeup",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-author|Images uploaded by Fæ|Public-domain-image.com|Public-domain-image.com (check needed)|Bark textures",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<br>\n<dl><dd>Image title: Old tree closeup</dd>\n<dd>Image from Public domain images website, <a rel=\"nofollow\" class=\"external free\" href=\"http://www.public-domain-image.com/full-image/textures-and-patterns-public-domain-images-pictures/tree-bark-cortex-public-domain-images-pictures/old-tree-closeup.jpg.html\">http://www.public-domain-image.com/full-image/textures-and-patterns-public-domain-images-pictures/tree-bark-cortex-public-domain-images-pictures/old-tree-closeup.jpg.html</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "<p>Not given\n</p>\n<ul><li>Transferred by <a href=\"//commons.wikimedia.org/wiki/User:F%C3%A6\" title=\"User:Fæ\">Fæ</a> on 2013-03-01</li></ul>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.public-domain-image.com/public-domain-images-pictures-free-stock-photos/textures-and-patterns-public-domain-images-pictures/tree-bark-cortex-public-domain-images-pictures/old-tree-closeup.jpg\">http://www.public-domain-image.com/public-domain-images-pictures-free-stock-photos/textures-and-patterns-public-domain-images-pictures/tree-bark-cortex-public-domain-images-pictures/old-tree-closeup.jpg</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Dusan Bicanski",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "This file is in public domain, not copyrighted, no rights reserved, free for any use. You can use this picture for any use including commercial purposes without the prior written permission and without fee or obligation.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "24920358": {
+        "pageid": 24920358,
+        "ns": 6,
+        "title": "File:Old wood tree trunk closeup.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 374372,
+            "width": 1280,
+            "height": 960,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Old_wood_tree_trunk_closeup.jpg/960px-Old_wood_tree_trunk_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/7/76/Old_wood_tree_trunk_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Old_wood_tree_trunk_closeup.jpg/960px-Old_wood_tree_trunk_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/76/Old_wood_tree_trunk_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Old_wood_tree_trunk_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Old_wood_tree_trunk_closeup.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24920358",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-03-01 06:10:49",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Old wood tree trunk closeup",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-author|Images uploaded by Fæ|Wood textures|Public-domain-image.com|Public-domain-image.com (check needed)|Media needing category review as of 11 October 2013",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<br>\n<dl><dd>Image title: Old wood tree trunk closeup</dd>\n<dd>Image from Public domain images website, <a rel=\"nofollow\" class=\"external free\" href=\"https://www.public-domain-image.com/full-image/textures-and-patterns-public-domain-images-pictures/tree-bark-cortex-public-domain-images-pictures/old-wood-tree-trunk-closeup.jpg.html\">https://www.public-domain-image.com/full-image/textures-and-patterns-public-domain-images-pictures/tree-bark-cortex-public-domain-images-pictures/old-wood-tree-trunk-closeup.jpg.html</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "<p>Not given\n</p>\n<ul><li>Transferred by <a href=\"//commons.wikimedia.org/wiki/User:F%C3%A6\" title=\"User:Fæ\">Fæ</a> on 2013-03-01</li></ul>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.public-domain-image.com/public-domain-images-pictures-free-stock-photos/textures-and-patterns-public-domain-images-pictures/tree-bark-cortex-public-domain-images-pictures/old-wood-tree-trunk-closeup.jpg\">https://www.public-domain-image.com/public-domain-images-pictures-free-stock-photos/textures-and-patterns-public-domain-images-pictures/tree-bark-cortex-public-domain-images-pictures/old-wood-tree-trunk-closeup.jpg</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Titus Tscharntke",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "This file is in public domain, not copyrighted, no rights reserved, free for any use. You can use this picture for any use including commercial purposes without the prior written permission and without fee or obligation.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

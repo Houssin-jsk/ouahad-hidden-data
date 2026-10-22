@@ -1,0 +1,2010 @@
+{
+  "date": "2026-10-22",
+  "realInference": true,
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "fixture": "synthetic black/white/gray/red quadrants",
+  "image": {
+    "width": 40,
+    "height": 24,
+    "bytes": 546
+  },
+  "elapsedMs": 6863,
+  "response": {
+    "observations": {
+      "description": "An image divided into four quadrants displaying different solid colors.",
+      "observations": [
+        "The top left quadrant is black.",
+        "The top right quadrant is white.",
+        "The bottom left quadrant is grey.",
+        "The bottom right quadrant is red."
+      ],
+      "limitations": [
+        "This is an AI interpretation that may contain mistakes regarding exact color shades."
+      ]
+    },
+    "usage": {
+      "inputTokens": 1213,
+      "outputTokens": 97
+    }
+  },
+  "billingSafety": "UNVERIFIED: key cannot establish project billing tier; production remains disabled",
+  "grounding": "EXPERIMENTAL: synthetic smoke is not held-out quality qualification",
+  "eligibilityChecks": {
+    "gemini": {
+      "modelDiscoveryHttp": 200,
+      "accountBilling": "unverified",
+      "accountFreeQuotaRemaining": "unverified"
+    },
+    "nvidia": {
+      "modelsHttp": 200,
+      "productionEligible": false,
+      "inferenceAttempted": false,
+      "reason": "Hosted developer access is not for production end-users"
+    },
+    "cloudflare": {
+      "tokenVerificationHttp": 200,
+      "tokenStatus": "active",
+      "modelDiscoveryHttp": 200,
+      "subscriptionsHttp": 403,
+      "d1ListingHttp": 401,
+      "accountBilling": "unverified",
+      "inferenceAttempted": false
+    }
+  },
+  "genuineRequestOutcomes": [
+    {
+      "model": "gemini-2.5-flash-lite",
+      "http": 404,
+      "inference": false
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "http": 200,
+      "task": "synthetic red PNG",
+      "observation": "This image is a solid block of bright red.",
+      "inputTokens": 1099,
+      "outputTokens": 10
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "http": 400,
+      "inference": false,
+      "reason": "Unsupported response_schema.additionalProperties"
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "http": 400,
+      "inference": false,
+      "reason": "Diagnostic confirmation of same schema issue"
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "http": 200,
+      "task": "structured adapter on synthetic quadrants",
+      "details": "response field above"
+    }
+  ],
+  "verification": {
+    "unit": {
+      "passed": 116,
+      "failed": 0,
+      "cloudTests": 29
+    },
+    "typecheck": "PASS",
+    "lint": "PASS",
+    "build": "PASS",
+    "releaseIsolation": {
+      "passed": true,
+      "inspectedOutputFiles": 88,
+      "modelsBundled": false,
+      "companionBundled": false
+    },
+    "secretAudit": {
+      "historyBlobs": 54,
+      "workingFiles": 752,
+      "findings": 0,
+      "scope": "Configured values and common key patterns; not exhaustive for past unknown formats"
+    },
+    "browserInitial": {
+      "passed": 46,
+      "failed": 8,
+      "workers": 6,
+      "notes": "3 cloud-test expectation/locator errors; 5 pre-existing strict timing assertions failed under parallel resource pressure"
+    },
+    "browserFinal": {
+      "command": "npm run test:browser -- tests/browser/cloud-vision.spec.ts --workers=1",
+      "passed": 6,
+      "failed": 0,
+      "durationSeconds": 52,
+      "notes": "Explicitly wait for intercepted upload capture. All 6 Cloud AI cases pass. Combined with the unchanged 50 baseline passes, all 56 cases passed across the full and focused runs. There was no final clean single-run 56/56 result."
+    },
+    "browserFullSingleWorker": {
+      "passed": 55,
+      "failed": 1,
+      "total": 56,
+      "workers": 1,
+      "durationSeconds": 540,
+      "notes": "All 50 pre-existing cases passed. One new timeout test had a capture race in its test harness; no application failure or code fix."
+    }
+  },
+  "finalization": {
+    "date": "2026-10-22",
+    "status": {
+      "engineering": "BLOCKED",
+      "costSafety": "BLOCKED",
+      "productionReadiness": "BLOCKED",
+      "phase04": "NO",
+      "grounding": "EXPERIMENTAL"
+    },
+    "enabledProductionModels": [],
+    "routingOrder": [
+      "gemini-3.5-flash-lite",
+      "gemini-3.1-flash-lite",
+      "@cf/meta/llama-3.2-11b-vision-instruct",
+      "meta/llama-3.2-11b-vision-instruct"
+    ],
+    "modelDiscovery": [
+      {
+        "model": "gemini-3.5-flash-lite",
+        "http": 200,
+        "generateContent": true,
+        "inputTokens": 1048576,
+        "outputTokens": 65536,
+        "imageInput": "official model reference and prior real primary smoke"
+      },
+      {
+        "model": "gemini-3.1-flash-lite",
+        "http": 200,
+        "generateContent": true,
+        "inputTokens": 1048576,
+        "outputTokens": 65536,
+        "imageInput": "official model reference; actual model smoke still required"
+      }
+    ],
+    "ownerReportedAccountCeilings": {
+      "source": "Current user brief: owner AI Studio rate-limit inspection, not a balance or billing API",
+      "gemini-3.5-flash-lite": {
+        "rpm": 15,
+        "tpm": 250000,
+        "rpd": 500
+      },
+      "gemini-3.1-flash-lite": {
+        "rpm": 15,
+        "tpm": 250000,
+        "rpd": 500
+      },
+      "priorPrimaryDailyUsage": 2,
+      "remainingProviderBalance": "unknown"
+    },
+    "internalPolicy": {
+      "modelDaily": 300,
+      "modelRpm": 10,
+      "modelTpm": 200000,
+      "sharedProjectDaily": 300,
+      "sharedProjectRpm": 10,
+      "sharedProjectTpm": 200000,
+      "sharedProjectDailyTokens": 1000000,
+      "tokenReservationPerAttempt": 4096,
+      "globalAcceptedActionsPerUtcDay": 60,
+      "globalAcceptedActionsPerRollingMinute": 6,
+      "globalConcurrency": 2,
+      "participantDaily": 3,
+      "participantMinute": 1,
+      "cloudflareAllocation": 0,
+      "nvidiaAllocation": 0,
+      "defaultEmergencyStop": true,
+      "refundsAfterUncertainOutcome": false
+    },
+    "database": {
+      "selected": "Cloudflare D1 / verified Workers Free only",
+      "connected": false,
+      "created": false,
+      "workersAiTokenD1DiscoveryHttp": 401,
+      "workersAiTokenSubscriptionHttp": 403,
+      "dedicatedCredentialRequired": "CLOUD_AI_D1_API_TOKEN",
+      "remoteAtomicProbe": "NOT RUN: verified configuration unavailable",
+      "alternativeEvaluated": "Upstash Free; unclaimed starter expires after 3 days; not provisioned",
+      "schemaVersionsPrepared": [
+        1,
+        2
+      ]
+    },
+    "accountDashboardChecks": {
+      "cloudflare": "sign-in required",
+      "aiStudio": "signed out",
+      "temporaryTabsClosed": true,
+      "accountChanges": false
+    },
+    "admin": {
+      "route": "/admin/ai",
+      "serverAuthorization": true,
+      "session": "HMAC-authenticated opaque token; hashed persistent record; HttpOnly/SameSite=Strict; Secure/__Host on HTTPS; 1 hour",
+      "csrfProtection": true,
+      "auditedChanges": true,
+      "safeCompiledCeilings": true,
+      "localOwnerCredentialPrepared": true,
+      "localOwnerTestInvitationPrepared": true,
+      "remoteD1SessionVerified": false
+    },
+    "verification": {
+      "unit": {
+        "passed": 132,
+        "failed": 0,
+        "skipped": 0,
+        "newCentralCases": 16
+      },
+      "fullChromeBeforeCapacityDisplayFix": {
+        "command": "npm run test:browser -- --workers=1",
+        "passed": 58,
+        "failed": 0,
+        "skipped": 0,
+        "durationReported": "9.0m",
+        "workers": 1
+      },
+      "freshFullChrome": {
+        "command": "npm run test:browser -- --workers=2",
+        "passed": 58,
+        "failed": 0,
+        "skipped": 0,
+        "workers": 2,
+        "legacyCases": 50,
+        "cloudCases": 6,
+        "adminCases": 2,
+        "completedUtc": "2026-10-22T17:54:05Z",
+        "lastRunRecord": {
+          "status": "passed",
+          "failedTests": []
+        },
+        "testListing": "58 tests in 11 files",
+        "afterFinalCapacityDisplayFix": true
+      },
+      "finalReviewFix": "Dashboard primary now reflects model/project request and token capacity, global admission/concurrency and cooldowns; real-SQL exhaustion assertion added. Unit, TypeScript, lint, build, isolation and full Chrome reverified afterward.",
+      "focusedAdminInitial": {
+        "passed": 1,
+        "failed": 1,
+        "reason": "Test server used the secure default production origin and rejected localhost before authentication"
+      },
+      "focusedAdminRecheck": {
+        "passed": 2,
+        "failed": 0,
+        "durationReported": "4.7s"
+      },
+      "atomicSqlite": {
+        "independentConnectionsPerRound": 8,
+        "rounds": 2,
+        "dailyCapOneAdmitted": 1,
+        "globalConcurrencyTwoTotalAdmitted": 2,
+        "remoteD1EquivalentClaimed": false
+      },
+      "typecheck": "PASS",
+      "lint": "PASS",
+      "build": "PASS",
+      "releaseIsolation": {
+        "passed": true,
+        "inspectedOutputFiles": 124,
+        "modelOrCompanionBundled": false
+      },
+      "secretAudit": {
+        "historyBlobs": 54,
+        "workingFiles": 803,
+        "findings": 0,
+        "includesOwnerAndD1Credentials": true,
+        "excludesIntendedIgnoredCredentialFiles": true
+      },
+      "newRealInferenceCalls": 0,
+      "realAdmittedBrowserFlow": "NOT RUN: D1/free-account verification missing",
+      "historicalPrimaryInference": "Two real successful synthetic probes retained above; not relabeled as current admitted flow"
+    },
+    "changesToProductionAccountsOrDeployment": false,
+    "billingEnabled": false,
+    "providerKeysModified": false,
+    "committedPushedOrMerged": false,
+    "remainingBlockers": [
+      "Dedicated D1 credential, verified Workers Free account and actual database/schema/atomic probe",
+      "Actual Gemini project free-billing attestation; displayed quotas alone do not prove billing",
+      "One actual owner-only admitted local Next.js to D1 to Gemini to browser flow before release-ready attestation"
+    ]
+  },
+  "remoteD1VerificationRuns": [
+    {
+      "at": "2026-10-22T19:07:31.678Z",
+      "database": "Cloudflare D1",
+      "remote": true,
+      "isolatedNamespace": "cloud_verify_bf414a5200f3_",
+      "concurrentReservations": 8,
+      "admitted": 1,
+      "counterPersisted": true,
+      "uncertainNotRefunded": true,
+      "secondaryAfterExhaustion": true,
+      "cooldownExpiry": true,
+      "pacificDayReset": true,
+      "resetClock": "controlled fixture SQL clock; not waiting for actual midnight",
+      "ownerSessionPersisted": true,
+      "ownerConfigPersistedAndAudited": true,
+      "productionPolicyUnchanged": true,
+      "productionInferenceAttempts": 0,
+      "providerCalls": 0,
+      "tablesDropped": 0
+    },
+    {
+      "at": "2026-10-22T21:18:36.231Z",
+      "database": "Cloudflare D1",
+      "remote": true,
+      "isolatedNamespace": "cloud_verify_2ce4a97d5835_",
+      "concurrentReservations": 8,
+      "admitted": 1,
+      "counterPersisted": true,
+      "uncertainNotRefunded": true,
+      "secondaryAfterExhaustion": true,
+      "cooldownExpiry": true,
+      "pacificDayReset": true,
+      "resetClock": "controlled fixture SQL clock; not waiting for actual midnight",
+      "ownerSessionPersisted": true,
+      "ownerConfigPersistedAndAudited": true,
+      "productionPolicyUnchanged": true,
+      "productionInferenceAttempts": 2,
+      "productionAttemptsUnchanged": true,
+      "providerCalls": 0,
+      "tablesDropped": 0
+    }
+  ],
+  "finalVerificationAndGitCleanup": {
+    "at": "2026-10-22T19:18:45.316Z",
+    "phase03": "BLOCKED",
+    "phase04": "NO",
+    "database": {
+      "provider": "Cloudflare D1",
+      "name": "hidden-data",
+      "createdByOwner": true,
+      "connected": true,
+      "metadataHttp": 200,
+      "queryHttp": 200,
+      "initialProjectTables": 0,
+      "migrationsApplied": [
+        1,
+        2
+      ],
+      "migrationRerun": "Both existing versions skipped",
+      "applicationTables": 9,
+      "applicationTriggers": 4,
+      "migrationTable": true,
+      "remoteVerification": {
+        "at": "2026-10-22T19:07:31.678Z",
+        "database": "Cloudflare D1",
+        "remote": true,
+        "isolatedNamespace": "cloud_verify_bf414a5200f3_",
+        "concurrentReservations": 8,
+        "admitted": 1,
+        "counterPersisted": true,
+        "uncertainNotRefunded": true,
+        "secondaryAfterExhaustion": true,
+        "cooldownExpiry": true,
+        "pacificDayReset": true,
+        "resetClock": "controlled fixture SQL clock; not waiting for actual midnight",
+        "ownerSessionPersisted": true,
+        "ownerConfigPersistedAndAudited": true,
+        "productionPolicyUnchanged": true,
+        "productionInferenceAttempts": 0,
+        "providerCalls": 0,
+        "tablesDropped": 0
+      },
+      "tablesDropped": 0,
+      "unrelatedDataOverwritten": false
+    },
+    "billing": {
+      "cloudflareSubscriptionInspection": [
+        {
+          "name": "d1TokenSubscriptions",
+          "http": 403,
+          "errorCodes": [
+            10000
+          ]
+        },
+        {
+          "name": "aiTokenSubscriptions",
+          "http": 403,
+          "errorCodes": [
+            10000
+          ]
+        }
+      ],
+      "workersFree": "UNVERIFIED",
+      "geminiProjectBilling": "UNVERIFIED",
+      "ownerResponse": "I still need to verify the billing/tier pages",
+      "freeAttestationsCreated": false,
+      "billingEnabled": false
+    },
+    "inference": {
+      "newProviderCalls": 0,
+      "realAdmittedFlow": "NOT RUN: account billing verification remains pending",
+      "enabledProductionModels": [],
+      "productionEmergencyStop": true,
+      "productionCountersReset": false,
+      "releaseAttestationCreated": false
+    },
+    "verification": {
+      "unit": {
+        "passed": 133,
+        "failed": 0,
+        "skipped": 0
+      },
+      "companionPython": {
+        "passed": 34,
+        "failed": 0
+      },
+      "vendorIntegrity": {
+        "matched": 76,
+        "files": 76,
+        "networkRequests": 0
+      },
+      "researchIntegrity": {
+        "files": 19,
+        "matched": 19,
+        "failures": [],
+        "networkRequests": 0,
+        "inferenceCalls": 0
+      },
+      "chrome": {
+        "command": "npx playwright test --workers=2 --reporter=json",
+        "startTime": "2026-10-22T19:11:42.818Z",
+        "duration": 289790.088,
+        "expected": 58,
+        "skipped": 0,
+        "unexpected": 0,
+        "flaky": 0,
+        "workers": 2,
+        "globalErrors": 0,
+        "productionBuild": "16.4.2"
+      },
+      "typecheck": "PASS",
+      "lint": "PASS",
+      "build": "PASS",
+      "releaseIsolation": {
+        "passed": true,
+        "outputFiles": 124
+      },
+      "formatting": "PASS",
+      "diffWhitespace": "PASS",
+      "secretAudit": {
+        "historyBlobs": 54,
+        "workingFiles": 908,
+        "findings": 0,
+        "includesBothD1CredentialNames": true,
+        "includesCompanionResearchPythonText": true,
+        "scope": "Configured values and common patterns; intended credential files, dependencies/binaries and large files excluded; not forensic assurance"
+      }
+    },
+    "dependencies": {
+      "nextBefore": "16.4.0",
+      "nextAfter": "16.4.2",
+      "eslintConfigNextAfter": "16.4.2",
+      "initialBuild": "Stopped on framework security advisories after compilation; corrected by same-series patch",
+      "productionAuditVulnerabilities": 0,
+      "fullAudit": {
+        "info": 0,
+        "low": 0,
+        "moderate": 0,
+        "high": 5,
+        "critical": 0,
+        "total": 5
+      },
+      "remainingAdvisory": "GHSA-vfj7-8cjw-p6xm",
+      "remainingScope": "Development-only braces/Next ESLint plugin/fast-glob chain; no compatible patched braces release at inspection",
+      "installPeerWarnings": "Existing ESLint 10 vs plugin peer ranges; actual lint passes"
+    },
+    "git": {
+      "before": {
+        "trackedModified": 20,
+        "untracked": 674,
+        "total": 694
+      },
+      "after": {
+        "trackedModified": 20,
+        "untracked": 590,
+        "total": 610
+      },
+      "newSourceHelpers": 2,
+      "excludedExistingFiles": 86,
+      "excludedBytes": 353913443,
+      "excludedGroups": {
+        "vendor": 76,
+        "researchDownloads": 8,
+        "generatedDocumentation": 2
+      },
+      "retainedCategories": {
+        "sourceTestsFixturesScripts": 366,
+        "documentationEvidenceRootConfig": 192,
+        "historicalCompanionResearch": 52
+      },
+      "missingOriginalPaths": [],
+      "alreadyTrackedIgnoredPaths": 0,
+      "stagedFiles": 0,
+      "filesMoved": 0,
+      "filesDeleted": 0,
+      "untrackedFromIndex": 0,
+      "reviewScope": "Complete changed-path/size classification plus targeted source/config/security review; not a line-by-line independent audit of every historical artifact"
+    },
+    "remainingOwnerActions": [
+      "Confirm Workers Free and Gemini project Free/no paid billing from the correct account/project tier pages",
+      "Only after confirmation set fresh CLOUD_AI_D1_FREE_UNTIL and CLOUD_AI_GEMINI_FREE_UNTIL; existing CLOUDFLARE_D1_* credentials now work",
+      "Run one designated owner-only admitted browser-to-D1-to-Gemini flow under normal consent/quota gates; release flag only after success"
+    ],
+    "boundaries": {
+      "committed": false,
+      "pushed": false,
+      "merged": false,
+      "deployed": false,
+      "vercelSettingsChanged": false,
+      "billingActivated": false,
+      "existingProviderKeysChanged": false,
+      "phase04Started": false
+    }
+  },
+  "ownerOnlyFinalVerification": {
+    "at": "2026-10-22T20:24:45.971Z",
+    "status": {
+      "engineering": "BLOCKED",
+      "costSafety": "PASS",
+      "costSafetyScope": "Owner-confirmed free accounts, current expiring local attestations and unchanged conservative restricted policy; not an independent invoice guarantee",
+      "productionReadiness": "BLOCKED",
+      "phase04": "NO",
+      "grounding": "EXPERIMENTAL"
+    },
+    "billingAttestation": {
+      "at": "2026-10-22T20:11:35.026Z",
+      "expiresAt": "2026-10-23T20:11:35.026Z",
+      "source": "Owner manual confirmation in this chat",
+      "cloudflare": "Workers Free — Active; no payment method on file",
+      "geminiProject": "hidden-data",
+      "gemini": "Free tier; billing setup offered, not active paid billing",
+      "publicReleaseFlagSet": false,
+      "providerSecretsChanged": false
+    },
+    "actualBrowserOwnerAuth": {
+      "passed": true,
+      "realNextApi": true,
+      "remoteD1": true,
+      "httpOnlyLocalCookie": true,
+      "sessionSurvivedReload": true,
+      "primaryEnabledViaActualUI": true,
+      "globalStopReleasedViaActualUI": true,
+      "configurationChangesAudited": true
+    },
+    "realAdmittedFlow": {
+      "result": "ATTEMPTED_TIMEOUT",
+      "script": "npx tsx scripts/cloud-admitted-smoke.ts --run",
+      "scriptExitCode": 1,
+      "syntheticImage": "tests/fixtures/phase01/quadrants.jpg",
+      "consentAndInvitationRequired": true,
+      "remoteD1QuotaBypassed": false,
+      "productionAttemptsBefore": 0,
+      "productionAttemptsAfter": 1,
+      "actualProviderAttempts": 1,
+      "completedAttempts": 0,
+      "model": "gemini-3.5-flash-lite",
+      "providerDeadlineMs": 12000,
+      "recordedReservationToSettlementMs": 13000,
+      "outcome": "uncertain",
+      "errorCategory": "timeout",
+      "successfulObservationsVerified": false,
+      "successfulBrowserResultVerified": false,
+      "providerAcceptanceOrEventualCompletion": "UNKNOWN",
+      "actualInputOutputTotalUsage": "UNKNOWN",
+      "reservationTokens": 4096,
+      "reservationRefunded": false,
+      "additionalProviderCalls": 0,
+      "fallbackCalls": 0,
+      "noTimeoutOrPolicyChange": true
+    },
+    "databaseAfter": {
+      "at": "2026-10-22T20:23:13.772Z",
+      "emergencyStop": true,
+      "enabledModels": [],
+      "logs": [
+        {
+          "model_key": "gemini-3.5-flash-lite",
+          "provider": "gemini",
+          "outcome": "uncertain",
+          "error_category": "timeout",
+          "duration_ms": 13000,
+          "reserved_tokens": 4096,
+          "input_tokens": null,
+          "output_tokens": null,
+          "actual_tokens": null,
+          "fallback": 0
+        }
+      ],
+      "actions": [
+        {
+          "actions": 1,
+          "unreleased": 0
+        }
+      ],
+      "counters": [
+        {
+          "scope": "gemini-3.5-flash-lite",
+          "window_type": "minute",
+          "reserved_requests": 1,
+          "completed_requests": 0,
+          "failed_attempts": 1,
+          "reserved_tokens": 4096,
+          "actual_tokens": 0
+        },
+        {
+          "scope": "gemini-3.5-flash-lite",
+          "window_type": "day",
+          "reserved_requests": 1,
+          "completed_requests": 0,
+          "failed_attempts": 1,
+          "reserved_tokens": 4096,
+          "actual_tokens": 0
+        },
+        {
+          "scope": "project:gemini",
+          "window_type": "minute",
+          "reserved_requests": 1,
+          "completed_requests": 0,
+          "failed_attempts": 1,
+          "reserved_tokens": 4096,
+          "actual_tokens": 0
+        },
+        {
+          "scope": "project:gemini",
+          "window_type": "day",
+          "reserved_requests": 1,
+          "completed_requests": 0,
+          "failed_attempts": 1,
+          "reserved_tokens": 4096,
+          "actual_tokens": 0
+        }
+      ],
+      "totalAttempts": 1,
+      "activeOwnerSessions": 0,
+      "ownerAuditDuringTest": [
+        {
+          "action": "login",
+          "setting": "session",
+          "outcome": "applied"
+        },
+        {
+          "action": "update",
+          "setting": "gemini-3.5-flash-lite",
+          "outcome": "applied"
+        },
+        {
+          "action": "update",
+          "setting": "global",
+          "outcome": "applied"
+        },
+        {
+          "action": "update",
+          "setting": "global",
+          "outcome": "applied"
+        },
+        {
+          "action": "update",
+          "setting": "gemini-3.5-flash-lite",
+          "outcome": "applied"
+        },
+        {
+          "action": "logout",
+          "setting": "session",
+          "outcome": "applied"
+        }
+      ]
+    },
+    "cleanup": {
+      "at": "2026-10-22T20:15:19.760Z",
+      "failed": true,
+      "emergencyStopRestored": true,
+      "allModelsDisabledAfterTest": true,
+      "normalPolicyValuesRestored": true,
+      "ownerSignedOut": true,
+      "description": "The live inference smoke failed; finally cleanup passed",
+      "publicReleaseFlagAbsent": true,
+      "taskOwnedLocalServerStopped": true,
+      "allOriginalGlobalPolicyValuesRestored": true
+    },
+    "verification": {
+      "unit": {
+        "passed": 133,
+        "failed": 0,
+        "skipped": 0
+      },
+      "typecheck": "PASS",
+      "lint": "PASS",
+      "build": {
+        "passed": true,
+        "next": "16.4.2"
+      },
+      "releaseIsolation": {
+        "passed": true,
+        "outputTraceFiles": 124
+      },
+      "freshFullChrome": {
+        "command": "npx playwright test --workers=2 --reporter=json",
+        "workers": 2,
+        "startTime": "2026-10-22T20:17:38.947Z",
+        "duration": 292384.447,
+        "expected": 58,
+        "skipped": 0,
+        "unexpected": 0,
+        "flaky": 0,
+        "errors": [],
+        "lastRun": "passed"
+      },
+      "productionAuditVulnerabilities": 0,
+      "fullAudit": {
+        "info": 0,
+        "low": 0,
+        "moderate": 0,
+        "high": 5,
+        "critical": 0,
+        "total": 5
+      },
+      "remainingDevelopmentAdvisory": "GHSA-vfj7-8cjw-p6xm",
+      "secretAudit": {
+        "historyBlobs": 54,
+        "workingFiles": 908,
+        "findings": [],
+        "scope": "Known configured values plus common Gemini/NVIDIA/OpenAI key patterns; not a forensic certification of all past credentials."
+      },
+      "diffWhitespace": "PASS"
+    },
+    "localConfiguration": {
+      "freeAttestationsRegistered": true,
+      "validHours": 24,
+      "origin": "http://127.0.0.1:3001",
+      "existingCredentialAndConfigurationLinesUnchanged": true,
+      "publicReleaseFlagAdded": false,
+      "vercelVariablesChanged": false,
+      "providerCredentialsChanged": false
+    },
+    "remainingCriticalGate": "One successful genuine admitted Gemini response with validated browser output. Current request timed out; root cause beyond deadline expiry is not established. No automatic retry authorized or made in this one-test run.",
+    "boundaries": {
+      "paidBillingEnabled": false,
+      "accountSettingsChanged": false,
+      "committed": false,
+      "pushed": false,
+      "merged": false,
+      "deployed": false,
+      "phase04Started": false,
+      "productionInferenceEnabledAfterTest": false
+    }
+  },
+  "admittedSmokeRuns": [
+    {
+      "at": "2026-10-22T20:36:15.620Z",
+      "status": "PASS",
+      "totalDurationMs": 12588,
+      "stages": [
+        {
+          "stage": "preflight",
+          "durationMs": 1162
+        },
+        {
+          "stage": "browser_start",
+          "durationMs": 358
+        },
+        {
+          "stage": "local_upload_and_analysis",
+          "durationMs": 6752
+        },
+        {
+          "stage": "consent",
+          "durationMs": 99
+        },
+        {
+          "stage": "admitted_request_wait",
+          "durationMs": 3157
+        },
+        {
+          "stage": "response_validation",
+          "durationMs": 3
+        },
+        {
+          "stage": "browser_output_validation",
+          "durationMs": 10
+        },
+        {
+          "stage": "remote_usage_verification",
+          "durationMs": 908
+        },
+        {
+          "stage": "browser_close",
+          "durationMs": 138
+        }
+      ],
+      "httpStatus": 200,
+      "processing": {
+        "elapsedMs": 2227,
+        "attempts": 1,
+        "width": 40,
+        "height": 24,
+        "usage": {
+          "inputTokens": 1213,
+          "outputTokens": 128,
+          "totalTokens": 1341
+        }
+      },
+      "records": [
+        {
+          "model_key": "gemini-3.5-flash-lite",
+          "outcome": "completed",
+          "error_category": null,
+          "duration_ms": 1000,
+          "reserved_tokens": 4096,
+          "input_tokens": 1213,
+          "output_tokens": 128,
+          "actual_tokens": 1341,
+          "fallback": 0,
+          "released": 1
+        }
+      ],
+      "counters": [
+        {
+          "scope": "gemini-3.5-flash-lite",
+          "reserved_requests": 2,
+          "completed_requests": 1,
+          "failed_attempts": 1,
+          "reserved_tokens": 8192,
+          "actual_tokens": 1341
+        },
+        {
+          "scope": "project:gemini",
+          "reserved_requests": 2,
+          "completed_requests": 1,
+          "failed_attempts": 1,
+          "reserved_tokens": 8192,
+          "actual_tokens": 1341
+        }
+      ],
+      "realBrowserFlow": true,
+      "database": "Cloudflare D1",
+      "validatedObservationsVisible": true,
+      "modelAndProjectCountersVerified": true,
+      "previousUncertainReservationsPreserved": true,
+      "inferenceRetried": false,
+      "containsCredentialsOrImageContents": false
+    },
+    {
+      "at": "2026-10-22T21:20:20.933Z",
+      "status": "PASS",
+      "totalDurationMs": 13749,
+      "stages": [
+        {
+          "stage": "preflight",
+          "durationMs": 670
+        },
+        {
+          "stage": "browser_start",
+          "durationMs": 335
+        },
+        {
+          "stage": "local_upload_and_analysis",
+          "durationMs": 6757
+        },
+        {
+          "stage": "consent",
+          "durationMs": 80
+        },
+        {
+          "stage": "admitted_request_wait",
+          "durationMs": 5226
+        },
+        {
+          "stage": "response_validation",
+          "durationMs": 4
+        },
+        {
+          "stage": "browser_output_validation",
+          "durationMs": 11
+        },
+        {
+          "stage": "remote_usage_verification",
+          "durationMs": 506
+        },
+        {
+          "stage": "browser_close",
+          "durationMs": 161
+        }
+      ],
+      "httpStatus": 200,
+      "processing": {
+        "elapsedMs": 4361,
+        "attempts": 1,
+        "width": 960,
+        "height": 640,
+        "usage": {
+          "inputTokens": 1218,
+          "outputTokens": 184,
+          "totalTokens": 1402
+        }
+      },
+      "records": [
+        {
+          "model_key": "gemini-3.5-flash-lite",
+          "outcome": "completed",
+          "error_category": null,
+          "duration_ms": 4000,
+          "reserved_tokens": 4096,
+          "input_tokens": 1218,
+          "output_tokens": 184,
+          "actual_tokens": 1402,
+          "fallback": 0,
+          "released": 1
+        }
+      ],
+      "counters": [
+        {
+          "scope": "gemini-3.5-flash-lite",
+          "reserved_requests": 3,
+          "completed_requests": 2,
+          "failed_attempts": 1,
+          "reserved_tokens": 12288,
+          "actual_tokens": 2743
+        },
+        {
+          "scope": "project:gemini",
+          "reserved_requests": 3,
+          "completed_requests": 2,
+          "failed_attempts": 1,
+          "reserved_tokens": 12288,
+          "actual_tokens": 2743
+        }
+      ],
+      "realBrowserFlow": true,
+      "database": "Cloudflare D1",
+      "validatedObservationsVisible": true,
+      "modelAndProjectCountersVerified": true,
+      "previousUncertainReservationsPreserved": true,
+      "inferenceRetried": false,
+      "containsCredentialsOrImageContents": false
+    }
+  ],
+  "ownerTimeoutFixVerification": {
+    "at": "2026-10-22T20:36:17.568Z",
+    "realBrowserOwnerAuth": true,
+    "sessionSurvivesReload": true,
+    "httpOnlyLocalCookie": true,
+    "configurationChangedViaActualAdminUI": true,
+    "publicReleaseFlagAbsent": true,
+    "model": "gemini-3.5-flash-lite",
+    "productionAttemptDelta": 1,
+    "completedAttemptDelta": 1,
+    "logs": [
+      {
+        "model_key": "gemini-3.5-flash-lite",
+        "provider": "gemini",
+        "started": 1792701372000,
+        "outcome": "completed",
+        "error_category": null,
+        "duration_ms": 1000,
+        "reserved_tokens": 4096,
+        "input_tokens": 1213,
+        "output_tokens": 128,
+        "actual_tokens": 1341,
+        "fallback": 0,
+        "released": 1,
+        "lease_until": 1792701491000
+      }
+    ],
+    "counters": [
+      {
+        "scope": "gemini-3.5-flash-lite",
+        "window_type": "day",
+        "window_start": 1792652400000,
+        "window_end": 1792738800000,
+        "reserved_requests": 2,
+        "completed_requests": 1,
+        "failed_attempts": 1,
+        "reserved_tokens": 8192,
+        "actual_tokens": 1341
+      },
+      {
+        "scope": "project:gemini",
+        "window_type": "day",
+        "window_start": 1792652400000,
+        "window_end": 1792738800000,
+        "reserved_requests": 2,
+        "completed_requests": 1,
+        "failed_attempts": 1,
+        "reserved_tokens": 8192,
+        "actual_tokens": 1341
+      }
+    ],
+    "modelAndProjectCountersVerified": true,
+    "leaseReleased": true,
+    "dashboardMatchesDatabase": true,
+    "quotaBypass": false,
+    "additionalProviderTests": 0,
+    "emergencyStopRestored": true,
+    "allModelsDisabledAfterTest": true,
+    "normalPolicyValuesRestored": true,
+    "ownerSignedOut": true,
+    "billingAttestation": {
+      "at": "2026-10-22T20:11:35.026Z",
+      "expiresAt": "2026-10-23T20:11:35.026Z",
+      "source": "Owner manual confirmation in this chat",
+      "cloudflare": "Workers Free — Active; no payment method on file",
+      "geminiProject": "hidden-data",
+      "gemini": "Free tier; billing setup offered, not active paid billing",
+      "publicReleaseFlagSet": false,
+      "providerSecretsChanged": false
+    }
+  },
+  "geminiTimeoutFixFinalization": {
+    "at": "2026-10-22T20:42:55.284Z",
+    "status": {
+      "engineering": "PASS",
+      "costSafety": "PASS",
+      "productionReadiness": "READY for the restricted pilot",
+      "phase04Readiness": "YES — exit gate only; no Phase 04 work",
+      "grounding": "EXPERIMENTAL"
+    },
+    "deadlines": {
+      "geminiMs": 45000,
+      "otherProvidersMs": 12000,
+      "apiProcessingMs": 50000,
+      "browserMs": 65000,
+      "routeMs": 60000,
+      "smokeResponseMs": 70000,
+      "smokeLedgerMs": 120000,
+      "reservationLeaseMs": 120000,
+      "d1RequestMs": 4000
+    },
+    "runtime": {
+      "tested": "Local production Next.js Node server",
+      "node": "24.15.0",
+      "next": "16.4.2",
+      "emittedCloudRouteMaxDuration": 60,
+      "hostedDeploymentChangedOrTested": false,
+      "retentionUsesRemainingRouteBudget": true
+    },
+    "requestCancellation": {
+      "callerAndProviderCombined": true,
+      "fetchAndBodyReadBothBounded": true,
+      "callerCancellationImmediate": true
+    },
+    "realAdmittedFlow": {
+      "at": "2026-10-22T20:36:15.620Z",
+      "status": "PASS",
+      "totalDurationMs": 12588,
+      "stages": [
+        {
+          "stage": "preflight",
+          "durationMs": 1162
+        },
+        {
+          "stage": "browser_start",
+          "durationMs": 358
+        },
+        {
+          "stage": "local_upload_and_analysis",
+          "durationMs": 6752
+        },
+        {
+          "stage": "consent",
+          "durationMs": 99
+        },
+        {
+          "stage": "admitted_request_wait",
+          "durationMs": 3157
+        },
+        {
+          "stage": "response_validation",
+          "durationMs": 3
+        },
+        {
+          "stage": "browser_output_validation",
+          "durationMs": 10
+        },
+        {
+          "stage": "remote_usage_verification",
+          "durationMs": 908
+        },
+        {
+          "stage": "browser_close",
+          "durationMs": 138
+        }
+      ],
+      "httpStatus": 200,
+      "processing": {
+        "elapsedMs": 2227,
+        "attempts": 1,
+        "width": 40,
+        "height": 24,
+        "usage": {
+          "inputTokens": 1213,
+          "outputTokens": 128,
+          "totalTokens": 1341
+        }
+      },
+      "records": [
+        {
+          "model_key": "gemini-3.5-flash-lite",
+          "outcome": "completed",
+          "error_category": null,
+          "duration_ms": 1000,
+          "reserved_tokens": 4096,
+          "input_tokens": 1213,
+          "output_tokens": 128,
+          "actual_tokens": 1341,
+          "fallback": 0,
+          "released": 1
+        }
+      ],
+      "counters": [
+        {
+          "scope": "gemini-3.5-flash-lite",
+          "reserved_requests": 2,
+          "completed_requests": 1,
+          "failed_attempts": 1,
+          "reserved_tokens": 8192,
+          "actual_tokens": 1341
+        },
+        {
+          "scope": "project:gemini",
+          "reserved_requests": 2,
+          "completed_requests": 1,
+          "failed_attempts": 1,
+          "reserved_tokens": 8192,
+          "actual_tokens": 1341
+        }
+      ],
+      "realBrowserFlow": true,
+      "database": "Cloudflare D1",
+      "validatedObservationsVisible": true,
+      "modelAndProjectCountersVerified": true,
+      "previousUncertainReservationsPreserved": true,
+      "inferenceRetried": false,
+      "containsCredentialsOrImageContents": false
+    },
+    "finalD1State": {
+      "at": "2026-10-22T20:38:29.940Z",
+      "emergencyStop": true,
+      "enabledModels": [],
+      "logs": [
+        {
+          "model_key": "gemini-3.5-flash-lite",
+          "provider": "gemini",
+          "outcome": "completed",
+          "error_category": null,
+          "duration_ms": 1000,
+          "reserved_tokens": 4096,
+          "input_tokens": 1213,
+          "output_tokens": 128,
+          "actual_tokens": 1341,
+          "fallback": 0
+        },
+        {
+          "model_key": "gemini-3.5-flash-lite",
+          "provider": "gemini",
+          "outcome": "uncertain",
+          "error_category": "timeout",
+          "duration_ms": 13000,
+          "reserved_tokens": 4096,
+          "input_tokens": null,
+          "output_tokens": null,
+          "actual_tokens": null,
+          "fallback": 0
+        }
+      ],
+      "actions": [
+        {
+          "actions": 2,
+          "unreleased": 0
+        }
+      ],
+      "counters": [
+        {
+          "scope": "gemini-3.5-flash-lite",
+          "window_type": "minute",
+          "reserved_requests": 1,
+          "completed_requests": 0,
+          "failed_attempts": 1,
+          "reserved_tokens": 4096,
+          "actual_tokens": 0
+        },
+        {
+          "scope": "gemini-3.5-flash-lite",
+          "window_type": "day",
+          "reserved_requests": 2,
+          "completed_requests": 1,
+          "failed_attempts": 1,
+          "reserved_tokens": 8192,
+          "actual_tokens": 1341
+        },
+        {
+          "scope": "project:gemini",
+          "window_type": "minute",
+          "reserved_requests": 1,
+          "completed_requests": 0,
+          "failed_attempts": 1,
+          "reserved_tokens": 4096,
+          "actual_tokens": 0
+        },
+        {
+          "scope": "project:gemini",
+          "window_type": "day",
+          "reserved_requests": 2,
+          "completed_requests": 1,
+          "failed_attempts": 1,
+          "reserved_tokens": 8192,
+          "actual_tokens": 1341
+        },
+        {
+          "scope": "gemini-3.5-flash-lite",
+          "window_type": "minute",
+          "reserved_requests": 1,
+          "completed_requests": 1,
+          "failed_attempts": 0,
+          "reserved_tokens": 4096,
+          "actual_tokens": 1341
+        },
+        {
+          "scope": "project:gemini",
+          "window_type": "minute",
+          "reserved_requests": 1,
+          "completed_requests": 1,
+          "failed_attempts": 0,
+          "reserved_tokens": 4096,
+          "actual_tokens": 1341
+        }
+      ],
+      "totalAttempts": 2,
+      "activeOwnerSessions": 0,
+      "ownerAuditDuringTest": [
+        {
+          "action": "login",
+          "setting": "session",
+          "outcome": "applied"
+        },
+        {
+          "action": "update",
+          "setting": "gemini-3.5-flash-lite",
+          "outcome": "applied"
+        },
+        {
+          "action": "update",
+          "setting": "global",
+          "outcome": "applied"
+        },
+        {
+          "action": "update",
+          "setting": "global",
+          "outcome": "applied"
+        },
+        {
+          "action": "update",
+          "setting": "gemini-3.5-flash-lite",
+          "outcome": "applied"
+        },
+        {
+          "action": "logout",
+          "setting": "session",
+          "outcome": "applied"
+        },
+        {
+          "action": "login",
+          "setting": "session",
+          "outcome": "applied"
+        },
+        {
+          "action": "update",
+          "setting": "gemini-3.5-flash-lite",
+          "outcome": "applied"
+        },
+        {
+          "action": "update",
+          "setting": "global",
+          "outcome": "applied"
+        },
+        {
+          "action": "update",
+          "setting": "global",
+          "outcome": "applied"
+        },
+        {
+          "action": "update",
+          "setting": "gemini-3.5-flash-lite",
+          "outcome": "applied"
+        },
+        {
+          "action": "logout",
+          "setting": "session",
+          "outcome": "applied"
+        }
+      ]
+    },
+    "preservation": {
+      "priorUncertainRequestStillCharged": true,
+      "priorActualUsageStillUnknown": true,
+      "requestsNow": 2,
+      "completedNow": 1,
+      "uncertainNow": 1,
+      "modelAndProjectReservedTokens": 8192,
+      "reportedTokensFromSuccessOnly": 1341,
+      "refunded": false,
+      "countersReset": false,
+      "oneNewProviderAttempt": true,
+      "blindRetry": false,
+      "modelPromptSchemaQuotasUnchanged": true
+    },
+    "verification": {
+      "focusedServer": {
+        "command": "npx tsx --test tests/cloud-vision.test.ts tests/central-ai.test.ts",
+        "passed": 48,
+        "failed": 0,
+        "skipped": 0,
+        "newDeadlineRegressions": 2
+      },
+      "focusedChrome": {
+        "command": "npx playwright test tests/browser/cloud-vision.spec.ts tests/browser/admin-ai.spec.ts --workers=1 --reporter=json",
+        "workers": 1,
+        "startTime": "2026-10-22T20:37:16.713Z",
+        "duration": 53765.746,
+        "expected": 8,
+        "skipped": 0,
+        "unexpected": 0,
+        "flaky": 0,
+        "errors": []
+      },
+      "freshFull58CaseSuiteClaimed": false,
+      "typecheck": "PASS",
+      "lint": "PASS",
+      "build": "PASS",
+      "formatting": "PASS",
+      "releaseIsolation": {
+        "passed": true,
+        "outputTraceFiles": 124
+      },
+      "secretAudit": {
+        "historyBlobs": 54,
+        "workingFiles": 907,
+        "findings": [],
+        "scope": "Known configured values plus common Gemini/NVIDIA/OpenAI key patterns; not a forensic certification of all past credentials."
+      },
+      "diffWhitespace": "PASS"
+    },
+    "safetyState": {
+      "emergencyStopRestored": true,
+      "allModelsDisabled": true,
+      "ownerSignedOut": true,
+      "publicReleaseFlagAbsent": true,
+      "freeAttestationsRemainExpiring": true,
+      "paidBillingEnabled": false,
+      "providerCredentialsChanged": false
+    },
+    "changedSource": [
+      "src/cloud-vision/contract.ts",
+      "src/cloud-vision/server/http.ts",
+      "src/cloud-vision/server/providers/gemini.ts",
+      "src/cloud-vision/server/handler.ts",
+      "src/components/cloud-observations.tsx",
+      "src/app/api/cloud-vision/route.ts",
+      "scripts/cloud-admitted-smoke.ts",
+      "tests/cloud-vision.test.ts",
+      "tests/browser/cloud-vision.spec.ts"
+    ],
+    "limitations": [
+      "One synthetic image is not broad-image grounding qualification",
+      "Hosted deployment was not modified or tested",
+      "Free eligibility depends on the dated owner confirmation and expiry; no independent invoice guarantee",
+      "Optional models remain unqualified/disabled"
+    ],
+    "committed": false,
+    "pushed": false,
+    "merged": false,
+    "deployed": false,
+    "phase04Started": false
+  },
+  "exitAuditOwnerQualityVerification": {
+    "at": "2026-10-22T21:20:22.365Z",
+    "realBrowserOwnerAuth": true,
+    "actualD1DashboardDesktopAndMobile": true,
+    "sessionSurvivesReload": true,
+    "httpOnlyLocalCookie": true,
+    "configurationChangedViaActualAdminUI": true,
+    "publicReleaseFlagAbsent": true,
+    "model": "gemini-3.5-flash-lite",
+    "productionAttemptDelta": 1,
+    "completedAttemptDelta": 1,
+    "logs": [
+      {
+        "model_key": "gemini-3.5-flash-lite",
+        "provider": "gemini",
+        "started": 1792704015000,
+        "outcome": "completed",
+        "error_category": null,
+        "duration_ms": 4000,
+        "reserved_tokens": 4096,
+        "input_tokens": 1218,
+        "output_tokens": 184,
+        "actual_tokens": 1402,
+        "fallback": 0,
+        "released": 1,
+        "lease_until": 1792704134000
+      }
+    ],
+    "counters": [
+      {
+        "scope": "gemini-3.5-flash-lite",
+        "window_type": "day",
+        "window_start": 1792652400000,
+        "window_end": 1792738800000,
+        "reserved_requests": 3,
+        "completed_requests": 2,
+        "failed_attempts": 1,
+        "reserved_tokens": 12288,
+        "actual_tokens": 2743
+      },
+      {
+        "scope": "project:gemini",
+        "window_type": "day",
+        "window_start": 1792652400000,
+        "window_end": 1792738800000,
+        "reserved_requests": 3,
+        "completed_requests": 2,
+        "failed_attempts": 1,
+        "reserved_tokens": 12288,
+        "actual_tokens": 2743
+      }
+    ],
+    "modelAndProjectCountersVerified": true,
+    "leaseReleased": true,
+    "dashboardMatchesDatabase": true,
+    "quotaBypass": false,
+    "additionalProviderTests": 0,
+    "emergencyStopRestored": true,
+    "allModelsDisabledAfterTest": true,
+    "normalPolicyValuesRestored": true,
+    "ownerSignedOut": true,
+    "billingAttestation": {
+      "at": "2026-10-22T20:11:35.026Z",
+      "expiresAt": "2026-10-23T20:11:35.026Z",
+      "source": "Owner manual confirmation in this chat",
+      "cloudflare": "Workers Free — Active; no payment method on file",
+      "geminiProject": "hidden-data",
+      "gemini": "Free tier; billing setup offered, not active paid billing",
+      "publicReleaseFlagSet": false,
+      "providerSecretsChanged": false
+    }
+  },
+  "finalReadinessAudit": {
+    "at": "2026-10-22T21:37:52.692Z",
+    "title": "FINAL READINESS AUDIT — EXIT REVIEW",
+    "decision": {
+      "phase03": "Completed",
+      "audit": "CONDITIONAL",
+      "phase04": "READY",
+      "publicDeployment": "NOT YET AUTHORIZED",
+      "aiGrounding": "EXPERIMENTAL",
+      "criticalApplicationDefects": 0
+    },
+    "qualification": "Restricted free-tier engineering foundation only. One composite-image quality observation cannot establish general accuracy; optional providers remain unqualified. Local Git garbage cleanup was blocked by automatic policy, with zero deletion. Development advisory remains unpatched. These are disclosed qualifications, not permission for public inference or deployment.",
+    "actualInference": {
+      "newRequests": 1,
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite",
+      "browserToRemoteD1": true,
+      "validatedObservationsVisible": true,
+      "apiElapsedMs": 4361,
+      "browserRequestWaitMs": 5226,
+      "inputTokens": 1218,
+      "outputTokens": 184,
+      "totalTokens": 1402,
+      "reservedTokens": 4096,
+      "fallback": false,
+      "retries": 0
+    },
+    "quality": {
+      "plan": {
+        "frozenBeforeInference": true,
+        "requests": 1,
+        "independentImages": 0,
+        "compositePanels": 6,
+        "previouslyUsedResearchFixtures": true,
+        "independentValidation": false,
+        "model": "gemini-3.5-flash-lite",
+        "promptUnchanged": true,
+        "expectation": "Broad collage description; limited output need not enumerate every panel. Omission is coverage, not invented content. No accuracy percentage.",
+        "prohibitedClaims": [
+          "identity",
+          "exact location",
+          "EXIF or GPS knowledge",
+          "unsupported objects or relationships"
+        ],
+        "cases": [
+          {
+            "panel": "A",
+            "category": "nature/landscape",
+            "file": "tests/fixtures/discovery/landscape.jpg",
+            "sha256": "f082d6cd41e8ae43b8525b91d1f82c775c33fb1b7062ada6a93ac62713d4d2cb",
+            "expectedVisibleSubjects": [
+              "lake or water",
+              "mountains",
+              "vegetation"
+            ],
+            "changed": "fit within panel; F additionally brightness x0.55"
+          },
+          {
+            "panel": "B",
+            "category": "indoor",
+            "file": "tests/fixtures/discovery/indoor.jpg",
+            "sha256": "73370acdcc90f7502bab5e4d0e03483f120aca6fa5a399590ced102869b188c8",
+            "expectedVisibleSubjects": [
+              "empty room",
+              "carpeted floor",
+              "windows"
+            ],
+            "changed": "fit within panel; F additionally brightness x0.55"
+          },
+          {
+            "panel": "C",
+            "category": "everyday objects",
+            "file": "tests/fixtures/qwen-resolution/resolution-00.jpg",
+            "sha256": "c10da191af7454650c6761f06b922bb175bcf77eafc7705c6108a1072e198d36",
+            "expectedVisibleSubjects": [
+              "bottles",
+              "workshop supplies"
+            ],
+            "changed": "fit within panel; F additionally brightness x0.55"
+          },
+          {
+            "panel": "D",
+            "category": "animals",
+            "file": "tests/fixtures/qwen-resolution/resolution-04.jpg",
+            "sha256": "bb6ac66725c6605c6736de2bdfe1400f1919ac5df1979434e03a7384fd80858b",
+            "expectedVisibleSubjects": [
+              "dog",
+              "sofa"
+            ],
+            "changed": "fit within panel; F additionally brightness x0.55"
+          },
+          {
+            "panel": "E",
+            "category": "complex scene",
+            "file": "tests/fixtures/qwen-resolution/resolution-03.jpg",
+            "sha256": "3a7fc00fc4bfb5ab7ed48062f9bc26e7f910046f17e8a4c5d5f1e6c8bccfefb6",
+            "expectedVisibleSubjects": [
+              "furnished room",
+              "seating",
+              "tables or television"
+            ],
+            "changed": "fit within panel; F additionally brightness x0.55"
+          },
+          {
+            "panel": "F",
+            "category": "low light/ambiguous",
+            "file": "tests/fixtures/discovery/reflection.jpg",
+            "sha256": "813fd1fd234eead3e25646523d56dffbdc598e164de5c8e73907382ba82e410f",
+            "expectedVisibleSubjects": [
+              "glass",
+              "distorted reflection"
+            ],
+            "changed": "fit within panel; F additionally brightness x0.55"
+          }
+        ],
+        "compositeSha256": "f64e1c25056b32ba2dc84d4b2527c7c44490a74ec1b380d5d61fec735acb3498"
+      },
+      "result": {
+        "at": "2026-10-22T21:20:20.254Z",
+        "status": "available",
+        "interpretation": {
+          "description": "This image contains six panels labeled A through F showing different scenes, including a landscape, an empty room, shelves with bottles, a sleeping dog, a room interior, and a weathered window frame. This is an AI interpretation that may contain mistakes.",
+          "observations": [
+            "Panel A depicts a body of water with distant mountains.",
+            "Panel B shows an empty room with plain walls and carpet.",
+            "Panel C displays a shelf holding several bottles and containers.",
+            "Panel D features a fluffy dog sleeping on a grey textured surface."
+          ],
+          "limitations": [
+            "The exact types of liquids in the bottles in panel C are unverified.",
+            "The breed of the dog in panel D is ambiguous from the angle.",
+            "This is an AI interpretation that may contain mistakes."
+          ]
+        },
+        "processing": {
+          "elapsedMs": 4361,
+          "attempts": 1,
+          "width": 960,
+          "height": 640,
+          "usage": {
+            "inputTokens": 1218,
+            "outputTokens": 184,
+            "totalTokens": 1402
+          }
+        }
+      },
+      "review": {
+        "evaluator": "Assistant visual review; not independent human adjudication",
+        "mainSubjects": "Six broad panel subjects described correctly; four specific observations cover A–D. E/F receive only broad description.",
+        "inventedObjects": "No obvious invented object in this response",
+        "unsupportedDetails": "No identity, location or metadata inference detected",
+        "uncertainty": "Unknown bottle liquids and dog breed explicitly qualified",
+        "relationships": "No obvious relationship contradiction",
+        "abstention": "Limited unknown details qualified; no safety-refusal scenario claimed",
+        "coverage": "Complex/ambiguous panels received little detail. One composite, not six independent analyses.",
+        "consistency": "Not measured: no repeated inference",
+        "generalAccuracy": "Not estimated",
+        "promptOrAcceptanceTuned": false,
+        "decision": "Keep EXPERIMENTAL; no stronger accuracy claims"
+      }
+    },
+    "providerMetadataChecks": [
+      {
+        "provider": "gemini31",
+        "status": 200,
+        "model": "models/gemini-3.1-flash-lite",
+        "methods": [
+          "generateContent",
+          "countTokens",
+          "createCachedContent",
+          "batchGenerateContent"
+        ],
+        "inferenceCalls": 0
+      },
+      {
+        "provider": "cloudflare",
+        "status": 200,
+        "models": [
+          {
+            "name": "@cf/meta/llama-3.2-11b-vision-instruct",
+            "task": "Text Generation"
+          }
+        ],
+        "inferenceCalls": 0
+      }
+    ],
+    "providerGates": {
+      "gemini35": "Genuine admitted vision passed; now owner-disabled",
+      "gemini31": "Exact metadata GET 200 and published free image/text support; not genuinely qualified within remaining invitation budget, vision attestation absent, remains disabled",
+      "cloudflare": "Exact model listed; published free 10000 Neurons/UTC day is not an image request allowance. No model-license attestation or measured conservative Neurons envelope; compiled quota zero, genuine calls zero",
+      "nvidia": "Development-only; hard-disabled for production"
+    },
+    "documentationSources": [
+      {
+        "url": "https://ai.google.dev/gemini-api/docs/pricing",
+        "verified": "Gemini 3.1 free input/output pricing; owner billing attestation still independently required"
+      },
+      {
+        "url": "https://ai.google.dev/gemini-api/docs/models/gemini-3.1-flash-lite",
+        "verified": "Exact ID, image input and structured output support"
+      },
+      {
+        "url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
+        "verified": "10000 Neurons/UTC day on Workers Free; 4410/M input and 61493/M output Neurons for the named model. Actual per-image usage/account balance remains unknown."
+      }
+    ],
+    "routing": {
+      "priority": [
+        "gemini-3.5-flash-lite",
+        "gemini-3.1-flash-lite",
+        "@cf/meta/llama-3.2-11b-vision-instruct",
+        "meta/llama-3.2-11b-vision-instruct (always development-only)"
+      ],
+      "liveExternalFallback": false,
+      "simulatedFallback": true,
+      "serialVisitsBoundedTo3": true,
+      "tests": "Primary/secondary exhaustion, disabled next provider, transient failures, cooldown/expiry, refusal and malformed-output no-fallback, final-slot races and shared model/project RPM/TPM/RPD."
+    },
+    "traffic": [
+      {
+        "trafficAudit": true,
+        "arrivals": 10,
+        "admitted": 2,
+        "denied": 8,
+        "maxConcurrentProviderCalls": 2,
+        "durationMs": 309,
+        "sqlDelayPerQueryMs": 1,
+        "externalCalls": 0
+      },
+      {
+        "trafficAudit": true,
+        "arrivals": 40,
+        "admitted": 2,
+        "denied": 38,
+        "maxConcurrentProviderCalls": 2,
+        "durationMs": 376,
+        "sqlDelayPerQueryMs": 1,
+        "externalCalls": 0
+      },
+      {
+        "trafficAudit": true,
+        "arrivals": 100,
+        "admitted": 2,
+        "denied": 98,
+        "maxConcurrentProviderCalls": 2,
+        "durationMs": 525,
+        "sqlDelayPerQueryMs": 1,
+        "externalCalls": 0
+      },
+      {
+        "trafficAudit": true,
+        "visitors": 10,
+        "analysesPerVisitor": 3,
+        "admitted": 30,
+        "fourthActionDenied": true,
+        "simulatedSpacingMs": 20001,
+        "externalCalls": 0
+      }
+    ],
+    "remoteD1Concurrency": {
+      "at": "2026-10-22T21:18:36.231Z",
+      "database": "Cloudflare D1",
+      "remote": true,
+      "isolatedNamespace": "cloud_verify_2ce4a97d5835_",
+      "concurrentReservations": 8,
+      "admitted": 1,
+      "counterPersisted": true,
+      "uncertainNotRefunded": true,
+      "secondaryAfterExhaustion": true,
+      "cooldownExpiry": true,
+      "pacificDayReset": true,
+      "resetClock": "controlled fixture SQL clock; not waiting for actual midnight",
+      "ownerSessionPersisted": true,
+      "ownerConfigPersistedAndAudited": true,
+      "productionPolicyUnchanged": true,
+      "productionInferenceAttempts": 2,
+      "productionAttemptsUnchanged": true,
+      "providerCalls": 0,
+      "tablesDropped": 0
+    },
+    "timeouts": {
+      "geminiMs": 45000,
+      "apiMs": 50000,
+      "routeSeconds": 60,
+      "browserMs": 65000,
+      "executionEnvironment": "Local Node production runtime; route build manifest retains maxDuration=60. Current remote hosting settings were not changed or certified.",
+      "behavior": "Virtual-clock adapter response at 13s succeeds; stalled provider body stops at 45s; actual API abort propagation distinguishes deadline/caller cancellation and preserves uncertain debit; Chrome virtual time survives 50s then aborts at 65s and discards late response. Genuine current request completed in 4.361s."
+    },
+    "admin": {
+      "actualOwnerBrowserLogin": true,
+      "httpOnlySession": true,
+      "sessionSurvivesReload": true,
+      "actualRemoteD1PersistenceAndAudit": true,
+      "actualDesktopAnd390pxViewportInspection": true,
+      "physicalMobileTested": false,
+      "security": "Unauthorized/CSRF writes, expired/rotated sessions, stale revisions and unsafe limits rejected",
+      "improvements": [
+        "Explicit provider states and reasons",
+        "Shared database status/time",
+        "Preceding error for fallback event"
+      ],
+      "balances": "Unknown; reported tokens distinguished from conservative reservations"
+    },
+    "verification": {
+      "completeUnit": 143,
+      "productionUnitFromCandidateOnlyCopy": 119,
+      "chrome": {
+        "startTime": "2026-10-22T21:28:13.187Z",
+        "duration": 287689.809,
+        "expected": 58,
+        "skipped": 0,
+        "unexpected": 0,
+        "flaky": 0
+      },
+      "companionPython": 34,
+      "optionalVendorFilesVerifiedOffline": 76,
+      "typescript": "PASS",
+      "lint": "PASS without warnings",
+      "productionBuild": "PASS",
+      "releaseIsolation": {
+        "status": "PASS",
+        "inspectedOutputs": 124
+      },
+      "productionDependencies": {
+        "info": 0,
+        "low": 0,
+        "moderate": 0,
+        "high": 0,
+        "critical": 0,
+        "total": 0
+      },
+      "developmentDependencies": {
+        "high": 5,
+        "rootAdvisory": "GHSA-vfj7-8cjw-p6xm",
+        "latestBracesVersion": "3.0.3",
+        "compatiblePatchAvailable": false,
+        "forcedMajorDowngradeApplied": false
+      },
+      "secret": {
+        "historyBlobs": 638,
+        "historyBlobsSkippedOver10MB": 1,
+        "gitCandidateFiles": 628,
+        "workingFiles": 950,
+        "findings": [],
+        "scope": "Known configured values plus common Gemini/NVIDIA/OpenAI key patterns; not a forensic certification of all past credentials."
+      },
+      "notExecuted": [
+        "Archived real local-model browser benchmarks or new research inference",
+        "Genuine Gemini 3.1/Cloudflare/NVIDIA inference",
+        "Physical mobile or deployed Cloud AI integration"
+      ],
+      "candidateOnlyCopy": {
+        "status": 0,
+        "filesCopied": 628,
+        "privateEnvCopied": false,
+        "modelWeightsCopied": false,
+        "unresolvedPhotoOriginalsCopied": false,
+        "nodeModules": "existing local installation via junction; not a fresh network install"
+      }
+    },
+    "git": {
+      "initialVisibleChanges": 611,
+      "finalVisibleChanges": 594,
+      "trackedModified": 20,
+      "untracked": 574,
+      "allCandidates": 628,
+      "classificationCounts": {
+        "KEEP — Tests, Documentation and Configuration": 92,
+        "KEEP — Lightweight Research History": 488,
+        "KEEP — Production Source": 48
+      },
+      "exactScope": "docs/phase-03/evidence/commit-scope.json",
+      "candidateSizeApproxMB": 80.1,
+      "largestCandidates": [
+        {
+          "path": "tests/fixtures/readiness/bubbles.jpg",
+          "category": "KEEP — Lightweight Research History",
+          "bytes": 10720472,
+          "sha256": "1975ddcfd266b2b3e6ba3a96c36fb5698143a5df62ea6ec7c7b543e33042831d"
+        },
+        {
+          "path": "tests/fixtures/discovery/reflection.jpg",
+          "category": "KEEP — Lightweight Research History",
+          "bytes": 7230957,
+          "sha256": "813fd1fd234eead3e25646523d56dffbdc598e164de5c8e73907382ba82e410f"
+        },
+        {
+          "path": "tests/fixtures/readiness/forest.jpg",
+          "category": "KEEP — Lightweight Research History",
+          "bytes": 4978501,
+          "sha256": "2f9f01326230bf9166eec430eb6d14cac69412d6cf6e2ecc7a25970683e4ddea"
+        },
+        {
+          "path": "tests/fixtures/discovery/indoor.jpg",
+          "category": "KEEP — Lightweight Research History",
+          "bytes": 4316628,
+          "sha256": "73370acdcc90f7502bab5e4d0e03483f120aca6fa5a399590ced102869b188c8"
+        },
+        {
+          "path": "docs/phase-03/evidence/final/corpus-contact.png",
+          "category": "KEEP — Lightweight Research History",
+          "bytes": 3472686,
+          "sha256": "62c10f604e5d00759c51763e92cfd68423eb3ae79634e1445c14c337557020ee"
+        }
+      ],
+      "newlyExcludedFiles": 20,
+      "newlyExcludedReason": "Two reproducible tokenizer downloads and eighteen photos with unresolved individual redistribution rights; originals preserved locally",
+      "existingRecoverableLargeFilesExcluded": 86,
+      "regularIgnoredFilesAtInventory": 48128,
+      "ignoredGroupsAtInventory": {
+        "Private/generated audit workspace": {
+          "files": 1336,
+          "bytes": 168461725
+        },
+        "Private environment": {
+          "files": 1,
+          "bytes": 632
+        },
+        "Git candidates": {
+          "files": 628,
+          "bytes": 80095768
+        },
+        ".next": {
+          "files": 760,
+          "bytes": 310237447
+        },
+        ".next-research": {
+          "files": 287,
+          "bytes": 94422386
+        },
+        "companion": {
+          "files": 93,
+          "bytes": 2558425
+        },
+        "companion-dist": {
+          "files": 17284,
+          "bytes": 533311723
+        },
+        "docs": {
+          "files": 2,
+          "bytes": 30985318
+        },
+        "node_modules": {
+          "files": 28298,
+          "bytes": 980840537
+        },
+        "research": {
+          "files": 10,
+          "bytes": 326457194
+        },
+        "research-test-results": {
+          "files": 1,
+          "bytes": 45
+        },
+        "test-results": {
+          "files": 37,
+          "bytes": 4199370
+        },
+        "tests": {
+          "files": 18,
+          "bytes": 1589529
+        },
+        "tsconfig.tsbuildinfo": {
+          "files": 1,
+          "bytes": 263584
+        }
+      },
+      "gitMetadata": {
+        "at": "2026-10-22T21:33:25.0211391Z",
+        "connectivityCheckExitCode": 0,
+        "gitMetadataBytes": 68452487638,
+        "cleanupAttemptRejectedByAutomaticApproval": true,
+        "commitsOrRefsChanged": false,
+        "deletedFiles": 0,
+        "gitMetadataFiles": 1203,
+        "temporaryGarbageFiles": 1090,
+        "temporaryGarbageBytes": 68003197808
+      },
+      "head": {
+        "refs": [
+          "refs/codex/turn-diffs/captures/1792702986634/16fa2f92-6999-4605-a26b-858f337cc0f2/base tree",
+          "refs/heads/main commit",
+          "refs/remotes/origin/HEAD commit",
+          "refs/remotes/origin/main commit"
+        ],
+        "headObjects": 68,
+        "headBlobs": 54,
+        "headLargestBlob": 1035757,
+        "localCodexCaptureIsNotACommit": true,
+        "proposedPush": "Only the reviewed main branch; no --mirror or auxiliary-ref push. No push executed."
+      },
+      "stagedByAgent": false,
+      "committedByAgent": false,
+      "proposedCommitMessage": "feat: finalize image analytics and restricted cloud vision",
+      "manualReview": "Owner review of exact manifest, attribution records, retained historical evidence and final diff; no unresolved-rights original is proposed for Git",
+      "ignoredInventoryAt": "2026-10-22T21:42:03.001Z"
+    },
+    "finalSafety": {
+      "emergencyStop": true,
+      "modelsEnabled": [],
+      "activeOwnerSessions": 0,
+      "unreleasedActions": 0,
+      "attempts": 3,
+      "completed": 2,
+      "uncertain": 1,
+      "modelAndProjectDailyReservedTokens": 12288,
+      "modelAndProjectReportedTokens": 2743,
+      "previousUncertainRefunded": false,
+      "ownerInvitationRevocation": {
+        "at": "2026-10-22T21:25:52.237Z",
+        "ownerTestInvitationRevoked": true,
+        "otherInvitationsPreserved": true,
+        "quotaCountersReset": false,
+        "providerCredentialsChanged": false
+      },
+      "revocationHttp": {
+        "at": "2026-10-22T21:32:17.504Z",
+        "revokedOwnerInvitationHttpStatus": 403,
+        "expected": 403,
+        "providerInferenceCalls": 0
+      },
+      "publicReleaseFlag": false,
+      "paidBillingEnabled": false,
+      "deployments": 0,
+      "phase04Implementation": false
+    },
+    "liveWebsite": {
+      "at": "2026-10-22T21:36:05.026Z",
+      "status": 200,
+      "https": true,
+      "hiddenDataBrand": true,
+      "cloudFeatureMention": false,
+      "verifiedScope": "Read-only current live page availability; local changes were not deployed"
+    }
+  }
+}

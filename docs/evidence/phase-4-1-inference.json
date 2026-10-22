@@ -1,0 +1,513 @@
+{
+  "environment": "Chrome headless, Windows desktop, production Next build, WASM one thread; mobile viewport is not physical-device performance",
+  "records": [
+    {
+      "mode": "baseline",
+      "image": "tiger.jpg",
+      "result": {
+        "mode": "baseline",
+        "backend": "wasm",
+        "initializationMs": 2774.5999999046326,
+        "inferenceMs": 162.20000004768372,
+        "preprocessingMs": 44.200000047683716,
+        "reused": false,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [
+          {
+            "label": "tiger, Panthera tigris",
+            "score": 0.6171543907209076
+          },
+          {
+            "label": "tiger cat",
+            "score": 0.3090008101428717
+          },
+          {
+            "label": "tabby, tabby cat",
+            "score": 0.0016677356374403985
+          },
+          {
+            "label": "lynx, catamount",
+            "score": 0.0012065832424242656
+          },
+          {
+            "label": "Egyptian cat",
+            "score": 0.0010002249130797618
+          }
+        ],
+        "detections": []
+      },
+      "maxHeartbeatGapMs": 44.5
+    },
+    {
+      "mode": "baseline",
+      "image": "cats.jpg",
+      "result": {
+        "mode": "baseline",
+        "backend": "wasm",
+        "initializationMs": 0,
+        "inferenceMs": 37.40000009536743,
+        "preprocessingMs": 15,
+        "reused": true,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [
+          {
+            "label": "tabby, tabby cat",
+            "score": 0.8105705614284684
+          },
+          {
+            "label": "tiger cat",
+            "score": 0.07269452527272056
+          },
+          {
+            "label": "Egyptian cat",
+            "score": 0.07058694577058595
+          },
+          {
+            "label": "quilt, comforter, comfort, puff",
+            "score": 0.0027230760422116205
+          },
+          {
+            "label": "lynx, catamount",
+            "score": 0.002657414875017133
+          }
+        ],
+        "detections": []
+      },
+      "maxHeartbeatGapMs": 27.200000047683716
+    },
+    {
+      "mode": "baseline",
+      "image": "outdoor-cooking.jpg",
+      "result": {
+        "mode": "baseline",
+        "backend": "wasm",
+        "initializationMs": 0.09999990463256836,
+        "inferenceMs": 31.40000009536743,
+        "preprocessingMs": 21.700000047683716,
+        "reused": true,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [
+          {
+            "label": "spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish",
+            "score": 0.07262650622208962
+          },
+          {
+            "label": "milk can",
+            "score": 0.056364068789515984
+          },
+          {
+            "label": "fiddler crab",
+            "score": 0.0416423835156477
+          },
+          {
+            "label": "rock crab, Cancer irroratus",
+            "score": 0.0362966858807156
+          },
+          {
+            "label": "apiary, bee house",
+            "score": 0.03286332814289449
+          }
+        ],
+        "detections": []
+      },
+      "maxHeartbeatGapMs": 52.60000014305115
+    },
+    {
+      "mode": "detector",
+      "image": "tiger.jpg",
+      "result": {
+        "mode": "detector",
+        "backend": "wasm",
+        "initializationMs": 614.8000001907349,
+        "inferenceMs": 4121.700000047684,
+        "preprocessingMs": 75.79999995231628,
+        "reused": false,
+        "inputShape": [
+          1,
+          3,
+          512,
+          768
+        ],
+        "predictions": [],
+        "detections": [
+          {
+            "label": "cat",
+            "score": 0.852876603603363,
+            "box": {
+              "xmin": 0.14152437448501587,
+              "ymin": 0.0838327407836914,
+              "xmax": 0.8893981575965881,
+              "ymax": 0.9767793416976929
+            }
+          }
+        ]
+      },
+      "maxHeartbeatGapMs": 48.299999952316284
+    },
+    {
+      "mode": "detector",
+      "image": "cats.jpg",
+      "result": {
+        "mode": "detector",
+        "backend": "wasm",
+        "initializationMs": 0,
+        "inferenceMs": 2804.399999856949,
+        "preprocessingMs": 79.20000004768372,
+        "reused": true,
+        "inputShape": [
+          1,
+          3,
+          512,
+          682
+        ],
+        "predictions": [],
+        "detections": [
+          {
+            "label": "remote",
+            "score": 0.9976077675819397,
+            "box": {
+              "xmin": 0.08024469017982483,
+              "ymin": 0.15443073213100433,
+              "xmax": 0.2819472849369049,
+              "ymax": 0.24855782091617584
+            }
+          },
+          {
+            "label": "cat",
+            "score": 0.5915483236312866,
+            "box": {
+              "xmin": 0.5397147834300995,
+              "ymin": 0.047983914613723755,
+              "xmax": 0.9903941452503204,
+              "ymax": 0.7815878093242645
+            }
+          },
+          {
+            "label": "remote",
+            "score": 0.9795423746109009,
+            "box": {
+              "xmin": 0.533408910036087,
+              "ymin": 0.16938547790050507,
+              "xmax": 0.581022709608078,
+              "ymax": 0.3942418843507767
+            }
+          },
+          {
+            "label": "cat",
+            "score": 0.9920253157615662,
+            "box": {
+              "xmin": 0.030313551425933838,
+              "ymin": 0.10901015996932983,
+              "xmax": 0.5012730956077576,
+              "ymax": 0.9772259593009949
+            }
+          },
+          {
+            "label": "bed",
+            "score": 0.7097709774971008,
+            "box": {
+              "xmin": 0.0037240982055664062,
+              "ymin": 0.0016330182552337646,
+              "xmax": 1,
+              "ymax": 0.987141340970993
+            }
+          },
+          {
+            "label": "remote",
+            "score": 0.7822969555854797,
+            "box": {
+              "xmin": 0.07080163061618805,
+              "ymin": 0.15471012890338898,
+              "xmax": 0.2785057872533798,
+              "ymax": 0.25259093940258026
+            }
+          }
+        ]
+      },
+      "maxHeartbeatGapMs": 55
+    },
+    {
+      "mode": "detector",
+      "image": "outdoor-cooking.jpg",
+      "result": {
+        "mode": "detector",
+        "backend": "wasm",
+        "initializationMs": 0,
+        "inferenceMs": 2547.4000000953674,
+        "preprocessingMs": 69.80000019073486,
+        "reused": true,
+        "inputShape": [
+          1,
+          3,
+          512,
+          682
+        ],
+        "predictions": [],
+        "detections": [
+          {
+            "label": "bowl",
+            "score": 0.7333272695541382,
+            "box": {
+              "xmin": 0.2528742104768753,
+              "ymin": 0.595466360449791,
+              "xmax": 0.38981984555721283,
+              "ymax": 0.6726719290018082
+            }
+          },
+          {
+            "label": "bicycle",
+            "score": 0.5568005442619324,
+            "box": {
+              "xmin": 0.3150668889284134,
+              "ymin": 0.6151435226202011,
+              "xmax": 0.5067497938871384,
+              "ymax": 0.9607494026422501
+            }
+          },
+          {
+            "label": "bicycle",
+            "score": 0.7784970998764038,
+            "box": {
+              "xmin": 0.10470932722091675,
+              "ymin": 0.5525350719690323,
+              "xmax": 0.404427170753479,
+              "ymax": 0.9467618316411972
+            }
+          },
+          {
+            "label": "bicycle",
+            "score": 0.6116346120834351,
+            "box": {
+              "xmin": 0.1262228637933731,
+              "ymin": 0.5736316442489624,
+              "xmax": 0.33861903846263885,
+              "ymax": 0.9384647607803345
+            }
+          },
+          {
+            "label": "bowl",
+            "score": 0.6468803286552429,
+            "box": {
+              "xmin": 0.6601166278123856,
+              "ymin": 0.6152334660291672,
+              "xmax": 0.8035910576581955,
+              "ymax": 0.7677677422761917
+            }
+          },
+          {
+            "label": "bowl",
+            "score": 0.546355664730072,
+            "box": {
+              "xmin": 0.4869280606508255,
+              "ymin": 0.5848818123340607,
+              "xmax": 0.5867482870817184,
+              "ymax": 0.6560287177562714
+            }
+          }
+        ]
+      },
+      "maxHeartbeatGapMs": 114.79999995231628
+    },
+    {
+      "mode": "scene",
+      "image": "tiger.jpg",
+      "result": {
+        "mode": "scene",
+        "backend": "wasm",
+        "initializationMs": 2722.2000000476837,
+        "inferenceMs": 534.5999999046326,
+        "preprocessingMs": 42.200000047683716,
+        "reused": false,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [
+          {
+            "label": "a wild animal outdoors",
+            "score": 0.7345721051211679
+          },
+          {
+            "label": "animals resting indoors on furniture",
+            "score": 0.2522862816984962
+          },
+          {
+            "label": "binoculars and optical equipment",
+            "score": 0.004395957669168186
+          },
+          {
+            "label": "a market selling pottery",
+            "score": 0.0034656296929427366
+          },
+          {
+            "label": "a military vehicle",
+            "score": 0.0028690610473955224
+          },
+          {
+            "label": "a landscape without cooking equipment",
+            "score": 0.001127062594309772
+          },
+          {
+            "label": "people eating at a restaurant",
+            "score": 0.0006260796007703555
+          },
+          {
+            "label": "a radio telescope",
+            "score": 0.0002976591841646108
+          },
+          {
+            "label": "outdoor cooking with pots over a fire",
+            "score": 0.0002353649696829732
+          },
+          {
+            "label": "an indoor kitchen with cooking utensils",
+            "score": 0.00012479842190150876
+          }
+        ],
+        "detections": []
+      },
+      "maxHeartbeatGapMs": 49.59999990463257
+    },
+    {
+      "mode": "scene",
+      "image": "cats.jpg",
+      "result": {
+        "mode": "scene",
+        "backend": "wasm",
+        "initializationMs": 0,
+        "inferenceMs": 553.2999999523163,
+        "preprocessingMs": 12.700000047683716,
+        "reused": true,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [
+          {
+            "label": "animals resting indoors on furniture",
+            "score": 0.9769484879301611
+          },
+          {
+            "label": "a wild animal outdoors",
+            "score": 0.00848997179032116
+          },
+          {
+            "label": "an indoor kitchen with cooking utensils",
+            "score": 0.004246854604423241
+          },
+          {
+            "label": "a market selling pottery",
+            "score": 0.003049329557980026
+          },
+          {
+            "label": "binoculars and optical equipment",
+            "score": 0.0017152561102956937
+          },
+          {
+            "label": "outdoor cooking with pots over a fire",
+            "score": 0.0012992901952572746
+          },
+          {
+            "label": "a landscape without cooking equipment",
+            "score": 0.0012165956964534782
+          },
+          {
+            "label": "people eating at a restaurant",
+            "score": 0.001133336706085211
+          },
+          {
+            "label": "a military vehicle",
+            "score": 0.0011170648789040523
+          },
+          {
+            "label": "a radio telescope",
+            "score": 0.0007838125301188418
+          }
+        ],
+        "detections": []
+      },
+      "maxHeartbeatGapMs": 31.200000047683716
+    },
+    {
+      "mode": "scene",
+      "image": "outdoor-cooking.jpg",
+      "result": {
+        "mode": "scene",
+        "backend": "wasm",
+        "initializationMs": 0,
+        "inferenceMs": 529.8999998569489,
+        "preprocessingMs": 16.40000009536743,
+        "reused": true,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [
+          {
+            "label": "outdoor cooking with pots over a fire",
+            "score": 0.6758366892632737
+          },
+          {
+            "label": "a landscape without cooking equipment",
+            "score": 0.12824973490463587
+          },
+          {
+            "label": "a military vehicle",
+            "score": 0.0613517215025975
+          },
+          {
+            "label": "a market selling pottery",
+            "score": 0.05072130967714656
+          },
+          {
+            "label": "an indoor kitchen with cooking utensils",
+            "score": 0.03170875628128737
+          },
+          {
+            "label": "people eating at a restaurant",
+            "score": 0.021445071319653404
+          },
+          {
+            "label": "a wild animal outdoors",
+            "score": 0.0096939672088764
+          },
+          {
+            "label": "animals resting indoors on furniture",
+            "score": 0.007446698982795738
+          },
+          {
+            "label": "binoculars and optical equipment",
+            "score": 0.007179199580905157
+          },
+          {
+            "label": "a radio telescope",
+            "score": 0.006366851278828491
+          }
+        ],
+        "detections": []
+      },
+      "maxHeartbeatGapMs": 39.5
+    }
+  ]
+}

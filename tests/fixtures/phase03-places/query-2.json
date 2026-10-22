@@ -1,0 +1,1168 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 10,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "92667138": {
+        "pageid": 92667138,
+        "ns": 6,
+        "title": "File:Interior view of a submerged kitchen in the muddy water of the Mekong, at night, during a flood in Don Det, Laos.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 10957233,
+            "width": 5273,
+            "height": 3955,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Interior_view_of_a_submerged_kitchen_in_the_muddy_water_of_the_Mekong%2C_at_night%2C_during_a_flood_in_Don_Det%2C_Laos.jpg/960px-Interior_view_of_a_submerged_kitchen_in_the_muddy_water_of_the_Mekong%2C_at_night%2C_during_a_flood_in_Don_Det%2C_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Interior_view_of_a_submerged_kitchen_in_the_muddy_water_of_the_Mekong%2C_at_night%2C_during_a_flood_in_Don_Det%2C_Laos.jpg/1920px-Interior_view_of_a_submerged_kitchen_in_the_muddy_water_of_the_Mekong%2C_at_night%2C_during_a_flood_in_Don_Det%2C_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Interior_view_of_a_submerged_kitchen_in_the_muddy_water_of_the_Mekong%2C_at_night%2C_during_a_flood_in_Don_Det%2C_Laos.jpg/960px-Interior_view_of_a_submerged_kitchen_in_the_muddy_water_of_the_Mekong%2C_at_night%2C_during_a_flood_in_Don_Det%2C_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Interior_view_of_a_submerged_kitchen_in_the_muddy_water_of_the_Mekong%2C_at_night%2C_during_a_flood_in_Don_Det%2C_Laos.jpg/1920px-Interior_view_of_a_submerged_kitchen_in_the_muddy_water_of_the_Mekong%2C_at_night%2C_during_a_flood_in_Don_Det%2C_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Interior_view_of_a_submerged_kitchen_in_the_muddy_water_of_the_Mekong%2C_at_night%2C_during_a_flood_in_Don_Det%2C_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Interior_view_of_a_submerged_kitchen_in_the_muddy_water_of_the_Mekong,_at_night,_during_a_flood_in_Don_Det,_Laos.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92667138",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-08-06 00:57:54",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Interior view of a submerged kitchen in the muddy water of the Mekong, at night, during a flood in Don Det, Laos",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS 5D Mark IV and Canon EF 11-24mm F4L USM|Wok|Kettles|Casserole pans, pots and roasters|Don Det|Chain-link fences|Self-published work|Cooking fires|Night in Laos|Floods in Laos|Fires in Laos|Kitchens in Laos|Long exposure photographs of Laos|Weaving in Laos|Kitchens in the 2010s|Exposure time 10 sec|Stoves in Laos|Files with coordinates missing SDC location of creation|2019 floods in Laos|Photographs by Basile Morin|Building interiors at night|Long exposure photography in architecture|Basketry objects|Cookware lids|Fires at night|Metal lids|Flooded building interiors",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "13.985470",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "105.916190",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Interior view of a submerged kitchen in the muddy water of the Mekong, at night, during a <a href=\"https://en.wikipedia.org/wiki/Flood\" class=\"extiw\" title=\"en:Flood\">flood</a> in <a href=\"https://en.wikipedia.org/wiki/Don_Det\" class=\"extiw\" title=\"en:Don Det\">Don Det</a>, <a href=\"https://en.wikipedia.org/wiki/Si_Phan_Don\" class=\"extiw\" title=\"en:Si Phan Don\">Si Phan Don</a>, <a href=\"https://en.wikipedia.org/wiki/Laos\" class=\"extiw\" title=\"en:Laos\">Laos</a>. A kettle is heating up on a cooking fire, and there are <a href=\"https://en.wikipedia.org/wiki/Wicker\" class=\"extiw\" title=\"en:Wicker\">wicker</a> <a href=\"https://en.wikipedia.org/wiki/Basket_weaving\" class=\"extiw\" title=\"en:Basket weaving\">baskets</a>, casserole pans and cookware lids on the ceiling and on the wall. <a href=\"https://en.wikipedia.org/wiki/Long-exposure_photography\" class=\"extiw\" title=\"en:Long-exposure photography\">Long-exposure photography</a> (10 s).",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-09-06 18:34:53",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Basile_Morin\" title=\"User:Basile Morin\">Basile Morin</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "95790944": {
+        "pageid": 95790944,
+        "ns": 6,
+        "title": "File:Carlton (Kitchen interior with woman and three children). State Library Victoria.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 309353,
+            "width": 1600,
+            "height": 1154,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Carlton_%28Kitchen_interior_with_woman_and_three_children%29._State_Library_Victoria.jpg/960px-Carlton_%28Kitchen_interior_with_woman_and_three_children%29._State_Library_Victoria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 554,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/4/47/Carlton_%28Kitchen_interior_with_woman_and_three_children%29._State_Library_Victoria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Carlton_%28Kitchen_interior_with_woman_and_three_children%29._State_Library_Victoria.jpg/960px-Carlton_%28Kitchen_interior_with_woman_and_three_children%29._State_Library_Victoria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 554,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/4/47/Carlton_%28Kitchen_interior_with_woman_and_three_children%29._State_Library_Victoria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Carlton_%28Kitchen_interior_with_woman_and_three_children%29._State_Library_Victoria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Carlton_(Kitchen_interior_with_woman_and_three_children)._State_Library_Victoria.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95790944",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-11-04 07:27:13",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Carlton (Kitchen interior with woman and three children). State Library Victoria",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-Australia|Kitchens in the 1930s|Black and white photographs of children|Children of Australia|Black and white photographs in the 1930s|Children of Australia in 1935|PD-old missing SDC copyright status|Black and white photographs of women holding babies in Australia|Historical kitchens in Australia",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Interior view of kitchen with a woman and three children seated around a wooden table in front of fireplace. Silver gelatin photograph, 7.2 x 9.9 cm, part of a series taken by F. Oswald Barnett (Frederick Oswald) and other unidentified photographers in the 1930s. F. Oswald Barnett Collection, State Library of Victoria H2001.291/6.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "circa 1935<div style=\"display: none;\">date QS:P,+1935-00-00T00:00:00Z/9,P1480,Q5727902</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://search.slv.vic.gov.au/permalink/f/1cl35st/SLV_VOYAGER1777164\">http://search.slv.vic.gov.au/permalink/f/1cl35st/SLV_VOYAGER1777164</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "F. Oswald Barnett (Frederick Oswald) 1883-1972 photographer.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "122706491": {
+        "pageid": 122706491,
+        "ns": 6,
+        "title": "File:St. Mary Church Interior - Kitchener, ON.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4292302,
+            "width": 4912,
+            "height": 2760,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/St._Mary_Church_Interior_-_Kitchener%2C_ON.jpg/960px-St._Mary_Church_Interior_-_Kitchener%2C_ON.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 432,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/St._Mary_Church_Interior_-_Kitchener%2C_ON.jpg/1920px-St._Mary_Church_Interior_-_Kitchener%2C_ON.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/St._Mary_Church_Interior_-_Kitchener%2C_ON.jpg/960px-St._Mary_Church_Interior_-_Kitchener%2C_ON.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 432,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/St._Mary_Church_Interior_-_Kitchener%2C_ON.jpg/1920px-St._Mary_Church_Interior_-_Kitchener%2C_ON.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/St._Mary_Church_Interior_-_Kitchener%2C_ON.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:St._Mary_Church_Interior_-_Kitchener,_ON.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=122706491",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-09-06 01:10:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "St. Mary Church Interior - Kitchener, ON",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Saint Mary Church (Kitchener, Ontario)|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Interiors of Roman Catholic churches in Canada|Churches in Canada photographed in 2020|Photographs taken on 2020-10-03|Images of church interiors by JFVoll|Interiors of churches in Kitchener, Ontario",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "43.452370",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-80.490490",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Interior of St. Mary Our Lady of Seven Sorrows Church (church in Kitchener, Ontario, Canada)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "3 October 2020 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:JFVoll\" title=\"User:JFVoll\">JFVoll</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "155135310": {
+        "pageid": 155135310,
+        "ns": 6,
+        "title": "File:St. Anthony Daniel Church Interior - Kitchener, ON.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6028990,
+            "width": 6000,
+            "height": 3376,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/St._Anthony_Daniel_Church_Interior_-_Kitchener%2C_ON.jpg/960px-St._Anthony_Daniel_Church_Interior_-_Kitchener%2C_ON.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 432,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/St._Anthony_Daniel_Church_Interior_-_Kitchener%2C_ON.jpg/1920px-St._Anthony_Daniel_Church_Interior_-_Kitchener%2C_ON.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/St._Anthony_Daniel_Church_Interior_-_Kitchener%2C_ON.jpg/960px-St._Anthony_Daniel_Church_Interior_-_Kitchener%2C_ON.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 432,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/St._Anthony_Daniel_Church_Interior_-_Kitchener%2C_ON.jpg/1920px-St._Anthony_Daniel_Church_Interior_-_Kitchener%2C_ON.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/St._Anthony_Daniel_Church_Interior_-_Kitchener%2C_ON.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:St._Anthony_Daniel_Church_Interior_-_Kitchener,_ON.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=155135310",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-11-13 02:55:44",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "St. Anthony Daniel Church Interior - Kitchener, ON",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Interiors of Roman Catholic churches in Canada|Photographs taken on 2024-05-12|2024 in Kitchener, Ontario|St. Anthony Daniel Church (Kitchener, Ontario)|Images of church interiors by JFVoll|Interiors of churches in Kitchener, Ontario",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "43.448875",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-80.448667",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "St. Anthony Daniel Church in Kitchener, Ontario",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "12 May 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:JFVoll\" title=\"User:JFVoll\">JFVoll</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "155315030": {
+        "pageid": 155315030,
+        "ns": 6,
+        "title": "File:Church Of The Transfiguration Interior - Kitchener, ON.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3788891,
+            "width": 4912,
+            "height": 2760,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Church_Of_The_Transfiguration_Interior_-_Kitchener%2C_ON.jpg/960px-Church_Of_The_Transfiguration_Interior_-_Kitchener%2C_ON.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 432,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Church_Of_The_Transfiguration_Interior_-_Kitchener%2C_ON.jpg/1920px-Church_Of_The_Transfiguration_Interior_-_Kitchener%2C_ON.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Church_Of_The_Transfiguration_Interior_-_Kitchener%2C_ON.jpg/960px-Church_Of_The_Transfiguration_Interior_-_Kitchener%2C_ON.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 432,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Church_Of_The_Transfiguration_Interior_-_Kitchener%2C_ON.jpg/1920px-Church_Of_The_Transfiguration_Interior_-_Kitchener%2C_ON.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Church_Of_The_Transfiguration_Interior_-_Kitchener%2C_ON.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Church_Of_The_Transfiguration_Interior_-_Kitchener,_ON.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=155315030",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-11-18 16:03:34",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Church Of The Transfiguration Interior - Kitchener, ON",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2017-09-16|Ukrainian Catholic Church of the Transfiguration (Kitchener, Ontario)|Images of church interiors by JFVoll|Interiors of churches in Kitchener, Ontario",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "43.449314",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-80.501355",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Church Of The Transfiguration in Kitchener, Ontario",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "16 September 2017 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:JFVoll\" title=\"User:JFVoll\">JFVoll</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "157437917": {
+        "pageid": 157437917,
+        "ns": 6,
+        "title": "File:Apartment kitchen interior, nd (SEATTLE 2545).jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 51420,
+            "width": 504,
+            "height": 600,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Apartment_kitchen_interior%2C_nd_%28SEATTLE_2545%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 768,
+            "thumbheight": 914,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Apartment_kitchen_interior%2C_nd_%28SEATTLE_2545%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 914
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Apartment_kitchen_interior%2C_nd_%28SEATTLE_2545%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Apartment_kitchen_interior,_nd_(SEATTLE_2545).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=157437917",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-01-02 03:34:19",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Apartment kitchen interior, n.d.",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Cooking stoves|Home kitchens in Washington (state)|PD US expired|Black and white photographs of Seattle|Template Unknown (author)|Building interiors in Seattle|Apartments in the United States|Unidentified locations in Seattle, Washington|Seattle in the 1920s|Stoves in the United States|Home kitchens in the 1920s|Cupboards in the United States|Images from the Seattle Photographs Collection|Empty rooms in the United States",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nUnknown author<span style=\"display: none;\">Unknown author</span></div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Designed by the architectural firm of Stuart and Wheatley.\n<p>PH Coll 585.83\n</p>\n<ul><li>Subjects (LCTGM): Apartments--Washington (State)--Seattle; Kitchens--Washington (State)--Seattle; Cupboards--Washington (State)--Seattle; Stoves--Washington (State)--Seattle</li></ul>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "circa between 1920 and 1929<div style=\"display: none;\">date QS:P571,+1920-00-00T00:00:00Z/8,P1319,+1920-00-00T00:00:00Z/9,P1326,+1929-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://content.lib.washington.edu/seattleweb/index.html\">Seattle Photographs</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in the <a href=\"https://en.wikipedia.org/wiki/United_States\" class=\"extiw\" title=\"en:United States\">United States</a> because it was <a href=\"//commons.wikimedia.org/wiki/Commons:Publication\" title=\"Commons:Publication\">published</a> (or registered with the <a href=\"https://en.wikipedia.org/wiki/United_States_Copyright_Office\" class=\"extiw\" title=\"en:United States Copyright Office\">U.S. Copyright Office</a>) before January 1, 1931.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "158734074": {
+        "pageid": 158734074,
+        "ns": 6,
+        "title": "File:Interior of Kitchen Cafe 2025-01-29.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6483425,
+            "width": 8160,
+            "height": 6144,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Interior_of_Kitchen_Cafe_2025-01-29.jpg/960px-Interior_of_Kitchen_Cafe_2025-01-29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 578,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Interior_of_Kitchen_Cafe_2025-01-29.jpg/1920px-Interior_of_Kitchen_Cafe_2025-01-29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Interior_of_Kitchen_Cafe_2025-01-29.jpg/960px-Interior_of_Kitchen_Cafe_2025-01-29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 578,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Interior_of_Kitchen_Cafe_2025-01-29.jpg/1920px-Interior_of_Kitchen_Cafe_2025-01-29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Interior_of_Kitchen_Cafe_2025-01-29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Interior_of_Kitchen_Cafe_2025-01-29.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=158734074",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-01-29 10:05:19",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Interior of Kitchen Cafe 2025-01-29",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|January 2025 in East Sussex|England photographs taken on 2025-01-29|Files with coordinates missing SDC location of creation (50° N, 1° W)|Buildings in East Sussex photographed in 2025|Kitchen Cafe, Brighton|January 2025 in Brighton|Interiors of cafés in East Sussex",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "50.828133",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-0.137147",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "interior of Kitchen Cafe",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-01-29 08:10:53",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Onthewings\" title=\"User:Onthewings\">Andy Li</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "168790721": {
+        "pageid": 168790721,
+        "ns": 6,
+        "title": "File:Kitchen, Interior of apartment in Brisbane, 2025, 03.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5523487,
+            "width": 8064,
+            "height": 6048,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Kitchen%2C_Interior_of_apartment_in_Brisbane%2C_2025%2C_03.jpg/960px-Kitchen%2C_Interior_of_apartment_in_Brisbane%2C_2025%2C_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Kitchen%2C_Interior_of_apartment_in_Brisbane%2C_2025%2C_03.jpg/1920px-Kitchen%2C_Interior_of_apartment_in_Brisbane%2C_2025%2C_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Kitchen%2C_Interior_of_apartment_in_Brisbane%2C_2025%2C_03.jpg/960px-Kitchen%2C_Interior_of_apartment_in_Brisbane%2C_2025%2C_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Kitchen%2C_Interior_of_apartment_in_Brisbane%2C_2025%2C_03.jpg/1920px-Kitchen%2C_Interior_of_apartment_in_Brisbane%2C_2025%2C_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Kitchen%2C_Interior_of_apartment_in_Brisbane%2C_2025%2C_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kitchen,_Interior_of_apartment_in_Brisbane,_2025,_03.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=168790721",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-06-29 03:20:23",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Kitchen, Interior of apartment in Brisbane, 2025, 03",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Pages with local camera coordinates and mismatching SDC coordinates|June 2025 in Queensland|Australia photographs taken on 2025-06-29|Photos by User:Kgbo|Photographs of Home by Kgbo in 2025|Interior of apartments in Queensland|Interior of houses in Australia|Taken with iPhone 15 Pro Max (main camera)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-27.530000",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "152.980000",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Kitchen, Interior of apartment in Brisbane, 2025",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-06-29 09:47:47",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Kgbo\" title=\"User:Kgbo\">Chris Olszewski</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "169376657": {
+        "pageid": 169376657,
+        "ns": 6,
+        "title": "File:St. Mark Church (Interior) - Kitchener, ON.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5963668,
+            "width": 6000,
+            "height": 3376,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/St._Mark_Church_%28Interior%29_-_Kitchener%2C_ON.jpg/960px-St._Mark_Church_%28Interior%29_-_Kitchener%2C_ON.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 432,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/St._Mark_Church_%28Interior%29_-_Kitchener%2C_ON.jpg/1920px-St._Mark_Church_%28Interior%29_-_Kitchener%2C_ON.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/St._Mark_Church_%28Interior%29_-_Kitchener%2C_ON.jpg/960px-St._Mark_Church_%28Interior%29_-_Kitchener%2C_ON.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 432,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/St._Mark_Church_%28Interior%29_-_Kitchener%2C_ON.jpg/1920px-St._Mark_Church_%28Interior%29_-_Kitchener%2C_ON.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/St._Mark_Church_%28Interior%29_-_Kitchener%2C_ON.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:St._Mark_Church_(Interior)_-_Kitchener,_ON.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=169376657",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-07-07 01:33:33",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "St. Mark Church (Interior) - Kitchener, ON",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Interiors of Roman Catholic churches in Canada|Churches in Canada photographed in 2025|2025 in Kitchener, Ontario|St. Mark Church (Kitchener, Ontario)|Images of church interiors by JFVoll|Photographs taken on 2025-07-06",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "43.417030",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-80.534950",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "St. Mark Church (catholic church in Kitchener, Ontario)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "6 July 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:JFVoll\" title=\"User:JFVoll\">JFVoll</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "199834437": {
+        "pageid": 199834437,
+        "ns": 6,
+        "title": "File:Doon Presbyterian Church - Kitchener, ON (Interior).jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5963776,
+            "width": 6000,
+            "height": 3376,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Doon_Presbyterian_Church_-_Kitchener%2C_ON_%28Interior%29.jpg/960px-Doon_Presbyterian_Church_-_Kitchener%2C_ON_%28Interior%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 432,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Doon_Presbyterian_Church_-_Kitchener%2C_ON_%28Interior%29.jpg/1920px-Doon_Presbyterian_Church_-_Kitchener%2C_ON_%28Interior%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Doon_Presbyterian_Church_-_Kitchener%2C_ON_%28Interior%29.jpg/960px-Doon_Presbyterian_Church_-_Kitchener%2C_ON_%28Interior%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 432,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Doon_Presbyterian_Church_-_Kitchener%2C_ON_%28Interior%29.jpg/1920px-Doon_Presbyterian_Church_-_Kitchener%2C_ON_%28Interior%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Doon_Presbyterian_Church_-_Kitchener%2C_ON_%28Interior%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Doon_Presbyterian_Church_-_Kitchener,_ON_(Interior).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=199834437",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-09-20 00:33:27",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Doon Presbyterian Church - Kitchener, ON (Interior)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Creative Commons Attribution-Share Alike missing SDC copyright status|Self-published work|Creative Commons Attribution-Share Alike 3.0 missing SDC copyright license|Self-published work missing SDC copyright license|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|2026 in Kitchener, Ontario|Images of church interiors by JFVoll|Interiors of churches in Kitchener, Ontario|September 2026 in Ontario|Interiors of Presbyterian churches in Canada|Photographs taken on 2026-09-19|Doon Presbyterian Church (Kitchener, Ontario)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "43.395338",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-80.417207",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The interior of Doon Presbyterian Church",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "19 September 2026 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:JFVoll\" title=\"User:JFVoll\">JFVoll</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

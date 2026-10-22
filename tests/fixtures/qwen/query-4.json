@@ -1,0 +1,1715 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 15,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "2962100": {
+        "pageid": 2962100,
+        "ns": 6,
+        "title": "File:Kayak on Lake Union 02.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 888152,
+            "width": 2592,
+            "height": 1944,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Kayak_on_Lake_Union_02.jpg/960px-Kayak_on_Lake_Union_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Kayak_on_Lake_Union_02.jpg/1920px-Kayak_on_Lake_Union_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Kayak_on_Lake_Union_02.jpg/960px-Kayak_on_Lake_Union_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Kayak_on_Lake_Union_02.jpg/1920px-Kayak_on_Lake_Union_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Kayak_on_Lake_Union_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kayak_on_Lake_Union_02.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2962100",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2007-10-23 17:29:49",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Kayak on Lake Union 02",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Nikon Coolpix P2|Kayaking|Lake Union|2007 in Seattle|License migration completed|October 2007 in Washington (state)|Self-published work|United States photographs taken on 2007-10-23|Boats in Seattle|Historic Ships Wharf",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Kayaking on the south part of Lake Union, Seattle, Washington, USA. In the background is the Historic Ships Wharf and the future location of the Museum of History and Industry .",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 23 October 2007",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Photo by <a href=\"//commons.wikimedia.org/wiki/User:Jmabel\" title=\"User:Jmabel\">Joe Mabel</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jmabel\" title=\"User:Jmabel\">Joe Mabel</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "GFDL granted by photographer",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jmabel\" title=\"User:Jmabel\">Joe Mabel</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "22562791": {
+        "pageid": 22562791,
+        "ns": 6,
+        "title": "File:Kayak sunset Lake Ahquabi State Park.jpg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4502186,
+            "width": 4156,
+            "height": 3010,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Kayak_sunset_Lake_Ahquabi_State_Park.jpg/960px-Kayak_sunset_Lake_Ahquabi_State_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 556,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Kayak_sunset_Lake_Ahquabi_State_Park.jpg/1920px-Kayak_sunset_Lake_Ahquabi_State_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Kayak_sunset_Lake_Ahquabi_State_Park.jpg/960px-Kayak_sunset_Lake_Ahquabi_State_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 556,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Kayak_sunset_Lake_Ahquabi_State_Park.jpg/1920px-Kayak_sunset_Lake_Ahquabi_State_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Kayak_sunset_Lake_Ahquabi_State_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kayak_sunset_Lake_Ahquabi_State_Park.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=22562791",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2012-11-05 22:09:00",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Kayak sunset Lake Ahquabi State Park",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Lakes of Iowa|Taken with Sony DSC-W560|Lake Ahquabi State Park|Self-published work|July 2011 in Iowa|Files with coordinates missing SDC location of creation|United States photographs taken on 2011-07-25|Boats at sunset|Kayaking in Iowa|Purple sunsets of Iowa|Orange sunsets of Iowa|White sunsets of Iowa|Blue sunsets of Iowa|Sunsets at lakes of the United States",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "41.291830",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-93.591430",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Beautiful sunset taken in a kayak on Lake Ahquabi State Park just south of Des Moines, Iowa.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 25 July 2011, 20:18:46",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Kvhuegel&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Kvhuegel (page does not exist)\">Kvhuegel</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "29344666": {
+        "pageid": 29344666,
+        "ns": 6,
+        "title": "File:Kayak Fishing on Bear Creek Lake (7140507591).jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3514047,
+            "width": 3008,
+            "height": 2000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Kayak_Fishing_on_Bear_Creek_Lake_%287140507591%29.jpg/960px-Kayak_Fishing_on_Bear_Creek_Lake_%287140507591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 511,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Kayak_Fishing_on_Bear_Creek_Lake_%287140507591%29.jpg/1920px-Kayak_Fishing_on_Bear_Creek_Lake_%287140507591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Kayak_Fishing_on_Bear_Creek_Lake_%287140507591%29.jpg/960px-Kayak_Fishing_on_Bear_Creek_Lake_%287140507591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 511,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Kayak_Fishing_on_Bear_Creek_Lake_%287140507591%29.jpg/1920px-Kayak_Fishing_on_Bear_Creek_Lake_%287140507591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Kayak_Fishing_on_Bear_Creek_Lake_%287140507591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kayak_Fishing_on_Bear_Creek_Lake_(7140507591).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=29344666",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-11-02 05:34:07",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Kayak Fishing on Bear Creek Lake (7140507591)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Nikon D40|Bear Creek Lake State Park|Flickr images reviewed by File Upload Bot (Magnus Manske)|Kayaks in Virginia|Photographs by Virginia State Parks",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<p>Kayak Fishing on Bear Creek Lake with Jim Shank. Friends of BCL member. Used in blog May 2012. zar\n</p>\nused in facebook",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2011-07-16 17:00",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p><a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/vastateparksstaff/7140507591/\">Kayak Fishing on Bear Creek Lake</a>\n</p>\n<ul><li>Uploaded by <a href=\"//commons.wikimedia.org/wiki/User:AlbertHerring\" class=\"mw-redirect\" title=\"User:AlbertHerring\">AlbertHerring</a></li></ul>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/37922399@N05\">Virginia State Parks staff</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "29344671": {
+        "pageid": 29344671,
+        "ns": 6,
+        "title": "File:Kayak Fishing at Bear Creek Lake (7140498945).jpg",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3721921,
+            "width": 2576,
+            "height": 1932,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Kayak_Fishing_at_Bear_Creek_Lake_%287140498945%29.jpg/960px-Kayak_Fishing_at_Bear_Creek_Lake_%287140498945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Kayak_Fishing_at_Bear_Creek_Lake_%287140498945%29.jpg/1920px-Kayak_Fishing_at_Bear_Creek_Lake_%287140498945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Kayak_Fishing_at_Bear_Creek_Lake_%287140498945%29.jpg/960px-Kayak_Fishing_at_Bear_Creek_Lake_%287140498945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Kayak_Fishing_at_Bear_Creek_Lake_%287140498945%29.jpg/1920px-Kayak_Fishing_at_Bear_Creek_Lake_%287140498945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Kayak_Fishing_at_Bear_Creek_Lake_%287140498945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kayak_Fishing_at_Bear_Creek_Lake_(7140498945).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=29344671",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-11-02 05:34:12",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Kayak Fishing at Bear Creek Lake (7140498945)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Kodak EasyShare DX7590|Bear Creek Lake State Park|Flickr images reviewed by File Upload Bot (Magnus Manske)|Kayaks in Virginia|Photographs by Virginia State Parks",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Kayak Fishing at Bear Creek Lake. Used in blog May 2012.zar",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2007-09-02 13:03",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p><a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/vastateparksstaff/7140498945/\">Kayak Fishing at Bear Creek Lake</a>\n</p>\n<ul><li>Uploaded by <a href=\"//commons.wikimedia.org/wiki/User:AlbertHerring\" class=\"mw-redirect\" title=\"User:AlbertHerring\">AlbertHerring</a></li></ul>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/37922399@N05\">Virginia State Parks staff</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "30091407": {
+        "pageid": 30091407,
+        "ns": 6,
+        "title": "File:A view from a kayak, Lake Tiorati, NY, 2012.jpg",
+        "index": 13,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1060326,
+            "width": 3264,
+            "height": 1840,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/A_view_from_a_kayak%2C_Lake_Tiorati%2C_NY%2C_2012.jpg/960px-A_view_from_a_kayak%2C_Lake_Tiorati%2C_NY%2C_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 433,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/A_view_from_a_kayak%2C_Lake_Tiorati%2C_NY%2C_2012.jpg/1920px-A_view_from_a_kayak%2C_Lake_Tiorati%2C_NY%2C_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/A_view_from_a_kayak%2C_Lake_Tiorati%2C_NY%2C_2012.jpg/960px-A_view_from_a_kayak%2C_Lake_Tiorati%2C_NY%2C_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 433,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/A_view_from_a_kayak%2C_Lake_Tiorati%2C_NY%2C_2012.jpg/1920px-A_view_from_a_kayak%2C_Lake_Tiorati%2C_NY%2C_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/A_view_from_a_kayak%2C_Lake_Tiorati%2C_NY%2C_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:A_view_from_a_kayak,_Lake_Tiorati,_NY,_2012.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=30091407",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-12-10 15:50:12",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "A view from a kayak, Lake Tiorati, NY, 2012",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Lakes of New York (state)|GFDL|Harriman State Park|License migration redundant|June 2012 in New York (state)|Kayaks in New York (state)|Self-published work|Uploaded with en.wp upload wizard|United States photographs taken on 2012-06-23",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A picture of a kayak on Lake Tiorati from the boater's perspective. View is of one of the islands on Lake Tiorati.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 23 June 2012",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p>With a cell phone camera. June 23 2012<br>\n</p>\n<b>Previously published:</b> n/a",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Wjs23&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wjs23 (page does not exist)\">Wjs23</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "41991712": {
+        "pageid": 41991712,
+        "ns": 6,
+        "title": "File:Kayak on Lake Union 03.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6661012,
+            "width": 4288,
+            "height": 2848,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Kayak_on_Lake_Union_03.jpg/960px-Kayak_on_Lake_Union_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 510,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Kayak_on_Lake_Union_03.jpg/1920px-Kayak_on_Lake_Union_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Kayak_on_Lake_Union_03.jpg/960px-Kayak_on_Lake_Union_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 510,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Kayak_on_Lake_Union_03.jpg/1920px-Kayak_on_Lake_Union_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Kayak_on_Lake_Union_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kayak_on_Lake_Union_03.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=41991712",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-07-31 18:29:01",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Kayak on Lake Union 03",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Eastlake, Seattle, Washington|Kayaking|Lake Union|Gas Works Park|License migration redundant|Self-published work|Photographs taken on 2015-07-30|July 2015 in Seattle|Boats in Seattle",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Kayaking on the northeast part of Lake Union Seattle, Washington, U.S.; seen from Gas Works Park. Part of the Eastlake neighborhood in the background.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-07-30",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Photo by <a href=\"//commons.wikimedia.org/wiki/User:Jmabel\" title=\"User:Jmabel\">Joe Mabel</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jmabel\" title=\"User:Jmabel\">Joe Mabel</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "You may select the license of your choice.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jmabel\" title=\"User:Jmabel\">Joe Mabel</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "42465202": {
+        "pageid": 42465202,
+        "ns": 6,
+        "title": "File:Franny's new Kayak in Finch Lake, Louisiana, July 2011.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 11740164,
+            "width": 3620,
+            "height": 2797,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Franny%27s_new_Kayak_in_Finch_Lake%2C_Louisiana%2C_July_2011.jpg/960px-Franny%27s_new_Kayak_in_Finch_Lake%2C_Louisiana%2C_July_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 593,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Franny%27s_new_Kayak_in_Finch_Lake%2C_Louisiana%2C_July_2011.jpg/1920px-Franny%27s_new_Kayak_in_Finch_Lake%2C_Louisiana%2C_July_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Franny%27s_new_Kayak_in_Finch_Lake%2C_Louisiana%2C_July_2011.jpg/960px-Franny%27s_new_Kayak_in_Finch_Lake%2C_Louisiana%2C_July_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 593,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Franny%27s_new_Kayak_in_Finch_Lake%2C_Louisiana%2C_July_2011.jpg/1920px-Franny%27s_new_Kayak_in_Finch_Lake%2C_Louisiana%2C_July_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Franny%27s_new_Kayak_in_Finch_Lake%2C_Louisiana%2C_July_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Franny%27s_new_Kayak_in_Finch_Lake,_Louisiana,_July_2011.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=42465202",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-08-18 13:52:19",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Franny's new Kayak in Finch Lake, Louisiana, July 2011",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Lakes of Louisiana|Kayaking|Tone-mapped HDR images|Flickr images reviewed by FlickreviewR|July 2011 in Louisiana|Files with coordinates missing SDC location of creation|Lake shores of Louisiana|Taxodium distichum in Louisiana|Photographs taken with Tamron lenses",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "32.855217",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-92.100503",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://fiveprime.org/blackmagic\">BlackMagic</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2011-07-09 10:34",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/finchlake/5919845266/\">Franny's new Kayak in Finch Lake</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/99619582@N00\">finchlake2000</a> from Finch Lake Campground, (a small drinking village, with a Big Fishing Problem), Louisiana, USA",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "76403850": {
+        "pageid": 76403850,
+        "ns": 6,
+        "title": "File:Kayaker on Skoi Lake in Bowron Lake Provincial Park, BC (DSCF3638).jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8328847,
+            "width": 4902,
+            "height": 3010,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Kayaker_on_Skoi_Lake_in_Bowron_Lake_Provincial_Park%2C_BC_%28DSCF3638%29.jpg/960px-Kayaker_on_Skoi_Lake_in_Bowron_Lake_Provincial_Park%2C_BC_%28DSCF3638%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 472,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Kayaker_on_Skoi_Lake_in_Bowron_Lake_Provincial_Park%2C_BC_%28DSCF3638%29.jpg/1920px-Kayaker_on_Skoi_Lake_in_Bowron_Lake_Provincial_Park%2C_BC_%28DSCF3638%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Kayaker_on_Skoi_Lake_in_Bowron_Lake_Provincial_Park%2C_BC_%28DSCF3638%29.jpg/960px-Kayaker_on_Skoi_Lake_in_Bowron_Lake_Provincial_Park%2C_BC_%28DSCF3638%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 472,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Kayaker_on_Skoi_Lake_in_Bowron_Lake_Provincial_Park%2C_BC_%28DSCF3638%29.jpg/1920px-Kayaker_on_Skoi_Lake_in_Bowron_Lake_Provincial_Park%2C_BC_%28DSCF3638%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Kayaker_on_Skoi_Lake_in_Bowron_Lake_Provincial_Park%2C_BC_%28DSCF3638%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kayaker_on_Skoi_Lake_in_Bowron_Lake_Provincial_Park,_BC_(DSCF3638).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=76403850",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-02-07 13:50:41",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Kayaker on Skoi Lake in Bowron Lake Provincial Park, BC (DSCF3638)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Lakes of British Columbia|Taken with Fujifilm X-E2 and XF18-55mmF2.8-4 R LM OIS|ISO speed rating 200|Self-published work|Yellow boats|F-number f/11|Files with coordinates missing SDC location of creation|Canada photographs taken on 2018-07-17|Uploaded with dtMediaWiki|Photographs by Trougnouf in 2018|Kayakers from Canada|July 2018 in British Columbia|Lakes of Bowron Lake Provincial Park|Female kayakers|Lens focal length 30.2 mm",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "53.098790",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-121.210194",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Kayaker on Skoi Lake in Bowron Lake Provincial Park, BC",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-07-17 14:05:41",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Trougnouf\" title=\"User:Trougnouf\">Trougnouf (Benoit Brummer)</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "82477776": {
+        "pageid": 82477776,
+        "ns": 6,
+        "title": "File:Kayak tour on Yellowstone Lake (e2c11780-f266-4891-ac47-04875206774b).jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1753817,
+            "width": 2486,
+            "height": 1523,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Kayak_tour_on_Yellowstone_Lake_%28e2c11780-f266-4891-ac47-04875206774b%29.jpg/960px-Kayak_tour_on_Yellowstone_Lake_%28e2c11780-f266-4891-ac47-04875206774b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 471,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Kayak_tour_on_Yellowstone_Lake_%28e2c11780-f266-4891-ac47-04875206774b%29.jpg/1920px-Kayak_tour_on_Yellowstone_Lake_%28e2c11780-f266-4891-ac47-04875206774b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Kayak_tour_on_Yellowstone_Lake_%28e2c11780-f266-4891-ac47-04875206774b%29.jpg/960px-Kayak_tour_on_Yellowstone_Lake_%28e2c11780-f266-4891-ac47-04875206774b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 471,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Kayak_tour_on_Yellowstone_Lake_%28e2c11780-f266-4891-ac47-04875206774b%29.jpg/1920px-Kayak_tour_on_Yellowstone_Lake_%28e2c11780-f266-4891-ac47-04875206774b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Kayak_tour_on_Yellowstone_Lake_%28e2c11780-f266-4891-ac47-04875206774b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kayak_tour_on_Yellowstone_Lake_(e2c11780-f266-4891-ac47-04875206774b).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82477776",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-09-24 04:34:55",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Kayak tour on Yellowstone Lake",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Water in Wyoming|PD US NPS|Kayaks in Wyoming|Photographs taken on 2015-07-02|Files from Yellowstone NPS Flickr stream|Images from NPGallery|Canoeing and Kayaking in Yellowstone National Park|Boating on Yellowstone Lake",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "NPS/Diane Renkin",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<p>A group of kayakers paddle in a close group out in a large lake.</p>\n<p>Kayak tour on Yellowstone Lake</p>\n<ul><li>Keywords: visitors; yellowstone national park; boating; visitor activities; water; 20219d.jpg</li></ul>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 2 July 2015",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://npgallery.nps.gov/\">NPGallery</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td><i>This image or media file contains material based on a work of a <a href=\"https://en.wikipedia.org/wiki/National_Park_Service\" class=\"extiw\" title=\"w:National Park Service\">National Park Service</a> employee, created as part of that person's official duties. As a <a href=\"https://en.wikipedia.org/wiki/Work_of_the_United_States_Government\" class=\"extiw\" title=\"w:Work of the United States Government\">work</a> of the <a href=\"https://en.wikipedia.org/wiki/Federal_Government_of_the_United_States\" class=\"extiw\" title=\"w:Federal Government of the United States\">U.S. federal government</a>, such work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"w:public domain\">public domain</a></b> in the United States. See the <a rel=\"nofollow\" class=\"external text\" href=\"https://www.nps.gov/\">NPS website</a> and <a rel=\"nofollow\" class=\"external text\" href=\"https://www.nps.gov/aboutus/disclaimer.htm\">NPS copyright policy</a> for more information.</i>\n</td>\n<td><figure class=\"mw-halign-right\" typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_of_the_United_States_National_Park_Service.svg/60px-Logo_of_the_United_States_National_Park_Service.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"52\" height=\"68\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_of_the_United_States_National_Park_Service.svg/120px-Logo_of_the_United_States_National_Park_Service.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"553\" data-file-height=\"720\"></span><figcaption></figcaption></figure>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "92219734": {
+        "pageid": 92219734,
+        "ns": 6,
+        "title": "File:Kayak Fishing at Okmulgee Lake - Flickr - FreeWine.jpg",
+        "index": 14,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 160410,
+            "width": 650,
+            "height": 814,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Kayak_Fishing_at_Okmulgee_Lake_-_Flickr_-_FreeWine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 768,
+            "thumbheight": 962,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Kayak_Fishing_at_Okmulgee_Lake_-_Flickr_-_FreeWine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 962
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Kayak_Fishing_at_Okmulgee_Lake_-_Flickr_-_FreeWine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kayak_Fishing_at_Okmulgee_Lake_-_Flickr_-_FreeWine.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92219734",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-07-14 01:40:53",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Kayak Fishing at Okmulgee Lake - Flickr - FreeWine",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Kayaks in Oklahoma|Files with coordinates missing SDC location of creation|United States photographs taken on 2008-10-18|Flickr images reviewed by FlickreviewR 2|Flickr files uploaded by Red panda bot|Photos in Flickr Explore|Okmulgee Lake",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "35.605533",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-96.068830",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Kayak Fishing at Okmulgee Lake",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 18 October 2008, 08:29",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/freewine/2955391656/\">Kayak Fishing at Okmulgee Lake</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/96332550@N00\">Thomas &amp; Dianne Jones</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "105501561": {
+        "pageid": 105501561,
+        "ns": 6,
+        "title": "File:Kayak lessons on the lake - geograph.org.uk - 2021165.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1166372,
+            "width": 2048,
+            "height": 1536,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Kayak_lessons_on_the_lake_-_geograph.org.uk_-_2021165.jpg/960px-Kayak_lessons_on_the_lake_-_geograph.org.uk_-_2021165.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Kayak_lessons_on_the_lake_-_geograph.org.uk_-_2021165.jpg/1920px-Kayak_lessons_on_the_lake_-_geograph.org.uk_-_2021165.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Kayak_lessons_on_the_lake_-_geograph.org.uk_-_2021165.jpg/960px-Kayak_lessons_on_the_lake_-_geograph.org.uk_-_2021165.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Kayak_lessons_on_the_lake_-_geograph.org.uk_-_2021165.jpg/1920px-Kayak_lessons_on_the_lake_-_geograph.org.uk_-_2021165.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Kayak_lessons_on_the_lake_-_geograph.org.uk_-_2021165.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kayak_lessons_on_the_lake_-_geograph.org.uk_-_2021165.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=105501561",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-05-19 02:05:07",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Kayak lessons on the lake - geograph.org.uk - 2021165",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Kayaking in England|Images from Geograph Britain and Ireland|Brereton Heath country park",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "53.183278",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-2.305836",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Kayak lessons on the lake <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Kayak_lessons_on_the_lake_-_geograph.org.uk_-_2021165.jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2010-08-18",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/2021165\">Geograph Britain and Ireland</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Kayak_lessons_on_the_lake_-_geograph.org.uk_-_2021165.jpg#P7482\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/31463\">Jonathan Kington</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Kayak_lessons_on_the_lake_-_geograph.org.uk_-_2021165.jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<i>Kayak lessons on the lake</i> by Jonathan Kington",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "141569531": {
+        "pageid": 141569531,
+        "ns": 6,
+        "title": "File:Kayaker on Waterloo Lake - geograph.org.uk - 5837884.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 179845,
+            "width": 1024,
+            "height": 768,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Kayaker_on_Waterloo_Lake_-_geograph.org.uk_-_5837884.jpg/960px-Kayaker_on_Waterloo_Lake_-_geograph.org.uk_-_5837884.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Kayaker_on_Waterloo_Lake_-_geograph.org.uk_-_5837884.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Kayaker_on_Waterloo_Lake_-_geograph.org.uk_-_5837884.jpg/960px-Kayaker_on_Waterloo_Lake_-_geograph.org.uk_-_5837884.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Kayaker_on_Waterloo_Lake_-_geograph.org.uk_-_5837884.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Kayaker_on_Waterloo_Lake_-_geograph.org.uk_-_5837884.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kayaker_on_Waterloo_Lake_-_geograph.org.uk_-_5837884.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=141569531",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-11-30 09:48:08",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Kayaker on Waterloo Lake - geograph.org.uk - 5837884",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Kayaking in England|Images from Geograph Britain and Ireland|Waterloo Lake",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "53.832242",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-1.493996",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Kayaker on Waterloo Lake <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Kayaker_on_Waterloo_Lake_-_geograph.org.uk_-_5837884.jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-07-07",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/5837884\">Geograph Britain and Ireland</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Kayaker_on_Waterloo_Lake_-_geograph.org.uk_-_5837884.jpg#P7482\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/6597\">Stephen Craven</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Kayaker_on_Waterloo_Lake_-_geograph.org.uk_-_5837884.jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<i>Kayaker on Waterloo Lake</i> by Stephen Craven",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "150718368": {
+        "pageid": 150718368,
+        "ns": 6,
+        "title": "File:Kayaking on Lake Waikaremoana.jpg",
+        "index": 15,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1360760,
+            "width": 2048,
+            "height": 1367,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Kayaking_on_Lake_Waikaremoana.jpg/960px-Kayaking_on_Lake_Waikaremoana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 513,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Kayaking_on_Lake_Waikaremoana.jpg/1920px-Kayaking_on_Lake_Waikaremoana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Kayaking_on_Lake_Waikaremoana.jpg/960px-Kayaking_on_Lake_Waikaremoana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 513,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Kayaking_on_Lake_Waikaremoana.jpg/1920px-Kayaking_on_Lake_Waikaremoana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Kayaking_on_Lake_Waikaremoana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kayaking_on_Lake_Waikaremoana.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=150718368",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-07-24 06:23:19",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Kayaking on Lake Waikaremoana",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Kayaking in New Zealand|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|New Zealand photographs taken on 2014-12-28|Whanganuioparua Inlet",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-38.754087",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "177.160558",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Kayaking on the Whanganuioparua Inlet, Lake Waikaremoana, NZ",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-12-28 20:34:46",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/rimuhosting/16143186706/\">https://www.flickr.com/photos/rimuhosting/16143186706/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "pbkwee",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "167746157": {
+        "pageid": 167746157,
+        "ns": 6,
+        "title": "File:Fewa lake pokhara kayaking.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 17497843,
+            "width": 4896,
+            "height": 3108,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Fewa_lake_pokhara_kayaking.jpg/960px-Fewa_lake_pokhara_kayaking.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 488,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Fewa_lake_pokhara_kayaking.jpg/1920px-Fewa_lake_pokhara_kayaking.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Fewa_lake_pokhara_kayaking.jpg/960px-Fewa_lake_pokhara_kayaking.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 488,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Fewa_lake_pokhara_kayaking.jpg/1920px-Fewa_lake_pokhara_kayaking.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Fewa_lake_pokhara_kayaking.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Fewa_lake_pokhara_kayaking.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=167746157",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-06-15 18:47:45",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Fewa lake pokhara kayaking",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Kayaking in Nepal|Phewa Lake|Pokhara|Landscape|Self-published work|Nepal photographs taken on 2025-05-10",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Kayaking at fewa lake pokhara",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-05-10 09:01:54",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Supradai&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Supradai (page does not exist)\">Supradai</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "185528498": {
+        "pageid": 185528498,
+        "ns": 6,
+        "title": "File:Kayaking Lake Tahoe (47706772582).jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3119633,
+            "width": 2485,
+            "height": 1821,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Kayaking_Lake_Tahoe_%2847706772582%29.jpg/960px-Kayaking_Lake_Tahoe_%2847706772582%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 563,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Kayaking_Lake_Tahoe_%2847706772582%29.jpg/1920px-Kayaking_Lake_Tahoe_%2847706772582%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Kayaking_Lake_Tahoe_%2847706772582%29.jpg/960px-Kayaking_Lake_Tahoe_%2847706772582%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 563,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Kayaking_Lake_Tahoe_%2847706772582%29.jpg/1920px-Kayaking_Lake_Tahoe_%2847706772582%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Kayaking_Lake_Tahoe_%2847706772582%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kayaking_Lake_Tahoe_(47706772582).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=185528498",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-03-05 09:21:14",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Kayaking Lake Tahoe (47706772582)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Kayaking in the United States|PD US USDA FS|United States photographs taken on 2007-03-24|Flickr images reviewed by FlickreviewR 2|Lake Tahoe in 2007|Files from the U.S. Forest Service Pacific Southwest Region Flickr stream|U.S. Forest Service Flickr files uploaded by OptimusPrimeBot|Flickr images missing SDC published in",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Kayaking Lake Tahoe",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 24 March 2007, 15:14:48",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/usfsregion5/47706772582\">Kayaking Lake Tahoe</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/usfsregion5/\">Region 5 Photography</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

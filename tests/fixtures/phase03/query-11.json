@@ -1,0 +1,1112 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 10,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "2794895": {
+        "pageid": 2794895,
+        "ns": 6,
+        "title": "File:Szekesfehervar Historical Facade Clock Closeup 01.JPG",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4347128,
+            "width": 2254,
+            "height": 3381,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Szekesfehervar_Historical_Facade_Clock_Closeup_01.JPG/960px-Szekesfehervar_Historical_Facade_Clock_Closeup_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1152,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Szekesfehervar_Historical_Facade_Clock_Closeup_01.JPG/1920px-Szekesfehervar_Historical_Facade_Clock_Closeup_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Szekesfehervar_Historical_Facade_Clock_Closeup_01.JPG/960px-Szekesfehervar_Historical_Facade_Clock_Closeup_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1152,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Szekesfehervar_Historical_Facade_Clock_Closeup_01.JPG/1920px-Szekesfehervar_Historical_Facade_Clock_Closeup_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Szekesfehervar_Historical_Facade_Clock_Closeup_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Szekesfehervar_Historical_Facade_Clock_Closeup_01.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2794895",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2007-09-22 13:44:42",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Szekesfehervar Historical Facade Clock Closeup 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Canon EOS 400D|CC-BY-SA-3.0,2.5,2.0,1.0|License migration redundant|Self-published work|Cultural heritage monuments in Hungary with known IDs|Automaton clock, Székesfehérvár",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Historical Facade Clock by Jenő Kovács, Mária Ecsedi, Péter Korompai and Tibor Diós (2002) in the downtown of <a href=\"//commons.wikimedia.org/wiki/Sz%C3%A9kesfeh%C3%A9rv%C3%A1r\" title=\"Székesfehérvár\">Székesfehérvár</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2007-08-16",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Krat\" title=\"User:Krat\">Attila Král</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "13060796": {
+        "pageid": 13060796,
+        "ns": 6,
+        "title": "File:Closeup Of Clock Tower - geograph.org.uk - 534235.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 74928,
+            "width": 480,
+            "height": 640,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Closeup_Of_Clock_Tower_-_geograph.org.uk_-_534235.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 768,
+            "thumbheight": 1024,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Closeup_Of_Clock_Tower_-_geograph.org.uk_-_534235.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1024
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Closeup_Of_Clock_Tower_-_geograph.org.uk_-_534235.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Closeup_Of_Clock_Tower_-_geograph.org.uk_-_534235.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=13060796",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-02-05 19:27:36",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Closeup Of Clock Tower - geograph.org.uk - 534235",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Fujifilm FinePix S5600|Harleston, Norfolk|Images from Geograph Britain and Ireland|Information field template with formatting|Images by Keith Evans|United Kingdom photographs taken on 2007-08-22|Clock towers in Norfolk, England",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "52.402020",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "1.299400",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Closeup Of Clock Tower The top of the clock tower Harleston Norfolk.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2007-08-22",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "From <a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/534235\">geograph.org.uk</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/6337\">Keith Evans</a>",
+                "source": "commons-desc-page"
+              },
+              "Attribution": {
+                "value": "Keith Evans",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "14135061": {
+        "pageid": 14135061,
+        "ns": 6,
+        "title": "File:Station Clock Tower Closeup - geograph.org.uk - 1395180.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 120796,
+            "width": 622,
+            "height": 640,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Station_Clock_Tower_Closeup_-_geograph.org.uk_-_1395180.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 768,
+            "thumbheight": 790,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Station_Clock_Tower_Closeup_-_geograph.org.uk_-_1395180.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 790
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Station_Clock_Tower_Closeup_-_geograph.org.uk_-_1395180.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Station_Clock_Tower_Closeup_-_geograph.org.uk_-_1395180.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=14135061",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-02-28 23:15:23",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Station Clock Tower Closeup - geograph.org.uk - 1395180",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Panasonic Lumix DMC-FZ18|Images from Geograph Britain and Ireland|Southport Lord Street railway station|Information field template with formatting|Images by Gerald England",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "53.644550",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-3.011700",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Station Clock Tower Closeup. A closeup of the clock tower above the former Lord Street Station <a href=\"//commons.wikimedia.org/wiki/File:Lord_Street_Station_-_geograph.org.uk_-_1395160.jpg\" title=\"File:Lord Street Station - geograph.org.uk - 1395160.jpg\">1395160</a>.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2009-07-10",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "From <a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/1395180\">geograph.org.uk</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/22742\">Gerald England</a>",
+                "source": "commons-desc-page"
+              },
+              "Attribution": {
+                "value": "Gerald England",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "14658633": {
+        "pageid": 14658633,
+        "ns": 6,
+        "title": "File:Sidewalk clock 1501 Third Avenue from north closeup.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 852408,
+            "width": 1728,
+            "height": 2206,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Sidewalk_clock_1501_Third_Avenue_from_north_closeup.jpg/960px-Sidewalk_clock_1501_Third_Avenue_from_north_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 980,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Sidewalk_clock_1501_Third_Avenue_from_north_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Sidewalk_clock_1501_Third_Avenue_from_north_closeup.jpg/960px-Sidewalk_clock_1501_Third_Avenue_from_north_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 980,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Sidewalk_clock_1501_Third_Avenue_from_north_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Sidewalk_clock_1501_Third_Avenue_from_north_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sidewalk_clock_1501_Third_Avenue_from_north_closeup.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=14658633",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-03-21 02:24:47",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Sidewalk clock 1501 Third Avenue from north closeup",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|License migration redundant|CC-BY-SA-4.0,3.0,2.5,2.0,1.0|Self-published work|Time 01:37|Images by Beyond My Ken/Above|Files with coordinates missing SDC location of creation|Sidewalk clock 1501 Third Avenue|Images by Beyond My Ken/Other/Sidewalk clocks",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "40.777991",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-73.954546",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Sidewalk clock at 1501 Third Avenue between East 84th and 85th Streets in the Yorkville neighborhood of Manhattan, New York City.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2011-03-17",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Beyond_My_Ken\" class=\"mw-redirect\" title=\"User:Beyond My Ken\">Beyond My Ken</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "23216986": {
+        "pageid": 23216986,
+        "ns": 6,
+        "title": "File:Prague astronomical clock - closeup, Dec 2012.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4668536,
+            "width": 3648,
+            "height": 2736,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Prague_astronomical_clock_-_closeup%2C_Dec_2012.jpg/960px-Prague_astronomical_clock_-_closeup%2C_Dec_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Prague_astronomical_clock_-_closeup%2C_Dec_2012.jpg/1920px-Prague_astronomical_clock_-_closeup%2C_Dec_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Prague_astronomical_clock_-_closeup%2C_Dec_2012.jpg/960px-Prague_astronomical_clock_-_closeup%2C_Dec_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Prague_astronomical_clock_-_closeup%2C_Dec_2012.jpg/1920px-Prague_astronomical_clock_-_closeup%2C_Dec_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Prague_astronomical_clock_-_closeup%2C_Dec_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Prague_astronomical_clock_-_closeup,_Dec_2012.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=23216986",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2012-12-16 12:11:19",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Prague astronomical clock - closeup, Dec 2012",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Panasonic Lumix DMC-FX38|Prague Astronomical Clock|License migration redundant|Self-published work|Uploaded with en.wp upload wizard",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The Prague Astronomical clock.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2012-12-02",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Own work (During trip to Prague)",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Assassin3577\" title=\"User:Assassin3577\">Assassin3577</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "186471067": {
+        "pageid": 186471067,
+        "ns": 6,
+        "title": "File:Man hugging a clock closeup.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8625134,
+            "width": 6048,
+            "height": 4024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Man_hugging_a_clock_closeup.jpg/960px-Man_hugging_a_clock_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 511,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Man_hugging_a_clock_closeup.jpg/1920px-Man_hugging_a_clock_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Man_hugging_a_clock_closeup.jpg/960px-Man_hugging_a_clock_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 511,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Man_hugging_a_clock_closeup.jpg/1920px-Man_hugging_a_clock_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Man_hugging_a_clock_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Man_hugging_a_clock_closeup.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=186471067",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-03-19 10:31:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Man hugging a clock closeup",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Clocks|Hugging|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Man hugging a clock closeup.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-12-05 14:34:42",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Shixart1985\" title=\"User:Shixart1985\">Shixart1985</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "186471080": {
+        "pageid": 186471080,
+        "ns": 6,
+        "title": "File:Middle-aged man holding a clock closeup.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 11517546,
+            "width": 4024,
+            "height": 6048,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Middle-aged_man_holding_a_clock_closeup.jpg/960px-Middle-aged_man_holding_a_clock_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1154,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Middle-aged_man_holding_a_clock_closeup.jpg/1920px-Middle-aged_man_holding_a_clock_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Middle-aged_man_holding_a_clock_closeup.jpg/960px-Middle-aged_man_holding_a_clock_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1154,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Middle-aged_man_holding_a_clock_closeup.jpg/1920px-Middle-aged_man_holding_a_clock_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Middle-aged_man_holding_a_clock_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Middle-aged_man_holding_a_clock_closeup.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=186471080",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-03-19 10:31:27",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Middle-aged man holding a clock closeup",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Clocks|Middle-aged men|Self-published work|Middle age",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Middle-aged man holding a clock closeup.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-12-05 14:34:04",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Shixart1985\" title=\"User:Shixart1985\">Shixart1985</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "187098039": {
+        "pageid": 187098039,
+        "ns": 6,
+        "title": "File:Middle-aged businesswoman holding an old-fashioned clock closeup.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 10510322,
+            "width": 6016,
+            "height": 4016,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Middle-aged_businesswoman_holding_an_old-fashioned_clock_closeup.jpg/960px-Middle-aged_businesswoman_holding_an_old-fashioned_clock_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 513,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Middle-aged_businesswoman_holding_an_old-fashioned_clock_closeup.jpg/1920px-Middle-aged_businesswoman_holding_an_old-fashioned_clock_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Middle-aged_businesswoman_holding_an_old-fashioned_clock_closeup.jpg/960px-Middle-aged_businesswoman_holding_an_old-fashioned_clock_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 513,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Middle-aged_businesswoman_holding_an_old-fashioned_clock_closeup.jpg/1920px-Middle-aged_businesswoman_holding_an_old-fashioned_clock_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Middle-aged_businesswoman_holding_an_old-fashioned_clock_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Middle-aged_businesswoman_holding_an_old-fashioned_clock_closeup.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=187098039",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-03-26 11:10:41",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Middle-aged businesswoman holding an old-fashioned clock closeup",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Middle-aged women|Clocks|Businesswomen|Self-published work|Striped",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Middle-aged businesswoman holding an old-fashioned clock closeup",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-01-29 16:19:29",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Shixart1985\" title=\"User:Shixart1985\">Shixart1985</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "187098046": {
+        "pageid": 187098046,
+        "ns": 6,
+        "title": "File:Old-fashioned clock on a laptop closeup.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9888100,
+            "width": 6016,
+            "height": 4016,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Old-fashioned_clock_on_a_laptop_closeup.jpg/960px-Old-fashioned_clock_on_a_laptop_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 513,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Old-fashioned_clock_on_a_laptop_closeup.jpg/1920px-Old-fashioned_clock_on_a_laptop_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Old-fashioned_clock_on_a_laptop_closeup.jpg/960px-Old-fashioned_clock_on_a_laptop_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 513,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Old-fashioned_clock_on_a_laptop_closeup.jpg/1920px-Old-fashioned_clock_on_a_laptop_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Old-fashioned_clock_on_a_laptop_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Old-fashioned_clock_on_a_laptop_closeup.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=187098046",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-03-26 11:10:47",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Old-fashioned clock on a laptop closeup",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Clocks|MacBook|Home offices|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Old-fashioned clock on a laptop closeup",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-01-29 14:38:24",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Shixart1985\" title=\"User:Shixart1985\">Shixart1985</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "187689729": {
+        "pageid": 187689729,
+        "ns": 6,
+        "title": "File:Old-fashioned clock on an open book closeup.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 11216104,
+            "width": 6016,
+            "height": 4016,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Old-fashioned_clock_on_an_open_book_closeup.jpg/960px-Old-fashioned_clock_on_an_open_book_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 513,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Old-fashioned_clock_on_an_open_book_closeup.jpg/1920px-Old-fashioned_clock_on_an_open_book_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Old-fashioned_clock_on_an_open_book_closeup.jpg/960px-Old-fashioned_clock_on_an_open_book_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 513,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Old-fashioned_clock_on_an_open_book_closeup.jpg/1920px-Old-fashioned_clock_on_an_open_book_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Old-fashioned_clock_on_an_open_book_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Old-fashioned_clock_on_an_open_book_closeup.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=187689729",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-04-02 07:10:51",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Old-fashioned clock on an open book closeup",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Time|Clocks|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Old-fashioned clock on an open book closeup",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-08-30 09:38:34",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Shixart1985\" title=\"User:Shixart1985\">Shixart1985</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

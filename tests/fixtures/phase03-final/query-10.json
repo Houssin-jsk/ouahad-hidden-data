@@ -1,0 +1,1165 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 10,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "4942526": {
+        "pageid": 4942526,
+        "ns": 6,
+        "title": "File:Chicago and Northwestern railroad locomotive shop fsac.1a34676u.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 20403085,
+            "width": 4628,
+            "height": 6808,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Chicago_and_Northwestern_railroad_locomotive_shop_fsac.1a34676u.jpg/960px-Chicago_and_Northwestern_railroad_locomotive_shop_fsac.1a34676u.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1130,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Chicago_and_Northwestern_railroad_locomotive_shop_fsac.1a34676u.jpg/1920px-Chicago_and_Northwestern_railroad_locomotive_shop_fsac.1a34676u.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Chicago_and_Northwestern_railroad_locomotive_shop_fsac.1a34676u.jpg/960px-Chicago_and_Northwestern_railroad_locomotive_shop_fsac.1a34676u.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1130,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Chicago_and_Northwestern_railroad_locomotive_shop_fsac.1a34676u.jpg/1920px-Chicago_and_Northwestern_railroad_locomotive_shop_fsac.1a34676u.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Chicago_and_Northwestern_railroad_locomotive_shop_fsac.1a34676u.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Chicago_and_Northwestern_railroad_locomotive_shop_fsac.1a34676u.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4942526",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-08-18 08:10:02",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Chicago and Northwestern railroad locomotive shop fsac.1a34676u",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Railway workshops in the United States|Images from the Library of Congress|Featured pictures on Wikipedia, English|Files uploaded by Yann Forget|Featured pictures of rail vehicles|Rail transport in Chicago|PD US FSA/OWI|1942 in rail transport in the United States|Maintenance of rolling stock|December 1942 in Chicago|1942 photographs of the United States|Number 1641 on rail vehicles|Number 2808 on rail vehicles|December 1942 United States photographs|Featured pictures restored by Yann Forget|Featured photographs in the public domain|History of transport in Chicago|Featured pictures taken on slide film|Chicago and North Western Railway steam locomotives|Disassembled steam locomotives|Color photographs from the Office of War Information|Office of War Information photographs by Jack Delano|Photographs of rail transport by Jack Delano|Featured pictures of buildings in the United States|Featured pictures of history of Chicago",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "featured|potd",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Chicago and North Western Railway locomotive shops, Chicago, Ill.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1942-12",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This image  is available from the United States <a href=\"//commons.wikimedia.org/wiki/Library_of_Congress\" title=\"Library of Congress\">Library of Congress</a>'s <a rel=\"nofollow\" class=\"external text\" href=\"//www.loc.gov/rr/print/\">Prints and Photographs division</a><br> under the digital ID <a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.loc.gov/loc.pnp/fsac.1a34676\">fsac.1a34676</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Jack_Delano\" class=\"extiw\" title=\"w:en:Jack Delano\"><span title=\"American photographer and composer (1914-1997)\">Jack Delano</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "18280966": {
+        "pageid": 18280966,
+        "ns": 6,
+        "title": "File:Steam locomotive running gear.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5942877,
+            "width": 4608,
+            "height": 3072,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Steam_locomotive_running_gear.jpg/960px-Steam_locomotive_running_gear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 512,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Steam_locomotive_running_gear.jpg/1920px-Steam_locomotive_running_gear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Steam_locomotive_running_gear.jpg/960px-Steam_locomotive_running_gear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 512,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Steam_locomotive_running_gear.jpg/1920px-Steam_locomotive_running_gear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Steam_locomotive_running_gear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Steam_locomotive_running_gear.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=18280966",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2012-02-05 10:13:49",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Steam locomotive running gear",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Sony NEX-3|Steam engines with Walschaerts valvegear|Steam locomotives of Slovenia|Self-published work|Black and white photographs of Ljubljana|Quality contemporary black and white images|Steam engines with two-bar crossheads|Locomotives in the Moste District|Đuro Đaković locomotives",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Steam locomotive, running gear.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2012-02-04",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:PetarM\" title=\"User:PetarM\">Petar Milošević</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<div style=\"clear:both; border: var(--border-style-base, 1px solid #999); margin: 1em; padding: 1em; background-color: var(--background-color-progressive-subtle, #F0F8FF); color: inherit;\">\n<p><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Right-pointing_hand_in_green_octagon.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Right-pointing_hand_in_green_octagon.svg/40px-Right-pointing_hand_in_green_octagon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"38\" height=\"38\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Right-pointing_hand_in_green_octagon.svg/120px-Right-pointing_hand_in_green_octagon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></a></span> You can use this picture according to license. For use outside of Wikipedia I would appreciate it if you let me know by sending e-mail to <b><a rel=\"nofollow\" class=\"external text\" href=\"mailto:petarmslo@gmail.com\">petarmslo@gmail.com</a></b> <span typeof=\"mw:File\"><a href=\"mailto:petarmslo@gmail.com\" rel=\"nofollow\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Nuvola_apps_email.png/40px-Nuvola_apps_email.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Nuvola_apps_email.png/60px-Nuvola_apps_email.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"128\" data-file-height=\"128\"></a></span>.  Thank you in advance.\n</p>\n<div align=\"right\"><i><a href=\"//commons.wikimedia.org/wiki/User:PetarM\" title=\"User:PetarM\">Petar Milošević</a> <small> (author)</small></i></div></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "20656057": {
+        "pageid": 20656057,
+        "ns": 6,
+        "title": "File:Dampflokomotive 897513.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5781338,
+            "width": 2365,
+            "height": 2519,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Dampflokomotive_897513.jpg/960px-Dampflokomotive_897513.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 818,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Dampflokomotive_897513.jpg/1920px-Dampflokomotive_897513.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Dampflokomotive_897513.jpg/960px-Dampflokomotive_897513.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 818,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Dampflokomotive_897513.jpg/1920px-Dampflokomotive_897513.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Dampflokomotive_897513.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dampflokomotive_897513.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=20656057",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2012-08-13 23:55:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Dampflokomotive 897513",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Preserved steam locomotives of Germany|2012 in rail transport in Germany|Taken with Nikon D300|Bockenem|Loburg train station|Self-published work|Featured pictures of rail vehicles|Selection WikiCon 2013|Featured pictures of Lower Saxony|Steam locomotive smoke|Number 7513 on rail vehicles|Lower Saxony photographs taken on 2012-08-12|Railway photographs taken on 2012-08-12|Featured pictures by Michael Gäbler|Bahnstrecke Derneburg–Seesen|Files with coordinates missing SDC location of creation (52° N, 10° E)|Photographs by Michael Gäbler|Jung Typ Pudel|Locomotives photographed in 2012",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality|featured",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "52.012742",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "10.123392",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The <a href=\"https://en.wikipedia.org/wiki/Arnold_Jung_Lokomotivfabrik\" class=\"extiw\" title=\"en:Arnold Jung Lokomotivfabrik\">Arnold Jung Lokomotivfabrik</a> built 1912 in <a href=\"https://en.wikipedia.org/wiki/Kirchen\" class=\"extiw\" title=\"en:Kirchen\">Kirchen</a>, <a href=\"https://en.wikipedia.org/wiki/Rhineland-Palatinate\" class=\"extiw\" title=\"en:Rhineland-Palatinate\">Rheinland-Pfalz</a>, <a href=\"https://en.wikipedia.org/wiki/Germany\" class=\"extiw\" title=\"en:Germany\">Germany</a> this <a href=\"https://en.wikipedia.org/wiki/Tank_locomotive\" class=\"extiw\" title=\"en:Tank locomotive\">Tank locomotive</a> No. 897513. Today pulls the locomotive a <a href=\"https://en.wikipedia.org/wiki/Heritage_railway\" class=\"extiw\" title=\"en:Heritage railway\">Heritage railway</a> in <a href=\"https://en.wikipedia.org/wiki/Germany\" class=\"extiw\" title=\"en:Germany\">Northern Germany</a>.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 12 August 2012",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Michael_G%C3%A4bler\" title=\"User:Michael Gäbler\">Michael Gäbler</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Michael_G%C3%A4bler\" title=\"User:Michael Gäbler\">Michael Gäbler</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "63404385": {
+        "pageid": 63404385,
+        "ns": 6,
+        "title": "File:Steam locomotive l 6213 in Railway Museum Toronto, Canada..jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8522247,
+            "width": 3498,
+            "height": 3070,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Steam_locomotive_l_6213_in_Railway_Museum_Toronto%2C_Canada..jpg/960px-Steam_locomotive_l_6213_in_Railway_Museum_Toronto%2C_Canada..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 674,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Steam_locomotive_l_6213_in_Railway_Museum_Toronto%2C_Canada..jpg/1920px-Steam_locomotive_l_6213_in_Railway_Museum_Toronto%2C_Canada..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Steam_locomotive_l_6213_in_Railway_Museum_Toronto%2C_Canada..jpg/960px-Steam_locomotive_l_6213_in_Railway_Museum_Toronto%2C_Canada..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 674,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Steam_locomotive_l_6213_in_Railway_Museum_Toronto%2C_Canada..jpg/1920px-Steam_locomotive_l_6213_in_Railway_Museum_Toronto%2C_Canada..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Steam_locomotive_l_6213_in_Railway_Museum_Toronto%2C_Canada..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Steam_locomotive_l_6213_in_Railway_Museum_Toronto,_Canada..jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=63404385",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-08-18 21:49:31",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Steam locomotive l 6213 in Railway Museum Toronto, Canada.",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Canadian National 6213|License migration redundant|CC-BY-SA-4.0,3.0,2.5,2.0,1.0|Self-published work|Files by User:Pierre André Leclercq|Le Canada by PIERRE ANDRE LECLERCQ|Files with coordinates missing SDC location of creation|September 2017 in Toronto|Canada photographs taken on 2017-09-30|Railway by PIERRE ANDRE LECLERCQ",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "valued",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "43.641444",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-79.385778",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Canadian National 4-8-4 steam locomotive <a href=\"https://en.wikipedia.org/wiki/Canadian_National_6213\" class=\"extiw\" title=\"w:Canadian National 6213\">Canadian National 6213</a> stationed just outside the coaling tower in the Toronto railway museum.- Railway Museum <a href=\"https://en.wikipedia.org/wiki/Toronto\" class=\"extiw\" title=\"en:Toronto\">Toronto</a>, Canada.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 30 September 2017, 17:40:08",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q97949455\" class=\"extiw\" title=\"d:Q97949455\"><span title=\"French photographer and Wikimedian\">Pierre André Leclercq</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table style=\"margin: 1.5em auto; width:90%;background-color:#B2FFFF; border:2px solid #cccccc; padding:1px;\" cellspacing=\"10\" dir=\"ltr\" class=\"layouttemplate\">\n\n<tbody><tr>\n<td align=\"center\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Pierre_Andr%C3%A9_Leclercq_(photo_profil_).jpg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Pierre_Andr%C3%A9_Leclercq_%28photo_profil_%29.jpg/120px-Pierre_Andr%C3%A9_Leclercq_%28photo_profil_%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Pierre_Andr%C3%A9_Leclercq_%28photo_profil_%29.jpg/250px-Pierre_Andr%C3%A9_Leclercq_%28photo_profil_%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1107\" data-file-height=\"1107\"></a></span>\n</td>\n<td><b>This illustration</b> <i>was made by</i> <b><a href=\"//commons.wikimedia.org/wiki/User:Pierre_Andr%C3%A9_Leclercq\" title=\"User:Pierre André Leclercq\">Pierre André Leclercq</a></b>, under the <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.fr\">License CC-BY-SA</a> which allows you to:\n<ul><li>Freely use and distribute it for non-commercial or for commercial purposes</li>\n<li>Create derivative works of it.</li></ul>\n<p><b>Under this condition</b> Credit me as the original author and use the same license. I encourage distribution and modification of this image as long as you attribute its author and license. If you are using one of my images or wish to contact me, please inform me by writing a short message on my discussion page. \n</p><p>An email  <span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Nuvola_apps_kmail.png\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Nuvola_apps_kmail.png/20px-Nuvola_apps_kmail.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"16\" height=\"16\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Nuvola_apps_kmail.png/40px-Nuvola_apps_kmail.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"128\" data-file-height=\"128\"></a></span> <a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/Pierre_Andr%C3%A9_Leclercq\" title=\"Special:EmailUser/Pierre André Leclercq\"> <b>would be appreciated.</b></a>\n</p>\n</td></tr></tbody></table>\n<table style=\"margin: 1.5em auto; width:90%;background-color:#B2FFFF; border:2px solid #cccccc; padding:1px;\" cellspacing=\"10\" dir=\"ltr\" class=\"layouttemplate\">\n\n<tbody><tr>\n<td align=\"center\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Fairytale_upload_2.png\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Fairytale_upload_2.png/60px-Fairytale_upload_2.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/2/20/Fairytale_upload_2.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail_unscaled 2x\" data-file-width=\"64\" data-file-height=\"64\"></a></span>\n</td>\n<td><span><b>Please do not overwrite the author's version with a modified image without discussing with the author.</b> The author would like to make corrections only from the uncompressed <a href=\"https://en.wikipedia.org/wiki/en:raw_image_format\" class=\"extiw\" title=\"w:en:raw image format\">RAW file</a>. This ensures that changes are preserved and are based on the best possible source to achieve a high quality. If you think that changes are required, please, get in touch with the author.<br>Otherwise, you can upload a new image with a different name without overwriting this one. Use <a href=\"//commons.wikimedia.org/wiki/Template:Derived_from\" title=\"Template:Derived from\"><span style=\"font-family:monospace,monospace;\">{{Derived from}}</span></a> or <a href=\"//commons.wikimedia.org/wiki/Template:Extracted_from\" title=\"Template:Extracted from\"><span style=\"font-family:monospace,monospace;\">{{Extracted from}}</span></a> for this purpose.</span>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "66451413": {
+        "pageid": 66451413,
+        "ns": 6,
+        "title": "File:Steam locomotive gear (JŽ 06-018; Slovenia).jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1596331,
+            "width": 2556,
+            "height": 1746,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Steam_locomotive_gear_%28J%C5%BD_06-018%3B_Slovenia%29.jpg/960px-Steam_locomotive_gear_%28J%C5%BD_06-018%3B_Slovenia%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 525,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Steam_locomotive_gear_%28J%C5%BD_06-018%3B_Slovenia%29.jpg/1920px-Steam_locomotive_gear_%28J%C5%BD_06-018%3B_Slovenia%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Steam_locomotive_gear_%28J%C5%BD_06-018%3B_Slovenia%29.jpg/960px-Steam_locomotive_gear_%28J%C5%BD_06-018%3B_Slovenia%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 525,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Steam_locomotive_gear_%28J%C5%BD_06-018%3B_Slovenia%29.jpg/1920px-Steam_locomotive_gear_%28J%C5%BD_06-018%3B_Slovenia%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Steam_locomotive_gear_%28J%C5%BD_06-018%3B_Slovenia%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Steam_locomotive_gear_(J%C5%BD_06-018;_Slovenia).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=66451413",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-02-15 11:31:47",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Steam locomotive gear (JŽ 06-018; Slovenia)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Steam locomotives of Slovenia|Self-published work|Featured pictures of rail vehicles|Featured photos of PetarM|Featured pictures on Wikipedia, Slovenian|Black and white photographs of Ljubljana|Locomotives at Ljubljana train station|Featured pictures of Ljubljana|Featured contemporary black and white photographs|SŽ 06-018",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "featured|potd",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "JŽ 06-018 steam locomotive gear, museum steam locomotive, Central station Ljubljana, Slovenia",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-12",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:PetarM\" title=\"User:PetarM\">Petar Milošević</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<div style=\"clear:both; border: var(--border-style-base, 1px solid #999); margin: 1em; padding: 1em; background-color: var(--background-color-progressive-subtle, #F0F8FF); color: inherit;\">\n<p><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Right-pointing_hand_in_green_octagon.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Right-pointing_hand_in_green_octagon.svg/40px-Right-pointing_hand_in_green_octagon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"38\" height=\"38\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Right-pointing_hand_in_green_octagon.svg/120px-Right-pointing_hand_in_green_octagon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></a></span> You can use this picture according to license. For use outside of Wikipedia I would appreciate it if you let me know by sending e-mail to <b><a rel=\"nofollow\" class=\"external text\" href=\"mailto:petarmslo@gmail.com\">petarmslo@gmail.com</a></b> <span typeof=\"mw:File\"><a href=\"mailto:petarmslo@gmail.com\" rel=\"nofollow\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Nuvola_apps_email.png/40px-Nuvola_apps_email.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Nuvola_apps_email.png/60px-Nuvola_apps_email.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"128\" data-file-height=\"128\"></a></span>.  Thank you in advance.\n</p>\n<div align=\"right\"><i><a href=\"//commons.wikimedia.org/wiki/User:PetarM\" title=\"User:PetarM\">Petar Milošević</a> <small> (author)</small></i></div></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "110056708": {
+        "pageid": 110056708,
+        "ns": 6,
+        "title": "File:Chelyabinsk. The driving wheels of the Kommunar steam locomotive. 54 Zwilling Street.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 19470862,
+            "width": 7102,
+            "height": 3995,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Chelyabinsk._The_driving_wheels_of_the_Kommunar_steam_locomotive._54_Zwilling_Street.jpg/960px-Chelyabinsk._The_driving_wheels_of_the_Kommunar_steam_locomotive._54_Zwilling_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 432,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Chelyabinsk._The_driving_wheels_of_the_Kommunar_steam_locomotive._54_Zwilling_Street.jpg/1920px-Chelyabinsk._The_driving_wheels_of_the_Kommunar_steam_locomotive._54_Zwilling_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Chelyabinsk._The_driving_wheels_of_the_Kommunar_steam_locomotive._54_Zwilling_Street.jpg/960px-Chelyabinsk._The_driving_wheels_of_the_Kommunar_steam_locomotive._54_Zwilling_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 432,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Chelyabinsk._The_driving_wheels_of_the_Kommunar_steam_locomotive._54_Zwilling_Street.jpg/1920px-Chelyabinsk._The_driving_wheels_of_the_Kommunar_steam_locomotive._54_Zwilling_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Chelyabinsk._The_driving_wheels_of_the_Kommunar_steam_locomotive._54_Zwilling_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Chelyabinsk._The_driving_wheels_of_the_Kommunar_steam_locomotive._54_Zwilling_Street.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=110056708",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-09-14 20:23:43",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Chelyabinsk. The driving wheels of the Kommunar steam locomotive. 54 Zwilling Street",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Russian locomotive Ес-350|Self-published work|Steam locomotive wheels|Cultural heritage monuments in Russia with known IDs|Uploaded via Campaign:wlm-ru|Files with coordinates missing SDC location of creation|Russia photographs taken on 2021-08-18|Images from Wiki Loves Monuments missing SDC location of creation|Cultural heritage monuments in Russia missing SDC location of creation|Images from Wiki Loves Monuments 2021|Images from Wiki Loves Monuments 2021 in Russia|Russian heritage ID 7400000792",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "55.153278",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "61.407472",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Steam locomotive \"Kommunar\", repaired by railway workers of Chelyabinsk in 1920 at a subbotnik in honor of the 50th anniversary of V. I. Lenin: 54 Zwilling Street (in the Pushkin City Garden, near the Railway Workers ' Recreation Center), Chelyabinsk, Chelyabinsk region",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-08-18 15:09:43",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%91%D0%B0%D0%B9%D0%B4%D1%83%D0%BA%D0%BE%D0%B2\" title=\"User:Александр Байдуков\">Александр Байдуков</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "119599432": {
+        "pageid": 119599432,
+        "ns": 6,
+        "title": "File:Front Locomotive NBL 22782 Mysore Apr22 A7C 01901.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 15842944,
+            "width": 3657,
+            "height": 4876,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Front_Locomotive_NBL_22782_Mysore_Apr22_A7C_01901.jpg/960px-Front_Locomotive_NBL_22782_Mysore_Apr22_A7C_01901.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1024,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Front_Locomotive_NBL_22782_Mysore_Apr22_A7C_01901.jpg/1920px-Front_Locomotive_NBL_22782_Mysore_Apr22_A7C_01901.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Front_Locomotive_NBL_22782_Mysore_Apr22_A7C_01901.jpg/960px-Front_Locomotive_NBL_22782_Mysore_Apr22_A7C_01901.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1024,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Front_Locomotive_NBL_22782_Mysore_Apr22_A7C_01901.jpg/1920px-Front_Locomotive_NBL_22782_Mysore_Apr22_A7C_01901.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Front_Locomotive_NBL_22782_Mysore_Apr22_A7C_01901.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Front_Locomotive_NBL_22782_Mysore_Apr22_A7C_01901.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=119599432",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-06-22 13:34:18",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Front Locomotive NBL 22782 Mysore Apr22 A7C 01901",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Sony ILCE-7C|NBL steam locomotive no. 22782|Self-published work|Media with estimated locations|Images by User:Tagooty|April 2022 in Karnataka|India photographs taken on 2022-04-26|Locomotives photographed in 2022|Images by User:Tagooty/India|North British Locomotive Company steam locomotives",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality|valued",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "12.315920",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "76.645630",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Front view. Class-E Steam locomotive no. 22782, Atlas Works, North British Locomotive Company Ltd, Glasgow, 1920. Mysore Railway Station, Karnataka, India.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-04-26 08:29:28",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<table class=\"toccolours\" style=\"width:100%; margin-top:10px;\" cellpadding=\"2\">\n\n<tbody><tr class=\"plainlinks\">\n<td><a href=\"https://upload.wikimedia.org/wikipedia/commons/8/85/Front_Locomotive_NBL_22782_Mysore_Apr22_A7C_01901.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=api&amp;utm_content=original\" class=\"internal\" title=\"Front Locomotive NBL 22782 Mysore Apr22 A7C 01901.jpg\">This Photo</a> was taken by <i><b><a href=\"//commons.wikimedia.org/wiki/User:Tagooty\" title=\"User:Tagooty\">Timothy A. Gonsalves</a></b></i>.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email <a rel=\"nofollow\" class=\"external text\" href=\"mailto:tagooty@yahoo.com\">tagooty@yahoo.com</a> or write on <a class=\"external text\" href=\"https://commons.wikimedia.org/w/index.php?title=User_talk:Tagooty&amp;action=edit&amp;section=new\">my talk page</a>, for my information.  Please contact me before commercial use.\n</td></tr></tbody></table>\n<div style=\"clear:both; border:2px solid #00cc00; background-color:#f7f7f7; margin-top:6px;\">\n<table><tbody><tr><td style=\"padding:4px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Upload-problem2.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Upload-problem2.svg/120px-Upload-problem2.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"57\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Upload-problem2.svg/250px-Upload-problem2.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"159\" data-file-height=\"142\"></a></span>\n</td><td style=\"padding:4px;\"><div style=\"margin-top:0.5em;\">Please do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.<br>Otherwise you may upload an edited image with a new name. Please use one of the templates <a href=\"//commons.wikimedia.org/wiki/Template:Derived_from\" title=\"Template:Derived from\">derivative</a> or <a href=\"//commons.wikimedia.org/wiki/Template:Extracted_from\" title=\"Template:Extracted from\">extract</a>.</div>\n</td></tr></tbody></table></div>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "141601305": {
+        "pageid": 141601305,
+        "ns": 6,
+        "title": "File:П36 Steam Locomotive Tender Podmoskovnaya station 2023-06-10 4321.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 12409640,
+            "width": 5102,
+            "height": 3401,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/%D0%9F36_Steam_Locomotive_Tender_Podmoskovnaya_station_2023-06-10_4321.jpg/960px-%D0%9F36_Steam_Locomotive_Tender_Podmoskovnaya_station_2023-06-10_4321.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 512,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/%D0%9F36_Steam_Locomotive_Tender_Podmoskovnaya_station_2023-06-10_4321.jpg/1920px-%D0%9F36_Steam_Locomotive_Tender_Podmoskovnaya_station_2023-06-10_4321.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/%D0%9F36_Steam_Locomotive_Tender_Podmoskovnaya_station_2023-06-10_4321.jpg/960px-%D0%9F36_Steam_Locomotive_Tender_Podmoskovnaya_station_2023-06-10_4321.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 512,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/%D0%9F36_Steam_Locomotive_Tender_Podmoskovnaya_station_2023-06-10_4321.jpg/1920px-%D0%9F36_Steam_Locomotive_Tender_Podmoskovnaya_station_2023-06-10_4321.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/%D0%9F36_Steam_Locomotive_Tender_Podmoskovnaya_station_2023-06-10_4321.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%D0%9F36_Steam_Locomotive_Tender_Podmoskovnaya_station_2023-06-10_4321.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=141601305",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-12-01 11:53:52",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "П36 Steam Locomotive Tender Podmoskovnaya station 2023-06-10 4321",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Podmoskovnaya station|Steam locomotive tenders|Soviet locomotive class П36|Uploaded with VicuñaUploader|Moscow photographs taken on 2023-06-10|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "55.813849",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "37.528003",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "П36 steam locomotive tender on the Podmoskovnaya station. Moscow.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-06-10",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mike1979_Russia\" title=\"User:Mike1979 Russia\">Mike1979 Russia</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "142843241": {
+        "pageid": 142843241,
+        "ns": 6,
+        "title": "File:LV-0233 steam locomotive at the station Taganrog-II DSC00373 2600.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3604329,
+            "width": 3901,
+            "height": 2600,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/LV-0233_steam_locomotive_at_the_station_Taganrog-II_DSC00373_2600.jpg/960px-LV-0233_steam_locomotive_at_the_station_Taganrog-II_DSC00373_2600.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 512,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/LV-0233_steam_locomotive_at_the_station_Taganrog-II_DSC00373_2600.jpg/1920px-LV-0233_steam_locomotive_at_the_station_Taganrog-II_DSC00373_2600.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/LV-0233_steam_locomotive_at_the_station_Taganrog-II_DSC00373_2600.jpg/960px-LV-0233_steam_locomotive_at_the_station_Taganrog-II_DSC00373_2600.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 512,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/LV-0233_steam_locomotive_at_the_station_Taganrog-II_DSC00373_2600.jpg/1920px-LV-0233_steam_locomotive_at_the_station_Taganrog-II_DSC00373_2600.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/LV-0233_steam_locomotive_at_the_station_Taganrog-II_DSC00373_2600.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:LV-0233_steam_locomotive_at_the_station_Taganrog-II_DSC00373_2600.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=142843241",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-12-24 15:56:11",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "LV-0233 steam locomotive at the station Taganrog-II DSC00373 2600",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Sony DSC-RX100 III|Taganrog II railway station|Self-published work|Photos by Alexxx-Malev (Alexxx1979)|Quality photos by Alexxx-Malev (Alexxx1979)|Files with coordinates missing SDC location of creation|2023 in Taganrog|Rostov Oblast photographs taken on 2023-12-24|Trains in Taganrog|Soviet locomotive ЛВ-0233",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "47.222091",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "38.914821",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "LV-0233 steam locomotive at the station \"Taganrog-II\"",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-12-24 14:00:21",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Alexxx1979",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "180083956": {
+        "pageid": 180083956,
+        "ns": 6,
+        "title": "File:Tczew steam locomotive TKh49.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2908269,
+            "width": 3320,
+            "height": 2492,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Tczew_steam_locomotive_TKh49.jpg/960px-Tczew_steam_locomotive_TKh49.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Tczew_steam_locomotive_TKh49.jpg/1920px-Tczew_steam_locomotive_TKh49.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Tczew_steam_locomotive_TKh49.jpg/960px-Tczew_steam_locomotive_TKh49.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Tczew_steam_locomotive_TKh49.jpg/1920px-Tczew_steam_locomotive_TKh49.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Tczew_steam_locomotive_TKh49.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tczew_steam_locomotive_TKh49.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=180083956",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-09-09 07:01:54",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Tczew steam locomotive TKh49",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PKP class TKh49|Tczew train station|Self-published work|Historical locomotives|September 2025 in rail transport in Poland|Monuments featuring steam locomotives of Poland|September 2025 in Pomeranian Voivodeship",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Photograph of monumental steam locomotive TKh49-11 located next to Tczew station building.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-09-06",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>, <span class=\"int-own-work\">Self-photographed</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<style data-mw-deduplicate=\"TemplateStyles:r905769005\">.mw-parser-output .ubx-floatdefault[dir=\"ltr\"],.mw-parser-output .ubx-floatopposite[dir=\"rtl\"],.mw-parser-output .ubx-floatleft{float:left}.mw-parser-output .ubx-floatdefault[dir=\"rtl\"],.mw-parser-output .ubx-floatopposite[dir=\"ltr\"],.mw-parser-output .ubx-floatright{float:right}.mw-parser-output .ubx-floatnone{float:none}</style>\n<div class=\"ubx ubx-floatdefault\" dir=\"ltr\" lang=\"en\"><div class=\"commonsuserbox\" style=\"float:left;border:1px solid #00d;margin:1px;width:238px\"><table role=\"presentation\" style=\"border-collapse:collapse;width:238px;margin-bottom:0;margin-top:0;background:#005;color:inherit\"><tbody><tr><td style=\"border:0;width:45px;height:45px;background:#00d;text-align:center;font-size:14pt;font-weight:bold;color:#fff;padding:0 1px 0 0;line-height:1.25em;vertical-align:middle\"><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Tczew_steam_locomotive_TKt48.jpg/60px-Tczew_steam_locomotive_TKt48.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"60\" height=\"45\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Tczew_steam_locomotive_TKt48.jpg/120px-Tczew_steam_locomotive_TKt48.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"4000\" data-file-height=\"3000\"></span></span></td><td style=\"border:0;text-align:left;font-size:18pt;padding:0 4px 0 4px;height:45px;line-height:1.25em;color:#fff;vertical-align:middle\"><center><span class=\"flagicon\"><span class=\"mw-image-border\" typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/40px-Flag_of_Poland.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"23\" height=\"14\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/60px-Flag_of_Poland.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"640\" data-file-height=\"400\"></span></span></span> <b><a href=\"//commons.wikimedia.org/wiki/User:Jaqbpl\" title=\"User:Jaqbpl\">Jaqbpl</a></b></center></td></tr></tbody></table></div></div>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

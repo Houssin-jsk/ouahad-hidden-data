@@ -1,0 +1,1198 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 10,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "1997996": {
+        "pageid": 1997996,
+        "ns": 6,
+        "title": "File:Daisy Bellis perennis 'Habanero Red' Flower 2013px.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1579667,
+            "width": 2013,
+            "height": 1770,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Daisy_Bellis_perennis_%27Habanero_Red%27_Flower_2013px.jpg/960px-Daisy_Bellis_perennis_%27Habanero_Red%27_Flower_2013px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 675,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Daisy_Bellis_perennis_%27Habanero_Red%27_Flower_2013px.jpg/1920px-Daisy_Bellis_perennis_%27Habanero_Red%27_Flower_2013px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Daisy_Bellis_perennis_%27Habanero_Red%27_Flower_2013px.jpg/960px-Daisy_Bellis_perennis_%27Habanero_Red%27_Flower_2013px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 675,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Daisy_Bellis_perennis_%27Habanero_Red%27_Flower_2013px.jpg/1920px-Daisy_Bellis_perennis_%27Habanero_Red%27_Flower_2013px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Daisy_Bellis_perennis_%27Habanero_Red%27_Flower_2013px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Daisy_Bellis_perennis_%27Habanero_Red%27_Flower_2013px.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1997996",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2007-04-25 12:37:01",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Daisy Bellis perennis 'Habanero Red' Flower 2013px",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Nikon D50|License migration completed|Self-published work|Chanticleer Garden Photographs by Derek Ramsey|Files with coordinates missing SDC location of creation|Bellis perennis in the Northern Hemisphere in April 2007|Bellis perennis (flowers, cultivars)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "40.030638",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-75.392877",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<p>A picture of the <a href=\"//commons.wikimedia.org/wiki/Daisy\" class=\"mw-redirect\" title=\"Daisy\">Daisy</a><small><sup><a href=\"https://en.wikipedia.org/wiki/Daisy\" class=\"extiw\" title=\"en:Daisy\">en</a></sup></small> (<span style=\"white-space:nowrap\"><i><a href=\"//commons.wikimedia.org/wiki/Bellis_perennis\" title=\"Bellis perennis\">Bellis perennis</a></i> <small><sup><i><a href=\"https://en.wikipedia.org/wiki/Bellis_perennis\" class=\"extiw\" title=\"en:Bellis perennis\">en</a>   </i></sup></small></span> 'Habanero Red') flower.  Photo taken at the <a href=\"https://en.wikipedia.org/wiki/Chanticleer_Garden\" class=\"extiw\" title=\"en:Chanticleer Garden\">Chanticleer Garden</a> where it was identified.  The flowers were located the bowl of water with cut flowers on the Sun Porch outside the main house.  They were taken from Tripod 1.<br style=\"clear:both\">\n</p>\n<table align=\"center\" style=\"width:80%; background-color:#f7f8ff; border:2px solid #8888aa; padding:5px;\">\n\n<tbody><tr>\n<td><table border=\"0\" width=\"100%\" style=\"background-color:#f7f8ff;\">\n<tbody><tr><td><div style=\"font-family:Comic Sans MS;\"><b>Camera and Exposure Details:</b><br><i>Camera: </i><a href=\"https://en.wikipedia.org/wiki/Nikon_D50\" class=\"extiw\" title=\"w:Nikon D50\">Nikon D50</a><br><i>Lens: </i>Sigma 70mm f/2.8 EX DG Macro<br><i>Exposure: </i>\n70mm (105mm in <a href=\"https://en.wikipedia.org/wiki/35mm\" class=\"extiw\" title=\"w:35mm\">35mm equivalent</a>) <a href=\"https://en.wikipedia.org/wiki/f-number\" class=\"extiw\" title=\"w:f-number\">f/5.6</a> @ 1/80 s. (200 ISO)<br></div></td></tr><tr><td colspan=\"2\"></td></tr></tbody></table>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2007-04-20",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\">Self-photographed</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Photo by and (c)2007 Derek Ramsey (<a href=\"https://en.wikipedia.org/wiki/User:Ram-Man\" class=\"extiw\" title=\"en:User:Ram-Man\">Ram-Man</a>).  Location credit to the Chanticleer Garden.",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "I, the copyright holder of this work, hereby publish it under the following license:",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "4672245": {
+        "pageid": 4672245,
+        "ns": 6,
+        "title": "File:Mexican Sunflower Tithonia rotundifolia Flower 2163px.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1302072,
+            "width": 2163,
+            "height": 1959,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Mexican_Sunflower_Tithonia_rotundifolia_Flower_2163px.jpg/960px-Mexican_Sunflower_Tithonia_rotundifolia_Flower_2163px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 696,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Mexican_Sunflower_Tithonia_rotundifolia_Flower_2163px.jpg/1920px-Mexican_Sunflower_Tithonia_rotundifolia_Flower_2163px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Mexican_Sunflower_Tithonia_rotundifolia_Flower_2163px.jpg/960px-Mexican_Sunflower_Tithonia_rotundifolia_Flower_2163px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 696,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Mexican_Sunflower_Tithonia_rotundifolia_Flower_2163px.jpg/1920px-Mexican_Sunflower_Tithonia_rotundifolia_Flower_2163px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Mexican_Sunflower_Tithonia_rotundifolia_Flower_2163px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mexican_Sunflower_Tithonia_rotundifolia_Flower_2163px.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4672245",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2008-09-01 02:39:13",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Mexican Sunflower Tithonia rotundifolia Flower 2163px",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Tithonia rotundifolia (cultivars)|Taken with Nikon D50|GFDL-1.2|Featured pictures of Pennsylvania|Self-published work|Featured pictures by Derek Ramsey|Photographs by Derek Ramsey|Featured pictures of flowers|Red flowers in the United States|Files with coordinates missing SDC location of creation|Featured pictures of Asteroideae|Tithonia rotundifolia (flowers)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality|featured",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "40.118384",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-76.427454",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<p>Photograph of a <a href=\"//commons.wikimedia.org/w/index.php?title=Mexican_Sunflower&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Mexican Sunflower (page does not exist)\">Mexican Sunflower</a><small><sup><a href=\"https://en.wikipedia.org/wiki/Mexican_Sunflower\" class=\"extiw\" title=\"en:Mexican Sunflower\">en</a></sup></small> (<span style=\"white-space:nowrap\"><i><a href=\"//commons.wikimedia.org/wiki/Tithonia_rotundifolia\" title=\"Tithonia rotundifolia\">Tithonia rotundifolia</a></i> <small><sup><i><a href=\"https://en.wikipedia.org/wiki/Tithonia_rotundifolia\" class=\"extiw\" title=\"en:Tithonia rotundifolia\">en</a>   </i></sup></small></span>) cultivar.  This flower is part of the 2008 Penn State horticultural garden.\n<br style=\"clear:both\">\n</p>\n<table align=\"center\" style=\"width:80%; background-color:#f7f8ff; border:2px solid #8888aa; padding:5px;\">\n\n<tbody><tr>\n<td><table border=\"0\" width=\"100%\" style=\"background-color:#f7f8ff;\">\n<tbody><tr><td><div style=\"font-family:Comic Sans MS;\"><b>Camera and Exposure Details:</b><br><i>Camera: </i><a href=\"https://en.wikipedia.org/wiki/Nikon_D50\" class=\"extiw\" title=\"w:Nikon D50\">Nikon D50</a><br><i>Lens: </i>Sigma 70mm f/2.8 EX DG Macro<br><i>Exposure: </i>\n70mm (105mm in <a href=\"https://en.wikipedia.org/wiki/35mm\" class=\"extiw\" title=\"w:35mm\">35mm equivalent</a>) <a href=\"https://en.wikipedia.org/wiki/f-number\" class=\"extiw\" title=\"w:f-number\">f/13</a> @ 1/250 s. (200 ISO)<br></div></td></tr><tr><td colspan=\"2\"></td></tr></tbody></table>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2008-08-30",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\">Self-photographed</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Photo by and (c)2008 Derek Ramsey (<a href=\"https://en.wikipedia.org/wiki/User:Ram-Man\" class=\"extiw\" title=\"en:User:Ram-Man\">Ram-Man</a>)",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "I, the copyright holder of this work, hereby publish it under the following license:",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "GFDL 1.2",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "GNU Free Documentation License 1.2",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "24490932": {
+        "pageid": 24490932,
+        "ns": 6,
+        "title": "File:Flower Macro (5573001795).jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 586541,
+            "width": 862,
+            "height": 965,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flower_Macro_%285573001795%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 768,
+            "thumbheight": 860,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flower_Macro_%285573001795%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 860
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flower_Macro_%285573001795%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Flower_Macro_(5573001795).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24490932",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-02-06 12:44:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Flower Macro (5573001795)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Nikon D80|Flickr images reviewed by File Upload Bot (Magnus Manske)|Red, white, yellow|Cistus ladanifer (flowers)|Common Gum Cistus (Cistus ladanifer) in Surrey|Photographs by Berit Watkin",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Flower Macro",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2010-06-23 09:55",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/ben124/5573001795/\">Flower Macro</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/9298216@N08\">Berit</a> from Redhill/Surrey, UK",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "54708998": {
+        "pageid": 54708998,
+        "ns": 6,
+        "title": "File:Macro, Red Flower - panoramio.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6156068,
+            "width": 4320,
+            "height": 3240,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Macro%2C_Red_Flower_-_panoramio.jpg/960px-Macro%2C_Red_Flower_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Macro%2C_Red_Flower_-_panoramio.jpg/1920px-Macro%2C_Red_Flower_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Macro%2C_Red_Flower_-_panoramio.jpg/960px-Macro%2C_Red_Flower_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Macro%2C_Red_Flower_-_panoramio.jpg/1920px-Macro%2C_Red_Flower_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Macro%2C_Red_Flower_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Macro,_Red_Flower_-_panoramio.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=54708998",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-01-03 04:35:01",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Macro, Red Flower - panoramio",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Red flowers|Panoramio files uploaded by Panoramio upload bot|Flowers of Denmark|Panoramio images reviewed by trusted users|Photos from Panoramio|Files with coordinates missing SDC location of creation|Denmark photographs taken on 2012-06-01|Unidentified Pelargonium",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "56.023493",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "9.518795",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Macro: Red Flower",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on<span typeof=\"mw:Entity\"> </span>1 June 2012<link rel=\"mw:PageProp/Category\" href=\"./Category:Denmark_photographs_taken_on_2012-06-01\">",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"mw:ExtLink nofollow\" href=\"https://web.archive.org/web/20161025152845/http://www.panoramio.com/photo/73349242\" class=\"external free\">https://web.archive.org/web/20161025152845/http://www.panoramio.com/photo/73349242</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"mw:ExtLink nofollow\" href=\"https://web.archive.org/web/20161025152847/http://www.panoramio.com/user/5139942?with_photo_id=73349242\" class=\"external text\">FinlayCox143</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\" data-mw='{\"caption\":\"&lt;a rel=\\\"mw:WikiLink/Interwiki\\\" href=\\\"https://en.wikipedia.org/wiki/en:Creative%20Commons\\\" title=\\\"w:en:Creative Commons\\\" class=\\\"extiw\\\" id=\\\"mwBQ\\\"&gt;w:en:Creative Commons&lt;/a&gt;\"}'><span title=\"w:en:Creative Commons\"><img resource=\"https://commons.wikimedia.org/wiki/File:CC_some_rights_reserved.svg\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" alt=\"w:en:Creative Commons\" data-file-width=\"744\" data-file-height=\"300\" data-file-type=\"drawing\" height=\"36\" width=\"90\" class=\"mw-file-element\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\" data-mw='{\"caption\":\"attribution\"}'><span title=\"attribution\"><img resource=\"https://commons.wikimedia.org/wiki/File:Cc-by_new_white.svg\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" alt=\"attribution\" data-file-width=\"64\" data-file-height=\"64\" data-file-type=\"drawing\" height=\"24\" width=\"24\" class=\"mw-file-element\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\" data-mw='{\"caption\":\"share alike\"}'><span title=\"share alike\"><img resource=\"https://commons.wikimedia.org/wiki/File:Cc-sa_white.svg\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" alt=\"share alike\" data-file-width=\"64\" data-file-height=\"64\" data-file-type=\"drawing\" height=\"24\" width=\"24\" class=\"mw-file-element\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/en:Creative%20Commons\" title=\"w:en:Creative Commons\" class=\"extiw\">Creative Commons</a> <a rel=\"mw:WikiLink/Interwiki\" href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\" title=\"creativecommons:by-sa/3.0/deed.en\" class=\"extiw\">Attribution-Share Alike 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">FinlayCox143</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a rel=\"mw:WikiLink/Interwiki\" href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\n<span class=\"mw-empty-elt\"><link rel=\"mw:PageProp/Category\" href=\"./Category:CC-BY-SA-3.0#Macro,%20Red%20Flower%20-%20panoramio.jpg\"><style data-mw-deduplicate=\"TemplateStyles:r901585720\" typeof=\"mw:Extension/templatestyles\" about=\"#mwt3\" data-mw='{\"name\":\"templatestyles\",\"attrs\":{\"src\":\"Panoramioreview/styles.css\"}}'>.mw-parser-output .panoramioreview{width:100%;margin:0.5em 0;background-color:var(--background-color-warning-subtle,#fffff0);padding:5px;border:1px solid var(--border-color-warning,#aa8);color:inherit}.mw-parser-output .panoramioreview-failed{background-color:var(--background-color-error-subtle,#fcc);color:inherit}.mw-parser-output .panoramioreview-passed{background-color:var(--background-color-success-subtle,#efe);color:inherit}</style></span>\n<table class=\"panoramioreview panoramioreview-passed\" lang=\"en\" dir=\"ltr\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img resource=\"https://commons.wikimedia.org/wiki/File:Checked_copyright_icon.svg\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" alt=\"\" data-file-width=\"160\" data-file-height=\"153\" data-file-type=\"drawing\" height=\"48\" width=\"50\" class=\"mw-file-element\"></span></span></td>\n<td>This image, which was originally posted to <b><span lang=\"en\" dir=\"ltr\"><a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/Panoramio\" title=\"en:Panoramio\" class=\"extiw\">Panoramio</a></span></b>, was automatically reviewed on 3 January 2017 by <b><a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:Panoramio_upload_bot\" title=\"User:Panoramio upload bot\">Panoramio upload bot</a></b>, who confirmed that it was available on Panoramio under the above license on that date.</td>\n<td><span typeof=\"mw:File\" data-mw='{\"caption\":\"\"}'><a href=\"https://commons.wikimedia.org/wiki/File:Star_and_ring.svg\" class=\"mw-file-description\"><img resource=\"https://commons.wikimedia.org/wiki/File:Star_and_ring.svg\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Star_and_ring.svg/60px-Star_and_ring.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Star_and_ring.svg/120px-Star_and_ring.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"75\" data-file-height=\"75\" data-file-type=\"drawing\" height=\"50\" width=\"50\" class=\"mw-file-element\"></a></span></td></tr>\n</tbody></table>\n<span class=\"mw-empty-elt\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Panoramio_images_reviewed_by_trusted_users#Macro,%20Red%20Flower%20-%20panoramio.jpg\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Photos_from_Panoramio\"></span>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "FinlayCox143",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "71358076": {
+        "pageid": 71358076,
+        "ns": 6,
+        "title": "File:Macro Nature Flower Shots (211357719).jpeg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 517566,
+            "width": 2048,
+            "height": 1363,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Macro_Nature_Flower_Shots_%28211357719%29.jpeg/960px-Macro_Nature_Flower_Shots_%28211357719%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 511,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Macro_Nature_Flower_Shots_%28211357719%29.jpeg/1920px-Macro_Nature_Flower_Shots_%28211357719%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Macro_Nature_Flower_Shots_%28211357719%29.jpeg/960px-Macro_Nature_Flower_Shots_%28211357719%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 511,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Macro_Nature_Flower_Shots_%28211357719%29.jpeg/1920px-Macro_Nature_Flower_Shots_%28211357719%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Macro_Nature_Flower_Shots_%28211357719%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Macro_Nature_Flower_Shots_(211357719).jpeg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=71358076",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-08-05 01:44:34",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nMacro Nature Flower Shots</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Flowers of Egypt|Gentianales in Egypt|Red flowers in Egypt|Files with coordinates missing SDC location of creation|Photos imported with import-500px|Unidentified Angiosperms in Egypt|Unidentified Plumeria|Bokeh photographs of Gentianales flowers",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "26.820553",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "30.802498",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\n<a rel=\"nofollow\" class=\"external text\" href=\"https://500px.com/baher4ever\">Mohamed Baher</a></div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<p>500px provided description: Nature shows its beauty \nEnjoy macro shots for flowers and plants\n</p>\nTaken by an amateur photographer. [#leaves ,#flowers ,#landscape ,#beauty ,#nature ,#macro ,#flower ,#sunlight ,#tree ,#plants ,#closeup ,#natural ,#nikon ,#art ,#green ,#sunny ,#drop ,#105mm ,#micro ,#amateur ,#closeups]</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "16 September 2016, 21:49:46 (UTC)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Imported from <a rel=\"nofollow\" class=\"external text\" href=\"https://500px.com/photo/211357719/macro-nature-flower-shots-by-mohamed-baher\">500px</a> (<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/201807id_/https://drscdn.500px.org/photo/211357719/m%3D2048_k%3D1/v2?webp=true&amp;sig=5dcbc0c080d50fb0c4531f289a58731a1ea714cd19a4baeac94ea1a66f4e8303\">archived version</a>) by <a rel=\"nofollow\" class=\"external text\" href=\"https://www.archiveteam.org/index.php?title=500px\">the Archive Team</a>. (<a href=\"https://iw.toolforge.org/import-500px/photo/211357719\" class=\"extiw\" title=\"toolforge:import-500px/photo/211357719\">detail page</a>)",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table style=\"width:100%; clear:both; text-align:center; margin:0.5em auto; background-color:var(--background-color-neutral-subtle, #f8f9fa); border:var(--border-subtle, 2px solid #c8ccd1); padding: 0; border-spacing: 8px; color:var(--color-base, #202122);\" dir=\"ltr\" class=\"layouttemplate licensetpl\" lang=\"en\">\n<tbody><tr>\n<td style=\"width:90px;\" rowspan=\"2\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"Creative Commons\"><img alt=\"Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/40px-Cc.logo.circle.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"28\" height=\"28\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/60px-Cc.logo.circle.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"CC-Zero\"><img alt=\"CC-Zero\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Cc-zero.svg/40px-Cc-zero.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"28\" height=\"28\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Cc-zero.svg/60px-Cc-zero.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span>\n</td>\n<td>This file is made available under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"extiw\" title=\"ccorg:publicdomain/zero/1.0/deed.en\">CC0 1.0 Universal Public Domain Dedication</a>.\n</td></tr>\n<tr style=\"text-align:left;\">\n<td>The person who associated a work with this deed has dedicated the work to the <a href=\"https://en.wikipedia.org/wiki/en:public_domain\" class=\"extiw\" title=\"w:en:public domain\">public domain</a> by waiving all of their rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.\n<p><span class=\"licensetpl_link\" style=\"display:none;\">http://creativecommons.org/publicdomain/zero/1.0/deed.en</span><span class=\"licensetpl_short\" style=\"display:none;\">CC0</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Zero, Public Domain Dedication</span><span class=\"licensetpl_link_req\" style=\"display:none;\">false</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">false</span>\n</p>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "85745744": {
+        "pageid": 85745744,
+        "ns": 6,
+        "title": "File:Chrysantheme rot tautropfen -20191024-RM-102058.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7105806,
+            "width": 5212,
+            "height": 3908,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Chrysantheme_rot_tautropfen_-20191024-RM-102058.jpg/960px-Chrysantheme_rot_tautropfen_-20191024-RM-102058.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Chrysantheme_rot_tautropfen_-20191024-RM-102058.jpg/1920px-Chrysantheme_rot_tautropfen_-20191024-RM-102058.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Chrysantheme_rot_tautropfen_-20191024-RM-102058.jpg/960px-Chrysantheme_rot_tautropfen_-20191024-RM-102058.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Chrysantheme_rot_tautropfen_-20191024-RM-102058.jpg/1920px-Chrysantheme_rot_tautropfen_-20191024-RM-102058.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Chrysantheme_rot_tautropfen_-20191024-RM-102058.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Chrysantheme_rot_tautropfen_-20191024-RM-102058.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=85745744",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-01-09 09:13:42",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Chrysantheme rot tautropfen -20191024-RM-102058",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Chrysanthemum × morifolium|Taken with Olympus E-M1 Mark II|Taken with Olympus M.Zuiko Digital ED 60mm f/2.8 Macro|Dew in Germany|Self-published work|Featured pictures of flowers|Featured pictures of Bavaria|Featured pictures on Wikipedia, Vietnamese|Featured pictures by Ermell|Uploaded with LrMediaWiki|Focus stacking images of flowers|Photographs by Ermell|Close-up photographs of water droplets on flowers|Close-up photographs of dew droplets|Featured pictures of Asteroideae|Bavaria photographs taken on 2019-10-24|Images by User:Ermell taken in 2019|Featured pictures of plants by Ermell|Focus stacked image",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality|featured|potd",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Flower of a red chrysanthemum (<i>Chrysanthemum × morifolium</i>) with dew drops in a garden in Bamberg in Upper Franconia. Focus stack of 32 frames.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-10-24 10:20:58",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ermell\" title=\"User:Ermell\">Ermell</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"toccolours\" style=\"width:100%; margin-top:10px;\" cellpadding=\"2\">\n\n<tbody><tr class=\"plainlinks\">\n<td><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Twemoji_1f4f7.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Twemoji_1f4f7.svg/40px-Twemoji_1f4f7.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Twemoji_1f4f7.svg/60px-Twemoji_1f4f7.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"512\"></a></span>  <a href=\"https://upload.wikimedia.org/wikipedia/commons/7/7b/Chrysantheme_rot_tautropfen_-20191024-RM-102058.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=api&amp;utm_content=original\" class=\"internal\" title=\"Chrysantheme rot tautropfen -20191024-RM-102058.jpg\">This Photo</a> was taken by <i><b><a href=\"//commons.wikimedia.org/wiki/User:Ermell\" title=\"User:Ermell\">Reinhold Möller</a></b></i>.  <span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Twemoji_1f468.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Twemoji_1f468.svg/40px-Twemoji_1f468.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Twemoji_1f468.svg/60px-Twemoji_1f468.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"512\"></a></span>\n</td>\n<td align=\"right\">Feel free to use my photos, but please mention me as the author and send me a  <a class=\"external text\" data-mw-original-href=\"http://commons.wikimedia.org/w/index.php?title=User_talk:Ermell&amp;action=edit&amp;section=new\" href=\"https://commons.wikimedia.org/w/index.php?title=User_talk:Ermell&amp;action=edit&amp;section=new\">message</a>. <span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Crystal_128_mail.png\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Crystal_128_mail.png/40px-Crystal_128_mail.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Crystal_128_mail.png/60px-Crystal_128_mail.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"128\" data-file-height=\"128\"></a></span>\n</td></tr></tbody></table>\n<div style=\"clear:both; border:2px solid #00cc00; background-color:#f7f7f7; margin-top:6px;\">\n<table><tbody><tr><td style=\"padding:4px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Telif_inceleme.png\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/a/a5/Telif_inceleme.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail_unscaled\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" data-file-width=\"110\" data-file-height=\"110\"></a></span>\n</td><td style=\"padding:4px;\"><div style=\"margin-top:0.5em;\">This image is <b>not <a href=\"https://en.wikipedia.org/wiki/Public_domain\" class=\"extiw\" title=\"en:Public domain\">public domain</a></b>. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically <b>excludes use in social media</b>, if applicable terms of the licenses listed here not appropriate.</div>\n</td></tr></tbody></table>\n<table><tbody><tr><td style=\"padding:4px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Upload-problem2.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Upload-problem2.svg/120px-Upload-problem2.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"57\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Upload-problem2.svg/250px-Upload-problem2.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"159\" data-file-height=\"142\"></a></span>\n</td><td style=\"padding:4px;\"><div style=\"margin-top:0.5em;\">Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.<br>Please if you think that any changes should be required, please inform the author.<br>Otherwise you can upload a new image with a new name. Please use one of the templates <a href=\"//commons.wikimedia.org/wiki/Template:Derived_from\" title=\"Template:Derived from\">derivative</a> or <a href=\"//commons.wikimedia.org/wiki/Template:Extracted_from\" title=\"Template:Extracted from\">extract</a>.</div>\n</td></tr></tbody></table></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ermell\" title=\"User:Ermell\">Reinhold Möller</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "106441809": {
+        "pageid": 106441809,
+        "ns": 6,
+        "title": "File:Dülmen, Fröbelstraße, Mohn am Feldrand -- 2021 -- 9174.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9562742,
+            "width": 5885,
+            "height": 4414,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/D%C3%BClmen%2C_Fr%C3%B6belstra%C3%9Fe%2C_Mohn_am_Feldrand_--_2021_--_9174.jpg/960px-D%C3%BClmen%2C_Fr%C3%B6belstra%C3%9Fe%2C_Mohn_am_Feldrand_--_2021_--_9174.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/D%C3%BClmen%2C_Fr%C3%B6belstra%C3%9Fe%2C_Mohn_am_Feldrand_--_2021_--_9174.jpg/1920px-D%C3%BClmen%2C_Fr%C3%B6belstra%C3%9Fe%2C_Mohn_am_Feldrand_--_2021_--_9174.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/D%C3%BClmen%2C_Fr%C3%B6belstra%C3%9Fe%2C_Mohn_am_Feldrand_--_2021_--_9174.jpg/960px-D%C3%BClmen%2C_Fr%C3%B6belstra%C3%9Fe%2C_Mohn_am_Feldrand_--_2021_--_9174.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/D%C3%BClmen%2C_Fr%C3%B6belstra%C3%9Fe%2C_Mohn_am_Feldrand_--_2021_--_9174.jpg/1920px-D%C3%BClmen%2C_Fr%C3%B6belstra%C3%9Fe%2C_Mohn_am_Feldrand_--_2021_--_9174.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/D%C3%BClmen%2C_Fr%C3%B6belstra%C3%9Fe%2C_Mohn_am_Feldrand_--_2021_--_9174.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Fr%C3%B6belstra%C3%9Fe,_Mohn_am_Feldrand_--_2021_--_9174.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=106441809",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-06-10 06:02:08",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Dülmen, Fröbelstraße, Mohn am Feldrand -- 2021 -- 9174",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Photographs by Dietmar Rabich/Featured pictures of Germany|Red flowers in Germany|Taken with Canon EOS 5D Mark IV|ISO speed rating 200|Taken with Sigma 105mm F2.8 EX DG OS HSM Macro|Photographs with aspect ratio of 4:3|Self-published work|Commons featured desktop backgrounds|Photographs by Dietmar Rabich/Bokeh|Photographs by Dietmar Rabich/Close-ups|Exposure time 1/50 sec|Featured pictures of Dülmen|Photographs by Dietmar Rabich/Dülmen|Photographs by Dietmar Rabich/Featured pictures|Photographs by Dietmar Rabich/Quality images|Featured pictures of flowers|Information field template with formatting|Photographs by Dietmar Rabich/Quality images of flowers|Images by XRay (flat list)|Uploaded with LrMediaWiki|F-number f/11|Photographs by Dietmar Rabich/Medium exposure|Lens focal length 105 mm|Field margins in North Rhine-Westphalia|Close-ups of Papaver rhoeas flowers in North Rhine-Westphalia|Spring 2021 in Dülmen|Dülmen photographs taken on 2021-06-08|Papaver rhoeas in Dülmen|Featured pictures of Ranunculales|Photographs by Dietmar Rabich/Featured pictures on Wikimedia Commons|Ranunculales in North Rhine-Westphalia in June 2021|Featured photographs of bokeh|Quality photographs of bokeh|Bokeh photographs of Ranunculales flowers|Papaver rhoeas in the Northern Hemisphere in June 2021|Flowers in Dülmen-Mitte|Bokeh photographs of North Rhine-Westphalia|Photographs by Dietmar Rabich/Quality images of North Rhine-Westphalia|Photographs by Dietmar Rabich/Safe for Children|Photographs by Dietmar Rabich/Year/2021|Morning in Kreis Coesfeld|Close-up photographs in North Rhine-Westphalia",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality|featured|potd",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "51.816400",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "7.302560",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/Poppy\" class=\"extiw\" title=\"en:Poppy\">Poppy flower</a> on the edge of the field in Froebelstrasse in <a href=\"https://en.wikipedia.org/wiki/D%C3%BClmen\" class=\"extiw\" title=\"en:Dülmen\">Dülmen</a>, <a href=\"https://en.wikipedia.org/wiki/North_Rhine-Westphalia\" class=\"extiw\" title=\"en:North Rhine-Westphalia\">North Rhine-Westphalia</a>, Germany",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 8 June 2021, 06:52",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q34788025\" class=\"extiw\" title=\"d:Q34788025\"><span title=\"German photographer and mathematician\">Dietmar Rabich</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"layouttemplate navigation-not-searchable\" style=\"margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;border:1px solid var(--background-color-disabled,#eeeeee)\" data-nosnippet=\"\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/40px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"14\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1000\" data-file-height=\"600\"></span></span>\n</td>\n<td>Dieser Text und viele andere auch sind ebenso in deutscher Sprache verfügbar. Um diese sehen zu können, wähle bitte auf dieser Webseite die Spracheinstellung „Deutsch“.\n</td></tr></tbody></table><div style=\"clear:both;border:1px solid var(--background-color-disabled,#eeeeee);margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;font-size:90%;\" class=\"searchaux\" data-nosnippet=\"\">\n<figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:HSSection_sign.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/120px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/250px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"156\" data-file-height=\"156\"></a><figcaption></figcaption></figure><figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Cc_by-sa_(1).svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/120px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"35\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/250px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"120\" data-file-height=\"42\"></a><figcaption></figcaption></figure><div><b>I. Licence</b></div>\n<div style=\"margin-top:0.5em;\">This photograph is protected by copyright law. However, it may be used for free by anyone, provided it is used in accordance with the license <b>Creative Commons License <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed\">“Attribution-ShareAlike 4.0 International”</a></b> (CC BY-SA 4.0). These include, among other things, the naming of the author and the license, as well as the setting of a link to the license text or its complete imprint. The attribution should be done as follows:</div>\n<div style=\"margin-top:0.5em; text-align:center;\"><i><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a> / <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a> / <span class=\"plainlinks noprint\"><a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/File:D%C3%BClmen,_Fr%C3%B6belstra%C3%9Fe,_Mohn_am_Feldrand_--_2021_--_9174.jpg\" href=\"https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Fr%C3%B6belstra%C3%9Fe,_Mohn_am_Feldrand_--_2021_--_9174.jpg\">“Dülmen, Fröbelstraße, Mohn am Feldrand -- 2021 -- 9174”</a></span> / <span class=\"plainlinks noprint\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a></span></i></div>\n<div style=\"margin-top:0.5em;\">Please read the text of the license carefully before using the photograph. If you do not agree with the conditions of the license or if you do not understand these conditions, please refrain from using the photo. If you have any questions regarding the license or the reuse of the image, please contact me before using it. If you do not comply with the terms of the license, you do not acquire any right to use the image. If you need another license to use, please contact the author <b>before</b> using.</div>\n<div style=\"margin-top:0.5em;\">For informations about the licence see section <a class=\"mw-selflink-fragment\" href=\"#ImgLic\">Licensing</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">human-readable summary</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">full licence text</a> at Creative Commons. In addition to the above, a link to the source - so this page with the descriptions and license terms - is appreciated. More information or examples of use can be found at <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">re-use (with example file)</a>. The <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Fr%C3%B6belstra%C3%9Fe,_Mohn_am_Feldrand_--_2021_--_9174.jpg\">Attribution Generator</a> is helpful in licensing matters.</div>\n<div style=\"margin:0.5em auto 1em;text-align:center;\" class=\"plainlinks\"><span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Fr%C3%B6belstra%C3%9Fe,_Mohn_am_Feldrand_--_2021_--_9174.jpg\"><span class=\"submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-secondary ui-button-blue\" role=\"button\"><span class=\"ui-button-text\">Generate License <b>Attribution</b></span><span class=\"ui-button-icon-secondary ui-icon ui-icon-extlink\"> </span></span></a></span></div>\n<div style=\"margin-top:0.5em;\">As an alternative to the Creative Commons License <i>CC BY-SA 4.0</i>, the <i><a href=\"https://en.wikipedia.org/wiki/Free_Art_License\" class=\"extiw\" title=\"en:Free Art License\">Free Art License</a></i> (<a rel=\"nofollow\" class=\"external text\" href=\"http://artlibre.org/licence/lal/en/\">from version 1.3</a>) may also be used.</div>\n<div style=\"margin-top:0.75em;\"><b>II. Fairness</b></div>\n<div style=\"margin-top:0.5em;\">From printed materials and other tangible products that use that work, the user is asked to send a copy to the author as thank you. However, this is not a condition for the use of the photo, but a voluntary service. The mailing address can be requested via the contact options.</div>\n<div style=\"margin-top:0.5em;\">Please note that the author had quite considerable effort to draw up this file. Thus, it is only fair to comply with the conditions of <a href=\"https://en.wikipedia.org/wiki/Free_license\" class=\"extiw\" title=\"en:Free license\">free licenses</a> listed here. In the case of violation of the license conditions, the rights granted hereunder will expire automatically.</div>\n<div style=\"margin-top:0.75em; clear: both;\"><b>III. Disclaimer</b></div>\n<div style=\"margin-top:0.5em;\">Please note that the rights granted under the license apply exclusively to the photograph itself, but not to the rights of third parties — such as copyrights or property rights in the object depicted or the personal rights of any individuals who may be depicted. (See <a href=\"//commons.wikimedia.org/wiki/Commons:L\" class=\"mw-redirect\" title=\"Commons:L\">licences</a> and <a href=\"//commons.wikimedia.org/wiki/Commons:SOSUMI\" class=\"mw-redirect\" title=\"Commons:SOSUMI\">non-copyright restrictions</a>.) I do not grant any warranty that the subsequent use of the photograph is legally possible concerning the object or person shown in the photograph. You are responsible to check and respect these rights in the publication in the respective medium or country.</div>\n<div style=\"margin-top:0.5em;\">The author is not responsible for the accuracy of the information contained herein (description, title, etc.). Likewise, the author assumes no liability for further use. Please note the <a href=\"//commons.wikimedia.org/wiki/Commons:General_disclaimer\" title=\"Commons:General disclaimer\">general disclaimer</a> and please read <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">reusing content outside Wikimedia</a> too.</div>\n<div style=\"margin-top:0.75em;\"><b>IV. Contact</b></div>\n<div style=\"margin-top:0.5em;\"><b><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:UserIconMail.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/40px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/60px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"700\" data-file-height=\"700\"></a></span> <a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/XRay\" title=\"Special:EmailUser/XRay\">E-mail to the author</a></b> or the <a href=\"//commons.wikimedia.org/wiki/User_talk:XRay\" title=\"User talk:XRay\">author's talk page</a> <small>or the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.rabich.de/\">author's website</a></small></div></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<b><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a></b>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "116252588": {
+        "pageid": 116252588,
+        "ns": 6,
+        "title": "File:Adenium Obesum Flower Side Macro Mar22 D72 23052-58 ZS P.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 12125946,
+            "width": 4792,
+            "height": 3834,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Adenium_Obesum_Flower_Side_Macro_Mar22_D72_23052-58_ZS_P.jpg/960px-Adenium_Obesum_Flower_Side_Macro_Mar22_D72_23052-58_ZS_P.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 614,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Adenium_Obesum_Flower_Side_Macro_Mar22_D72_23052-58_ZS_P.jpg/1920px-Adenium_Obesum_Flower_Side_Macro_Mar22_D72_23052-58_ZS_P.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Adenium_Obesum_Flower_Side_Macro_Mar22_D72_23052-58_ZS_P.jpg/960px-Adenium_Obesum_Flower_Side_Macro_Mar22_D72_23052-58_ZS_P.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 614,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Adenium_Obesum_Flower_Side_Macro_Mar22_D72_23052-58_ZS_P.jpg/1920px-Adenium_Obesum_Flower_Side_Macro_Mar22_D72_23052-58_ZS_P.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Adenium_Obesum_Flower_Side_Macro_Mar22_D72_23052-58_ZS_P.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Adenium_Obesum_Flower_Side_Macro_Mar22_D72_23052-58_ZS_P.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=116252588",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-04-05 04:02:55",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Adenium Obesum Flower Side Macro Mar22 D72 23052-58 ZS P",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Adenium obesum (flowers)|Self-published work|Media with estimated locations|Focus stacking images of flowers|Red flowers in India|Files with coordinates missing SDC location of creation|Images by User:Tagooty|Images by User:Tagooty/India|Flowers of Chennai|Flora of Uthandi|Focus stacking images by Tagooty",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality|valued",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "12.873040",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "80.244750",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Adenium obesum (desert rose), macro of a flower, side view showing calyx, corolla and styles.  Focus stack of 7 images. Uthandi, Chennai",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-03-21 10:13:56",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<table class=\"toccolours\" style=\"width:100%; margin-top:10px;\" cellpadding=\"2\">\n\n<tbody><tr class=\"plainlinks\">\n<td><a href=\"https://upload.wikimedia.org/wikipedia/commons/4/4a/Adenium_Obesum_Flower_Side_Macro_Mar22_D72_23052-58_ZS_P.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=api&amp;utm_content=original\" class=\"internal\" title=\"Adenium Obesum Flower Side Macro Mar22 D72 23052-58 ZS P.jpg\">This Photo</a> was taken by <i><b><a href=\"//commons.wikimedia.org/wiki/User:Tagooty\" title=\"User:Tagooty\">Timothy A. Gonsalves</a></b></i>.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email <a rel=\"nofollow\" class=\"external text\" href=\"mailto:tagooty@yahoo.com\">tagooty@yahoo.com</a> or write on <a class=\"external text\" href=\"https://commons.wikimedia.org/w/index.php?title=User_talk:Tagooty&amp;action=edit&amp;section=new\">my talk page</a>, for my information.  Please contact me before commercial use.\n</td></tr></tbody></table>\n<div style=\"clear:both; border:2px solid #00cc00; background-color:#f7f7f7; margin-top:6px;\">\n<table><tbody><tr><td style=\"padding:4px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Upload-problem2.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Upload-problem2.svg/120px-Upload-problem2.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"57\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Upload-problem2.svg/250px-Upload-problem2.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"159\" data-file-height=\"142\"></a></span>\n</td><td style=\"padding:4px;\"><div style=\"margin-top:0.5em;\">Please do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.<br>Otherwise you may upload an edited image with a new name. Please use one of the templates <a href=\"//commons.wikimedia.org/wiki/Template:Derived_from\" title=\"Template:Derived from\">derivative</a> or <a href=\"//commons.wikimedia.org/wiki/Template:Extracted_from\" title=\"Template:Extracted from\">extract</a>.</div>\n</td></tr></tbody></table></div>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "132774715": {
+        "pageid": 132774715,
+        "ns": 6,
+        "title": "File:Sea Thrift (Armeria maritima) Flower Macro Photograph.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2499930,
+            "width": 4000,
+            "height": 2672,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Sea_Thrift_%28Armeria_maritima%29_Flower_Macro_Photograph.jpg/960px-Sea_Thrift_%28Armeria_maritima%29_Flower_Macro_Photograph.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 513,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Sea_Thrift_%28Armeria_maritima%29_Flower_Macro_Photograph.jpg/1920px-Sea_Thrift_%28Armeria_maritima%29_Flower_Macro_Photograph.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Sea_Thrift_%28Armeria_maritima%29_Flower_Macro_Photograph.jpg/960px-Sea_Thrift_%28Armeria_maritima%29_Flower_Macro_Photograph.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 513,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Sea_Thrift_%28Armeria_maritima%29_Flower_Macro_Photograph.jpg/1920px-Sea_Thrift_%28Armeria_maritima%29_Flower_Macro_Photograph.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Sea_Thrift_%28Armeria_maritima%29_Flower_Macro_Photograph.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sea_Thrift_(Armeria_maritima)_Flower_Macro_Photograph.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=132774715",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-06-07 21:12:14",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Sea Thrift (Armeria maritima) Flower Macro Photograph",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Armeria maritima|Self-published work|Files with coordinates missing SDC location of creation (53° N, 4° W)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "53.383746",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-3.196772",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A macro photograph of a Sea Thrift (Armeria maritima) flower. Photographed at Red Rocks Marsh, Wirral, United Kingdom.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-06-07",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:JarroNevsbaru&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:JarroNevsbaru (page does not exist)\">JarroNevsbaru</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "172507539": {
+        "pageid": 172507539,
+        "ns": 6,
+        "title": "File:Pelargonium 2025 G1.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4338875,
+            "width": 4900,
+            "height": 3800,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Pelargonium_2025_G1.jpg/960px-Pelargonium_2025_G1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 596,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Pelargonium_2025_G1.jpg/1920px-Pelargonium_2025_G1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Pelargonium_2025_G1.jpg/960px-Pelargonium_2025_G1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 596,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Pelargonium_2025_G1.jpg/1920px-Pelargonium_2025_G1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Pelargonium_2025_G1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pelargonium_2025_G1.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=172507539",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-08-13 21:22:14",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Pelargonium 2025 G1",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Pelargonium cultivars|Taken with Canon EOS 750D|Taken with Canon EF 100mm F2.8 Macro USM|Self-published work|Featured pictures by George Chernilevsky|Featured pictures of flowers|Featured pictures of Vinnytsia Oblast|Close-ups of Pelargonium flowers|Images by George Chernilevsky|Ukraine photographs taken on 2025-05-19",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality|featured|potd",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Pelargonium cultivars flowers. Ukraine, Vinnytsia",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-05-19 09:41:38",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:George_Chernilevsky\" title=\"User:George Chernilevsky\">George Chernilevsky</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

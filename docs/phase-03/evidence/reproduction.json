@@ -1,0 +1,395 @@
+{
+  "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+  "gpuProbe": {
+    "exposed": true,
+    "adapterAvailable": true,
+    "inferenceTested": false
+  },
+  "memoryLimitations": "Worker V8 heap/backing storage snapshot after inference, not native/WASM/GPU peak or physical-device certification.",
+  "records": [
+    {
+      "mode": "readiness",
+      "image": "natural-01",
+      "wallMs": 6763,
+      "result": {
+        "mode": "readiness",
+        "backend": "wasm",
+        "initializationMs": 4053.5,
+        "reused": false,
+        "discovery": {
+          "libraryVersion": "ouahad-scenes-36-v2-audit",
+          "views": [
+            {
+              "name": "whole",
+              "region": null,
+              "ranking": [
+                {
+                  "id": "mountain-lake",
+                  "theme": "Nature",
+                  "description": "a mountain landscape with a lake",
+                  "cosine": 0.2680185196315915
+                },
+                {
+                  "id": "reflections",
+                  "theme": "Objects & activities",
+                  "description": "an abstract view of reflections or glass surfaces",
+                  "cosine": 0.22731954678036023
+                },
+                {
+                  "id": "river",
+                  "theme": "Nature",
+                  "description": "a river or waterfall in a natural environment",
+                  "cosine": 0.2265409303460715
+                },
+                {
+                  "id": "coast",
+                  "theme": "Nature",
+                  "description": "a beach or coastal landscape",
+                  "cosine": 0.2260531291652131
+                },
+                {
+                  "id": "optics",
+                  "theme": "Technology & built world",
+                  "description": "cameras or optical viewing equipment",
+                  "cosine": 0.2248682115173969
+                },
+                {
+                  "id": "classroom",
+                  "theme": "Indoor spaces",
+                  "description": "a classroom or teaching space",
+                  "cosine": 0.22431022700620393
+                },
+                {
+                  "id": "birds",
+                  "theme": "Animals & people",
+                  "description": "birds in their surroundings",
+                  "cosine": 0.22375953955740568
+                },
+                {
+                  "id": "railway",
+                  "theme": "Technology & built world",
+                  "description": "a train or railway scene",
+                  "cosine": 0.22245586542587725
+                },
+                {
+                  "id": "sport",
+                  "theme": "Animals & people",
+                  "description": "people playing a sport",
+                  "cosine": 0.22096557557277866
+                },
+                {
+                  "id": "street-people",
+                  "theme": "Animals & people",
+                  "description": "people in a public outdoor space",
+                  "cosine": 0.22028546512871
+                },
+                {
+                  "id": "architecture",
+                  "theme": "Technology & built world",
+                  "description": "buildings or architectural structures",
+                  "cosine": 0.22025038685227627
+                },
+                {
+                  "id": "wildlife",
+                  "theme": "Animals & people",
+                  "description": "wild animals",
+                  "cosine": 0.21550151012858124
+                },
+                {
+                  "id": "farmland",
+                  "theme": "Nature",
+                  "description": "cultivated fields or farmland",
+                  "cosine": 0.2153697679929515
+                },
+                {
+                  "id": "tools",
+                  "theme": "Objects & activities",
+                  "description": "tools or workshop equipment",
+                  "cosine": 0.21419228002190255
+                },
+                {
+                  "id": "harbor",
+                  "theme": "Technology & built world",
+                  "description": "boats or a harbor",
+                  "cosine": 0.21385502193769623
+                },
+                {
+                  "id": "road-vehicles",
+                  "theme": "Technology & built world",
+                  "description": "road vehicles or traffic",
+                  "cosine": 0.2137170868898382
+                },
+                {
+                  "id": "outdoor-cooking",
+                  "theme": "Food & dining",
+                  "description": "outdoor cooking with pots over a fire",
+                  "cosine": 0.2125959687527427
+                },
+                {
+                  "id": "desert",
+                  "theme": "Nature",
+                  "description": "a desert landscape with sand or bare rock",
+                  "cosine": 0.2119110450956793
+                },
+                {
+                  "id": "music",
+                  "theme": "Objects & activities",
+                  "description": "musical instruments",
+                  "cosine": 0.2106179282642712
+                },
+                {
+                  "id": "gardening",
+                  "theme": "Animals & people",
+                  "description": "people tending a garden",
+                  "cosine": 0.21026067659608932
+                },
+                {
+                  "id": "forest",
+                  "theme": "Nature",
+                  "description": "a forest with trees and vegetation",
+                  "cosine": 0.2101160368056531
+                },
+                {
+                  "id": "living-room",
+                  "theme": "Indoor spaces",
+                  "description": "a living room or sitting area",
+                  "cosine": 0.20966928336584023
+                },
+                {
+                  "id": "electronics",
+                  "theme": "Technology & built world",
+                  "description": "computers or electronic equipment",
+                  "cosine": 0.20929898956193616
+                },
+                {
+                  "id": "bedroom",
+                  "theme": "Indoor spaces",
+                  "description": "a bedroom interior",
+                  "cosine": 0.2077045725648369
+                },
+                {
+                  "id": "books",
+                  "theme": "Objects & activities",
+                  "description": "books or paper documents",
+                  "cosine": 0.20577159587928814
+                },
+                {
+                  "id": "warehouse",
+                  "theme": "Indoor spaces",
+                  "description": "a warehouse or industrial interior",
+                  "cosine": 0.2017335185119188
+                },
+                {
+                  "id": "textiles",
+                  "theme": "Objects & activities",
+                  "description": "clothing or textiles on display",
+                  "cosine": 0.2012183191029437
+                },
+                {
+                  "id": "office",
+                  "theme": "Indoor spaces",
+                  "description": "an office workspace with desks",
+                  "cosine": 0.2008870441702442
+                },
+                {
+                  "id": "drinks",
+                  "theme": "Food & dining",
+                  "description": "cups, glasses or drinking vessels",
+                  "cosine": 0.20037649948909228
+                },
+                {
+                  "id": "pottery",
+                  "theme": "Objects & activities",
+                  "description": "pottery or household utensils on display",
+                  "cosine": 0.19928767680159398
+                },
+                {
+                  "id": "food-preparation",
+                  "theme": "Food & dining",
+                  "description": "food being prepared in a kitchen",
+                  "cosine": 0.1927766146627698
+                },
+                {
+                  "id": "meal",
+                  "theme": "Food & dining",
+                  "description": "a meal served on a dining table",
+                  "cosine": 0.19202440460363723
+                },
+                {
+                  "id": "bakery",
+                  "theme": "Food & dining",
+                  "description": "bread and pastries in a bakery",
+                  "cosine": 0.19011580680330123
+                },
+                {
+                  "id": "bathroom",
+                  "theme": "Indoor spaces",
+                  "description": "a bathroom with washing fixtures",
+                  "cosine": 0.18724603697513117
+                },
+                {
+                  "id": "produce-market",
+                  "theme": "Food & dining",
+                  "description": "a market stall displaying fruit and vegetables",
+                  "cosine": 0.1697704820364813
+                },
+                {
+                  "id": "pets",
+                  "theme": "Animals & people",
+                  "description": "domestic pets",
+                  "cosine": 0.16661050201272537
+                }
+              ]
+            }
+          ],
+          "leading": [
+            {
+              "id": "mountain-lake",
+              "theme": "Nature",
+              "description": "a mountain landscape with a lake",
+              "cosine": 0.2680185196315915
+            },
+            {
+              "id": "reflections",
+              "theme": "Objects & activities",
+              "description": "an abstract view of reflections or glass surfaces",
+              "cosine": 0.22731954678036023
+            },
+            {
+              "id": "river",
+              "theme": "Nature",
+              "description": "a river or waterfall in a natural environment",
+              "cosine": 0.2265409303460715
+            },
+            {
+              "id": "coast",
+              "theme": "Nature",
+              "description": "a beach or coastal landscape",
+              "cosine": 0.2260531291652131
+            },
+            {
+              "id": "optics",
+              "theme": "Technology & built world",
+              "description": "cameras or optical viewing equipment",
+              "cosine": 0.2248682115173969
+            }
+          ],
+          "themes": [
+            "Nature",
+            "Objects & activities",
+            "Technology & built world"
+          ],
+          "viewAgreement": "whole-only"
+        },
+        "preprocessingMs": 28.5,
+        "inferenceMs": 2021.199999988079,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [],
+        "detections": [],
+        "assetLoads": [
+          {
+            "file": "/experiments/ai/clip/preprocessor_config.json",
+            "durationMs": 26.200000002980232,
+            "transferBytes": 820,
+            "decodedBytes": 520
+          },
+          {
+            "file": "/experiments/ai/clip/config.json",
+            "durationMs": 6.299999997019768,
+            "transferBytes": 4824,
+            "decodedBytes": 4524
+          },
+          {
+            "file": "/experiments/ai/clip/onnx/model_quantized.onnx",
+            "durationMs": 659.1000000089407,
+            "transferBytes": 153696002,
+            "decodedBytes": 153695702
+          },
+          {
+            "file": "/ai/runtime/ort-wasm-simd-threaded.asyncify.wasm",
+            "durationMs": 180.29999999701977,
+            "transferBytes": 26862077,
+            "decodedBytes": 26861777
+          },
+          {
+            "file": "/ai/runtime/ort-wasm-simd-threaded.asyncify.mjs",
+            "durationMs": 38.29999999701977,
+            "transferBytes": 53357,
+            "decodedBytes": 53057
+          },
+          {
+            "file": "/experiments/ai/clip/tokenizer.json",
+            "durationMs": 34.29999999701977,
+            "transferBytes": 2224419,
+            "decodedBytes": 2224119
+          },
+          {
+            "file": "/experiments/ai/clip/tokenizer_config.json",
+            "durationMs": 21,
+            "transferBytes": 1075,
+            "decodedBytes": 775
+          }
+        ]
+      },
+      "workerV8HeapAfterInference": {
+        "usedSize": 15468896,
+        "totalSize": 30072832,
+        "embedderHeapUsedSize": 343024,
+        "backingStorageSize": 29765630
+      }
+    },
+    {
+      "mode": "baseline",
+      "image": "natural-01",
+      "wallMs": 1878,
+      "result": {
+        "mode": "baseline",
+        "backend": "wasm",
+        "initializationMs": 1214,
+        "inferenceMs": 128.20000000298023,
+        "preprocessingMs": 48.6000000089407,
+        "reused": false,
+        "inputShape": [
+          1,
+          3,
+          224,
+          224
+        ],
+        "predictions": [
+          {
+            "label": "alp",
+            "score": 0.7450043374868457
+          },
+          {
+            "label": "mountain tent",
+            "score": 0.061565110654963257
+          },
+          {
+            "label": "valley, vale",
+            "score": 0.05200440097883008
+          },
+          {
+            "label": "snowmobile",
+            "score": 0.021588088817597197
+          },
+          {
+            "label": "ski",
+            "score": 0.014732106326013022
+          }
+        ],
+        "detections": []
+      },
+      "workerV8HeapAfterInference": {
+        "usedSize": 4155224,
+        "totalSize": 7970816,
+        "embedderHeapUsedSize": 554600,
+        "backingStorageSize": 44770467
+      }
+    }
+  ]
+}

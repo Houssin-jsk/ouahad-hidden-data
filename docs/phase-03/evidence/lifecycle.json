@@ -1,0 +1,14 @@
+{
+  "lazyLoading": true,
+  "oneWorker": true,
+  "release": true,
+  "failedLoad": true,
+  "manualRetry": true,
+  "cancelLoading": true,
+  "replacement": true,
+  "sameOriginGetOnly": true,
+  "storage": {
+    "local": 0,
+    "session": 0
+  }
+}

@@ -1,0 +1,38 @@
+
+> ouahad-hidden-data@0.1.0 test:research
+> playwright test --config playwright.research.config.ts final-quality.spec.ts
+
+[WebServer] (node:19656) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+[WebServer] (Use `node --trace-warnings ...` to show where the warning was created)
+
+Running 1 test using 1 worker
+
+(node:2684) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+natural-00 natural scenery 585
+natural-02 buildings and city streets 357
+natural-04 an indoor room 234
+natural-06 natural scenery 315
+natural-08 food or a meal 351
+natural-10 vehicles used for transportation 326
+natural-12 an indoor room 237
+natural-14 natural scenery 254
+natural-16 an indoor room 245
+natural-18 natural scenery 241
+natural-20 an indoor room 300
+natural-22 an indoor room 233
+natural-01 natural scenery 261
+natural-03 vehicles used for transportation 227
+natural-05 an indoor room 216
+natural-07 animals 202
+natural-09 food or a meal 217
+natural-11 natural scenery 290
+natural-13 animals 241
+natural-15 natural scenery 217
+natural-17 natural scenery 197
+natural-19 natural scenery 195
+natural-21 natural scenery 244
+natural-23 an indoor room 209
+  ok 1 tests\research\final-quality.spec.ts:6:5 › one frozen TinyCLIP calibration then held-out pass (16.9s)
+
+  1 passed (20.8s)

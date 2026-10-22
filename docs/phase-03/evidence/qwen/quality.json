@@ -1,0 +1,567 @@
+{
+  "contractSha256": "2d7341f0dc44ad31f837ee29a6dc30661ed5e8b5ec912f6254e51b275e3bce21",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "logicalCPUs": 12,
+  "physicalRAM": 16993001472,
+  "cpuThreads": 4,
+  "gpuLayers": 0,
+  "rows": [
+    {
+      "id": "heldout-0",
+      "transform": "original",
+      "preprocessSeconds": 0.07800000000861473,
+      "pixelBytes": 152715,
+      "result": {
+        "version": "1.0.0",
+        "observations": {
+          "summary": "A young boy is selling fresh vegetables from a cart in a market, with various items and clothing visible in the background.",
+          "objects": [
+            "boy",
+            "vegetable cart",
+            "vegetables",
+            "water jug",
+            "clothing"
+          ],
+          "relationships": [
+            "boy is standing behind the vegetable cart",
+            "vegetable cart is on the ground",
+            "vegetables are on top of the cart"
+          ],
+          "uncertainties": [
+            "the identity of the person in the background is uncertain",
+            "the person sitting in the background is not clearly visible",
+            "the person in the background is not clearly visible"
+          ]
+        },
+        "limitations": "Model-generated observations can be wrong or incomplete. They do not establish identity, location, sensitive attributes, authenticity, or camera metadata.",
+        "model": "Qwen3-VL 2B Instruct Q4_K_M",
+        "elapsedSeconds": 31.905999999988126
+      },
+      "metrics": {
+        "usage": {
+          "completion_tokens": 149,
+          "prompt_tokens": 597,
+          "total_tokens": 746,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          }
+        },
+        "timings": {
+          "cache_n": 0,
+          "prompt_n": 597,
+          "prompt_ms": 19157.742,
+          "prompt_per_token_ms": 32.09002010050251,
+          "prompt_per_second": 31.16233635467061,
+          "predicted_n": 149,
+          "predicted_ms": 12711.912,
+          "predicted_per_token_ms": 85.8912972972973,
+          "predicted_per_second": 11.642623076685867
+        }
+      },
+      "wallSeconds": 31.905999999988126,
+      "nativeCPUSeconds": 126.65625
+    },
+    {
+      "id": "heldout-0",
+      "transform": "dim",
+      "preprocessSeconds": 0.062000000005355105,
+      "pixelBytes": 116598,
+      "result": {
+        "version": "1.0.0",
+        "observations": {
+          "summary": "A young boy is selling fresh vegetables from a cart in a busy market, with other people and clothing stalls visible in the background.",
+          "objects": [
+            "boy",
+            "vegetable cart",
+            "vegetables",
+            "water container",
+            "clothing stall"
+          ],
+          "relationships": [
+            "boy is sitting on the cart",
+            "cart is on the ground",
+            "cart is in front of the clothing stall"
+          ],
+          "uncertainties": [
+            "the boy's face is not clearly visible",
+            "the identity of the person in the background is uncertain",
+            "the person in the background is not clearly visible"
+          ]
+        },
+        "limitations": "Model-generated observations can be wrong or incomplete. They do not establish identity, location, sensitive attributes, authenticity, or camera metadata.",
+        "model": "Qwen3-VL 2B Instruct Q4_K_M",
+        "elapsedSeconds": 35.687999999994645
+      },
+      "metrics": {
+        "usage": {
+          "completion_tokens": 147,
+          "prompt_tokens": 597,
+          "total_tokens": 744,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          }
+        },
+        "timings": {
+          "cache_n": 0,
+          "prompt_n": 597,
+          "prompt_ms": 22431.776,
+          "prompt_per_token_ms": 37.574164154103855,
+          "prompt_per_second": 26.614031809162146,
+          "predicted_n": 147,
+          "predicted_ms": 13217.121,
+          "predicted_per_token_ms": 90.52822602739725,
+          "predicted_per_second": 11.046278535242282
+        }
+      },
+      "wallSeconds": 35.687999999994645,
+      "nativeCPUSeconds": 139.890625
+    },
+    {
+      "id": "heldout-0",
+      "transform": "blur",
+      "preprocessSeconds": 0.062000000005355105,
+      "pixelBytes": 79542,
+      "result": {
+        "version": "1.0.0",
+        "observations": {
+          "summary": "A young boy is selling fresh vegetables from a cart in a busy outdoor market, with clothes and other goods displayed around him.",
+          "objects": [
+            "boy",
+            "cart",
+            "vegetables",
+            "clothing",
+            "water barrel"
+          ],
+          "relationships": [
+            "boy is standing on the cart",
+            "cart is on the ground",
+            "vegetables are on the cart"
+          ],
+          "uncertainties": [
+            "the boy's face is not visible",
+            "the clothing on the cart is not clearly visible",
+            "the person in the background is not clearly visible"
+          ]
+        },
+        "limitations": "Model-generated observations can be wrong or incomplete. They do not establish identity, location, sensitive attributes, authenticity, or camera metadata.",
+        "model": "Qwen3-VL 2B Instruct Q4_K_M",
+        "elapsedSeconds": 38.76600000000326
+      },
+      "metrics": {
+        "usage": {
+          "completion_tokens": 139,
+          "prompt_tokens": 597,
+          "total_tokens": 736,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          }
+        },
+        "timings": {
+          "cache_n": 0,
+          "prompt_n": 597,
+          "prompt_ms": 26608.946,
+          "prompt_per_token_ms": 44.571098827470685,
+          "prompt_per_second": 22.436063420174552,
+          "predicted_n": 139,
+          "predicted_ms": 12112.001,
+          "predicted_per_token_ms": 87.7681231884058,
+          "predicted_per_second": 11.393658240285811
+        }
+      },
+      "wallSeconds": 38.76600000000326,
+      "nativeCPUSeconds": 152.40625
+    },
+    {
+      "id": "heldout-1",
+      "transform": "original",
+      "preprocessSeconds": 0.030999999988125637,
+      "pixelBytes": 75772,
+      "result": {
+        "version": "1.0.0",
+        "observations": {
+          "summary": "A collection of ten woodworking chisels and gouges with wooden handles, arranged on a pink work mat and a wooden surface.",
+          "objects": [
+            "chisels",
+            "gouges",
+            "wooden handles",
+            "metal blades",
+            "work mat"
+          ],
+          "relationships": [
+            "the chisels and gouges are arranged in a row on the work mat",
+            "the chisels are positioned to the left of the gouges",
+            "the chisels are placed in a row on the work mat"
+          ],
+          "uncertainties": [
+            "the text on the handles is not clearly legible",
+            "the identity of the chisels and gouges is uncertain",
+            "the exact location of the chisels and gouges is uncertain"
+          ]
+        },
+        "limitations": "Model-generated observations can be wrong or incomplete. They do not establish identity, location, sensitive attributes, authenticity, or camera metadata.",
+        "model": "Qwen3-VL 2B Instruct Q4_K_M",
+        "elapsedSeconds": 41.703000000008615
+      },
+      "metrics": {
+        "usage": {
+          "completion_tokens": 180,
+          "prompt_tokens": 597,
+          "total_tokens": 777,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          }
+        },
+        "timings": {
+          "cache_n": 0,
+          "prompt_n": 597,
+          "prompt_ms": 23314.216,
+          "prompt_per_token_ms": 39.05228810720268,
+          "prompt_per_second": 25.60669421609545,
+          "predicted_n": 180,
+          "predicted_ms": 18375.202,
+          "predicted_per_token_ms": 102.65475977653632,
+          "predicted_per_second": 9.741389509622806
+        }
+      },
+      "wallSeconds": 41.703000000008615,
+      "nativeCPUSeconds": 162.515625
+    },
+    {
+      "id": "heldout-2",
+      "transform": "original",
+      "preprocessSeconds": 0.030999999988125637,
+      "pixelBytes": 51236,
+      "result": {
+        "version": "1.0.0",
+        "observations": {
+          "summary": "A small bird with dark wings and a white underbelly perches on a thick, gnarled branch against a blurred green background.",
+          "objects": [
+            "bird",
+            "branch",
+            "tree",
+            "background"
+          ],
+          "relationships": [
+            "bird is perched on branch",
+            "branch is on tree",
+            "bird is facing the left"
+          ],
+          "uncertainties": [
+            "the bird's species is not clearly identifiable",
+            "the branch is not clearly visible",
+            "the background is not clearly visible"
+          ]
+        },
+        "limitations": "Model-generated observations can be wrong or incomplete. They do not establish identity, location, sensitive attributes, authenticity, or camera metadata.",
+        "model": "Qwen3-VL 2B Instruct Q4_K_M",
+        "elapsedSeconds": 37.828000000008615
+      },
+      "metrics": {
+        "usage": {
+          "completion_tokens": 128,
+          "prompt_tokens": 549,
+          "total_tokens": 677,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          }
+        },
+        "timings": {
+          "cache_n": 0,
+          "prompt_n": 549,
+          "prompt_ms": 24791.138,
+          "prompt_per_token_ms": 45.156899817850636,
+          "prompt_per_second": 22.145010043508293,
+          "predicted_n": 128,
+          "predicted_ms": 13004.581,
+          "predicted_per_token_ms": 102.39827559055118,
+          "predicted_per_second": 9.765789455269648
+        }
+      },
+      "wallSeconds": 37.828000000008615,
+      "nativeCPUSeconds": 144.546875
+    },
+    {
+      "id": "heldout-3",
+      "transform": "original",
+      "preprocessSeconds": 0.01600000000325963,
+      "pixelBytes": 50702,
+      "result": {
+        "version": "1.0.0",
+        "observations": {
+          "summary": "A panoramic view of a mountain range with a valley, mist, and a winding path, captured from a high vantage point.",
+          "objects": [
+            "mountain range",
+            "valley",
+            "mist",
+            "path",
+            "tree"
+          ],
+          "relationships": [
+            "the valley is located between the mountains",
+            "the mist is in the valley and appears to be rising from the lower slopes",
+            "the path is on the foreground slope and winds through the landscape"
+          ],
+          "uncertainties": [
+            "the identity of the tree in the foreground is uncertain",
+            "the exact location of the path is uncertain",
+            "the presence of a person or vehicle is uncertain"
+          ]
+        },
+        "limitations": "Model-generated observations can be wrong or incomplete. They do not establish identity, location, sensitive attributes, authenticity, or camera metadata.",
+        "model": "Qwen3-VL 2B Instruct Q4_K_M",
+        "elapsedSeconds": 22.280999999988126
+      },
+      "metrics": {
+        "usage": {
+          "completion_tokens": 159,
+          "prompt_tokens": 309,
+          "total_tokens": 468,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          }
+        },
+        "timings": {
+          "cache_n": 0,
+          "prompt_n": 309,
+          "prompt_ms": 9429.665,
+          "prompt_per_token_ms": 30.51671521035599,
+          "prompt_per_second": 32.768926573743606,
+          "predicted_n": 159,
+          "predicted_ms": 12831.833,
+          "predicted_per_token_ms": 81.21413291139241,
+          "predicted_per_second": 12.31312782826896
+        }
+      },
+      "wallSeconds": 22.280999999988126,
+      "nativeCPUSeconds": 87.859375
+    },
+    {
+      "id": "heldout-4",
+      "transform": "original",
+      "preprocessSeconds": 0.03200000000651926,
+      "pixelBytes": 53262,
+      "result": {
+        "version": "1.0.0",
+        "observations": {
+          "summary": "A group of kayakers are on a calm body of water, with several kayaks and people visible in the distance.",
+          "objects": [
+            "kayaks",
+            "people",
+            "ocean",
+            "sky",
+            "mountain"
+          ],
+          "relationships": [
+            "kayaks are grouped together on the water",
+            "people are in the kayaks",
+            "the kayaks are on the surface of the ocean"
+          ],
+          "uncertainties": [
+            "the people in the kayaks are not clearly visible",
+            "the identity of the kayakers cannot be determined",
+            "the distance to the mountain is not clearly defined"
+          ]
+        },
+        "limitations": "Model-generated observations can be wrong or incomplete. They do not establish identity, location, sensitive attributes, authenticity, or camera metadata.",
+        "model": "Qwen3-VL 2B Instruct Q4_K_M",
+        "elapsedSeconds": 38.062000000005355
+      },
+      "metrics": {
+        "usage": {
+          "completion_tokens": 150,
+          "prompt_tokens": 525,
+          "total_tokens": 675,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          }
+        },
+        "timings": {
+          "cache_n": 0,
+          "prompt_n": 525,
+          "prompt_ms": 21952.574,
+          "prompt_per_token_ms": 41.81442666666667,
+          "prompt_per_second": 23.915190993092654,
+          "predicted_n": 150,
+          "predicted_ms": 16071.325,
+          "predicted_per_token_ms": 107.86124161073826,
+          "predicted_per_second": 9.271170858656644
+        }
+      },
+      "wallSeconds": 38.062000000005355,
+      "nativeCPUSeconds": 147.015625
+    },
+    {
+      "id": "heldout-4",
+      "transform": "dim",
+      "preprocessSeconds": 0.030999999988125637,
+      "pixelBytes": 40228,
+      "result": {
+        "version": "1.0.0",
+        "observations": {
+          "summary": "A group of people in kayaks are on a calm body of water, with a distant landmass on the horizon.",
+          "objects": [
+            "kayaks",
+            "people",
+            "ocean",
+            "sky",
+            "landmass"
+          ],
+          "relationships": [
+            "kayaks are in a line on the water",
+            "people are in kayaks",
+            "kayaks are on the surface of the ocean"
+          ],
+          "uncertainties": [
+            "the people in the kayaks are not clearly visible",
+            "the identity of the people in the kayaks is not identifiable",
+            "the exact number of kayaks is not clear"
+          ]
+        },
+        "limitations": "Model-generated observations can be wrong or incomplete. They do not establish identity, location, sensitive attributes, authenticity, or camera metadata.",
+        "model": "Qwen3-VL 2B Instruct Q4_K_M",
+        "elapsedSeconds": 48.01600000000326
+      },
+      "metrics": {
+        "usage": {
+          "completion_tokens": 153,
+          "prompt_tokens": 525,
+          "total_tokens": 678,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          }
+        },
+        "timings": {
+          "cache_n": 0,
+          "prompt_n": 525,
+          "prompt_ms": 28181.211,
+          "prompt_per_token_ms": 53.67849714285714,
+          "prompt_per_second": 18.62943363221687,
+          "predicted_n": 153,
+          "predicted_ms": 19790.189,
+          "predicted_per_token_ms": 130.19861184210527,
+          "predicted_per_second": 7.680573439697823
+        }
+      },
+      "wallSeconds": 48.01600000000326,
+      "nativeCPUSeconds": 174.796875
+    },
+    {
+      "id": "heldout-4",
+      "transform": "blur",
+      "preprocessSeconds": 0.046999999991385266,
+      "pixelBytes": 28304,
+      "result": {
+        "version": "1.0.0",
+        "observations": {
+          "summary": "A group of kayakers are on a calm body of water, with a distant landmass under a partly cloudy sky.",
+          "objects": [
+            "kayaks",
+            "people",
+            "water",
+            "sky",
+            "landmass"
+          ],
+          "relationships": [
+            "kayaks are in a line on the water",
+            "people are in the kayaks",
+            "the kayaks are on the water"
+          ],
+          "uncertainties": [
+            "the people in the kayaks are not clearly visible",
+            "the landmass is distant and not clearly identifiable",
+            "the kayaks are not clearly distinguishable from each other"
+          ]
+        },
+        "limitations": "Model-generated observations can be wrong or incomplete. They do not establish identity, location, sensitive attributes, authenticity, or camera metadata.",
+        "model": "Qwen3-VL 2B Instruct Q4_K_M",
+        "elapsedSeconds": 49.625
+      },
+      "metrics": {
+        "usage": {
+          "completion_tokens": 149,
+          "prompt_tokens": 525,
+          "total_tokens": 674,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          }
+        },
+        "timings": {
+          "cache_n": 0,
+          "prompt_n": 525,
+          "prompt_ms": 25111.226,
+          "prompt_per_token_ms": 47.830906666666664,
+          "prompt_per_second": 20.9069839919405,
+          "predicted_n": 149,
+          "predicted_ms": 24463.13,
+          "predicted_per_token_ms": 165.29141891891894,
+          "predicted_per_second": 6.049920840056035
+        }
+      },
+      "wallSeconds": 49.625,
+      "nativeCPUSeconds": 193.296875
+    },
+    {
+      "id": "heldout-5",
+      "transform": "original",
+      "preprocessSeconds": 0.046999999991385266,
+      "pixelBytes": 101731,
+      "result": {
+        "version": "1.0.0",
+        "observations": {
+          "summary": "A meal consisting of a burger and a side of sauce on a table in a restaurant, with a table number and utensils nearby.",
+          "objects": [
+            "burger",
+            "hamburger",
+            "box",
+            "sauce cup",
+            "table number sign"
+          ],
+          "relationships": [
+            "the burger is on the right of the box",
+            "the box is on the left of the burger",
+            "the table number sign is above the table"
+          ],
+          "uncertainties": [
+            "the text on the box is not clearly legible",
+            "the text on the table number sign is not clearly legible",
+            "the identity of the person in the background is not visible"
+          ]
+        },
+        "limitations": "Model-generated observations can be wrong or incomplete. They do not establish identity, location, sensitive attributes, authenticity, or camera metadata.",
+        "model": "Qwen3-VL 2B Instruct Q4_K_M",
+        "elapsedSeconds": 56.78200000000652
+      },
+      "metrics": {
+        "usage": {
+          "completion_tokens": 160,
+          "prompt_tokens": 597,
+          "total_tokens": 757,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          }
+        },
+        "timings": {
+          "cache_n": 0,
+          "prompt_n": 597,
+          "prompt_ms": 28449.501,
+          "prompt_per_token_ms": 47.654105527638194,
+          "prompt_per_second": 20.98455083623435,
+          "predicted_n": 160,
+          "predicted_ms": 28297.09,
+          "predicted_per_token_ms": 177.96911949685534,
+          "predicted_per_second": 5.618952337501843
+        }
+      },
+      "wallSeconds": 56.78200000000652,
+      "nativeCPUSeconds": 223.0
+    }
+  ],
+  "integritySeconds": 7.0,
+  "loadingSeconds": 4.375,
+  "runtimePID": 12400,
+  "peakRSS": 3553243136,
+  "peakPrivate": 2865549312,
+  "sampleCount": 3673,
+  "unloadSeconds": 1.1409999999741558,
+  "ownedProcessStopped": true
+}

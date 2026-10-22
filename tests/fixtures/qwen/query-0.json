@@ -1,0 +1,1782 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 15,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "3163576": {
+        "pageid": 3163576,
+        "ns": 6,
+        "title": "File:Vegetable market in Heraklion.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3672230,
+            "width": 2850,
+            "height": 2138,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Vegetable_market_in_Heraklion.jpg/960px-Vegetable_market_in_Heraklion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Vegetable_market_in_Heraklion.jpg/1920px-Vegetable_market_in_Heraklion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Vegetable_market_in_Heraklion.jpg/960px-Vegetable_market_in_Heraklion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Vegetable_market_in_Heraklion.jpg/1920px-Vegetable_market_in_Heraklion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Vegetable_market_in_Heraklion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vegetable_market_in_Heraklion.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3163576",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2007-11-29 22:07:33",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Vegetable market in Heraklion",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Photos taken with Traveler DC8300|Self-published work|Markets in Heraklion|Information field template with formatting|Photographs by Hans Hillewaert|Vegetable markets in Greece|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "35.338306",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "25.133092",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Vegetable market in Heraklion, Crete.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2006-05-03",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Biopics\" title=\"User:Biopics\">Hans Hillewaert</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "I, the copyright holder of this work, hereby publish it under the following license:",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "© Hans Hillewaert",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "4865538": {
+        "pageid": 4865538,
+        "ns": 6,
+        "title": "File:NYC Mulberry Street 3g04637u.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4648158,
+            "width": 4222,
+            "height": 3073,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/NYC_Mulberry_Street_3g04637u.jpg/960px-NYC_Mulberry_Street_3g04637u.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 559,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/NYC_Mulberry_Street_3g04637u.jpg/1920px-NYC_Mulberry_Street_3g04637u.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/NYC_Mulberry_Street_3g04637u.jpg/960px-NYC_Mulberry_Street_3g04637u.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 559,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/NYC_Mulberry_Street_3g04637u.jpg/1920px-NYC_Mulberry_Street_3g04637u.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/NYC_Mulberry_Street_3g04637u.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:NYC_Mulberry_Street_3g04637u.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4865538",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2008-12-17 14:40:12",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nMulberry Street, New York City</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "New York City in the 1900s|Images from the Library of Congress|Mulberry Street (Manhattan)|Five Points, Manhattan|Images with annotations|Street vendors in New York (state)|Vegetables displayed for sale|PD-Detroit|Featured pictures on Wikipedia, Turkish|Horse-drawn carts|Library of Congress-no known copyright restrictions|Postcards of New York City published by Detroit Publishing Co.|Beer advertisements in New York (state)|New York City on photochrome prints|Files with Assessments template missing SDC Commons no value quality assessment|Photochrome prints by Detroit Publishing Co.",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\n<a href=\"//commons.wikimedia.org/wiki/Category:Detroit_Publishing_Co.\" title=\"Category:Detroit Publishing Co.\">Detroit Publishing Co.</a><i><sup><a href=\"https://en.wikipedia.org/wiki/Detroit_Publishing_Co.\" class=\"extiw\" title=\"w:Detroit Publishing Co.\">(w)</a></sup></i>, publisher.</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "[ca. 1900]",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This image  is available from the United States <a href=\"//commons.wikimedia.org/wiki/Library_of_Congress\" title=\"Library of Congress\">Library of Congress</a>'s <a rel=\"nofollow\" class=\"external text\" href=\"//www.loc.gov/rr/print/\">Prints and Photographs division</a><br> under the digital ID <a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.loc.gov/loc.pnp/cph.3g04637\">cph.3g04637</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "14269029": {
+        "pageid": 14269029,
+        "ns": 6,
+        "title": "File:Bradley's vegetables in Wolverhampton Market - geograph.org.uk - 1522689.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 132809,
+            "width": 640,
+            "height": 440,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/9/90/Bradley%27s_vegetables_in_Wolverhampton_Market_-_geograph.org.uk_-_1522689.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 768,
+            "thumbheight": 528,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/9/90/Bradley%27s_vegetables_in_Wolverhampton_Market_-_geograph.org.uk_-_1522689.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 528
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Bradley%27s_vegetables_in_Wolverhampton_Market_-_geograph.org.uk_-_1522689.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bradley%27s_vegetables_in_Wolverhampton_Market_-_geograph.org.uk_-_1522689.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=14269029",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-03-03 02:44:43",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Bradley's vegetables in Wolverhampton Market - geograph.org.uk - 1522689",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Wolverhampton|Images from Geograph Britain and Ireland|Information field template with formatting|Images by Roger Kidd|Vegetables of the United Kingdom|United Kingdom photographs taken on 2009-09-23|Vegetable stalls",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "52.583020",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-2.132300",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Bradley's vegetables in Wolverhampton Market A long established and popular supplier of top quality produce at fair prices. \nThis is just the kind of friendly local trader we don't want to lose as the market is in decline. Hungarians and farmers are allowed markets near the town centre in Dudley Street (and very good they are too). Maybe it is about time our regular vendors of staple produce and other goods should be allowed the same.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2009-09-23",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "From <a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/1522689\">geograph.org.uk</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/12192\">Roger  Kidd</a>",
+                "source": "commons-desc-page"
+              },
+              "Attribution": {
+                "value": "Roger  Kidd",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "14272472": {
+        "pageid": 14272472,
+        "ns": 6,
+        "title": "File:Lewis's vegetables in Wolverhampton Market - geograph.org.uk - 1522285.jpg",
+        "index": 13,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 158358,
+            "width": 640,
+            "height": 640,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lewis%27s_vegetables_in_Wolverhampton_Market_-_geograph.org.uk_-_1522285.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 768,
+            "thumbheight": 768,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lewis%27s_vegetables_in_Wolverhampton_Market_-_geograph.org.uk_-_1522285.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 768
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lewis%27s_vegetables_in_Wolverhampton_Market_-_geograph.org.uk_-_1522285.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lewis%27s_vegetables_in_Wolverhampton_Market_-_geograph.org.uk_-_1522285.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=14272472",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-03-03 03:33:49",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Lewis's vegetables in Wolverhampton Market - geograph.org.uk - 1522285",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Wolverhampton|Images from Geograph Britain and Ireland|Information field template with formatting|Images by Roger Kidd|Vegetables of the United Kingdom|United Kingdom photographs taken on 2009-09-23",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "52.583200",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-2.132400",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Lewis's vegetables in Wolverhampton Market Considerable decline in the market has occurred in recent years. There are far fewer stalls despite the recent smartening up and redevelopment of Market Square. Many reasons are given: being moved from its original town centre venue, increasing rents, non-replacement of the one hour free parking when the multi-storey car-park was demolished are examples. The council is quite happy for farmers markets and foreign markets to use Dudley Street in the town centre, but not our own local traders of staple foods and other goods. This stall, Lewis's for example, only has potatoes, onions (by the kilo or in 25kg bags), carrots, and in season greens and parsnips. However this is where the long queues are found on busy Saturdays. Top quality produce at very competitive prices! They have been trading on this market for longer than I can remember (early 1970s) and are exactly what we do not want to lose when future relocation of the market happens due to the expected redevelopment of the rest of the area.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2009-09-23",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "From <a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/1522285\">geograph.org.uk</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/12192\">Roger  Kidd</a>",
+                "source": "commons-desc-page"
+              },
+              "Attribution": {
+                "value": "Roger  Kidd",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "14272473": {
+        "pageid": 14272473,
+        "ns": 6,
+        "title": "File:Lewis's vegetables in Wolverhampton Market - geograph.org.uk - 1522373.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 137169,
+            "width": 640,
+            "height": 504,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Lewis%27s_vegetables_in_Wolverhampton_Market_-_geograph.org.uk_-_1522373.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 768,
+            "thumbheight": 605,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Lewis%27s_vegetables_in_Wolverhampton_Market_-_geograph.org.uk_-_1522373.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 605
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Lewis%27s_vegetables_in_Wolverhampton_Market_-_geograph.org.uk_-_1522373.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lewis%27s_vegetables_in_Wolverhampton_Market_-_geograph.org.uk_-_1522373.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=14272473",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-03-03 03:33:50",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Lewis's vegetables in Wolverhampton Market - geograph.org.uk - 1522373",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Wolverhampton|Images from Geograph Britain and Ireland|Information field template with formatting|Images by Roger Kidd|Vegetables of the United Kingdom|United Kingdom photographs taken on 2009-09-23|Vegetable stalls",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "52.583200",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-2.132400",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Lewis's vegetables in Wolverhampton Market A long established and popular supplier of top quality produce at fair prices. Big display not needed, whole bags of spuds or onions at reduced price. Be prepared to queue on a Saturday morning.\nThis is just the kind of local trader we don't want to lose as the market is in decline. Hungarians and farmers are allowed markets near the town centre in Dudley Street (and very good they are too). Maybe it is about time our regular vendors of staple produce and other goods should be allowed the same.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2009-09-23",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "From <a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/1522373\">geograph.org.uk</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/12192\">Roger  Kidd</a>",
+                "source": "commons-desc-page"
+              },
+              "Attribution": {
+                "value": "Roger  Kidd",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "14452221": {
+        "pageid": 14452221,
+        "ns": 6,
+        "title": "File:Vegetable Stall, Brigg Market - geograph.org.uk - 1725898.jpg",
+        "index": 14,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 869245,
+            "width": 1000,
+            "height": 750,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Vegetable_Stall%2C_Brigg_Market_-_geograph.org.uk_-_1725898.jpg/960px-Vegetable_Stall%2C_Brigg_Market_-_geograph.org.uk_-_1725898.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/3/33/Vegetable_Stall%2C_Brigg_Market_-_geograph.org.uk_-_1725898.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Vegetable_Stall%2C_Brigg_Market_-_geograph.org.uk_-_1725898.jpg/960px-Vegetable_Stall%2C_Brigg_Market_-_geograph.org.uk_-_1725898.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/33/Vegetable_Stall%2C_Brigg_Market_-_geograph.org.uk_-_1725898.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Vegetable_Stall%2C_Brigg_Market_-_geograph.org.uk_-_1725898.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vegetable_Stall,_Brigg_Market_-_geograph.org.uk_-_1725898.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=14452221",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-03-05 13:27:03",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Vegetable Stall, Brigg Market - geograph.org.uk - 1725898",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Images from Geograph Britain and Ireland|Information field template with formatting|Images by David Wright|Vegetables of the United Kingdom|Market Place, Brigg|Market stalls in Brigg|Brigg photographs taken on 2010-02-25",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "53.552110",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-0.492880",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Vegetable Stall, Brigg Market. Thursday is market day.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2010-02-25",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "From <a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/1725898\">geograph.org.uk</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/1782\">David Wright</a>",
+                "source": "commons-desc-page"
+              },
+              "Attribution": {
+                "value": "David Wright",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "14452222": {
+        "pageid": 14452222,
+        "ns": 6,
+        "title": "File:Vegetable Stall, Brigg Market - geograph.org.uk - 1725905.jpg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 856335,
+            "width": 1000,
+            "height": 750,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Vegetable_Stall%2C_Brigg_Market_-_geograph.org.uk_-_1725905.jpg/960px-Vegetable_Stall%2C_Brigg_Market_-_geograph.org.uk_-_1725905.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Vegetable_Stall%2C_Brigg_Market_-_geograph.org.uk_-_1725905.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Vegetable_Stall%2C_Brigg_Market_-_geograph.org.uk_-_1725905.jpg/960px-Vegetable_Stall%2C_Brigg_Market_-_geograph.org.uk_-_1725905.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Vegetable_Stall%2C_Brigg_Market_-_geograph.org.uk_-_1725905.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Vegetable_Stall%2C_Brigg_Market_-_geograph.org.uk_-_1725905.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vegetable_Stall,_Brigg_Market_-_geograph.org.uk_-_1725905.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=14452222",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-03-05 13:27:04",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Vegetable Stall, Brigg Market - geograph.org.uk - 1725905",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Images from Geograph Britain and Ireland|Information field template with formatting|Images by David Wright|Vegetables of the United Kingdom|Vegetable markets in the United Kingdom|Market Place, Brigg|Market stalls in Brigg|Brigg photographs taken on 2010-02-25",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "53.552110",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-0.492880",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Vegetable Stall, Brigg Market. Thursday is market day.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2010-02-25",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "From <a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/1725905\">geograph.org.uk</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/1782\">David Wright</a>",
+                "source": "commons-desc-page"
+              },
+              "Attribution": {
+                "value": "David Wright",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "25186690": {
+        "pageid": 25186690,
+        "ns": 6,
+        "title": "File:Child working selling vegetables in downtown Maracaibo.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5899540,
+            "width": 3775,
+            "height": 2823,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Child_working_selling_vegetables_in_downtown_Maracaibo.jpg/960px-Child_working_selling_vegetables_in_downtown_Maracaibo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 574,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Child_working_selling_vegetables_in_downtown_Maracaibo.jpg/1920px-Child_working_selling_vegetables_in_downtown_Maracaibo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Child_working_selling_vegetables_in_downtown_Maracaibo.jpg/960px-Child_working_selling_vegetables_in_downtown_Maracaibo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 574,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Child_working_selling_vegetables_in_downtown_Maracaibo.jpg/1920px-Child_working_selling_vegetables_in_downtown_Maracaibo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Child_working_selling_vegetables_in_downtown_Maracaibo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Child_working_selling_vegetables_in_downtown_Maracaibo.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=25186690",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-07-23 19:26:25",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Child working selling vegetables in downtown Maracaibo",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Nikon D300|CC-Zero|People of Maracaibo|Personality rights warning|Featured pictures of Venezuela|Self-published work|Featured pictures by User:Wilfredor|Child labour in Venezuela|Full consent|Featured pictures of Venezuela by User:Wilfredor|People of Venezuela in 2013|Featured pictures of children|Files with coordinates missing SDC location of creation|Vegetable vendors|Venezuela photographs taken on 2013-03-16|Featured photographs in the public domain|Images of Venezuela by User:Wilfredor|Photographs of Maracaibo by Wilfredor|Street photography in Maracaibo by Wilfredor|Street vendors in Maracaibo|Flea markets by Wilfredor|Food of Maracaibo|Culture pictures by Wilfredor|Flea market in Maracaibo|Food by Wilfredor",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality|featured|potd",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "10.641922",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-71.614905",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Child working selling vegetables in downtown Maracaibo. Captured in 2013, the image of José pushing his vegetable cart through Maracaibo's central market is a gateway to a time and place that no longer exist. Despite the passing decade, the vibrant energy of the boy persists, eternally etched in the memories of those who witnessed it. Back then, José, merely 12 years old, stood out for his tenacity. With his worn-out shoes and a heavy vegetable cart, he imprinted his presence on the bustling market every dawn. A true testament to resilience and fighting spirit, his figure became an emblem in the urban landscape of 2013's Maracaibo. Today, that market is no more. The passage of time and circumstances have erased its footprints, but its memory endures in the hearts of those who frequented it. Some of its dwellers have passed away, while others were forced to leave Venezuela, fleeing from the dictatorship and poverty. The Venezuelan crisis triggered one of the largest migrations in the history of Latin America. Many of the faces that once breathed life into Maracaibo's central market are now scattered around the globe, carrying echoes of their home with them. Nevertheless, the image of José remains a beacon of hope and strength. While the photograph represents a vanished past, it is also a testament to the positive energy and determination of a boy who, despite adversity, rose every day to face the world bravely. In it, we see the essence of what Venezuela once was and what, hopefully, it could someday be again",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-03-16 11:31:53",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Wilfredor\" class=\"mw-redirect\" title=\"User:Wilfredor\">Wilfredor</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "from his father",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "personality",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "25238201": {
+        "pageid": 25238201,
+        "ns": 6,
+        "title": "File:Seller of vegetables and fruits.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7433235,
+            "width": 2527,
+            "height": 4079,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Seller_of_vegetables_and_fruits.jpg/960px-Seller_of_vegetables_and_fruits.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1240,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Seller_of_vegetables_and_fruits.jpg/1920px-Seller_of_vegetables_and_fruits.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Seller_of_vegetables_and_fruits.jpg/960px-Seller_of_vegetables_and_fruits.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1240,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Seller_of_vegetables_and_fruits.jpg/1920px-Seller_of_vegetables_and_fruits.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Seller_of_vegetables_and_fruits.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Seller_of_vegetables_and_fruits.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=25238201",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-03-23 01:06:05",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Seller of vegetables and fruits",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Fruit vendors|Taken with Nikon D300|CC-Zero|Personality rights warning|Self-published work|Full consent|People of Venezuela in 2013|Photographs taken on 2013-03-16|Men wearing pink T-shirts|March 2013 Venezuela photographs|Vegetable vendors|Images of Venezuela by User:Wilfredor|Photographs of Maracaibo by Wilfredor|Street photography in Maracaibo by Wilfredor|Street vendors in Maracaibo|Flea markets by Wilfredor|Food of Maracaibo|Culture pictures by Wilfredor|Flea market in Maracaibo|Food by Wilfredor",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Seller of vegetables and fruits",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-03-16 10:04:45",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Wilfredor\" class=\"mw-redirect\" title=\"User:Wilfredor\">Wilfredor</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "personality",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "31117170": {
+        "pageid": 31117170,
+        "ns": 6,
+        "title": "File:Vegetable market, Ahmedabad.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3611036,
+            "width": 4415,
+            "height": 2687,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Vegetable_market%2C_Ahmedabad.jpg/960px-Vegetable_market%2C_Ahmedabad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 467,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Vegetable_market%2C_Ahmedabad.jpg/1920px-Vegetable_market%2C_Ahmedabad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Vegetable_market%2C_Ahmedabad.jpg/960px-Vegetable_market%2C_Ahmedabad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 467,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Vegetable_market%2C_Ahmedabad.jpg/1920px-Vegetable_market%2C_Ahmedabad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Vegetable_market%2C_Ahmedabad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vegetable_market,_Ahmedabad.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=31117170",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-02-14 19:31:05",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Vegetable market, Ahmedabad",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|People of Ahmedabad|Personality rights warning|CC-BY-SA-3.0,2.5,2.0,1.0|License migration redundant|Self-published work|Vegetable markets in India|Files with coordinates missing SDC location of creation|India photographs taken on 2013-11-28",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "23.026903",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "72.583217",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Vegetable market, Ahmedabad, India",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-11-28",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Bgag\" title=\"User:Bgag\">Bernard Gagnon</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "personality",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "35708420": {
+        "pageid": 35708420,
+        "ns": 6,
+        "title": "File:Street vegetable market (4353641290).jpg",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1412318,
+            "width": 2272,
+            "height": 1704,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Street_vegetable_market_%284353641290%29.jpg/960px-Street_vegetable_market_%284353641290%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Street_vegetable_market_%284353641290%29.jpg/1920px-Street_vegetable_market_%284353641290%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Street_vegetable_market_%284353641290%29.jpg/960px-Street_vegetable_market_%284353641290%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Street_vegetable_market_%284353641290%29.jpg/1920px-Street_vegetable_market_%284353641290%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Street_vegetable_market_%284353641290%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Street_vegetable_market_(4353641290).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=35708420",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-09-27 23:04:18",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Street vegetable market (4353641290)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Nikon Coolpix 4300|Flickr images reviewed by FlickreviewR|Baskets of Madagascar|Food markets in Madagascar|Photographs by gailhampshire|Potatoes in Madagascar|Tomatoes in Madagascar|Vegetable markets in Madagascar|Bell peppers in Madagascar",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Street vegetable market",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2006-11-08 13:17",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/gails_pictures/4353641290/\">Street vegetable market</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/43272765@N04\">gailhampshire</a> from Cradley, Malvern, U.K",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "66561595": {
+        "pageid": 66561595,
+        "ns": 6,
+        "title": "File:Vegetables at the West Side Market (8503295519).jpg",
+        "index": 15,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8353143,
+            "width": 4158,
+            "height": 3264,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Vegetables_at_the_West_Side_Market_%288503295519%29.jpg/960px-Vegetables_at_the_West_Side_Market_%288503295519%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 603,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Vegetables_at_the_West_Side_Market_%288503295519%29.jpg/1920px-Vegetables_at_the_West_Side_Market_%288503295519%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Vegetables_at_the_West_Side_Market_%288503295519%29.jpg/960px-Vegetables_at_the_West_Side_Market_%288503295519%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 603,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Vegetables_at_the_West_Side_Market_%288503295519%29.jpg/1920px-Vegetables_at_the_West_Side_Market_%288503295519%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Vegetables_at_the_West_Side_Market_%288503295519%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vegetables_at_the_West_Side_Market_(8503295519).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=66561595",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-02-18 15:42:59",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Vegetables at the West Side Market (8503295519)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Photographs by Erik Drost|Files with coordinates missing SDC location of creation|Files uploaded by Artix Kreiger|United States photographs taken on 2013-02-23|Flickr images reviewed by FlickreviewR 2|Vegetable stalls|Market stalls at the West Side Market",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "41.484932",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-81.703167",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Vegetables at the West Side Market",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-02-23 15:24",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/edrost88/8503295519/\">Vegetables at the West Side Market</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/62091376@N03\">Erik Drost</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "148047259": {
+        "pageid": 148047259,
+        "ns": 6,
+        "title": "File:Vegetable stall, Surrey Street Market, Croydon - geograph.org.uk - 6286579.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 280559,
+            "width": 1024,
+            "height": 768,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Vegetable_stall%2C_Surrey_Street_Market%2C_Croydon_-_geograph.org.uk_-_6286579.jpg/960px-Vegetable_stall%2C_Surrey_Street_Market%2C_Croydon_-_geograph.org.uk_-_6286579.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Vegetable_stall%2C_Surrey_Street_Market%2C_Croydon_-_geograph.org.uk_-_6286579.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Vegetable_stall%2C_Surrey_Street_Market%2C_Croydon_-_geograph.org.uk_-_6286579.jpg/960px-Vegetable_stall%2C_Surrey_Street_Market%2C_Croydon_-_geograph.org.uk_-_6286579.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Vegetable_stall%2C_Surrey_Street_Market%2C_Croydon_-_geograph.org.uk_-_6286579.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Vegetable_stall%2C_Surrey_Street_Market%2C_Croydon_-_geograph.org.uk_-_6286579.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vegetable_stall,_Surrey_Street_Market,_Croydon_-_geograph.org.uk_-_6286579.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=148047259",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-05-04 16:42:10",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Vegetable stall, Surrey Street Market, Croydon - geograph.org.uk - 6286579",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Images from Geograph Britain and Ireland|Surrey Street Market",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "51.372530",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-0.101105",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Vegetable stall, Surrey Street Market, Croydon <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Vegetable_stall,_Surrey_Street_Market,_Croydon_-_geograph.org.uk_-_6286579.jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-10-02",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/6286579\">Geograph Britain and Ireland</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Vegetable_stall,_Surrey_Street_Market,_Croydon_-_geograph.org.uk_-_6286579.jpg#P7482\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/9905\">Robin Webster</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Vegetable_stall,_Surrey_Street_Market,_Croydon_-_geograph.org.uk_-_6286579.jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<i>Vegetable stall, Surrey Street Market, Croydon</i> by Robin Webster",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "151709218": {
+        "pageid": 151709218,
+        "ns": 6,
+        "title": "File:Vegetables for sale in a market in France.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 21125629,
+            "width": 4096,
+            "height": 3072,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Vegetables_for_sale_in_a_market_in_France.jpg/960px-Vegetables_for_sale_in_a_market_in_France.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Vegetables_for_sale_in_a_market_in_France.jpg/1920px-Vegetables_for_sale_in_a_market_in_France.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Vegetables_for_sale_in_a_market_in_France.jpg/960px-Vegetables_for_sale_in_a_market_in_France.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Vegetables_for_sale_in_a_market_in_France.jpg/1920px-Vegetables_for_sale_in_a_market_in_France.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Vegetables_for_sale_in_a_market_in_France.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vegetables_for_sale_in_a_market_in_France.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151709218",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-08-22 15:22:40",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Vegetables for sale in a market in France",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files with coordinates missing SDC location of creation|2024 in Aix-en-Provence|Provence-Alpes-Côte d'Azur photographs taken on 2024-08-15|Street markets in Aix-en-Provence",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "43.528598",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "5.451277",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Vegetables for sale in a market in France",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-08-22",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "The photographer",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "FrogsLegs71",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "180384462": {
+        "pageid": 180384462,
+        "ns": 6,
+        "title": "File:Vegetables and sunflowers on the market, Aix-en-Provence, 2015.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 11894412,
+            "width": 3787,
+            "height": 5696,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Vegetables_and_sunflowers_on_the_market%2C_Aix-en-Provence%2C_2015.jpg/960px-Vegetables_and_sunflowers_on_the_market%2C_Aix-en-Provence%2C_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1155,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Vegetables_and_sunflowers_on_the_market%2C_Aix-en-Provence%2C_2015.jpg/1920px-Vegetables_and_sunflowers_on_the_market%2C_Aix-en-Provence%2C_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Vegetables_and_sunflowers_on_the_market%2C_Aix-en-Provence%2C_2015.jpg/960px-Vegetables_and_sunflowers_on_the_market%2C_Aix-en-Provence%2C_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1155,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Vegetables_and_sunflowers_on_the_market%2C_Aix-en-Provence%2C_2015.jpg/1920px-Vegetables_and_sunflowers_on_the_market%2C_Aix-en-Provence%2C_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Vegetables_and_sunflowers_on_the_market%2C_Aix-en-Provence%2C_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vegetables_and_sunflowers_on_the_market,_Aix-en-Provence,_2015.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=180384462",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-12-20 16:04:11",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Vegetables and sunflowers on the market, Aix-en-Provence, 2015",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Nikon D3200|CC-Zero|Self-published work|Flower stalls|May 2015 in Bouches-du-Rhône|Sunflowers in France|Files with coordinates missing SDC location of creation|France photographs taken on 2015-05-23|Courgettes in France|Vegetable stalls|2015 photos by User:DimiTalen|Market at the Place Richelme|Leek (vegetable)|Bell peppers in France",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "43.529305",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "5.448090",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Vegetables and sunflowers on the market, Aix-en-Provence, 2015",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-05-23 10:53:49",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:DimiTalen\" title=\"User:DimiTalen\">DimiTalen</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

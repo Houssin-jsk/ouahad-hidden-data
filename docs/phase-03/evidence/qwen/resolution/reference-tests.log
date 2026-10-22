@@ -1,0 +1,15 @@
+test_malformed_truncated_and_non_english_outputs_are_rejected (test_reference_equivalence.CompanionPixelAndPayloadTests.test_malformed_truncated_and_non_english_outputs_are_rejected) ... ok
+test_native_request_uses_single_contract_and_unmodified_jpeg_pixels (test_reference_equivalence.CompanionPixelAndPayloadTests.test_native_request_uses_single_contract_and_unmodified_jpeg_pixels) ... ok
+test_white_alpha_compositing_orientation_and_edges_are_preserved (test_reference_equivalence.CompanionPixelAndPayloadTests.test_white_alpha_compositing_orientation_and_edges_are_preserved) ... ok
+test_generation_and_image_limits_follow_reference_settings (test_reference_equivalence.ReferenceEquivalenceTests.test_generation_and_image_limits_follow_reference_settings) ... ok
+test_observation_schema_is_the_exact_five_field_reference_schema (test_reference_equivalence.ReferenceEquivalenceTests.test_observation_schema_is_the_exact_five_field_reference_schema) ... ok
+test_reference_text_guard_regressions_preserve_decisions_and_claims (test_reference_equivalence.ReferenceEquivalenceTests.test_reference_text_guard_regressions_preserve_decisions_and_claims) ... ok
+test_service_jpeg90_is_byte_identical_to_reference_for_identical_inputs (test_reference_equivalence.ReferenceEquivalenceTests.test_service_jpeg90_is_byte_identical_to_reference_for_identical_inputs) ... ok
+test_system_and_baseline_prompt_are_exact_reference_text (test_reference_equivalence.ReferenceEquivalenceTests.test_system_and_baseline_prompt_are_exact_reference_text) ... ok
+test_text_quality_function_asts_are_unmodified_reference_functions (test_reference_equivalence.ReferenceEquivalenceTests.test_text_quality_function_asts_are_unmodified_reference_functions) ... ok
+test_valid_json_and_text_checks_do_not_claim_to_establish_visual_truth (test_reference_equivalence.ReferenceEquivalenceTests.test_valid_json_and_text_checks_do_not_claim_to_establish_visual_truth) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 2.651s
+
+OK

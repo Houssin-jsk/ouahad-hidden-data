@@ -1,0 +1,29 @@
+{
+  "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+  "input": "Prior calibration image natural-00, compatibility only; not new quality evidence",
+  "status": "TinyCLIP failed: Invalid configuration detected: both local and remote models are disabled. Fix by setting `env.allowLocalModels` or `env.allowRemoteModels` to `true`.",
+  "result": null,
+  "requests": [
+    "http://127.0.0.1:3001/experiments/vision",
+    "http://127.0.0.1:3001/_next/static/chunks/42r8wgp7hdgdi.css",
+    "http://127.0.0.1:3001/_next/static/chunks/0puoccy9vt99i.css",
+    "http://127.0.0.1:3001/_next/static/chunks/1ckvzn7sfprko.js",
+    "http://127.0.0.1:3001/_next/static/chunks/2r4s4h5xul1n-.js",
+    "http://127.0.0.1:3001/_next/static/chunks/0s7mvllxht1mo.js",
+    "http://127.0.0.1:3001/_next/static/chunks/0rm4bmi_uaeqm.js",
+    "http://127.0.0.1:3001/_next/static/chunks/turbopack-3-ry682tkyiqk.js",
+    "http://127.0.0.1:3001/_next/static/chunks/0umf92h1sb77c.js",
+    "http://127.0.0.1:3001/_next/static/chunks/0nxqdaq_pmyl3.js",
+    "http://127.0.0.1:3001/brand/app_icon.png",
+    "blob:http://127.0.0.1:3001/e48a3dd2-83d4-458c-b5a8-ac69c3342145",
+    "http://127.0.0.1:3001/?_rsc=kkFecejXpwQ0UtuX",
+    "http://127.0.0.1:3001/?_rsc=gwBX89CGuNYKOOUo",
+    "http://127.0.0.1:3001/_next/static/chunks/turbopack-worker-1hrsqshz0gfey.js",
+    "http://127.0.0.1:3001/_next/static/chunks/3fsc_a9zc29l0.js",
+    "http://127.0.0.1:3001/_next/static/chunks/0jv-hmy21iqni.js",
+    "http://127.0.0.1:3001/_next/static/chunks/turbopack-3a7z2c7bf5thl.js",
+    "http://127.0.0.1:3001/_next/static/chunks/1w6qt_d1mp6hr.js",
+    "http://127.0.0.1:3001/_next/static/chunks/1gb_p_kemj5xc.js",
+    "http://127.0.0.1:3001/_next/static/chunks/turbopack-3-ry682tkyiqk.js"
+  ]
+}

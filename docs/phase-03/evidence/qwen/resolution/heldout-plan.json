@@ -1,0 +1,67 @@
+{
+  "version": "qwen-resolution-heldout-v1",
+  "createdUtc": "2026-10-21",
+  "purpose": "Fresh qualification originals and predefined stability transformations. No model responses used for selection or pre-inference assistant notes.",
+  "queries": [
+    "bicycle repair workshop photograph",
+    "grocery market people photograph",
+    "street cafe tables chairs photograph",
+    "living room television photograph",
+    "dog sleeping sofa photograph",
+    "bird on branch photograph",
+    "harbor fishing boats photograph",
+    "kitchen utensils counter photograph"
+  ],
+  "selection": "Fixed queries in this order; first distinct Commons JPEG in search order with CC0, CC BY, CC BY-SA or public-domain metadata, at least 320 pixels on its longer side. Previous title and exact-byte hashes excluded. Any non-photograph rejection requires a recorded visual reason before inference.",
+  "excludedManifestFiles": [
+    "tests/fixtures/phase03/sources.json",
+    "tests/fixtures/phase03-final/sources.json",
+    "tests/fixtures/phase03-places/sources.json",
+    "tests/fixtures/qwen/sources.json"
+  ],
+  "download": "Commons original when <=1536 side; otherwise request Commons thumbnail width1536 (service can round to a standard size). Actual downloaded dimensions/links retained. No crop. Model preprocessing separately bounds the longest side.",
+  "transforms": [
+    {
+      "id": "resolution-02-dim",
+      "sourceId": "resolution-02",
+      "operation": "sharp linear(0.55,0), JPEG90",
+      "purpose": "Reduced exposure; same full frame and aspect ratio."
+    },
+    {
+      "id": "resolution-06-small-blur",
+      "sourceId": "resolution-06",
+      "operation": "sharp resize width384 without enlargement then blur sigma0.7, JPEG90",
+      "purpose": "Reduced fine detail; no crop or added content."
+    }
+  ],
+  "configuration": {
+    "status": "Final inference contract bound before qualification inference",
+    "sha256": "1604725c0d0324f52a273671aa6e341a076530bea02cfe84705a44edab4fe636"
+  },
+  "gates": {
+    "frozenBeforeInference": true,
+    "zeroCriticalIdentityPrivacyAuthenticitySensitiveAttributeFabrications": true,
+    "zeroMajorUnsupportedSpatialOrActionClaimsInAcceptedExamples": true,
+    "minimumSupportedDisplayedFactualObservationFraction": 0.9,
+    "minimumSupportedOriginalImagesWithMeaningfulGroundedObservationFraction": 0.8,
+    "recurringSystematicFailureBlocksPromotionRegardlessOfAggregate": true,
+    "independentHumanReviewRequired": true,
+    "missingHumanReviewMeansQualificationBlocked": true,
+    "noPostResultGateRelaxation": true
+  },
+  "scoring": "Human reviewer sees each source with unchanged accepted model output; splits every displayed factual assertion into atomic observation units and marks supported/unsupported/unclear. Supported fraction counts unclear as unsupported. Uncertainty entries are separately checked for honesty; factual assertions within an uncertainty still count. Evaluate coverage on 8 original supported natural photos; transformations are separate paired stability diagnostics, not additional independent originals. Rejected/malformed outputs provide no grounded observation and reduce coverage. Structural validation never proves grounding. No retry or best-of selection.",
+  "humanReview": {
+    "status": "pending-external-human-review",
+    "reviewer": null,
+    "scores": null
+  },
+  "queryFallbacks": {
+    "4": [
+      "dog sleeping sofa"
+    ],
+    "7": [
+      "kitchen utensils counter"
+    ]
+  },
+  "acquisitionNote": "Original index4 query returned no Commons search pages (query-4-initial.json). Empty-search fallback terms were frozen before inference; all gates unchanged."
+}

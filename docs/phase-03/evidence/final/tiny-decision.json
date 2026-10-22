@@ -1,0 +1,85 @@
+{
+  "metrics": {
+    "relevance": 0.8333333333333334,
+    "accepted": 0,
+    "correctAccepted": 0,
+    "precision": null,
+    "coverage": 0,
+    "unsupportedAccepted": 0,
+    "raw": {
+      "total": 12,
+      "covered": 6,
+      "unsupported": 6,
+      "top1": 5,
+      "top4": 6,
+      "coveredTop1": 0.8333333333333334,
+      "coveredTop4": 1,
+      "accepted": 12,
+      "correctAccepted": 5,
+      "acceptedPrecision": 0.4166666666666667,
+      "coveredAccepted": 6,
+      "coveredCoverage": 1,
+      "unsupportedAccepted": 6,
+      "abstained": 0,
+      "confusion": {
+        "natural scenery": {
+          "natural scenery": 1
+        },
+        "buildings and city streets": {
+          "vehicles used for transportation": 1
+        },
+        "an indoor room": {
+          "an indoor room": 1
+        },
+        "animals": {
+          "animals": 1
+        },
+        "food or a meal": {
+          "food or a meal": 1
+        },
+        "vehicles used for transportation": {
+          "natural scenery": 1
+        },
+        "unsupported": {
+          "animals": 1,
+          "natural scenery": 4,
+          "an indoor room": 1
+        }
+      }
+    }
+  },
+  "gates": {
+    "relevance": true,
+    "precision": false,
+    "coverage": false,
+    "unsupported": true,
+    "nontrivial": false
+  },
+  "pass": false,
+  "policies": {
+    "natural scenery": {
+      "minimumScore": 0.36366988045441934,
+      "minimumMargin": 0.008827317883104424
+    },
+    "buildings and city streets": {
+      "minimumScore": 0.3518022857123244,
+      "minimumMargin": 0.04677646398197027
+    },
+    "an indoor room": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "animals": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "food or a meal": {
+      "minimumScore": 0.3759506415112426,
+      "minimumMargin": 0.11345229514392152
+    },
+    "vehicles used for transportation": {
+      "minimumScore": 0.34987076615596346,
+      "minimumMargin": 0.05516186689023761
+    }
+  }
+}

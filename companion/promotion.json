@@ -1,0 +1,5 @@
+{
+  "approved": false,
+  "contractSha256": "1604725c0d0324f52a273671aa6e341a076530bea02cfe84705a44edab4fe636",
+  "reason": "Reference behavior restored; independent human-reviewed qualification and complete final GUI verification remain required. Diagnostic comparisons still contain unsupported claims."
+}

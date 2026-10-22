@@ -1,0 +1,3 @@
+C:\Users\ouaha\OneDrive\Desktop\ouahad-hidden-data\scripts\convert-phase03-places.py:12: DeprecationWarning: You are using the legacy TorchScript-based ONNX export. Starting in PyTorch 2.9, the new torch.export-based ONNX exporter has become the default. Learn more about the new export logic: https://docs.pytorch.org/docs/stable/onnx_export.html. For exporting control flow: https://pytorch.org/tutorials/beginner/onnx/export_control_flow_model_to_onnx_tutorial.html
+  torch.onnx.export(model,tensor,str(root/'model.onnx'),input_names=['pixel_values'],output_names=['logits'],opset_version=17,dynamo=False)
+45445545 41e578f4fa3bb8b7dfde16ebd3e066cab4a81575528342b74de3d8aff5effb91

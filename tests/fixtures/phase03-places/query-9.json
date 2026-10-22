@@ -1,0 +1,1075 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 10,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "8906584": {
+        "pageid": 8906584,
+        "ns": 6,
+        "title": "File:KHM Wien VIIb 133 - Golden Vandal necklace, c. 300 AD.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 489263,
+            "width": 1674,
+            "height": 1458,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/KHM_Wien_VIIb_133_-_Golden_Vandal_necklace%2C_c._300_AD.jpg/960px-KHM_Wien_VIIb_133_-_Golden_Vandal_necklace%2C_c._300_AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 669,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/d/db/KHM_Wien_VIIb_133_-_Golden_Vandal_necklace%2C_c._300_AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/KHM_Wien_VIIb_133_-_Golden_Vandal_necklace%2C_c._300_AD.jpg/960px-KHM_Wien_VIIb_133_-_Golden_Vandal_necklace%2C_c._300_AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 669,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/d/db/KHM_Wien_VIIb_133_-_Golden_Vandal_necklace%2C_c._300_AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/KHM_Wien_VIIb_133_-_Golden_Vandal_necklace%2C_c._300_AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:KHM_Wien_VIIb_133_-_Golden_Vandal_necklace,_c._300_AD.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=8906584",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2010-01-04 12:30:23",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "KHM Wien VIIb 133 - Golden Vandal necklace, c. 300 AD",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Panasonic Lumix DMC-LX3|Artworks without Wikidata item|Artworks with known accession number|300s jewellery|Template Unknown (artist)|Files with coordinates missing SDC location of creation|4th-century jewellery in Austria|Migration Period artefacts (Kunsthistorisches Museum)|Ancient Germanic necklaces|Gold necklaces|Cejkov burial site|Vandalic jewellery|4th-century necklaces|Archaeological finds from Cejkov",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "valued",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "48.203611",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "16.361389",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nUnknown artist<span style=\"display: none;\">Unknown artist</span></div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Vandal gold and glass necklace. From the <a href=\"https://en.wikipedia.org/wiki/Cejkov\" class=\"extiw\" title=\"en:Cejkov\">Czéke</a> burial site, around 300 AD or early 4th century AD.",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Photograph by <a href=\"//commons.wikimedia.org/wiki/User:Sandstein\" title=\"User:Sandstein\">Sandstein</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "39280235": {
+        "pageid": 39280235,
+        "ns": 6,
+        "title": "File:Minoan gold necklace archmus Heraklion.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 738200,
+            "width": 3397,
+            "height": 2723,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Minoan_gold_necklace_archmus_Heraklion.jpg/960px-Minoan_gold_necklace_archmus_Heraklion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 616,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Minoan_gold_necklace_archmus_Heraklion.jpg/1920px-Minoan_gold_necklace_archmus_Heraklion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Minoan_gold_necklace_archmus_Heraklion.jpg/960px-Minoan_gold_necklace_archmus_Heraklion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 616,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Minoan_gold_necklace_archmus_Heraklion.jpg/1920px-Minoan_gold_necklace_archmus_Heraklion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Minoan_gold_necklace_archmus_Heraklion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Minoan_gold_necklace_archmus_Heraklion.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=39280235",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-03-29 14:45:00",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Minoan gold necklace archmus Heraklion",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|19th-century BC art in Greece|Self-published work|19th-century BC jewellery|Objects with black background|2015 in Heraklion|Findings from Phourni|Greece photographs taken on 2015-02-23|Ancient Greek necklaces|Archaeological Museum of Heraklion - Minoan jewellery|Gold in the Archaeological Museum of Heraklion|Minoan jewellery",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Minoan gold necklace. ca. 1800 - 1700 BCE",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-02-23 11:22:32",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jebulon\" title=\"User:Jebulon\">Jebulon</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "60410359": {
+        "pageid": 60410359,
+        "ns": 6,
+        "title": "File:Gold necklace MET DP336810.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 810013,
+            "width": 4000,
+            "height": 2704,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Gold_necklace_MET_DP336810.jpg/960px-Gold_necklace_MET_DP336810.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 519,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Gold_necklace_MET_DP336810.jpg/1920px-Gold_necklace_MET_DP336810.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Gold_necklace_MET_DP336810.jpg/960px-Gold_necklace_MET_DP336810.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 519,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Gold_necklace_MET_DP336810.jpg/1920px-Gold_necklace_MET_DP336810.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Gold_necklace_MET_DP336810.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gold_necklace_MET_DP336810.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=60410359",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-06-26 19:12:37",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nGold necklace</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Files with no machine-readable author|Artworks without Wikidata item|Artworks with known accession number|Images from Metropolitan Museum of Art|GWToolset Batch Upload|Gold necklaces|Rogers Fund - Jewellery|Jewelry at the Department of Greek and Roman Art, Metropolitan Museum of Art",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\nGreek; Necklace with pendants and rosettes; Gold and Silver</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "4th–early 3rd century B.C.",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:Met\" title=\"Commons:Met\">Metropolitan Museum of Art</a>. See the <a rel=\"nofollow\" class=\"external text\" href=\"https://metmuseum.org/about-the-met/policies-and-documents/image-resources\">Image and Data Resources Open Access Policy</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table style=\"width:100%; clear:both; text-align:center; margin:0.5em auto; background-color:var(--background-color-neutral-subtle, #f8f9fa); border:var(--border-subtle, 2px solid #c8ccd1); padding: 0; border-spacing: 8px; color:var(--color-base, #202122);\" dir=\"ltr\" class=\"layouttemplate licensetpl\" lang=\"en\">\n<tbody><tr>\n<td style=\"width:90px;\" rowspan=\"2\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"Creative Commons\"><img alt=\"Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/40px-Cc.logo.circle.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"28\" height=\"28\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/60px-Cc.logo.circle.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"CC-Zero\"><img alt=\"CC-Zero\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Cc-zero.svg/40px-Cc-zero.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"28\" height=\"28\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Cc-zero.svg/60px-Cc-zero.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span>\n</td>\n<td>This file is made available under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"extiw\" title=\"ccorg:publicdomain/zero/1.0/deed.en\">CC0 1.0 Universal Public Domain Dedication</a>.\n</td></tr>\n<tr style=\"text-align:left;\">\n<td>The person who associated a work with this deed has dedicated the work to the <a href=\"https://en.wikipedia.org/wiki/en:public_domain\" class=\"extiw\" title=\"w:en:public domain\">public domain</a> by waiving all of their rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.\n<p><span class=\"licensetpl_link\" style=\"display:none;\">http://creativecommons.org/publicdomain/zero/1.0/deed.en</span><span class=\"licensetpl_short\" style=\"display:none;\">CC0</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Zero, Public Domain Dedication</span><span class=\"licensetpl_link_req\" style=\"display:none;\">false</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">false</span>\n</p>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "60911966": {
+        "pageid": 60911966,
+        "ns": 6,
+        "title": "File:Gold Necklace with Amethysts, Glass, and Gold Beads MET sf17-190-1652d1.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 798040,
+            "width": 2555,
+            "height": 1080,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Gold_Necklace_with_Amethysts%2C_Glass%2C_and_Gold_Beads_MET_sf17-190-1652d1.jpg/960px-Gold_Necklace_with_Amethysts%2C_Glass%2C_and_Gold_Beads_MET_sf17-190-1652d1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 325,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Gold_Necklace_with_Amethysts%2C_Glass%2C_and_Gold_Beads_MET_sf17-190-1652d1.jpg/1920px-Gold_Necklace_with_Amethysts%2C_Glass%2C_and_Gold_Beads_MET_sf17-190-1652d1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Gold_Necklace_with_Amethysts%2C_Glass%2C_and_Gold_Beads_MET_sf17-190-1652d1.jpg/960px-Gold_Necklace_with_Amethysts%2C_Glass%2C_and_Gold_Beads_MET_sf17-190-1652d1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 325,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Gold_Necklace_with_Amethysts%2C_Glass%2C_and_Gold_Beads_MET_sf17-190-1652d1.jpg/1920px-Gold_Necklace_with_Amethysts%2C_Glass%2C_and_Gold_Beads_MET_sf17-190-1652d1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Gold_Necklace_with_Amethysts%2C_Glass%2C_and_Gold_Beads_MET_sf17-190-1652d1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gold_Necklace_with_Amethysts,_Glass,_and_Gold_Beads_MET_sf17-190-1652d1.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=60911966",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-07-12 01:14:50",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nGold Necklace with Amethysts, Glass, and Gold Beads</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Files with no machine-readable author|Artworks without Wikidata item|Artworks with known accession number|Images from Metropolitan Museum of Art|GWToolset Batch Upload|Gold jewellery clasps|Gold Necklace with Amethysts, Glass Beads, and a Pearl, MET 17.190.1663",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\nByzantine; Necklace; Metalwork-Gold</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "6th–7th century",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:Met\" title=\"Commons:Met\">Metropolitan Museum of Art</a>. See the <a rel=\"nofollow\" class=\"external text\" href=\"https://metmuseum.org/about-the-met/policies-and-documents/image-resources\">Image and Data Resources Open Access Policy</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table style=\"width:100%; clear:both; text-align:center; margin:0.5em auto; background-color:var(--background-color-neutral-subtle, #f8f9fa); border:var(--border-subtle, 2px solid #c8ccd1); padding: 0; border-spacing: 8px; color:var(--color-base, #202122);\" dir=\"ltr\" class=\"layouttemplate licensetpl\" lang=\"en\">\n<tbody><tr>\n<td style=\"width:90px;\" rowspan=\"2\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"Creative Commons\"><img alt=\"Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/40px-Cc.logo.circle.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"28\" height=\"28\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/60px-Cc.logo.circle.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"CC-Zero\"><img alt=\"CC-Zero\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Cc-zero.svg/40px-Cc-zero.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"28\" height=\"28\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Cc-zero.svg/60px-Cc-zero.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span>\n</td>\n<td>This file is made available under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"extiw\" title=\"ccorg:publicdomain/zero/1.0/deed.en\">CC0 1.0 Universal Public Domain Dedication</a>.\n</td></tr>\n<tr style=\"text-align:left;\">\n<td>The person who associated a work with this deed has dedicated the work to the <a href=\"https://en.wikipedia.org/wiki/en:public_domain\" class=\"extiw\" title=\"w:en:public domain\">public domain</a> by waiving all of their rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.\n<p><span class=\"licensetpl_link\" style=\"display:none;\">http://creativecommons.org/publicdomain/zero/1.0/deed.en</span><span class=\"licensetpl_short\" style=\"display:none;\">CC0</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Zero, Public Domain Dedication</span><span class=\"licensetpl_link_req\" style=\"display:none;\">false</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">false</span>\n</p>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "78414956": {
+        "pageid": 78414956,
+        "ns": 6,
+        "title": "File:Victoria and Albert Museum Jewellery 11042019 Necklace Enamelled gold Lovers knots Cheapside Hoard 3037.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7577268,
+            "width": 4252,
+            "height": 2329,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Victoria_and_Albert_Museum_Jewellery_11042019_Necklace_Enamelled_gold_Lovers_knots_Cheapside_Hoard_3037.jpg/960px-Victoria_and_Albert_Museum_Jewellery_11042019_Necklace_Enamelled_gold_Lovers_knots_Cheapside_Hoard_3037.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 421,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Victoria_and_Albert_Museum_Jewellery_11042019_Necklace_Enamelled_gold_Lovers_knots_Cheapside_Hoard_3037.jpg/1920px-Victoria_and_Albert_Museum_Jewellery_11042019_Necklace_Enamelled_gold_Lovers_knots_Cheapside_Hoard_3037.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Victoria_and_Albert_Museum_Jewellery_11042019_Necklace_Enamelled_gold_Lovers_knots_Cheapside_Hoard_3037.jpg/960px-Victoria_and_Albert_Museum_Jewellery_11042019_Necklace_Enamelled_gold_Lovers_knots_Cheapside_Hoard_3037.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 421,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Victoria_and_Albert_Museum_Jewellery_11042019_Necklace_Enamelled_gold_Lovers_knots_Cheapside_Hoard_3037.jpg/1920px-Victoria_and_Albert_Museum_Jewellery_11042019_Necklace_Enamelled_gold_Lovers_knots_Cheapside_Hoard_3037.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Victoria_and_Albert_Museum_Jewellery_11042019_Necklace_Enamelled_gold_Lovers_knots_Cheapside_Hoard_3037.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Victoria_and_Albert_Museum_Jewellery_11042019_Necklace_Enamelled_gold_Lovers_knots_Cheapside_Hoard_3037.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=78414956",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-04-28 11:43:15",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Victoria and Albert Museum Jewellery 11042019 Necklace Enamelled gold Lovers knots Cheapside Hoard 3037",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Jewellery in the Victoria and Albert Museum|Cheapside Hoard|Room 91, Victoria and Albert Museum|Gold necklaces|Enamelled gold",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Necklace with interlinking lovers knots, gold with white enamel, England, 1590-1620. It's an item of the Cheapside Hoard, found in 1912 during the demolition of an old building on 30-32 Cheapside in London.\nVictoria and Albert Museum, no. M. 1140-1926. ( Rooms 91-92. Photographs in these rooms are now allowed.)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-04-11 16:59:14",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Vassil\" title=\"User:Vassil\">Vassil</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "104228170": {
+        "pageid": 104228170,
+        "ns": 6,
+        "title": "File:02019 0631 Gold necklace found at Wrocław - Rędzin, around 500 AD.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2334148,
+            "width": 4150,
+            "height": 2883,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/02019_0631_Gold_necklace_found_at_Wroc%C5%82aw_-_R%C4%99dzin%2C_around_500_AD.jpg/960px-02019_0631_Gold_necklace_found_at_Wroc%C5%82aw_-_R%C4%99dzin%2C_around_500_AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 534,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/02019_0631_Gold_necklace_found_at_Wroc%C5%82aw_-_R%C4%99dzin%2C_around_500_AD.jpg/1920px-02019_0631_Gold_necklace_found_at_Wroc%C5%82aw_-_R%C4%99dzin%2C_around_500_AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/02019_0631_Gold_necklace_found_at_Wroc%C5%82aw_-_R%C4%99dzin%2C_around_500_AD.jpg/960px-02019_0631_Gold_necklace_found_at_Wroc%C5%82aw_-_R%C4%99dzin%2C_around_500_AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 534,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/02019_0631_Gold_necklace_found_at_Wroc%C5%82aw_-_R%C4%99dzin%2C_around_500_AD.jpg/1920px-02019_0631_Gold_necklace_found_at_Wroc%C5%82aw_-_R%C4%99dzin%2C_around_500_AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/02019_0631_Gold_necklace_found_at_Wroc%C5%82aw_-_R%C4%99dzin%2C_around_500_AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:02019_0631_Gold_necklace_found_at_Wroc%C5%82aw_-_R%C4%99dzin,_around_500_AD.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=104228170",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-04-23 20:35:39",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "02019 0631 Gold necklace found at Wrocław - Rędzin, around 500 AD",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Barbarian Tsunami exhibition|Self-published work|Jewellery in Silesia|Jewellery in Poland|Ancient Germanic jewellery|5th-century jewellery in Poland|Cloisonné of Europe|Ancient Germanic necklaces|Gold necklaces|East Germanic costumes|Burgundian jewellery|Germanic jewellery in Poland|5th-century necklaces|Archeological Museum of Wroclaw",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Gold necklace found at Wrocław - Rędzin. Muzeum Archeologiczne we Wrocławiu",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-11-10 13:56:29",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Silar&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Silar (page does not exist)\">Silar</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "128528172": {
+        "pageid": 128528172,
+        "ns": 6,
+        "title": "File:Gold hair-ring and gold necklace, 1100-1000 BC, Kerameikos Mus, 225793.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9886807,
+            "width": 4368,
+            "height": 2906,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Gold_hair-ring_and_gold_necklace%2C_1100-1000_BC%2C_Kerameikos_Mus%2C_225793.jpg/960px-Gold_hair-ring_and_gold_necklace%2C_1100-1000_BC%2C_Kerameikos_Mus%2C_225793.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 511,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Gold_hair-ring_and_gold_necklace%2C_1100-1000_BC%2C_Kerameikos_Mus%2C_225793.jpg/1920px-Gold_hair-ring_and_gold_necklace%2C_1100-1000_BC%2C_Kerameikos_Mus%2C_225793.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Gold_hair-ring_and_gold_necklace%2C_1100-1000_BC%2C_Kerameikos_Mus%2C_225793.jpg/960px-Gold_hair-ring_and_gold_necklace%2C_1100-1000_BC%2C_Kerameikos_Mus%2C_225793.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 511,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Gold_hair-ring_and_gold_necklace%2C_1100-1000_BC%2C_Kerameikos_Mus%2C_225793.jpg/1920px-Gold_hair-ring_and_gold_necklace%2C_1100-1000_BC%2C_Kerameikos_Mus%2C_225793.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Gold_hair-ring_and_gold_necklace%2C_1100-1000_BC%2C_Kerameikos_Mus%2C_225793.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gold_hair-ring_and_gold_necklace,_1100-1000_BC,_Kerameikos_Mus,_225793.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=128528172",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-02-08 17:36:12",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Gold hair-ring and gold necklace, 1100-1000 BC, Kerameikos Mus, 225793",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "11th-century BC art|Self-published work|Gold rings|Ancient Greek rings|Ancient Greek necklaces|Gold necklaces|Ancient Greek jewellery in the Kerameikos Archaeological Museum (Athens)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Gold hair-ring and gold necklace, 1100-1000 BC. Kerameikos Archaeological Museum in Athens (TN 136).",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-06-12 10:20:34",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Zde\" title=\"User:Zde\">Zde</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "163069644": {
+        "pageid": 163069644,
+        "ns": 6,
+        "title": "File:Gold chain with gemstones and enamel, late 16th century, The Royal Armoury, Sweden.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5717345,
+            "width": 4169,
+            "height": 5559,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Gold_chain_with_gemstones_and_enamel%2C_late_16th_century%2C_The_Royal_Armoury%2C_Sweden.jpg/960px-Gold_chain_with_gemstones_and_enamel%2C_late_16th_century%2C_The_Royal_Armoury%2C_Sweden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1024,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Gold_chain_with_gemstones_and_enamel%2C_late_16th_century%2C_The_Royal_Armoury%2C_Sweden.jpg/1920px-Gold_chain_with_gemstones_and_enamel%2C_late_16th_century%2C_The_Royal_Armoury%2C_Sweden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Gold_chain_with_gemstones_and_enamel%2C_late_16th_century%2C_The_Royal_Armoury%2C_Sweden.jpg/960px-Gold_chain_with_gemstones_and_enamel%2C_late_16th_century%2C_The_Royal_Armoury%2C_Sweden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1024,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Gold_chain_with_gemstones_and_enamel%2C_late_16th_century%2C_The_Royal_Armoury%2C_Sweden.jpg/1920px-Gold_chain_with_gemstones_and_enamel%2C_late_16th_century%2C_The_Royal_Armoury%2C_Sweden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Gold_chain_with_gemstones_and_enamel%2C_late_16th_century%2C_The_Royal_Armoury%2C_Sweden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gold_chain_with_gemstones_and_enamel,_late_16th_century,_The_Royal_Armoury,_Sweden.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=163069644",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-04-01 19:37:10",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Gold chain, possibly a knight's chain or <a href=\"https://en.wikipedia.org/wiki/Order_(distinction)\" class=\"extiw\" title=\"w:Order (distinction)\">order</a> chain, Sweden, late 16th century.",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Images with annotations|Author died more than 100 years ago public domain images|Images from Livrustkammaren och Skoklosters slott med Stiftelsen Hallwylska museet|Champlevé|Artworks without Wikidata item|Featured pictures on Wikipedia, English|Artworks with known accession number|Items with VRTS permission confirmed|Template Unknown (author)|Content made available through Wikimedia Sverige partnerships|CC-PD-Mark|16th-century jewellery|Images from Livrustkammaren|Media contributed by LSH: 2015-11|Color images from Livrustkammaren|Media contributed by LSH: dim-with multiple size templates|Media contributed by LSH: unmatched keyword|Photographs by Erik Lernestål|Featured pictures of objects in Sweden|Gold chains|Gold necklaces|Garnet necklaces|Collars of orders of Sweden|Rock crystal necklaces|Featured pictures of wearable objects|Table cut",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "featured",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nUnknown author<span style=\"display: none;\">Unknown author</span></div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<div style=\"font-size:86%; background-color:#e0e0ee; padding: 0.3em; border:1px solid #aaa;\"><i><b>Note: </b> For documentary purposes the original description has been retained. Factual corrections and alternative descriptions are encouraged separately from the original description.</i></div>Guldkedja från 1500-talets slut.<br>\n<b>Nyckelord</b>: Smycke, Halsband, Guld, Föremålsbild</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "24 November 2014, 14:45 — Chain: late 16<sup>th</sup> century<div style=\"display: none;\">date QS:P571,+1550-00-00T00:00:00Z/7</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://emuseumplus.lsh.se/eMuseumPlus?service=ExternalInterface&amp;module=literature&amp;objectId=98877&amp;viewType=detailView\"> LSH 98877</a> (lm_dig14075)",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "This file was provided to Wikimedia Commons by <b><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Livrustkammaren\" class=\"extiw\" title=\"en:Livrustkammaren\">Livrustkammaren</a></span> <i>(The Royal Armoury)</i></b> as part of a <b><a href=\"//commons.wikimedia.org/wiki/Commons:Livrustkammaren_och_Skoklosters_slott_med_Stiftelsen_Hallwylska_museet\" title=\"Commons:Livrustkammaren och Skoklosters slott med Stiftelsen Hallwylska museet\">cooperation project</a></b> with Wikimedia Sverige. All artworks in the photographs are owned by the museum and in the <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Public_domain\" class=\"extiw\" title=\"en:Public domain\"><span lang=\"en\" dir=\"ltr\">public domain</span></a></span> due to age.\nThe photographs themselves are either public domain due to age or the copyright is held by the museum which has made it available as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.en\">CC0</a> or licensed it with the <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Creative_Commons\" class=\"extiw\" title=\"en:Creative Commons\"><span lang=\"en\" dir=\"ltr\">Creative Commons</span></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-ShareAlike 3.0 Unported License</a>.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "192082693": {
+        "pageid": 192082693,
+        "ns": 6,
+        "title": "File:Rani Haar, a necklace made of burnished gold, Traditional Himachali Dogra Culture.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 76638,
+            "width": 596,
+            "height": 960,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Rani_Haar%2C_a_necklace_made_of_burnished_gold%2C_Traditional_Himachali_Dogra_Culture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 768,
+            "thumbheight": 1237,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Rani_Haar%2C_a_necklace_made_of_burnished_gold%2C_Traditional_Himachali_Dogra_Culture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1237
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Rani_Haar%2C_a_necklace_made_of_burnished_gold%2C_Traditional_Himachali_Dogra_Culture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rani_Haar,_a_necklace_made_of_burnished_gold,_Traditional_Himachali_Dogra_Culture.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=192082693",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-05-16 06:25:03",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Rani Haar, a necklace made of burnished gold, Traditional Himachali Dogra Culture",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Himachal Pradesh|Kangra|Self-published work|Jewellery of Himachal Pradesh|Necklaces in art|Gold necklaces|Wiki Loves Himalayas",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Rani Haar, a necklace made of burnished gold, Traditional Himachali Dogra Culture  .",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-05-16",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:SpeakingArch\" title=\"User:SpeakingArch\">SpeakingArch</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "192083105": {
+        "pageid": 192083105,
+        "ns": 6,
+        "title": "File:Himachali Gold Necklace with Meenakari, Kangra Culture, Himachal Pradesh.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 37009,
+            "width": 612,
+            "height": 422,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Himachali_Gold_Necklace_with_Meenakari%2C_Kangra_Culture%2C_Himachal_Pradesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 768,
+            "thumbheight": 530,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/3/32/Himachali_Gold_Necklace_with_Meenakari%2C_Kangra_Culture%2C_Himachal_Pradesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 530
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Himachali_Gold_Necklace_with_Meenakari%2C_Kangra_Culture%2C_Himachal_Pradesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Himachali_Gold_Necklace_with_Meenakari,_Kangra_Culture,_Himachal_Pradesh.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=192083105",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-05-16 06:32:37",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Himachali Gold Necklace with Meenakari, Kangra Culture, Himachal Pradesh",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Himachal Pradesh|Kangra|Self-published work|Jewellery of Himachal Pradesh|Necklaces in art|Gold necklaces|Wiki Loves Himalayas",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Himachali Gold Necklace with Meenakari, Kangra Culture, Himachal Pradesh",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-05-16",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:SpeakingArch\" title=\"User:SpeakingArch\">SpeakingArch</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -3,6 +3,7 @@ import { sampleBitmap } from "./sampling";
 import type { AnalysisResult } from "./types";
 import { inspectMetadata } from "./metadata";
 import { mapBitmap } from "./maps";
+import { analyzeEvidence, unavailableAnalytics } from "./insights";
 async function encodeMap(
   pixels: Uint8ClampedArray,
   width: number,
@@ -42,6 +43,20 @@ self.onmessage = async (
         sourcePixels,
       },
     };
+    try {
+      result.analytics = analyzeEvidence(
+        sample.pixels,
+        sample.plan.areas,
+        result,
+        result.sampling,
+      );
+    } catch {
+      // Optional interpretation must never discard valid Phase 01 measurements.
+      result.analytics = unavailableAnalytics(
+        "calculation-failed",
+        "Distribution insights could not be calculated. Original measurements remain available.",
+      );
+    }
     self.postMessage({ stage: "metadata" });
     const buffer = await file.arrayBuffer();
     try {

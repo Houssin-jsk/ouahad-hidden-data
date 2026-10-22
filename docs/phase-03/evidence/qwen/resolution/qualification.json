@@ -1,0 +1,760 @@
+{
+  "contractSha256": "1604725c0d0324f52a273671aa6e341a076530bea02cfe84705a44edab4fe636",
+  "humanReview": "PENDING; automated judgments cannot certify grounding",
+  "protocol": "Actual companion API, same private native runtime, exact production Origin and memory-only auth; controlled licensed fixtures bypass promotion only in test process.",
+  "rows": [
+    {
+      "id": "resolution-00",
+      "sourceSha256": "c10da191af7454650c6761f06b922bb175bcf77eafc7705c6108a1072e198d36",
+      "kind": "original",
+      "preprocessSeconds": 0.35999999998603016,
+      "transportBytes": 1651204,
+      "transportSha256": "f26c8d95fc249e2cb463ff25acfd43c9df74f901d34800c35314d703a5b15c5b",
+      "status": 200,
+      "response": {
+        "version": "1.1.0",
+        "observations": {
+          "image_description": "A white shelf holds a collection of automotive and bicycle maintenance products. The items include spray cans, bottles, and a container, all arranged in a row. The products are primarily black, blue, red, and green, with labels indicating uses such as tire care, oil, and cleaning. A large, rectangular, black-and-white photograph of the year 2017 is visible on the wall above the shelf.",
+          "main_visible_objects": [
+            "shelves",
+            "bottles",
+            "spray cans",
+            "containers",
+            "a photograph"
+          ],
+          "scene_and_surroundings": "A white shelf holding various automotive and bicycle maintenance products is positioned in front of a white wall. Above the shelf, a black-and-white photograph of the year 2017 is mounted on the wall.",
+          "notable_visual_details": [
+            "The products are arranged in a row on the shelf.",
+            "The labels on the products are primarily black, blue, red, and green.",
+            "The photograph above the shelf is rectangular and shows the year 2017."
+          ],
+          "uncertainties": [
+            "The identity of the products on the shelf is not fully clear.",
+            "The exact position of the products on the shelf is not fully clear."
+          ]
+        },
+        "limitations": "Model-generated observations can be wrong or incomplete. They do not establish identity, location, sensitive attributes, authenticity, or camera metadata.",
+        "model": "Qwen3-VL 2B Instruct Q4_K_M",
+        "elapsedSeconds": 118.5
+      },
+      "wallSeconds": 118.60999999998603,
+      "raw": {
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "{\n  \"image_description\": \"A white shelf holds a collection of automotive and bicycle maintenance products. The items include spray cans, bottles, and a container, all arranged in a row. The products are primarily black, blue, red, and green, with labels indicating uses such as tire care, oil, and cleaning. A large, rectangular, black-and-white photograph of the year 2017 is visible on the wall above the shelf.\",\n  \"main_visible_objects\": [\n    \"shelves\",\n    \"bottles\",\n    \"spray cans\",\n    \"containers\",\n    \"a photograph\"\n  ],\n  \"scene_and_surroundings\": \"A white shelf holding various automotive and bicycle maintenance products is positioned in front of a white wall. Above the shelf, a black-and-white photograph of the year 2017 is mounted on the wall.\",\n  \"notable_visual_details\": [\n    \"The products are arranged in a row on the shelf.\",\n    \"The labels on the products are primarily black, blue, red, and green.\",\n    \"The photograph above the shelf is rectangular and shows the year 2017.\"\n  ],\n  \"uncertainties\": [\n    \"The identity of the products on the shelf is not fully clear.\",\n    \"The exact position of the products on the shelf is not fully clear.\"\n  ]\n}"
+            }
+          }
+        ],
+        "created": 1792616412,
+        "model": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-ai\\models\\qwen3-vl-2b-instruct\\weights\\model-q4_k_m.gguf",
+        "system_fingerprint": "b1-620d2225c",
+        "object": "chat.completion",
+        "usage": {
+          "completion_tokens": 279,
+          "prompt_tokens": 1772,
+          "total_tokens": 2051,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          }
+        },
+        "id": "chatcmpl-KySLjYxt61kTlIy6NRPARVrV0dogY2iQ",
+        "timings": {
+          "cache_n": 0,
+          "prompt_n": 1772,
+          "prompt_ms": 86724.183,
+          "prompt_per_token_ms": 48.94141252821671,
+          "prompt_per_second": 20.432593755308133,
+          "predicted_n": 279,
+          "predicted_ms": 31389.624,
+          "predicted_per_token_ms": 112.91231654676258,
+          "predicted_per_second": 8.856429755259255
+        }
+      },
+      "nativeCPUSeconds": 470.140625
+    },
+    {
+      "id": "resolution-01",
+      "sourceSha256": "b7da514f8533ba0d4d0ac44130b8d46eab903959b35ad8728e9a702cbc22c6f3",
+      "kind": "original",
+      "preprocessSeconds": 0.28099999998812564,
+      "transportBytes": 2380862,
+      "transportSha256": "a340a57f4df4487a3ffb805a75d3d26c4b3bcfdc32b09a1eb80bbe019a2aa34c",
+      "status": 200,
+      "response": {
+        "version": "1.1.0",
+        "observations": {
+          "image_description": "A street-level view of a K Market store, a retail establishment with a tiled facade and a red brick section. The store's sign is prominent, and a large orange advertisement is displayed on the window. A person in a red hat and dark jacket is walking away from the camera, and another person in a blue jacket is entering the store through the blue-framed door. A bright orange post box is visible on the sidewalk. The scene is set on a paved area with several concrete bollards. The image includes text in Finnish, such as 'KAIKKI HYV\u00c4 ON L\u00c4HELL\u00c4' and 'Palvelu pelaa 7-22', which are likely part of the store's signage.",
+          "main_visible_objects": [
+            "K Market store",
+            "orange advertisement",
+            "orange post box",
+            "person walking away",
+            "person entering store",
+            "concrete bollards",
+            "tiled wall",
+            "red brick section",
+            "window with text",
+            "signage with 'VEIKKAUS'"
+          ],
+          "scene_and_surroundings": "The scene is an outdoor storefront on a paved sidewalk. The building has a tiled wall and a red brick section. The store is open, and there are people near the entrance. The weather appears to be overcast, and the ground is dry. The image includes text in Finnish, which is likely part of the store's signage.",
+          "notable_visual_details": [
+            "The store's sign is black and orange with a stylized 'K' logo.",
+            "The advertisement is large and orange with white text.",
+            "The post box is bright orange with the word 'posti' in white.",
+            "The person walking away is wearing a red hat, a dark jacket, and plaid pants.",
+            "The person entering the store is wearing a blue jacket and brown pants.",
+            "The window has text that reads 'Palvelu pelaa 7-22' and '8-22'.",
+            "The store's door has a blue frame and a sign that says 'Automaatit'.",
+            "There is a sign on the sidewalk that says 'JOS EL\u00d6YDY N\u00c4IN HOMMATAAN'."
+          ],
+          "uncertainties": [
+            "The text in the window is not fully legible.",
+            "The text on the sign on the sidewalk is not fully legible.",
+            "The text on the sign in the window is not fully legible."
+          ]
+        },
+        "limitations": "Model-generated observations can be wrong or incomplete. They do not establish identity, location, sensitive attributes, authenticity, or camera metadata.",
+        "model": "Qwen3-VL 2B Instruct Q4_K_M",
+        "elapsedSeconds": 146.75
+      },
+      "wallSeconds": 146.90600000001723,
+      "raw": {
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "{\n  \"image_description\": \"A street-level view of a K Market store, a retail establishment with a tiled facade and a red brick section. The store's sign is prominent, and a large orange advertisement is displayed on the window. A person in a red hat and dark jacket is walking away from the camera, and another person in a blue jacket is entering the store through the blue-framed door. A bright orange post box is visible on the sidewalk. The scene is set on a paved area with several concrete bollards. The image includes text in Finnish, such as 'KAIKKI HYV\u00c4 ON L\u00c4HELL\u00c4' and 'Palvelu pelaa 7-22', which are likely part of the store's signage.\",\n  \"main_visible_objects\": [\n    \"K Market store\",\n    \"orange advertisement\",\n    \"orange post box\",\n    \"person walking away\",\n    \"person entering store\",\n    \"concrete bollards\",\n    \"tiled wall\",\n    \"red brick section\",\n    \"window with text\",\n    \"signage with 'VEIKKAUS'\"\n  ],\n  \"scene_and_surroundings\": \"The scene is an outdoor storefront on a paved sidewalk. The building has a tiled wall and a red brick section. The store is open, and there are people near the entrance. The weather appears to be overcast, and the ground is dry. The image includes text in Finnish, which is likely part of the store's signage.\",\n  \"notable_visual_details\": [\n    \"The store's sign is black and orange with a stylized 'K' logo.\",\n    \"The advertisement is large and orange with white text.\",\n    \"The post box is bright orange with the word 'posti' in white.\",\n    \"The person walking away is wearing a red hat, a dark jacket, and plaid pants.\",\n    \"The person entering the store is wearing a blue jacket and brown pants.\",\n    \"The window has text that reads 'Palvelu pelaa 7-22' and '8-22'.\",\n    \"The store's door has a blue frame and a sign that says 'Automaatit'.\",\n    \"There is a sign on the sidewalk that says 'JOS EL\u00d6YDY N\u00c4IN HOMMATAAN'.\"\n  ],\n  \"uncertainties\": [\n    \"The text in the window is not fully legible.\",\n    \"The text on the sign on the sidewalk is not fully legible.\",\n    \"The text on the sign in the window is not fully legible.\"\n  ]\n}"
+            }
+          }
+        ],
+        "created": 1792616559,
+        "model": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-ai\\models\\qwen3-vl-2b-instruct\\weights\\model-q4_k_m.gguf",
+        "system_fingerprint": "b1-620d2225c",
+        "object": "chat.completion",
+        "usage": {
+          "completion_tokens": 534,
+          "prompt_tokens": 1772,
+          "total_tokens": 2306,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          }
+        },
+        "id": "chatcmpl-g624wD8fmRK54n1BcA30A1iurDoJn6hf",
+        "timings": {
+          "cache_n": 0,
+          "prompt_n": 1772,
+          "prompt_ms": 85775.315,
+          "prompt_per_token_ms": 48.40593397291197,
+          "prompt_per_second": 20.658624220732968,
+          "predicted_n": 534,
+          "predicted_ms": 60833.308,
+          "predicted_per_token_ms": 114.1337861163227,
+          "predicted_per_second": 8.761647484302514
+        }
+      },
+      "nativeCPUSeconds": 582.625
+    },
+    {
+      "id": "resolution-02",
+      "sourceSha256": "45397f0d4b19a17a087e3ff21b579bd4a18efc7feb15689a68cf2b891672b161",
+      "kind": "original",
+      "preprocessSeconds": 0.28099999998812564,
+      "transportBytes": 2493675,
+      "transportSha256": "a76d432865772dc59e5e0c51d2e2fd7263f17e0b21a414881a4e9918bd086b53",
+      "status": 200,
+      "response": {
+        "version": "1.1.0",
+        "observations": {
+          "image_description": "An outdoor patio area with a wooden pergola structure. The scene is set on a paved ground, with tables and chairs arranged in rows. The chairs are a variety of colors, including pink, lime green, black, and white, with a distinctive geometric design. The pergola is supported by thick, dark wooden posts. To the left is a building with large windows and a wooden frame. To the right, there is a small, potted evergreen plant in a wooden planter. The background features a large, grassy lawn and a line of trees with bare branches, suggesting it is either late fall or early spring. The sky is overcast and gray.",
+          "main_visible_objects": [
+            "tables",
+            "chairs",
+            "pergola",
+            "building",
+            "window",
+            "plant",
+            "potted plant",
+            "ground"
+          ],
+          "scene_and_surroundings": "An outdoor patio area with a wooden pergola, tables and chairs arranged in rows, a building with large windows, a potted evergreen plant, and a grassy lawn with bare trees in the background. The ground is paved and the sky is overcast.",
+          "notable_visual_details": [
+            "The chairs have a geometric, lattice-like design.",
+            "The tables are white with a slightly wet surface.",
+            "The pergola is made of dark wooden beams.",
+            "The building has a wooden frame and a purple window frame.",
+            "The potted plant is in a wooden planter.",
+            "The grassy lawn is large and the trees are bare."
+          ],
+          "uncertainties": [
+            "The identity of the building is not clear.",
+            "The exact location of the building is not visible.",
+            "The presence of a camera on the pergola is uncertain."
+          ]
+        },
+        "limitations": "Model-generated observations can be wrong or incomplete. They do not establish identity, location, sensitive attributes, authenticity, or camera metadata.",
+        "model": "Qwen3-VL 2B Instruct Q4_K_M",
+        "elapsedSeconds": 129.51600000000326
+      },
+      "wallSeconds": 129.64000000001397,
+      "raw": {
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "{\n  \"image_description\": \"An outdoor patio area with a wooden pergola structure. The scene is set on a paved ground, with tables and chairs arranged in rows. The chairs are a variety of colors, including pink, lime green, black, and white, with a distinctive geometric design. The pergola is supported by thick, dark wooden posts. To the left is a building with large windows and a wooden frame. To the right, there is a small, potted evergreen plant in a wooden planter. The background features a large, grassy lawn and a line of trees with bare branches, suggesting it is either late fall or early spring. The sky is overcast and gray.\",\n  \"main_visible_objects\": [\n    \"tables\",\n    \"chairs\",\n    \"pergola\",\n    \"building\",\n    \"window\",\n    \"plant\",\n    \"potted plant\",\n    \"ground\"\n  ],\n  \"scene_and_surroundings\": \"An outdoor patio area with a wooden pergola, tables and chairs arranged in rows, a building with large windows, a potted evergreen plant, and a grassy lawn with bare trees in the background. The ground is paved and the sky is overcast.\",\n  \"notable_visual_details\": [\n    \"The chairs have a geometric, lattice-like design.\",\n    \"The tables are white with a slightly wet surface.\",\n    \"The pergola is made of dark wooden beams.\",\n    \"The building has a wooden frame and a purple window frame.\",\n    \"The potted plant is in a wooden planter.\",\n    \"The grassy lawn is large and the trees are bare.\"\n  ],\n  \"uncertainties\": [\n    \"The identity of the building is not clear.\",\n    \"The exact location of the building is not visible.\",\n    \"The presence of a camera on the pergola is uncertain.\"\n  ]\n}"
+            }
+          }
+        ],
+        "created": 1792616689,
+        "model": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-ai\\models\\qwen3-vl-2b-instruct\\weights\\model-q4_k_m.gguf",
+        "system_fingerprint": "b1-620d2225c",
+        "object": "chat.completion",
+        "usage": {
+          "completion_tokens": 385,
+          "prompt_tokens": 1772,
+          "total_tokens": 2157,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          }
+        },
+        "id": "chatcmpl-W1azc2RVidJg9ERsJwZhIwxdgMuw3zuK",
+        "timings": {
+          "cache_n": 0,
+          "prompt_n": 1772,
+          "prompt_ms": 86328.34,
+          "prompt_per_token_ms": 48.718024830699775,
+          "prompt_per_second": 20.526283720965793,
+          "predicted_n": 385,
+          "predicted_ms": 43081.73,
+          "predicted_per_token_ms": 112.19200520833334,
+          "predicted_per_second": 8.913291086500008
+        }
+      },
+      "nativeCPUSeconds": 514.78125
+    },
+    {
+      "id": "resolution-03",
+      "sourceSha256": "3a7fc00fc4bfb5ab7ed48062f9bc26e7f910046f17e8a4c5d5f1e6c8bccfefb6",
+      "kind": "original",
+      "preprocessSeconds": 0.28099999998812564,
+      "transportBytes": 2116809,
+      "transportSha256": "541a50c506bebd538098affce49d2f628ec0213e1b23dbc6599d4ec8c428951a",
+      "status": 422,
+      "response": {
+        "error": "The model response failed the reference language or text-quality checks. No observations were accepted."
+      },
+      "wallSeconds": 130.14100000000326,
+      "raw": {
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "{\n  \"image_description\": \"A room with a vintage aesthetic, featuring a wooden fireplace mantel with a television, a clock, and various items. A framed poster of a woman is hanging above the mantel. To the left, a wooden bookshelf holds a collection of VHS tapes and other items. A window with blinds is on the right, and a lamp sits on a small table next to it. The room has a warm, slightly dated feel.\",\n  \"main_visible_objects\": [\n    \"fireplace\",\n    \"television\",\n    \"clock\",\n    \"bookshelf\",\n    \"window\",\n    \"lamp\",\n    \"poster\",\n    \"VHS tapes\",\n    \"bottles\",\n    \"stuffed animals\"\n  ],\n  \"scene_and_surroundings\": \"The room is a living space with a fireplace, a television, and various personal items. The walls are a light color, and the window has blinds. The overall atmosphere is cozy and lived-in.\",\n  \"notable_visual_details\": [\n    \"The poster is a framed image of a woman in a vintage style.\",\n    \"The television is on a stand and is turned on.\",\n    \"The clock is a wooden mantel clock.\",\n    \"The bookshelf is filled with VHS tapes and other items.\",\n    \"The window has blinds that are partially open.\",\n    \"The lamp has a globe on its base.\",\n    \"There are several bottles on the mantel.\",\n    \"There are stuffed animals on the bookshelf and on the mantel.\"\n  ],\n  \"uncertainties\": [\n    \"The identity of the stuffed animals is uncertain.\",\n    \"The identity of the person in the poster is uncertain.\",\n    \"The identity of the person in the photo on the mantel is uncertain.\"\n  ]\n}"
+            }
+          }
+        ],
+        "created": 1792616820,
+        "model": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-ai\\models\\qwen3-vl-2b-instruct\\weights\\model-q4_k_m.gguf",
+        "system_fingerprint": "b1-620d2225c",
+        "object": "chat.completion",
+        "usage": {
+          "completion_tokens": 367,
+          "prompt_tokens": 1772,
+          "total_tokens": 2139,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          }
+        },
+        "id": "chatcmpl-s3AswemoSRY8OfLMPOhxlvyfo1vSPLMS",
+        "timings": {
+          "cache_n": 0,
+          "prompt_n": 1772,
+          "prompt_ms": 89530.093,
+          "prompt_per_token_ms": 50.52488318284424,
+          "prompt_per_second": 19.792227849020552,
+          "predicted_n": 367,
+          "predicted_ms": 40413.041,
+          "predicted_per_token_ms": 110.41814480874316,
+          "predicted_per_second": 9.056482534932227
+        }
+      },
+      "nativeCPUSeconds": 514.265625
+    },
+    {
+      "id": "resolution-04",
+      "sourceSha256": "bb6ac66725c6605c6736de2bdfe1400f1919ac5df1979434e03a7384fd80858b",
+      "kind": "original",
+      "preprocessSeconds": 0.15700000000651926,
+      "transportBytes": 1585771,
+      "transportSha256": "1405b85dbb5383cf4b5ed08fc2221caad0558e2a16ecbda797af482c877ee652",
+      "status": 200,
+      "response": {
+        "version": "1.1.0",
+        "observations": {
+          "image_description": "A close-up photograph of a small, fluffy dog sleeping on a grey fabric surface. The dog is lying on its side, with its head resting on the surface. Its fur is predominantly white with grey and light tan markings, particularly on its ears and face. The dog's ears are large and floppy, and its eyes are closed. The dog is positioned in front of a grey, textured pillow or cushion. The background is a plain, light-colored wall.",
+          "main_visible_objects": [
+            "dog",
+            "pillow",
+            "cushion",
+            "wall"
+          ],
+          "scene_and_surroundings": "The dog is resting on a grey fabric surface, likely a couch or bed, with a textured pillow behind it. The background is a plain wall.",
+          "notable_visual_details": [
+            "The dog is sleeping with its eyes closed.",
+            "The dog's fur is fluffy and has a mix of white, grey, and light tan colors.",
+            "The dog's ears are large and floppy, with long, soft fur.",
+            "The surface the dog is on has a textured, woven pattern.",
+            "The wall in the background is light-colored."
+          ],
+          "uncertainties": [
+            "The dog's breed is not visible.",
+            "The dog's exact position and the type of fabric on the surface are not fully clear."
+          ]
+        },
+        "limitations": "Model-generated observations can be wrong or incomplete. They do not establish identity, location, sensitive attributes, authenticity, or camera metadata.",
+        "model": "Qwen3-VL 2B Instruct Q4_K_M",
+        "elapsedSeconds": 91.38999999998487
+      },
+      "wallSeconds": 91.46799999999348,
+      "raw": {
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "{\n  \"image_description\": \"A close-up photograph of a small, fluffy dog sleeping on a grey fabric surface. The dog is lying on its side, with its head resting on the surface. Its fur is predominantly white with grey and light tan markings, particularly on its ears and face. The dog's ears are large and floppy, and its eyes are closed. The dog is positioned in front of a grey, textured pillow or cushion. The background is a plain, light-colored wall.\",\n  \"main_visible_objects\": [\n    \"dog\",\n    \"pillow\",\n    \"cushion\",\n    \"wall\"\n  ],\n  \"scene_and_surroundings\": \"The dog is resting on a grey fabric surface, likely a couch or bed, with a textured pillow behind it. The background is a plain wall.\",\n  \"notable_visual_details\": [\n    \"The dog is sleeping with its eyes closed.\",\n    \"The dog's fur is fluffy and has a mix of white, grey, and light tan colors.\",\n    \"The dog's ears are large and floppy, with long, soft fur.\",\n    \"The surface the dog is on has a textured, woven pattern.\",\n    \"The wall in the background is light-colored.\"\n  ],\n  \"uncertainties\": [\n    \"The dog's breed is not visible.\",\n    \"The dog's exact position and the type of fabric on the surface are not fully clear.\"\n  ]\n}"
+            }
+          }
+        ],
+        "created": 1792616911,
+        "model": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-ai\\models\\qwen3-vl-2b-instruct\\weights\\model-q4_k_m.gguf",
+        "system_fingerprint": "b1-620d2225c",
+        "object": "chat.completion",
+        "usage": {
+          "completion_tokens": 293,
+          "prompt_tokens": 1392,
+          "total_tokens": 1685,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          }
+        },
+        "id": "chatcmpl-7aMCRLmlVPFLhRKP4tkXcuKYdInoptY8",
+        "timings": {
+          "cache_n": 0,
+          "prompt_n": 1392,
+          "prompt_ms": 61525.718,
+          "prompt_per_token_ms": 44.199510057471265,
+          "prompt_per_second": 22.624685176368033,
+          "predicted_n": 293,
+          "predicted_ms": 29745.059,
+          "predicted_per_token_ms": 101.86664041095891,
+          "predicted_per_second": 9.816756456929534
+        }
+      },
+      "nativeCPUSeconds": 362.3125
+    },
+    {
+      "id": "resolution-05",
+      "sourceSha256": "aff59f0b4150dd5b089adde688b3437aea31129a0067e7916e976c6a3977da27",
+      "kind": "original",
+      "preprocessSeconds": 0.28100000001722947,
+      "transportBytes": 1717778,
+      "transportSha256": "d64310745cc8f7df4360c567994bd09169025746627d12e2d19b21bdde5ae1f9",
+      "status": 200,
+      "response": {
+        "version": "1.1.0",
+        "observations": {
+          "image_description": "A vibrant bird, likely a kingfisher, is captured in mid-action on a thick, gnarled branch. The bird is positioned on the branch, with its wings spread wide, and its beak is open as if it is calling or singing. The bird's head is adorned with a prominent crest, and its feathers display a striking combination of turquoise, orange, and black. The background is a soft, out-of-focus green, suggesting a natural, outdoor setting. The lighting highlights the bird's feathers and the texture of the branch.",
+          "main_visible_objects": [
+            "bird",
+            "branch"
+          ],
+          "scene_and_surroundings": "The bird is perched on a thick, weathered branch in a natural outdoor setting. The background is a soft, out-of-focus green, indicating a natural environment.",
+          "notable_visual_details": [
+            "The bird's wings are spread wide, showing a mix of black, white, and grey feathers.",
+            "The bird's head has a prominent crest, and its feathers are a mix of turquoise, orange, and black.",
+            "The branch is thick and has a rough, textured surface with visible cracks and knots.",
+            "The bird's beak is open, and its eyes are visible.",
+            "The lighting is bright, highlighting the bird's feathers and the texture of the branch."
+          ],
+          "uncertainties": [
+            "The identity of the bird is uncertain.",
+            "The background is a soft, out-of-focus green, but the specific type of vegetation is not visible."
+          ]
+        },
+        "limitations": "Model-generated observations can be wrong or incomplete. They do not establish identity, location, sensitive attributes, authenticity, or camera metadata.",
+        "model": "Qwen3-VL 2B Instruct Q4_K_M",
+        "elapsedSeconds": 122.57800000000861
+      },
+      "wallSeconds": 122.67200000002049,
+      "raw": {
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "{\n  \"image_description\": \"A vibrant bird, likely a kingfisher, is captured in mid-action on a thick, gnarled branch. The bird is positioned on the branch, with its wings spread wide, and its beak is open as if it is calling or singing. The bird's head is adorned with a prominent crest, and its feathers display a striking combination of turquoise, orange, and black. The background is a soft, out-of-focus green, suggesting a natural, outdoor setting. The lighting highlights the bird's feathers and the texture of the branch.\",\n  \"main_visible_objects\": [\n    \"bird\",\n    \"branch\"\n  ],\n  \"scene_and_surroundings\": \"The bird is perched on a thick, weathered branch in a natural outdoor setting. The background is a soft, out-of-focus green, indicating a natural environment.\",\n  \"notable_visual_details\": [\n    \"The bird's wings are spread wide, showing a mix of black, white, and grey feathers.\",\n    \"The bird's head has a prominent crest, and its feathers are a mix of turquoise, orange, and black.\",\n    \"The branch is thick and has a rough, textured surface with visible cracks and knots.\",\n    \"The bird's beak is open, and its eyes are visible.\",\n    \"The lighting is bright, highlighting the bird's feathers and the texture of the branch.\"\n  ],\n  \"uncertainties\": [\n    \"The identity of the bird is uncertain.\",\n    \"The background is a soft, out-of-focus green, but the specific type of vegetation is not visible.\"\n  ]\n}"
+            }
+          }
+        ],
+        "created": 1792617034,
+        "model": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-ai\\models\\qwen3-vl-2b-instruct\\weights\\model-q4_k_m.gguf",
+        "system_fingerprint": "b1-620d2225c",
+        "object": "chat.completion",
+        "usage": {
+          "completion_tokens": 332,
+          "prompt_tokens": 1772,
+          "total_tokens": 2104,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          }
+        },
+        "id": "chatcmpl-oVDe5wBMvA5Ud2dj78KXb5xL5Q2JpFs3",
+        "timings": {
+          "cache_n": 0,
+          "prompt_n": 1772,
+          "prompt_ms": 86180.189,
+          "prompt_per_token_ms": 48.63441817155756,
+          "prompt_per_second": 20.56157013069442,
+          "predicted_n": 332,
+          "predicted_ms": 36279.941,
+          "predicted_per_token_ms": 109.60707250755287,
+          "predicted_per_second": 9.12349885023242
+        }
+      },
+      "nativeCPUSeconds": 486.828125
+    },
+    {
+      "id": "resolution-06",
+      "sourceSha256": "cf3f17d957053ccaf702fb1a0199b0b653adb2f3ce3381aae4cd1eaca86a320d",
+      "kind": "original",
+      "preprocessSeconds": 0.3129999999946449,
+      "transportBytes": 3182164,
+      "transportSha256": "d683b1f7eb8ac46c2b3daf646aeea237e2b1f7c67260b4baf47d9d9613225f61",
+      "status": 200,
+      "response": {
+        "version": "1.1.0",
+        "observations": {
+          "image_description": "A sunny coastal scene featuring several fishing boats docked in a harbor. In the foreground, a white boat with large spools and yellow nets is prominent. Behind it, another white boat with a canopy and fishing gear is visible. The water is dark and calm. In the background, a hillside is covered with a dense cluster of colorful buildings, mostly white and yellow, with red-tiled roofs. The sky is a clear, deep blue. The boats are moored by thick ropes. The scene is brightly lit by the sun, and the overall atmosphere is one of a quiet, sunny day at a coastal village.",
+          "main_visible_objects": [
+            "fishing boats",
+            "rope",
+            "water",
+            "hillside",
+            "buildings",
+            "sky"
+          ],
+          "scene_and_surroundings": "A harbor with fishing boats docked in calm, dark water. The boats are moored by thick ropes. In the background, a hillside is covered with a dense cluster of colorful buildings, mostly white and yellow, with red-tiled roofs. The sky is a clear, deep blue.",
+          "notable_visual_details": [
+            "The boats are white and have various fishing equipment and nets.",
+            "The water is dark and reflects the boats and sky.",
+            "The buildings are clustered on the hillside and have a mix of colors.",
+            "The sky is clear and blue."
+          ],
+          "uncertainties": [
+            "The identity of the boats is uncertain.",
+            "The identity of the buildings is uncertain.",
+            "The identity of the people on the boats is uncertain."
+          ]
+        },
+        "limitations": "Model-generated observations can be wrong or incomplete. They do not establish identity, location, sensitive attributes, authenticity, or camera metadata.",
+        "model": "Qwen3-VL 2B Instruct Q4_K_M",
+        "elapsedSeconds": 128.79699999999139
+      },
+      "wallSeconds": 128.93799999999464,
+      "raw": {
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "{\n  \"image_description\": \"A sunny coastal scene featuring several fishing boats docked in a harbor. In the foreground, a white boat with large spools and yellow nets is prominent. Behind it, another white boat with a canopy and fishing gear is visible. The water is dark and calm. In the background, a hillside is covered with a dense cluster of colorful buildings, mostly white and yellow, with red-tiled roofs. The sky is a clear, deep blue. The boats are moored by thick ropes. The scene is brightly lit by the sun, and the overall atmosphere is one of a quiet, sunny day at a coastal village.\",\n  \"main_visible_objects\": [\n    \"fishing boats\",\n    \"rope\",\n    \"water\",\n    \"hillside\",\n    \"buildings\",\n    \"sky\"\n  ],\n  \"scene_and_surroundings\": \"A harbor with fishing boats docked in calm, dark water. The boats are moored by thick ropes. In the background, a hillside is covered with a dense cluster of colorful buildings, mostly white and yellow, with red-tiled roofs. The sky is a clear, deep blue.\",\n  \"notable_visual_details\": [\n    \"The boats are white and have various fishing equipment and nets.\",\n    \"The water is dark and reflects the boats and sky.\",\n    \"The buildings are clustered on the hillside and have a mix of colors.\",\n    \"The sky is clear and blue.\"\n  ],\n  \"uncertainties\": [\n    \"The identity of the boats is uncertain.\",\n    \"The identity of the buildings is uncertain.\",\n    \"The identity of the people on the boats is uncertain.\"\n  ]\n}"
+            }
+          }
+        ],
+        "created": 1792617164,
+        "model": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-ai\\models\\qwen3-vl-2b-instruct\\weights\\model-q4_k_m.gguf",
+        "system_fingerprint": "b1-620d2225c",
+        "object": "chat.completion",
+        "usage": {
+          "completion_tokens": 345,
+          "prompt_tokens": 1820,
+          "total_tokens": 2165,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          }
+        },
+        "id": "chatcmpl-YIp2In7l2NVjfAFeIocLjWfKr1tWORkA",
+        "timings": {
+          "cache_n": 0,
+          "prompt_n": 1820,
+          "prompt_ms": 90421.808,
+          "prompt_per_token_ms": 49.68231208791209,
+          "prompt_per_second": 20.12788773257,
+          "predicted_n": 345,
+          "predicted_ms": 38186.328,
+          "predicted_per_token_ms": 111.00676744186048,
+          "predicted_per_second": 9.008459781731304
+        }
+      },
+      "nativeCPUSeconds": 511.796875
+    },
+    {
+      "id": "resolution-07",
+      "sourceSha256": "e9e904996ecaf33581f1d58c01fbd69c6ecff4fd2ce9073671e56339039d295f",
+      "kind": "original",
+      "preprocessSeconds": 0.3120000000053551,
+      "transportBytes": 1480228,
+      "transportSha256": "dd1fb4449f2a9b80056cefb048edc6070c516ef43473872fb1d5a3f0529f65f0",
+      "status": 200,
+      "response": {
+        "version": "1.1.0",
+        "observations": {
+          "image_description": "A black and white photograph of a large, rustic kitchen interior. The ceiling is made of exposed wooden beams. The scene is illuminated by several hanging light fixtures, with bright light sources visible. In the foreground, a long wooden counter holds various cooking items, including pots, pans, a colander with food, and a cutting board with what appears to be chopped vegetables. Behind the counter, a wall-mounted rack holds numerous cooking utensils. The background shows a large, dark cooking area with a stove and more kitchen equipment. The overall environment is a functional, utilitarian space with a strong emphasis on wood and metal. The image is a static, unoccupied scene, and the lighting is bright, with some glare from the lights.",
+          "main_visible_objects": [
+            "wooden beams",
+            "light fixtures",
+            "wooden counter",
+            "pots and pans",
+            "colander",
+            "cutting board",
+            "vegetables",
+            "cooking utensils",
+            "stove",
+            "kitchen equipment"
+          ],
+          "scene_and_surroundings": "A large, open kitchen with a high ceiling of exposed wooden beams. The space is filled with cooking equipment and utensils, suggesting it is a functional area for food preparation. The lighting is bright, with several hanging lights, and there is a strong glare from the lights. The overall environment is utilitarian and appears to be a functional kitchen space.",
+          "notable_visual_details": [
+            "The image is in black and white.",
+            "The lighting is bright and there is glare from the lights.",
+            "The wooden counter is long and has a visible grain.",
+            "The background is dark and contains a stove and various kitchen items.",
+            "The scene is unoccupied and static."
+          ],
+          "uncertainties": [
+            "The identity of the cooking equipment and utensils is uncertain.",
+            "The specific type of food in the colander and on the cutting board is uncertain.",
+            "The location of the windows and the exact position of the kitchen equipment is uncertain."
+          ]
+        },
+        "limitations": "Model-generated observations can be wrong or incomplete. They do not establish identity, location, sensitive attributes, authenticity, or camera metadata.",
+        "model": "Qwen3-VL 2B Instruct Q4_K_M",
+        "elapsedSeconds": 163.95300000000861
+      },
+      "wallSeconds": 164.06299999999464,
+      "raw": {
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "{\n  \"image_description\": \"A black and white photograph of a large, rustic kitchen interior. The ceiling is made of exposed wooden beams. The scene is illuminated by several hanging light fixtures, with bright light sources visible. In the foreground, a long wooden counter holds various cooking items, including pots, pans, a colander with food, and a cutting board with what appears to be chopped vegetables. Behind the counter, a wall-mounted rack holds numerous cooking utensils. The background shows a large, dark cooking area with a stove and more kitchen equipment. The overall environment is a functional, utilitarian space with a strong emphasis on wood and metal. The image is a static, unoccupied scene, and the lighting is bright, with some glare from the lights.\",\n  \"main_visible_objects\": [\n    \"wooden beams\",\n    \"light fixtures\",\n    \"wooden counter\",\n    \"pots and pans\",\n    \"colander\",\n    \"cutting board\",\n    \"vegetables\",\n    \"cooking utensils\",\n    \"stove\",\n    \"kitchen equipment\"\n  ],\n  \"scene_and_surroundings\": \"A large, open kitchen with a high ceiling of exposed wooden beams. The space is filled with cooking equipment and utensils, suggesting it is a functional area for food preparation. The lighting is bright, with several hanging lights, and there is a strong glare from the lights. The overall environment is utilitarian and appears to be a functional kitchen space.\",\n  \"notable_visual_details\": [\n    \"The image is in black and white.\",\n    \"The lighting is bright and there is glare from the lights.\",\n    \"The wooden counter is long and has a visible grain.\",\n    \"The background is dark and contains a stove and various kitchen items.\",\n    \"The scene is unoccupied and static.\"\n  ],\n  \"uncertainties\": [\n    \"The identity of the cooking equipment and utensils is uncertain.\",\n    \"The specific type of food in the colander and on the cutting board is uncertain.\",\n    \"The location of the windows and the exact position of the kitchen equipment is uncertain.\"\n  ]\n}"
+            }
+          }
+        ],
+        "created": 1792617328,
+        "model": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-ai\\models\\qwen3-vl-2b-instruct\\weights\\model-q4_k_m.gguf",
+        "system_fingerprint": "b1-620d2225c",
+        "object": "chat.completion",
+        "usage": {
+          "completion_tokens": 434,
+          "prompt_tokens": 2060,
+          "total_tokens": 2494,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          }
+        },
+        "id": "chatcmpl-NSkVBXan5rjeJSNQjsPbGKaHsjAGqz8L",
+        "timings": {
+          "cache_n": 0,
+          "prompt_n": 2060,
+          "prompt_ms": 108722.472,
+          "prompt_per_token_ms": 52.77789902912621,
+          "prompt_per_second": 18.94732489158267,
+          "predicted_n": 434,
+          "predicted_ms": 55044.298,
+          "predicted_per_token_ms": 127.12309006928407,
+          "predicted_per_second": 7.8663915379573
+        }
+      },
+      "nativeCPUSeconds": 648.5
+    },
+    {
+      "id": "resolution-02-dim",
+      "sourceSha256": "de69f8d1d9a9afa2fd37fe91f3da4f6dab579277f290f0fd9812d0069af01825",
+      "kind": "transform",
+      "preprocessSeconds": 0.28099999998812564,
+      "transportBytes": 2125275,
+      "transportSha256": "c0b8d85f35b906a5778c88f164fd66b2cba981d98253b2e644de8d1a00057e26",
+      "status": 200,
+      "response": {
+        "version": "1.1.0",
+        "observations": {
+          "image_description": "An outdoor patio area with a wooden pergola structure. The scene is set on a paved ground, with tables and chairs arranged in a row under the pergola. The chairs are a mix of colors including pink, lime green, black, and white, with a distinctive geometric design. The pergola is supported by thick, dark wooden posts. To the left is a building with a large window and a wooden frame. To the right, there is a small potted evergreen plant in a wooden planter. The background features a large, open grassy field with bare trees, suggesting it is either late fall or early spring. The sky is overcast and gray.",
+          "main_visible_objects": [
+            "tables",
+            "chairs",
+            "pergola",
+            "building",
+            "window",
+            "plant",
+            "paved ground",
+            "trees",
+            "sky"
+          ],
+          "scene_and_surroundings": "An outdoor patio area with a wooden pergola, set on a paved ground. The chairs are arranged in a row under the pergola, with a mix of colors and designs. The background is a large grassy field with bare trees, and the sky is overcast and gray.",
+          "notable_visual_details": [
+            "The chairs have a geometric, lattice-like design.",
+            "The pergola is made of dark wooden beams.",
+            "The building has a large window with a dark frame.",
+            "A small potted evergreen plant is in a wooden planter on the right.",
+            "The ground is paved and appears wet, possibly from rain."
+          ],
+          "uncertainties": [
+            "The identity of the building is not clear.",
+            "The exact location of the building is not visible.",
+            "The presence of a person or activity is not visible."
+          ]
+        },
+        "limitations": "Model-generated observations can be wrong or incomplete. They do not establish identity, location, sensitive attributes, authenticity, or camera metadata.",
+        "model": "Qwen3-VL 2B Instruct Q4_K_M",
+        "elapsedSeconds": 131.03200000000652
+      },
+      "wallSeconds": 131.15700000000652,
+      "raw": {
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "{\n  \"image_description\": \"An outdoor patio area with a wooden pergola structure. The scene is set on a paved ground, with tables and chairs arranged in a row under the pergola. The chairs are a mix of colors including pink, lime green, black, and white, with a distinctive geometric design. The pergola is supported by thick, dark wooden posts. To the left is a building with a large window and a wooden frame. To the right, there is a small potted evergreen plant in a wooden planter. The background features a large, open grassy field with bare trees, suggesting it is either late fall or early spring. The sky is overcast and gray.\",\n  \"main_visible_objects\": [\n    \"tables\",\n    \"chairs\",\n    \"pergola\",\n    \"building\",\n    \"window\",\n    \"plant\",\n    \"paved ground\",\n    \"trees\",\n    \"sky\"\n  ],\n  \"scene_and_surroundings\": \"An outdoor patio area with a wooden pergola, set on a paved ground. The chairs are arranged in a row under the pergola, with a mix of colors and designs. The background is a large grassy field with bare trees, and the sky is overcast and gray.\",\n  \"notable_visual_details\": [\n    \"The chairs have a geometric, lattice-like design.\",\n    \"The pergola is made of dark wooden beams.\",\n    \"The building has a large window with a dark frame.\",\n    \"A small potted evergreen plant is in a wooden planter on the right.\",\n    \"The ground is paved and appears wet, possibly from rain.\"\n  ],\n  \"uncertainties\": [\n    \"The identity of the building is not clear.\",\n    \"The exact location of the building is not visible.\",\n    \"The presence of a person or activity is not visible.\"\n  ]\n}"
+            }
+          }
+        ],
+        "created": 1792617459,
+        "model": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-ai\\models\\qwen3-vl-2b-instruct\\weights\\model-q4_k_m.gguf",
+        "system_fingerprint": "b1-620d2225c",
+        "object": "chat.completion",
+        "usage": {
+          "completion_tokens": 385,
+          "prompt_tokens": 1772,
+          "total_tokens": 2157,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          }
+        },
+        "id": "chatcmpl-HAPR4gS1RNSXTk82n6byipkkfDftla3M",
+        "timings": {
+          "cache_n": 0,
+          "prompt_n": 1772,
+          "prompt_ms": 88733.893,
+          "prompt_per_token_ms": 50.075560383747174,
+          "prompt_per_second": 19.96982145255365,
+          "predicted_n": 385,
+          "predicted_ms": 42167.991,
+          "predicted_per_token_ms": 109.81247656250001,
+          "predicted_per_second": 9.10643336079255
+        }
+      },
+      "nativeCPUSeconds": 518.890625
+    },
+    {
+      "id": "resolution-06-small-blur",
+      "sourceSha256": "d76697e76dfcffefd551406fc9200ea0b6d188c8860ae747fd98f49e6ee78426",
+      "kind": "transform",
+      "preprocessSeconds": 0.0,
+      "transportBytes": 156024,
+      "transportSha256": "e6102c579d2963fb1bd3d65e3be6a6344c4a93d82503a9a867e3fc9cba1cf1cf",
+      "status": 200,
+      "response": {
+        "version": "1.1.0",
+        "observations": {
+          "image_description": "A coastal scene featuring two fishing boats docked in a harbor. The boats are on a calm body of water, with a hillside town built on the shore in the background. The town has buildings with various colors, and the sky is clear and blue. The boats are on a dark surface, and there are ropes connecting them to the dock. The water is dark, and the sky is bright blue.",
+          "main_visible_objects": [
+            "two fishing boats",
+            "a dock",
+            "a hillside town",
+            "a clear blue sky",
+            "a dark surface (likely the water or dock)"
+          ],
+          "scene_and_surroundings": "A harbor with fishing boats, a town on a hillside, and a clear blue sky.",
+          "notable_visual_details": [
+            "The boats are white and have various equipment on them.",
+            "The town has buildings with different colors.",
+            "The water is dark, and the sky is bright blue.",
+            "Ropes are visible, connecting the boats to the dock."
+          ],
+          "uncertainties": [
+            "The identity of the boats is uncertain.",
+            "The identity of the town is uncertain.",
+            "The identity of the dock is uncertain."
+          ]
+        },
+        "limitations": "Model-generated observations can be wrong or incomplete. They do not establish identity, location, sensitive attributes, authenticity, or camera metadata.",
+        "model": "Qwen3-VL 2B Instruct Q4_K_M",
+        "elapsedSeconds": 29.671999999991385
+      },
+      "wallSeconds": 29.687999999994645,
+      "raw": {
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "{\n  \"image_description\": \"A coastal scene featuring two fishing boats docked in a harbor. The boats are on a calm body of water, with a hillside town built on the shore in the background. The town has buildings with various colors, and the sky is clear and blue. The boats are on a dark surface, and there are ropes connecting them to the dock. The water is dark, and the sky is bright blue.\",\n  \"main_visible_objects\": [\n    \"two fishing boats\",\n    \"a dock\",\n    \"a hillside town\",\n    \"a clear blue sky\",\n    \"a dark surface (likely the water or dock)\"\n  ],\n  \"scene_and_surroundings\": \"A harbor with fishing boats, a town on a hillside, and a clear blue sky.\",\n  \"notable_visual_details\": [\n    \"The boats are white and have various equipment on them.\",\n    \"The town has buildings with different colors.\",\n    \"The water is dark, and the sky is bright blue.\",\n    \"Ropes are visible, connecting the boats to the dock.\"\n  ],\n  \"uncertainties\": [\n    \"The identity of the boats is uncertain.\",\n    \"The identity of the town is uncertain.\",\n    \"The identity of the dock is uncertain.\"\n  ]\n}"
+            }
+          }
+        ],
+        "created": 1792617489,
+        "model": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-ai\\models\\qwen3-vl-2b-instruct\\weights\\model-q4_k_m.gguf",
+        "system_fingerprint": "b1-620d2225c",
+        "object": "chat.completion",
+        "usage": {
+          "completion_tokens": 265,
+          "prompt_tokens": 332,
+          "total_tokens": 597,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          }
+        },
+        "id": "chatcmpl-6nYxJ3jtIsF5lMAgQCD77gzx1mFcB53F",
+        "timings": {
+          "cache_n": 0,
+          "prompt_n": 332,
+          "prompt_ms": 9017.02,
+          "prompt_per_token_ms": 27.159698795180724,
+          "prompt_per_second": 36.819259577998054,
+          "predicted_n": 265,
+          "predicted_ms": 20594.522,
+          "predicted_per_token_ms": 78.00955303030304,
+          "predicted_per_second": 12.81894282372759
+        }
+      },
+      "nativeCPUSeconds": 117.109375
+    }
+  ],
+  "systemRAM": 16993001472,
+  "threads": 4,
+  "gpuLayers": 0,
+  "loadingSeconds": 4.094000000011874,
+  "unloadSeconds": 0.7349999999860302,
+  "nativeStopped": true,
+  "peakNativeRSS": 3855085568,
+  "peakNativePrivate": 3070959616
+}

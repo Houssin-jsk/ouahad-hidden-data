@@ -1,0 +1,31 @@
+{
+  "id": "onnx-community/TinyCLIP-ViT-8M-16-Text-3M-YFCC15M-ONNX",
+  "revision": "9463a9c508a344c837ffefe9d724f3827bf2dc79",
+  "records": [
+    {
+      "name": "config.json",
+      "bytes": 850,
+      "sha256": "0ca46b868f12305e959a1cfa2b8085e7bffd521f68769ec3bf2999986b55bec3"
+    },
+    {
+      "name": "preprocessor_config.json",
+      "bytes": 468,
+      "sha256": "5df7e578c37e907a431daf47fd592fc49fa50d23ed4c41285a0a34a58a9d2e06"
+    },
+    {
+      "name": "tokenizer.json",
+      "bytes": 3642073,
+      "sha256": "6d9109cc838977f3ca94a379eec36aecc7c807e1785cd729660ca2fc0171fb35"
+    },
+    {
+      "name": "tokenizer_config.json",
+      "bytes": 726,
+      "sha256": "f97b07bf147d9e4dbdb5f98941d35fc0b9412263a183483f73893adf756ede3e"
+    },
+    {
+      "name": "onnx/model_int8.onnx",
+      "bytes": 24281512,
+      "sha256": "844d1a46ab18acf50c989e541b12fe3b6dc7f8d6004725b4e992d142788e0600"
+    }
+  ]
+}

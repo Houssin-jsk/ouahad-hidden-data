@@ -1,0 +1,9 @@
+# Frozen evaluation protocol
+
+Before fresh inference: the useful question is “Which, if any, of these supported descriptions fits the visible principal content?” Deterministic color/light statistics cannot answer that semantic question. CLIP ranks the existing audited 36 descriptions without prompt changes. MobileNet is assessed for visible ImageNet content only, never relabeled scene understanding. YOLOS is a diagnostic comparison, with no demonstrated product need for boxes.
+
+Sixteen Commons originals were selected by fixed queries, license filter and source order, then visually inspected. Eight calibration and eight test originals are disjoint. Four deterministic degradations remain with test parents and measure stability separately. Historical examples inform selection only. SHA-256, attribution and source responses are retained beside fixtures; no image is a production asset.
+
+Product gates: covered top-one relevance >=80%, top-four >=90%; an acceptance policy must achieve >=90% accepted precision, >=50% coverage of covered examples, and zero unsupported false acceptances. Calibration searches cosine and margin thresholds on calibration only, with no test tuning. A reject-all policy fails coverage. Raw relevance and abstention metrics are reported independently. These are conservative product gates, not statistical certification. Set-valued relevance makes ordinary exclusive-class macro F1 inappropriate; provide descriptive confusion counts and explicit denominators instead. No confidence calibration is justified by this sample.
+
+No model promotion if any essential gate fails. GPU, other engines, physical mobile, native memory peak, production asset caching and Vercel model hosting remain unverified unless actually exercised. Browser WASM runs measure cold/warm initialization, preprocessing, inference, request bytes, heartbeat gaps and limited JS heap. No API calls or personal images are involved.

@@ -11,6 +11,7 @@ export default defineConfig({
     headless: true,
   },
   webServer: {
+    env: { CLOUD_AI_ORIGIN: "http://127.0.0.1:3001" },
     command: "npm run start -- --hostname 127.0.0.1 --port 3001",
     url: "http://127.0.0.1:3001",
     reuseExistingServer: false,

@@ -1,0 +1,77 @@
+{
+  "recordedAt": "2026-10-21T01:49:03.463Z",
+  "phase03": "BLOCKED",
+  "attempt": "Second and final focused attempt",
+  "stopStage": "candidate-eligibility",
+  "selectedModel": null,
+  "modelWeightDownloads": 0,
+  "freshHeldOutImages": 0,
+  "newHeldOutPasses": 0,
+  "newModelInferenceRuns": 0,
+  "categoryThresholdsFitted": 0,
+  "qualityMetrics": null,
+  "approaches": [
+    {
+      "id": "onnx-community/mobilenetv4_conv_small.e2400_r224_in1k",
+      "revision": "3ba07f12712fa58fd6b3d661f9909c9e332c5005",
+      "decision": "Not selected for the narrowed broad-content task; object-family coarsening would need a separately justified and calibrated mapping, and would not establish people or indoor/outdoor support."
+    },
+    {
+      "id": "Xenova/mobileclip_s0",
+      "revision": "757d59c9c6870a76a4b0306f05f5061bca15c39f",
+      "decision": "Stopped before weight download: current upstream research-only model terms and converter's different software license do not substantiate product-use/redistribution clearance for the exact export. No claim of retroactive license applicability is made. Both q8 encoders plus existing runtime exceed the 80MB bound; vision-only inference with precomputed fixed text embeddings could reduce delivery below 50MB but was not implemented or measured and does not resolve licensing."
+    }
+  ],
+  "unitTests": {
+    "passed": 82,
+    "failed": 0,
+    "skipped": 0
+  },
+  "focusedProductionChrome": {
+    "startTime": "2026-10-21T01:47:11.818Z",
+    "duration": 32513.498,
+    "expected": 3,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  },
+  "commandOutcomes": {
+    "metadataAudit": 0,
+    "unitTests": 0,
+    "lint": 0,
+    "typecheck": 0,
+    "productionBuildAndScanner": 0,
+    "focusedBrowser": 0
+  },
+  "releaseIsolation": {
+    "target": "non-AI release",
+    "routes": [
+      "/_global-error/page",
+      "/_not-found/page",
+      "/page"
+    ],
+    "publicFiles": [
+      "public\\brand\\app_icon.png",
+      "public\\brand\\logo_#077F64.png",
+      "public\\brand\\logo_#3590DF.png",
+      "public\\brand\\logo_#F3A339.png",
+      "public\\brand\\logo_black.png",
+      "public\\brand\\Logo_White.png"
+    ],
+    "inspectedOutputFiles": 78,
+    "aiTokensFound": false,
+    "modelAssetsFound": false
+  },
+  "notRerun": [
+    "full 50-case production browser suite",
+    "previous comparison/replay inference",
+    "research build",
+    "GPU and physical mobile benchmarks",
+    "Vercel connector/CLI requests"
+  ],
+  "productionIntegrated": false,
+  "productionModified": false,
+  "committed": false,
+  "pushed": false,
+  "phase04Started": false
+}

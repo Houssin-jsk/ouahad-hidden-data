@@ -1,0 +1,1070 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 10,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "18448011": {
+        "pageid": 18448011,
+        "ns": 6,
+        "title": "File:HK 灣仔道 Wan Chai Road 興記 Hing Kee shop - 雞公茶壺 Cock Teapots Feb-2012.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1880022,
+            "width": 2592,
+            "height": 1936,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/HK_%E7%81%A3%E4%BB%94%E9%81%93_Wan_Chai_Road_%E8%88%88%E8%A8%98_Hing_Kee_shop_-_%E9%9B%9E%E5%85%AC%E8%8C%B6%E5%A3%BA_Cock_Teapots_Feb-2012.jpg/960px-HK_%E7%81%A3%E4%BB%94%E9%81%93_Wan_Chai_Road_%E8%88%88%E8%A8%98_Hing_Kee_shop_-_%E9%9B%9E%E5%85%AC%E8%8C%B6%E5%A3%BA_Cock_Teapots_Feb-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 574,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/HK_%E7%81%A3%E4%BB%94%E9%81%93_Wan_Chai_Road_%E8%88%88%E8%A8%98_Hing_Kee_shop_-_%E9%9B%9E%E5%85%AC%E8%8C%B6%E5%A3%BA_Cock_Teapots_Feb-2012.jpg/1920px-HK_%E7%81%A3%E4%BB%94%E9%81%93_Wan_Chai_Road_%E8%88%88%E8%A8%98_Hing_Kee_shop_-_%E9%9B%9E%E5%85%AC%E8%8C%B6%E5%A3%BA_Cock_Teapots_Feb-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/HK_%E7%81%A3%E4%BB%94%E9%81%93_Wan_Chai_Road_%E8%88%88%E8%A8%98_Hing_Kee_shop_-_%E9%9B%9E%E5%85%AC%E8%8C%B6%E5%A3%BA_Cock_Teapots_Feb-2012.jpg/960px-HK_%E7%81%A3%E4%BB%94%E9%81%93_Wan_Chai_Road_%E8%88%88%E8%A8%98_Hing_Kee_shop_-_%E9%9B%9E%E5%85%AC%E8%8C%B6%E5%A3%BA_Cock_Teapots_Feb-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 574,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/HK_%E7%81%A3%E4%BB%94%E9%81%93_Wan_Chai_Road_%E8%88%88%E8%A8%98_Hing_Kee_shop_-_%E9%9B%9E%E5%85%AC%E8%8C%B6%E5%A3%BA_Cock_Teapots_Feb-2012.jpg/1920px-HK_%E7%81%A3%E4%BB%94%E9%81%93_Wan_Chai_Road_%E8%88%88%E8%A8%98_Hing_Kee_shop_-_%E9%9B%9E%E5%85%AC%E8%8C%B6%E5%A3%BA_Cock_Teapots_Feb-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/HK_%E7%81%A3%E4%BB%94%E9%81%93_Wan_Chai_Road_%E8%88%88%E8%A8%98_Hing_Kee_shop_-_%E9%9B%9E%E5%85%AC%E8%8C%B6%E5%A3%BA_Cock_Teapots_Feb-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_%E7%81%A3%E4%BB%94%E9%81%93_Wan_Chai_Road_%E8%88%88%E8%A8%98_Hing_Kee_shop_-_%E9%9B%9E%E5%85%AC%E8%8C%B6%E5%A3%BA_Cock_Teapots_Feb-2012.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=18448011",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2012-02-21 04:47:25",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK 灣仔道 Wan Chai Road 興記 Hing Kee shop - 雞公茶壺 Cock Teapots Feb-2012",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Displays for sale in China|Kitchenware of China|Teapots from China|Taken with iPhone 4|Self-published work|White teapots|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2012-02-20|Photographs by Anonymous Hong Kong Photographer 1|Roosters in pottery|2012 in Wan Chai Road|Hing Kee (shop)|Displays for sale in Wan Chai Road",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.276833",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.176000",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://zh.wikipedia.org/wiki/%E7%81%A3%E4%BB%94%E9%81%93\" class=\"extiw\" title=\"zh:灣仔道\">灣仔道</a> <a href=\"https://zh.wikipedia.org/wiki/%E8%88%88%E8%A8%98\" class=\"extiw\" title=\"zh:興記\">興記</a>, Hing Kee shop in Wan Chai Road, Hong Kong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2012-02-20",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Lantingche\" title=\"User:Lantingche\">Lantingche</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "21994027": {
+        "pageid": 21994027,
+        "ns": 6,
+        "title": "File:HK Sheung Wan 98 Bonham Strand shop products Tableware 3 teapots Oct-2012.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 10155,
+            "width": 200,
+            "height": 150,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/HK_Sheung_Wan_98_Bonham_Strand_shop_products_Tableware_3_teapots_Oct-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/HK_Sheung_Wan_98_Bonham_Strand_shop_products_Tableware_3_teapots_Oct-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/HK_Sheung_Wan_98_Bonham_Strand_shop_products_Tableware_3_teapots_Oct-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_Sheung_Wan_98_Bonham_Strand_shop_products_Tableware_3_teapots_Oct-2012.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=21994027",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2012-10-10 03:07:34",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK Sheung Wan 98 Bonham Strand shop products Tableware 3 teapots Oct-2012",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Kitchenware of China|Taken with Samsung Galaxy Pocket|Self-published work|Red tableware|Hong Kong photographs taken on 2012-10-10|White teapots|Ceramic tea pots|Photographs by Anonymous Hong Kong Photographer 1|Products in Hong Kong market|98 Bonham Strand|Displays for sale in Central and Western District|Displays for sale in Sheung Wan|Household products in Hong Kong market|October 2012 in Bonham Strand",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://zh.wikipedia.org/wiki/%E4%B8%8A%E7%92%B0\" class=\"extiw\" title=\"zh:上環\">zh:上環</a><a href=\"https://zh.wikipedia.org/wiki/%E6%96%87%E5%92%B8%E6%9D%B1%E8%A1%97\" class=\"extiw\" title=\"zh:文咸東街\">文咸東街</a>98號, 山貨店商品, Shop goods at Bonham Strand, Sheung Wan, Hong Kong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2012-10-10 10:55:09",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Kathysgareo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Kathysgareo (page does not exist)\">Kathysgareo</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "21994032": {
+        "pageid": 21994032,
+        "ns": 6,
+        "title": "File:HK Sheung Wan 98 Bonham Strand shop products Tableware big red cock teapots Oct-2012.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7265,
+            "width": 200,
+            "height": 150,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/6/68/HK_Sheung_Wan_98_Bonham_Strand_shop_products_Tableware_big_red_cock_teapots_Oct-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/6/68/HK_Sheung_Wan_98_Bonham_Strand_shop_products_Tableware_big_red_cock_teapots_Oct-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/HK_Sheung_Wan_98_Bonham_Strand_shop_products_Tableware_big_red_cock_teapots_Oct-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_Sheung_Wan_98_Bonham_Strand_shop_products_Tableware_big_red_cock_teapots_Oct-2012.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=21994032",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2012-10-10 03:07:37",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK Sheung Wan 98 Bonham Strand shop products Tableware big red cock teapots Oct-2012",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Kitchenware of China|Taken with Samsung Galaxy Pocket|Self-published work|Hong Kong photographs taken on 2012-10-10|White teapots|Ceramic tea pots|Photographs by Anonymous Hong Kong Photographer 1|Red Cock in art|Birds on ceramics|Cocks in ceramic|Products in Hong Kong market|98 Bonham Strand|Displays for sale in Central and Western District|Displays for sale in Sheung Wan|Household products in Hong Kong market|October 2012 in Bonham Strand",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://zh.wikipedia.org/wiki/%E4%B8%8A%E7%92%B0\" class=\"extiw\" title=\"zh:上環\">zh:上環</a><a href=\"https://zh.wikipedia.org/wiki/%E6%96%87%E5%92%B8%E6%9D%B1%E8%A1%97\" class=\"extiw\" title=\"zh:文咸東街\">文咸東街</a>98號, 山貨店商品, Shop goods at Bonham Strand, Sheung Wan, Hong Kong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2012-10-10 10:55:15",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Kathysgareo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Kathysgareo (page does not exist)\">Kathysgareo</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "21994051": {
+        "pageid": 21994051,
+        "ns": 6,
+        "title": "File:HK Sheung Wan 98 Bonham Strand shop products Tableware teapots Oct-2012.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8099,
+            "width": 200,
+            "height": 150,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/HK_Sheung_Wan_98_Bonham_Strand_shop_products_Tableware_teapots_Oct-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/a/ac/HK_Sheung_Wan_98_Bonham_Strand_shop_products_Tableware_teapots_Oct-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/HK_Sheung_Wan_98_Bonham_Strand_shop_products_Tableware_teapots_Oct-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_Sheung_Wan_98_Bonham_Strand_shop_products_Tableware_teapots_Oct-2012.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=21994051",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2012-10-10 03:07:53",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK Sheung Wan 98 Bonham Strand shop products Tableware teapots Oct-2012",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Kitchenware of China|Taken with Samsung Galaxy Pocket|Self-published work|Hong Kong photographs taken on 2012-10-10|Ceramic tea pots|Photographs by Anonymous Hong Kong Photographer 1|Red Cock in art|Birds on ceramics|Cocks in ceramic|98 Bonham Strand|Displays for sale in Central and Western District|Displays for sale in Sheung Wan|Household products in Hong Kong market|October 2012 in Bonham Strand",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://zh.wikipedia.org/wiki/%E4%B8%8A%E7%92%B0\" class=\"extiw\" title=\"zh:上環\">zh:上環</a><a href=\"https://zh.wikipedia.org/wiki/%E6%96%87%E5%92%B8%E6%9D%B1%E8%A1%97\" class=\"extiw\" title=\"zh:文咸東街\">文咸東街</a>98號, 山貨店商品, Shop goods at Bonham Strand, Sheung Wan, Hong Kong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2012-10-10 10:56:16",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Kathysgareo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Kathysgareo (page does not exist)\">Kathysgareo</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "21994052": {
+        "pageid": 21994052,
+        "ns": 6,
+        "title": "File:HK Sheung Wan 98 Bonham Strand shop products Tableware teapots big cock Oct-2012.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 10299,
+            "width": 200,
+            "height": 150,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/9/98/HK_Sheung_Wan_98_Bonham_Strand_shop_products_Tableware_teapots_big_cock_Oct-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/HK_Sheung_Wan_98_Bonham_Strand_shop_products_Tableware_teapots_big_cock_Oct-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/HK_Sheung_Wan_98_Bonham_Strand_shop_products_Tableware_teapots_big_cock_Oct-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_Sheung_Wan_98_Bonham_Strand_shop_products_Tableware_teapots_big_cock_Oct-2012.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=21994052",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2012-10-10 03:07:53",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK Sheung Wan 98 Bonham Strand shop products Tableware teapots big cock Oct-2012",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Kitchenware of China|Taken with Samsung Galaxy Pocket|Self-published work|Hong Kong photographs taken on 2012-10-10|White teapots|Ceramic tea pots|Photographs by Anonymous Hong Kong Photographer 1|Red Cock in art|Birds on ceramics|Cocks in ceramic|98 Bonham Strand|Displays for sale in Central and Western District|Displays for sale in Sheung Wan|Household products in Hong Kong market|October 2012 in Bonham Strand",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://zh.wikipedia.org/wiki/%E4%B8%8A%E7%92%B0\" class=\"extiw\" title=\"zh:上環\">zh:上環</a><a href=\"https://zh.wikipedia.org/wiki/%E6%96%87%E5%92%B8%E6%9D%B1%E8%A1%97\" class=\"extiw\" title=\"zh:文咸東街\">文咸東街</a>98號, 山貨店商品, Shop goods at Bonham Strand, Sheung Wan, Hong Kong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2012-10-10 10:56:08",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Kathysgareo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Kathysgareo (page does not exist)\">Kathysgareo</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "21994053": {
+        "pageid": 21994053,
+        "ns": 6,
+        "title": "File:HK Sheung Wan 98 Bonham Strand shop products Teapots Oct-2012.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 10560,
+            "width": 200,
+            "height": 150,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/HK_Sheung_Wan_98_Bonham_Strand_shop_products_Teapots_Oct-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/b/b5/HK_Sheung_Wan_98_Bonham_Strand_shop_products_Teapots_Oct-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/HK_Sheung_Wan_98_Bonham_Strand_shop_products_Teapots_Oct-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_Sheung_Wan_98_Bonham_Strand_shop_products_Teapots_Oct-2012.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=21994053",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2012-10-10 03:07:56",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK Sheung Wan 98 Bonham Strand shop products Teapots Oct-2012",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Kitchenware of China|Taken with Samsung Galaxy Pocket|Self-published work|Hong Kong photographs taken on 2012-10-10|Ceramic tea pots|Photographs by Anonymous Hong Kong Photographer 1|98 Bonham Strand|Displays for sale in Central and Western District|Displays for sale in Sheung Wan|Household products in Hong Kong market|October 2012 in Bonham Strand",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://zh.wikipedia.org/wiki/%E4%B8%8A%E7%92%B0\" class=\"extiw\" title=\"zh:上環\">zh:上環</a><a href=\"https://zh.wikipedia.org/wiki/%E6%96%87%E5%92%B8%E6%9D%B1%E8%A1%97\" class=\"extiw\" title=\"zh:文咸東街\">文咸東街</a>98號, 山貨店商品, Shop goods at Bonham Strand, Sheung Wan, Hong Kong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2012-10-10 10:56:27",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Kathysgareo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Kathysgareo (page does not exist)\">Kathysgareo</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "21994054": {
+        "pageid": 21994054,
+        "ns": 6,
+        "title": "File:HK Sheung Wan 98 Bonham Strand shop products Teapots white Oct-2012.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8643,
+            "width": 200,
+            "height": 150,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/3/35/HK_Sheung_Wan_98_Bonham_Strand_shop_products_Teapots_white_Oct-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/3/35/HK_Sheung_Wan_98_Bonham_Strand_shop_products_Teapots_white_Oct-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/HK_Sheung_Wan_98_Bonham_Strand_shop_products_Teapots_white_Oct-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_Sheung_Wan_98_Bonham_Strand_shop_products_Teapots_white_Oct-2012.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=21994054",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2012-10-10 03:07:57",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK Sheung Wan 98 Bonham Strand shop products Teapots white Oct-2012",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Kitchenware of China|Taken with Samsung Galaxy Pocket|Self-published work|Hong Kong photographs taken on 2012-10-10|Ceramic tea pots|Photographs by Anonymous Hong Kong Photographer 1|98 Bonham Strand|Displays for sale in Central and Western District|Displays for sale in Sheung Wan|Household products in Hong Kong market|October 2012 in Bonham Strand",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://zh.wikipedia.org/wiki/%E4%B8%8A%E7%92%B0\" class=\"extiw\" title=\"zh:上環\">zh:上環</a><a href=\"https://zh.wikipedia.org/wiki/%E6%96%87%E5%92%B8%E6%9D%B1%E8%A1%97\" class=\"extiw\" title=\"zh:文咸東街\">文咸東街</a>98號, 山貨店商品, Shop goods at Bonham Strand, Sheung Wan, Hong Kong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2012-10-10 10:56:28",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Kathysgareo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Kathysgareo (page does not exist)\">Kathysgareo</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "64210995": {
+        "pageid": 64210995,
+        "ns": 6,
+        "title": "File:Teapots on Display in Empress Hotel Gift Shop - Victoria - BC - Canada (16664043299) (2).jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3125650,
+            "width": 3648,
+            "height": 2736,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Teapots_on_Display_in_Empress_Hotel_Gift_Shop_-_Victoria_-_BC_-_Canada_%2816664043299%29_%282%29.jpg/960px-Teapots_on_Display_in_Empress_Hotel_Gift_Shop_-_Victoria_-_BC_-_Canada_%2816664043299%29_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Teapots_on_Display_in_Empress_Hotel_Gift_Shop_-_Victoria_-_BC_-_Canada_%2816664043299%29_%282%29.jpg/1920px-Teapots_on_Display_in_Empress_Hotel_Gift_Shop_-_Victoria_-_BC_-_Canada_%2816664043299%29_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Teapots_on_Display_in_Empress_Hotel_Gift_Shop_-_Victoria_-_BC_-_Canada_%2816664043299%29_%282%29.jpg/960px-Teapots_on_Display_in_Empress_Hotel_Gift_Shop_-_Victoria_-_BC_-_Canada_%2816664043299%29_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Teapots_on_Display_in_Empress_Hotel_Gift_Shop_-_Victoria_-_BC_-_Canada_%2816664043299%29_%282%29.jpg/1920px-Teapots_on_Display_in_Empress_Hotel_Gift_Shop_-_Victoria_-_BC_-_Canada_%2816664043299%29_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Teapots_on_Display_in_Empress_Hotel_Gift_Shop_-_Victoria_-_BC_-_Canada_%2816664043299%29_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Teapots_on_Display_in_Empress_Hotel_Gift_Shop_-_Victoria_-_BC_-_Canada_(16664043299)_(2).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=64210995",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-11-20 17:34:56",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Teapots on Display in Empress Hotel Gift Shop - Victoria - BC - Canada (16664043299) (2)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Tea pots|Shops in Victoria, British Columbia|Photographs by Adam Jones|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Colourful objects in Canada|Gift shops in Canada|Interior of the Fairmont Empress|March 2015 in Victoria, British Columbia",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "48.421343",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-123.367583",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Teapots on Display in Empress Hotel Gift Shop - Victoria - BC - Canada",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-03-13 12:38",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/adam_jones/16664043299/\">Teapots on Display in Empress Hotel Gift Shop - Victoria - BC - Canada</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/41000732@N04\">Adam Jones</a> from Kelowna, BC, Canada",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "113912101": {
+        "pageid": 113912101,
+        "ns": 6,
+        "title": "File:Types of Teapots (19069527384).jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7242254,
+            "width": 5472,
+            "height": 3648,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Types_of_Teapots_%2819069527384%29.jpg/960px-Types_of_Teapots_%2819069527384%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 512,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Types_of_Teapots_%2819069527384%29.jpg/1920px-Types_of_Teapots_%2819069527384%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Types_of_Teapots_%2819069527384%29.jpg/960px-Types_of_Teapots_%2819069527384%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 512,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Types_of_Teapots_%2819069527384%29.jpg/1920px-Types_of_Teapots_%2819069527384%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Types_of_Teapots_%2819069527384%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Types_of_Teapots_(19069527384).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=113912101",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-01-02 11:39:00",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Types of Teapots (19069527384)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Flickr images reviewed by FlickreviewR 2|Shop window displays in London",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Seen in a shop window in Sandwich.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-06-03 18:57",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/garryknight/19069527384/\">Types of Teapots</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/8176740@N05\">Garry Knight</a> from London, England",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "129788227": {
+        "pageid": 129788227,
+        "ns": 6,
+        "title": "File:Shop that has goods on display in front of it and in the street, NINO F Scholten photographic print 12 079.tiff",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 18558692,
+            "width": 2872,
+            "height": 2151,
+            "pagecount": 1,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Shop_that_has_goods_on_display_in_front_of_it_and_in_the_street%2C_NINO_F_Scholten_photographic_print_12_079.tiff/lossy-page1-960px-Shop_that_has_goods_on_display_in_front_of_it_and_in_the_street%2C_NINO_F_Scholten_photographic_print_12_079.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 575,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Shop_that_has_goods_on_display_in_front_of_it_and_in_the_street%2C_NINO_F_Scholten_photographic_print_12_079.tiff/lossy-page1-1920px-Shop_that_has_goods_on_display_in_front_of_it_and_in_the_street%2C_NINO_F_Scholten_photographic_print_12_079.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Shop_that_has_goods_on_display_in_front_of_it_and_in_the_street%2C_NINO_F_Scholten_photographic_print_12_079.tiff/lossy-page1-960px-Shop_that_has_goods_on_display_in_front_of_it_and_in_the_street%2C_NINO_F_Scholten_photographic_print_12_079.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 575,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Shop_that_has_goods_on_display_in_front_of_it_and_in_the_street%2C_NINO_F_Scholten_photographic_print_12_079.tiff/lossy-page1-1920px-Shop_that_has_goods_on_display_in_front_of_it_and_in_the_street%2C_NINO_F_Scholten_photographic_print_12_079.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Shop_that_has_goods_on_display_in_front_of_it_and_in_the_street%2C_NINO_F_Scholten_photographic_print_12_079.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shop_that_has_goods_on_display_in_front_of_it_and_in_the_street,_NINO_F_Scholten_photographic_print_12_079.tiff",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=129788227",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-03-20 15:21:38",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Shop that has goods on display in front of it and in the street, NINO F Scholten photographic print 12 079",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US expired|Author died more than 80 years ago public domain images|CC-PD-Mark|Photographs by Frank Scholten",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<table class=\"wikitable unsortable\">\n\n\n\n<tbody><tr>\n<th>Extent\n</th>\n<td>electronic resource\n</td></tr>\n<tr>\n<th>Title\n</th>\n<td>Shop that has goods on display in front of it and in the street, NINO F Scholten photographic print 12: 079\n</td></tr>\n<tr>\n<th>Creator/other\n</th>\n<td>Scholten, Frank (1881-1942)\n</td></tr>\n<tr>\n<th>Shelfmark\n</th>\n<td>NINO F Scholten photographic print 12: 079\n</td></tr>\n<tr>\n<th>Subject (topical)\n</th>\n<td>Black-and-white prints (photographs)Townscapes (representations)<br>Street scenes<br>Shops (retail spaces)<br>Crates<br>Teapots<br>\n</td></tr>\n<tr>\n<th>Subject (geographic)\n</th>\n<td>Palestine (historical region)Tel Aviv-Jaffa<br>\n</td></tr>\n<tr>\n<th>Note\n</th>\n<td>Matching negative: NINO F Scholten Tel Aviv 051-100: 36. During this period, Frank Scholten visited Jaffa/Tel Aviv 29 times. The duration of his visits varied from a day to two months. The negative belonging to this photographic print was annotated with \"Tel Aviv 51 - 100 (76 b will follow) mankeert 97\". Handwriting on negative.<br>Title devised from content by Library Staff. Sizes are derived from the negative; Photographic print is a section of that.<br>\n</td></tr>\n<tr>\n<th>Reference\n</th>\n<td>T.L. Kwiecień, ‘Frank Scholten’, in: Fotolexicon, vol. 25, nr. 40, <a rel=\"nofollow\" class=\"external free\" href=\"https://depthoffield.universiteitleiden.nl/2540f05en/S\">https://depthoffield.universiteitleiden.nl/2540f05en/S</a>. Zananiri, ‘Frank Scholten. Landschap in het Brits Mandaat Palestina’, in: Fotografisch Geheugen 96 (2018) 3, pages 26-30<br>S. Zananiri, ‘Documenting the Social: Frank Scholten Taxonomising Identity in British Mandate Palestine', in: K.S. Sanchez Summerer and S. Zananiri (eds.), Imaging and Imagining Palestine. Leiden 2021, pages 266-306<br>\n</td></tr>\n<tr>\n<th>Language\n</th>\n<td>No linguistic content\n</td></tr>\n<tr>\n<th>Country\n</th>\n<td>Netherlands\n</td></tr>\n<tr>\n<th>Published/created\n</th>\n<td>[Between 08 June 1921 and 30 November 1923]\n</td></tr>\n<tr>\n<th>Persistent URL\n</th>\n<td><a rel=\"nofollow\" class=\"external free\" href=\"http://hdl.handle.net/1887.1/item:3472311\">http://hdl.handle.net/1887.1/item:3472311</a>\n</td></tr>\n<tr>\n<th>Published (digital)\n</th>\n<td>Leiden University Libraries,\n</td></tr></tbody></table>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Between 08 June 1921 and 30 November 1923",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://hdl.handle.net/1887.1/item:3472311\">http://hdl.handle.net/1887.1/item:3472311</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Frank Scholten",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

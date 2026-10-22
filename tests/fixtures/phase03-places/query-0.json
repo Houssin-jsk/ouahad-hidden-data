@@ -1,0 +1,1165 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 10,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "34500843": {
+        "pageid": 34500843,
+        "ns": 6,
+        "title": "File:Third floor, room 307, perspective view of free-standing, broken pediment and reception desk - Virginia State Capitol, Bank and 10th Streets, Capitol Square, Richmond, HABS VA,44-RICH,9-127.tif",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 20825250,
+            "width": 3884,
+            "height": 5361,
+            "pagecount": 1,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Third_floor%2C_room_307%2C_perspective_view_of_free-standing%2C_broken_pediment_and_reception_desk_-_Virginia_State_Capitol%2C_Bank_and_10th_Streets%2C_Capitol_Square%2C_Richmond%2C_HABS_VA%2C44-RICH%2C9-127.tif/lossy-page1-960px-thumbnail.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1060,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Third_floor%2C_room_307%2C_perspective_view_of_free-standing%2C_broken_pediment_and_reception_desk_-_Virginia_State_Capitol%2C_Bank_and_10th_Streets%2C_Capitol_Square%2C_Richmond%2C_HABS_VA%2C44-RICH%2C9-127.tif/lossy-page1-1920px-thumbnail.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Third_floor%2C_room_307%2C_perspective_view_of_free-standing%2C_broken_pediment_and_reception_desk_-_Virginia_State_Capitol%2C_Bank_and_10th_Streets%2C_Capitol_Square%2C_Richmond%2C_HABS_VA%2C44-RICH%2C9-127.tif/lossy-page1-960px-thumbnail.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1060,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Third_floor%2C_room_307%2C_perspective_view_of_free-standing%2C_broken_pediment_and_reception_desk_-_Virginia_State_Capitol%2C_Bank_and_10th_Streets%2C_Capitol_Square%2C_Richmond%2C_HABS_VA%2C44-RICH%2C9-127.tif/lossy-page1-1920px-thumbnail.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Third_floor%2C_room_307%2C_perspective_view_of_free-standing%2C_broken_pediment_and_reception_desk_-_Virginia_State_Capitol%2C_Bank_and_10th_Streets%2C_Capitol_Square%2C_Richmond%2C_HABS_VA%2C44-RICH%2C9-127.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Third_floor,_room_307,_perspective_view_of_free-standing,_broken_pediment_and_reception_desk_-_Virginia_State_Capitol,_Bank_and_10th_Streets,_Capitol_Square,_Richmond,_HABS_VA,44-RICH,9-127.tif",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=34500843",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-08-04 10:04:52",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nThird floor, room 307, perspective view of free-standing, broken pediment and reception desk - Virginia State Capitol, Bank and 10th Streets, Capitol Square, Richmond, Independent City, VA</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Images uploaded by Fæ|PD US NPS|Files from the Historic American Buildings Survey|Reception desks|GWToolset Batch Upload|Virginia State Capitol interior",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Jack_Boucher\" class=\"extiw\" title=\"w:en:Jack Boucher\"><span title=\"American photographer\">Jack Boucher</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\nJefferson, Thomas; Noland and Baskervill; Frey and Chesterman; Peebles; Schwan, Lynda, transmitter; Price, Virginia B, transmitter; Price, Virginia B, transmitter</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2005",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.loc.gov/pictures/item/va1498.photos.217063p\">https://www.loc.gov/pictures/item/va1498.photos.217063p</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td><i>This image or media file contains material based on a work of a <a href=\"https://en.wikipedia.org/wiki/National_Park_Service\" class=\"extiw\" title=\"w:National Park Service\">National Park Service</a> employee, created as part of that person's official duties. As a <a href=\"https://en.wikipedia.org/wiki/Work_of_the_United_States_Government\" class=\"extiw\" title=\"w:Work of the United States Government\">work</a> of the <a href=\"https://en.wikipedia.org/wiki/Federal_Government_of_the_United_States\" class=\"extiw\" title=\"w:Federal Government of the United States\">U.S. federal government</a>, such work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"w:public domain\">public domain</a></b> in the United States. See the <a rel=\"nofollow\" class=\"external text\" href=\"https://www.nps.gov/\">NPS website</a> and <a rel=\"nofollow\" class=\"external text\" href=\"https://www.nps.gov/aboutus/disclaimer.htm\">NPS copyright policy</a> for more information.</i>\n</td>\n<td><figure class=\"mw-halign-right\" typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_of_the_United_States_National_Park_Service.svg/60px-Logo_of_the_United_States_National_Park_Service.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"52\" height=\"68\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_of_the_United_States_National_Park_Service.svg/120px-Logo_of_the_United_States_National_Park_Service.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"553\" data-file-height=\"720\"></span><figcaption></figcaption></figure>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "52300756": {
+        "pageid": 52300756,
+        "ns": 6,
+        "title": "File:Telegram Building (1900-1963); interior, sporting writer's room (20521568086).jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 741743,
+            "width": 1659,
+            "height": 1920,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Telegram_Building_%281900-1963%29%3B_interior%2C_sporting_writer%27s_room_%2820521568086%29.jpg/960px-Telegram_Building_%281900-1963%29%3B_interior%2C_sporting_writer%27s_room_%2820521568086%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 889,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Telegram_Building_%281900-1963%29%3B_interior%2C_sporting_writer%27s_room_%2820521568086%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Telegram_Building_%281900-1963%29%3B_interior%2C_sporting_writer%27s_room_%2820521568086%29.jpg/960px-Telegram_Building_%281900-1963%29%3B_interior%2C_sporting_writer%27s_room_%2820521568086%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 889,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Telegram_Building_%281900-1963%29%3B_interior%2C_sporting_writer%27s_room_%2820521568086%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Telegram_Building_%281900-1963%29%3B_interior%2C_sporting_writer%27s_room_%2820521568086%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Telegram_Building_(1900-1963);_interior,_sporting_writer%27s_room_(20521568086).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=52300756",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-10-16 12:18:13",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Telegram Building (1900-1963); interior, sporting writer's room (20521568086)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Sports in Toronto|Sports media|Flickr images reviewed by FlickreviewR|1904 in Toronto|Offices in Canada|Desks in Ontario|Rolltop desks in Canada|Toronto Telegram",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<p>This room was used by the Sports columnist at the Toronto Telegram in 1904. Far from the Cubicluar Splendour of the modern office, at least it was well-lit and the nibs remained sharp. With our thanks to all the journalists covering the ParaPan-Am games and to the athletes they are covering. \n</p><p><b>Creator:</b> Unknown\n<b>Date: </b> 1904\n<b>Identifier:</b> B 4-72b \n<b>Format:</b> Picture\n<b>Rights:</b> Public domain\n<b>Courtesy:</b>  <a rel=\"nofollow\" class=\"external text\" href=\"http://www.torontopubliclibrary.ca/digital-archive/\">Toronto Public Library</a>. \n</p>\n<b>More information:</b>  <a rel=\"nofollow\" class=\"external text\" href=\"http://www.torontopubliclibrary.ca/detail.jsp?Entt=RDMDC-PICTURES-R-6051&amp;R=DC-PICTURES-R-6051\">(view details and larger image)</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-08-13 15:50",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/43021516@N06/20521568086/\">Telegram Building (1900-1963); interior, sporting writer's room</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/43021516@N06\">Special Collections Toronto Public Library</a> from Toronto, Canada",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "90139518": {
+        "pageid": 90139518,
+        "ns": 6,
+        "title": "File:Statute Hall or the Modern Register Office (BM 1860,0623.23).jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 642064,
+            "width": 1600,
+            "height": 1188,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Statute_Hall_or_the_Modern_Register_Office_%28BM_1860%2C0623.23%29.jpg/960px-Statute_Hall_or_the_Modern_Register_Office_%28BM_1860%2C0623.23%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 570,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Statute_Hall_or_the_Modern_Register_Office_%28BM_1860%2C0623.23%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Statute_Hall_or_the_Modern_Register_Office_%28BM_1860%2C0623.23%29.jpg/960px-Statute_Hall_or_the_Modern_Register_Office_%28BM_1860%2C0623.23%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 570,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Statute_Hall_or_the_Modern_Register_Office_%28BM_1860%2C0623.23%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Statute_Hall_or_the_Modern_Register_Office_%28BM_1860%2C0623.23%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Statute_Hall_or_the_Modern_Register_Office_(BM_1860,0623.23).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=90139518",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-05-13 00:27:11",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nStatute Hall or the Modern Register Office</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Matthew Darly|Artworks without Wikidata item|PD-old-100-expired|PD-scan (PD-old-100-expired)|Artworks with known accession number|CC-PD-Mark|Satirical prints in the British Museum|Uploads by copyfraud",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\n<p>Published by: Matthew Darly\n</p>\n<dl><dd>Published by: Robert Sayer</dd></dl></div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "The interior of a statute hall, where servants would be hired; to the right a man seated behind a desk with a number of papers upon it; along the back wall are a number of posters detailing help wanted and beneath each poster is the employers negotiate with potential new servants; at the centre a gentleman is touching the breast of his new potential maid;\n<br>Etching and engraving",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "circa 1769<div style=\"display: none;\">date QS:P571,+1769-00-00T00:00:00Z/9,P1480,Q5727902</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.britishmuseum.org/collection/object/P_1860-0623-23\">https://www.britishmuseum.org/collection/object/P_1860-0623-23</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "© The Trustees of the British Museum, released as CC BY-NC-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "138420215": {
+        "pageid": 138420215,
+        "ns": 6,
+        "title": "File:Reception desks of Amantaka luxury Resort & Hotel in Luang Prabang Laos.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5887215,
+            "width": 6270,
+            "height": 4180,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/960px-Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 512,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/1920px-Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/960px-Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 512,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/1920px-Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=138420215",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-10-03 02:04:09",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Reception desks of Amantaka luxury Resort & Hotel in Luang Prabang Laos",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS 5D Mark IV and Canon EF 11-24mm F4L USM|Amantaka Hotel|Self-published work|Hotel lobbies in Laos|Interiors of hotels in Laos|Files with coordinates missing SDC location of creation|Hotels photographed in 2023|Photographs by Basile Morin|Symmetry impressions of building interiors|Long exposure photography in architecture|Vertical symmetry impressions|2023 in Luang Prabang Province|Hotel furniture - Chairs|Hotel furniture - Tables|Hotel lamps|Hotel doors",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "19.886563",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "102.135283",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Reception desks (<a href=\"https://en.wikipedia.org/wiki/Front_office\" class=\"extiw\" title=\"en:Front office\">front office</a>) of <b><a href=\"https://en.wikipedia.org/wiki/Amantaka\" class=\"extiw\" title=\"en:Amantaka\">Amantaka</a></b> luxury resort and hotel in <a href=\"https://en.wikipedia.org/wiki/Luang_Prabang\" class=\"extiw\" title=\"en:Luang Prabang\">Luang Prabang</a>, <a href=\"https://en.wikipedia.org/wiki/Laos\" class=\"extiw\" title=\"en:Laos\">Laos</a>. Amantaka is one of the 34 properties operated by <a href=\"https://en.wikipedia.org/wiki/Aman_Resorts\" class=\"extiw\" title=\"en:Aman Resorts\">Aman Resorts</a>, hospitality company founded by Indonesian hotelier <a href=\"https://en.wikipedia.org/wiki/Adrian_Zecha\" class=\"extiw\" title=\"en:Adrian Zecha\">Adrian Zecha</a> in 1988, present in more than 20 countries. The hotel, located in a French colonial building, opened in September 2009. A boutique hotel, it contains 24 lavish suites, encircling a central courtyard and is designed with a mixture of traditional Lao furnishings and modern. <a rel=\"nofollow\" class=\"external text\" href=\"https://www.aman.com/resorts/amantaka/accommodation/suites\">The suites</a> range in size from 70 to 120 square metres and include eight suites, four pool suites, eight Khan pool suites, two Mekong pool suites and two Amantaka pool suites. All of the rooms have a king-sized bed centre of the suites beneath a traditional high ceiling. They are painted in white and have mahogany or dark wood furnishings and windows. The rooms are reported to be between 1,100 USD and 1,900 USD a night.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-09-18 17:24:30",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Basile_Morin\" title=\"User:Basile Morin\">Basile Morin</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "142127098": {
+        "pageid": 142127098,
+        "ns": 6,
+        "title": "File:United States Post Office, Assembly Street and Taylor Street, Columbia, SC.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9004003,
+            "width": 5462,
+            "height": 4096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC.jpg/960px-United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC.jpg/1920px-United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC.jpg/960px-United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC.jpg/1920px-United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:United_States_Post_Office,_Assembly_Street_and_Taylor_Street,_Columbia,_SC.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=142127098",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-12-13 19:29:55",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "United States Post Office, Assembly Street and Taylor Street, Columbia, SC",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|United States Post Office (Columbia, South Carolina)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "34.006108",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-81.038003",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Built in 1966, this Modern International-style building was designed by Lyles, Bissett, Carlisle and Wolff to serve as the main Post Office for the city of Columbia, with the building’s design taking advantage of the site’s topography.  The site includes a smaller one-story red brick structure and a large parking area surrounding the building at a dramatically lower elevation than the surrounding streets to the east and south, and a sloped concrete bridge, which serves as a ramp that connects this parking area to Taylor Street.  The building features a large base with few windows that houses a mail processing facility, with a recessed lower section of the facade with red brick cladding and exposed concrete columns with tapered upper sections, a concrete-clad upper section with concrete panels in a vertical pattern, and a roof surrounded by a low concrete parapet, connected to the surrounding streets with concrete bridges, which is home to a parking lot and plazas with planters.  The upper section of the building is a simple Miesian structure with a metal exterior structure featuring columns and a metal panel-clad parapet, a curtain wall with bronze-colored glass cladding, and large, open interior offices on the second floor, and a mail lobby with post office boxes and a customer service desk on the first floor.  The building is a notable example of modern architecture, which takes advantage of a dramatically sloped site, and is an excellent example of the influence of Mies van der Rohe on modern architecture, being similar in many respects to the Neue Nationalgalerie in Berlin, Germany.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-11-25 13:08:21",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/59081381@N03/53396028614/\">https://www.flickr.com/photos/59081381@N03/53396028614/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "w_lemay",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "142127111": {
+        "pageid": 142127111,
+        "ns": 6,
+        "title": "File:United States Post Office, Assembly Street and Taylor Street, Columbia, SC - 53396154105.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9766983,
+            "width": 4025,
+            "height": 5367,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53396154105.jpg/960px-United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53396154105.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1024,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53396154105.jpg/1920px-United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53396154105.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53396154105.jpg/960px-United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53396154105.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1024,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53396154105.jpg/1920px-United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53396154105.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53396154105.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:United_States_Post_Office,_Assembly_Street_and_Taylor_Street,_Columbia,_SC_-_53396154105.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=142127111",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-12-13 19:30:01",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "United States Post Office, Assembly Street and Taylor Street, Columbia, SC - 53396154105",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|United States Post Office (Columbia, South Carolina)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "34.006119",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-81.038008",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Built in 1966, this Modern International-style building was designed by Lyles, Bissett, Carlisle and Wolff to serve as the main Post Office for the city of Columbia, with the building’s design taking advantage of the site’s topography.  The site includes a smaller one-story red brick structure and a large parking area surrounding the building at a dramatically lower elevation than the surrounding streets to the east and south, and a sloped concrete bridge, which serves as a ramp that connects this parking area to Taylor Street.  The building features a large base with few windows that houses a mail processing facility, with a recessed lower section of the facade with red brick cladding and exposed concrete columns with tapered upper sections, a concrete-clad upper section with concrete panels in a vertical pattern, and a roof surrounded by a low concrete parapet, connected to the surrounding streets with concrete bridges, which is home to a parking lot and plazas with planters.  The upper section of the building is a simple Miesian structure with a metal exterior structure featuring columns and a metal panel-clad parapet, a curtain wall with bronze-colored glass cladding, and large, open interior offices on the second floor, and a mail lobby with post office boxes and a customer service desk on the first floor.  The building is a notable example of modern architecture, which takes advantage of a dramatically sloped site, and is an excellent example of the influence of Mies van der Rohe on modern architecture, being similar in many respects to the Neue Nationalgalerie in Berlin, Germany.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-11-25 13:08:28",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/59081381@N03/53396154105/\">https://www.flickr.com/photos/59081381@N03/53396154105/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "w_lemay",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "142127126": {
+        "pageid": 142127126,
+        "ns": 6,
+        "title": "File:United States Post Office, Assembly Street and Taylor Street, Columbia, SC - 53396155360.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2902430,
+            "width": 3970,
+            "height": 2977,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53396155360.jpg/960px-United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53396155360.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53396155360.jpg/1920px-United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53396155360.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53396155360.jpg/960px-United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53396155360.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53396155360.jpg/1920px-United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53396155360.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53396155360.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:United_States_Post_Office,_Assembly_Street_and_Taylor_Street,_Columbia,_SC_-_53396155360.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=142127126",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-12-13 19:30:08",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "United States Post Office, Assembly Street and Taylor Street, Columbia, SC - 53396155360",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|United States Post Office (Columbia, South Carolina)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "34.006428",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-81.037994",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Built in 1966, this Modern International-style building was designed by Lyles, Bissett, Carlisle and Wolff to serve as the main Post Office for the city of Columbia, with the building’s design taking advantage of the site’s topography.  The site includes a smaller one-story red brick structure and a large parking area surrounding the building at a dramatically lower elevation than the surrounding streets to the east and south, and a sloped concrete bridge, which serves as a ramp that connects this parking area to Taylor Street.  The building features a large base with few windows that houses a mail processing facility, with a recessed lower section of the facade with red brick cladding and exposed concrete columns with tapered upper sections, a concrete-clad upper section with concrete panels in a vertical pattern, and a roof surrounded by a low concrete parapet, connected to the surrounding streets with concrete bridges, which is home to a parking lot and plazas with planters.  The upper section of the building is a simple Miesian structure with a metal exterior structure featuring columns and a metal panel-clad parapet, a curtain wall with bronze-colored glass cladding, and large, open interior offices on the second floor, and a mail lobby with post office boxes and a customer service desk on the first floor.  The building is a notable example of modern architecture, which takes advantage of a dramatically sloped site, and is an excellent example of the influence of Mies van der Rohe on modern architecture, being similar in many respects to the Neue Nationalgalerie in Berlin, Germany.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-11-25 13:07:45",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/59081381@N03/53396155360/\">https://www.flickr.com/photos/59081381@N03/53396155360/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "w_lemay",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "142127137": {
+        "pageid": 142127137,
+        "ns": 6,
+        "title": "File:United States Post Office, Assembly Street and Taylor Street, Columbia, SC - 53395908583.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6274516,
+            "width": 5614,
+            "height": 4210,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53395908583.jpg/960px-United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53395908583.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53395908583.jpg/1920px-United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53395908583.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53395908583.jpg/960px-United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53395908583.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53395908583.jpg/1920px-United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53395908583.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53395908583.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:United_States_Post_Office,_Assembly_Street_and_Taylor_Street,_Columbia,_SC_-_53395908583.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=142127137",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-12-13 19:30:15",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "United States Post Office, Assembly Street and Taylor Street, Columbia, SC - 53395908583",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|United States Post Office (Columbia, South Carolina)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "34.006656",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-81.038208",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Built in 1966, this Modern International-style building was designed by Lyles, Bissett, Carlisle and Wolff to serve as the main Post Office for the city of Columbia, with the building’s design taking advantage of the site’s topography.  The site includes a smaller one-story red brick structure and a large parking area surrounding the building at a dramatically lower elevation than the surrounding streets to the east and south, and a sloped concrete bridge, which serves as a ramp that connects this parking area to Taylor Street.  The building features a large base with few windows that houses a mail processing facility, with a recessed lower section of the facade with red brick cladding and exposed concrete columns with tapered upper sections, a concrete-clad upper section with concrete panels in a vertical pattern, and a roof surrounded by a low concrete parapet, connected to the surrounding streets with concrete bridges, which is home to a parking lot and plazas with planters.  The upper section of the building is a simple Miesian structure with a metal exterior structure featuring columns and a metal panel-clad parapet, a curtain wall with bronze-colored glass cladding, and large, open interior offices on the second floor, and a mail lobby with post office boxes and a customer service desk on the first floor.  The building is a notable example of modern architecture, which takes advantage of a dramatically sloped site, and is an excellent example of the influence of Mies van der Rohe on modern architecture, being similar in many respects to the Neue Nationalgalerie in Berlin, Germany.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-11-25 13:07:07",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/59081381@N03/53395908583/\">https://www.flickr.com/photos/59081381@N03/53395908583/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "w_lemay",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "142127144": {
+        "pageid": 142127144,
+        "ns": 6,
+        "title": "File:United States Post Office, Assembly Street and Taylor Street, Columbia, SC - 53395720641.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7308769,
+            "width": 5712,
+            "height": 4284,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53395720641.jpg/960px-United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53395720641.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53395720641.jpg/1920px-United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53395720641.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53395720641.jpg/960px-United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53395720641.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53395720641.jpg/1920px-United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53395720641.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53395720641.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:United_States_Post_Office,_Assembly_Street_and_Taylor_Street,_Columbia,_SC_-_53395720641.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=142127144",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-12-13 19:30:19",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "United States Post Office, Assembly Street and Taylor Street, Columbia, SC - 53395720641",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|United States Post Office (Columbia, South Carolina)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "34.007042",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-81.038369",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Built in 1966, this Modern International-style building was designed by Lyles, Bissett, Carlisle and Wolff to serve as the main Post Office for the city of Columbia, with the building’s design taking advantage of the site’s topography.  The site includes a smaller one-story red brick structure and a large parking area surrounding the building at a dramatically lower elevation than the surrounding streets to the east and south, and a sloped concrete bridge, which serves as a ramp that connects this parking area to Taylor Street.  The building features a large base with few windows that houses a mail processing facility, with a recessed lower section of the facade with red brick cladding and exposed concrete columns with tapered upper sections, a concrete-clad upper section with concrete panels in a vertical pattern, and a roof surrounded by a low concrete parapet, connected to the surrounding streets with concrete bridges, which is home to a parking lot and plazas with planters.  The upper section of the building is a simple Miesian structure with a metal exterior structure featuring columns and a metal panel-clad parapet, a curtain wall with bronze-colored glass cladding, and large, open interior offices on the second floor, and a mail lobby with post office boxes and a customer service desk on the first floor.  The building is a notable example of modern architecture, which takes advantage of a dramatically sloped site, and is an excellent example of the influence of Mies van der Rohe on modern architecture, being similar in many respects to the Neue Nationalgalerie in Berlin, Germany.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-11-25 13:06:39",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/59081381@N03/53395720641/\">https://www.flickr.com/photos/59081381@N03/53395720641/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "w_lemay",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "142127159": {
+        "pageid": 142127159,
+        "ns": 6,
+        "title": "File:United States Post Office, Assembly Street and Taylor Street, Columbia, SC - 53395722421.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 10617002,
+            "width": 4210,
+            "height": 5614,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53395722421.jpg/960px-United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53395722421.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1024,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53395722421.jpg/1920px-United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53395722421.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53395722421.jpg/960px-United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53395722421.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1024,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53395722421.jpg/1920px-United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53395722421.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/United_States_Post_Office%2C_Assembly_Street_and_Taylor_Street%2C_Columbia%2C_SC_-_53395722421.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:United_States_Post_Office,_Assembly_Street_and_Taylor_Street,_Columbia,_SC_-_53395722421.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=142127159",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-12-13 19:30:29",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "United States Post Office, Assembly Street and Taylor Street, Columbia, SC - 53395722421",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|United States Post Office (Columbia, South Carolina)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "34.007817",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-81.038567",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Built in 1966, this Modern International-style building was designed by Lyles, Bissett, Carlisle and Wolff to serve as the main Post Office for the city of Columbia, with the building’s design taking advantage of the site’s topography.  The site includes a smaller one-story red brick structure and a large parking area surrounding the building at a dramatically lower elevation than the surrounding streets to the east and south, and a sloped concrete bridge, which serves as a ramp that connects this parking area to Taylor Street.  The building features a large base with few windows that houses a mail processing facility, with a recessed lower section of the facade with red brick cladding and exposed concrete columns with tapered upper sections, a concrete-clad upper section with concrete panels in a vertical pattern, and a roof surrounded by a low concrete parapet, connected to the surrounding streets with concrete bridges, which is home to a parking lot and plazas with planters.  The upper section of the building is a simple Miesian structure with a metal exterior structure featuring columns and a metal panel-clad parapet, a curtain wall with bronze-colored glass cladding, and large, open interior offices on the second floor, and a mail lobby with post office boxes and a customer service desk on the first floor.  The building is a notable example of modern architecture, which takes advantage of a dramatically sloped site, and is an excellent example of the influence of Mies van der Rohe on modern architecture, being similar in many respects to the Neue Nationalgalerie in Berlin, Germany.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-11-25 13:05:35",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/59081381@N03/53395722421/\">https://www.flickr.com/photos/59081381@N03/53395722421/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "w_lemay",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

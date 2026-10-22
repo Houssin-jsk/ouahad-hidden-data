@@ -1,0 +1,1031 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 10,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "76138726": {
+        "pageid": 76138726,
+        "ns": 6,
+        "title": "File:Shankaraji Narayan Sachiv's handwritten letter 01.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1081636,
+            "width": 1264,
+            "height": 2187,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Shankaraji_Narayan_Sachiv%27s_handwritten_letter_01.jpg/960px-Shankaraji_Narayan_Sachiv%27s_handwritten_letter_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1329,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Shankaraji_Narayan_Sachiv%27s_handwritten_letter_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Shankaraji_Narayan_Sachiv%27s_handwritten_letter_01.jpg/960px-Shankaraji_Narayan_Sachiv%27s_handwritten_letter_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1329,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Shankaraji_Narayan_Sachiv%27s_handwritten_letter_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Shankaraji_Narayan_Sachiv%27s_handwritten_letter_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shankaraji_Narayan_Sachiv%27s_handwritten_letter_01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=76138726",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-01-27 14:26:17",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Shankaraji Narayan Sachiv's handwritten letter 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD India|Modi script|Images by pratishkhedekar|PD-old missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Shankaraji Narayan Sachiv's handwritten letter",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1941-01-01",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p>महाराष्ट्राचा पत्ररूप इतिहास (१९४१)\n- द वि आपटे आणि रा वि ओतुरकर\n</p>\n<a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/stream/BharatvarshiyMadhyayuginCharitrakoshCropped/MaharashtrachaPatraroopItihas_cropped\">https://archive.org/stream/BharatvarshiyMadhyayuginCharitrakoshCropped/MaharashtrachaPatraroopItihas_cropped</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Shankaraji Narayan Sachiv",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "76138730": {
+        "pageid": 76138730,
+        "ns": 6,
+        "title": "File:Shankaraji Narayan Sachiv's handwritten letter 02.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 254034,
+            "width": 1396,
+            "height": 2183,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Shankaraji_Narayan_Sachiv%27s_handwritten_letter_02.jpg/960px-Shankaraji_Narayan_Sachiv%27s_handwritten_letter_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1201,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/4/45/Shankaraji_Narayan_Sachiv%27s_handwritten_letter_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Shankaraji_Narayan_Sachiv%27s_handwritten_letter_02.jpg/960px-Shankaraji_Narayan_Sachiv%27s_handwritten_letter_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1201,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/4/45/Shankaraji_Narayan_Sachiv%27s_handwritten_letter_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Shankaraji_Narayan_Sachiv%27s_handwritten_letter_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shankaraji_Narayan_Sachiv%27s_handwritten_letter_02.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=76138730",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-01-27 14:26:37",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Shankaraji Narayan Sachiv's handwritten letter 02",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD India|Modi script|Images by pratishkhedekar|PD-old missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Shankaraji Narayan Sachiv's handwritten letter",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1941-01-01",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p>महाराष्ट्राचा पत्ररूप इतिहास (१९४१)\n- द वि आपटे आणि रा वि ओतुरकर</p>\n<a rel=\"mw:ExtLink nofollow\" href=\"https://archive.org/stream/BharatvarshiyMadhyayuginCharitrakoshCropped/MaharashtrachaPatraroopItihas_cropped\" class=\"external free\">https://archive.org/stream/BharatvarshiyMadhyayuginCharitrakoshCropped/MaharashtrachaPatraroopItihas_cropped</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Shankaraji Narayan Sachiv",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "76138767": {
+        "pageid": 76138767,
+        "ns": 6,
+        "title": "File:Balaji Vishwanath's handwritten letter 01.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 850830,
+            "width": 1112,
+            "height": 1853,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Balaji_Vishwanath%27s_handwritten_letter_01.jpg/960px-Balaji_Vishwanath%27s_handwritten_letter_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Balaji_Vishwanath%27s_handwritten_letter_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Balaji_Vishwanath%27s_handwritten_letter_01.jpg/960px-Balaji_Vishwanath%27s_handwritten_letter_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1280,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Balaji_Vishwanath%27s_handwritten_letter_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Balaji_Vishwanath%27s_handwritten_letter_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Balaji_Vishwanath%27s_handwritten_letter_01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=76138767",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-01-27 14:27:57",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Balaji Vishwanath's handwritten letter 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Balaji Vishwanath|PD India|Modi script|Images by pratishkhedekar|PD-old missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Balaji Vishwanath's handwritten letter",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1941-01-01",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p>महाराष्ट्राचा पत्ररूप इतिहास (१९४१)\n- द वि आपटे आणि रा वि ओतुरकर\n</p>\n<a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/stream/BharatvarshiyMadhyayuginCharitrakoshCropped/MaharashtrachaPatraroopItihas_cropped\">https://archive.org/stream/BharatvarshiyMadhyayuginCharitrakoshCropped/MaharashtrachaPatraroopItihas_cropped</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Balaji Vishwanath",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "76138768": {
+        "pageid": 76138768,
+        "ns": 6,
+        "title": "File:Balaji Vishwanath's handwritten letter 02.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 154445,
+            "width": 1342,
+            "height": 2117,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Balaji_Vishwanath%27s_handwritten_letter_02.jpg/960px-Balaji_Vishwanath%27s_handwritten_letter_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1212,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Balaji_Vishwanath%27s_handwritten_letter_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Balaji_Vishwanath%27s_handwritten_letter_02.jpg/960px-Balaji_Vishwanath%27s_handwritten_letter_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1212,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Balaji_Vishwanath%27s_handwritten_letter_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Balaji_Vishwanath%27s_handwritten_letter_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Balaji_Vishwanath%27s_handwritten_letter_02.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=76138768",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-01-27 14:27:57",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Balaji Vishwanath's handwritten letter 02",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Balaji Vishwanath|PD India|Modi script|Images by pratishkhedekar|PD-old missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Balaji Vishwanath's handwritten letter",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1941-01-01",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p>महाराष्ट्राचा पत्ररूप इतिहास (१९४१)\n- द वि आपटे आणि रा वि ओतुरकर\n</p>\n<a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/stream/BharatvarshiyMadhyayuginCharitrakoshCropped/MaharashtrachaPatraroopItihas_cropped\">https://archive.org/stream/BharatvarshiyMadhyayuginCharitrakoshCropped/MaharashtrachaPatraroopItihas_cropped</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Balaji Vishwanath",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "76138849": {
+        "pageid": 76138849,
+        "ns": 6,
+        "title": "File:Madhavrao Peshwa's handwritten letter 01.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 288196,
+            "width": 1400,
+            "height": 2204,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Madhavrao_Peshwa%27s_handwritten_letter_01.jpg/960px-Madhavrao_Peshwa%27s_handwritten_letter_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1209,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Madhavrao_Peshwa%27s_handwritten_letter_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Madhavrao_Peshwa%27s_handwritten_letter_01.jpg/960px-Madhavrao_Peshwa%27s_handwritten_letter_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1209,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Madhavrao_Peshwa%27s_handwritten_letter_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Madhavrao_Peshwa%27s_handwritten_letter_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Madhavrao_Peshwa%27s_handwritten_letter_01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=76138849",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-01-27 14:30:55",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Madhavrao Peshwa's handwritten letter 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD India|Modi script|Images by pratishkhedekar|PD-old missing SDC copyright status|Madhav Rao",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Madhavrao Peshwa's handwritten letter",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1941-01-01",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p>महाराष्ट्राचा पत्ररूप इतिहास (१९४१)\n- द वि आपटे आणि रा वि ओतुरकर\n</p>\n<a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/stream/BharatvarshiyMadhyayuginCharitrakoshCropped/MaharashtrachaPatraroopItihas_cropped\">https://archive.org/stream/BharatvarshiyMadhyayuginCharitrakoshCropped/MaharashtrachaPatraroopItihas_cropped</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Madhavrao I",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "76138850": {
+        "pageid": 76138850,
+        "ns": 6,
+        "title": "File:Madhavrao Peshwa's handwritten letter 02.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 302307,
+            "width": 1338,
+            "height": 2196,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Madhavrao_Peshwa%27s_handwritten_letter_02.jpg/960px-Madhavrao_Peshwa%27s_handwritten_letter_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1260,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Madhavrao_Peshwa%27s_handwritten_letter_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Madhavrao_Peshwa%27s_handwritten_letter_02.jpg/960px-Madhavrao_Peshwa%27s_handwritten_letter_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1260,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Madhavrao_Peshwa%27s_handwritten_letter_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Madhavrao_Peshwa%27s_handwritten_letter_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Madhavrao_Peshwa%27s_handwritten_letter_02.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=76138850",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-01-27 14:30:56",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Madhavrao Peshwa's handwritten letter 02",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD India|Modi script|Images by pratishkhedekar|PD-old missing SDC copyright status|Madhav Rao",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Madhavrao Peshwa's handwritten letter",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1941-01-01",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p>महाराष्ट्राचा पत्ररूप इतिहास (१९४१)\n- द वि आपटे आणि रा वि ओतुरकर\n</p>\n<a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/stream/BharatvarshiyMadhyayuginCharitrakoshCropped/MaharashtrachaPatraroopItihas_cropped\">https://archive.org/stream/BharatvarshiyMadhyayuginCharitrakoshCropped/MaharashtrachaPatraroopItihas_cropped</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Madhavrao I",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "76143814": {
+        "pageid": 76143814,
+        "ns": 6,
+        "title": "File:Handwritten letter of Nana Phadnavis.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1155206,
+            "width": 1454,
+            "height": 2267,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Handwritten_letter_of_Nana_Phadnavis.jpg/960px-Handwritten_letter_of_Nana_Phadnavis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1197,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/6/63/Handwritten_letter_of_Nana_Phadnavis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Handwritten_letter_of_Nana_Phadnavis.jpg/960px-Handwritten_letter_of_Nana_Phadnavis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1197,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/6/63/Handwritten_letter_of_Nana_Phadnavis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Handwritten_letter_of_Nana_Phadnavis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Handwritten_letter_of_Nana_Phadnavis.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=76143814",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-01-27 17:54:49",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Handwritten letter of Nana Phadnavis",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD India|Nana Fadnavis|Modi script|Images by pratishkhedekar|PD-old missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Handwritten letter of Nana Phadnavis",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1950-09-01",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p>मंत्र्युत्तम नाना फडणवीस उत्सवपन्नाशी व शकावली\n- के. बी. जोशी (१९५०)\n</p>\n<a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/stream/BharatvarshiyMadhyayuginCharitrakoshCropped/MantryuttamNanaLadanvisUtsavPannashiVaShakavli_cropped\">https://archive.org/stream/BharatvarshiyMadhyayuginCharitrakoshCropped/MantryuttamNanaLadanvisUtsavPannashiVaShakavli_cropped</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<span lang=\"en\">Anonymous</span><span style=\"display:none\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "126540909": {
+        "pageid": 126540909,
+        "ns": 6,
+        "title": "File:Handwritten letter of Guru Gobind Singh 03.png",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2003506,
+            "width": 971,
+            "height": 1263,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Handwritten_letter_of_Guru_Gobind_Singh_03.png/960px-Handwritten_letter_of_Guru_Gobind_Singh_03.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 999,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Handwritten_letter_of_Guru_Gobind_Singh_03.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Handwritten_letter_of_Guru_Gobind_Singh_03.png/960px-Handwritten_letter_of_Guru_Gobind_Singh_03.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 999,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Handwritten_letter_of_Guru_Gobind_Singh_03.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Handwritten_letter_of_Guru_Gobind_Singh_03.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Handwritten_letter_of_Guru_Gobind_Singh_03.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=126540909",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-12-12 00:46:44",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Handwritten letter of Guru Gobind Singh 03",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Gurmukhi|Sikh scriptures|PD Old|PD-scan (PD-old-70)|CC-PD-Mark|Letters of the 1690s|Punjabi-language manuscripts|Gurmukhi letters|Gurmukhi manuscripts",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Handwritten letter of Guru Gobind Singh and his scribe. \"Signatures of Guru Gobind Singh Sahib on the Hukumnama to Bhai Triloka and Bhai Rama from the family of Phul - also known as the Patiala Hukumnama-includes the line 'Tera ghar mera assey' - later used as the 'Motto' on the crest of the Patiala Maharajas (2 August 1696).\" (quote taken from Patshahi10.com\n\n<hr>\n\nMeaning of the word \"nishan\" (Punjabi ਨੀਸਾਣੁ neeshaaṇ meaning sign, mark, insignia of approval, spelled in Gurbani as ਨੀਸਾਣੁ, and colloquially as ਨਿਸ਼ਾਨ): nishan/nisan/neeshan, a signature/autograph of the Sikh gurus or other prominent Sikhs, often by scribing the Mul Mantar [perhaps as some sort of authentication measure of the specific manuscript it is written in] but not always being the Mul Mantar.)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1696-08-02",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p>1) <a rel=\"mw:ExtLink nofollow\" href=\"https://www.sikhsangat.com/index.php?/topic/84825-guru-gobind-singh-ji-beautiful-handwriting/\" class=\"external free\">https://www.sikhsangat.com/index.php?/topic/84825-guru-gobind-singh-ji-beautiful-handwriting/</a></p>\n\n2) <a rel=\"mw:ExtLink nofollow\" href=\"http://patshahi10.com/glimpse-of-bani-written-in-guru-gobind-singh-sahibs-own-handwriting\" class=\"external free\">http://patshahi10.com/glimpse-of-bani-written-in-guru-gobind-singh-sahibs-own-handwriting</a> (page four)",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Guru Gobind Singh and his scribe",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "126540913": {
+        "pageid": 126540913,
+        "ns": 6,
+        "title": "File:Handwritten letter of Guru Gobind Singh 01.png",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1933100,
+            "width": 978,
+            "height": 1218,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Handwritten_letter_of_Guru_Gobind_Singh_01.png/960px-Handwritten_letter_of_Guru_Gobind_Singh_01.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 956,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/7/75/Handwritten_letter_of_Guru_Gobind_Singh_01.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Handwritten_letter_of_Guru_Gobind_Singh_01.png/960px-Handwritten_letter_of_Guru_Gobind_Singh_01.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 956,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/75/Handwritten_letter_of_Guru_Gobind_Singh_01.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Handwritten_letter_of_Guru_Gobind_Singh_01.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Handwritten_letter_of_Guru_Gobind_Singh_01.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=126540913",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-12-12 00:46:47",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Handwritten letter of Guru Gobind Singh 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Gurmukhi|Sikhism|Sikh scriptures|PD Old|PD-scan (PD-old-70)|CC-PD-Mark|Letters of the 1690s|Punjabi-language manuscripts|PD-old missing SDC copyright status|Gurmukhi letters|Gurmukhi manuscripts",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Handwritten letter of Guru Gobind Singh and his scribe. \"Signatures of Guru Gobind Singh Sahib on the Hukumnama to Bhai Triloka and Bhai Rama from the family of Phul - also known as the Patiala Hukumnama-includes the line 'Tera ghar mera assey' - later used as the 'Motto' on the crest of the Patiala Maharajas (2 August 1696).\" (quote taken from Patshahi10.com\n<hr>\nMeaning of the word \"nishan\" (Punjabi ਨੀਸਾਣੁ neeshaaṇ meaning sign, mark, insignia of approval, spelled in Gurbani as ਨੀਸਾਣੁ, and colloquially as ਨਿਸ਼ਾਨ): nishan/nisan/neeshan, a signature/autograph of the Sikh gurus or other prominent Sikhs, often by scribing the Mul Mantar [perhaps as some sort of authentication measure of the specific manuscript it is written in] but not always being the Mul Mantar.)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1696-08-02",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p>1) <a rel=\"nofollow\" class=\"external free\" href=\"https://www.sikhsangat.com/index.php?/topic/84825-guru-gobind-singh-ji-beautiful-handwriting/\">https://www.sikhsangat.com/index.php?/topic/84825-guru-gobind-singh-ji-beautiful-handwriting/</a>\n</p>\n2) <a rel=\"nofollow\" class=\"external free\" href=\"http://patshahi10.com/glimpse-of-bani-written-in-guru-gobind-singh-sahibs-own-handwriting\">http://patshahi10.com/glimpse-of-bani-written-in-guru-gobind-singh-sahibs-own-handwriting</a> (page four)",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Guru Gobind Singh and his scribe",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "126540918": {
+        "pageid": 126540918,
+        "ns": 6,
+        "title": "File:Handwritten letter of Guru Gobind Singh 02.png",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2161436,
+            "width": 1026,
+            "height": 1294,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Handwritten_letter_of_Guru_Gobind_Singh_02.png/960px-Handwritten_letter_of_Guru_Gobind_Singh_02.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 969,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/7/77/Handwritten_letter_of_Guru_Gobind_Singh_02.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Handwritten_letter_of_Guru_Gobind_Singh_02.png/960px-Handwritten_letter_of_Guru_Gobind_Singh_02.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 969,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/77/Handwritten_letter_of_Guru_Gobind_Singh_02.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Handwritten_letter_of_Guru_Gobind_Singh_02.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Handwritten_letter_of_Guru_Gobind_Singh_02.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=126540918",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-12-12 00:46:52",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Handwritten letter of Guru Gobind Singh 02",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Gurmukhi|Sikh scriptures|PD Old|PD-scan (PD-old-70)|CC-PD-Mark|Letters of the 1690s|Punjabi-language manuscripts|PD-old missing SDC copyright status|Gurmukhi letters|Gurmukhi manuscripts",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Handwritten letter of Guru Gobind Singh and his scribe. \"Signatures of Guru Gobind Singh Sahib on the Hukumnama to Bhai Triloka and Bhai Rama from the family of Phul - also known as the Patiala Hukumnama-includes the line 'Tera ghar mera assey' - later used as the 'Motto' on the crest of the Patiala Maharajas (2 August 1696).\" (quote taken from Patshahi10.com\n<hr>\nMeaning of the word \"nishan\" (Punjabi ਨੀਸਾਣੁ neeshaaṇ meaning sign, mark, insignia of approval, spelled in Gurbani as ਨੀਸਾਣੁ, and colloquially as ਨਿਸ਼ਾਨ): nishan/nisan/neeshan, a signature/autograph of the Sikh gurus or other prominent Sikhs, often by scribing the Mul Mantar [perhaps as some sort of authentication measure of the specific manuscript it is written in] but not always being the Mul Mantar.)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1696-08-02",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p>1) <a rel=\"nofollow\" class=\"external free\" href=\"https://www.sikhsangat.com/index.php?/topic/84825-guru-gobind-singh-ji-beautiful-handwriting/\">https://www.sikhsangat.com/index.php?/topic/84825-guru-gobind-singh-ji-beautiful-handwriting/</a>\n</p>\n2) <a rel=\"nofollow\" class=\"external free\" href=\"http://patshahi10.com/glimpse-of-bani-written-in-guru-gobind-singh-sahibs-own-handwriting\">http://patshahi10.com/glimpse-of-bani-written-in-guru-gobind-singh-sahibs-own-handwriting</a> (page four)",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Guru Gobind Singh and his scribe",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

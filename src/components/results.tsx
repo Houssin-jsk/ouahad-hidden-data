@@ -6,6 +6,8 @@ import { hex } from "@/analysis/pixels";
 import { fileSize, formatDecimal } from "@/lib/format";
 import { imageDNA } from "@/analysis/dna";
 import { MetadataResults } from "./metadata-results";
+import { EvidenceInsight } from "./evidence-insight";
+import { CloudObservations } from "./cloud-observations";
 const percent = (n: number) => formatDecimal(n * 100, 1) + "%";
 const tabs = ["Overview", "Color", "Light", "Metadata"];
 function gcd(a: number, b: number): number {
@@ -19,6 +21,9 @@ export function Results({
   source: ImageSource;
 }) {
   const [tab, setTab] = useState("Overview");
+  function selectTab(value: string) {
+    setTab(value);
+  }
   const [copied, setCopied] = useState("");
   const [copyError, setCopyError] = useState("");
   const divisor = gcd(s.width, s.height);
@@ -41,11 +46,11 @@ export function Results({
           <button
             key={t}
             role="tab"
-            id={`tab-${t}`}
+            id={`tab-${t.replaceAll(" ", "-")}`}
             aria-controls="result-panel"
             aria-selected={tab === t}
             tabIndex={tab === t ? 0 : -1}
-            onClick={() => setTab(t)}
+            onClick={() => selectTab(t)}
             onKeyDown={(event) => {
               let next = index;
               if (event.key === "ArrowRight") next = (index + 1) % tabs.length;
@@ -55,15 +60,21 @@ export function Results({
               else if (event.key === "End") next = tabs.length - 1;
               else return;
               event.preventDefault();
-              setTab(tabs[next]);
-              document.getElementById(`tab-${tabs[next]}`)?.focus();
+              selectTab(tabs[next]);
+              document
+                .getElementById(`tab-${tabs[next].replaceAll(" ", "-")}`)
+                ?.focus();
             }}
           >
             {t}
           </button>
         ))}
       </div>
-      <div id="result-panel" role="tabpanel" aria-labelledby={`tab-${tab}`}>
+      <div
+        id="result-panel"
+        role="tabpanel"
+        aria-labelledby={`tab-${tab.replaceAll(" ", "-")}`}
+      >
         {tab === "Metadata" && <MetadataResults metadata={r.metadata} />}
         {tab === "Overview" && (
           <>
@@ -134,6 +145,7 @@ export function Results({
                 This is not perceived brightness or exposure.
               </p>
             </div>
+            <CloudObservations key={s.url} url={s.url} />
           </>
         )}
         {tab === "Color" && (
@@ -196,6 +208,7 @@ export function Results({
               {copied && `Copied ${copied}`}
             </p>
             {copyError && <p role="alert">{copyError}</p>}
+            <EvidenceInsight kind="color" insight={r.analytics?.color} />
           </>
         )}
         {tab === "Light" && (
@@ -268,6 +281,7 @@ export function Results({
               values mean more variation. It is not an accessibility ratio or a
               universal image-contrast score.
             </p>
+            <EvidenceInsight kind="tonal" insight={r.analytics?.tonal} />
           </>
         )}
         <p className="sample-note">

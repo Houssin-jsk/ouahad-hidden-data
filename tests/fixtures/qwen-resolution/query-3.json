@@ -1,0 +1,2228 @@
+{
+  "requestUrl": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=living+room+television+photograph+filetype%3Abitmap&gsrnamespace=6&gsrlimit=20&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1536",
+  "response": {
+    "batchcomplete": "",
+    "continue": {
+      "gsroffset": 20,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": {
+        "16534221": {
+          "pageid": 16534221,
+          "ns": 6,
+          "title": "File:Photograph of the Living Room of Mr. and Mrs. August Vogel - NARA - 558314.tif",
+          "index": 6,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 18126306,
+              "width": 3000,
+              "height": 2014,
+              "pagecount": 1,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Photograph_of_the_Living_Room_of_Mr._and_Mrs._August_Vogel_-_NARA_-_558314.tif/lossy-page1-1920px-Photograph_of_the_Living_Room_of_Mr._and_Mrs._August_Vogel_-_NARA_-_558314.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1031,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Photograph_of_the_Living_Room_of_Mr._and_Mrs._August_Vogel_-_NARA_-_558314.tif/lossy-page1-1920px-Photograph_of_the_Living_Room_of_Mr._and_Mrs._August_Vogel_-_NARA_-_558314.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1031
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Photograph_of_the_Living_Room_of_Mr._and_Mrs._August_Vogel_-_NARA_-_558314.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Photograph_of_the_Living_Room_of_Mr._and_Mrs._August_Vogel_-_NARA_-_558314.tif",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=16534221",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2011-09-17 18:38:24",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n<i>Photograph of the Living Room of Mr. and Mrs. August Vogel</i></div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Images from the National Archives and Records Administration|Media contributed by the National Archives and Records Administration|PD US EPA|Artworks without Wikidata item|NARA TIF images with categorized JPGs|US National Archives series: DOCUMERICA: The Environmental Protection Agency's Program to Photographically Document Subjects of Environmental Concern, compiled 1972 - 1977|High-resolution TIFF images from the National Archives and Records Administration",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "44.3",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-94.45",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q135277410\" class=\"extiw\" title=\"d:Q135277410\"><span title=\"American photojournalist (1950–)\">Gary Truman</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<ul><li><b>Scope and content:</b>  Original caption: Family Pictures are displayed prominently on top of the television set in the living room of Mr. and Mrs. August Vogel. The couple still uses a wood-burning stove for kitchen cooking. New Ulm is a county seat trading center of 13,000 in a farming area of South Central Minnesota. It was founded in 1854 by a German immigrant land company that has encouraged its kinsmen to emigrate from Europe. The town has grown steadily with the arrival of manufacturing firms.</li></ul></div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "October 1974<div style=\"display: none;\">date QS:P571,+1974-10-00T00:00:00Z/10</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a href=\"https://en.wikipedia.org/wiki/U.S._National_Archives_and_Records_Administration\" class=\"extiw\" title=\"en:U.S. National Archives and Records Administration\">U.S. National Archives and Records Administration</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "17119076": {
+          "pageid": 17119076,
+          "ns": 6,
+          "title": "File:Photograph of the Living Room of Mr. and Mrs. August Vogel - NARA - 558314.jpg",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 780121,
+              "width": 3000,
+              "height": 2014,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Photograph_of_the_Living_Room_of_Mr._and_Mrs._August_Vogel_-_NARA_-_558314.jpg/1920px-Photograph_of_the_Living_Room_of_Mr._and_Mrs._August_Vogel_-_NARA_-_558314.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1031,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/d/db/Photograph_of_the_Living_Room_of_Mr._and_Mrs._August_Vogel_-_NARA_-_558314.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Photograph_of_the_Living_Room_of_Mr._and_Mrs._August_Vogel_-_NARA_-_558314.jpg/1920px-Photograph_of_the_Living_Room_of_Mr._and_Mrs._August_Vogel_-_NARA_-_558314.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1031,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/d/db/Photograph_of_the_Living_Room_of_Mr._and_Mrs._August_Vogel_-_NARA_-_558314.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Photograph_of_the_Living_Room_of_Mr._and_Mrs._August_Vogel_-_NARA_-_558314.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Photograph_of_the_Living_Room_of_Mr._and_Mrs._August_Vogel_-_NARA_-_558314.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=17119076",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2011-10-25 12:25:45",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n<i>Photograph of the Living Room of Mr. and Mrs. August Vogel</i></div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Images from the National Archives and Records Administration|Media contributed by the National Archives and Records Administration|PD US EPA|Artworks without Wikidata item|US National Archives series: DOCUMERICA: The Environmental Protection Agency's Program to Photographically Document Subjects of Environmental Concern, compiled 1972 - 1977|October 1974 in Minnesota|DOCUMERICA photographs by Gary Truman",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "44.3",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-94.45",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q135277410\" class=\"extiw\" title=\"d:Q135277410\"><span title=\"American photojournalist (1950–)\">Gary Truman</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<ul><li><b>Scope and content:</b>  Original caption: Family Pictures are displayed prominently on top of the television set in the living room of Mr. and Mrs. August Vogel. The couple still uses a wood-burning stove for kitchen cooking. New Ulm is a county seat trading center of 13,000 in a farming area of South Central Minnesota. It was founded in 1854 by a German immigrant land company that has encouraged its kinsmen to emigrate from Europe. The town has grown steadily with the arrival of manufacturing firms.</li></ul></div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "October 1974<div style=\"display: none;\">date QS:P571,+1974-10-00T00:00:00Z/10</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a href=\"https://en.wikipedia.org/wiki/U.S._National_Archives_and_Records_Administration\" class=\"extiw\" title=\"en:U.S. National Archives and Records Administration\">U.S. National Archives and Records Administration</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "17832223": {
+          "pageid": 17832223,
+          "ns": 6,
+          "title": "File:Living Room Palmer Avenue New Orleans.jpg",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 916152,
+              "width": 2048,
+              "height": 1536,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Living_Room_Palmer_Avenue_New_Orleans.jpg/1920px-Living_Room_Palmer_Avenue_New_Orleans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1152,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/6/62/Living_Room_Palmer_Avenue_New_Orleans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Living_Room_Palmer_Avenue_New_Orleans.jpg/1920px-Living_Room_Palmer_Avenue_New_Orleans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1152,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/6/62/Living_Room_Palmer_Avenue_New_Orleans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Living_Room_Palmer_Avenue_New_Orleans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Living_Room_Palmer_Avenue_New_Orleans.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=17832223",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2011-12-28 20:47:14",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Living Room Palmer Avenue New Orleans",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Watching television|Personality rights warning|CRT television sets|Sitting women|Flickr images uploaded by Flickr upload bot|People of the United States in 2000|2000 in New Orleans|Photographs taken on 2000-11-27|November 2000 in Louisiana|Photographs by Bart Everson|Floors in New Orleans|Furniture in New Orleans|Couches in the United States|Television sets in Louisiana|Living rooms in New Orleans|Drinking cups in white|Palmer Avenue, New Orleans|Interiors of houses in Uptown New Orleans",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Interior of home in Uptown New Orleans, 2000",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2000-11-27 10:30:21",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/Flickr\" class=\"mw-redirect\" title=\"Flickr\">Flickr</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/11018968@N00/2587411771\">Living Room</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/11018968@N00\">Bart Everson</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "<table id=\"FlickrReview\" style=\"width:100%; margin:0.3em auto; text-align:start; background-color:var(--background-color-success-subtle,#d5fdf4); padding: 3px; border:1px solid var(--border-color-base,#a2a9b1); color:inherit;\" dir=\"ltr\" lang=\"en\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><a href=\"https://en.wikipedia.org/wiki/Flickr\" class=\"extiw\" title=\"en:Flickr\">Flickr</a></b>, was uploaded to Commons using <b><a href=\"//commons.wikimedia.org/wiki/User:Flickr_upload_bot\" title=\"User:Flickr upload bot\">Flickr upload bot</a></b> on 28 December 2011, 20:46 by <span id=\"flickr_upload_bot_reviewer\"><b><a href=\"//commons.wikimedia.org/wiki/User:Infrogmation\" title=\"User:Infrogmation\">Infrogmation</a></b></span>. On that date, it was confirmed to be licensed under the terms of the license indicated.\n</td>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Flickr_dots.svg/60px-Flickr_dots.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Flickr_dots.svg/120px-Flickr_dots.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"512\"></span></span>\n</td></tr></tbody></table>\n<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/2.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/2.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 2.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 2.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "personality",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "23104881": {
+          "pageid": 23104881,
+          "ns": 6,
+          "title": "File:Living Room 1998 NOLA.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 443770,
+              "width": 1808,
+              "height": 1196,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Living_Room_1998_NOLA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 1536,
+              "thumbheight": 1016,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/Living_Room_1998_NOLA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1016
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Living_Room_1998_NOLA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Living_Room_1998_NOLA.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=23104881",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2012-12-09 18:41:45",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Living Room 1998 NOLA",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "CRT television sets|Flickr images uploaded by Flickr upload bot|1998 in New Orleans|Fireplaces in New Orleans|1990s photographs of Louisiana|Furniture in New Orleans|Television sets in Louisiana|Windows in Carrollton, New Orleans|Wooden furniture in the United States|Daewoo television sets|7509 Maple Street, New Orleans - front living room",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Living room, New Orleans, 1998",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1998",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/Flickr\" class=\"mw-redirect\" title=\"Flickr\">Flickr</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/29350288@N06/7990244686\">Living Room 1998</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/29350288@N06\">Infrogmation of New Orleans</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "<table id=\"FlickrReview\" style=\"width:100%; margin:0.3em auto; text-align:start; background-color:var(--background-color-success-subtle,#d5fdf4); padding: 3px; border:1px solid var(--border-color-base,#a2a9b1); color:inherit;\" dir=\"ltr\" lang=\"en\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><a href=\"https://en.wikipedia.org/wiki/Flickr\" class=\"extiw\" title=\"en:Flickr\">Flickr</a></b>, was uploaded to Commons using <b><a href=\"//commons.wikimedia.org/wiki/User:Flickr_upload_bot\" title=\"User:Flickr upload bot\">Flickr upload bot</a></b> on 9 December 2012, 18:41 by <span id=\"flickr_upload_bot_reviewer\"><b><a href=\"//commons.wikimedia.org/wiki/User:Infrogmation\" title=\"User:Infrogmation\">Infrogmation</a></b></span>. On that date, it was confirmed to be licensed under the terms of the license indicated.\n</td>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Flickr_dots.svg/60px-Flickr_dots.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Flickr_dots.svg/120px-Flickr_dots.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"512\"></span></span>\n</td></tr></tbody></table>\n<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/2.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/2.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 2.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 2.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "23379782": {
+          "pageid": 23379782,
+          "ns": 6,
+          "title": "File:Ford A3165 NLGRF photo contact sheet (1975-02-08)(Gerald Ford Library).jpg",
+          "index": 19,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1546443,
+              "width": 1698,
+              "height": 2192,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Ford_A3165_NLGRF_photo_contact_sheet_%281975-02-08%29%28Gerald_Ford_Library%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 1536,
+              "thumbheight": 1983,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Ford_A3165_NLGRF_photo_contact_sheet_%281975-02-08%29%28Gerald_Ford_Library%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1983
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Ford_A3165_NLGRF_photo_contact_sheet_%281975-02-08%29%28Gerald_Ford_Library%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ford_A3165_NLGRF_photo_contact_sheet_(1975-02-08)(Gerald_Ford_Library).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=23379782",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2012-12-28 16:18:57",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Ford A3165 NLGRF photo contact sheet (1975-02-08)(Gerald Ford Library)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Camp David|1975 in Maryland|PD US Government|Susan Ford|Media contributed by the Gerald R. Ford Presidential Library and Museum|Liberty (dog)|CC-PD-Mark|Contact sheets by the Ford White House (February 1975)|Henry Kissinger in 1975|Snowmobiles in the United States|Nelson Rockefeller in 1975|1976 at Andrews Air Force Base|Gerald Ford and Nelson Rockefeller|Photographs by David Hume Kennerly from 1975|Presidents of the United States watching television",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "The photo contact sheet, identified as <b>A3165</b> by the <a href=\"https://en.wikipedia.org/wiki/White_House_Photographic_Office\" class=\"extiw\" title=\"w:White House Photographic Office\">White House Photographic Office</a> (WHPO), is housed at the <a href=\"https://en.wikipedia.org/wiki/Gerald_R._Ford_Presidential_Library\" class=\"extiw\" title=\"w:Gerald R. Ford Presidential Library\">Gerald R. Ford Presidential Library</a>, a branch of the <a href=\"https://en.wikipedia.org/wiki/National_Archives_and_Records_Administration\" class=\"extiw\" title=\"w:National Archives and Records Administration\">National Archives and Records Administration (NARA)</a>.<br><br>\n<p>This file is a 200 <a href=\"https://en.wikipedia.org/wiki/Dots_per_inch\" class=\"extiw\" title=\"w:Dots per inch\">dpi</a> <a href=\"https://en.wikipedia.org/wiki/Contact_print#Proof_sheets\" class=\"extiw\" title=\"w:Contact print\">photo contact sheet</a> having images from <a href=\"https://en.wikipedia.org/wiki/roll_film\" class=\"extiw\" title=\"w:roll film\">roll of film</a> A3165 of the <i>August 9, 1974 - January 20, 1977 <a href=\"https://en.wikipedia.org/wiki/Gerald_R._Ford\" class=\"extiw\" title=\"w:Gerald R. Ford\">Gerald R. Ford</a> White House Photographic Office Series A0001-A9999 and B0001-B2886 photographs.</i> <br><br>\n</p>\nThe date on the photo contact sheet is the date the roll of film was processed, not necessarily the date the photographs were taken. See <a href=\"#Table\">table</a> below for additional details.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1975-02-08",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a href=\"https://en.wikipedia.org/wiki/Gerald_R._Ford_Presidential_Library\" class=\"extiw\" title=\"w:Gerald R. Ford Presidential Library\">Gerald R. Ford Presidential Library</a>, Image: <a rel=\"nofollow\" class=\"external text\" data-mw-original-href=\"http://www.fordlibrarymuseum.gov/library/whphotos/A3165_NLGRF.jpg\" href=\"https://www.fordlibrarymuseum.gov/library/whphotos/A3165_NLGRF.jpg\">A3165_NLGRF.jpg</a> from <a rel=\"nofollow\" class=\"external text\" data-mw-original-href=\"http://www.fordlibrarymuseum.gov/library/whphotos/19750208whpo.pdf\" href=\"https://www.fordlibrarymuseum.gov/library/whphotos/19750208whpo.pdf\">White House Photographs, February 8, 1975</a> of the <a rel=\"nofollow\" class=\"external text\" data-mw-original-href=\"http://www.fordlibrarymuseum.gov/Library/whphotos/whpo.asp\" href=\"https://www.fordlibrarymuseum.gov/Library/whphotos/whpo.asp\">White House Photographic Collection page</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:David_Hume_Kennerly\" class=\"extiw\" title=\"w:en:David Hume Kennerly\"><span title=\"American photographer (born 1947)\">David Hume Kennerly</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "This work is in the <b><a href=\"https://en.wikipedia.org/wiki/en:Public_domain\" class=\"extiw\" title=\"w:en:Public domain\">public domain</a></b> in the United States because it is a <a href=\"https://en.wikipedia.org/wiki/en:Copyright_status_of_work_by_the_U.S._government\" class=\"extiw\" title=\"w:en:Copyright status of work by the U.S. government\">work prepared by an officer or employee of the United States Federal Government as part of that person’s official duties</a> under the terms of <i><a href=\"https://en.wikisource.org/wiki/en:United_States_Code/Title_17/Chapter_1/Sections_105_and_106\" class=\"extiw\" title=\"s:en:United States Code/Title 17/Chapter 1/Sections 105 and 106\">Title 17, Chapter 1, Section 105</a> of the <a href=\"https://en.wikipedia.org/wiki/United_States_Code\" class=\"extiw\" title=\"w:United States Code\">US Code</a></i>.\n<small style=\"font-weight:bold\"><u>Note</u>:  This only applies to original works of the Federal Government and not to the work of any individual <a href=\"https://en.wikipedia.org/wiki/U.S._state\" class=\"extiw\" title=\"en:U.S. state\">U.S. state</a>, <a href=\"https://en.wikipedia.org/wiki/United_States_Territory\" class=\"extiw\" title=\"w:United States Territory\">territory</a>, commonwealth, county, municipality, or any other subdivision. This template also does not apply to postage stamp designs published by the <a href=\"https://en.wikipedia.org/wiki/United_States_Postal_Service\" class=\"extiw\" title=\"w:United States Postal Service\">United States Postal Service</a> <a href=\"//commons.wikimedia.org/wiki/Stamps_of_the_United_States#Copyright-Note_up_to_1978\" title=\"Stamps of the United States\">since 1978</a>. (See § <a rel=\"nofollow\" class=\"external text\" href=\"https://copyright.gov/comp3/chap300/ch300-copyrightable-authorship.pdf\">313.6(C)(1)</a> of Compendium of U.S. Copyright Office Practices). It also does not apply to certain US coins; see <a rel=\"nofollow\" class=\"external text\" href=\"https://www.usmint.gov/policies/terms-of-use\">The US Mint Terms of Use</a>.</small>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "28070076": {
+          "pageid": 28070076,
+          "ns": 6,
+          "title": "File:Living Room JimThompson House photo Don Ramey Logan.jpg",
+          "index": 7,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 4386411,
+              "width": 4800,
+              "height": 3200,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Living_Room_JimThompson_House_photo_Don_Ramey_Logan.jpg/1920px-Living_Room_JimThompson_House_photo_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1024,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Living_Room_JimThompson_House_photo_Don_Ramey_Logan.jpg/3840px-Living_Room_JimThompson_House_photo_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Living_Room_JimThompson_House_photo_Don_Ramey_Logan.jpg/1920px-Living_Room_JimThompson_House_photo_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1024,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Living_Room_JimThompson_House_photo_Don_Ramey_Logan.jpg/3840px-Living_Room_JimThompson_House_photo_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Living_Room_JimThompson_House_photo_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Living_Room_JimThompson_House_photo_Don_Ramey_Logan.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=28070076",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2013-09-05 07:35:53",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Living Room JimThompson House photo Don Ramey Logan",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Photographs by Don Ramey Logan|Taken with Nikon D7100|Jim Thompson House interiors",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Living Room JimThompson House photo Don Ramey Logan",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2013-03-07 00:03:16",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<bdi><a href=\"//commons.wikimedia.org/wiki/Category:Photographs_by_Don_Ramey_Logan\" title=\"Category:Photographs by Don Ramey Logan\">Don Ramey Logan</a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "<table style=\"width:100%; clear:both; margin:0.5em auto; border-spacing:8px; background-color:var(--background-color-neutral-subtle,#f7f8ff); border:2px solid #8888aa;color: inherit;\" lang=\"\" dir=\"ltr\" class=\"layouttemplate restrictiontemplate plainlinks\">\n<tbody><tr>\n<td><span aria-hidden=\"true\"><span class=\"mw-default-size skin-invert\" typeof=\"mw:File/Frameless\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"110\" height=\"44\" style=\"--mw-file-upright: 0.45\" class=\"mw-file-element mw-file-upright\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span></span><br>\n</td>\n<td>This image is <b>not in the <a href=\"https://en.wikipedia.org/wiki/Public_domain\" class=\"extiw\" title=\"w:Public domain\">public domain</a></b>. If you wish to use it anywhere other than on Wikipedia or <a href=\"https://meta.wikimedia.org/wiki/Wikimedia_projects\" class=\"extiw\" title=\"m:Wikimedia projects\">other Wikimedia projects</a> you are obligated to provide the following details along with it:<br>\n<ul><li>Author: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.imdb.com/name/nm10366764/\">Don Ramey Logan</a></li>\n<li><i><a class=\"mw-selflink-fragment\" href=\"##\">Living Room JimThompson House photo Don Ramey Logan.jpg</a></i> from <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a><br></li>\n<li>License: <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">Creative Commons Attribution-ShareAlike 3.0</a><br></li></ul>\n<p><b>Credit line example:</b> \"<a class=\"mw-selflink-fragment\" href=\"##\">Living Room JimThompson House photo Don Ramey Logan.jpg</a> from <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a> by <a rel=\"nofollow\" class=\"external text\" href=\"https://www.imdb.com/name/nm10366764/\">Don Ramey Logan</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">CC-BY-SA 3.0</a>\"<br>\nA statement such as \"From Wikimedia Commons\" or similar is <i>not</i> by itself sufficient. If you do not provide clear attribution to the author and indicate the file name as shown here, you didn't comply with the terms of the file's license and may not use this file. If you are unable or unwilling to provide attribution and <b>release your own work</b> that <a href=\"//commons.wikimedia.org/wiki/Commons:Derivative_works\" title=\"Commons:Derivative works\">incorporates this work</a> with a Creative Commons Attribution-ShareAlike 3.0 license you should contact <a rel=\"nofollow\" class=\"external text\" href=\"https://www.imdb.com/name/nm10366764/\">Don Ramey Logan</a> to negotiate a different license.  More of my work can be found in <a href=\"//commons.wikimedia.org/wiki/Category:Photographs_by_Don_Ramey_Logan\" title=\"Category:Photographs by Don Ramey Logan\">Category:Photographs by Don Ramey Logan</a>. There is <a href=\"//commons.wikimedia.org/wiki/User:WPPilot/Credits\" title=\"User:WPPilot/Credits\">more detailed information about licensing</a> available.\n\n</p>\n</td></tr>\n<tr>\n<td>\n</td>\n<td><div style=\"text-align:center\"><div style=\"margin-top:0.75em;\"><b>I. Licence</b></div>\n<div style=\"margin-top:0.5em;\">This photograph is protected by copyright law. However, it may be used for free by anyone, provided it is used in accordance with the license <b>Creative Commons License <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed\">“Attribution-ShareAlike 4.0 International”</a></b> (CC BY-SA 4.0). These include, among other things, the naming of the author and the license, as well as the setting of a link to the license text or its complete imprint. The attribution should be done as follows:</div>\n<div style=\"margin-top:0.5em; text-align:center;\"><b>Photograph by Don Ramey Logan</b><br><b>License: Creative Commons Attribution-ShareAlike 4.0 International</b><br></div>\n<div style=\"margin-top:0.5em;\">Please read the text of the license carefully before using the photograph. If you do not agree with the conditions of the license or if you do not understand these conditions, please refrain from using the photograph. If you have any questions regarding the license or the reuse of the image, please contact me before using it. If you do not comply with the terms of the license, you do not acquire any right to use the image. If you need another license to use, please contact the author <b>before</b> using.</div>\n<div style=\"margin-top:0.5em;\">For information about the license see section <a class=\"mw-selflink-fragment\" href=\"#ImgLic\">Licensing</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">human-readable summary</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">full licence text</a> at Creative Commons. In addition to the above, a link to the source - so this page with the descriptions and license terms - is appreciated. More information or examples of use can be found at <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">re-use (with example file)</a>. The <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Living_Room_JimThompson_House_photo_Don_Ramey_Logan.jpg\">Attribution Generator</a> is helpful in licensing matters.</div>\n<div style=\"margin:0.5em auto 1em;text-align:center;\" class=\"plainlinks\"><span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Living_Room_JimThompson_House_photo_Don_Ramey_Logan.jpg\"><span class=\"submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-secondary ui-button-blue\" role=\"button\"><span class=\"ui-button-text\">Generate License <b>Attribution</b></span><span class=\"ui-button-icon-secondary ui-icon ui-icon-extlink\"> </span></span></a></span></div>\n<div style=\"margin-top:0.5em;\"></div>\n<div style=\"margin-top:0.75em;\"><b>II. Fairness</b></div>\n<div style=\"margin-top:0.5em;\">From printed materials and other tangible products that use that work, the user is requested but not obligated to send a copy to the author as a thank you. The mailing address can be requested via the contact options.</div>\n<div style=\"margin-top:0.5em;\">Please note that the author had quite considerable effort to draw up this file. Thus, it is only fair to comply with the conditions of <a href=\"https://en.wikipedia.org/wiki/Free_license\" class=\"extiw\" title=\"en:Free license\">free licenses</a> listed here. In the case of violation of the license conditions, the rights granted hereunder will expire automatically.</div>\n<div style=\"margin-top:0.75em; clear: both;\"><b>III. Disclaimer</b></div>\n<div style=\"margin-top:0.5em;\">Please note the licence does grant you any rights to change, alter, modify, crop or use this file in any manner then as it is depicted herein, unless those changes are described in the attribution, and that the license applies solely for the reuse of the photograph itself. The license doesn't grant you any right regarding the depicted object (eg, copyright or proprietary rights) or the personality rights of the person eventually shown. (See <a href=\"//commons.wikimedia.org/wiki/Commons:L\" class=\"mw-redirect\" title=\"Commons:L\">licences</a> and <a href=\"//commons.wikimedia.org/wiki/Commons:SOSUMI\" class=\"mw-redirect\" title=\"Commons:SOSUMI\">non-copyright restrictions</a>.) I do not grant any warranty that the subsequent use of the photograph is legally possible concerning the object or person shown in the photograph. You are responsible to check and respect these rights in the publication in the respective medium or country.</div>\n<div style=\"margin-top:0.5em;\">The author is not responsible for the accuracy of the information contained herein (description, title, etc.). Likewise, the author assumes no liability for further use. Please note the <a href=\"//commons.wikimedia.org/wiki/Commons:General_disclaimer\" title=\"Commons:General disclaimer\">general disclaimer</a> and please read <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">reusing content outside Wikimedia</a> too.</div>\n<div style=\"margin-top:0.75em;\"><b>IV. Contact</b></div>\n<div style=\"margin-top:0.5em;\"><b><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:UserIconMail.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/40px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/60px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"700\" data-file-height=\"700\"></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"mailto:don@logan.com\">E-mail to the author</a></b> or the <a href=\"//commons.wikimedia.org/wiki/User_talk:WPPilot\" title=\"User talk:WPPilot\">author's talk page</a> <small>or the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.mediadev.net/\">author's website</a></small></div></div>\n</td></tr></tbody></table>\n<style data-mw-deduplicate=\"TemplateStyles:r1065912264\">.mw-parser-output .note{background-position:left 7px top 50%;padding:0.5em 0.5em 0.5em 40px;margin:0.5em 0;overflow:hidden;background-color:var(--background-color-base,#fff);color:var(--color-base,#202122);background-repeat:no-repeat;border:1px solid var(--border-color-base,#ddd)}.mw-parser-output .note-inline{display:inline-block;vertical-align:middle}.mw-parser-output .note-info{background-color:var(--background-color-base,#fff);color:var(--color-base,#202122);background-image:url(\"https://upload.wikimedia.org/wikipedia/commons/e/ec/OOjs_UI_icon_information-progressive.svg\");background-size:25px;border:1px solid var(--border-color-progressive,#6485d1);padding-left:40px;min-height:25px}.mw-parser-output .note-reminder{background-color:var(--background-color-warning-subtle,#fdf2d5);color:var(--color-base,#202122);background-image:url(\"https://upload.wikimedia.org/wikipedia/commons/a/a8/OOjs_UI_icon_lightbulb-yellow.svg\");background-size:25px;border:1px solid var(--border-color-content-removed,#ffe49c);min-height:25px}.mw-parser-output .note-warn{background-color:var(--background-color-warning-subtle,#fdf2d5);color:var(--color-base,#202122);background-image:url(\"https://upload.wikimedia.org/wikipedia/commons/3/3b/OOjs_UI_icon_alert-warning.svg\");background-size:25px;border:1px solid var(--border-color-content-removed,#ffe49c);min-height:25px}.mw-parser-output .note-error{background-color:var(--background-color-error-subtle,#ffe9e5);color:var(--color-base,#202122);background-image:url(\"https://upload.wikimedia.org/wikipedia/commons/b/bf/OOjs_UI_icon_notice-destructive.svg\");background-size:25px;border:1px solid var(--border-color-destructive,#f54739);min-height:25px}</style><div role=\"note\" class=\"note note-info\"><figure class=\"mw-halign-right\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:No_Facebook.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/No_Facebook.svg/250px-No_Facebook.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"135\" height=\"30\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/No_Facebook.svg/330px-No_Facebook.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"14\"></a><figcaption></figcaption></figure> Beware that some social media platforms require their users to give the platform a sub-licensable license for any file their users upload. Platforms like Facebook do not recognize Creative Commons licenses and don't adhere to their attribution requirements, so only the copyright holder can provide the permission as described in their terms of service.\n<div class=\"collapsibletemplate collapsed\" style=\"border: none; padding: 0;\">\n<div class=\"collapsibleheader header\" style=\"font-size: 105%; text-align: left;\"><span class=\"headertext\">References</span></div>\n<div class=\"body show-on-commons\"><ul style=\"list-style: none none; margin-left: 0; margin-left:2em; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;\"><li style=\"line-height: inherit; margin: 0\"> 1. <a rel=\"nofollow\" class=\"external text\" href=\"https://www.facebook.com/legal/terms\">Facebook Terms of Service</a> (<span class=\"mw-formatted-date\" title=\"2024-01-12\">12 January 2024</span>). \"when you share, post, or upload content that is covered by intellectual property rights (like photos or videos) on or in connection with our Products, you grant us a non-exclusive, transferable, sub-licensable, and worldwide license\"\n </li><li style=\"line-height: inherit; margin: 0\"> 2. <a rel=\"nofollow\" class=\"external text\" href=\"https://help.instagram.com/581066165581870/\">\"Instagram Terms of Service</a> (<span class=\"mw-formatted-date\" title=\"2024-01-12\">12 January 2024</span>). \"When you share, post, or upload content that is covered by intellectual property rights (like photos or videos) on or in connection with our Service, you hereby grant to us a non-exclusive, royalty-free, transferable, sub-licensable, worldwide license\"\n </li><li style=\"line-height: inherit; margin: 0\"> 3. <a rel=\"nofollow\" class=\"external text\" href=\"https://www.tiktok.com/legal/page/eea/terms-of-service/en\">TikTok Terms of Service</a> (<span class=\"mw-formatted-date\" title=\"2024-01-10\">10 January 2024</span>). \"By creating, posting or otherwise making content available on the Platform, you grant to TikTok a: non-exclusive, royalty-free, transferable, sub-licensable and worldwide licence to use your content\"\n </li><li style=\"line-height: inherit; margin: 0\"> 4. <a rel=\"nofollow\" class=\"external text\" href=\"https://snap.com/en-US/terms\">Snapchat Terms of Service</a> (<span class=\"mw-formatted-date\" title=\"2024-01-10\">10 January 2024</span>). \"For all content you submit to the Services, you grant Snap and our affiliates a worldwide, royalty-free, sublicencable, and transferable licence\"\n </li><li style=\"line-height: inherit; margin: 0\"> 5. <a rel=\"nofollow\" class=\"external text\" href=\"https://x.com/en/tos\">X Terms of Service</a> (<span class=\"mw-formatted-date\" title=\"2026-10-09\">October 9, 2026</span>). \"You retain ownership and rights to any of your Content you post or share, and you provide us with a broad, royalty-free license to make your Content available to the rest of the world and to let others do the same.[...]In choosing to submit, input, create, generate, post, or display Content on or through the Services, you grant us a worldwide, non-exclusive, royalty-free license (with the right to sublicense) to use, copy, reproduce, process, adapt, modify, publish, transmit, display, upload, download, and distribute such Content, including anything referenced therein, in any and all media or distribution methods now known or later developed, for any purpose. For clarity, these rights include, for example, curating, transforming, and translating. This license authorizes us to make your Content available to the rest of the world and to let others do the same.\"\n</li></ul>\n</div></div></div><div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">Photograph by Don Ramey Logan</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "Photograph by Don Ramey Logan",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "30662220": {
+          "pageid": 30662220,
+          "ns": 6,
+          "title": "File:HK 中環 Central 民耀街 Man Yiu Street 中環社區聯絡中心 Community Liaison Centres of Highways Department living room TV set caffee bar Jan-2014 Distilled water machine.JPG",
+          "index": 11,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1642626,
+              "width": 2592,
+              "height": 1936,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/HK_%E4%B8%AD%E7%92%B0_Central_%E6%B0%91%E8%80%80%E8%A1%97_Man_Yiu_Street_%E4%B8%AD%E7%92%B0%E7%A4%BE%E5%8D%80%E8%81%AF%E7%B5%A1%E4%B8%AD%E5%BF%83_Community_Liaison_Centres_of_Highways_Department_living_room_TV_set_caffee_bar_Jan-2014_Distilled_water_machine.JPG/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1147,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/f/fe/HK_%E4%B8%AD%E7%92%B0_Central_%E6%B0%91%E8%80%80%E8%A1%97_Man_Yiu_Street_%E4%B8%AD%E7%92%B0%E7%A4%BE%E5%8D%80%E8%81%AF%E7%B5%A1%E4%B8%AD%E5%BF%83_Community_Liaison_Centres_of_Highways_Department_living_room_TV_set_caffee_bar_Jan-2014_Distilled_water_machine.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/HK_%E4%B8%AD%E7%92%B0_Central_%E6%B0%91%E8%80%80%E8%A1%97_Man_Yiu_Street_%E4%B8%AD%E7%92%B0%E7%A4%BE%E5%8D%80%E8%81%AF%E7%B5%A1%E4%B8%AD%E5%BF%83_Community_Liaison_Centres_of_Highways_Department_living_room_TV_set_caffee_bar_Jan-2014_Distilled_water_machine.JPG/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1147,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/fe/HK_%E4%B8%AD%E7%92%B0_Central_%E6%B0%91%E8%80%80%E8%A1%97_Man_Yiu_Street_%E4%B8%AD%E7%92%B0%E7%A4%BE%E5%8D%80%E8%81%AF%E7%B5%A1%E4%B8%AD%E5%BF%83_Community_Liaison_Centres_of_Highways_Department_living_room_TV_set_caffee_bar_Jan-2014_Distilled_water_machine.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/HK_%E4%B8%AD%E7%92%B0_Central_%E6%B0%91%E8%80%80%E8%A1%97_Man_Yiu_Street_%E4%B8%AD%E7%92%B0%E7%A4%BE%E5%8D%80%E8%81%AF%E7%B5%A1%E4%B8%AD%E5%BF%83_Community_Liaison_Centres_of_Highways_Department_living_room_TV_set_caffee_bar_Jan-2014_Distilled_water_machine.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_%E4%B8%AD%E7%92%B0_Central_%E6%B0%91%E8%80%80%E8%A1%97_Man_Yiu_Street_%E4%B8%AD%E7%92%B0%E7%A4%BE%E5%8D%80%E8%81%AF%E7%B5%A1%E4%B8%AD%E5%BF%83_Community_Liaison_Centres_of_Highways_Department_living_room_TV_set_caffee_bar_Jan-2014_Distilled_water_machine.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=30662220",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2014-01-17 14:07:29",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "HK 中環 Central 民耀街 Man Yiu Street 中環社區聯絡中心 Community Liaison Centres of Highways Department living room TV set caffee bar Jan-2014 Distilled water machine",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Taken with iPhone 4|Pantries|Paper cups|Self-published work|Television sets in Hong Kong|Files with coordinates missing SDC location of creation|Photographs by Anonymous Hong Kong Photographer 1|Hong Kong photographs taken on 2014-01-16|LG television sets|Water coolers in China|Community Liaison Centres of Highways Department",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "22.284500",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "114.159167",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<a href=\"https://zh.wikipedia.org/wiki/%E4%B8%AD%E7%92%B0%E7%A4%BE%E5%8D%80%E8%81%AF%E7%B5%A1%E4%B8%AD%E5%BF%83\" class=\"extiw\" title=\"zh:中環社區聯絡中心\">中環社區聯絡中心</a>, Community Liaison Centres of Highways Department, Central, Hong Kong",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2014-01-16 16:06:10",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Zhaungdacklames&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Zhaungdacklames (page does not exist)\">Zhaungdacklames</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "35678389": {
+          "pageid": 35678389,
+          "ns": 6,
+          "title": "File:The reality TV village (8076347228).jpg",
+          "index": 18,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 264404,
+              "width": 1024,
+              "height": 768,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/8/80/The_reality_TV_village_%288076347228%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 1536,
+              "thumbheight": 1152,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/8/80/The_reality_TV_village_%288076347228%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1152
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/The_reality_TV_village_%288076347228%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_reality_TV_village_(8076347228).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=35678389",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2014-09-26 20:53:29",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "The reality TV village (8076347228)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Tanzania|Participants in reality television series|Taken with Nikon Coolpix S3100|Flickr images reviewed by FlickreviewR|Images from Oxfam East Africa|Images from Oxfam East Africa need checking|Tanzania photographs taken on 2012-10-01|Flickr images missing SDC Flickr photo ID|Flickr images missing SDC published in",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<p>In early October, the 14 Female Food Hero finalists entered a \"Big-Brother\" style reality TV show - a TV village modelled on the traditional Tanzanian rural village. The finalists will be filmed here for 2 weeks, with the audience voting by SMS for the winner. \n</p><p>The finalists will be joined by 36 young people from urban areas around the country. The women farmers will set daily tasks from their own lives – cultivating vegetables, looking after cattle, or setting up a small village business – which the young city dwellers will need to complete in order to earn a living and put food on the table. In the “diary room\" they will get chance to record and share their views with politicians and decision makers.\n</p>\nFind out more about the TV village: <a rel=\"nofollow\" class=\"external text\" href=\"http://oxf.am/JvY\">oxf.am/JvY</a>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "Taken on 1 October 2012, 00:00",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/oxfameastafrica/8076347228/\">The reality TV village</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/46434833@N05\">Oxfam East Africa</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "37413037": {
+          "pageid": 37413037,
+          "ns": 6,
+          "title": "File:Aleksander.Zelekson.Rob.Hornstra.jpeg",
+          "index": 17,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 634233,
+              "width": 1200,
+              "height": 1453,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Aleksander.Zelekson.Rob.Hornstra.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 1536,
+              "thumbheight": 1860,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/d/df/Aleksander.Zelekson.Rob.Hornstra.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1860
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Aleksander.Zelekson.Rob.Hornstra.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aleksander.Zelekson.Rob.Hornstra.jpeg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=37413037",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2014-12-21 07:42:33",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Aleksander.Zelekson.Rob.Hornstra",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "People of Nizhny Novgorod|Linoleum|Police officers of Russia|Files from external sources with reviewed licenses|Veterans of Russia|People of Russia in 2007|Wooden chairs in Russia|White doors in Russia|Portrait photographs of sitting men|Television sets in Russia|Sitting men in Russia|Men with cats|Men with black boots|Photographs by Rob Hornstra|Building interiors in Nizhny Novgorod|Sokol (brand)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Photograph by Rob Hornstra. Nizhny Novgorod, Russia, 2007 - Aleksander Zelekson, a retired policeman, in his living room. From the book: 101 Billionaires (2008).",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2009-12-22 16:12:30",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.borotov.com/media/\">http://www.borotov.com/media/</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Rob Hornstra",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "43669344": {
+          "pageid": 43669344,
+          "ns": 6,
+          "title": "File:The Corner of 1960s~70s Taiwanese Living Room in GBA 50th Anniversary Exhibition 20150926.jpg",
+          "index": 9,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3618600,
+              "width": 4608,
+              "height": 3456,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/The_Corner_of_1960s~70s_Taiwanese_Living_Room_in_GBA_50th_Anniversary_Exhibition_20150926.jpg/1920px-The_Corner_of_1960s~70s_Taiwanese_Living_Room_in_GBA_50th_Anniversary_Exhibition_20150926.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1152,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/The_Corner_of_1960s~70s_Taiwanese_Living_Room_in_GBA_50th_Anniversary_Exhibition_20150926.jpg/3840px-The_Corner_of_1960s~70s_Taiwanese_Living_Room_in_GBA_50th_Anniversary_Exhibition_20150926.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/The_Corner_of_1960s~70s_Taiwanese_Living_Room_in_GBA_50th_Anniversary_Exhibition_20150926.jpg/1920px-The_Corner_of_1960s~70s_Taiwanese_Living_Room_in_GBA_50th_Anniversary_Exhibition_20150926.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1152,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/The_Corner_of_1960s~70s_Taiwanese_Living_Room_in_GBA_50th_Anniversary_Exhibition_20150926.jpg/3840px-The_Corner_of_1960s~70s_Taiwanese_Living_Room_in_GBA_50th_Anniversary_Exhibition_20150926.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/The_Corner_of_1960s~70s_Taiwanese_Living_Room_in_GBA_50th_Anniversary_Exhibition_20150926.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_Corner_of_1960s~70s_Taiwanese_Living_Room_in_GBA_50th_Anniversary_Exhibition_20150926.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=43669344",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2015-09-26 12:28:30",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "The Corner of 1960s~70s Taiwanese Living Room in GBA 50th Anniversary Exhibition 20150926",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Television programmes from Taiwan|Wooden chairs in Taiwan|Drama television programmes|ViewSonic|Kolin Group|Absence of people in Taiwan|Self-published work|Golden Bell Awards 50th Anniversary Exhibition|Photographs by Solomon203 taken in 2015",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "​「金鐘五十．響 特別展」廣播盛世．電視初始區，中國電視公司八點檔連續劇《光陰的故事》孫家客廳場景佈置，電視躍居重要擺設，象徵1960～70年代臺灣社會電視文化的黎明期。場景前方的歌林黑白電視機，映像管被移除，裝入優派液晶顯示器。",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2015-09-26 15:19:58",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Solomon203\" title=\"User:Solomon203\">Solomon203</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "55623912": {
+          "pageid": 55623912,
+          "ns": 6,
+          "title": "File:Vietnam War on television.jpg",
+          "index": 14,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 275156,
+              "width": 1024,
+              "height": 661,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Vietnam_War_on_television.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 1536,
+              "thumbheight": 992,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Vietnam_War_on_television.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 992
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Vietnam_War_on_television.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vietnam_War_on_television.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=55623912",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2017-01-31 00:12:27",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Vietnam War on television",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "History of broadcasting|Images from the Library of Congress|Television in the 1960s|News media|Home fronts|PD U.S. News & World Report|Vietnam War in February 1968|Library of Congress-no known copyright restrictions|U.S. News & World Report Magazine Photograph Collection",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "An American man and woman watching footage of the Vietnam War on a television in their living room.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1968-02-13",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "This image  is available from the United States <a href=\"//commons.wikimedia.org/wiki/Library_of_Congress\" title=\"Library of Congress\">Library of Congress</a>'s <a rel=\"nofollow\" class=\"external text\" href=\"//www.loc.gov/rr/print/\">Prints and Photographs division</a><br> under the digital ID <a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.loc.gov/loc.pnp/ds.01311\">ds.01311</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Warren K. Leffler, U.S. News &amp; World Report Magazine",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "62125348": {
+          "pageid": 62125348,
+          "ns": 6,
+          "title": "File:Living Room inside Graceland.jpg",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1742418,
+              "width": 4474,
+              "height": 2516,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Living_Room_inside_Graceland.jpg/1920px-Living_Room_inside_Graceland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 864,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Living_Room_inside_Graceland.jpg/3840px-Living_Room_inside_Graceland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Living_Room_inside_Graceland.jpg/1920px-Living_Room_inside_Graceland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 864,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Living_Room_inside_Graceland.jpg/3840px-Living_Room_inside_Graceland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Living_Room_inside_Graceland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Living_Room_inside_Graceland.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=62125348",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2017-09-03 03:20:04",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Living Room inside Graceland",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|Images from Wiki Loves Monuments 2017 in the United States|National Register of Historic Places with known IDs|Images from Wiki Loves Monuments 2017|United States photographs taken on 2017-06-30|Uploaded via Campaign:wlm-us|Images from Wiki Loves Monuments 2017 in Tennessee|Graceland Mansion (flat list)|Living Room, Graceland Mansion|Wiki Loves Monuments 2017 in the United States unreviewed",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Entering Graceland, this living room is one of the first rooms tourists see. In the background a television and grand piano can be seen in the music room.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2017-06-30 16:23:39",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Tgwaggoner&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Tgwaggoner (page does not exist)\">Terry Waggoner</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "62125350": {
+          "pageid": 62125350,
+          "ns": 6,
+          "title": "File:Music Room in Graceland, the home of Elvis Presley.jpg",
+          "index": 12,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3409870,
+              "width": 5184,
+              "height": 3456,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Music_Room_in_Graceland%2C_the_home_of_Elvis_Presley.jpg/1920px-Music_Room_in_Graceland%2C_the_home_of_Elvis_Presley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1024,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Music_Room_in_Graceland%2C_the_home_of_Elvis_Presley.jpg/3840px-Music_Room_in_Graceland%2C_the_home_of_Elvis_Presley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Music_Room_in_Graceland%2C_the_home_of_Elvis_Presley.jpg/1920px-Music_Room_in_Graceland%2C_the_home_of_Elvis_Presley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1024,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Music_Room_in_Graceland%2C_the_home_of_Elvis_Presley.jpg/3840px-Music_Room_in_Graceland%2C_the_home_of_Elvis_Presley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Music_Room_in_Graceland%2C_the_home_of_Elvis_Presley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Music_Room_in_Graceland,_the_home_of_Elvis_Presley.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=62125350",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2017-09-03 03:20:04",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Music Room in Graceland, the home of Elvis Presley",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|CRT television sets|Images from Wiki Loves Monuments 2017 in the United States|National Register of Historic Places with known IDs|Images from Wiki Loves Monuments 2017|United States photographs taken on 2017-06-30|Uploaded via Campaign:wlm-us|Images from Wiki Loves Monuments 2017 in Tennessee|Graceland Mansion (flat list)|Pianos of Elvis Presley|Wiki Loves Monuments 2017 in the United States unreviewed|Music Room, Graceland Mansion|Pianos in Graceland|Story & Clark grand pianos",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Entering Graceland, the music room, adjacent to the living room, is one of the first rooms tourists see. A grand piano and a television are prominent features of the music room.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2017-06-30 16:23:44",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Tgwaggoner&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Tgwaggoner (page does not exist)\">Terry Waggoner</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "90962827": {
+          "pageid": 90962827,
+          "ns": 6,
+          "title": "File:A flat-screen television.jpg",
+          "index": 13,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 4447897,
+              "width": 4032,
+              "height": 3024,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/A_flat-screen_television.jpg/1920px-A_flat-screen_television.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1152,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/A_flat-screen_television.jpg/3840px-A_flat-screen_television.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/A_flat-screen_television.jpg/1920px-A_flat-screen_television.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1152,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/A_flat-screen_television.jpg/3840px-A_flat-screen_television.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/A_flat-screen_television.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:A_flat-screen_television.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=90962827",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-06-05 12:45:29",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "A flat-screen television",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2020-06-05|Samsung LCD television sets",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "45.526415",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-73.584162",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "A flat-screen television in a bookshelf in the living room of a North American home",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "5 June 2020 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:EvanProdromou\" title=\"User:EvanProdromou\">EvanProdromou</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "101290339": {
+          "pageid": 101290339,
+          "ns": 6,
+          "title": "File:Television in an apartment (50339689761).png",
+          "index": 10,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 7153395,
+              "width": 2112,
+              "height": 2816,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Television_in_an_apartment_%2850339689761%29.png/1920px-Television_in_an_apartment_%2850339689761%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 2048,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Television_in_an_apartment_%2850339689761%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Television_in_an_apartment_%2850339689761%29.png/1920px-Television_in_an_apartment_%2850339689761%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 2048,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Television_in_an_apartment_%2850339689761%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Television_in_an_apartment_%2850339689761%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Television_in_an_apartment_(50339689761).png",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101290339",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-03-10 18:17:35",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Television in an apartment (50339689761)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Uploads by Matlin|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Photographs by Ben Schumin|RCA Victor television sets",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "39.079374",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-77.068598",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<p>Television and VCR in the living room of an apartment in Aspen Hill, Maryland.\n</p>\n<i>Ben Schumin is a professional photographer who captures the intricacies of daily life.  This image may be used under Creative Commons Attribution-ShareAlike 2.0.  Please provide artist attribution, as well as a link to the original photo and to the license terms.</i>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2008-04-06 00:00",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/schuminweb/50339689761/\">Television in an apartment</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/64873675@N00\">Ben Schumin</a> from Montgomery Village, Maryland, USA",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "119187599": {
+          "pageid": 119187599,
+          "ns": 6,
+          "title": "File:1950s living room at the Ohio History Center June 2022.jpg",
+          "index": 8,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 10873974,
+              "width": 6000,
+              "height": 4000,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/1950s_living_room_at_the_Ohio_History_Center_June_2022.jpg/1920px-1950s_living_room_at_the_Ohio_History_Center_June_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1024,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/1950s_living_room_at_the_Ohio_History_Center_June_2022.jpg/3840px-1950s_living_room_at_the_Ohio_History_Center_June_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/1950s_living_room_at_the_Ohio_History_Center_June_2022.jpg/1920px-1950s_living_room_at_the_Ohio_History_Center_June_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1024,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/1950s_living_room_at_the_Ohio_History_Center_June_2022.jpg/3840px-1950s_living_room_at_the_Ohio_History_Center_June_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/1950s_living_room_at_the_Ohio_History_Center_June_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:1950s_living_room_at_the_Ohio_History_Center_June_2022.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=119187599",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2022-06-11 21:12:27",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "1950s living room at the Ohio History Center June 2022",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Taken with Canon EOS 2000D|Interior of the Ohio History Center|Self-published work|Files with coordinates missing SDC location of creation|RCA Victor television sets|Photographs by User:DogsRNice",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "40.004828",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-82.987500",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "50s style living room with operating black and white television",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2022-06-10 15:28:52",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:DogsRNice\" title=\"User:DogsRNice\">DogsRNice</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "119967624": {
+          "pageid": 119967624,
+          "ns": 6,
+          "title": "File:Turning Technology into Furniture - Stove(1886), Radiola60 in Cab.(1927-28), Predicta TV(1958-60), RCA TV(1949), Edison Phonograph(1919), Sewing Machine(1950-55,1860-65) - Fully Furnished - Historic Furniture Exhibit - Henry Ford Museum.jpg",
+          "index": 16,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1877456,
+              "width": 4032,
+              "height": 3024,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Turning_Technology_into_Furniture_-_Stove%281886%29%2C_Radiola60_in_Cab.%281927-28%29%2C_Predicta_TV%281958-60%29%2C_RCA_TV%281949%29%2C_Edison_Phonograph%281919%29%2C_Sewing_Machine%281950-55%2C1860-65%29_-_Fully_Furnished_-_Historic_Furniture_Exhibit_-_Henry_Ford_Museum.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1152,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Turning_Technology_into_Furniture_-_Stove%281886%29%2C_Radiola60_in_Cab.%281927-28%29%2C_Predicta_TV%281958-60%29%2C_RCA_TV%281949%29%2C_Edison_Phonograph%281919%29%2C_Sewing_Machine%281950-55%2C1860-65%29_-_Fully_Furnished_-_Historic_Furniture_Exhibit_-_Henry_Ford_Museum.jpg/3840px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Turning_Technology_into_Furniture_-_Stove%281886%29%2C_Radiola60_in_Cab.%281927-28%29%2C_Predicta_TV%281958-60%29%2C_RCA_TV%281949%29%2C_Edison_Phonograph%281919%29%2C_Sewing_Machine%281950-55%2C1860-65%29_-_Fully_Furnished_-_Historic_Furniture_Exhibit_-_Henry_Ford_Museum.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1152,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Turning_Technology_into_Furniture_-_Stove%281886%29%2C_Radiola60_in_Cab.%281927-28%29%2C_Predicta_TV%281958-60%29%2C_RCA_TV%281949%29%2C_Edison_Phonograph%281919%29%2C_Sewing_Machine%281950-55%2C1860-65%29_-_Fully_Furnished_-_Historic_Furniture_Exhibit_-_Henry_Ford_Museum.jpg/3840px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Turning_Technology_into_Furniture_-_Stove%281886%29%2C_Radiola60_in_Cab.%281927-28%29%2C_Predicta_TV%281958-60%29%2C_RCA_TV%281949%29%2C_Edison_Phonograph%281919%29%2C_Sewing_Machine%281950-55%2C1860-65%29_-_Fully_Furnished_-_Historic_Furniture_Exhibit_-_Henry_Ford_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Turning_Technology_into_Furniture_-_Stove(1886),_Radiola60_in_Cab.(1927-28),_Predicta_TV(1958-60),_RCA_TV(1949),_Edison_Phonograph(1919),_Sewing_Machine(1950-55,1860-65)_-_Fully_Furnished_-_Historic_Furniture_Exhibit_-_Henry_Ford_Museum.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=119967624",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2022-07-01 11:51:05",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Turning Technology into Furniture - Stove(1886), Radiola60 in Cab.(1927-28), Predicta TV(1958-60), RCA TV(1949), Edison Phonograph(1919), Sewing Machine(1950-55,1860-65) - Fully Furnished - Historic Furniture Exhibit - Henry Ford Museum",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Sears, Roebuck and Company|Phonograms|Predicta television sets|CRT television sets|1949 productions|1958 productions|1919 productions|1950s productions|1860s productions|1886 productions|1927 radio productions|July 2016 in Michigan|Edison phonographs|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Sewing machines in the United States|Cabinet radios|Florence Sewing Machine Company|Heating stoves in the United States|Cabinet television sets|RCA Radiola radios|RCA Victor television sets|Radio cabinets|Fully Furnished - Historic Furniture Exhibit - Henry Ford Museum",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "42.303047",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-83.234467",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<p>Furniture on display as part of a \"Fully Furnished\" exhibit at The Henry Ford in Dearborn, MI.\n</p>\n<table class=\"wikitable\" style=\"font-size:90%;\">\n<tbody><tr>\n<td><div style=\"float:left;margin-right:1em;\"><span style=\"font-size:200%;\"><span style=\"background:transparent;color:#666;font-weight:400;\" title=\"transparent\"><b>2</b></span></span></div>\n<div style=\"float:left;width:10em;line-height:110%;\">RCA Radiola 60 Receiver in Cabinet, <span style=\"background:transparent;color:#666;font-weight:400;\" title=\"transparent\">1927-1928</span></div>\n</td><td><div style=\"float:left;margin-right:1em;\"><span style=\"font-size:200%;\"><span style=\"background:transparent;color:#666;font-weight:400;\" title=\"transparent\"><b>3</b></span></span></div>\n<div style=\"float:left;width:10em;line-height:110%;\">Predicta Television Receiver, <span style=\"background:transparent;color:#666;font-weight:400;\" title=\"transparent\">1958-1960</span></div>\n</td><td><div style=\"float:left;margin-right:1em;\"><span style=\"font-size:200%;\"><span style=\"background:transparent;color:#666;font-weight:400;\" title=\"transparent\"><b>4</b></span></span></div>\n<div style=\"float:left;width:10em;line-height:110%;\">Television Receiver, <span style=\"background:transparent;color:#666;font-weight:400;\" title=\"transparent\">1949</span></div>\n</td><td>\n</td></tr><tr>\n<td><div style=\"float:left;margin-right:1em;\"><span style=\"font-size:200%;\"><span style=\"background:transparent;color:#666;font-weight:400;\" title=\"transparent\"><b>1</b></span></span></div>\n<div style=\"float:left;width:10em;line-height:110%;\">Heating Stove, <span style=\"background:transparent;color:#666;font-weight:400;\" title=\"transparent\">1886</span></div>\n</td><td><div style=\"float:left;margin-right:1em;\"><span style=\"font-size:200%;\"><span style=\"background:transparent;color:#666;font-weight:400;\" title=\"transparent\"><b>6</b></span></span></div>\n<div style=\"float:left;width:10em;line-height:110%;\">Sewing Machine, <span style=\"background:transparent;color:#666;font-weight:400;\" title=\"transparent\">1950-1955</span></div>\n</td><td><div style=\"float:left;margin-right:1em;\"><span style=\"font-size:200%;\"><span style=\"background:transparent;color:#666;font-weight:400;\" title=\"transparent\"><b>7</b></span></span></div>\n<div style=\"float:left;width:10em;line-height:110%;\">Sewing Machine, <span style=\"background:transparent;color:#666;font-weight:400;\" title=\"transparent\">1860-1865</span></div>\n</td><td><div style=\"float:left;margin-right:1em;\"><span style=\"font-size:200%;\"><span style=\"background:transparent;color:#666;font-weight:400;\" title=\"transparent\"><b>5</b></span></span></div>\n<div style=\"float:left;width:10em;line-height:110%;\">Phonograph, <span style=\"background:transparent;color:#666;font-weight:400;\" title=\"transparent\">1919</span></div>\n</td></tr></tbody></table>\n<div style=\"width:66.5em;\">\n<div style=\"float:left;\"><span style=\"font-size:380%;\"><b>Turning Technology</b></span></div>\n<div style=\"float:right;text-align:right;font-size:80%;\">\n<pre>The first stoves, sewing machines and radios\nseemed out of place next to furniture, so\nmanufacturers used cabinetry and decorative\nfeatures to hide mechanisms.\n</pre>\n</div>\n<div style=\"clear:both;\"></div><div style=\"float:right;font-family:Brush Script MT, Brush Script Std, Lucida Calligraphy, Lucida Handwriting, Apple Chancery, Segoe Script, cursive;\"><span style=\"font-size:380%;\"><i><b>into Furniture</b></i></span></div><div style=\"clear:both;\"></div>\n<div style=\"column-count:3;margin:.3em 0;\" class=\"columns\"><div style=\"margin:-.3em 0;\">\n<div style=\"line-height:0ex;\"><br></div>\n<pre><span style=\"font-size:120%;\"><b><span style=\"background:transparent;color:#666;font-weight:400;\" title=\"transparent\">1</span> Heating Stove</b></span>\n  <span style=\"background:transparent;color:#666;font-weight:400;\" title=\"transparent\">1886</span>\n  \n  This heating stove's elaborate\n  decoration made it a\n  showpiece, appropriate for the\n  best parlor.\n  <small>\n  Made by the Still Stove Works\n  Rochester, New York\n  Cast iron\n  <b><a rel=\"nofollow\" class=\"external text\" href=\"https://www.thehenryford.org/collections-and-research/digital-collections/artifact/165963\">33.128.1</a></b>\n  Gift of Eva Jean Lampkin</small>\n</pre>\n<div style=\"line-height:0;\"><br></div>\n<pre><span style=\"font-size:120%;\"><b><span style=\"background:transparent;color:#666;font-weight:400;\" title=\"transparent\">2</span> RCA Radiola 60</b>\n  <b>Receiver in</b>\n  <b>Cabinet</b></span>\n  <span style=\"background:transparent;color:#666;font-weight:400;\" title=\"transparent\">1927-1928</span>\n  \n  The RCA Radiola 60 receiver is\n  carefully concealed in a\n  custom-made case by Anthony\n  Osebold, a European-trained\n  carver of church altars in\n  Detroit. This example is an\n  opulent showcase of his\n  woodworking skills. The\n  <span style=\"letter-spacing:-0.015em;\">cabinet's appeal is twofold: It</span>\n  houses some of the most\n  refined radio technology\n  available at the time, yet its\n  lavish craftsmanship harkens\n  back to earlier historical\n  traditions.\n  <small>\n  Radio made by The Radio Corporation\n  of America\n  Camden, New Jersey\n  Cabinet carved by Anthony Osebold in\n  Detroit, Michigan\n  Mahogany and walnut\n  Gift in memory of\n  ...</small>\n</pre>\n<div style=\"line-height:0;\"><br></div>\n<pre><span style=\"font-size:120%;\"><b><span style=\"background:transparent;color:#666;font-weight:400;\" title=\"transparent\">3</span> Predicta Television</b>\n  <b>Receiver</b></span>\n  <span style=\"background:transparent;color:#666;font-weight:400;\" title=\"transparent\">1958-1960</span>\n  \n  Philco's Predicta televisions,\n  part furniture and part\n  appliance, were a bold\n  celebration of TV technology.\n  <span style=\"letter-spacing:-0.03em;\">Their perched screens recall the</span>\n  prominent speaker horns of\n  early phonographs but also\n  suggest present-day computer\n  monitors.\n  <small>\n  Made by Philco Corporation\n  Philadelphia, Pennsylvania\n  Wood grained plastic laminate\n  <b><a rel=\"nofollow\" class=\"external text\" href=\"https://www.thehenryford.org/collections-and-research/digital-collections/artifact/260407\">88.252.1</a></b></small>\n</pre>\n<div style=\"line-height:0;\"><br></div>\n<pre><span style=\"font-size:120%;\"><b><span style=\"background:transparent;color:#666;font-weight:400;\" title=\"transparent\">4</span> Television Receiver</b></span>\n  <span style=\"background:transparent;color:#666;font-weight:400;\" title=\"transparent\">1949</span>\n  \n  The Queen Anne style of the\n  18th century provides\n  camouflage for\n  mid-20th-century television\n  technology—artfully hidden yet\n  easily accessible.\n  <small>\n  Made by Radio Corporation of America\n  Camden, New Jersey\n  Mahogany with mahogany veneer\n  <b><a rel=\"nofollow\" class=\"external text\" href=\"https://www.thehenryford.org/collections-and-research/digital-collections/artifact/48352\">74.137.1</a></b>\n  <span style=\"letter-spacing:-0.07em;\">Gift of Mr. and Mrs. Alexander Fraser Ma?d??</span></small>\n</pre>\n<div style=\"line-height:0;\"><br></div>\n<pre><span style=\"font-size:120%;\"><b><span style=\"background:transparent;color:#666;font-weight:400;\" title=\"transparent\">5</span> Phonograph</b></span>\n  <span style=\"background:transparent;color:#666;font-weight:400;\" title=\"transparent\">1919</span>\n  \n  Intended to harmonize with a\n  <span style=\"letter-spacing:-0.06em;\">parlor or library suite, this case</span>\n  hides the workings of the\n  phonograph behind fine wood\n  and inlays.\n  <small>\n  Made by Thomas A. Edison, Inc.\n  Orange, New Jersey\n  Mahogany with ???wood inlay\n  <b><a rel=\"nofollow\" class=\"external text\" href=\"https://www.thehenryford.org/collections-and-research/digital-collections/artifact/269261\">00.256.4</a></b>\n  Gift of Thomas A. Edison</small>\n</pre>\n<div style=\"line-height:0;\"><br></div>\n<pre><span style=\"font-size:120%;\"><b><span style=\"background:transparent;color:#666;font-weight:400;\" title=\"transparent\">6</span> Sewing Machine</b></span>\n  <span style=\"background:transparent;color:#666;font-weight:400;\" title=\"transparent\">1950-1955</span>\n  \n  Space-saving taken to an\n  extreme; When folded, this\n  console reduces the sewing\n  machine, operator's seat—and\n  even storage in the seat—to an\n  understated block-like\n  presence.\n  <small>\n  Made by Sears Roebuck and Company\n  ...</small>\n</pre>\n<div style=\"line-height:0;\"><br></div>\n<pre><span style=\"font-size:120%;\"><b><span style=\"background:transparent;color:#666;font-weight:400;\" title=\"transparent\">7</span> Sewing Machine</b></span>\n  <span style=\"background:transparent;color:#666;font-weight:400;\" title=\"transparent\">1860-1865</span>\n  \n  Fashionable parlor furniture\n  inspired the ornately scrolled\n  and pierced iron legs of this\n  elaborately decorated sewing\n  machine.\n  <small>\n  Made by the Florence Sewing Machine\n  Company\n  Florence, Massachusetts\n  <b><a rel=\"nofollow\" class=\"external text\" href=\"https://www.thehenryford.org/collections-and-research/digital-collections/artifact/40808\">00.3.10048</a></b></small>\n</pre>\n<div style=\"line-height:0;\"></div>\n</div></div></div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2016-07-26 15:35",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/michaelsteeber/30912903113/\">Fully Furnished At The Henry Ford- Dearborn, MI</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/43698709@N08\">Michael Steeber</a> from USA",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "156405757": {
+          "pageid": 156405757,
+          "ns": 6,
+          "title": "File:MC 澳門 Macau Cotai 上蒲京 Grand Lisboa Palace 酒店 hotel living room television set November 2024 R12S 801.jpg",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3262959,
+              "width": 3000,
+              "height": 4000,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/MC_%E6%BE%B3%E9%96%80_Macau_Cotai_%E4%B8%8A%E8%92%B2%E4%BA%AC_Grand_Lisboa_Palace_%E9%85%92%E5%BA%97_hotel_living_room_television_set_November_2024_R12S_801.jpg/1920px-MC_%E6%BE%B3%E9%96%80_Macau_Cotai_%E4%B8%8A%E8%92%B2%E4%BA%AC_Grand_Lisboa_Palace_%E9%85%92%E5%BA%97_hotel_living_room_television_set_November_2024_R12S_801.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 2048,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/d/d7/MC_%E6%BE%B3%E9%96%80_Macau_Cotai_%E4%B8%8A%E8%92%B2%E4%BA%AC_Grand_Lisboa_Palace_%E9%85%92%E5%BA%97_hotel_living_room_television_set_November_2024_R12S_801.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/MC_%E6%BE%B3%E9%96%80_Macau_Cotai_%E4%B8%8A%E8%92%B2%E4%BA%AC_Grand_Lisboa_Palace_%E9%85%92%E5%BA%97_hotel_living_room_television_set_November_2024_R12S_801.jpg/1920px-MC_%E6%BE%B3%E9%96%80_Macau_Cotai_%E4%B8%8A%E8%92%B2%E4%BA%AC_Grand_Lisboa_Palace_%E9%85%92%E5%BA%97_hotel_living_room_television_set_November_2024_R12S_801.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 2048,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/d/d7/MC_%E6%BE%B3%E9%96%80_Macau_Cotai_%E4%B8%8A%E8%92%B2%E4%BA%AC_Grand_Lisboa_Palace_%E9%85%92%E5%BA%97_hotel_living_room_television_set_November_2024_R12S_801.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/MC_%E6%BE%B3%E9%96%80_Macau_Cotai_%E4%B8%8A%E8%92%B2%E4%BA%AC_Grand_Lisboa_Palace_%E9%85%92%E5%BA%97_hotel_living_room_television_set_November_2024_R12S_801.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:MC_%E6%BE%B3%E9%96%80_Macau_Cotai_%E4%B8%8A%E8%92%B2%E4%BA%AC_Grand_Lisboa_Palace_%E9%85%92%E5%BA%97_hotel_living_room_television_set_November_2024_R12S_801.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=156405757",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-12-07 15:14:40",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "MC 澳門 Macau Cotai 上蒲京 Grand Lisboa Palace 酒店 hotel living room television set November 2024 R12S 801",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "CC-Zero|Self-published work|November 2024 in Cotai|Files with coordinates missing SDC location of creation|Photographs by Anonymous Hong Kong Photographer 1|Macau photographs taken on 2024-11-12|2024 in Grand Lisboa Palace|Grand Lisboa Palace - Rooms",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "22.144577",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "113.572967",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "MC 澳門 Macau Cotai 上蒲京 Grand Lisboa Palace 酒店 hotel room in November 2024",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2024-11-12 16:04:04",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:JohnLEE_Brothers\" title=\"User:JohnLEE Brothers\">JohnLEE Brothers</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Zero, Public Domain Dedication",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "156872989": {
+          "pageid": 156872989,
+          "ns": 6,
+          "title": "File:Fonds André Raymond (1925-2011) - Algérie - Constantine - Maisons dans le quartier de Bab Gabiya (MédiHAL 4418919).jpg",
+          "index": 20,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 624465,
+              "width": 2039,
+              "height": 3143,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Fonds_Andr%C3%A9_Raymond_%281925-2011%29_-_Alg%C3%A9rie_-_Constantine_-_Maisons_dans_le_quartier_de_Bab_Gabiya_%28M%C3%A9diHAL_4418919%29.jpg/1920px-Fonds_Andr%C3%A9_Raymond_%281925-2011%29_-_Alg%C3%A9rie_-_Constantine_-_Maisons_dans_le_quartier_de_Bab_Gabiya_%28M%C3%A9diHAL_4418919%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 2368,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/4/49/Fonds_Andr%C3%A9_Raymond_%281925-2011%29_-_Alg%C3%A9rie_-_Constantine_-_Maisons_dans_le_quartier_de_Bab_Gabiya_%28M%C3%A9diHAL_4418919%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Fonds_Andr%C3%A9_Raymond_%281925-2011%29_-_Alg%C3%A9rie_-_Constantine_-_Maisons_dans_le_quartier_de_Bab_Gabiya_%28M%C3%A9diHAL_4418919%29.jpg/1920px-Fonds_Andr%C3%A9_Raymond_%281925-2011%29_-_Alg%C3%A9rie_-_Constantine_-_Maisons_dans_le_quartier_de_Bab_Gabiya_%28M%C3%A9diHAL_4418919%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 2368,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/4/49/Fonds_Andr%C3%A9_Raymond_%281925-2011%29_-_Alg%C3%A9rie_-_Constantine_-_Maisons_dans_le_quartier_de_Bab_Gabiya_%28M%C3%A9diHAL_4418919%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Fonds_Andr%C3%A9_Raymond_%281925-2011%29_-_Alg%C3%A9rie_-_Constantine_-_Maisons_dans_le_quartier_de_Bab_Gabiya_%28M%C3%A9diHAL_4418919%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Fonds_Andr%C3%A9_Raymond_(1925-2011)_-_Alg%C3%A9rie_-_Constantine_-_Maisons_dans_le_quartier_de_Bab_Gabiya_(M%C3%A9diHAL_4418919).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=156872989",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-12-19 03:09:16",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Fonds André Raymond (1925-2011) - Algérie - Constantine - Maisons dans le quartier de Bab Gabiya",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Files with coordinates missing SDC location of creation|1950 photographs of Algeria|MédiHAL files uploaded by OptimusPrimeBot|Fonds André Raymond|Constantine, Algeria in 1950|Photographs of Constantine by André Raymond|Licence Ouverte 2.0",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "36.365000",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "6.614720",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nMaison Méditerranéenne Des Sciences de l'Homme Phonothèque, André Raymond</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "Wide shot of houses in the Bab Gabiya district of Constantine. A group of white houses with tiled roofs is at the heart of the image. Electrical wires are visible, they are connected to the various rake antennas used to receive television. One of them is directly connected to a window of the white building on the right, probably a living room where there is a television. Behind the white buildings, an area strewn with rubble is visible. On the slide support A. Raymond has written: \"Bab Gabiya Houses\".",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "Taken in 1950",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://media.hal.science/hal-04418919v1\">Fonds André Raymond (1925-2011) - Algérie - Constantine - Maisons dans le quartier de Bab Gabiya</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Licence Ouverte",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Licence Ouverte",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://www.etalab.gouv.fr/licence-ouverte-open-licence",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "184920313": {
+          "pageid": 184920313,
+          "ns": 6,
+          "title": "File:Karen Refugees become Homeowners (20120718-RD-LSC-1163).jpg",
+          "index": 15,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 16286272,
+              "width": 4928,
+              "height": 3264,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Karen_Refugees_become_Homeowners_%2820120718-RD-LSC-1163%29.jpg/1920px-Karen_Refugees_become_Homeowners_%2820120718-RD-LSC-1163%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1017,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Karen_Refugees_become_Homeowners_%2820120718-RD-LSC-1163%29.jpg/3840px-Karen_Refugees_become_Homeowners_%2820120718-RD-LSC-1163%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Karen_Refugees_become_Homeowners_%2820120718-RD-LSC-1163%29.jpg/1920px-Karen_Refugees_become_Homeowners_%2820120718-RD-LSC-1163%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1017,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Karen_Refugees_become_Homeowners_%2820120718-RD-LSC-1163%29.jpg/3840px-Karen_Refugees_become_Homeowners_%2820120718-RD-LSC-1163%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Karen_Refugees_become_Homeowners_%2820120718-RD-LSC-1163%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Karen_Refugees_become_Homeowners_(20120718-RD-LSC-1163).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=184920313",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2026-02-24 15:14:02",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Karen Refugees become Homeowners (20120718-RD-LSC-1163)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Delta, Colorado|PD USDA|Flickr images missing SDC creator|United States photographs taken on 2012-07-18|Flickr images reviewed by FlickreviewR 2|Files from U.S. Department of Agriculture Flickr stream|U.S. Department of Agriculture Flickr files uploaded by OptimusPrimeBot|Flickr images missing SDC published in",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Saw \"Richard\" Peter, Naw Susu, and their sons watch television in the living room of the first home that own in the United States, in Delta, Colorado, on July 18, 2012. They are an ethnic minority Karen refugee family from Myanmar (formerly known as Burma). \n<p>They started a new life of home ownership in the United States, thanks to the Guaranteed Home Loan program from USDA Rural Development. \n</p>\nWhen Peter, an agricultural worker, and his family first arrived in Delta, they lived in Alta de la Montana, a new multi-family 41-unit rental housing complex for low-income farm laborers and their families. Later, Peter started a new job with better pay, and he felt it was time to stop renting and get a home of his own. Initially, he had concerns about whether his credit would be good enough to qualify for a mortgage. He worked with Cindy Webster from Republic Mortgage, a local lender participating in the USDA Rural Development Guaranteed Home Loan Program, and learned that his credit was even better than he thought. Webster helped him throughout every stage of the application process, and he was subsequently approved for the loan. The family moved into its new home in the summer of 2012. It will give Peter’s two sons a sense of permanency, and they will also benefit from educational opportunities at nearby good quality schools. USDA Photo by Lance Cheung.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "Taken on 18 July 2012, 14:55:44",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/usdagov/51181663418\">20120718-RD-LSC-1163</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/usdagov/\">USDAgov</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

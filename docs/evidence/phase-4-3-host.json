@@ -1,0 +1,9 @@
+{
+  "os": "Microsoft Windows NT 10.0.26200.0",
+  "architecture": "AMD64",
+  "capturedUtc": "2026-10-13T15:10:14.6064677Z",
+  "identifier": "Intel64 Family 6 Model 165 Stepping 2, GenuineIntel",
+  "logicalProcessors": 12,
+  "cpuName": "Unavailable through sandbox CIM",
+  "osMemory": "Unavailable: CIM resource access denied"
+}

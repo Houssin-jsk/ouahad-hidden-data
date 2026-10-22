@@ -1,0 +1,28 @@
+
+> ouahad-hidden-data@0.1.0 build
+> node scripts/run-next.mjs build
+
+▲ Next.js 16.4.0 (Turbopack)
+✓ Running next.config.ts took 50ms
+
+  Creating an optimized production build ...
+✓ Compiled successfully in 2.8s
+  Running TypeScript ...
+  Finished TypeScript in 5.4s ...
+  Collecting page data using 4 workers ...
+  Generating static pages using 4 workers (0/3) ...
+✓ Generating static pages using 4 workers (3/3) in 1460ms
+  Finalizing page optimization ...
+
+Route (app)
+┌ ○ /
+└ ○ /_not-found
+
+
+○  (Static)  prerendered as static content
+
+
+> ouahad-hidden-data@0.1.0 postbuild
+> node scripts/verify-release.mjs
+
+Release verified: /_global-error/page, /_not-found/page, /page; 78 output/trace files inspected; no AI models or research routes.

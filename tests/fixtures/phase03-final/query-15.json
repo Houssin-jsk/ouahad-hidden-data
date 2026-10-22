@@ -1,0 +1,1148 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 10,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "4016908": {
+        "pageid": 4016908,
+        "ns": 6,
+        "title": "File:Cymbidium Clarisse Austin 'Best Pink' Flowers 2000px.JPG",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1781294,
+            "width": 2000,
+            "height": 3008,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Cymbidium_Clarisse_Austin_%27Best_Pink%27_Flowers_2000px.JPG/960px-Cymbidium_Clarisse_Austin_%27Best_Pink%27_Flowers_2000px.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1155,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Cymbidium_Clarisse_Austin_%27Best_Pink%27_Flowers_2000px.JPG/1920px-Cymbidium_Clarisse_Austin_%27Best_Pink%27_Flowers_2000px.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Cymbidium_Clarisse_Austin_%27Best_Pink%27_Flowers_2000px.JPG/960px-Cymbidium_Clarisse_Austin_%27Best_Pink%27_Flowers_2000px.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1155,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Cymbidium_Clarisse_Austin_%27Best_Pink%27_Flowers_2000px.JPG/1920px-Cymbidium_Clarisse_Austin_%27Best_Pink%27_Flowers_2000px.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Cymbidium_Clarisse_Austin_%27Best_Pink%27_Flowers_2000px.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cymbidium_Clarisse_Austin_%27Best_Pink%27_Flowers_2000px.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4016908",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2008-05-12 10:01:37",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Cymbidium Clarisse Austin 'Best Pink' Flowers 2000px",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Nikon D50|GFDL-1.2|Featured pictures of Pennsylvania|Self-published work|Featured pictures on Wikipedia, English|Featured pictures by Derek Ramsey|Photographs by Derek Ramsey|Cymbidium Clarisse|Featured pictures of flowers|Featured pictures on Wikipedia, Persian|Featured pictures on Wikipedia, Turkish|Featured pictures on Wikipedia, Vietnamese|Featured pictures of Pittsburgh|Files with coordinates missing SDC location of creation|Featured pictures of Orchidaceae|Picture of week on the Malay Wikipedia|Orchids in Phipps Conservatory",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality|featured|potd",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "40.439043",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-79.947799",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Picture of a <a href=\"//commons.wikimedia.org/wiki/Cymbidium_cultivars\" title=\"Cymbidium cultivars\">Boat Orchid</a><small><sup><a href=\"https://en.wikipedia.org/wiki/Cymbidium_cultivars\" class=\"extiw\" title=\"en:Cymbidium cultivars\">en</a></sup></small> (<span style=\"white-space:nowrap\"><i><a href=\"//commons.wikimedia.org/wiki/Cymbidium\" title=\"Cymbidium\">Cymbidium</a></i> <small><sup><i><a href=\"https://en.wikipedia.org/wiki/Cymbidium\" class=\"extiw\" title=\"en:Cymbidium\">en</a>   </i></sup></small></span> Clarisse Austin 'Best Pink') flower chain.  Photo taken at the <a href=\"https://en.wikipedia.org/wiki/Phipps_Conservatory_%26_Botanical_Gardens\" class=\"extiw\" title=\"en:Phipps Conservatory &amp; Botanical Gardens\">Phipps Conservatory &amp; Botanical Gardens</a> where it was identified.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2008-04-13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\">Self-photographed</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Photo by and (c)2008 Derek Ramsey (<a href=\"https://en.wikipedia.org/wiki/User:Ram-Man\" class=\"extiw\" title=\"en:User:Ram-Man\">Ram-Man</a>)",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "I, the copyright holder of this work, hereby publish it under the following license:",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "GFDL 1.2",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "GNU Free Documentation License 1.2",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "4034285": {
+        "pageid": 4034285,
+        "ns": 6,
+        "title": "File:Orchid X Doritaenopsis 'Dorado' Flower 2721px.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2455333,
+            "width": 2721,
+            "height": 2000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Orchid_X_Doritaenopsis_%27Dorado%27_Flower_2721px.jpg/960px-Orchid_X_Doritaenopsis_%27Dorado%27_Flower_2721px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 564,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Orchid_X_Doritaenopsis_%27Dorado%27_Flower_2721px.jpg/1920px-Orchid_X_Doritaenopsis_%27Dorado%27_Flower_2721px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Orchid_X_Doritaenopsis_%27Dorado%27_Flower_2721px.jpg/960px-Orchid_X_Doritaenopsis_%27Dorado%27_Flower_2721px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 564,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Orchid_X_Doritaenopsis_%27Dorado%27_Flower_2721px.jpg/1920px-Orchid_X_Doritaenopsis_%27Dorado%27_Flower_2721px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Orchid_X_Doritaenopsis_%27Dorado%27_Flower_2721px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Orchid_X_Doritaenopsis_%27Dorado%27_Flower_2721px.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4034285",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2008-05-12 02:33:33",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Orchid X Doritaenopsis 'Dorado' Flower 2721px",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "× Doritaenopsis|Taken with Nikon D50|GFDL-1.2|Self-published work|Photographs by Derek Ramsey|Files with coordinates missing SDC location of creation|Orchids in Phipps Conservatory",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "40.439043",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-79.947799",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<p>Picture of a <a href=\"//commons.wikimedia.org/wiki/Orchid\" class=\"mw-redirect\" title=\"Orchid\">Orchid</a><small><sup><a href=\"https://en.wikipedia.org/wiki/Orchid\" class=\"extiw\" title=\"en:Orchid\">en</a></sup></small> (<span style=\"white-space:nowrap\"><i><a href=\"//commons.wikimedia.org/wiki/X_Doritaenopsis\" class=\"mw-redirect\" title=\"X Doritaenopsis\">X Doritaenopsis</a></i> <small><sup><i><a href=\"https://en.wikipedia.org/wiki/X_Doritaenopsis\" class=\"extiw\" title=\"en:X Doritaenopsis\">en</a>   </i></sup></small></span> 'Dorado') flower.  Photo taken at the <a href=\"https://en.wikipedia.org/wiki/Phipps_Conservatory_%26_Botanical_Gardens\" class=\"extiw\" title=\"en:Phipps Conservatory &amp; Botanical Gardens\">Phipps Conservatory &amp; Botanical Gardens</a> where it was identified. <br style=\"clear:both\">\n</p>\n<table align=\"center\" style=\"width:80%; background-color:#f7f8ff; border:2px solid #8888aa; padding:5px;\">\n\n<tbody><tr>\n<td><table border=\"0\" width=\"100%\" style=\"background-color:#f7f8ff;\">\n<tbody><tr><td><div style=\"font-family:Comic Sans MS;\"><b>Camera and Exposure Details:</b><br><i>Camera: </i><a href=\"https://en.wikipedia.org/wiki/Nikon_D50\" class=\"extiw\" title=\"w:Nikon D50\">Nikon D50</a><br><i>Lens: </i>Sigma 70mm f/2.8 EX DG Macro<br><i>Exposure: </i>\n70mm (105mm in <a href=\"https://en.wikipedia.org/wiki/35mm\" class=\"extiw\" title=\"w:35mm\">35mm equivalent</a>) <a href=\"https://en.wikipedia.org/wiki/f-number\" class=\"extiw\" title=\"w:f-number\">f/5.6</a> @ 1/60 s. (320 ISO)<br></div></td></tr><tr><td colspan=\"2\"></td></tr></tbody></table>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2008-04-13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\">Self-photographed</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Photo by and (c)2008 Derek Ramsey (<a href=\"https://en.wikipedia.org/wiki/User:Ram-Man\" class=\"extiw\" title=\"en:User:Ram-Man\">Ram-Man</a>)",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "I, the copyright holder of this work, hereby publish it under the following license:",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "GFDL 1.2",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "GNU Free Documentation License 1.2",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "4034291": {
+        "pageid": 4034291,
+        "ns": 6,
+        "title": "File:Orchid X Doritaenopsis 'Dorado' Closeup 3008px.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2708880,
+            "width": 3008,
+            "height": 2000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Orchid_X_Doritaenopsis_%27Dorado%27_Closeup_3008px.jpg/960px-Orchid_X_Doritaenopsis_%27Dorado%27_Closeup_3008px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 511,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Orchid_X_Doritaenopsis_%27Dorado%27_Closeup_3008px.jpg/1920px-Orchid_X_Doritaenopsis_%27Dorado%27_Closeup_3008px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Orchid_X_Doritaenopsis_%27Dorado%27_Closeup_3008px.jpg/960px-Orchid_X_Doritaenopsis_%27Dorado%27_Closeup_3008px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 511,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Orchid_X_Doritaenopsis_%27Dorado%27_Closeup_3008px.jpg/1920px-Orchid_X_Doritaenopsis_%27Dorado%27_Closeup_3008px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Orchid_X_Doritaenopsis_%27Dorado%27_Closeup_3008px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Orchid_X_Doritaenopsis_%27Dorado%27_Closeup_3008px.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4034291",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2008-05-12 02:36:08",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Orchid X Doritaenopsis 'Dorado' Closeup 3008px",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "× Doritaenopsis|Taken with Nikon D50|GFDL-1.2|Self-published work|Photographs by Derek Ramsey|Files with coordinates missing SDC location of creation|Orchids in Phipps Conservatory",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "40.439043",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-79.947799",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<p>Picture of a <a href=\"//commons.wikimedia.org/wiki/Orchid\" class=\"mw-redirect\" title=\"Orchid\">Orchid</a><small><sup><a href=\"https://en.wikipedia.org/wiki/Orchid\" class=\"extiw\" title=\"en:Orchid\">en</a></sup></small> (<span style=\"white-space:nowrap\"><i><a href=\"//commons.wikimedia.org/wiki/X_Doritaenopsis\" class=\"mw-redirect\" title=\"X Doritaenopsis\">X Doritaenopsis</a></i> <small><sup><i><a href=\"https://en.wikipedia.org/wiki/X_Doritaenopsis\" class=\"extiw\" title=\"en:X Doritaenopsis\">en</a>   </i></sup></small></span> 'Dorado') flower closeup.  Photo taken at the <a href=\"https://en.wikipedia.org/wiki/Phipps_Conservatory_%26_Botanical_Gardens\" class=\"extiw\" title=\"en:Phipps Conservatory &amp; Botanical Gardens\">Phipps Conservatory &amp; Botanical Gardens</a> where it was identified. <br style=\"clear:both\">\n</p>\n<table align=\"center\" style=\"width:80%; background-color:#f7f8ff; border:2px solid #8888aa; padding:5px;\">\n\n<tbody><tr>\n<td><table border=\"0\" width=\"100%\" style=\"background-color:#f7f8ff;\">\n<tbody><tr><td><div style=\"font-family:Comic Sans MS;\"><b>Camera and Exposure Details:</b><br><i>Camera: </i><a href=\"https://en.wikipedia.org/wiki/Nikon_D50\" class=\"extiw\" title=\"w:Nikon D50\">Nikon D50</a><br><i>Lens: </i>Sigma 70mm f/2.8 EX DG Macro<br><i>Exposure: </i>\n70mm (105mm in <a href=\"https://en.wikipedia.org/wiki/35mm\" class=\"extiw\" title=\"w:35mm\">35mm equivalent</a>) <a href=\"https://en.wikipedia.org/wiki/f-number\" class=\"extiw\" title=\"w:f-number\">f/5.6</a> @ 1/60 s. (360 ISO)<br></div></td></tr><tr><td colspan=\"2\"></td></tr></tbody></table>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2008-04-13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\">Self-photographed</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Photo by and (c)2008 Derek Ramsey (<a href=\"https://en.wikipedia.org/wiki/User:Ram-Man\" class=\"extiw\" title=\"en:User:Ram-Man\">Ram-Man</a>)",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "I, the copyright holder of this work, hereby publish it under the following license:",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "GFDL 1.2",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "GNU Free Documentation License 1.2",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "24897754": {
+        "pageid": 24897754,
+        "ns": 6,
+        "title": "File:Macro photography of yellow orchid blossoms.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 192681,
+            "width": 2970,
+            "height": 1966,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Macro_photography_of_yellow_orchid_blossoms.jpg/960px-Macro_photography_of_yellow_orchid_blossoms.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 508,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Macro_photography_of_yellow_orchid_blossoms.jpg/1920px-Macro_photography_of_yellow_orchid_blossoms.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Macro_photography_of_yellow_orchid_blossoms.jpg/960px-Macro_photography_of_yellow_orchid_blossoms.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 508,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Macro_photography_of_yellow_orchid_blossoms.jpg/1920px-Macro_photography_of_yellow_orchid_blossoms.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Macro_photography_of_yellow_orchid_blossoms.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Macro_photography_of_yellow_orchid_blossoms.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24897754",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-02-27 18:22:30",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Macro photography of yellow orchid blossoms",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-author|Images uploaded by Fæ|Unidentified Cypripedium|Public-domain-image.com|Photographs by Thomas G. Barnes",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<br>\n<dl><dd>Image title: Macro photography of yellow orchid blossoms</dd>\n<dd>Image from Public domain images website, <a rel=\"nofollow\" class=\"external free\" href=\"http://www.public-domain-image.com/full-image/flora-plants-public-domain-images-pictures/flowers-public-domain-images-pictures/orchid-flower-pictures/macro-photography-of-yellow-orchid-blossoms.jpg.html\">http://www.public-domain-image.com/full-image/flora-plants-public-domain-images-pictures/flowers-public-domain-images-pictures/orchid-flower-pictures/macro-photography-of-yellow-orchid-blossoms.jpg.html</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "<p>Not given\n</p>\n<ul><li>Transferred by <a href=\"//commons.wikimedia.org/wiki/User:F%C3%A6\" title=\"User:Fæ\">Fæ</a> on 2013-02-27</li></ul>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.public-domain-image.com/public-domain-images-pictures-free-stock-photos/flora-plants-public-domain-images-pictures/flowers-public-domain-images-pictures/orchid-flower-pictures/macro-photography-of-yellow-orchid-blossoms.jpg\">http://www.public-domain-image.com/public-domain-images-pictures-free-stock-photos/flora-plants-public-domain-images-pictures/flowers-public-domain-images-pictures/orchid-flower-pictures/macro-photography-of-yellow-orchid-blossoms.jpg</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Barnes Dr Thomas G, U.S. Fish and Wildlife Service",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "This file is in public domain, not copyrighted, no rights reserved, free for any use. You can use this picture for any use including commercial purposes without the prior written permission and without fee or obligation.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "55189079": {
+        "pageid": 55189079,
+        "ns": 6,
+        "title": "File:Phragmipedium lady's slipper orchid (60548).jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6492336,
+            "width": 3198,
+            "height": 3456,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Phragmipedium_lady%27s_slipper_orchid_%2860548%29.jpg/960px-Phragmipedium_lady%27s_slipper_orchid_%2860548%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 830,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Phragmipedium_lady%27s_slipper_orchid_%2860548%29.jpg/1920px-Phragmipedium_lady%27s_slipper_orchid_%2860548%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Phragmipedium_lady%27s_slipper_orchid_%2860548%29.jpg/960px-Phragmipedium_lady%27s_slipper_orchid_%2860548%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 830,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Phragmipedium_lady%27s_slipper_orchid_%2860548%29.jpg/1920px-Phragmipedium_lady%27s_slipper_orchid_%2860548%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Phragmipedium_lady%27s_slipper_orchid_%2860548%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Phragmipedium_lady%27s_slipper_orchid_(60548).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=55189079",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-01-21 05:23:30",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Phragmipedium lady's slipper orchid (60548)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Phragmipedium cultivars|Taken with Olympus E-PL6|Taken with Olympus M.Zuiko Digital ED 60mm f/2.8 Macro|Self-published work|F-number f/7.1|Files uploaded by Rhododendrites (all)|Phragmipedium cultivars in the Brooklyn Botanic Garden|Brooklyn Botanic Garden conservatories|Files by Rhododendrites - 2017-01|Photographs taken by Rhododendrites - Brooklyn Botanic Garden",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "40.668894",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-73.965022",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<i>Phragmipedium</i> lady's slipper orchid cultivar at the Brooklyn Botanic Garden.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-01-16 13:24:52",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Rhododendrites\" title=\"User:Rhododendrites\">Rhododendrites</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "72447429": {
+        "pageid": 72447429,
+        "ns": 6,
+        "title": "File:Purple Macro Floral (121992499).jpeg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 715234,
+            "width": 2048,
+            "height": 3092,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Purple_Macro_Floral_%28121992499%29.jpeg/960px-Purple_Macro_Floral_%28121992499%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1160,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Purple_Macro_Floral_%28121992499%29.jpeg/1920px-Purple_Macro_Floral_%28121992499%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Purple_Macro_Floral_%28121992499%29.jpeg/960px-Purple_Macro_Floral_%28121992499%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1160,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Purple_Macro_Floral_%28121992499%29.jpeg/1920px-Purple_Macro_Floral_%28121992499%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Purple_Macro_Floral_%28121992499%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Purple_Macro_Floral_(121992499).jpeg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=72447429",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-09-06 12:50:32",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nPurple Macro Floral</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Dendrobium cultivars|Photos imported with import-500px|Bokeh photographs of orchids",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\n<a rel=\"nofollow\" class=\"external text\" href=\"https://500px.com/MelanieManganello\">Melanie Manganello</a></div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n500px provided description: Purple Flower Macro Shot [#flowers ,#beauty ,#spring ,#flower ,#floral ,#summer ,#beautiful ,#natural ,#plant ,#green ,#garden ,#purple ,#flora ,#purple flower ,#Macro]</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "8 January 2015, 17:59:50 (UTC)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Imported from <a rel=\"nofollow\" class=\"external text\" href=\"https://500px.com/photo/121992499/purple-macro-floral-by-melanie-manganello\">500px</a> (<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/201807id_/https://drscdn.500px.org/photo/121992499/m%3D2048_k%3D1/v2?webp=true&amp;sig=ad934318cb6eabc97dbd2bf6de1cc3a1a53e647cee22c5b455af855180dfc49c\">archived version</a>) by <a rel=\"nofollow\" class=\"external text\" href=\"https://www.archiveteam.org/index.php?title=500px\">the Archive Team</a>. (<a href=\"https://iw.toolforge.org/import-500px/photo/121992499\" class=\"extiw\" title=\"toolforge:import-500px/photo/121992499\">detail page</a>)",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "80270881": {
+        "pageid": 80270881,
+        "ns": 6,
+        "title": "File:Orchiedeenlüte 2019-05-21 12-03-31 (C)-PSD.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4106529,
+            "width": 4029,
+            "height": 3022,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Orchiedeenl%C3%BCte_2019-05-21_12-03-31_%28C%29-PSD.jpg/960px-Orchiedeenl%C3%BCte_2019-05-21_12-03-31_%28C%29-PSD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Orchiedeenl%C3%BCte_2019-05-21_12-03-31_%28C%29-PSD.jpg/1920px-Orchiedeenl%C3%BCte_2019-05-21_12-03-31_%28C%29-PSD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Orchiedeenl%C3%BCte_2019-05-21_12-03-31_%28C%29-PSD.jpg/960px-Orchiedeenl%C3%BCte_2019-05-21_12-03-31_%28C%29-PSD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Orchiedeenl%C3%BCte_2019-05-21_12-03-31_%28C%29-PSD.jpg/1920px-Orchiedeenl%C3%BCte_2019-05-21_12-03-31_%28C%29-PSD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Orchiedeenl%C3%BCte_2019-05-21_12-03-31_%28C%29-PSD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Orchiedeenl%C3%BCte_2019-05-21_12-03-31_(C)-PSD.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=80270881",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-07-08 21:22:03",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Orchiedeenlüte 2019-05-21 12-03-31 (C)-PSD",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Germany photographs taken on 2019-05-21|Taken with Olympus E-M1 Mark II|Phalaenopsis cultivars|Taken with Olympus M.Zuiko Digital ED 60mm f/2.8 Macro|Self-published work|Featured pictures of flowers|Orange, pink, white|Featured pictures of Bavaria|Featured pictures by Ermell|Uploaded with LrMediaWiki|Photographs by Ermell|Created with Helicon Focus|May 2019 Bavaria photographs|Featured pictures of Orchidaceae|Pictures of the Year/2019 (finalist)|Orange, purple, white|Focus stacking images of Orchidaceae flowers|Focus stacking images by Ermell|Magenta, orange, white|Images by User:Ermell taken in 2019|Featured pictures of plants by Ermell|Focus stacked image",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality|featured|poty",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Interior of a Phalaenopsis cultivar orchid blossom",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-05-21 11:57:14",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ermell\" title=\"User:Ermell\">Ermell</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"toccolours\" style=\"width:100%; margin-top:10px;\" cellpadding=\"2\">\n\n<tbody><tr class=\"plainlinks\">\n<td><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Twemoji_1f4f7.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Twemoji_1f4f7.svg/40px-Twemoji_1f4f7.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Twemoji_1f4f7.svg/60px-Twemoji_1f4f7.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"512\"></a></span>  <a href=\"https://upload.wikimedia.org/wikipedia/commons/3/31/Orchiedeenl%C3%BCte_2019-05-21_12-03-31_%28C%29-PSD.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=api&amp;utm_content=original\" class=\"internal\" title=\"Orchiedeenlüte 2019-05-21 12-03-31 (C)-PSD.jpg\">This Photo</a> was taken by <i><b><a href=\"//commons.wikimedia.org/wiki/User:Ermell\" title=\"User:Ermell\">Reinhold Möller</a></b></i>.  <span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Twemoji_1f468.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Twemoji_1f468.svg/40px-Twemoji_1f468.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Twemoji_1f468.svg/60px-Twemoji_1f468.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"512\"></a></span>\n</td>\n<td align=\"right\">Feel free to use my photos, but please mention me as the author and send me a  <a class=\"external text\" data-mw-original-href=\"http://commons.wikimedia.org/w/index.php?title=User_talk:Ermell&amp;action=edit&amp;section=new\" href=\"https://commons.wikimedia.org/w/index.php?title=User_talk:Ermell&amp;action=edit&amp;section=new\">message</a>. <span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Crystal_128_mail.png\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Crystal_128_mail.png/40px-Crystal_128_mail.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Crystal_128_mail.png/60px-Crystal_128_mail.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"128\" data-file-height=\"128\"></a></span>\n</td></tr></tbody></table>\n<div style=\"clear:both; border:2px solid #00cc00; background-color:#f7f7f7; margin-top:6px;\">\n<table><tbody><tr><td style=\"padding:4px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Telif_inceleme.png\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/a/a5/Telif_inceleme.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail_unscaled\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" data-file-width=\"110\" data-file-height=\"110\"></a></span>\n</td><td style=\"padding:4px;\"><div style=\"margin-top:0.5em;\">This image is <b>not <a href=\"https://en.wikipedia.org/wiki/Public_domain\" class=\"extiw\" title=\"en:Public domain\">public domain</a></b>. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically <b>excludes use in social media</b>, if applicable terms of the licenses listed here not appropriate.</div>\n</td></tr></tbody></table>\n<table><tbody><tr><td style=\"padding:4px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Upload-problem2.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Upload-problem2.svg/120px-Upload-problem2.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"57\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Upload-problem2.svg/250px-Upload-problem2.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"159\" data-file-height=\"142\"></a></span>\n</td><td style=\"padding:4px;\"><div style=\"margin-top:0.5em;\">Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.<br>Please if you think that any changes should be required, please inform the author.<br>Otherwise you can upload a new image with a new name. Please use one of the templates <a href=\"//commons.wikimedia.org/wiki/Template:Derived_from\" title=\"Template:Derived from\">derivative</a> or <a href=\"//commons.wikimedia.org/wiki/Template:Extracted_from\" title=\"Template:Extracted from\">extract</a>.</div>\n</td></tr></tbody></table></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ermell\" title=\"User:Ermell\">Reinhold Möller</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "143226423": {
+        "pageid": 143226423,
+        "ns": 6,
+        "title": "File:Purple & white orchid in macro and hi-key.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5301115,
+            "width": 5184,
+            "height": 3456,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Purple_%26_white_orchid_in_macro_and_hi-key.jpg/960px-Purple_%26_white_orchid_in_macro_and_hi-key.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 512,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Purple_%26_white_orchid_in_macro_and_hi-key.jpg/1920px-Purple_%26_white_orchid_in_macro_and_hi-key.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Purple_%26_white_orchid_in_macro_and_hi-key.jpg/960px-Purple_%26_white_orchid_in_macro_and_hi-key.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 512,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Purple_%26_white_orchid_in_macro_and_hi-key.jpg/1920px-Purple_%26_white_orchid_in_macro_and_hi-key.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Purple_%26_white_orchid_in_macro_and_hi-key.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Purple_%26_white_orchid_in_macro_and_hi-key.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=143226423",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-12-31 12:30:08",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Purple & white orchid in macro and hi-key",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Purple orchids|White orchids|Close-ups of Phalaenopsis cultivars flowers|Flickr images reviewed by FlickreviewR 2|Files with coordinates missing SDC location of creation (50° N, 2° W)|Photographs by Forbes Johnston",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "50.978571",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-1.413974",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "purple and white orchid in macro and hi-Key",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-02-24 17:26:37",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/ambabheg/52708634414/\">https://www.flickr.com/photos/ambabheg/52708634414/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/31518985@N04\">Forbes Johnston</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "150468540": {
+        "pageid": 150468540,
+        "ns": 6,
+        "title": "File:Ornamental Orchid.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 35590,
+            "width": 512,
+            "height": 768,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Ornamental_Orchid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 768,
+            "thumbheight": 1152,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Ornamental_Orchid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1152
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Ornamental_Orchid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ornamental_Orchid.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=150468540",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-07-18 14:35:14",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ornamental Orchid",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Details of orchids",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Macro photograph of a decorative orchid.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "7/8/2023",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Heliotrope-historian&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Heliotrope-historian (page does not exist)\">Heliotrope-historian</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "198254425": {
+        "pageid": 198254425,
+        "ns": 6,
+        "title": "File:Vibrant purple orchid flowers macro shot.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1285853,
+            "width": 4000,
+            "height": 6000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Vibrant_purple_orchid_flowers_macro_shot.jpg/960px-Vibrant_purple_orchid_flowers_macro_shot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1152,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Vibrant_purple_orchid_flowers_macro_shot.jpg/1920px-Vibrant_purple_orchid_flowers_macro_shot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Vibrant_purple_orchid_flowers_macro_shot.jpg/960px-Vibrant_purple_orchid_flowers_macro_shot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1152,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Vibrant_purple_orchid_flowers_macro_shot.jpg/1920px-Vibrant_purple_orchid_flowers_macro_shot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Vibrant_purple_orchid_flowers_macro_shot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vibrant_purple_orchid_flowers_macro_shot.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=198254425",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-08-27 05:03:08",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Vibrant purple orchid flowers macro shot",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Cymbidium cultivars|Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A high-resolution macro shot focusing on the fine textures and vibrant details of purple orchid flowers. Sourced from Pexels, originally captured by photographer realcereal. Released under Creative Commons CC0 license.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-08-27",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.pexels.com/search/orchid%20flower/\">https://www.pexels.com/search/orchid%20flower/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Cyrill",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

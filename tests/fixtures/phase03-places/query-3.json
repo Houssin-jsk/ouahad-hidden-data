@@ -1,0 +1,1141 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 10,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "35827176": {
+        "pageid": 35827176,
+        "ns": 6,
+        "title": "File:\" 08 - ITALY - Predappio under snow - suggestive winter landscape of city (christmas).jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1285881,
+            "width": 2296,
+            "height": 744,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/%22_08_-_ITALY_-_Predappio_under_snow_-_suggestive_winter_landscape_of_city_%28christmas%29.jpg/960px-%22_08_-_ITALY_-_Predappio_under_snow_-_suggestive_winter_landscape_of_city_%28christmas%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 249,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/%22_08_-_ITALY_-_Predappio_under_snow_-_suggestive_winter_landscape_of_city_%28christmas%29.jpg/1920px-%22_08_-_ITALY_-_Predappio_under_snow_-_suggestive_winter_landscape_of_city_%28christmas%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/%22_08_-_ITALY_-_Predappio_under_snow_-_suggestive_winter_landscape_of_city_%28christmas%29.jpg/960px-%22_08_-_ITALY_-_Predappio_under_snow_-_suggestive_winter_landscape_of_city_%28christmas%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 249,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/%22_08_-_ITALY_-_Predappio_under_snow_-_suggestive_winter_landscape_of_city_%28christmas%29.jpg/1920px-%22_08_-_ITALY_-_Predappio_under_snow_-_suggestive_winter_landscape_of_city_%28christmas%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/%22_08_-_ITALY_-_Predappio_under_snow_-_suggestive_winter_landscape_of_city_%28christmas%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%22_08_-_ITALY_-_Predappio_under_snow_-_suggestive_winter_landscape_of_city_(christmas).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=35827176",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-10-01 05:15:41",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "\" 08 - ITALY - Predappio under snow - suggestive winter landscape of city (christmas)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Mountains of Emilia-Romagna|Taken with Nikon D40|Images with annotations|Predappio|Sant'Antonio (Predappio)|Flickr images reviewed by FlickreviewR|Snowy landscapes in Italy|Trees in snow in Italy|Structures in Italy in snow|Winter in Forlì|Snow in Forlì|Italy photographs taken on 2008-12-29|Snow-covered roofs|Mountains with snow in Italy|Panoramas of mountains in Italy",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Vista di Predappio (Forlì) sotto la neve pochi giorni dopo natale",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2008-12-29",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/andre5/3147360727\">https://www.flickr.com/photos/andre5/3147360727</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Andrea <a rel=\"nofollow\" class=\"external autonumber\" href=\"https://www.flickr.com/photos/andre5/\">[1]</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "62040871": {
+        "pageid": 62040871,
+        "ns": 6,
+        "title": "File:View over northern part of Lake Tekapo and snow-covered mountains.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3434198,
+            "width": 4896,
+            "height": 2880,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/View_over_northern_part_of_Lake_Tekapo_and_snow-covered_mountains.jpg/960px-View_over_northern_part_of_Lake_Tekapo_and_snow-covered_mountains.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 452,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/View_over_northern_part_of_Lake_Tekapo_and_snow-covered_mountains.jpg/1920px-View_over_northern_part_of_Lake_Tekapo_and_snow-covered_mountains.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/View_over_northern_part_of_Lake_Tekapo_and_snow-covered_mountains.jpg/960px-View_over_northern_part_of_Lake_Tekapo_and_snow-covered_mountains.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 452,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/View_over_northern_part_of_Lake_Tekapo_and_snow-covered_mountains.jpg/1920px-View_over_northern_part_of_Lake_Tekapo_and_snow-covered_mountains.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/View_over_northern_part_of_Lake_Tekapo_and_snow-covered_mountains.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:View_over_northern_part_of_Lake_Tekapo_and_snow-covered_mountains.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=62040871",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-08-30 22:21:23",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "View over northern part of Lake Tekapo and snow-covered mountains",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Mountains of New Zealand|Lake Tekapo|Self-published work|PD-self|Snowy landscapes in New Zealand|Files with coordinates missing SDC location of creation|New Zealand photographs taken on 2017-07-19|Snow in New Zealand in July 2017|Mountains with snow in New Zealand in July",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-43.825833",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "170.656389",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Northern part of Lake Tekapo in winter, in front of snow-covered mountains (view from <a href=\"https://en.wikipedia.org/wiki/Roundhill_Ski_Area\" class=\"extiw\" title=\"en:Roundhill Ski Area\">Roundhill Ski Area</a>)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-07-19",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/User:Pseudopanax\" class=\"extiw\" title=\"wikipedia:User:Pseudopanax\">Pseudopanax</a> at <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\">English Wikipedia</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "74313487": {
+        "pageid": 74313487,
+        "ns": 6,
+        "title": "File:Norwegian wood cabin in Rekdalsetra covered in snow - Rekdal, Vestnes, Norway 2017-12-29.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3781484,
+            "width": 3491,
+            "height": 2614,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Norwegian_wood_cabin_in_Rekdalsetra_covered_in_snow_-_Rekdal%2C_Vestnes%2C_Norway_2017-12-29.jpg/960px-Norwegian_wood_cabin_in_Rekdalsetra_covered_in_snow_-_Rekdal%2C_Vestnes%2C_Norway_2017-12-29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 575,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Norwegian_wood_cabin_in_Rekdalsetra_covered_in_snow_-_Rekdal%2C_Vestnes%2C_Norway_2017-12-29.jpg/1920px-Norwegian_wood_cabin_in_Rekdalsetra_covered_in_snow_-_Rekdal%2C_Vestnes%2C_Norway_2017-12-29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Norwegian_wood_cabin_in_Rekdalsetra_covered_in_snow_-_Rekdal%2C_Vestnes%2C_Norway_2017-12-29.jpg/960px-Norwegian_wood_cabin_in_Rekdalsetra_covered_in_snow_-_Rekdal%2C_Vestnes%2C_Norway_2017-12-29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 575,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Norwegian_wood_cabin_in_Rekdalsetra_covered_in_snow_-_Rekdal%2C_Vestnes%2C_Norway_2017-12-29.jpg/1920px-Norwegian_wood_cabin_in_Rekdalsetra_covered_in_snow_-_Rekdal%2C_Vestnes%2C_Norway_2017-12-29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Norwegian_wood_cabin_in_Rekdalsetra_covered_in_snow_-_Rekdal%2C_Vestnes%2C_Norway_2017-12-29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Norwegian_wood_cabin_in_Rekdalsetra_covered_in_snow_-_Rekdal,_Vestnes,_Norway_2017-12-29.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=74313487",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-11-11 12:20:34",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Norwegian wood cabin in Rekdalsetra covered in snow - Rekdal, Vestnes, Norway 2017-12-29",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Mountain huts in Norway|Norway photographs taken on 2017-12-29|Snow-covered roofs in Norway|Winter in Møre og Romsdal|Files with coordinates missing SDC location of creation|Snowy landscapes in Møre og Romsdal|Buildings in Vestnes",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "62.624115",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "6.768507",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Cabin in Rekdalsetra covered in snow in a winter panorama. This area is located in the mountains behind the village Rekdal in the municipality of Vestnes on the west coast of Norway in the region Romsdal. Picture taken on the 29th of december in 2107. 2017-12-29",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-12-29 14:44:59",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:M%C3%A6nsard_vokser\" title=\"User:Mænsard vokser\">Mænsard vokser</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "74726584": {
+        "pageid": 74726584,
+        "ns": 6,
+        "title": "File:Joos de Momper II - Winter landscape.jpeg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4701912,
+            "width": 3200,
+            "height": 1939,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Joos_de_Momper_II_-_Winter_landscape.jpeg/960px-Joos_de_Momper_II_-_Winter_landscape.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 465,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Joos_de_Momper_II_-_Winter_landscape.jpeg/1920px-Joos_de_Momper_II_-_Winter_landscape.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Joos_de_Momper_II_-_Winter_landscape.jpeg/960px-Joos_de_Momper_II_-_Winter_landscape.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 465,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Joos_de_Momper_II_-_Winter_landscape.jpeg/1920px-Joos_de_Momper_II_-_Winter_landscape.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Joos_de_Momper_II_-_Winter_landscape.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Joos_de_Momper_II_-_Winter_landscape.jpeg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=74726584",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-11-28 15:19:33",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Winter landscape</i></div></div><div style=\"display: none;\">label QS:Len,\"Winter landscape\"</div></div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Paintings of mountains|PD-old-100-expired|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Winter landscape paintings|1601-1650 paintings|17th-century landscape paintings|CC-PD-Mark|Artworks with Wikidata item missing genre|Artworks digital representation of 2D work|Landscape paintings by Joos de Momper (II)|Paintings of snowscapes by Joos de Momper (II)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Joos_de_Momper\" class=\"extiw\" title=\"w:en:Joos de Momper\"><span title=\"Flemish painter (1564–1635)\">Joos de Momper the Younger</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "between 1601 and 1635<div style=\"display: none;\">date QS:P571,+1650-00-00T00:00:00Z/7,P1319,+1601-00-00T00:00:00Z/9,P1326,+1635-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.christies.com/LotFinder/lot_details.aspx?intObjectID=6048385\">https://www.christies.com/LotFinder/lot_details.aspx?intObjectID=6048385</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table cellspacing=\"8\" cellpadding=\"0\" style=\"clear:both; margin:0.5em auto; background-color: var(--background-color-interactive, #f0f0f0); color: inherit; border: 2px solid var(--border-color-subtle, #e0e0e0); width:100%;\" class=\"layouttemplate\" dir=\"ltr\" lang=\"en\">\n<tbody><tr>\n<td>\n<div class=\"center\">This is a faithful photographic reproduction of a two-dimensional, <a href=\"//commons.wikimedia.org/wiki/Public_domain\" class=\"mw-redirect\" title=\"Public domain\">public domain</a> work of art. The work of art itself is in the public domain for the following reason:</div>\n<div dir=\"auto\">\n<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td>\n<p>The author died in 1635, so this work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in its country of origin and other countries and areas where the <a href=\"https://en.wikipedia.org/wiki/List_of_countries%27_copyright_lengths\" class=\"extiw\" title=\"w:List of countries' copyright lengths\">copyright term</a> is the author's <b>life plus 100 years or fewer</b>.\n</p>\n<hr>\n<p>This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in the <a href=\"https://en.wikipedia.org/wiki/United_States\" class=\"extiw\" title=\"en:United States\">United States</a> because it was <a href=\"//commons.wikimedia.org/wiki/Commons:Publication\" title=\"Commons:Publication\">published</a> (or registered with the <a href=\"https://en.wikipedia.org/wiki/United_States_Copyright_Office\" class=\"extiw\" title=\"en:United States Copyright Office\">U.S. Copyright Office</a>) before January 1, 1931.\n</p>\n</td></tr>\n<tr>\n<td colspan=\"2\" style=\"text-align:center;font-size:x-small;line-height:140%;\"><a href=\"https://creativecommons.org/publicdomain/mark/1.0/deed.en\" class=\"extiw\" title=\"ccorg:publicdomain/mark/1.0/deed.en\">This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.</a>\n</td></tr></tbody></table><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/publicdomain/mark/1.0/</span><span class=\"licensetpl_short\" style=\"display:none;\">PDM</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Public Domain Mark 1.0</span><span class=\"licensetpl_link_req\" style=\"display:none;\">false</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">false</span></div>\n<div class=\"center\">The official position taken by the Wikimedia Foundation is that \"<i>faithful reproductions of two-dimensional public domain works of art are public domain</i>\".<br><b>This photographic reproduction is therefore also considered to be in the public domain in the United States.</b> In other jurisdictions, re-use of this content may be restricted; <b>see <a href=\"//commons.wikimedia.org/wiki/Commons:Reuse_of_PD-Art_photographs\" title=\"Commons:Reuse of PD-Art photographs\">Reuse of PD-Art photographs</a> for details.</b></div> \n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "75963893": {
+        "pageid": 75963893,
+        "ns": 6,
+        "title": "File:Sninský kameň (v zime) 001.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7619984,
+            "width": 5472,
+            "height": 3648,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Sninsk%C3%BD_kame%C5%88_%28v_zime%29_001.jpg/960px-Sninsk%C3%BD_kame%C5%88_%28v_zime%29_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 512,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Sninsk%C3%BD_kame%C5%88_%28v_zime%29_001.jpg/1920px-Sninsk%C3%BD_kame%C5%88_%28v_zime%29_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Sninsk%C3%BD_kame%C5%88_%28v_zime%29_001.jpg/960px-Sninsk%C3%BD_kame%C5%88_%28v_zime%29_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 512,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Sninsk%C3%BD_kame%C5%88_%28v_zime%29_001.jpg/1920px-Sninsk%C3%BD_kame%C5%88_%28v_zime%29_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Sninsk%C3%BD_kame%C5%88_%28v_zime%29_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sninsk%C3%BD_kame%C5%88_(v_zime)_001.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=75963893",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-01-19 21:15:36",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Sninský kameň (v zime) 001",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Sninský kameň|Taken with Sony DSC-RX100|Natura 2000 in Slovakia|Self-published work|Featured pictures of Slovakia|Snow scenery|Landscapes of Humenné District|Forests in Slovakia in winter|Featured pictures by Milan Bališin|Frost on trees in Slovakia|Rime in Slovakia|Slovakia photographs taken on 2019-01-11|Featured pictures of snow|Featured pictures of forests|Snow-covered tree branches in Slovakia|Featured pictures taken with compact digital camera|Deciduous forests in winter",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality|featured|potd",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "48.922320",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "22.183760",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Sninský kameň, Vihorlatské vrchy in the winter, frost on trees",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-01-11 11:25:32",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Milan_Bali%C5%A1in\" title=\"User:Milan Bališin\">Milan Bališin</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Milan_Bali%C5%A1in\" title=\"User:Milan Bališin\">Milan Bališin</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "75981589": {
+        "pageid": 75981589,
+        "ns": 6,
+        "title": "File:Sninský kameň (v zime) 046.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5486582,
+            "width": 5472,
+            "height": 3648,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Sninsk%C3%BD_kame%C5%88_%28v_zime%29_046.jpg/960px-Sninsk%C3%BD_kame%C5%88_%28v_zime%29_046.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 512,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Sninsk%C3%BD_kame%C5%88_%28v_zime%29_046.jpg/1920px-Sninsk%C3%BD_kame%C5%88_%28v_zime%29_046.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Sninsk%C3%BD_kame%C5%88_%28v_zime%29_046.jpg/960px-Sninsk%C3%BD_kame%C5%88_%28v_zime%29_046.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 512,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Sninsk%C3%BD_kame%C5%88_%28v_zime%29_046.jpg/1920px-Sninsk%C3%BD_kame%C5%88_%28v_zime%29_046.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Sninsk%C3%BD_kame%C5%88_%28v_zime%29_046.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sninsk%C3%BD_kame%C5%88_(v_zime)_046.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=75981589",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-01-20 15:59:35",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Sninský kameň (v zime) 046",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Views from Sninský kameň|Taken with Sony DSC-RX100|Images with annotations|Self-published work|Featured pictures of Slovakia|Snow scenery|Rocks in Slovakia|Dusk in Slovakia|Featured pictures of landscapes|Snowy landscapes in Slovakia|Plants and trees at golden hour|Forests in Slovakia in winter|Featured pictures by Milan Bališin|Frost on trees in Slovakia|Orange sunsets of Slovakia|Golden hour landscapes|Colorful sky in Slovakia|Slovakia photographs taken on 2019-01-11|Mountains with snow in Slovakia|Clouds at sunset in Slovakia|Snow-covered tree branches in Slovakia|Featured pictures taken with compact digital camera",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality|featured|valued",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "48.929433",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "22.188892",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "This is a photograph of a <a href=\"https://en.wikipedia.org/wiki/en:Natura_2000\" class=\"extiw\" title=\"w:en:Natura 2000\"><span title=\"network of protected areas in the territory of the European Union\">Natura 2000</span></a> protected area with ID",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-01-11 15:48:56",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Milan_Bali%C5%A1in\" title=\"User:Milan Bališin\">Milan Bališin</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Milan_Bali%C5%A1in\" title=\"User:Milan Bališin\">Milan Bališin</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "82238580": {
+        "pageid": 82238580,
+        "ns": 6,
+        "title": "File:Snow covered mountain with lenticular cloud. Probably aerial. 31978. slide (7280d8e94d9e40f7bf2b830bdf305db4).jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 616615,
+            "width": 2140,
+            "height": 1458,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Snow_covered_mountain_with_lenticular_cloud._Probably_aerial._31978._slide_%287280d8e94d9e40f7bf2b830bdf305db4%29.jpg/960px-Snow_covered_mountain_with_lenticular_cloud._Probably_aerial._31978._slide_%287280d8e94d9e40f7bf2b830bdf305db4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 523,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Snow_covered_mountain_with_lenticular_cloud._Probably_aerial._31978._slide_%287280d8e94d9e40f7bf2b830bdf305db4%29.jpg/1920px-Snow_covered_mountain_with_lenticular_cloud._Probably_aerial._31978._slide_%287280d8e94d9e40f7bf2b830bdf305db4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Snow_covered_mountain_with_lenticular_cloud._Probably_aerial._31978._slide_%287280d8e94d9e40f7bf2b830bdf305db4%29.jpg/960px-Snow_covered_mountain_with_lenticular_cloud._Probably_aerial._31978._slide_%287280d8e94d9e40f7bf2b830bdf305db4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 523,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Snow_covered_mountain_with_lenticular_cloud._Probably_aerial._31978._slide_%287280d8e94d9e40f7bf2b830bdf305db4%29.jpg/1920px-Snow_covered_mountain_with_lenticular_cloud._Probably_aerial._31978._slide_%287280d8e94d9e40f7bf2b830bdf305db4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Snow_covered_mountain_with_lenticular_cloud._Probably_aerial._31978._slide_%287280d8e94d9e40f7bf2b830bdf305db4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Snow_covered_mountain_with_lenticular_cloud._Probably_aerial._31978._slide_(7280d8e94d9e40f7bf2b830bdf305db4).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82238580",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-09-16 15:51:43",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Mt Rainier",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Mount Rainier|PD US NPS|Images from NPGallery to check|Landscapes of Mount Rainier National Park|Media needing category review as of 16 September 2019|Photographs taken on 2017-05-11|Images from NPGallery|Media needing category review with 4 suggested categories",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "Loren Lane (<i>MORA</i>)",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<p>Mt Rainier</p>\n<p>Snow covered mountain with lenticular cloud. Probably aerial. 3/1978. slide</p>\n<ul><li>Keywords: clouds; landscape; mountain; snow; winter</li></ul>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 11 May 2017",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://npgallery.nps.gov/\">NPGallery</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td><i>This image or media file contains material based on a work of a <a href=\"https://en.wikipedia.org/wiki/National_Park_Service\" class=\"extiw\" title=\"w:National Park Service\">National Park Service</a> employee, created as part of that person's official duties. As a <a href=\"https://en.wikipedia.org/wiki/Work_of_the_United_States_Government\" class=\"extiw\" title=\"w:Work of the United States Government\">work</a> of the <a href=\"https://en.wikipedia.org/wiki/Federal_Government_of_the_United_States\" class=\"extiw\" title=\"w:Federal Government of the United States\">U.S. federal government</a>, such work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"w:public domain\">public domain</a></b> in the United States. See the <a rel=\"nofollow\" class=\"external text\" href=\"https://www.nps.gov/\">NPS website</a> and <a rel=\"nofollow\" class=\"external text\" href=\"https://www.nps.gov/aboutus/disclaimer.htm\">NPS copyright policy</a> for more information.</i>\n</td>\n<td><figure class=\"mw-halign-right\" typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_of_the_United_States_National_Park_Service.svg/60px-Logo_of_the_United_States_National_Park_Service.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"52\" height=\"68\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_of_the_United_States_National_Park_Service.svg/120px-Logo_of_the_United_States_National_Park_Service.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"553\" data-file-height=\"720\"></span><figcaption></figcaption></figure>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "154368654": {
+        "pageid": 154368654,
+        "ns": 6,
+        "title": "File:Cheops Mountain seen the Sir Donald Trail.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 14789972,
+            "width": 5322,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Cheops_Mountain_seen_the_Sir_Donald_Trail.jpg/960px-Cheops_Mountain_seen_the_Sir_Donald_Trail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 577,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Cheops_Mountain_seen_the_Sir_Donald_Trail.jpg/1920px-Cheops_Mountain_seen_the_Sir_Donald_Trail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Cheops_Mountain_seen_the_Sir_Donald_Trail.jpg/960px-Cheops_Mountain_seen_the_Sir_Donald_Trail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 577,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Cheops_Mountain_seen_the_Sir_Donald_Trail.jpg/1920px-Cheops_Mountain_seen_the_Sir_Donald_Trail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Cheops_Mountain_seen_the_Sir_Donald_Trail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cheops_Mountain_seen_the_Sir_Donald_Trail.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=154368654",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-10-26 19:22:21",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Cheops Mountain seen the Sir Donald Trail",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Created with Hugin|Featured pictures by The Cosmonaut|Foreground plants|Snow-covered tree branches in Canada|Snowy landscapes in Canada|Created with darktable|Remote views of mountains in Canada|Files with coordinates missing SDC location of creation|Canada photographs taken on 2021-02-15|Clouds and blue sky in British Columbia|Mountains in winter|February 2015 in British Columbia|Protected areas of Canada with known IDs|Cheops Mountain|Featured pictures taken with Nikon D3300",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality|featured",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "51.258072",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-117.483894",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Cheops Mountain seen from the Sir Donald Trail.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 15 February 2021",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span><br><div style=\"display:table;width:;vertical-align:middle;direction:ltr;float:left;line-height:22px;height:24px;font-size:.96em;margin:0px;padding:2px 4px 2px 6px;color:var(--color-base,#000);background:var(--background-color-neutral-subtle,#F8F9FA);border:1px solid #BAB;border-collapse:separate;border-spacing:0px;;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Hugin-splash.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Hugin-splash.svg/40px-Hugin-splash.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"36\" height=\"21\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Hugin-splash.svg/120px-Hugin-splash.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"462\" data-file-height=\"268\"></a></span> This  image was created with <a href=\"https://en.wikipedia.org/wiki/en:Hugin_(software)\" class=\"extiw\" title=\"w:en:Hugin (software)\"><span title=\"stitching software\">Hugin</span></a>.</div><div style=\"display:table;width:;vertical-align:middle;direction:ltr;float:left;line-height:22px;height:24px;font-size:.96em;margin:0px;padding:2px 4px 2px 6px;color:var(--color-base,#000);background:var(--background-color-neutral-subtle,#F8F9FA);border:1px solid #BAB;border-collapse:separate;border-spacing:0px;;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Darktable_icon.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Darktable_icon.svg/40px-Darktable_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"22\" height=\"22\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Darktable_icon.svg/60px-Darktable_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"512\"></a></span> This  image was created with <a href=\"https://en.wikipedia.org/wiki/en:Darktable\" class=\"extiw\" title=\"w:en:Darktable\"><span title=\"photography workflow application and raw developer\">darktable</span></a>.</div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:The_Cosmonaut\" title=\"User:The Cosmonaut\">The Cosmonaut</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "I, the copyright holder of this work, hereby publish it under the following license:",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.5 ca",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.5 ca",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.5/ca/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.5-ca",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "165952280": {
+        "pageid": 165952280,
+        "ns": 6,
+        "title": "File:A Snow-Covered Landscape (52920326984).jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 345035,
+            "width": 1920,
+            "height": 1080,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/A_Snow-Covered_Landscape_%2852920326984%29.jpg/960px-A_Snow-Covered_Landscape_%2852920326984%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 432,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/6/66/A_Snow-Covered_Landscape_%2852920326984%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/A_Snow-Covered_Landscape_%2852920326984%29.jpg/960px-A_Snow-Covered_Landscape_%2852920326984%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 432,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/6/66/A_Snow-Covered_Landscape_%2852920326984%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/A_Snow-Covered_Landscape_%2852920326984%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:A_Snow-Covered_Landscape_(52920326984).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=165952280",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-05-25 00:14:55",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "A Snow-Covered Landscape (52920326984)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Joshua Tree National Park|PD US NPS|Flickr images reviewed by FlickreviewR 2|United States photographs taken on 2023-05-23|U.S. National Park Service Flickr files uploaded by OptimusPrimeBot|Files from Joshua Tree National Park Flickr stream|Flickr images missing SDC published in",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A snow-covered landscape during a storm on March 1, 2023. \n<p>Video description: a pan shot of desert vegetation and mountains covered in snow.\n</p>\nNPS/Bill Bjornstad",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 23 May 2023, 17:19:06",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/joshuatreenp/52920326984\">A Snow-Covered Landscape</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/joshuatreenp/\">Joshua Tree National Park</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "193628410": {
+        "pageid": 193628410,
+        "ns": 6,
+        "title": "File:Expansive Snow-Covered Mountain Landscape in the Himalayas.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 10832016,
+            "width": 4284,
+            "height": 5712,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Expansive_Snow-Covered_Mountain_Landscape_in_the_Himalayas.jpg/960px-Expansive_Snow-Covered_Mountain_Landscape_in_the_Himalayas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1024,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Expansive_Snow-Covered_Mountain_Landscape_in_the_Himalayas.jpg/1920px-Expansive_Snow-Covered_Mountain_Landscape_in_the_Himalayas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Expansive_Snow-Covered_Mountain_Landscape_in_the_Himalayas.jpg/960px-Expansive_Snow-Covered_Mountain_Landscape_in_the_Himalayas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1024,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Expansive_Snow-Covered_Mountain_Landscape_in_the_Himalayas.jpg/1920px-Expansive_Snow-Covered_Mountain_Landscape_in_the_Himalayas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Expansive_Snow-Covered_Mountain_Landscape_in_the_Himalayas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Expansive_Snow-Covered_Mountain_Landscape_in_the_Himalayas.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=193628410",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-06-10 18:42:45",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Expansive Snow-Covered Mountain Landscape in the Himalayas",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Uploaded via Campaign:wle-in|Images from Wiki Loves Earth missing SDC location of creation|Himalayas of India|Images from Wiki Loves Earth missing SDC source of file|Images from Wiki Loves Earth missing SDC creator|Images from Wiki Loves Earth missing SDC participant in|Images from Wiki Loves Earth 2026|Images from Wiki Loves Earth 2026 in India",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A sweeping view of a high-altitude mountain pass or valley completely blanketed in a thick layer of bright white snow. The clear blue sky contrasts sharply with the frozen terrain, typical of winter or early spring in the Indian Himalayas.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-06-01",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:DiluteOxygen\" title=\"User:DiluteOxygen\">DiluteOxygen</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1465 @@
+{
+  "policies": {
+    "airfield": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "airplane_cabin": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "airport_terminal": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "alcove": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "alley": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "amphitheater": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "amusement_arcade": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "amusement_park": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "apartment_building/outdoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "aquarium": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "aqueduct": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "arcade": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "arch": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "archaelogical_excavation": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "archive": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "arena/hockey": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "arena/performance": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "arena/rodeo": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "army_base": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "art_gallery": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "art_school": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "art_studio": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "artists_loft": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "assembly_line": {
+      "minimumScore": 0.47734793136059567,
+      "minimumMargin": 0.21748773085202056
+    },
+    "athletic_field/outdoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "atrium/public": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "attic": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "auditorium": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "auto_factory": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "auto_showroom": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "badlands": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "bakery/shop": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "balcony/exterior": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "balcony/interior": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "ball_pit": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "ballroom": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "bamboo_forest": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "bank_vault": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "banquet_hall": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "bar": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "barn": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "barndoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "baseball_field": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "basement": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "basketball_court/indoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "bathroom": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "bazaar/indoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "bazaar/outdoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "beach": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "beach_house": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "beauty_salon": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "bedchamber": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "bedroom": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "beer_garden": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "beer_hall": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "berth": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "biology_laboratory": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "boardwalk": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "boat_deck": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "boathouse": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "bookstore": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "booth/indoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "botanical_garden": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "bow_window/indoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "bowling_alley": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "boxing_ring": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "bridge": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "building_facade": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "bullring": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "burial_chamber": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "bus_interior": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "bus_station/indoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "butchers_shop": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "butte": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "cabin/outdoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "cafeteria": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "campsite": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "campus": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "canal/natural": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "canal/urban": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "candy_store": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "canyon": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "car_interior": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "carrousel": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "castle": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "catacomb": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "cemetery": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "chalet": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "chemistry_lab": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "childs_room": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "church/indoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "church/outdoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "classroom": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "clean_room": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "cliff": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "closet": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "clothing_store": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "coast": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "cockpit": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "coffee_shop": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "computer_room": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "conference_center": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "conference_room": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "construction_site": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "corn_field": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "corral": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "corridor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "cottage": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "courthouse": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "courtyard": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "creek": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "crevasse": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "crosswalk": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "dam": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "delicatessen": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "department_store": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "desert/sand": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "desert/vegetation": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "desert_road": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "diner/outdoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "dining_hall": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "dining_room": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "discotheque": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "doorway/outdoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "dorm_room": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "downtown": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "dressing_room": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "driveway": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "drugstore": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "elevator/door": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "elevator_lobby": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "elevator_shaft": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "embassy": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "engine_room": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "entrance_hall": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "escalator/indoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "excavation": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "fabric_store": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "farm": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "fastfood_restaurant": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "field/cultivated": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "field/wild": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "field_road": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "fire_escape": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "fire_station": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "fishpond": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "flea_market/indoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "florist_shop/indoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "food_court": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "football_field": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "forest/broadleaf": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "forest_path": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "forest_road": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "formal_garden": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "fountain": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "galley": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "garage/indoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "garage/outdoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "gas_station": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "gazebo/exterior": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "general_store/indoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "general_store/outdoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "gift_shop": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "glacier": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "golf_course": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "greenhouse/indoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "greenhouse/outdoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "grotto": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "gymnasium/indoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "hangar/indoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "hangar/outdoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "harbor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "hardware_store": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "hayfield": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "heliport": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "highway": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "home_office": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "home_theater": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "hospital": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "hospital_room": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "hot_spring": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "hotel/outdoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "hotel_room": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "house": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "hunting_lodge/outdoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "ice_cream_parlor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "ice_floe": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "ice_shelf": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "ice_skating_rink/indoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "ice_skating_rink/outdoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "iceberg": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "igloo": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "industrial_area": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "inn/outdoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "islet": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "jacuzzi/indoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "jail_cell": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "japanese_garden": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "jewelry_shop": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "junkyard": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "kasbah": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "kennel/outdoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "kindergarden_classroom": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "kitchen": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "lagoon": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "lake/natural": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "landfill": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "landing_deck": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "laundromat": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "lawn": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "lecture_room": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "legislative_chamber": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "library/indoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "library/outdoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "lighthouse": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "living_room": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "loading_dock": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "lobby": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "lock_chamber": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "locker_room": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "mansion": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "manufactured_home": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "market/indoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "market/outdoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "marsh": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "martial_arts_gym": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "mausoleum": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "medina": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "mezzanine": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "moat/water": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "mosque/outdoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "motel": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "mountain": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "mountain_path": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "mountain_snowy": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "movie_theater/indoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "museum/indoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "museum/outdoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "music_studio": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "natural_history_museum": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "nursery": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "nursing_home": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "oast_house": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "ocean": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "office": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "office_building": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "office_cubicles": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "oilrig": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "operating_room": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "orchard": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "orchestra_pit": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "pagoda": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "palace": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "pantry": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "park": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "parking_garage/indoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "parking_garage/outdoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "parking_lot": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "pasture": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "patio": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "pavilion": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "pet_shop": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "pharmacy": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "phone_booth": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "physics_laboratory": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "picnic_area": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "pier": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "pizzeria": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "playground": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "playroom": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "plaza": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "pond": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "porch": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "promenade": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "pub/indoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "racecourse": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "raceway": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "raft": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "railroad_track": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "rainforest": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "reception": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "recreation_room": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "repair_shop": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "residential_neighborhood": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "restaurant": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "restaurant_kitchen": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "restaurant_patio": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "rice_paddy": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "river": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "rock_arch": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "roof_garden": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "rope_bridge": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "ruin": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "runway": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "sandbox": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "sauna": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "schoolhouse": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "science_museum": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "server_room": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "shed": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "shoe_shop": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "shopfront": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "shopping_mall/indoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "shower": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "ski_resort": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "ski_slope": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "sky": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "skyscraper": {
+      "minimumScore": 0.6336953780025479,
+      "minimumMargin": 0.4479534330296796
+    },
+    "slum": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "snowfield": {
+      "minimumScore": 0.4761303711578486,
+      "minimumMargin": 0.1965793660351131
+    },
+    "soccer_field": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "stable": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "stadium/baseball": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "stadium/football": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "stadium/soccer": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "stage/indoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "stage/outdoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "staircase": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "storage_room": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "street": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "subway_station/platform": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "supermarket": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "sushi_bar": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "swamp": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "swimming_hole": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "swimming_pool/indoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "swimming_pool/outdoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "synagogue/outdoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "television_room": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "television_studio": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "temple/asia": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "throne_room": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "ticket_booth": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "topiary_garden": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "tower": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "toyshop": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "train_interior": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "train_station/platform": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "tree_farm": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "tree_house": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "trench": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "tundra": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "underwater/ocean_deep": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "utility_room": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "valley": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "vegetable_garden": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "veterinarians_office": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "viaduct": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "village": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "vineyard": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "volcano": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "volleyball_court/outdoor": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "waiting_room": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "water_park": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "water_tower": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "waterfall": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "watering_hole": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "wave": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "wet_bar": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "wheat_field": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "wind_farm": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "windmill": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "yard": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "youth_hostel": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    },
+    "zen_garden": {
+      "minimumScore": 2,
+      "minimumMargin": 2
+    }
+  },
+  "createdBeforeTestInference": true
+}

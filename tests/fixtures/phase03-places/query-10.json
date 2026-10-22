@@ -1,0 +1,1024 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 10,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "5733086": {
+        "pageid": 5733086,
+        "ns": 6,
+        "title": "File:Handwritten letter by Descartes December 1638.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1831128,
+            "width": 1561,
+            "height": 2369,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Handwritten_letter_by_Descartes_December_1638.jpg/960px-Handwritten_letter_by_Descartes_December_1638.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1166,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Handwritten_letter_by_Descartes_December_1638.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Handwritten_letter_by_Descartes_December_1638.jpg/960px-Handwritten_letter_by_Descartes_December_1638.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1166,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Handwritten_letter_by_Descartes_December_1638.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Handwritten_letter_by_Descartes_December_1638.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Handwritten_letter_by_Descartes_December_1638.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=5733086",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2009-01-17 14:42:51",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Handwritten letter by Descartes December 1638",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Sony DSC-T10|License migration redundant|Works by René Descartes|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Handwritten_letter_by_Descartes_December_1638",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1638",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Own work by uploader, photographed at Musee des Lettres et Manuscripts, Paris",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:PHGCOM\" class=\"mw-redirect\" title=\"User:PHGCOM\">PHGCOM</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "26180519": {
+        "pageid": 26180519,
+        "ns": 6,
+        "title": "File:Illustration-hebrew-letter-with-sheep.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 42387,
+            "width": 300,
+            "height": 335,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Illustration-hebrew-letter-with-sheep.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 768,
+            "thumbheight": 858,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/Illustration-hebrew-letter-with-sheep.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 858
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Illustration-hebrew-letter-with-sheep.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Illustration-hebrew-letter-with-sheep.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=26180519",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-05-19 19:04:01",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Illustration-hebrew-letter-with-sheep",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "מ|Images with annotations|PD-Art (PD-old-100)|Template Unknown (author)|CC-PD-Mark|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Kaufmann collection",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Handwritten Hebrew letter מ with a <a href=\"https://en.wikipedia.org/wiki/sheep\" class=\"extiw\" title=\"w:sheep\">sheep</a> (and other animals) from a mediaeval manuscript.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Mediaeval",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://kaufmann.mtak.hu/en/study03.htmDavid\">Kaufmann and his collections</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "77377061": {
+        "pageid": 77377061,
+        "ns": 6,
+        "title": "File:James Mabbett letter - 1846 - 02.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 233779,
+            "width": 767,
+            "height": 1080,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/James_Mabbett_letter_-_1846_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 768,
+            "thumbheight": 1081,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/2/2e/James_Mabbett_letter_-_1846_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1081
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/James_Mabbett_letter_-_1846_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:James_Mabbett_letter_-_1846_-_02.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=77377061",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-03-16 16:30:10",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "James Mabbett letter - 1846 - 02",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Mabbettsville|James Mabbett|1846-04-16|1846 letters|PD-Art (PD-old-70)|CC-PD-Mark|Needing transcription (en)|PD-Art missing SDC copyright status|PD-old missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Letter from James Mabbett of Mabbettsville to his brother Trueman Mabbett.\n<p>Described on ebay as \"Handwritten letter of James Mabbett, 2pp legal, with integral cover to his brother, Truman Mabbett, Mechanicsville, NY, manuscript Mabbettsville NY, James Mabbett PM, Free.\"\n</p>\nTopics include: land matters, politics, Harrison, log cabins, hard cider, Whigs.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1846-04-16",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.worthpoint.com/worthopedia/1846-mabbettsville-york-handwritten-1819502897\">https://www.worthpoint.com/worthopedia/1846-mabbettsville-york-handwritten-1819502897</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q19861054\" class=\"extiw\" title=\"d:Q19861054\"><span title=\"commission auctioneer\">James Mabbett</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "77377062": {
+        "pageid": 77377062,
+        "ns": 6,
+        "title": "File:James Mabbett letter - 1846 - 01.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 351676,
+            "width": 1600,
+            "height": 806,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/James_Mabbett_letter_-_1846_-_01.jpg/960px-James_Mabbett_letter_-_1846_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 387,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/6/61/James_Mabbett_letter_-_1846_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/James_Mabbett_letter_-_1846_-_01.jpg/960px-James_Mabbett_letter_-_1846_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 387,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/6/61/James_Mabbett_letter_-_1846_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/James_Mabbett_letter_-_1846_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:James_Mabbett_letter_-_1846_-_01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=77377062",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-03-16 16:30:11",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "James Mabbett letter - 1846 - 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Mechanicville, New York|Mabbettsville|James Mabbett|1846-04-16|1846 letters|PD-Art (PD-old-70)|CC-PD-Mark|Needing transcription (en)|PD-Art missing SDC copyright status|PD-old missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The text in this image should be <a href=\"//commons.wikimedia.org/wiki/Category:Needing_transcription\" title=\"Category:Needing transcription\">transcribed and included in the description</a> on this page. \n<hr>\nReplace this template with <a href=\"//commons.wikimedia.org/wiki/Template:Transcription\" class=\"mw-redirect\" title=\"Template:Transcription\"><span style=\"font-family:monospace,monospace;\">{{Transcription}}</span></a> after transcription. See also <a href=\"//commons.wikimedia.org/wiki/Help:Converting#Converting_from_image_formats_to_text_(optical_character_recognition)\" title=\"Help:Converting\">Converting from image formats to text (optical character recognition)</a>.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1846-04-16",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.worthpoint.com/worthopedia/1846-mabbettsville-york-handwritten-1819502897\">https://www.worthpoint.com/worthopedia/1846-mabbettsville-york-handwritten-1819502897</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q19861054\" class=\"extiw\" title=\"d:Q19861054\"><span title=\"commission auctioneer\">James Mabbett</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "77377063": {
+        "pageid": 77377063,
+        "ns": 6,
+        "title": "File:James Mabbett letter - 1846 - 03.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 180402,
+            "width": 767,
+            "height": 1080,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/1/16/James_Mabbett_letter_-_1846_-_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 768,
+            "thumbheight": 1081,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/James_Mabbett_letter_-_1846_-_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1081
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/James_Mabbett_letter_-_1846_-_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:James_Mabbett_letter_-_1846_-_03.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=77377063",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-03-16 16:30:11",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "James Mabbett letter - 1846 - 03",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Mabbettsville|James Mabbett|1846-04-16|1846 letters|PD-Art (PD-old-70)|Images with extracted images|CC-PD-Mark|Needing transcription (en)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Letter from James Mabbett of Mabbettsville to his brother Trueman Mabbett.\n<p>Described on ebay as \"Handwritten letter of James Mabbett, 2pp legal, with integral cover to his brother, Truman Mabbett, Mechanicsville, NY, manuscript Mabbettsville NY, James Mabbett PM, Free.\"\n</p>\nTopics include: land matters, politics, Harrison, log cabins, hard cider, Whigs.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1846-04-16",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.worthpoint.com/worthopedia/1846-mabbettsville-york-handwritten-1819502897\">https://www.worthpoint.com/worthopedia/1846-mabbettsville-york-handwritten-1819502897</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q19861054\" class=\"extiw\" title=\"d:Q19861054\"><span title=\"commission auctioneer\">James Mabbett</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "89855938": {
+        "pageid": 89855938,
+        "ns": 6,
+        "title": "File:Print, visiting-card, manuscript (BM C,1.716-726).jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 394466,
+            "width": 1468,
+            "height": 1600,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Print%2C_visiting-card%2C_manuscript_%28BM_C%2C1.716-726%29.jpg/960px-Print%2C_visiting-card%2C_manuscript_%28BM_C%2C1.716-726%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 837,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/1/15/Print%2C_visiting-card%2C_manuscript_%28BM_C%2C1.716-726%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Print%2C_visiting-card%2C_manuscript_%28BM_C%2C1.716-726%29.jpg/960px-Print%2C_visiting-card%2C_manuscript_%28BM_C%2C1.716-726%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 837,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/1/15/Print%2C_visiting-card%2C_manuscript_%28BM_C%2C1.716-726%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Print%2C_visiting-card%2C_manuscript_%28BM_C%2C1.716-726%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Print,_visiting-card,_manuscript_(BM_C,1.716-726).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=89855938",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-05-04 18:11:21",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nprint, visiting-card, manuscript</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Prints in the British Museum|Artworks without Wikidata item|PD Old|PD-scan (PD-old-70)|Artworks with known accession number|CC-PD-Mark|Uploads by copyfraud|PD-old missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nPrint made by:Anonymous</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Folded sheet of eleven visiting cards and a letter, all belonging to the Banks family; dated by Banks between 1779-1792; [] indicates hand written notes:\n<p><br>\n<br>C,1.716: Mr Banks / Gray fecit;\n<br>C,1.717-718: Mr Banks / New Burlington Street;\n<br>C,1.719, 721: Mr Banks / Soho Square;\n<br>C,1.720: Mr Banks presents his Compliments / to / &amp; requests the Honor of / Company / at Dinner on / Soho Square / The favor of an answer is requested;\n<br>C,1.722: Sir Joseph  &amp; Lady Banks present their Compts to and request the Honor of Company at Dinner on / Soho Square / Dinner at / the favor of an Answer is requested; [1781]\n<br>C,1.723: Mrs Banks Soho Square; [1779]\n<br>C,1.724: Lady Banks Soho Square; [1781]\n<br>C,1.725: Lady Banks; [Jany 1787]\n</p>\n<br>C,1.726: manuscript letter dated April 16 1792, signed by Joseph Banks, inviting the recipient to a Committee meeting proposing to re-route a river;",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1779-1792 (c)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.britishmuseum.org/collection/object/P_C-1-716-726\">https://www.britishmuseum.org/collection/object/P_C-1-716-726</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "© The Trustees of the British Museum, released as CC BY-NC-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "126508912": {
+        "pageid": 126508912,
+        "ns": 6,
+        "title": "File:Khalsa Darbar record of the Sikh Empire, consisting of a handwritten letter in the name of Fakir Syed Nooruddin.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 392798,
+            "width": 952,
+            "height": 1723,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Khalsa_Darbar_record_of_the_Sikh_Empire%2C_consisting_of_a_handwritten_letter_in_the_name_of_Fakir_Syed_Nooruddin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 768,
+            "thumbheight": 1390,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Khalsa_Darbar_record_of_the_Sikh_Empire%2C_consisting_of_a_handwritten_letter_in_the_name_of_Fakir_Syed_Nooruddin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1390
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Khalsa_Darbar_record_of_the_Sikh_Empire%2C_consisting_of_a_handwritten_letter_in_the_name_of_Fakir_Syed_Nooruddin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Khalsa_Darbar_record_of_the_Sikh_Empire,_consisting_of_a_handwritten_letter_in_the_name_of_Fakir_Syed_Nooruddin.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=126508912",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-08-18 21:11:04",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Khalsa Darbar record of the Sikh Empire, consisting of a handwritten letter in the name of Fakir Syed Nooruddin",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD Old|PD-scan (PD-old-70)|CC-PD-Mark|PD-old missing SDC copyright status|Khalsa Darbar records",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Khalsa Darbar record of the Sikh Empire, consisting of a handwritten letter in the name of Fakir Syed Nooruddin.\n\n<p>Language: Persian (Farsi)</p>\n\n<p>Collection: Lahore Museum, Dhobi Mandi, Lahore, Punjab</p>\n\n<p>Item no.: S-1048</p>\n\n<p>Sikh Empire manuscript. Handwritten letter in the name of Faqir Syed Nooruddin from the former Sikh government.</p>\n\nImage source: <a rel=\"mw:ExtLink nofollow\" href=\"https://www.flickr.com/photos/lyallpur/5613200128/in/album-72157632617940792\" class=\"external autonumber\"></a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "ca.1799–1849",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Photographs extracted from Tahir Iqbal's Flickr account, specifically from the album titled \"Sikh History (Guru Nanak to Date) West Punjab\". URL to album: <a rel=\"mw:ExtLink nofollow\" href=\"https://www.flickr.com/photos/lyallpur/albums/72157632617940792\" class=\"external free\">https://www.flickr.com/photos/lyallpur/albums/72157632617940792</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Unknown scribe. Photographs taken by Tahir Iqbal.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "126540909": {
+        "pageid": 126540909,
+        "ns": 6,
+        "title": "File:Handwritten letter of Guru Gobind Singh 03.png",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2003506,
+            "width": 971,
+            "height": 1263,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Handwritten_letter_of_Guru_Gobind_Singh_03.png/960px-Handwritten_letter_of_Guru_Gobind_Singh_03.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 999,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Handwritten_letter_of_Guru_Gobind_Singh_03.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Handwritten_letter_of_Guru_Gobind_Singh_03.png/960px-Handwritten_letter_of_Guru_Gobind_Singh_03.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 999,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Handwritten_letter_of_Guru_Gobind_Singh_03.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Handwritten_letter_of_Guru_Gobind_Singh_03.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Handwritten_letter_of_Guru_Gobind_Singh_03.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=126540909",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-12-12 00:46:44",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Handwritten letter of Guru Gobind Singh 03",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Gurmukhi|Sikh scriptures|PD Old|PD-scan (PD-old-70)|CC-PD-Mark|Letters of the 1690s|Punjabi-language manuscripts|Gurmukhi letters|Gurmukhi manuscripts",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Handwritten letter of Guru Gobind Singh and his scribe. \"Signatures of Guru Gobind Singh Sahib on the Hukumnama to Bhai Triloka and Bhai Rama from the family of Phul - also known as the Patiala Hukumnama-includes the line 'Tera ghar mera assey' - later used as the 'Motto' on the crest of the Patiala Maharajas (2 August 1696).\" (quote taken from Patshahi10.com\n\n<hr>\n\nMeaning of the word \"nishan\" (Punjabi ਨੀਸਾਣੁ neeshaaṇ meaning sign, mark, insignia of approval, spelled in Gurbani as ਨੀਸਾਣੁ, and colloquially as ਨਿਸ਼ਾਨ): nishan/nisan/neeshan, a signature/autograph of the Sikh gurus or other prominent Sikhs, often by scribing the Mul Mantar [perhaps as some sort of authentication measure of the specific manuscript it is written in] but not always being the Mul Mantar.)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1696-08-02",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p>1) <a rel=\"mw:ExtLink nofollow\" href=\"https://www.sikhsangat.com/index.php?/topic/84825-guru-gobind-singh-ji-beautiful-handwriting/\" class=\"external free\">https://www.sikhsangat.com/index.php?/topic/84825-guru-gobind-singh-ji-beautiful-handwriting/</a></p>\n\n2) <a rel=\"mw:ExtLink nofollow\" href=\"http://patshahi10.com/glimpse-of-bani-written-in-guru-gobind-singh-sahibs-own-handwriting\" class=\"external free\">http://patshahi10.com/glimpse-of-bani-written-in-guru-gobind-singh-sahibs-own-handwriting</a> (page four)",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Guru Gobind Singh and his scribe",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "126540913": {
+        "pageid": 126540913,
+        "ns": 6,
+        "title": "File:Handwritten letter of Guru Gobind Singh 01.png",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1933100,
+            "width": 978,
+            "height": 1218,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Handwritten_letter_of_Guru_Gobind_Singh_01.png/960px-Handwritten_letter_of_Guru_Gobind_Singh_01.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 956,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/7/75/Handwritten_letter_of_Guru_Gobind_Singh_01.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Handwritten_letter_of_Guru_Gobind_Singh_01.png/960px-Handwritten_letter_of_Guru_Gobind_Singh_01.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 956,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/75/Handwritten_letter_of_Guru_Gobind_Singh_01.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Handwritten_letter_of_Guru_Gobind_Singh_01.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Handwritten_letter_of_Guru_Gobind_Singh_01.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=126540913",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-12-12 00:46:47",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Handwritten letter of Guru Gobind Singh 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Gurmukhi|Sikhism|Sikh scriptures|PD Old|PD-scan (PD-old-70)|CC-PD-Mark|Letters of the 1690s|Punjabi-language manuscripts|PD-old missing SDC copyright status|Gurmukhi letters|Gurmukhi manuscripts",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Handwritten letter of Guru Gobind Singh and his scribe. \"Signatures of Guru Gobind Singh Sahib on the Hukumnama to Bhai Triloka and Bhai Rama from the family of Phul - also known as the Patiala Hukumnama-includes the line 'Tera ghar mera assey' - later used as the 'Motto' on the crest of the Patiala Maharajas (2 August 1696).\" (quote taken from Patshahi10.com\n<hr>\nMeaning of the word \"nishan\" (Punjabi ਨੀਸਾਣੁ neeshaaṇ meaning sign, mark, insignia of approval, spelled in Gurbani as ਨੀਸਾਣੁ, and colloquially as ਨਿਸ਼ਾਨ): nishan/nisan/neeshan, a signature/autograph of the Sikh gurus or other prominent Sikhs, often by scribing the Mul Mantar [perhaps as some sort of authentication measure of the specific manuscript it is written in] but not always being the Mul Mantar.)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1696-08-02",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p>1) <a rel=\"nofollow\" class=\"external free\" href=\"https://www.sikhsangat.com/index.php?/topic/84825-guru-gobind-singh-ji-beautiful-handwriting/\">https://www.sikhsangat.com/index.php?/topic/84825-guru-gobind-singh-ji-beautiful-handwriting/</a>\n</p>\n2) <a rel=\"nofollow\" class=\"external free\" href=\"http://patshahi10.com/glimpse-of-bani-written-in-guru-gobind-singh-sahibs-own-handwriting\">http://patshahi10.com/glimpse-of-bani-written-in-guru-gobind-singh-sahibs-own-handwriting</a> (page four)",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Guru Gobind Singh and his scribe",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "126540918": {
+        "pageid": 126540918,
+        "ns": 6,
+        "title": "File:Handwritten letter of Guru Gobind Singh 02.png",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2161436,
+            "width": 1026,
+            "height": 1294,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Handwritten_letter_of_Guru_Gobind_Singh_02.png/960px-Handwritten_letter_of_Guru_Gobind_Singh_02.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 969,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/7/77/Handwritten_letter_of_Guru_Gobind_Singh_02.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Handwritten_letter_of_Guru_Gobind_Singh_02.png/960px-Handwritten_letter_of_Guru_Gobind_Singh_02.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 969,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/77/Handwritten_letter_of_Guru_Gobind_Singh_02.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Handwritten_letter_of_Guru_Gobind_Singh_02.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Handwritten_letter_of_Guru_Gobind_Singh_02.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=126540918",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-12-12 00:46:52",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Handwritten letter of Guru Gobind Singh 02",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Gurmukhi|Sikh scriptures|PD Old|PD-scan (PD-old-70)|CC-PD-Mark|Letters of the 1690s|Punjabi-language manuscripts|PD-old missing SDC copyright status|Gurmukhi letters|Gurmukhi manuscripts",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Handwritten letter of Guru Gobind Singh and his scribe. \"Signatures of Guru Gobind Singh Sahib on the Hukumnama to Bhai Triloka and Bhai Rama from the family of Phul - also known as the Patiala Hukumnama-includes the line 'Tera ghar mera assey' - later used as the 'Motto' on the crest of the Patiala Maharajas (2 August 1696).\" (quote taken from Patshahi10.com\n<hr>\nMeaning of the word \"nishan\" (Punjabi ਨੀਸਾਣੁ neeshaaṇ meaning sign, mark, insignia of approval, spelled in Gurbani as ਨੀਸਾਣੁ, and colloquially as ਨਿਸ਼ਾਨ): nishan/nisan/neeshan, a signature/autograph of the Sikh gurus or other prominent Sikhs, often by scribing the Mul Mantar [perhaps as some sort of authentication measure of the specific manuscript it is written in] but not always being the Mul Mantar.)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1696-08-02",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p>1) <a rel=\"nofollow\" class=\"external free\" href=\"https://www.sikhsangat.com/index.php?/topic/84825-guru-gobind-singh-ji-beautiful-handwriting/\">https://www.sikhsangat.com/index.php?/topic/84825-guru-gobind-singh-ji-beautiful-handwriting/</a>\n</p>\n2) <a rel=\"nofollow\" class=\"external free\" href=\"http://patshahi10.com/glimpse-of-bani-written-in-guru-gobind-singh-sahibs-own-handwriting\">http://patshahi10.com/glimpse-of-bani-written-in-guru-gobind-singh-sahibs-own-handwriting</a> (page four)",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Guru Gobind Singh and his scribe",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

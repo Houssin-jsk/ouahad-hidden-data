@@ -1,0 +1,1179 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 10,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "2112596": {
+        "pageid": 2112596,
+        "ns": 6,
+        "title": "File:Tulip Tulipa clusiana 'Lady Jane' Rock Ledge Flower Edit 2000px.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1630452,
+            "width": 2000,
+            "height": 2000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Tulip_Tulipa_clusiana_%27Lady_Jane%27_Rock_Ledge_Flower_Edit_2000px.jpg/960px-Tulip_Tulipa_clusiana_%27Lady_Jane%27_Rock_Ledge_Flower_Edit_2000px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 768,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Tulip_Tulipa_clusiana_%27Lady_Jane%27_Rock_Ledge_Flower_Edit_2000px.jpg/1920px-Tulip_Tulipa_clusiana_%27Lady_Jane%27_Rock_Ledge_Flower_Edit_2000px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Tulip_Tulipa_clusiana_%27Lady_Jane%27_Rock_Ledge_Flower_Edit_2000px.jpg/960px-Tulip_Tulipa_clusiana_%27Lady_Jane%27_Rock_Ledge_Flower_Edit_2000px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 768,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Tulip_Tulipa_clusiana_%27Lady_Jane%27_Rock_Ledge_Flower_Edit_2000px.jpg/1920px-Tulip_Tulipa_clusiana_%27Lady_Jane%27_Rock_Ledge_Flower_Edit_2000px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Tulip_Tulipa_clusiana_%27Lady_Jane%27_Rock_Ledge_Flower_Edit_2000px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tulip_Tulipa_clusiana_%27Lady_Jane%27_Rock_Ledge_Flower_Edit_2000px.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2112596",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2007-05-15 20:41:34",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Tulip Tulipa clusiana 'Lady Jane' Rock Ledge Flower Edit 2000px",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Nikon D50|White flowers|License migration completed|Self-published work|Featured pictures by Derek Ramsey|Chanticleer Garden Photographs by Derek Ramsey|Featured pictures of flowers|Tulipa clusiana 'Lady Jane'|Files with coordinates missing SDC location of creation|Featured pictures of Liliales|Flowers with 6 petals",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "featured|potd",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "40.030638",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-75.392877",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A picture of the <a href=\"//commons.wikimedia.org/wiki/Tulip\" class=\"mw-redirect\" title=\"Tulip\">Tulip</a><small><sup><a href=\"https://en.wikipedia.org/wiki/Tulip\" class=\"extiw\" title=\"en:Tulip\">en</a></sup></small> (<span style=\"white-space:nowrap\"><i><a href=\"//commons.wikimedia.org/wiki/Tulipa_clusiana\" title=\"Tulipa clusiana\">Tulipa clusiana</a></i> <small><sup><i><a href=\"https://en.wikipedia.org/wiki/Tulipa_clusiana\" class=\"extiw\" title=\"en:Tulipa clusiana\">en</a>   </i></sup></small></span> 'Lady Jane') flower.  Photo taken in the Rock Ledge at the <a href=\"https://en.wikipedia.org/wiki/Chanticleer_Garden\" class=\"extiw\" title=\"en:Chanticleer Garden\">Chanticleer Garden</a> where it was identified.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2007-04-20",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\">Self-photographed</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Photo by and (c)2007 Derek Ramsey (<a href=\"https://en.wikipedia.org/wiki/User:Ram-Man\" class=\"extiw\" title=\"en:User:Ram-Man\">Ram-Man</a>).  Co-attribution must be given to the Chanticleer Garden.",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "I, the copyright holder of this work, hereby publish it under the following license:",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "2781229": {
+        "pageid": 2781229,
+        "ns": 6,
+        "title": "File:Lily Lilium 'Citronella' Flower.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1587797,
+            "width": 2578,
+            "height": 2000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Lily_Lilium_%27Citronella%27_Flower.jpg/960px-Lily_Lilium_%27Citronella%27_Flower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 596,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Lily_Lilium_%27Citronella%27_Flower.jpg/1920px-Lily_Lilium_%27Citronella%27_Flower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Lily_Lilium_%27Citronella%27_Flower.jpg/960px-Lily_Lilium_%27Citronella%27_Flower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 596,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Lily_Lilium_%27Citronella%27_Flower.jpg/1920px-Lily_Lilium_%27Citronella%27_Flower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Lily_Lilium_%27Citronella%27_Flower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lily_Lilium_%27Citronella%27_Flower.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2781229",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2007-09-20 01:48:10",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Lily Lilium 'Citronella' Flower",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Nikon D50|License migration redundant|Featured pictures of Pennsylvania|Self-published work|Featured pictures on Wikipedia, English|Commons featured desktop backgrounds|Featured pictures by Derek Ramsey|Chanticleer Garden Photographs by Derek Ramsey|Featured pictures of flowers|Featured pictures on Wikipedia, Turkish|Lilium 'Citronella'|September 2007 in Pennsylvania|Files with coordinates missing SDC location of creation|United States photographs taken on 2007-09-15|Featured pictures of Liliales|Yellow flowers on blue background",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality|featured|poty|potd",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "40.030638",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-75.392877",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A picture of a lily flower (<span style=\"white-space:nowrap\"><i><a href=\"//commons.wikimedia.org/wiki/Lilium\" title=\"Lilium\">Lilium</a></i> <small><sup><i><a href=\"https://en.wikipedia.org/wiki/Lilium\" class=\"extiw\" title=\"en:Lilium\">en</a>   </i></sup></small></span> 'Citronella'). Photo taken at the <a href=\"https://en.wikipedia.org/wiki/Chanticleer_Garden\" class=\"extiw\" title=\"en:Chanticleer Garden\">Chanticleer Garden</a> where its species was identified.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 15 September 2007",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\">Self-photographed</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Photo by and (c)2007 Derek Ramsey (<a href=\"https://en.wikipedia.org/wiki/User:Ram-Man\" class=\"extiw\" title=\"en:User:Ram-Man\">Ram-Man</a>).  Co-attribution must be given to the Chanticleer Garden.  Both parties have shared, contractual copyright control.",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "You may select the license of your choice.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "3534449": {
+        "pageid": 3534449,
+        "ns": 6,
+        "title": "File:Leucanthemum vulgare 'Filigran' Flower 2200px.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2291466,
+            "width": 2200,
+            "height": 2000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Leucanthemum_vulgare_%27Filigran%27_Flower_2200px.jpg/960px-Leucanthemum_vulgare_%27Filigran%27_Flower_2200px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 698,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Leucanthemum_vulgare_%27Filigran%27_Flower_2200px.jpg/1920px-Leucanthemum_vulgare_%27Filigran%27_Flower_2200px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Leucanthemum_vulgare_%27Filigran%27_Flower_2200px.jpg/960px-Leucanthemum_vulgare_%27Filigran%27_Flower_2200px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 698,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Leucanthemum_vulgare_%27Filigran%27_Flower_2200px.jpg/1920px-Leucanthemum_vulgare_%27Filigran%27_Flower_2200px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Leucanthemum_vulgare_%27Filigran%27_Flower_2200px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Leucanthemum_vulgare_%27Filigran%27_Flower_2200px.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3534449",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2008-09-05 18:19:05",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Leucanthemum vulgare 'Filigran' Flower 2200px",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Leucanthemum vulgare 'Filigran'|GFDL|Taken with Nikon D50|License migration redundant|Featured pictures of Pennsylvania|Plants in May|Self-published work|Featured pictures on Wikipedia, English|Featured pictures by Derek Ramsey|Chanticleer Garden Photographs by Derek Ramsey|Featured pictures of flowers|Featured pictures on Wikipedia, Chinese|Featured pictures on Wikipedia, Persian|Featured pictures on Wikipedia, Turkish|Files with coordinates missing SDC location of creation|Featured pictures of Asteroideae|Leucanthemum vulgare (flowers)|Featured pictures on Wikipedia, Arabic",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality|featured|potd",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "40.030638",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-75.392877",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Picture of a flower of the <a href=\"//commons.wikimedia.org/wiki/Oxeye_Daisy\" class=\"mw-redirect\" title=\"Oxeye Daisy\">Oxeye Daisy</a><small><sup><a href=\"https://en.wikipedia.org/wiki/Oxeye_Daisy\" class=\"extiw\" title=\"en:Oxeye Daisy\">en</a></sup></small> (<span style=\"white-space:nowrap\"><i><a href=\"//commons.wikimedia.org/wiki/Leucanthemum_vulgare\" title=\"Leucanthemum vulgare\">Leucanthemum vulgare</a></i> <small><sup><i><a href=\"https://en.wikipedia.org/wiki/Leucanthemum_vulgare\" class=\"extiw\" title=\"en:Leucanthemum vulgare\">en</a>   </i></sup></small></span> 'Filigran'). Photo taken in the Pond Garden Bed 2 at the <a href=\"https://en.wikipedia.org/wiki/Chanticleer_Garden\" class=\"extiw\" title=\"en:Chanticleer Garden\">Chanticleer Garden</a>.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2007-05-20",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Photo by and (c)2008 Derek Ramsey (<a href=\"https://en.wikipedia.org/wiki/User:Ram-Man\" class=\"extiw\" title=\"en:User:Ram-Man\">Ram-Man</a>).  Co-attribution must be given to the Chanticleer Garden.",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "You may select the license of your choice.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "4670929": {
+        "pageid": 4670929,
+        "ns": 6,
+        "title": "File:Osteospermum Flower Power Spider Purple 2134px.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2468763,
+            "width": 2134,
+            "height": 1863,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Osteospermum_Flower_Power_Spider_Purple_2134px.jpg/960px-Osteospermum_Flower_Power_Spider_Purple_2134px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 670,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Osteospermum_Flower_Power_Spider_Purple_2134px.jpg/1920px-Osteospermum_Flower_Power_Spider_Purple_2134px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Osteospermum_Flower_Power_Spider_Purple_2134px.jpg/960px-Osteospermum_Flower_Power_Spider_Purple_2134px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 670,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Osteospermum_Flower_Power_Spider_Purple_2134px.jpg/1920px-Osteospermum_Flower_Power_Spider_Purple_2134px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Osteospermum_Flower_Power_Spider_Purple_2134px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Osteospermum_Flower_Power_Spider_Purple_2134px.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4670929",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2008-08-31 21:14:27",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Osteospermum Flower Power Spider Purple 2134px",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Osteospermum (cultivars)|Taken with Nikon D50|GFDL-1.2|Flora of Pennsylvania|Featured pictures of Pennsylvania|Purple flowers|Self-published work|Featured pictures by Derek Ramsey|Photographs by Derek Ramsey|Featured pictures of flowers|Featured pictures on Wikipedia, Persian|Featured pictures on Wikipedia, Turkish|Files with coordinates missing SDC location of creation|Featured pictures of Asteroideae|Osteospermum (flowers)|Pictures of the Year/2008 (finalist)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality|featured|poty|potd",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "40.118384",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-76.427454",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Photograph of an <span style=\"white-space:nowrap\"><i><a href=\"//commons.wikimedia.org/wiki/Osteospermum\" title=\"Osteospermum\">Osteospermum</a></i> <small><sup><i><a href=\"https://en.wikipedia.org/wiki/Osteospermum\" class=\"extiw\" title=\"en:Osteospermum\">en</a>   </i></sup></small></span> cultivar.  This flower is part of the 2008 Penn State horticultural trials.  It was located in the full sun garden at block UM, plot 46.  It is titled \"Flower Power Spider Purple\", a cultivar of <a rel=\"nofollow\" class=\"external text\" href=\"http://firstclassplants.com\">Selecta First Class</a>.  It is number 9805.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2008-08-30",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Photo by and (c)2008 Derek Ramsey (<a href=\"https://en.wikipedia.org/wiki/User:Ram-Man\" class=\"extiw\" title=\"en:User:Ram-Man\">Ram-Man</a>)",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "I, the copyright holder of this work, hereby publish it under the following license:",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "GFDL 1.2",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "GNU Free Documentation License 1.2",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "5775722": {
+        "pageid": 5775722,
+        "ns": 6,
+        "title": "File:Sunflower macro wide.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1300380,
+            "width": 1800,
+            "height": 1200,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Sunflower_macro_wide.jpg/960px-Sunflower_macro_wide.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 512,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Sunflower_macro_wide.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Sunflower_macro_wide.jpg/960px-Sunflower_macro_wide.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 512,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Sunflower_macro_wide.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Sunflower_macro_wide.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sunflower_macro_wide.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=5775722",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2009-03-09 19:33:45",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Sunflower macro wide",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS 400D|GFDL-1.2|Retouched pictures|Images with annotations|Taken with Sigma 150mm F2.8 EX DG APO Macro HSM|Self-published work|Featured pictures on Wikipedia, English|Photographs by Muhammad Mahdi Karim|Featured pictures by Muhammad Mahdi Karim|Featured pictures of Asteroideae|Assessment tagged pages marked as POTY candidates|Unidentified caterpillars to be classified by family|Helianthus disc florets",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality|featured|potd|poty",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Close-up view of a <a href=\"https://en.wikipedia.org/wiki/sunflower\" class=\"extiw\" title=\"w:sunflower\">sunflower</a>, <i>Helianthus annuus</i> capitulum showing the disc florets. From the center of the <a href=\"https://en.wikipedia.org/wiki/capitulum\" class=\"extiw\" title=\"w:capitulum\">flower head</a>, <a href=\"https://en.wikipedia.org/wiki/inflorescence\" class=\"extiw\" title=\"w:inflorescence\">inflorescence</a> of small disc florets emerge in a spiral fashion followed by the larger yellow ray florets- parts of which are seen at the edges of the picture above. In the center of the flower seen above is a <a href=\"https://en.wikipedia.org/wiki/Lepidoptera\" class=\"extiw\" title=\"w:Lepidoptera\">lepidopteran</a> larva.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2009-01",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<b><a href=\"https://en.wikipedia.org/wiki/User:Muhammad_Mahdi_Karim\" class=\"extiw\" title=\"w:User:Muhammad Mahdi Karim\">Muhammad Mahdi Karim</a></b>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "I, the copyright holder of this work, hereby publish it under the following license:",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "GFDL 1.2",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "GNU Free Documentation License 1.2",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "116252583": {
+        "pageid": 116252583,
+        "ns": 6,
+        "title": "File:Adenium Obesum Flower Bud Macro Mar22 D72 23061-67 ZS P.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 13852395,
+            "width": 5144,
+            "height": 3858,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Adenium_Obesum_Flower_Bud_Macro_Mar22_D72_23061-67_ZS_P.jpg/960px-Adenium_Obesum_Flower_Bud_Macro_Mar22_D72_23061-67_ZS_P.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Adenium_Obesum_Flower_Bud_Macro_Mar22_D72_23061-67_ZS_P.jpg/1920px-Adenium_Obesum_Flower_Bud_Macro_Mar22_D72_23061-67_ZS_P.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Adenium_Obesum_Flower_Bud_Macro_Mar22_D72_23061-67_ZS_P.jpg/960px-Adenium_Obesum_Flower_Bud_Macro_Mar22_D72_23061-67_ZS_P.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Adenium_Obesum_Flower_Bud_Macro_Mar22_D72_23061-67_ZS_P.jpg/1920px-Adenium_Obesum_Flower_Bud_Macro_Mar22_D72_23061-67_ZS_P.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Adenium_Obesum_Flower_Bud_Macro_Mar22_D72_23061-67_ZS_P.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Adenium_Obesum_Flower_Bud_Macro_Mar22_D72_23061-67_ZS_P.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=116252583",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-03-21 04:53:04",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Adenium Obesum Flower Bud Macro Mar22 D72 23061-67 ZS P",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Adenium obesum (flowers)|Self-published work|Media with estimated locations|Focus stacking images of flowers|Files with coordinates missing SDC location of creation|Images by User:Tagooty|India photographs taken on 2022-03-21|Images by User:Tagooty/India|Flowers of Chennai|Flora of Uthandi|Focus stacking images by Tagooty",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "12.873040",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "80.244750",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Adenium obesum (desert rose), macro of front view of flower and bud behind.  Focus stack of 7 images. Uthandi, Chennai",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-03-21 10:13:56",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<table class=\"toccolours\" style=\"width:100%; margin-top:10px;\" cellpadding=\"2\">\n\n<tbody><tr class=\"plainlinks\">\n<td><a href=\"https://upload.wikimedia.org/wikipedia/commons/1/1a/Adenium_Obesum_Flower_Bud_Macro_Mar22_D72_23061-67_ZS_P.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=api&amp;utm_content=original\" class=\"internal\" title=\"Adenium Obesum Flower Bud Macro Mar22 D72 23061-67 ZS P.jpg\">This Photo</a> was taken by <i><b><a href=\"//commons.wikimedia.org/wiki/User:Tagooty\" title=\"User:Tagooty\">Timothy A. Gonsalves</a></b></i>.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email <a rel=\"nofollow\" class=\"external text\" href=\"mailto:tagooty@yahoo.com\">tagooty@yahoo.com</a> or write on <a class=\"external text\" href=\"https://commons.wikimedia.org/w/index.php?title=User_talk:Tagooty&amp;action=edit&amp;section=new\">my talk page</a>, for my information.  Please contact me before commercial use.\n</td></tr></tbody></table>\n<div style=\"clear:both; border:2px solid #00cc00; background-color:#f7f7f7; margin-top:6px;\">\n<table><tbody><tr><td style=\"padding:4px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Upload-problem2.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Upload-problem2.svg/120px-Upload-problem2.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"57\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Upload-problem2.svg/250px-Upload-problem2.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"159\" data-file-height=\"142\"></a></span>\n</td><td style=\"padding:4px;\"><div style=\"margin-top:0.5em;\">Please do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.<br>Otherwise you may upload an edited image with a new name. Please use one of the templates <a href=\"//commons.wikimedia.org/wiki/Template:Derived_from\" title=\"Template:Derived from\">derivative</a> or <a href=\"//commons.wikimedia.org/wiki/Template:Extracted_from\" title=\"Template:Extracted from\">extract</a>.</div>\n</td></tr></tbody></table></div>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "116252588": {
+        "pageid": 116252588,
+        "ns": 6,
+        "title": "File:Adenium Obesum Flower Side Macro Mar22 D72 23052-58 ZS P.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 12125946,
+            "width": 4792,
+            "height": 3834,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Adenium_Obesum_Flower_Side_Macro_Mar22_D72_23052-58_ZS_P.jpg/960px-Adenium_Obesum_Flower_Side_Macro_Mar22_D72_23052-58_ZS_P.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 614,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Adenium_Obesum_Flower_Side_Macro_Mar22_D72_23052-58_ZS_P.jpg/1920px-Adenium_Obesum_Flower_Side_Macro_Mar22_D72_23052-58_ZS_P.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Adenium_Obesum_Flower_Side_Macro_Mar22_D72_23052-58_ZS_P.jpg/960px-Adenium_Obesum_Flower_Side_Macro_Mar22_D72_23052-58_ZS_P.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 614,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Adenium_Obesum_Flower_Side_Macro_Mar22_D72_23052-58_ZS_P.jpg/1920px-Adenium_Obesum_Flower_Side_Macro_Mar22_D72_23052-58_ZS_P.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Adenium_Obesum_Flower_Side_Macro_Mar22_D72_23052-58_ZS_P.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Adenium_Obesum_Flower_Side_Macro_Mar22_D72_23052-58_ZS_P.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=116252588",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-04-05 04:02:55",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Adenium Obesum Flower Side Macro Mar22 D72 23052-58 ZS P",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Adenium obesum (flowers)|Self-published work|Media with estimated locations|Focus stacking images of flowers|Red flowers in India|Files with coordinates missing SDC location of creation|Images by User:Tagooty|Images by User:Tagooty/India|Flowers of Chennai|Flora of Uthandi|Focus stacking images by Tagooty",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality|valued",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "12.873040",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "80.244750",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Adenium obesum (desert rose), macro of a flower, side view showing calyx, corolla and styles.  Focus stack of 7 images. Uthandi, Chennai",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-03-21 10:13:56",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<table class=\"toccolours\" style=\"width:100%; margin-top:10px;\" cellpadding=\"2\">\n\n<tbody><tr class=\"plainlinks\">\n<td><a href=\"https://upload.wikimedia.org/wikipedia/commons/4/4a/Adenium_Obesum_Flower_Side_Macro_Mar22_D72_23052-58_ZS_P.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=original\" class=\"internal\" title=\"Adenium Obesum Flower Side Macro Mar22 D72 23052-58 ZS P.jpg\">This Photo</a> was taken by <i><b><a href=\"//commons.wikimedia.org/wiki/User:Tagooty\" title=\"User:Tagooty\">Timothy A. Gonsalves</a></b></i>.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email <a rel=\"nofollow\" class=\"external text\" href=\"mailto:tagooty@yahoo.com\">tagooty@yahoo.com</a> or write on <a class=\"external text\" href=\"https://commons.wikimedia.org/w/index.php?title=User_talk:Tagooty&amp;action=edit&amp;section=new\">my talk page</a>, for my information.  Please contact me before commercial use.\n</td></tr></tbody></table>\n<div style=\"clear:both; border:2px solid #00cc00; background-color:#f7f7f7; margin-top:6px;\">\n<table><tbody><tr><td style=\"padding:4px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Upload-problem2.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Upload-problem2.svg/120px-Upload-problem2.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"57\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Upload-problem2.svg/250px-Upload-problem2.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"159\" data-file-height=\"142\"></a></span>\n</td><td style=\"padding:4px;\"><div style=\"margin-top:0.5em;\">Please do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.<br>Otherwise you may upload an edited image with a new name. Please use one of the templates <a href=\"//commons.wikimedia.org/wiki/Template:Derived_from\" title=\"Template:Derived from\">derivative</a> or <a href=\"//commons.wikimedia.org/wiki/Template:Extracted_from\" title=\"Template:Extracted from\">extract</a>.</div>\n</td></tr></tbody></table></div>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "116799163": {
+        "pageid": 116799163,
+        "ns": 6,
+        "title": "File:Blue Star Flower Focus Stack-20220410-RM-170959.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6041901,
+            "width": 5182,
+            "height": 3712,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Blue_Star_Flower_Focus_Stack-20220410-RM-170959.jpg/960px-Blue_Star_Flower_Focus_Stack-20220410-RM-170959.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 550,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Blue_Star_Flower_Focus_Stack-20220410-RM-170959.jpg/1920px-Blue_Star_Flower_Focus_Stack-20220410-RM-170959.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Blue_Star_Flower_Focus_Stack-20220410-RM-170959.jpg/960px-Blue_Star_Flower_Focus_Stack-20220410-RM-170959.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 550,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Blue_Star_Flower_Focus_Stack-20220410-RM-170959.jpg/1920px-Blue_Star_Flower_Focus_Stack-20220410-RM-170959.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Blue_Star_Flower_Focus_Stack-20220410-RM-170959.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Blue_Star_Flower_Focus_Stack-20220410-RM-170959.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=116799163",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-04-10 20:14:08",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Blue Star Flower Focus Stack-20220410-RM-170959",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Scilla forbesii (cultivars)|Taken with Olympus M.Zuiko Digital ED 60mm f/2.8 Macro|Flora of Bavaria|Bavaria photographs taken on 2022-04-10|Featured pictures by Ermell|Uploaded with LrMediaWiki|Focus stacking images of flowers|Photographs by Ermell|Featured pictures of Asparagaceae|Taken with Olympus E-M1 Mark III|Featured pictures of plants by Ermell|Images by User:Ermell taken in 2022|Focus stacked image",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality|featured",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Blue Star Flower Focus Stack. Focus stack of 20 frames.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-04-10",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ermell\" title=\"User:Ermell\">Ermell</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"toccolours\" style=\"width:100%; margin-top:10px;\" cellpadding=\"2\">\n\n<tbody><tr class=\"plainlinks\">\n<td><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Twemoji_1f4f7.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Twemoji_1f4f7.svg/40px-Twemoji_1f4f7.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Twemoji_1f4f7.svg/60px-Twemoji_1f4f7.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"512\"></a></span>  <a href=\"https://upload.wikimedia.org/wikipedia/commons/b/b9/Blue_Star_Flower_Focus_Stack-20220410-RM-170959.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=original\" class=\"internal\" title=\"Blue Star Flower Focus Stack-20220410-RM-170959.jpg\">This Photo</a> was taken by <i><b><a href=\"//commons.wikimedia.org/wiki/User:Ermell\" title=\"User:Ermell\">Reinhold Möller</a></b></i>.  <span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Twemoji_1f468.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Twemoji_1f468.svg/40px-Twemoji_1f468.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Twemoji_1f468.svg/60px-Twemoji_1f468.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"512\"></a></span>\n</td>\n<td align=\"right\">Feel free to use my photos, but please mention me as the author and send me a  <a class=\"external text\" data-mw-original-href=\"http://commons.wikimedia.org/w/index.php?title=User_talk:Ermell&amp;action=edit&amp;section=new\" href=\"https://commons.wikimedia.org/w/index.php?title=User_talk:Ermell&amp;action=edit&amp;section=new\">message</a>. <span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Crystal_128_mail.png\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Crystal_128_mail.png/40px-Crystal_128_mail.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Crystal_128_mail.png/60px-Crystal_128_mail.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"128\" data-file-height=\"128\"></a></span>\n</td></tr></tbody></table>\n<div style=\"clear:both; border:2px solid #00cc00; background-color:#f7f7f7; margin-top:6px;\">\n<table><tbody><tr><td style=\"padding:4px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Telif_inceleme.png\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/a/a5/Telif_inceleme.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail_unscaled\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" data-file-width=\"110\" data-file-height=\"110\"></a></span>\n</td><td style=\"padding:4px;\"><div style=\"margin-top:0.5em;\">This image is <b>not <a href=\"https://en.wikipedia.org/wiki/Public_domain\" class=\"extiw\" title=\"en:Public domain\">public domain</a></b>. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically <b>excludes use in social media</b>, if applicable terms of the licenses listed here not appropriate.</div>\n</td></tr></tbody></table>\n<table><tbody><tr><td style=\"padding:4px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Upload-problem2.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Upload-problem2.svg/120px-Upload-problem2.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"57\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Upload-problem2.svg/250px-Upload-problem2.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"159\" data-file-height=\"142\"></a></span>\n</td><td style=\"padding:4px;\"><div style=\"margin-top:0.5em;\">Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.<br>Please if you think that any changes should be required, please inform the author.<br>Otherwise you can upload a new image with a new name. Please use one of the templates <a href=\"//commons.wikimedia.org/wiki/Template:Derived_from\" title=\"Template:Derived from\">derivative</a> or <a href=\"//commons.wikimedia.org/wiki/Template:Extracted_from\" title=\"Template:Extracted from\">extract</a>.</div>\n</td></tr></tbody></table></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "121141288": {
+        "pageid": 121141288,
+        "ns": 6,
+        "title": "File:Adenium Obesum Flower Buds Side Macro Jul22 D72 24337-434 ZS P.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 16278617,
+            "width": 5736,
+            "height": 3824,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Adenium_Obesum_Flower_Buds_Side_Macro_Jul22_D72_24337-434_ZS_P.jpg/960px-Adenium_Obesum_Flower_Buds_Side_Macro_Jul22_D72_24337-434_ZS_P.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 512,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Adenium_Obesum_Flower_Buds_Side_Macro_Jul22_D72_24337-434_ZS_P.jpg/1920px-Adenium_Obesum_Flower_Buds_Side_Macro_Jul22_D72_24337-434_ZS_P.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Adenium_Obesum_Flower_Buds_Side_Macro_Jul22_D72_24337-434_ZS_P.jpg/960px-Adenium_Obesum_Flower_Buds_Side_Macro_Jul22_D72_24337-434_ZS_P.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 512,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Adenium_Obesum_Flower_Buds_Side_Macro_Jul22_D72_24337-434_ZS_P.jpg/1920px-Adenium_Obesum_Flower_Buds_Side_Macro_Jul22_D72_24337-434_ZS_P.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Adenium_Obesum_Flower_Buds_Side_Macro_Jul22_D72_24337-434_ZS_P.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Adenium_Obesum_Flower_Buds_Side_Macro_Jul22_D72_24337-434_ZS_P.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=121141288",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-07-27 11:56:32",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Adenium Obesum Flower Buds Side Macro Jul22 D72 24337-434 ZS P",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Adenium obesum (flowers)|Self-published work|2022 in Chennai|July 2022 India photographs|Focus stacking images of flowers|Images by User:Tagooty|India photographs taken on 2022-07-27|Images by User:Tagooty/India|Flowers of Chennai|Flora of Uthandi|Focus stacked image|Focus stacking images by Tagooty",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Adenium obesum (desert rose), macro of a flower and buds, side view showing calyx, corolla and styles. Focus stack of 98 images. Uthandi, Chennai",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-07-27 07:20:06",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<table class=\"toccolours\" style=\"width:100%; margin-top:10px;\" cellpadding=\"2\">\n\n<tbody><tr class=\"plainlinks\">\n<td><a href=\"https://upload.wikimedia.org/wikipedia/commons/d/db/Adenium_Obesum_Flower_Buds_Side_Macro_Jul22_D72_24337-434_ZS_P.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=api&amp;utm_content=original\" class=\"internal\" title=\"Adenium Obesum Flower Buds Side Macro Jul22 D72 24337-434 ZS P.jpg\">This Photo</a> was taken by <i><b><a href=\"//commons.wikimedia.org/wiki/User:Tagooty\" title=\"User:Tagooty\">Timothy A. Gonsalves</a></b></i>.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email <a rel=\"nofollow\" class=\"external text\" href=\"mailto:tagooty@yahoo.com\">tagooty@yahoo.com</a> or write on <a class=\"external text\" href=\"https://commons.wikimedia.org/w/index.php?title=User_talk:Tagooty&amp;action=edit&amp;section=new\">my talk page</a>, for my information.  Please contact me before commercial use.\n</td></tr></tbody></table>\n<div style=\"clear:both; border:2px solid #00cc00; background-color:#f7f7f7; margin-top:6px;\">\n<table><tbody><tr><td style=\"padding:4px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Upload-problem2.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Upload-problem2.svg/120px-Upload-problem2.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"57\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Upload-problem2.svg/250px-Upload-problem2.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"159\" data-file-height=\"142\"></a></span>\n</td><td style=\"padding:4px;\"><div style=\"margin-top:0.5em;\">Please do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.<br>Otherwise you may upload an edited image with a new name. Please use one of the templates <a href=\"//commons.wikimedia.org/wiki/Template:Derived_from\" title=\"Template:Derived from\">derivative</a> or <a href=\"//commons.wikimedia.org/wiki/Template:Extracted_from\" title=\"Template:Extracted from\">extract</a>.</div>\n</td></tr></tbody></table></div>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "136721475": {
+        "pageid": 136721475,
+        "ns": 6,
+        "title": "File:Hosta flower-20230730-RM-112817-2.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3811303,
+            "width": 3687,
+            "height": 4142,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Hosta_flower-20230730-RM-112817-2.jpg/960px-Hosta_flower-20230730-RM-112817-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 863,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Hosta_flower-20230730-RM-112817-2.jpg/1920px-Hosta_flower-20230730-RM-112817-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Hosta_flower-20230730-RM-112817-2.jpg/960px-Hosta_flower-20230730-RM-112817-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 863,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Hosta_flower-20230730-RM-112817-2.jpg/1920px-Hosta_flower-20230730-RM-112817-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Hosta_flower-20230730-RM-112817-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hosta_flower-20230730-RM-112817-2.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=136721475",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-01-23 23:02:48",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hosta flower-20230730-RM-112817-2",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "White flowers in Germany|Self-published work|Bavaria photographs taken on 2023-07-30|Featured pictures by Ermell|Uploaded with LrMediaWiki|Photographs by Ermell|Hosta (flowers)|Quality photographs of bokeh|Bokeh photographs of Asparagales flowers|Taken with OM System OM-1|Unidentified Hosta cultivars|Featured pictures of plants by Ermell|Images by User:Ermell taken in 2023|Taken with OM System 90 mm F3.5 ED Macro IS Pro|Focus stacked image",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality|featured",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Blossom of a hosta",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-07-30",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ermell\" title=\"User:Ermell\">Ermell</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"toccolours\" style=\"width:100%; margin-top:10px;\" cellpadding=\"2\">\n\n<tbody><tr class=\"plainlinks\">\n<td><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Twemoji_1f4f7.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Twemoji_1f4f7.svg/40px-Twemoji_1f4f7.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Twemoji_1f4f7.svg/60px-Twemoji_1f4f7.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"512\"></a></span>  <a href=\"https://upload.wikimedia.org/wikipedia/commons/6/63/Hosta_flower-20230730-RM-112817-2.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=api&amp;utm_content=original\" class=\"internal\" title=\"Hosta flower-20230730-RM-112817-2.jpg\">This Photo</a> was taken by <i><b><a href=\"//commons.wikimedia.org/wiki/User:Ermell\" title=\"User:Ermell\">Reinhold Möller</a></b></i>.  <span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Twemoji_1f468.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Twemoji_1f468.svg/40px-Twemoji_1f468.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Twemoji_1f468.svg/60px-Twemoji_1f468.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"512\"></a></span>\n</td>\n<td align=\"right\">Feel free to use my photos, but please mention me as the author and send me a  <a class=\"external text\" data-mw-original-href=\"http://commons.wikimedia.org/w/index.php?title=User_talk:Ermell&amp;action=edit&amp;section=new\" href=\"https://commons.wikimedia.org/w/index.php?title=User_talk:Ermell&amp;action=edit&amp;section=new\">message</a>. <span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Crystal_128_mail.png\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Crystal_128_mail.png/40px-Crystal_128_mail.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Crystal_128_mail.png/60px-Crystal_128_mail.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"128\" data-file-height=\"128\"></a></span>\n</td></tr></tbody></table>\n<div style=\"clear:both; border:2px solid #00cc00; background-color:#f7f7f7; margin-top:6px;\">\n<table><tbody><tr><td style=\"padding:4px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Telif_inceleme.png\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/a/a5/Telif_inceleme.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail_unscaled\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" data-file-width=\"110\" data-file-height=\"110\"></a></span>\n</td><td style=\"padding:4px;\"><div style=\"margin-top:0.5em;\">This image is <b>not <a href=\"https://en.wikipedia.org/wiki/Public_domain\" class=\"extiw\" title=\"en:Public domain\">public domain</a></b>. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically <b>excludes use in social media</b>, if applicable terms of the licenses listed here not appropriate.</div>\n</td></tr></tbody></table>\n<table><tbody><tr><td style=\"padding:4px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Upload-problem2.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Upload-problem2.svg/120px-Upload-problem2.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"57\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Upload-problem2.svg/250px-Upload-problem2.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"159\" data-file-height=\"142\"></a></span>\n</td><td style=\"padding:4px;\"><div style=\"margin-top:0.5em;\">Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.<br>Please if you think that any changes should be required, please inform the author.<br>Otherwise you can upload a new image with a new name. Please use one of the templates <a href=\"//commons.wikimedia.org/wiki/Template:Derived_from\" title=\"Template:Derived from\">derivative</a> or <a href=\"//commons.wikimedia.org/wiki/Template:Extracted_from\" title=\"Template:Extracted from\">extract</a>.</div>\n</td></tr></tbody></table></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ermell\" title=\"User:Ermell\">Reinhold Möller</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

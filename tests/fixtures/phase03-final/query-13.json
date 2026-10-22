@@ -1,0 +1,1103 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 10,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "6057325": {
+        "pageid": 6057325,
+        "ns": 6,
+        "title": "File:Elderly Gambian woman face portrait.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5111043,
+            "width": 1949,
+            "height": 2160,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Elderly_Gambian_woman_face_portrait.jpg/960px-Elderly_Gambian_woman_face_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 851,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Elderly_Gambian_woman_face_portrait.jpg/1920px-Elderly_Gambian_woman_face_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Elderly_Gambian_woman_face_portrait.jpg/960px-Elderly_Gambian_woman_face_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 851,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Elderly_Gambian_woman_face_portrait.jpg/1920px-Elderly_Gambian_woman_face_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Elderly_Gambian_woman_face_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Elderly_Gambian_woman_face_portrait.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=6057325",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2009-02-27 22:33:27",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Old and wise</i></div></div><div style=\"display: none;\">title QS:P1476,en:\"Old and wise\"</div><div style=\"display: none;\">label QS:Len,\"Old and wise\"</div><div style=\"display: none;\">label QS:Lit,\"Giovane e saggia\"</div></div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS 20D|Personality rights warning|2008 in the Gambia|Files from Flickr with changed licenses|Flickr images uploaded by Flickr upload bot|Portrait photographs of women|Women looking at viewer|Featured pictures on Wikipedia, Persian|Featured pictures of the Gambia|21st-century portrait photographs of women at bust length|Women's faces|Featured pictures of women|Old women wearing hijabs|Hijabs in the Gambia|Portrait photographs of old women of the Gambia|2008 portrait photographs of women|Orange female clothing|Photographs by Ferdinand Reus|Featured pictures from Flickr|Close-up photographs of human faces|Reflections in human eyes",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "featured|potd",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\n<a rel=\"mw:ExtLink nofollow\" href=\"https://www.flickr.com/photos/72092071@N00\" class=\"external text\">Ferdinand Reus</a></div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Elderly Gambian woman's face surrounded by yellow and orange <a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/Hijab\" title=\"en:Hijab\" class=\"extiw\">hijab</a>. January 2008, <a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/The%20Gambia\" title=\"en:The Gambia\" class=\"extiw\">The Gambia</a>.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "11 January 2008, 11:23:37",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"mw:ExtLink nofollow\" href=\"https://www.flickr.com/photos/72092071@N00/2427452908\" class=\"external text\">Flickr</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "personality",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "14942170": {
+        "pageid": 14942170,
+        "ns": 6,
+        "title": "File:Baby portrait 1-year-old.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2586791,
+            "width": 2848,
+            "height": 2136,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Baby_portrait_1-year-old.jpg/960px-Baby_portrait_1-year-old.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Baby_portrait_1-year-old.jpg/1920px-Baby_portrait_1-year-old.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Baby_portrait_1-year-old.jpg/960px-Baby_portrait_1-year-old.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Baby_portrait_1-year-old.jpg/1920px-Baby_portrait_1-year-old.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Baby_portrait_1-year-old.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Baby_portrait_1-year-old.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=14942170",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-04-17 10:03:01",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Baby portrait 1-year-old",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Human heads|Personality rights warning|Pussyhats|Self-published work|Girls' eyes|Girls looking at viewer|Girls' faces|Facial expressions of humans|Female babies in 2011|Media needing categorization by country (female babies)|Baby faces|Babies' caps|1-year-old human females|Portrait photographs of babies",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Portrait of 1-year-old baby girl",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Kozuch\" title=\"User:Kozuch\">Kozuch</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "personality",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "20939025": {
+        "pageid": 20939025,
+        "ns": 6,
+        "title": "File:Boy Face from Venezuela.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 10864429,
+            "width": 3545,
+            "height": 2848,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Boy_Face_from_Venezuela.jpg/960px-Boy_Face_from_Venezuela.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 617,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Boy_Face_from_Venezuela.jpg/1920px-Boy_Face_from_Venezuela.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Boy_Face_from_Venezuela.jpg/960px-Boy_Face_from_Venezuela.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 617,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Boy_Face_from_Venezuela.jpg/1920px-Boy_Face_from_Venezuela.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Boy_Face_from_Venezuela.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Boy_Face_from_Venezuela.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=20939025",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-02-16 05:01:02",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Boy Face from Venezuela",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "9-year-old human males|Taken with Nikon D300|CC-Zero|Personality rights warning|Featured pictures of Venezuela|Self-published work|Featured pictures by User:Wilfredor|Portrait photographs of boys|Featured pictures on Wikipedia, Vietnamese|Derivative versions|Boys of Venezuela|Full consent|Featured pictures of Venezuela by User:Wilfredor|Boys of Isla Margarita|Featured pictures of children|Featured pictures of Margarita Island|Featured photographs in the public domain|Files by Wilfredor|Images of Venezuela by User:Wilfredor|Photographs of Isla Margarita by Wilfredor|Culture pictures by Wilfredor|Personal family collection of Wilfredor|Portraits by Wilfredor",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality|featured|potd",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A 9-year-old boy's face, <a href=\"https://en.wikipedia.org/wiki/Isla_Margarita\" class=\"extiw\" title=\"en:Isla Margarita\">Margarita Island</a>, Venezuela.<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2012-08-23",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Wilfredor\" class=\"mw-redirect\" title=\"User:Wilfredor\">Wilfredor</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "personality",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "24004511": {
+        "pageid": 24004511,
+        "ns": 6,
+        "title": "File:Human face, meditating.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2401479,
+            "width": 2500,
+            "height": 1641,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Human_face%2C_meditating.jpg/960px-Human_face%2C_meditating.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 504,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Human_face%2C_meditating.jpg/1920px-Human_face%2C_meditating.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Human_face%2C_meditating.jpg/960px-Human_face%2C_meditating.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 504,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Human_face%2C_meditating.jpg/1920px-Human_face%2C_meditating.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Human_face%2C_meditating.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Human_face,_meditating.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24004511",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-01-19 23:19:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Human face, meditating",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Nikon D300|CC-Zero|Personality rights warning|Self-published work|People of Isla Margarita|Files by Wilfredor|Images of Venezuela by User:Wilfredor|Photographs of Isla Margarita by Wilfredor|Personal family collection of Wilfredor|Portraits by Wilfredor",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Human face, meditating",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2012-12-24 13:12:57",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Wilfredor\" class=\"mw-redirect\" title=\"User:Wilfredor\">Wilfredor</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table style=\"width:100%; clear:both; margin:0.5em auto; border-spacing:8px; background-color:var(--background-color-neutral-subtle,#f7f8ff); border:2px solid #8888aa;color: inherit;\" lang=\"en\" dir=\"ltr\" class=\"layouttemplate restrictiontemplate restriction-personality\">\n<tbody><tr>\n<td style=\"border:none; width:64px;\"><figure class=\"mw-halign-center\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/Commons:Non-copyright_restrictions\" title=\"Personality rights\"><img alt=\"Personality rights\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Dialog-warning-yellow.svg/120px-Dialog-warning-yellow.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Dialog-warning-yellow.svg/250px-Dialog-warning-yellow.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"48\" data-file-height=\"48\"></a><figcaption>Personality rights</figcaption></figure>\n</td>\n<td style=\"border:none;\"><span class=\"commons-template-name\" style=\"display:none\" id=\"commons-template-personality-rights\">Personality rights</span><div style=\"font-size:120%;font-weight:bold;\"><a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Photographs_of_identifiable_people\" title=\"Special:MyLanguage/Commons:Photographs of identifiable people\">Personality rights warning</a></div>Although this work is <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">freely licensed</a> or in the <a href=\"https://en.wikipedia.org/wiki/Public_domain\" class=\"extiw\" title=\"en:Public domain\">public domain</a>, the <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Photographs_of_identifiable_persons\" title=\"Special:MyLanguage/Commons:Photographs of identifiable persons\">person(s) shown</a> may have <a href=\"https://en.wikipedia.org/wiki/personality_rights\" class=\"extiw\" title=\"en:personality rights\">rights</a> that <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Country_specific_consent_requirements\" title=\"Special:MyLanguage/Commons:Country specific consent requirements\">legally restrict certain re-uses</a> unless those depicted consent to such uses. In these cases, a <a href=\"https://en.wikipedia.org/wiki/model_release\" class=\"extiw\" title=\"en:model release\">model release</a> or other evidence of consent could protect you from infringement claims. Though not obliged to do so, the uploader may be able to help you to obtain such evidence. See our <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:General_disclaimer\" title=\"Special:MyLanguage/Commons:General disclaimer\">general disclaimer</a> for more information.\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "personality",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "25480662": {
+        "pageid": 25480662,
+        "ns": 6,
+        "title": "File:Girl with sad face.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5217945,
+            "width": 4288,
+            "height": 2848,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Girl_with_sad_face.jpg/960px-Girl_with_sad_face.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 510,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Girl_with_sad_face.jpg/1920px-Girl_with_sad_face.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Girl_with_sad_face.jpg/960px-Girl_with_sad_face.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 510,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Girl_with_sad_face.jpg/1920px-Girl_with_sad_face.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Girl_with_sad_face.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Girl_with_sad_face.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=25480662",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-04-06 22:48:29",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Girl with sad face",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Nikon D300|CC-Zero|People of Maracaibo|Personality rights warning|Self-published work|Images with extracted images|Adolescent girls of Venezuela|Girls' faces|Girls with earrings|Files with coordinates missing SDC location of creation|Facial expressions of humans|Venezuela photographs taken on 2013-04-06|Human sadness|Files by Wilfredor|Female faces in profile (left)|Images of Venezuela by User:Wilfredor|Photographs of Maracaibo by Wilfredor|Culture pictures by Wilfredor|Portraits by Wilfredor|Next FP Nominations by Wilfredor|Sad images by Wilfredor",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "10.642455",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-71.612320",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Girl with a sad expression, Maracaibo, Venezuela",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-04-06 11:10:56",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Wilfredor\" class=\"mw-redirect\" title=\"User:Wilfredor\">Wilfredor</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "personality",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "62858407": {
+        "pageid": 62858407,
+        "ns": 6,
+        "title": "File:Variety of male human faces (collage).jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 984580,
+            "width": 2896,
+            "height": 2896,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Variety_of_male_human_faces_%28collage%29.jpg/960px-Variety_of_male_human_faces_%28collage%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 768,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Variety_of_male_human_faces_%28collage%29.jpg/1920px-Variety_of_male_human_faces_%28collage%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Variety_of_male_human_faces_%28collage%29.jpg/960px-Variety_of_male_human_faces_%28collage%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 768,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Variety_of_male_human_faces_%28collage%29.jpg/1920px-Variety_of_male_human_faces_%28collage%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Variety_of_male_human_faces_%28collage%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Variety_of_male_human_faces_(collage).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=62858407",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-09-28 22:14:33",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Variety of male human faces (collage)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Retouched pictures|Personality rights warning|CC-BY-SA-3.0,2.5,2.0,1.0|Portrait photographs of men at bust length|Photocollages of people",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Collage of male human faces: Hausa man from Northern Nigeria ; man of Asian descent; Yali tribesman in the Baliem Valley; shaman in the Amazon rainforest; Icelander; San man.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-09-28",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<ul class=\"gallery mw-gallery-nolines\">\n\t\t<li class=\"gallerybox\" style=\"width: 125px\">\n\t\t\t<div class=\"thumb\" style=\"width: 120px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Hausa_harpist.jpg\" class=\"mw-file-description\" title=\"Hausa harpist.jpg\"><img alt=\"Hausa harpist.jpg\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Hausa_harpist.jpg/120px-Hausa_harpist.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"81\" height=\"120\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Hausa_harpist.jpg/250px-Hausa_harpist.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1037\" data-file-height=\"1536\"></a></span></div>\n\t\t\t<div class=\"gallerytext\"><div class=\"center\"><a href=\"//commons.wikimedia.org/wiki/File:Hausa_harpist.jpg\" title=\"File:Hausa harpist.jpg\">Hausa harpist.jpg</a></div></div>\n\t\t</li>\n\t\t<li class=\"gallerybox\" style=\"width: 125px\">\n\t\t\t<div class=\"thumb\" style=\"width: 120px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Human_Body.jpg\" class=\"mw-file-description\" title=\"Human Body.jpg\"><img alt=\"Human Body.jpg\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Human_Body.jpg/120px-Human_Body.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"63\" height=\"120\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Human_Body.jpg/250px-Human_Body.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"5121\" data-file-height=\"9791\"></a></span></div>\n\t\t\t<div class=\"gallerytext\"><div class=\"center\"><a href=\"//commons.wikimedia.org/wiki/File:Human_Body.jpg\" title=\"File:Human Body.jpg\">Human Body.jpg</a></div></div>\n\t\t</li>\n\t\t<li class=\"gallerybox\" style=\"width: 125px\">\n\t\t\t<div class=\"thumb\" style=\"width: 120px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Yali_man_Baliem_Valley_Papua.jpg\" class=\"mw-file-description\" title=\"Yali man Baliem Valley Papua.jpg\"><img alt=\"Yali man Baliem Valley Papua.jpg\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Yali_man_Baliem_Valley_Papua.jpg/120px-Yali_man_Baliem_Valley_Papua.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"120\" height=\"85\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Yali_man_Baliem_Valley_Papua.jpg/250px-Yali_man_Baliem_Valley_Papua.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"800\" data-file-height=\"564\"></a></span></div>\n\t\t\t<div class=\"gallerytext\"><div class=\"center\"><a href=\"//commons.wikimedia.org/wiki/File:Yali_man_Baliem_Valley_Papua.jpg\" title=\"File:Yali man Baliem Valley Papua.jpg\">Yali man Baliem Valley Papua.jpg</a></div></div>\n\t\t</li>\n\t\t<li class=\"gallerybox\" style=\"width: 125px\">\n\t\t\t<div class=\"thumb\" style=\"width: 120px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Chaman_Amazonie_5_06.jpg\" class=\"mw-file-description\" title=\"Chaman amazonie 5 06.jpg\"><img alt=\"Chaman amazonie 5 06.jpg\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Chaman_Amazonie_5_06.jpg/120px-Chaman_Amazonie_5_06.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"80\" height=\"120\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Chaman_Amazonie_5_06.jpg/250px-Chaman_Amazonie_5_06.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"2336\" data-file-height=\"3504\"></a></span></div>\n\t\t\t<div class=\"gallerytext\"><div class=\"center\"><a href=\"//commons.wikimedia.org/wiki/File:Chaman_amazonie_5_06.jpg\" class=\"mw-redirect\" title=\"File:Chaman amazonie 5 06.jpg\">Chaman amazonie 5 06.jpg</a></div></div>\n\t\t</li>\n\t\t<li class=\"gallerybox\" style=\"width: 125px\">\n\t\t\t<div class=\"thumb\" style=\"width: 120px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:H%C3%A1t%C3%AD%C3%B0arb%C3%BAningur_karla.jpg\" class=\"mw-file-description\" title=\"Hátíðarbúningur karla.jpg\"><img alt=\"Hátíðarbúningur karla.jpg\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/H%C3%A1t%C3%AD%C3%B0arb%C3%BAningur_karla.jpg/120px-H%C3%A1t%C3%AD%C3%B0arb%C3%BAningur_karla.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"80\" height=\"120\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/H%C3%A1t%C3%AD%C3%B0arb%C3%BAningur_karla.jpg/250px-H%C3%A1t%C3%AD%C3%B0arb%C3%BAningur_karla.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"2912\" data-file-height=\"4368\"></a></span></div>\n\t\t\t<div class=\"gallerytext\"><div class=\"center\"><a href=\"//commons.wikimedia.org/wiki/File:H%C3%A1t%C3%AD%C3%B0arb%C3%BAningur_karla.jpg\" title=\"File:Hátíðarbúningur karla.jpg\">Hátíðarbúningur karla.jpg</a></div></div>\n\t\t</li>\n\t\t<li class=\"gallerybox\" style=\"width: 125px\">\n\t\t\t<div class=\"thumb\" style=\"width: 120px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:San_tribesman.jpg\" class=\"mw-file-description\" title=\"San tribesman.jpg\"><img alt=\"San tribesman.jpg\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/San_tribesman.jpg/120px-San_tribesman.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"80\" height=\"120\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/San_tribesman.jpg/250px-San_tribesman.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"2153\" data-file-height=\"3222\"></a></span></div>\n\t\t\t<div class=\"gallerytext\"><div class=\"center\"><a href=\"//commons.wikimedia.org/wiki/File:San_tribesman.jpg\" title=\"File:San tribesman.jpg\">San tribesman.jpg</a></div></div>\n\t\t</li>\n</ul>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Collective",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "personality",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "74938965": {
+        "pageid": 74938965,
+        "ns": 6,
+        "title": "File:Portrait of a smiling girl with wet face at golden hour in Laos.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9517841,
+            "width": 4121,
+            "height": 5837,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Portrait_of_a_smiling_girl_with_wet_face_at_golden_hour_in_Laos.jpg/960px-Portrait_of_a_smiling_girl_with_wet_face_at_golden_hour_in_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1088,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Portrait_of_a_smiling_girl_with_wet_face_at_golden_hour_in_Laos.jpg/1920px-Portrait_of_a_smiling_girl_with_wet_face_at_golden_hour_in_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Portrait_of_a_smiling_girl_with_wet_face_at_golden_hour_in_Laos.jpg/960px-Portrait_of_a_smiling_girl_with_wet_face_at_golden_hour_in_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1088,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Portrait_of_a_smiling_girl_with_wet_face_at_golden_hour_in_Laos.jpg/1920px-Portrait_of_a_smiling_girl_with_wet_face_at_golden_hour_in_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Portrait_of_a_smiling_girl_with_wet_face_at_golden_hour_in_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_smiling_girl_with_wet_face_at_golden_hour_in_Laos.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=74938965",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-08-01 10:25:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Portrait of a smiling girl with wet face at golden hour in Laos",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Sleeveless|Personality rights warning|Taken with Canon EOS 5D Mark IV and Canon EF 24-70mm F2.8L II USM|Self-published work|Girls of Laos|Portrait photographs of girls|With consent|Girls wearing red shirts|Portrait photographs of Laos|Wet T-shirts|Girls with black hair|Girls in water|Wet girls|Girls smiling with teeth|Files with coordinates missing SDC location of creation|Don Puay|Laos photographs taken on 2018-12-01|Golden hour in Laos|Photographs by Basile Morin|Smiling girls in Laos|People in sunshine|2018 in Champasak Province|1 girl|Faces showing teeth (female)|21st-century portrait photographs of girls at half length|Wet human hair|People at golden hour|Wet faces|Published photographs by Basile Morin",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "13.996478",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "105.879038",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Portrait of a smiling girl with wet face in the sunshine at golden hour, after a bath in the Mekong, on the island of Don Puay (Si Phan Don), Laos",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 1 December 2018, 16:36:26",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Basile_Morin\" title=\"User:Basile Morin\">Basile Morin</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "personality",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "75406644": {
+        "pageid": 75406644,
+        "ns": 6,
+        "title": "File:Face Portrait of Baronne de Rothschild.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 125255,
+            "width": 690,
+            "height": 923,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Face_Portrait_of_Baronne_de_Rothschild.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 768,
+            "thumbheight": 1027,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/4/49/Face_Portrait_of_Baronne_de_Rothschild.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1027
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Face_Portrait_of_Baronne_de_Rothschild.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Face_Portrait_of_Baronne_de_Rothschild.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=75406644",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-12-29 11:53:59",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Baronne de Rothschild</i></div></div><div style=\"display: none;\">label QS:Lavk,\"Delt va Betty Rothschild (trutca ke Ingres)\"</div><div style=\"display: none;\">label QS:Lfr,\"La Baronne James de Rothschild\"</div><div style=\"display: none;\">label QS:Lja,\"ジェイムス・ド・ロスチャイルド男爵夫人の肖像\"</div><div style=\"display: none;\">label QS:Len,\"Baronne de Rothschild\"</div><div style=\"display: none;\">label QS:Lit,\"Ritratto della baronessa de Rothschild\"</div><div style=\"display: none;\">label QS:Lru,\"Баронесса Бетти де Ротшильд\"</div><div style=\"display: none;\">label QS:Les,\"Baronesa de Rothschild\"</div></div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "People in art|PD-old-100-expired|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Extracted images|Women with black hair|CC-PD-Mark|Black hair in art|Women looking at viewer in art|Women with necklaces in art|Hands on face|Portraits of Betty de Rothschild, Baronne James de Rothschild by Ingres|Artworks digital representation of 2D work|Artworks with digital representation of different depicts|Female portrait paintings by Ingres|Human head and neck in art|Female people wearing hats",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Jean-Auguste-Dominique_Ingres\" class=\"extiw\" title=\"w:en:Jean-Auguste-Dominique Ingres\"><span title=\"French painter (1780–1867)\">Jean-Auguste-Dominique Ingres</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Detail",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1848<div style=\"display: none;\">date QS:P571,+1848-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This image has been <b>extracted</b> from another file",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "75893160": {
+        "pageid": 75893160,
+        "ns": 6,
+        "title": "File:Human Expressions.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 832220,
+            "width": 2047,
+            "height": 2047,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Human_Expressions.jpg/960px-Human_Expressions.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 768,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Human_Expressions.jpg/1920px-Human_Expressions.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Human_Expressions.jpg/960px-Human_Expressions.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 768,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Human_Expressions.jpg/1920px-Human_Expressions.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Human_Expressions.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Human_Expressions.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=75893160",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-01-16 17:05:51",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Human Expressions",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Human faces|Expressions|Self-published work|Black and white portrait photographs of men with beards|Black and white photographs of smiling men",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Humans can express their thoughts by expressions too. In the image a collage of nine different expression describing this",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-09-22",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Kuiperbharat&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Kuiperbharat (page does not exist)\">Kuiperbharat</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "143571500": {
+        "pageid": 143571500,
+        "ns": 6,
+        "title": "File:Human–canine friendship - girl hugging her dog tightly at golden hour in Laos.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9816497,
+            "width": 3831,
+            "height": 5746,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Human%E2%80%93canine_friendship_-_girl_hugging_her_dog_tightly_at_golden_hour_in_Laos.jpg/960px-Human%E2%80%93canine_friendship_-_girl_hugging_her_dog_tightly_at_golden_hour_in_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1152,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Human%E2%80%93canine_friendship_-_girl_hugging_her_dog_tightly_at_golden_hour_in_Laos.jpg/1920px-Human%E2%80%93canine_friendship_-_girl_hugging_her_dog_tightly_at_golden_hour_in_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Human%E2%80%93canine_friendship_-_girl_hugging_her_dog_tightly_at_golden_hour_in_Laos.jpg/960px-Human%E2%80%93canine_friendship_-_girl_hugging_her_dog_tightly_at_golden_hour_in_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1152,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Human%E2%80%93canine_friendship_-_girl_hugging_her_dog_tightly_at_golden_hour_in_Laos.jpg/1920px-Human%E2%80%93canine_friendship_-_girl_hugging_her_dog_tightly_at_golden_hour_in_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Human%E2%80%93canine_friendship_-_girl_hugging_her_dog_tightly_at_golden_hour_in_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Human%E2%80%93canine_friendship_-_girl_hugging_her_dog_tightly_at_golden_hour_in_Laos.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=143571500",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-01-06 10:55:50",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Human–canine friendship - girl hugging her dog tightly at golden hour in Laos",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Friendship|Personality rights warning|Don Det|Cuteness|Taken with Canon EOS 5D Mark IV and Canon EF 24-70mm F2.8L II USM|Self-published work|Featured pictures of Laos|With consent|Blue sky in Laos|Portrait photographs of Laos|Featured pictures on Wikipedia, Vietnamese|Featured pictures of dogs|Girls with black hair|Sitting dogs|21st-century portrait photographs of girls|Front views of dogs|Girls with closed eyes|Girls smiling with teeth|Featured pictures of children|Files with coordinates missing SDC location of creation|Featured pictures by Basile Morin|Golden hour in Laos|Photographs by Basile Morin|Smiling girls in Laos|People in sunshine|Portrait photographs of girls smiling|Girls standing|Laos photographs taken on 2023-12-27|People hugging in Laos|Portrait photographs of dogs|2023 in Champasak Province|People hugging needing categorization|People hugging needing categorization by country of location|People hugging needing categorization by gender|People hugging needing categorization by quantity|1 girl|People hugging needing categorization by appearance|People hugging needing categorization by occupation|People hugging needing categorization by stage of development|2-year-old human females|Girls in nature|Faces with deciduous teeth|Half-closed eyes of animals|People at golden hour|Smiling female people holding dogs|Animals at golden hour|Photographs of girls hugging dogs",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality|featured|potd",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "13.983458",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "105.917367",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/Human%E2%80%93canine_bond\" class=\"extiw\" title=\"en:Human–canine bond\">Human–canine bond</a> (<a href=\"https://en.wikipedia.org/wiki/Interspecies_friendship\" class=\"extiw\" title=\"en:Interspecies friendship\">interspecies friendship</a>). Smiling two-year old <a href=\"https://en.wikipedia.org/wiki/Girl\" class=\"extiw\" title=\"en:Girl\">girl</a> hugging her dog tightly with closed eyes, at <a href=\"https://en.wikipedia.org/wiki/Golden_hour_(photography)\" class=\"extiw\" title=\"en:Golden hour (photography)\">golden hour</a> in the countryside of <a href=\"https://en.wikipedia.org/wiki/Don_Det\" class=\"extiw\" title=\"en:Don Det\">Don Det</a>, <a href=\"https://en.wikipedia.org/wiki/Si_Phan_Don\" class=\"extiw\" title=\"en:Si Phan Don\">Si Phan Don</a>, <a href=\"https://en.wikipedia.org/wiki/Laos\" class=\"extiw\" title=\"en:Laos\">Laos</a>.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-12-27 06:48:39",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Basile_Morin\" title=\"User:Basile Morin\">Basile Morin</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "personality",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "requestUrl": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=dog+sleeping+sofa+photograph+filetype%3Abitmap&gsrnamespace=6&gsrlimit=20&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1536",
+  "response": {
+    "batchcomplete": ""
+  }
+}

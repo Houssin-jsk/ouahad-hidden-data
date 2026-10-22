@@ -1,0 +1,2 @@
+Official CSAILVision Places365 ResNet18 pretrained weights, CC BY as declared by the authors (version unspecified). Credit Bolei Zhou et al., Places: A 10 million Image Database for Scene Recognition, IEEE TPAMI 2017. https://github.com/CSAILVision/places365 https://places2.csail.mit.edu/
+Locally exported without retraining using torchvision ResNet18, ONNX opset17. Native taxonomy retained. Research only; not approved for production.

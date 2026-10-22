@@ -1,5 +1,25 @@
 # OUAHAD HIDDEN DATA
 
+**Latest exit review, 2026-10-22: Phase 03 COMPLETED; audit CONDITIONAL; Phase 04 READY as an engineering gate only. Public deployment NOT YET AUTHORIZED.** Fresh checks: 143 complete retained unit, 119 production unit from a candidate-only copy, 58 production Chrome, 34 companion Python, typecheck/lint/build/isolation pass. One new real admitted Gemini contact-sheet analysis succeeds; quality remains EXPERIMENTAL. Stop ON, all models OFF, owner session/invitation revoked, uncertain debit preserved. See [FINAL READINESS AUDIT — EXIT REVIEW](docs/phase-03/PHASE-03-HANDOFF.md#final-readiness-audit--exit-review) and [exact commit scope](docs/phase-03/evidence/commit-scope.json). Every older status block below is historical.
+
+Latest timeout-fix verification: **Phase 03 PASS for the restricted free-tier configuration**. Gemini now has 45 seconds within a 50-second API budget, a 65-second browser wait and the unchanged 60-second Node route limit. One new real browser → remote D1 → Gemini request succeeded with validated observations visible; the previous uncertain request remains charged. Focused server/browser checks pass. Emergency stop is restored, all models disabled and public release still closed. Phase 04 readiness is YES as a gate only; no Phase 04 work or deployment occurred. See **Gemini Timeout Alignment — Final Verification** in [the Phase 03 handoff](docs/phase-03/PHASE-03-HANDOFF.md); earlier summaries remain history.
+
+Current Phase 03: optional **AI Visual Observations** uses a secure Next.js Cloud Vision endpoint. Gemini `gemini-3.5-flash-lite` passed real image inference and structured-response validation. Public inference remains **BLOCKED** until account-level free billing and a shared usage ledger are verified. AI grounding is **EXPERIMENTAL**; Phase 04 readiness is **NO**. Nothing was deployed. See the final **Cloud Vision API Integration — Final Product Architecture** section in [the handoff](docs/phase-03/PHASE-03-HANDOFF.md).
+
+The four local measurement tabs and six-second presentation remain independent. Cloud processing requires a restricted pilot invitation, explicit external-processing consent and an adult professional participant in Morocco. Metadata-free previews are sent sequentially; no image is stored by this app. The old companion is absent from release bundles. Existing provider secrets remain server-side and unchanged. Setup requirements are in [the architecture report](docs/phase-03/PHASE-03-ARCHITECTURE.md).
+
+Earlier phase summaries below are historical and superseded by that final section for Cloud AI status.
+
+Latest Phase03 assignment: **Qwen Local Companion — BLOCKED on grounding quality.** The exact existing Qwen3-VL Q4_K_M/native runtime genuinely processes images; a Windows companion, production UI connection, exact-origin pairing and actual HTTPS-to-loopback transport are implemented. The frozen six-photo/four-transform evaluation failed, so the companion disables observations and the website prevents image transfer to that configuration. Current checks: 87 unit, 20 security and 55 production Chrome tests pass. See [the final handoff](docs/phase-03/PHASE-03-HANDOFF.md), [companion setup](companion/README.md) and [machine-readable evidence](docs/phase-03/evidence/qwen/verification-summary.json). Prior sections below remain history. No deployment occurred.
+
+The current reliability audit and verified test counts are in [docs/phase-01/PHASE-01-HANDOFF.md](docs/phase-01/PHASE-01-HANDOFF.md). The phase descriptions below record earlier implementation history. Normal builds expose the local statistics workspace only; AI research code remains isolated from the release.
+
+Phase 02 adds weighted luminance percentiles and HSV saturation interpretation with traceable methods, sampling/opacity basis and clear limits. See [docs/phase-02/PHASE-02-HANDOFF.md](docs/phase-02/PHASE-02-HANDOFF.md) for the analytics contract and verification; the original measurements and four tabs remain intact.
+
+The four-phase program's **Phase 03 is BLOCKED**: fresh licensed-image evaluation found insufficient useful coverage after CLIP abstention calibration; no model was promoted. See [docs/phase-03/PHASE-03-HANDOFF.md](docs/phase-03/PHASE-03-HANDOFF.md) for real inference evidence, candidate decisions and remaining acceptance criteria. Historical “Phase 3/4” descriptions below refer to earlier prototype work, not a passing Phase 03 AI release.
+
+The second and final focused attempt also stopped as **BLOCKED**, before new inference: the local classifier did not fit the broad-content task, and MobileCLIP-S0 did not clear product-use licensing and standard delivery-size eligibility. The handoff separates this stop from the first attempt's benchmarks; no additional research cycle or production integration was started.
+
 **Every image has a story.** A standalone, browser-only image statistics prototype by OUAHAD SPACE. Phase 2 adds validated native-pixel analysis and an Image DNA summary to the approved V1.1 interface.
 
 Phase 3 adds the adaptive workspace, local EXIF/metadata discovery, private GPS disclosure, real processing stages, and light/Sobel-detail maps with interactive comparison. See [docs/phase-3-workspace.md](docs/phase-3-workspace.md) for the layout audit, development-issue investigation, methods, tests and limits. Phase 2 pixel calculations and sampling remain unchanged.
@@ -10,7 +30,7 @@ The loading UI now visualizes the selected image and its real palette, luminance
 
 ## Run locally
 
-Requires Node.js 20.9 or newer (tested with Node 24.15) and npm.
+The app requires Node.js 20.9 or newer and npm. Full verification uses Node.js 24.15, including built-in SQLite for atomic shared-limit tests.
 
 ```sh
 npm ci
@@ -40,7 +60,7 @@ Average RGB uses area-and-alpha-weighted encoded sRGB values rounded to whole by
 
 Dominant colors use 5-bit RGB bucket means, stable spread-based seeds, and up to 24 rounds of weighted RGB k-means with early convergence and up to six clusters. Rounded duplicate centroids are merged. The reported colors are cluster centroids, so they need not match original pixels. Fully transparent pixels are excluded; partial transparency contributes proportionally, without compositing onto a background. Coverage is average alpha over image area, not the fraction of pixels with nonzero alpha. Results identify whether all pixels or a sample were analyzed, and sampled light metrics carry approximate labels and fewer decimal places.
 
-There are no upload endpoints, external fonts, analytics, database, authentication, paid APIs, localStorage writes or server image analysis. User previews use native blob URLs, outside Next.js image optimization. The Next.js server serves only the app and static assets. These are image statistics, not AI predictions.
+Local image measurements make no upload, external analytics or AI requests. User previews use native blob URLs, outside Next.js image optimization. Optional Cloud AI alone uses `/api/cloud-vision`, owner-issued access codes and a verified shared D1 usage ledger. Until free billing and the ledger are verified, it refuses inference. Cloud observations stay separate from numerical facts. Google unpaid processing can include product improvement and human review; do not send personal, sensitive or confidential images.
 
 ## Architecture and files
 
@@ -64,7 +84,7 @@ There are no upload endpoints, external fonts, analytics, database, authenticati
 
 The pure engine and typed outputs support adding independent EXIF, edges, composition, browser vision or report-export modules later. Those features are not implemented in this phase.
 
-Runtime packages: Next.js 16.4.0, React / React DOM 19.3.0 and Lucide React 0.468.0. Development packages: TypeScript 5.9.3, React/Node type definitions, Tailwind CSS 4.3.3 with its PostCSS plugin, ESLint 10.12.0 with Next.js configuration, Prettier, tsx and Playwright. Exact installed versions are in the lockfile.
+Runtime packages: Next.js 16.4.2, React / React DOM 19.3.0 and Lucide React 0.468.0. Development packages: TypeScript 5.9.3, React/Node type definitions, Tailwind CSS 4.3.3 with its PostCSS plugin, ESLint 10.12.0 with Next.js configuration, Prettier, tsx and Playwright. Exact installed versions are in the lockfile.
 
 Phase 3 adds ExifReader 4.50.0 inside the deferred analysis worker. It receives local ArrayBuffers only. Current validation totals are 33 unit tests and 20 browser tests; previous Phase 2/V1.1 counts below describe those historical phases.
 
@@ -88,12 +108,18 @@ The historical V1.1 visual refinement is documented in [docs/v1.1.md](docs/v1.1.
 
 - Larger images use a stratified native-pixel sample. Rare colors, very sparse visible details and extrema may be missed; RGB families remain approximate even when every decoded pixel is read. No sampling resize introduces mixed colors.
 - Browser color management and decoding affect sampled pixels. Animated files are measured at a decoded frame, not across the animation; previews may animate.
-- Native decoding allocates the original image before the post-decode 40-million-pixel check. Compressed file size alone cannot guarantee low decode memory use. Memory reclamation after URL revocation is controlled by the browser.
+- Encoded PNG/JPEG/WebP dimensions are checked against 40 million pixels before preview decoding, with a second check after decode. Supported images can still require substantial native decoder memory; reclamation after URL revocation is browser-controlled. Replacement and cancellation abort active decodes.
 - Native sampling requires ImageBitmap and worker OffscreenCanvas support; unsupported browsers receive a clear error. Canvas readback uses 8-bit sRGB, and low-alpha premultiplication/unpremultiplication can round channel values. Browser-specific dimension limits still apply.
-- SVG, GIF, HEIC, AVIF and remote-image URLs are intentionally unsupported. No metadata inspection or predictions.
+- SVG, GIF, HEIC, AVIF and remote-image URLs are intentionally unsupported. Metadata inspection is local; semantic Cloud AI observations are optional and experimental, with inference disabled until release safeguards are verified.
 - Mobile was tested through Chrome viewport emulation, not physical devices. Other browsers have not been verified. Clipboard copying requires a secure context (localhost qualifies).
 - `npm audit` reports a development-only `braces` stack-exhaustion advisory through Next.js's ESLint glob dependencies. At installation time npm offered a downgrade to an older Next.js lint configuration rather than a compatible patch. No production dependency advisories were reported. Avoid passing untrusted glob patterns to developer tooling.
 
 Next.js also generated `AGENTS.md` when the local development server first started. It records framework guidance for future coding work.
 
 No Git repository/remotes, commits, pushes or deployments were created.
+
+## FINAL READINESS AUDIT — EXIT REVIEW
+
+Production tests are self-contained: `npm test` runs 119 assertions without optional weights or unresolved-rights photos. `npm run test:all` preserves and executes all 143 retained assertions when historical assets are present. Existing source/attribution/manifests remain; eighteen unresolved-rights photographic originals and two reproducible tokenizers are narrowly ignored, not deleted. Restoration constraints and hashes are in fixture READMEs; model/vendor restoration remains optional research setup. No model search or promotion is required for the passing restricted engineering foundation.
+
+The proposed source tree is approximately 80.1 MB across 628 classified files, with 594 changed paths, no known secret matches and no oversized candidate objects. The manifest enumerates every proposed path/hash; `scripts/prepare-commit-scope.mjs --check` validates it and `--pathspec` prepares an exact local NUL-delimited list without staging. All actual staging/commit/publication remains the owner's decision. The handoff records the limited quality evidence, unpatched development advisory, and 1,090 stale Git metadata garbage files (about 68 GB) whose deletion automatic approval blocked. Git connectivity passes; that generated local metadata is outside the proposed commit and was not deleted or rewritten. The live site was checked read-only and was not updated.

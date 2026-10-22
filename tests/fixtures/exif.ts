@@ -1,5 +1,5 @@
 /** Synthetic TIFF only. Coordinates are invented test values, never user data. */
-export function exifFixture() {
+export function exifFixture(orientation = 6) {
   const buffer = new ArrayBuffer(2048),
     view = new DataView(buffer),
     bytes = new Uint8Array(buffer);
@@ -60,7 +60,7 @@ export function exifFixture() {
   write(ifd0, [
     [0x010f, 2, ascii("OUAHAD TEST")],
     [0x0110, 2, ascii("Synthetic Camera")],
-    [0x0112, 3, short(6)],
+    [0x0112, 3, short(orientation)],
     [0x0131, 2, ascii("Fixture Generator")],
     [0x8769, 4, long(exif)],
     [0x8825, 4, long(gps)],
@@ -96,8 +96,8 @@ export function exifFixture() {
   ]);
   return buffer.slice(0, end);
 }
-export function withExif(jpeg: Uint8Array) {
-  const tiff = new Uint8Array(exifFixture()),
+export function withExif(jpeg: Uint8Array, orientation = 6) {
+  const tiff = new Uint8Array(exifFixture(orientation)),
     size = tiff.length + 8;
   const segment = new Uint8Array(tiff.length + 10);
   segment.set([255, 225, size >> 8, size & 255, 69, 120, 105, 102, 0, 0]);

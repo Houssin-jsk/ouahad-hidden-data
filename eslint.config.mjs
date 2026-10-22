@@ -6,8 +6,12 @@ export default defineConfig([
   ...nextTs,
   globalIgnores([
     ".next/**",
+    ".next-research/**",
     "test-results/**",
+    "research-test-results/**",
     "playwright-report/**",
+    ".cloud-ai/**",
     "next-env.d.ts",
+    "research/assets/ai/runtime/**",
   ]),
 ]);

@@ -1,0 +1,447 @@
+{
+  "version": "1.0.0",
+  "recordedUtc": "2026-10-21T21:28:57.823646+00:00",
+  "comparisonArtifactSha256": "ec624e8e717ebad8b5672340f451984b749fd989cbd0ea2bcf17fcbd99761829",
+  "comparisonDriverSha256": "00d23d47a35b9e2d70dddcd251566426592c86f8bd06b8519e6475315f0a214b",
+  "reviewerRole": "assistant_visual_diagnostic_audit",
+  "independentHumanReview": {
+    "completed": false,
+    "reviewer": null,
+    "scores": null
+  },
+  "method": "Read preserved raw outputs and locally viewed both original images. Diagnostic qualitative review only; not an independent human review, not exhaustive atom-level scoring and not held-out qualification. No model inference was performed to create this review.",
+  "visualSources": [
+    {
+      "image": "market",
+      "path": "tests/fixtures/qwen/heldout-0.jpg",
+      "sha256": "7d4cdb2ae5bb073834363eb3fe4b7d7e46b9447843c0ff42fc06ebc7f8751b79",
+      "heldOutStatus": "Reused prior failed evaluation image; diagnostic only."
+    },
+    {
+      "image": "dog-bed",
+      "path": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-ai\\vision_engine\\evaluation\\data\\images\\03646bb2f288eaae.jpg",
+      "sha256": "e5ec53f2f31c179dbe75913f98fffb1e8b10c3e903c90a4c02609546e90f9746",
+      "heldOutStatus": "Reused reference regression example; diagnostic only."
+    }
+  ],
+  "exactFailureReproduction": {
+    "image": "market",
+    "mode": "B",
+    "historicalPointer": "docs/phase-03/evidence/qwen/quality.json#/rows/0/result/observations",
+    "observationsExactlyEqual": true,
+    "observationsCanonicalSha256": "599d2b487dfd5e52d37400ffe1bd74b628bc3c6292103bf7c937d69e07bf9a5a",
+    "claim": "A young boy is selling fresh vegetables from a cart in a market, with various items and clothing visible in the background.",
+    "meaning": "Original unsupported selling/activity description reproduced with exact previous observation fields. Timing differs and full inference response bytes are not asserted identical."
+  },
+  "rows": [
+    {
+      "image": "market",
+      "mode": "A",
+      "rawPointer": "comparisons.json#/rows/0",
+      "sourceSha256": "7d4cdb2ae5bb073834363eb3fe4b7d7e46b9447843c0ff42fc06ebc7f8751b79",
+      "modelInputSha256": "a98b80332f2b8bc6c11cc5abb3e83f41c126a4fccc20ff9bbe02266172c74f78",
+      "modelInputBytes": 280415,
+      "modelInputDimensions": [
+        960,
+        718
+      ],
+      "observationsCanonicalSha256": "6cda05e2832b011a3c7ed8b3d88012b91b515a3a347fe027d07ed28190684435",
+      "outputJsonStructurallyValid": true,
+      "textValidation": {
+        "policy": "original reference validate_content",
+        "status": "accepted",
+        "error": null
+      },
+      "httpStatus": null,
+      "wallSeconds": 14.875,
+      "nativeSystemFingerprint": null,
+      "nativeUsage": null,
+      "groundingCertified": false,
+      "supportedExamples": [
+        "Person in striped shirt behind a wheeled produce cart.",
+        "Leafy plants/produce, hanging clothes and background people."
+      ],
+      "unverifiedOrUnsupportedExamples": [
+        {
+          "claim": "A young boy",
+          "category": "unverified_age_category",
+          "reason": "Apparent age/category is inferred from appearance; exact age/identity is not established."
+        },
+        {
+          "claim": "the boy is arranging them",
+          "category": "unverified_static_action_interpretation",
+          "reason": "Hand contact with produce is visible, but arranging/selling as an ongoing activity is an interpretation."
+        },
+        {
+          "claim": "two wheels on the front and one on the back",
+          "category": "overprecise_spatial_configuration",
+          "reason": "Multiple wheels are visible, but front/back configuration is not robustly established by this oblique view."
+        }
+      ],
+      "reviewConclusion": "Reference prompt output itself is not a factual oracle despite text validation acceptance."
+    },
+    {
+      "image": "market",
+      "mode": "B",
+      "rawPointer": "comparisons.json#/rows/1",
+      "sourceSha256": "7d4cdb2ae5bb073834363eb3fe4b7d7e46b9447843c0ff42fc06ebc7f8751b79",
+      "modelInputSha256": "51913898ff924226647d69abcb69f629b36695a8fe8ba2f266dac611a93321ba",
+      "modelInputBytes": 152715,
+      "modelInputDimensions": [
+        768,
+        574
+      ],
+      "observationsCanonicalSha256": "599d2b487dfd5e52d37400ffe1bd74b628bc3c6292103bf7c937d69e07bf9a5a",
+      "outputJsonStructurallyValid": true,
+      "textValidation": {
+        "policy": "pre-restoration four-field contract",
+        "status": "accepted",
+        "referenceFiveFieldValidation": "not applied"
+      },
+      "httpStatus": 200,
+      "wallSeconds": 37.234,
+      "nativeSystemFingerprint": null,
+      "nativeUsage": null,
+      "groundingCertified": false,
+      "supportedExamples": [
+        "Person behind cart; produce on cart; clothing in background."
+      ],
+      "unverifiedOrUnsupportedExamples": [
+        {
+          "claim": "A young boy is selling fresh vegetables",
+          "category": "unsupported_activity_and_unverified_age",
+          "reason": "A transaction or selling activity is not established by the still image; age category is inferred."
+        }
+      ],
+      "reviewConclusion": "Previous failure reproduced exactly at observation-object level."
+    },
+    {
+      "image": "market",
+      "mode": "C",
+      "rawPointer": "comparisons.json#/rows/2",
+      "sourceSha256": "7d4cdb2ae5bb073834363eb3fe4b7d7e46b9447843c0ff42fc06ebc7f8751b79",
+      "modelInputSha256": "a98b80332f2b8bc6c11cc5abb3e83f41c126a4fccc20ff9bbe02266172c74f78",
+      "modelInputBytes": 280415,
+      "modelInputDimensions": [
+        960,
+        718
+      ],
+      "observationsCanonicalSha256": "2248cd3262e3d5d8161e21bc1fce482bdbf5654817d704622420923677b828d3",
+      "outputJsonStructurallyValid": true,
+      "textValidation": {
+        "policy": "original reference validate_content",
+        "status": "accepted",
+        "error": null
+      },
+      "httpStatus": 200,
+      "wallSeconds": 63.875,
+      "nativeSystemFingerprint": "b1-620d2225c",
+      "nativeUsage": {
+        "completion_tokens": 315,
+        "prompt_tokens": 896,
+        "total_tokens": 1211,
+        "prompt_tokens_details": {
+          "cached_tokens": 4
+        }
+      },
+      "groundingCertified": false,
+      "supportedExamples": [
+        "Wheeled cart, leafy produce, hanging clothing, water container and red mesh bag."
+      ],
+      "unverifiedOrUnsupportedExamples": [
+        {
+          "claim": "A young boy",
+          "category": "unverified_age_category",
+          "reason": "Age category is inferred from appearance."
+        },
+        {
+          "claim": "appears to be arranging the vegetables",
+          "category": "uncertain_activity_interpretation",
+          "reason": "The hedge is useful, but the static view only establishes hand placement/contact, not the ongoing activity."
+        }
+      ],
+      "reviewConclusion": "Selling wording is gone but the output remains interpretive; no grounded-quality PASS follows."
+    },
+    {
+      "image": "market",
+      "mode": "D",
+      "rawPointer": "comparisons.json#/rows/3",
+      "sourceSha256": "7d4cdb2ae5bb073834363eb3fe4b7d7e46b9447843c0ff42fc06ebc7f8751b79",
+      "modelInputSha256": "51913898ff924226647d69abcb69f629b36695a8fe8ba2f266dac611a93321ba",
+      "modelInputBytes": 152715,
+      "modelInputDimensions": [
+        768,
+        574
+      ],
+      "observationsCanonicalSha256": "337f61b586d39700d110ec49b0adb3dda0a5b0dd63dd2ad7876d5edfd1486d1b",
+      "outputJsonStructurallyValid": true,
+      "textValidation": {
+        "policy": "original reference validate_content",
+        "status": "rejected",
+        "error": "Model output failed quality checks: duplicate_list_items."
+      },
+      "httpStatus": 200,
+      "wallSeconds": 55.656,
+      "nativeSystemFingerprint": "b1-620d2225c",
+      "nativeUsage": {
+        "completion_tokens": 293,
+        "prompt_tokens": 668,
+        "total_tokens": 961,
+        "prompt_tokens_details": {
+          "cached_tokens": 230
+        }
+      },
+      "groundingCertified": false,
+      "supportedExamples": [
+        "Person behind produce cart; hanging clothing; visible water container and bags."
+      ],
+      "unverifiedOrUnsupportedExamples": [
+        {
+          "claim": "the identity of the person in the background is uncertain (three identical entries)",
+          "category": "duplicate_uncertainty_text",
+          "reason": "Exact repeated list items violate the original reference text guard."
+        },
+        {
+          "claim": "smiling as he handles the produce",
+          "category": "static_action_interpretation",
+          "reason": "Visible pose/contact supports a cautious description; ongoing handling action is not separately verified."
+        }
+      ],
+      "reviewConclusion": "Raw JSON is valid; original reference quality validator rejects duplicate_list_items. Diagnostic HTTP200 is an inspection envelope, not accepted production observations."
+    },
+    {
+      "image": "dog-bed",
+      "mode": "A",
+      "rawPointer": "comparisons.json#/rows/4",
+      "sourceSha256": "e5ec53f2f31c179dbe75913f98fffb1e8b10c3e903c90a4c02609546e90f9746",
+      "modelInputSha256": "5c0ba0bbce43736b56a92a8fb67b399e253cb9ec6ec78e94a5e70cac02a7e4e6",
+      "modelInputBytes": 120445,
+      "modelInputDimensions": [
+        1024,
+        685
+      ],
+      "observationsCanonicalSha256": "17ae0e3b366e9824371f9e0dfe4a9d5fdbfa8f7bd2fd295fc9b9dd6623c56669",
+      "outputJsonStructurallyValid": true,
+      "textValidation": {
+        "policy": "original reference validate_content",
+        "status": "accepted",
+        "error": null
+      },
+      "httpStatus": null,
+      "wallSeconds": 4.344,
+      "nativeSystemFingerprint": null,
+      "nativeUsage": null,
+      "groundingCertified": false,
+      "supportedExamples": [
+        "Light brown dog lying on gray bedding.",
+        "Head rests on the bedsheet; striped pillows are behind/beside the dog.",
+        "Bright window/curtain and an easel-like stand in the background."
+      ],
+      "unverifiedOrUnsupportedExamples": [],
+      "reviewConclusion": "Principal content and head-on-bedsheet relation are supported in this diagnostic example; no exhaustive or human-certified score is assigned."
+    },
+    {
+      "image": "dog-bed",
+      "mode": "B",
+      "rawPointer": "comparisons.json#/rows/5",
+      "sourceSha256": "e5ec53f2f31c179dbe75913f98fffb1e8b10c3e903c90a4c02609546e90f9746",
+      "modelInputSha256": "250416a7e21dd58b997209f7d87371114033010d97821b5b3cc56d3801c01f14",
+      "modelInputBytes": 50927,
+      "modelInputDimensions": [
+        768,
+        514
+      ],
+      "observationsCanonicalSha256": "d8b18054a9614e18329cd5c4efe1f9937063b188200334fd8a4bf26eac4274b6",
+      "outputJsonStructurallyValid": true,
+      "textValidation": {
+        "policy": "pre-restoration four-field contract",
+        "status": "accepted",
+        "referenceFiveFieldValidation": "not applied"
+      },
+      "httpStatus": 200,
+      "wallSeconds": 38.984,
+      "nativeSystemFingerprint": null,
+      "nativeUsage": null,
+      "groundingCertified": false,
+      "supportedExamples": [
+        "Light brown dog lying on gray bedding.",
+        "Head rests on bedspread; pillows on bed; easel in background."
+      ],
+      "unverifiedOrUnsupportedExamples": [
+        {
+          "claim": "the identity of the person in the background is not visible",
+          "category": "spurious_uncertainty_presupposition",
+          "reason": "No person is visible in this image; uncertainty should not introduce an unsupported entity."
+        }
+      ],
+      "reviewConclusion": "Principal relationship is correct, but the old contract accepts an irrelevant uncertainty that presupposes a nonexistent visible person."
+    },
+    {
+      "image": "dog-bed",
+      "mode": "C",
+      "rawPointer": "comparisons.json#/rows/6",
+      "sourceSha256": "e5ec53f2f31c179dbe75913f98fffb1e8b10c3e903c90a4c02609546e90f9746",
+      "modelInputSha256": "5c0ba0bbce43736b56a92a8fb67b399e253cb9ec6ec78e94a5e70cac02a7e4e6",
+      "modelInputBytes": 120445,
+      "modelInputDimensions": [
+        1024,
+        685
+      ],
+      "observationsCanonicalSha256": "4f0c0f360d5fa3d28bbd9876c9a848f0ad307b5523e53a5ee4c7912a4af8634e",
+      "outputJsonStructurallyValid": true,
+      "textValidation": {
+        "policy": "original reference validate_content",
+        "status": "accepted",
+        "error": null
+      },
+      "httpStatus": 200,
+      "wallSeconds": 61.609,
+      "nativeSystemFingerprint": "b1-620d2225c",
+      "nativeUsage": {
+        "completion_tokens": 291,
+        "prompt_tokens": 908,
+        "total_tokens": 1199,
+        "prompt_tokens_details": {
+          "cached_tokens": 4
+        }
+      },
+      "groundingCertified": false,
+      "supportedExamples": [
+        "Dog on gray sheet; striped pillow behind it; window, white wall and stand in background."
+      ],
+      "unverifiedOrUnsupportedExamples": [
+        {
+          "claim": "The dog is lying on the bed with its head resting on the pillow.",
+          "category": "major_unsupported_spatial_relation",
+          "reason": "The image shows the muzzle/head directly on the gray bedsheet; the striped pillow is behind it."
+        }
+      ],
+      "reviewConclusion": "The full reference prompt/schema and full reference pixels do not correct this native spatial error. JSON and reference text checks still accept it."
+    },
+    {
+      "image": "dog-bed",
+      "mode": "D",
+      "rawPointer": "comparisons.json#/rows/7",
+      "sourceSha256": "e5ec53f2f31c179dbe75913f98fffb1e8b10c3e903c90a4c02609546e90f9746",
+      "modelInputSha256": "250416a7e21dd58b997209f7d87371114033010d97821b5b3cc56d3801c01f14",
+      "modelInputBytes": 50927,
+      "modelInputDimensions": [
+        768,
+        514
+      ],
+      "observationsCanonicalSha256": "f9e7eed418510dc9772154f90b497c1916bdf11e650b114e494e75fa5560cd12",
+      "outputJsonStructurallyValid": true,
+      "textValidation": {
+        "policy": "original reference validate_content",
+        "status": "accepted",
+        "error": null
+      },
+      "httpStatus": 200,
+      "wallSeconds": 43.657,
+      "nativeSystemFingerprint": "b1-620d2225c",
+      "nativeUsage": {
+        "completion_tokens": 277,
+        "prompt_tokens": 620,
+        "total_tokens": 897,
+        "prompt_tokens_details": {
+          "cached_tokens": 230
+        }
+      },
+      "groundingCertified": false,
+      "supportedExamples": [
+        "Light brown dog lies on gray bedding.",
+        "Head rests on the bedsheet; striped pillows behind/beside it; window and stand in background."
+      ],
+      "unverifiedOrUnsupportedExamples": [],
+      "reviewConclusion": "Old smaller pixels yield the correct bedsheet relation under the same diagnostic tuned configuration. This contradicts a simple claim that higher resolution necessarily fixes grounding."
+    }
+  ],
+  "beforeAfter": [
+    {
+      "image": "market",
+      "beforeMode": "B",
+      "afterMode": "C",
+      "before": "A young boy is selling fresh vegetables from a cart in a market.",
+      "after": "A young boy ... appears to be arranging the vegetables.",
+      "conclusion": "Exact reference prompt/schema removes the explicit selling wording in this sample but still includes inferred age/activity. Multiple integration variables changed; no prompt-only causal cure is proved."
+    },
+    {
+      "image": "dog-bed",
+      "beforeMode": "B",
+      "afterMode": "C",
+      "before": "resting its head on the bedspread",
+      "after": "its head resting on the pillow",
+      "conclusion": "The restored reference prompt/schema with reference-prepared pixels introduces a wrong principal spatial relation in this native diagnostic run."
+    },
+    {
+      "image": "dog-bed",
+      "beforeMode": "C",
+      "afterMode": "D",
+      "before": "head resting on the pillow",
+      "after": "resting its head on the bedsheet",
+      "conclusion": "Changing the complete input-pixel path yields the correct relation here. It does not prove a universal preference for768px because resolution and JPEG encoding change together and only single sequential samples were collected."
+    }
+  ],
+  "rootCauseAssessment": {
+    "provenIntegrationDeviations": [
+      "Generic replacement prompt differed from the tuned baseline.",
+      "Four-field schema replaced the original five fields and requested a dedicated spatial relationship array.",
+      "384-token bound and explicit seed42 differed from baseline900/no explicit seed.",
+      "768px JPEG85 twice differed from original1536cap/JPEG90 once.",
+      "Reference language and text-integrity checks were omitted."
+    ],
+    "repairedWithEvidence": [
+      "Exact baseline prompt/schema/settings restored and source hashes/AST parity tests passed.",
+      "Lossless browser PNG followed by one service JPEG90 avoids repeated lossy encoding; metadata/orientation/alpha/full-frame tests passed.",
+      "Reference text checks now reject duplicate uncertainties without deleting/repairing claims."
+    ],
+    "notProven": [
+      "That any one deviation caused the previous semantic failure.",
+      "That copying the prompt/configuration alone cures hallucinations.",
+      "That native renderer/tokenization is equivalent to installed Ollama.",
+      "That all principal spatial claims are grounded after restoration."
+    ],
+    "remainingObservedDefect": "C-dog contains a major unsupported head-on-pillow relation despite valid JSON and reference text acceptance."
+  },
+  "qualification": {
+    "diagnosticImages": 2,
+    "diagnosticRuns": 8,
+    "freshHeldOutImages": 0,
+    "humanReviewedImages": 0,
+    "groundingPass": false,
+    "numericGroundingScores": null,
+    "reason": "Diagnostic reuse, residual unsupported relation/activity claims, provider/template differences and no independent human review. Minimum held-out grounding gates cannot be certified from these records."
+  },
+  "comparisonLimitations": [
+    "B-vs-C changes prompt, schema, token budget, seed policy and preprocessing together; it cannot identify a single cause.",
+    "B-vs-D holds old pixels/provider fixed but changes prompt/schema/generation as a bundle; it still cannot attribute change to prompt alone.",
+    "C-vs-D nominally holds native prompt/schema/options fixed while changing the complete pixel representation. Single sequential samples, different cached prefix counts and no replicated resets prevent a universal resolution/compression conclusion.",
+    "A-vs-C shares exact source and prepared input SHA but retains provider/renderer/template/device/runtime differences.",
+    "These two images were reused for diagnosis and are not independent held-out qualification."
+  ],
+  "rawPreservation": {
+    "comparisonsJsonUnchanged": true,
+    "sha256": "ec624e8e717ebad8b5672340f451984b749fd989cbd0ea2bcf17fcbd99761829",
+    "noClaimsRemovedOrRewrittenInRaw": true
+  },
+  "runtimeObservations": {
+    "nativeModelLoadingSeconds": 7.202999999979511,
+    "nativeStoppedAfterComparison": true,
+    "latencySecondsByImageAndMode": {
+      "market": {
+        "A": 14.875,
+        "B": 37.234,
+        "C": 63.875,
+        "D": 55.656
+      },
+      "dog-bed": {
+        "A": 4.344,
+        "B": 38.984,
+        "C": 61.609,
+        "D": 43.657
+      }
+    },
+    "scope": "Measured on this machine and these two sequential diagnostic examples only. The Ollama and native providers are not configured identically; speed is not a controlled backend comparison.",
+    "timingBoundaries": "Input preparation occurs before each wall timer. Native load is measured separately. First Ollama market request includes recorded model load9.9385747s; dog request is warm. Native image encoding/evaluation is included in request timing. No preprocessing-only or new memory measurement was recorded by this comparison driver."
+  }
+}

@@ -1,0 +1,1094 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 10,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "12020449": {
+        "pageid": 12020449,
+        "ns": 6,
+        "title": "File:Waterfall, Quebroda del Mar, by O'Sullivan, Timothy H., 1840-1882.png",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 27628827,
+            "width": 6654,
+            "height": 3786,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Waterfall%2C_Quebroda_del_Mar%2C_by_O%27Sullivan%2C_Timothy_H.%2C_1840-1882.png/960px-Waterfall%2C_Quebroda_del_Mar%2C_by_O%27Sullivan%2C_Timothy_H.%2C_1840-1882.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 437,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Waterfall%2C_Quebroda_del_Mar%2C_by_O%27Sullivan%2C_Timothy_H.%2C_1840-1882.png/1920px-Waterfall%2C_Quebroda_del_Mar%2C_by_O%27Sullivan%2C_Timothy_H.%2C_1840-1882.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Waterfall%2C_Quebroda_del_Mar%2C_by_O%27Sullivan%2C_Timothy_H.%2C_1840-1882.png/960px-Waterfall%2C_Quebroda_del_Mar%2C_by_O%27Sullivan%2C_Timothy_H.%2C_1840-1882.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 437,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Waterfall%2C_Quebroda_del_Mar%2C_by_O%27Sullivan%2C_Timothy_H.%2C_1840-1882.png/1920px-Waterfall%2C_Quebroda_del_Mar%2C_by_O%27Sullivan%2C_Timothy_H.%2C_1840-1882.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Waterfall%2C_Quebroda_del_Mar%2C_by_O%27Sullivan%2C_Timothy_H.%2C_1840-1882.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Waterfall,_Quebroda_del_Mar,_by_O%27Sullivan,_Timothy_H.,_1840-1882.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=12020449",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2010-11-11 05:11:56",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Waterfall, Quebroda del Mar.</i><b><br>Alternate Title:</b>  Tropical scenery. Darien expedition. Comd'r Selfridge, comd'g.</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US|Artworks without Wikidata item|Artworks with known accession number|PD-scan (PD-US)|Images from the New York Public Library|Robert N. Dennis collection of stereoscopic views|PNGs with JPEG versions|NYPL Darien expedition : tropical scenery",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nO'Sullivan, Timothy H., 1840-1882 -- Photographer</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "<p>Created: 1870.\n</p><p><br>\nCoverage: 1870?-1871?.\n</p>\nDigital item published 9-7-2006; updated 6-25-2010.",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This image is available from the <a href=\"//commons.wikimedia.org/wiki/New_York_Public_Library\" title=\"New York Public Library\">New York Public Library</a>'s Digital Library under the digital ID 1529616: <a rel=\"nofollow\" class=\"external text\" href=\"http://digitalgallery.nypl.org/nypldigital/id?1529616\">digitalgallery.nypl.org</a> → <a rel=\"nofollow\" class=\"external text\" href=\"https://digitalcollections.nypl.org/search/index?keywords=1529616\">digitalcollections.nypl.org</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "12020450": {
+        "pageid": 12020450,
+        "ns": 6,
+        "title": "File:Waterfall, Quebroda del Mar, by O'Sullivan, Timothy H., 1840-1882.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7956538,
+            "width": 6654,
+            "height": 3786,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Waterfall%2C_Quebroda_del_Mar%2C_by_O%27Sullivan%2C_Timothy_H.%2C_1840-1882.jpg/960px-Waterfall%2C_Quebroda_del_Mar%2C_by_O%27Sullivan%2C_Timothy_H.%2C_1840-1882.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 437,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Waterfall%2C_Quebroda_del_Mar%2C_by_O%27Sullivan%2C_Timothy_H.%2C_1840-1882.jpg/1920px-Waterfall%2C_Quebroda_del_Mar%2C_by_O%27Sullivan%2C_Timothy_H.%2C_1840-1882.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Waterfall%2C_Quebroda_del_Mar%2C_by_O%27Sullivan%2C_Timothy_H.%2C_1840-1882.jpg/960px-Waterfall%2C_Quebroda_del_Mar%2C_by_O%27Sullivan%2C_Timothy_H.%2C_1840-1882.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 437,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Waterfall%2C_Quebroda_del_Mar%2C_by_O%27Sullivan%2C_Timothy_H.%2C_1840-1882.jpg/1920px-Waterfall%2C_Quebroda_del_Mar%2C_by_O%27Sullivan%2C_Timothy_H.%2C_1840-1882.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Waterfall%2C_Quebroda_del_Mar%2C_by_O%27Sullivan%2C_Timothy_H.%2C_1840-1882.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Waterfall,_Quebroda_del_Mar,_by_O%27Sullivan,_Timothy_H.,_1840-1882.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=12020450",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2010-11-11 05:12:03",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Waterfall, Quebroda del Mar.</i><b><br>Alternate Title:</b>  Tropical scenery. Darien expedition. Comd'r Selfridge, comd'g.</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US|Artworks without Wikidata item|Artworks with known accession number|PD-scan (PD-US)|Images from the New York Public Library|Robert N. Dennis collection of stereoscopic views|PD-US missing SDC copyright status|NYPL Darien expedition : tropical scenery",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nO'Sullivan, Timothy H., 1840-1882 -- Photographer</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "<p>Created: 1870.\n</p><p><br>\nCoverage: 1870?-1871?.\n</p>\nDigital item published 9-7-2006; updated 6-25-2010.",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This image is available from the <a href=\"//commons.wikimedia.org/wiki/New_York_Public_Library\" title=\"New York Public Library\">New York Public Library</a>'s Digital Library under the digital ID 1529616: <a rel=\"nofollow\" class=\"external text\" href=\"http://digitalgallery.nypl.org/nypldigital/id?1529616\">digitalgallery.nypl.org</a> → <a rel=\"nofollow\" class=\"external text\" href=\"https://digitalcollections.nypl.org/search/index?keywords=1529616\">digitalcollections.nypl.org</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "153305928": {
+        "pageid": 153305928,
+        "ns": 6,
+        "title": "File:Olumirin Waterfalls - Erin, Osun State. 02.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5607148,
+            "width": 3024,
+            "height": 4032,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Olumirin_Waterfalls_-_Erin%2C_Osun_State._02.jpg/960px-Olumirin_Waterfalls_-_Erin%2C_Osun_State._02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1024,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Olumirin_Waterfalls_-_Erin%2C_Osun_State._02.jpg/1920px-Olumirin_Waterfalls_-_Erin%2C_Osun_State._02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Olumirin_Waterfalls_-_Erin%2C_Osun_State._02.jpg/960px-Olumirin_Waterfalls_-_Erin%2C_Osun_State._02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1024,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Olumirin_Waterfalls_-_Erin%2C_Osun_State._02.jpg/1920px-Olumirin_Waterfalls_-_Erin%2C_Osun_State._02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Olumirin_Waterfalls_-_Erin%2C_Osun_State._02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Olumirin_Waterfalls_-_Erin,_Osun_State._02.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153305928",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-09-29 06:03:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Olumirin Waterfalls - Erin, Osun State. 02",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Erin-Ijesha Waterfalls|Self-published work|Cultural heritage monuments in Nigeria|Images from Wiki Loves Monuments 2024|Uploaded via Campaign:wlm-ng|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Images from Wiki Loves Monuments 2024 in Nigeria|Images from Wiki Loves Monuments 2024 in the Yoruba community",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Erin Ijesha Waterfalls (Olumirin Waterfalls), Osun State, is a stunning 7-tiered waterfall amidst tropical scenery, perfect for hiking and relaxation attracting tourists, hikers and adventure seekers.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-07-14 16:20:16",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:ExploreWithTunde\" title=\"User:ExploreWithTunde\">ExploreWithTunde</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "153305929": {
+        "pageid": 153305929,
+        "ns": 6,
+        "title": "File:Olumirin Waterfalls - Erin, Osun State. 01.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6203915,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Olumirin_Waterfalls_-_Erin%2C_Osun_State._01.jpg/960px-Olumirin_Waterfalls_-_Erin%2C_Osun_State._01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Olumirin_Waterfalls_-_Erin%2C_Osun_State._01.jpg/1920px-Olumirin_Waterfalls_-_Erin%2C_Osun_State._01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Olumirin_Waterfalls_-_Erin%2C_Osun_State._01.jpg/960px-Olumirin_Waterfalls_-_Erin%2C_Osun_State._01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Olumirin_Waterfalls_-_Erin%2C_Osun_State._01.jpg/1920px-Olumirin_Waterfalls_-_Erin%2C_Osun_State._01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Olumirin_Waterfalls_-_Erin%2C_Osun_State._01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Olumirin_Waterfalls_-_Erin,_Osun_State._01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153305929",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-09-29 06:03:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Olumirin Waterfalls - Erin, Osun State. 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Erin-Ijesha Waterfalls|Self-published work|Cultural heritage monuments in Nigeria|Images from Wiki Loves Monuments 2024|Uploaded via Campaign:wlm-ng|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Images from Wiki Loves Monuments 2024 in Nigeria|Images from Wiki Loves Monuments 2024 in the Yoruba community",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Erin Ijesha Waterfalls (Olumirin Waterfalls), Osun State, is a stunning 7-tiered waterfall amidst tropical scenery, perfect for hiking and relaxation attracting tourists, hikers and adventure seekers.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-07-14 16:20:54",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:ExploreWithTunde\" title=\"User:ExploreWithTunde\">ExploreWithTunde</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "153305930": {
+        "pageid": 153305930,
+        "ns": 6,
+        "title": "File:Olumirin Waterfalls - Erin, Osun State. 03.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4814891,
+            "width": 3024,
+            "height": 4032,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Olumirin_Waterfalls_-_Erin%2C_Osun_State._03.jpg/960px-Olumirin_Waterfalls_-_Erin%2C_Osun_State._03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1024,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Olumirin_Waterfalls_-_Erin%2C_Osun_State._03.jpg/1920px-Olumirin_Waterfalls_-_Erin%2C_Osun_State._03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Olumirin_Waterfalls_-_Erin%2C_Osun_State._03.jpg/960px-Olumirin_Waterfalls_-_Erin%2C_Osun_State._03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1024,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Olumirin_Waterfalls_-_Erin%2C_Osun_State._03.jpg/1920px-Olumirin_Waterfalls_-_Erin%2C_Osun_State._03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Olumirin_Waterfalls_-_Erin%2C_Osun_State._03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Olumirin_Waterfalls_-_Erin,_Osun_State._03.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153305930",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-09-29 06:03:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Olumirin Waterfalls - Erin, Osun State. 03",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Erin-Ijesha Waterfalls|Self-published work|Cultural heritage monuments in Nigeria|Images from Wiki Loves Monuments 2024|Uploaded via Campaign:wlm-ng|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Images from Wiki Loves Monuments 2024 in Nigeria|Images from Wiki Loves Monuments 2024 in the Yoruba community",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Erin Ijesha Waterfalls (Olumirin Waterfalls), Osun State, is a stunning 7-tiered waterfall amidst tropical scenery, perfect for hiking and relaxation attracting tourists, hikers and adventure seekers.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-07-14 16:01:43",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:ExploreWithTunde\" title=\"User:ExploreWithTunde\">ExploreWithTunde</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "153305931": {
+        "pageid": 153305931,
+        "ns": 6,
+        "title": "File:Olumirin Waterfalls - Erin, Osun State. 04.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6158145,
+            "width": 3024,
+            "height": 4032,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Olumirin_Waterfalls_-_Erin%2C_Osun_State._04.jpg/960px-Olumirin_Waterfalls_-_Erin%2C_Osun_State._04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1024,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Olumirin_Waterfalls_-_Erin%2C_Osun_State._04.jpg/1920px-Olumirin_Waterfalls_-_Erin%2C_Osun_State._04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Olumirin_Waterfalls_-_Erin%2C_Osun_State._04.jpg/960px-Olumirin_Waterfalls_-_Erin%2C_Osun_State._04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1024,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Olumirin_Waterfalls_-_Erin%2C_Osun_State._04.jpg/1920px-Olumirin_Waterfalls_-_Erin%2C_Osun_State._04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Olumirin_Waterfalls_-_Erin%2C_Osun_State._04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Olumirin_Waterfalls_-_Erin,_Osun_State._04.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153305931",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-09-29 06:03:19",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Olumirin Waterfalls - Erin, Osun State. 04",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Erin-Ijesha Waterfalls|Self-published work|Cultural heritage monuments in Nigeria|Images from Wiki Loves Monuments 2024|Uploaded via Campaign:wlm-ng|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Images from Wiki Loves Monuments 2024 in Nigeria|Images from Wiki Loves Monuments 2024 in the Yoruba community",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Erin Ijesha Waterfalls (Olumirin Waterfalls), Osun State, is a stunning 7-tiered waterfall amidst tropical scenery, perfect for hiking and relaxation attracting tourists, hikers and adventure seekers.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-07-14 14:31:37",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:ExploreWithTunde\" title=\"User:ExploreWithTunde\">ExploreWithTunde</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "196041310": {
+        "pageid": 196041310,
+        "ns": 6,
+        "title": "File:Pulangbato Falls 02.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1811295,
+            "width": 4032,
+            "height": 2268,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Pulangbato_Falls_02.jpg/960px-Pulangbato_Falls_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 432,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Pulangbato_Falls_02.jpg/1920px-Pulangbato_Falls_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Pulangbato_Falls_02.jpg/960px-Pulangbato_Falls_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 432,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Pulangbato_Falls_02.jpg/1920px-Pulangbato_Falls_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Pulangbato_Falls_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pulangbato_Falls_02.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=196041310",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-07-23 06:22:59",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Pulangbato Falls 02",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|WikiClub Cebu|Philippine Knowledge Continuity Project|Valencia Knowledge Continuity Project|Waterfalls in Valencia",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "9.320908",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "123.193428",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A wide eye-level view of Pulangbato Falls located in the mountainous region of Valencia, Negros Oriental, Philippines. The waterfall cascades into a natural plunge pool enclosed by dramatic cliff walls composed of dark basalt columns and reddish-orange mineral deposits caused by sulfur from nearby Mount Talinis. The pool and surrounding riverbed feature scattered rocks covered in the same vivid orange-red coating. Visitors are seen relaxing along the rocky banks and enjoying the scenery. A dense canopy of tropical rainforest vegetation, including tree ferns and lush green vines, frames the top and sides of the waterfall basin.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-06-25 11:04:00",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:IndayLiburan\" title=\"User:IndayLiburan\">IndayLiburan</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "196041312": {
+        "pageid": 196041312,
+        "ns": 6,
+        "title": "File:Pulangbato Falls 04.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1528324,
+            "width": 4032,
+            "height": 2268,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Pulangbato_Falls_04.jpg/960px-Pulangbato_Falls_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 432,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Pulangbato_Falls_04.jpg/1920px-Pulangbato_Falls_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Pulangbato_Falls_04.jpg/960px-Pulangbato_Falls_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 432,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Pulangbato_Falls_04.jpg/1920px-Pulangbato_Falls_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Pulangbato_Falls_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pulangbato_Falls_04.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=196041312",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-07-23 06:23:02",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Pulangbato Falls 04",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|WikiClub Cebu|Philippine Knowledge Continuity Project|Valencia Knowledge Continuity Project|Waterfalls in Valencia",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "9.321067",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "123.193131",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A wide eye-level view of Pulangbato Falls located in the mountainous region of Valencia, Negros Oriental, Philippines. The waterfall cascades into a natural plunge pool enclosed by dramatic cliff walls composed of dark basalt columns and reddish-orange mineral deposits caused by sulfur from nearby Mount Talinis. The pool and surrounding riverbed feature scattered rocks covered in the same vivid orange-red coating. Visitors are seen relaxing along the rocky banks and enjoying the scenery. A dense canopy of tropical rainforest vegetation, including tree ferns and lush green vines, frames the top and sides of the waterfall basin.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-06-25 11:05:13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:IndayLiburan\" title=\"User:IndayLiburan\">IndayLiburan</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "196041316": {
+        "pageid": 196041316,
+        "ns": 6,
+        "title": "File:Pulangbato Falls 07.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5729175,
+            "width": 6984,
+            "height": 3854,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Pulangbato_Falls_07.jpg/960px-Pulangbato_Falls_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 424,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Pulangbato_Falls_07.jpg/1920px-Pulangbato_Falls_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Pulangbato_Falls_07.jpg/960px-Pulangbato_Falls_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 424,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Pulangbato_Falls_07.jpg/1920px-Pulangbato_Falls_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Pulangbato_Falls_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pulangbato_Falls_07.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=196041316",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-07-23 06:23:06",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Pulangbato Falls 07",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|WikiClub Cebu|Philippine Knowledge Continuity Project|Valencia Knowledge Continuity Project|Waterfalls in Valencia",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "9.320922",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "123.193083",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A wide eye-level view of Pulangbato Falls located in the mountainous region of Valencia, Negros Oriental, Philippines. The waterfall cascades into a natural plunge pool enclosed by dramatic cliff walls composed of dark basalt columns and reddish-orange mineral deposits caused by sulfur from nearby Mount Talinis. The pool and surrounding riverbed feature scattered rocks covered in the same vivid orange-red coating. Visitors are seen relaxing along the rocky banks and enjoying the scenery. A dense canopy of tropical rainforest vegetation, including tree ferns and lush green vines, frames the top and sides of the waterfall basin.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-06-25 11:06:13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:IndayLiburan\" title=\"User:IndayLiburan\">IndayLiburan</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "197580609": {
+        "pageid": 197580609,
+        "ns": 6,
+        "title": "File:Keindahan Air Terjun Sarasah Gaduik.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1287380,
+            "width": 2268,
+            "height": 1276,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Keindahan_Air_Terjun_Sarasah_Gaduik.jpg/960px-Keindahan_Air_Terjun_Sarasah_Gaduik.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 432,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Keindahan_Air_Terjun_Sarasah_Gaduik.jpg/1920px-Keindahan_Air_Terjun_Sarasah_Gaduik.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Keindahan_Air_Terjun_Sarasah_Gaduik.jpg/960px-Keindahan_Air_Terjun_Sarasah_Gaduik.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 432,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Keindahan_Air_Terjun_Sarasah_Gaduik.jpg/1920px-Keindahan_Air_Terjun_Sarasah_Gaduik.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Keindahan_Air_Terjun_Sarasah_Gaduik.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Keindahan_Air_Terjun_Sarasah_Gaduik.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=197580609",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-08-16 06:15:01",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Keindahan Air Terjun Sarasah Gaduik",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Agam Regency|Self-published work|Landscapes of Indonesia|Kompetisi Fotografi WikiJalajah 2.0|Natural monuments of Indonesia|Waterfalls of West Sumatra",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The beautiful Sarasah Gaduik Waterfall is located in the campus area of Andalas University, Padang, West Sumatra. This tiered waterfall flows down over black rocks surrounded by dense tropical forest that creates a cool and peaceful atmosphere. The clear water and green scenery make it a favorite nature spot for students and visitors. Sarasah Gaduik represents the natural beauty of West Sumatra and reminds us to preserve forests and waterfalls as important ecosystems and educational tourist destinations for future generations.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-07-05",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:DahliaDahlia_Putri\" title=\"User:DahliaDahlia Putri\">DahliaDahlia Putri</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

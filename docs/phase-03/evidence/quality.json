@@ -1,0 +1,4002 @@
+{
+  "protocol": "phase03-natural-v1",
+  "policy": {
+    "minimumScore": 0.26428556788883745,
+    "minimumMargin": 0.0325981373188419
+  },
+  "calibration": {
+    "total": 8,
+    "covered": 5,
+    "unsupported": 3,
+    "top1": 3,
+    "top4": 5,
+    "coveredTop1": 0.6,
+    "coveredTop4": 1,
+    "accepted": 2,
+    "correctAccepted": 2,
+    "acceptedPrecision": 1,
+    "coveredAccepted": 2,
+    "coveredCoverage": 0.4,
+    "unsupportedAccepted": 0,
+    "abstained": 6,
+    "confusion": {
+      "forest": {
+        "forest": 1
+      },
+      "coast": {
+        "coast": 1
+      },
+      "living-room": {
+        "bedroom": 1
+      },
+      "pets": {
+        "wildlife": 1
+      },
+      "unsupported": {
+        "sport": 1,
+        "optics": 1,
+        "reflections": 1
+      },
+      "music": {
+        "music": 1
+      }
+    }
+  },
+  "test": {
+    "total": 8,
+    "covered": 7,
+    "unsupported": 1,
+    "top1": 6,
+    "top4": 7,
+    "coveredTop1": 0.8571428571428571,
+    "coveredTop4": 1,
+    "accepted": 1,
+    "correctAccepted": 1,
+    "acceptedPrecision": 1,
+    "coveredAccepted": 1,
+    "coveredCoverage": 0.14285714285714285,
+    "unsupportedAccepted": 0,
+    "abstained": 7,
+    "confusion": {
+      "mountain-lake": {
+        "mountain-lake": 1
+      },
+      "railway": {
+        "road-vehicles": 1
+      },
+      "meal": {
+        "meal": 1
+      },
+      "wildlife": {
+        "wildlife": 1
+      },
+      "unsupported": {
+        "gardening": 1
+      },
+      "architecture": {
+        "architecture": 1
+      },
+      "pottery": {
+        "drinks": 1
+      },
+      "sport": {
+        "sport": 1
+      }
+    }
+  },
+  "rawCalibration": {
+    "total": 8,
+    "covered": 5,
+    "unsupported": 3,
+    "top1": 3,
+    "top4": 5,
+    "coveredTop1": 0.6,
+    "coveredTop4": 1,
+    "accepted": 8,
+    "correctAccepted": 3,
+    "acceptedPrecision": 0.375,
+    "coveredAccepted": 5,
+    "coveredCoverage": 1,
+    "unsupportedAccepted": 3,
+    "abstained": 0,
+    "confusion": {
+      "forest": {
+        "forest": 1
+      },
+      "coast": {
+        "coast": 1
+      },
+      "living-room": {
+        "bedroom": 1
+      },
+      "pets": {
+        "wildlife": 1
+      },
+      "unsupported": {
+        "sport": 1,
+        "optics": 1,
+        "reflections": 1
+      },
+      "music": {
+        "music": 1
+      }
+    }
+  },
+  "rawTest": {
+    "total": 8,
+    "covered": 7,
+    "unsupported": 1,
+    "top1": 6,
+    "top4": 7,
+    "coveredTop1": 0.8571428571428571,
+    "coveredTop4": 1,
+    "accepted": 8,
+    "correctAccepted": 6,
+    "acceptedPrecision": 0.75,
+    "coveredAccepted": 7,
+    "coveredCoverage": 1,
+    "unsupportedAccepted": 1,
+    "abstained": 0,
+    "confusion": {
+      "mountain-lake": {
+        "mountain-lake": 1
+      },
+      "railway": {
+        "road-vehicles": 1
+      },
+      "meal": {
+        "meal": 1
+      },
+      "wildlife": {
+        "wildlife": 1
+      },
+      "unsupported": {
+        "gardening": 1
+      },
+      "architecture": {
+        "architecture": 1
+      },
+      "pottery": {
+        "drinks": 1
+      },
+      "sport": {
+        "sport": 1
+      }
+    }
+  },
+  "gates": {
+    "coveredTop1": true,
+    "coveredTop4": true,
+    "acceptedPrecision": true,
+    "coveredCoverage": false,
+    "unsupportedFalseAccepts": true
+  },
+  "qualityPass": false,
+  "decisions": [
+    {
+      "id": "natural-00",
+      "split": "calibration",
+      "acceptedIds": [
+        "forest"
+      ],
+      "ranking": [
+        {
+          "id": "forest",
+          "score": 0.2566541368968457
+        },
+        {
+          "id": "road-vehicles",
+          "score": 0.23886807583241337
+        },
+        {
+          "id": "railway",
+          "score": 0.23251513256970932
+        },
+        {
+          "id": "birds",
+          "score": 0.2321527459511642
+        },
+        {
+          "id": "gardening",
+          "score": 0.22696303620000682
+        },
+        {
+          "id": "coast",
+          "score": 0.22510694716785776
+        },
+        {
+          "id": "optics",
+          "score": 0.22435878911722515
+        },
+        {
+          "id": "classroom",
+          "score": 0.2229865521492828
+        },
+        {
+          "id": "mountain-lake",
+          "score": 0.22277620883411164
+        },
+        {
+          "id": "wildlife",
+          "score": 0.2226908530720152
+        },
+        {
+          "id": "electronics",
+          "score": 0.22125396477884615
+        },
+        {
+          "id": "farmland",
+          "score": 0.22122192189326925
+        },
+        {
+          "id": "bedroom",
+          "score": 0.2190179488644205
+        },
+        {
+          "id": "living-room",
+          "score": 0.21823761015342646
+        },
+        {
+          "id": "warehouse",
+          "score": 0.21719581462315896
+        },
+        {
+          "id": "street-people",
+          "score": 0.21575442400661385
+        },
+        {
+          "id": "books",
+          "score": 0.21550850630380983
+        },
+        {
+          "id": "reflections",
+          "score": 0.21319841097541115
+        },
+        {
+          "id": "music",
+          "score": 0.21246888196395938
+        },
+        {
+          "id": "tools",
+          "score": 0.20858442458986723
+        },
+        {
+          "id": "sport",
+          "score": 0.20736350576038487
+        },
+        {
+          "id": "meal",
+          "score": 0.20475341286045215
+        },
+        {
+          "id": "textiles",
+          "score": 0.20453406992818327
+        },
+        {
+          "id": "pottery",
+          "score": 0.20329672287703332
+        },
+        {
+          "id": "river",
+          "score": 0.20312808429463255
+        },
+        {
+          "id": "architecture",
+          "score": 0.20201716235597636
+        },
+        {
+          "id": "harbor",
+          "score": 0.2005279321126857
+        },
+        {
+          "id": "pets",
+          "score": 0.19780821227710407
+        },
+        {
+          "id": "desert",
+          "score": 0.19569503314168102
+        },
+        {
+          "id": "drinks",
+          "score": 0.195055085355282
+        },
+        {
+          "id": "office",
+          "score": 0.1913400770673596
+        },
+        {
+          "id": "outdoor-cooking",
+          "score": 0.190169779888567
+        },
+        {
+          "id": "food-preparation",
+          "score": 0.19014085079611
+        },
+        {
+          "id": "bakery",
+          "score": 0.1895601324751
+        },
+        {
+          "id": "bathroom",
+          "score": 0.1819440243616477
+        },
+        {
+          "id": "produce-market",
+          "score": 0.15966363712112344
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "id": "natural-01",
+      "split": "test",
+      "acceptedIds": [
+        "mountain-lake"
+      ],
+      "ranking": [
+        {
+          "id": "mountain-lake",
+          "score": 0.2680185196315915
+        },
+        {
+          "id": "reflections",
+          "score": 0.22731954678036023
+        },
+        {
+          "id": "river",
+          "score": 0.2265409303460715
+        },
+        {
+          "id": "coast",
+          "score": 0.2260531291652131
+        },
+        {
+          "id": "optics",
+          "score": 0.2248682115173969
+        },
+        {
+          "id": "classroom",
+          "score": 0.22431022700620393
+        },
+        {
+          "id": "birds",
+          "score": 0.22375953955740568
+        },
+        {
+          "id": "railway",
+          "score": 0.22245586542587725
+        },
+        {
+          "id": "sport",
+          "score": 0.22096557557277866
+        },
+        {
+          "id": "street-people",
+          "score": 0.22028546512871
+        },
+        {
+          "id": "architecture",
+          "score": 0.22025038685227627
+        },
+        {
+          "id": "wildlife",
+          "score": 0.21550151012858124
+        },
+        {
+          "id": "farmland",
+          "score": 0.2153697679929515
+        },
+        {
+          "id": "tools",
+          "score": 0.21419228002190255
+        },
+        {
+          "id": "harbor",
+          "score": 0.21385502193769623
+        },
+        {
+          "id": "road-vehicles",
+          "score": 0.2137170868898382
+        },
+        {
+          "id": "outdoor-cooking",
+          "score": 0.2125959687527427
+        },
+        {
+          "id": "desert",
+          "score": 0.2119110450956793
+        },
+        {
+          "id": "music",
+          "score": 0.2106179282642712
+        },
+        {
+          "id": "gardening",
+          "score": 0.21026067659608932
+        },
+        {
+          "id": "forest",
+          "score": 0.2101160368056531
+        },
+        {
+          "id": "living-room",
+          "score": 0.20966928336584023
+        },
+        {
+          "id": "electronics",
+          "score": 0.20929898956193616
+        },
+        {
+          "id": "bedroom",
+          "score": 0.2077045725648369
+        },
+        {
+          "id": "books",
+          "score": 0.20577159587928814
+        },
+        {
+          "id": "warehouse",
+          "score": 0.2017335185119188
+        },
+        {
+          "id": "textiles",
+          "score": 0.2012183191029437
+        },
+        {
+          "id": "office",
+          "score": 0.2008870441702442
+        },
+        {
+          "id": "drinks",
+          "score": 0.20037649948909228
+        },
+        {
+          "id": "pottery",
+          "score": 0.19928767680159398
+        },
+        {
+          "id": "food-preparation",
+          "score": 0.1927766146627698
+        },
+        {
+          "id": "meal",
+          "score": 0.19202440460363723
+        },
+        {
+          "id": "bakery",
+          "score": 0.19011580680330123
+        },
+        {
+          "id": "bathroom",
+          "score": 0.18724603697513117
+        },
+        {
+          "id": "produce-market",
+          "score": 0.1697704820364813
+        },
+        {
+          "id": "pets",
+          "score": 0.16661050201272537
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "id": "natural-02",
+      "split": "calibration",
+      "acceptedIds": [
+        "coast"
+      ],
+      "ranking": [
+        {
+          "id": "coast",
+          "score": 0.28122537411904713
+        },
+        {
+          "id": "desert",
+          "score": 0.24862723680020524
+        },
+        {
+          "id": "birds",
+          "score": 0.23991176325478092
+        },
+        {
+          "id": "reflections",
+          "score": 0.23609563179672938
+        },
+        {
+          "id": "optics",
+          "score": 0.23138965081662657
+        },
+        {
+          "id": "harbor",
+          "score": 0.23060120543125148
+        },
+        {
+          "id": "mountain-lake",
+          "score": 0.2251613969152329
+        },
+        {
+          "id": "books",
+          "score": 0.21836764794203065
+        },
+        {
+          "id": "farmland",
+          "score": 0.21831711761286998
+        },
+        {
+          "id": "classroom",
+          "score": 0.21812327849088992
+        },
+        {
+          "id": "sport",
+          "score": 0.21693251450410872
+        },
+        {
+          "id": "electronics",
+          "score": 0.2144709649673118
+        },
+        {
+          "id": "street-people",
+          "score": 0.21374232997521048
+        },
+        {
+          "id": "wildlife",
+          "score": 0.21374133579731544
+        },
+        {
+          "id": "forest",
+          "score": 0.2134540935505713
+        },
+        {
+          "id": "railway",
+          "score": 0.21265976477813633
+        },
+        {
+          "id": "architecture",
+          "score": 0.2118917167865674
+        },
+        {
+          "id": "living-room",
+          "score": 0.2115764763935889
+        },
+        {
+          "id": "tools",
+          "score": 0.2114252734814309
+        },
+        {
+          "id": "music",
+          "score": 0.21029297561447788
+        },
+        {
+          "id": "pottery",
+          "score": 0.2083307378097983
+        },
+        {
+          "id": "bakery",
+          "score": 0.20738561704569838
+        },
+        {
+          "id": "drinks",
+          "score": 0.20719716287263332
+        },
+        {
+          "id": "gardening",
+          "score": 0.20635362099595084
+        },
+        {
+          "id": "road-vehicles",
+          "score": 0.20634125583158092
+        },
+        {
+          "id": "river",
+          "score": 0.20437235769918916
+        },
+        {
+          "id": "textiles",
+          "score": 0.20311483755460666
+        },
+        {
+          "id": "bedroom",
+          "score": 0.2016188957688256
+        },
+        {
+          "id": "meal",
+          "score": 0.2007688381514719
+        },
+        {
+          "id": "outdoor-cooking",
+          "score": 0.199425244818882
+        },
+        {
+          "id": "pets",
+          "score": 0.19901125355397117
+        },
+        {
+          "id": "warehouse",
+          "score": 0.19843566885424155
+        },
+        {
+          "id": "food-preparation",
+          "score": 0.19714699435009764
+        },
+        {
+          "id": "office",
+          "score": 0.195804770967354
+        },
+        {
+          "id": "bathroom",
+          "score": 0.16993205195455335
+        },
+        {
+          "id": "produce-market",
+          "score": 0.15631855793834407
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "id": "natural-03",
+      "split": "test",
+      "acceptedIds": [
+        "railway",
+        "road-vehicles",
+        "street-people",
+        "architecture"
+      ],
+      "ranking": [
+        {
+          "id": "road-vehicles",
+          "score": 0.2553465387839915
+        },
+        {
+          "id": "railway",
+          "score": 0.2521895588354895
+        },
+        {
+          "id": "street-people",
+          "score": 0.24946263794413445
+        },
+        {
+          "id": "optics",
+          "score": 0.24224907065087561
+        },
+        {
+          "id": "architecture",
+          "score": 0.23133505085051326
+        },
+        {
+          "id": "classroom",
+          "score": 0.22176477007323803
+        },
+        {
+          "id": "coast",
+          "score": 0.22095286930203023
+        },
+        {
+          "id": "reflections",
+          "score": 0.2205988761640274
+        },
+        {
+          "id": "harbor",
+          "score": 0.22032489010691322
+        },
+        {
+          "id": "electronics",
+          "score": 0.21981899415172895
+        },
+        {
+          "id": "farmland",
+          "score": 0.21897799766417722
+        },
+        {
+          "id": "gardening",
+          "score": 0.2167678668720565
+        },
+        {
+          "id": "sport",
+          "score": 0.21659651856239892
+        },
+        {
+          "id": "birds",
+          "score": 0.21594897678069228
+        },
+        {
+          "id": "music",
+          "score": 0.20930008253040447
+        },
+        {
+          "id": "pottery",
+          "score": 0.20923692089180398
+        },
+        {
+          "id": "forest",
+          "score": 0.20862093017339067
+        },
+        {
+          "id": "books",
+          "score": 0.20861058116740624
+        },
+        {
+          "id": "warehouse",
+          "score": 0.2069656210761693
+        },
+        {
+          "id": "office",
+          "score": 0.2062591645331258
+        },
+        {
+          "id": "tools",
+          "score": 0.20505883196016123
+        },
+        {
+          "id": "textiles",
+          "score": 0.20350168354898585
+        },
+        {
+          "id": "living-room",
+          "score": 0.2031379041529187
+        },
+        {
+          "id": "wildlife",
+          "score": 0.20289566825333713
+        },
+        {
+          "id": "bakery",
+          "score": 0.20233934609523221
+        },
+        {
+          "id": "drinks",
+          "score": 0.20110448057338398
+        },
+        {
+          "id": "pets",
+          "score": 0.19581473063771948
+        },
+        {
+          "id": "outdoor-cooking",
+          "score": 0.1949268324989206
+        },
+        {
+          "id": "desert",
+          "score": 0.19483940037615796
+        },
+        {
+          "id": "meal",
+          "score": 0.1894701609837546
+        },
+        {
+          "id": "bedroom",
+          "score": 0.18928646207138092
+        },
+        {
+          "id": "mountain-lake",
+          "score": 0.18617377463480833
+        },
+        {
+          "id": "produce-market",
+          "score": 0.18185825868091354
+        },
+        {
+          "id": "bathroom",
+          "score": 0.18030618712346586
+        },
+        {
+          "id": "food-preparation",
+          "score": 0.17530039417176374
+        },
+        {
+          "id": "river",
+          "score": 0.17514582128627376
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "id": "natural-04",
+      "split": "calibration",
+      "acceptedIds": [
+        "living-room"
+      ],
+      "ranking": [
+        {
+          "id": "bedroom",
+          "score": 0.28210787832977297
+        },
+        {
+          "id": "living-room",
+          "score": 0.27453702349850717
+        },
+        {
+          "id": "warehouse",
+          "score": 0.2539721260541136
+        },
+        {
+          "id": "classroom",
+          "score": 0.24647875602678376
+        },
+        {
+          "id": "optics",
+          "score": 0.24468111764057565
+        },
+        {
+          "id": "bathroom",
+          "score": 0.24069947682601864
+        },
+        {
+          "id": "textiles",
+          "score": 0.23930828833478282
+        },
+        {
+          "id": "office",
+          "score": 0.2381072404731796
+        },
+        {
+          "id": "books",
+          "score": 0.2378132190171578
+        },
+        {
+          "id": "music",
+          "score": 0.23583441725912288
+        },
+        {
+          "id": "tools",
+          "score": 0.23325826867383953
+        },
+        {
+          "id": "pottery",
+          "score": 0.23240360273599558
+        },
+        {
+          "id": "electronics",
+          "score": 0.23120977571865842
+        },
+        {
+          "id": "reflections",
+          "score": 0.22822884632960988
+        },
+        {
+          "id": "birds",
+          "score": 0.2278521931339675
+        },
+        {
+          "id": "meal",
+          "score": 0.22500545850562778
+        },
+        {
+          "id": "architecture",
+          "score": 0.22336841687449793
+        },
+        {
+          "id": "gardening",
+          "score": 0.2174960821297578
+        },
+        {
+          "id": "food-preparation",
+          "score": 0.21267185329707788
+        },
+        {
+          "id": "drinks",
+          "score": 0.20921967873632147
+        },
+        {
+          "id": "farmland",
+          "score": 0.20771240518376846
+        },
+        {
+          "id": "street-people",
+          "score": 0.2066929716087639
+        },
+        {
+          "id": "sport",
+          "score": 0.20647352127968913
+        },
+        {
+          "id": "bakery",
+          "score": 0.20341484492940184
+        },
+        {
+          "id": "railway",
+          "score": 0.2031273912660876
+        },
+        {
+          "id": "forest",
+          "score": 0.20280113838745567
+        },
+        {
+          "id": "wildlife",
+          "score": 0.2027993381669442
+        },
+        {
+          "id": "coast",
+          "score": 0.200099092516911
+        },
+        {
+          "id": "pets",
+          "score": 0.19626066324223848
+        },
+        {
+          "id": "mountain-lake",
+          "score": 0.19574159359727075
+        },
+        {
+          "id": "road-vehicles",
+          "score": 0.19555593439204175
+        },
+        {
+          "id": "harbor",
+          "score": 0.195379794142359
+        },
+        {
+          "id": "desert",
+          "score": 0.18635457409036624
+        },
+        {
+          "id": "outdoor-cooking",
+          "score": 0.17782708317489512
+        },
+        {
+          "id": "produce-market",
+          "score": 0.17743639446315035
+        },
+        {
+          "id": "river",
+          "score": 0.17178966992456907
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "id": "natural-05",
+      "split": "test",
+      "acceptedIds": [
+        "meal"
+      ],
+      "ranking": [
+        {
+          "id": "meal",
+          "score": 0.260899753686492
+        },
+        {
+          "id": "food-preparation",
+          "score": 0.23597558564146612
+        },
+        {
+          "id": "farmland",
+          "score": 0.20746090870878975
+        },
+        {
+          "id": "railway",
+          "score": 0.20281835331671066
+        },
+        {
+          "id": "pottery",
+          "score": 0.20252525871192265
+        },
+        {
+          "id": "outdoor-cooking",
+          "score": 0.20164134860590172
+        },
+        {
+          "id": "electronics",
+          "score": 0.19893594566594314
+        },
+        {
+          "id": "bakery",
+          "score": 0.1988590891166204
+        },
+        {
+          "id": "birds",
+          "score": 0.1985188910973544
+        },
+        {
+          "id": "gardening",
+          "score": 0.19699963902934978
+        },
+        {
+          "id": "harbor",
+          "score": 0.19691547789233646
+        },
+        {
+          "id": "warehouse",
+          "score": 0.1954596125050196
+        },
+        {
+          "id": "optics",
+          "score": 0.19501020882481893
+        },
+        {
+          "id": "mountain-lake",
+          "score": 0.19348159703467244
+        },
+        {
+          "id": "street-people",
+          "score": 0.1929290913498701
+        },
+        {
+          "id": "pets",
+          "score": 0.19288294490175964
+        },
+        {
+          "id": "road-vehicles",
+          "score": 0.1924755068306574
+        },
+        {
+          "id": "produce-market",
+          "score": 0.19229872113110155
+        },
+        {
+          "id": "coast",
+          "score": 0.1911417568046927
+        },
+        {
+          "id": "wildlife",
+          "score": 0.19113304514872184
+        },
+        {
+          "id": "living-room",
+          "score": 0.18984088364808877
+        },
+        {
+          "id": "sport",
+          "score": 0.1888916073729435
+        },
+        {
+          "id": "drinks",
+          "score": 0.18825130686452174
+        },
+        {
+          "id": "classroom",
+          "score": 0.18610510048521922
+        },
+        {
+          "id": "bedroom",
+          "score": 0.18496776609966195
+        },
+        {
+          "id": "music",
+          "score": 0.18338788903251269
+        },
+        {
+          "id": "books",
+          "score": 0.18155548249173464
+        },
+        {
+          "id": "desert",
+          "score": 0.18106646615565264
+        },
+        {
+          "id": "bathroom",
+          "score": 0.17922701962866905
+        },
+        {
+          "id": "river",
+          "score": 0.17755465379863017
+        },
+        {
+          "id": "architecture",
+          "score": 0.17686896828177934
+        },
+        {
+          "id": "textiles",
+          "score": 0.1751087593364932
+        },
+        {
+          "id": "forest",
+          "score": 0.17473019393017783
+        },
+        {
+          "id": "tools",
+          "score": 0.17350888993738847
+        },
+        {
+          "id": "office",
+          "score": 0.15644363035422668
+        },
+        {
+          "id": "reflections",
+          "score": 0.1508432948424072
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "id": "natural-06",
+      "split": "calibration",
+      "acceptedIds": [
+        "pets"
+      ],
+      "ranking": [
+        {
+          "id": "wildlife",
+          "score": 0.21564302937193655
+        },
+        {
+          "id": "pets",
+          "score": 0.21514309170102122
+        },
+        {
+          "id": "bedroom",
+          "score": 0.20229330607839782
+        },
+        {
+          "id": "living-room",
+          "score": 0.2012251439177432
+        },
+        {
+          "id": "meal",
+          "score": 0.20018220101990858
+        },
+        {
+          "id": "bakery",
+          "score": 0.19898580945441094
+        },
+        {
+          "id": "pottery",
+          "score": 0.19481063322030684
+        },
+        {
+          "id": "harbor",
+          "score": 0.19257006732766008
+        },
+        {
+          "id": "optics",
+          "score": 0.19254673762446287
+        },
+        {
+          "id": "books",
+          "score": 0.19204941308849074
+        },
+        {
+          "id": "electronics",
+          "score": 0.19160278401147318
+        },
+        {
+          "id": "reflections",
+          "score": 0.19002220169150585
+        },
+        {
+          "id": "bathroom",
+          "score": 0.18717314863529153
+        },
+        {
+          "id": "sport",
+          "score": 0.18661039626321083
+        },
+        {
+          "id": "food-preparation",
+          "score": 0.183243907321309
+        },
+        {
+          "id": "birds",
+          "score": 0.18272860671632626
+        },
+        {
+          "id": "warehouse",
+          "score": 0.18063069506302973
+        },
+        {
+          "id": "textiles",
+          "score": 0.17831510129959435
+        },
+        {
+          "id": "gardening",
+          "score": 0.17805473192146995
+        },
+        {
+          "id": "road-vehicles",
+          "score": 0.1780529780249629
+        },
+        {
+          "id": "classroom",
+          "score": 0.1778524623478966
+        },
+        {
+          "id": "farmland",
+          "score": 0.17754998014174603
+        },
+        {
+          "id": "drinks",
+          "score": 0.17743452929754205
+        },
+        {
+          "id": "street-people",
+          "score": 0.17535717131342704
+        },
+        {
+          "id": "music",
+          "score": 0.1743070885740901
+        },
+        {
+          "id": "outdoor-cooking",
+          "score": 0.17210314797205806
+        },
+        {
+          "id": "architecture",
+          "score": 0.17091801681672808
+        },
+        {
+          "id": "railway",
+          "score": 0.167793065604828
+        },
+        {
+          "id": "coast",
+          "score": 0.16717478868697003
+        },
+        {
+          "id": "tools",
+          "score": 0.1651075295185606
+        },
+        {
+          "id": "desert",
+          "score": 0.1636010386620002
+        },
+        {
+          "id": "office",
+          "score": 0.16310967676593802
+        },
+        {
+          "id": "mountain-lake",
+          "score": 0.16253741701529204
+        },
+        {
+          "id": "forest",
+          "score": 0.15809834978432696
+        },
+        {
+          "id": "river",
+          "score": 0.1578969915410831
+        },
+        {
+          "id": "produce-market",
+          "score": 0.14599987653264013
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "id": "natural-07",
+      "split": "test",
+      "acceptedIds": [
+        "wildlife"
+      ],
+      "ranking": [
+        {
+          "id": "wildlife",
+          "score": 0.2514818441992581
+        },
+        {
+          "id": "sport",
+          "score": 0.22225196569905917
+        },
+        {
+          "id": "books",
+          "score": 0.20968823538427134
+        },
+        {
+          "id": "street-people",
+          "score": 0.20959512200023075
+        },
+        {
+          "id": "pottery",
+          "score": 0.2060114493273283
+        },
+        {
+          "id": "tools",
+          "score": 0.2040953645946442
+        },
+        {
+          "id": "drinks",
+          "score": 0.20146212424425225
+        },
+        {
+          "id": "electronics",
+          "score": 0.19859275877621113
+        },
+        {
+          "id": "optics",
+          "score": 0.1978680154024815
+        },
+        {
+          "id": "forest",
+          "score": 0.1976292772881701
+        },
+        {
+          "id": "classroom",
+          "score": 0.19745011015409192
+        },
+        {
+          "id": "music",
+          "score": 0.19707149112106645
+        },
+        {
+          "id": "birds",
+          "score": 0.19613243654220713
+        },
+        {
+          "id": "textiles",
+          "score": 0.19511991632157166
+        },
+        {
+          "id": "pets",
+          "score": 0.19477657732614553
+        },
+        {
+          "id": "outdoor-cooking",
+          "score": 0.19474048932478044
+        },
+        {
+          "id": "meal",
+          "score": 0.19182073431125865
+        },
+        {
+          "id": "gardening",
+          "score": 0.19155583391798858
+        },
+        {
+          "id": "food-preparation",
+          "score": 0.19028218701936095
+        },
+        {
+          "id": "produce-market",
+          "score": 0.18184974468656523
+        },
+        {
+          "id": "harbor",
+          "score": 0.18115403496207821
+        },
+        {
+          "id": "mountain-lake",
+          "score": 0.18097454712680036
+        },
+        {
+          "id": "reflections",
+          "score": 0.18077436289931342
+        },
+        {
+          "id": "river",
+          "score": 0.1768054896233874
+        },
+        {
+          "id": "desert",
+          "score": 0.17481281149381694
+        },
+        {
+          "id": "coast",
+          "score": 0.17458571575108725
+        },
+        {
+          "id": "farmland",
+          "score": 0.17417366460302433
+        },
+        {
+          "id": "bathroom",
+          "score": 0.17172015297352686
+        },
+        {
+          "id": "bakery",
+          "score": 0.17148155185268324
+        },
+        {
+          "id": "architecture",
+          "score": 0.1709689456573595
+        },
+        {
+          "id": "road-vehicles",
+          "score": 0.17089669885688888
+        },
+        {
+          "id": "living-room",
+          "score": 0.1688085233508353
+        },
+        {
+          "id": "railway",
+          "score": 0.1685783237178352
+        },
+        {
+          "id": "warehouse",
+          "score": 0.16684936109101559
+        },
+        {
+          "id": "bedroom",
+          "score": 0.16428644061038983
+        },
+        {
+          "id": "office",
+          "score": 0.16426099861292162
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "id": "natural-08",
+      "split": "calibration",
+      "acceptedIds": [],
+      "ranking": [
+        {
+          "id": "sport",
+          "score": 0.2224081115136097
+        },
+        {
+          "id": "wildlife",
+          "score": 0.22015152530577334
+        },
+        {
+          "id": "electronics",
+          "score": 0.2171010345707843
+        },
+        {
+          "id": "optics",
+          "score": 0.21588047672533991
+        },
+        {
+          "id": "books",
+          "score": 0.21540136108059274
+        },
+        {
+          "id": "desert",
+          "score": 0.21385101285468652
+        },
+        {
+          "id": "reflections",
+          "score": 0.2119322995752074
+        },
+        {
+          "id": "gardening",
+          "score": 0.21165215420677458
+        },
+        {
+          "id": "street-people",
+          "score": 0.20990390123701808
+        },
+        {
+          "id": "meal",
+          "score": 0.20959718790097365
+        },
+        {
+          "id": "harbor",
+          "score": 0.20756066751933475
+        },
+        {
+          "id": "drinks",
+          "score": 0.2068144987387145
+        },
+        {
+          "id": "farmland",
+          "score": 0.20592391238455132
+        },
+        {
+          "id": "forest",
+          "score": 0.20339023558531943
+        },
+        {
+          "id": "road-vehicles",
+          "score": 0.20230345523114412
+        },
+        {
+          "id": "pottery",
+          "score": 0.201477967408987
+        },
+        {
+          "id": "bedroom",
+          "score": 0.2008902694026107
+        },
+        {
+          "id": "railway",
+          "score": 0.1999730322413017
+        },
+        {
+          "id": "warehouse",
+          "score": 0.19932253443178827
+        },
+        {
+          "id": "textiles",
+          "score": 0.19927478235249452
+        },
+        {
+          "id": "birds",
+          "score": 0.1992348825233276
+        },
+        {
+          "id": "food-preparation",
+          "score": 0.1988630072621925
+        },
+        {
+          "id": "coast",
+          "score": 0.19791039215891276
+        },
+        {
+          "id": "pets",
+          "score": 0.19729103937445222
+        },
+        {
+          "id": "bakery",
+          "score": 0.19663234153709863
+        },
+        {
+          "id": "classroom",
+          "score": 0.1964517819995951
+        },
+        {
+          "id": "music",
+          "score": 0.1959108111057809
+        },
+        {
+          "id": "outdoor-cooking",
+          "score": 0.19325156299779853
+        },
+        {
+          "id": "living-room",
+          "score": 0.1910238595645869
+        },
+        {
+          "id": "tools",
+          "score": 0.188684718669521
+        },
+        {
+          "id": "produce-market",
+          "score": 0.18862004020688858
+        },
+        {
+          "id": "architecture",
+          "score": 0.18811751483932526
+        },
+        {
+          "id": "river",
+          "score": 0.1867749920980621
+        },
+        {
+          "id": "mountain-lake",
+          "score": 0.18405965221893864
+        },
+        {
+          "id": "bathroom",
+          "score": 0.18289857297787535
+        },
+        {
+          "id": "office",
+          "score": 0.17602745385918372
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "id": "natural-09",
+      "split": "test",
+      "acceptedIds": [],
+      "ranking": [
+        {
+          "id": "gardening",
+          "score": 0.23783637251984208
+        },
+        {
+          "id": "reflections",
+          "score": 0.23096768539924356
+        },
+        {
+          "id": "bedroom",
+          "score": 0.22717316042130756
+        },
+        {
+          "id": "books",
+          "score": 0.22604643596113694
+        },
+        {
+          "id": "optics",
+          "score": 0.22470167163262206
+        },
+        {
+          "id": "electronics",
+          "score": 0.2218570477102971
+        },
+        {
+          "id": "classroom",
+          "score": 0.22048714404381148
+        },
+        {
+          "id": "coast",
+          "score": 0.21824711019621432
+        },
+        {
+          "id": "living-room",
+          "score": 0.21645588379716227
+        },
+        {
+          "id": "music",
+          "score": 0.2147318628686375
+        },
+        {
+          "id": "birds",
+          "score": 0.21462428194219568
+        },
+        {
+          "id": "drinks",
+          "score": 0.21423448805697234
+        },
+        {
+          "id": "pottery",
+          "score": 0.21376856278833606
+        },
+        {
+          "id": "wildlife",
+          "score": 0.21370930555946982
+        },
+        {
+          "id": "tools",
+          "score": 0.2130716566909291
+        },
+        {
+          "id": "street-people",
+          "score": 0.21289446891797184
+        },
+        {
+          "id": "harbor",
+          "score": 0.21287397682266346
+        },
+        {
+          "id": "farmland",
+          "score": 0.21223096995973564
+        },
+        {
+          "id": "meal",
+          "score": 0.21175229863407888
+        },
+        {
+          "id": "warehouse",
+          "score": 0.21083875932681806
+        },
+        {
+          "id": "sport",
+          "score": 0.20845951712737154
+        },
+        {
+          "id": "desert",
+          "score": 0.2079937175670258
+        },
+        {
+          "id": "railway",
+          "score": 0.20638370331090172
+        },
+        {
+          "id": "pets",
+          "score": 0.20517045885131652
+        },
+        {
+          "id": "mountain-lake",
+          "score": 0.20462005442049394
+        },
+        {
+          "id": "food-preparation",
+          "score": 0.20431499772367365
+        },
+        {
+          "id": "textiles",
+          "score": 0.20193602245680126
+        },
+        {
+          "id": "bakery",
+          "score": 0.20149365864237992
+        },
+        {
+          "id": "outdoor-cooking",
+          "score": 0.20061120804521676
+        },
+        {
+          "id": "architecture",
+          "score": 0.19750264369307244
+        },
+        {
+          "id": "road-vehicles",
+          "score": 0.19709010871113766
+        },
+        {
+          "id": "office",
+          "score": 0.19378843417842018
+        },
+        {
+          "id": "forest",
+          "score": 0.1926794802763759
+        },
+        {
+          "id": "produce-market",
+          "score": 0.1924610065506094
+        },
+        {
+          "id": "bathroom",
+          "score": 0.18661735949666683
+        },
+        {
+          "id": "river",
+          "score": 0.18255942272008535
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "id": "natural-10",
+      "split": "calibration",
+      "acceptedIds": [],
+      "ranking": [
+        {
+          "id": "optics",
+          "score": 0.2402706496454602
+        },
+        {
+          "id": "birds",
+          "score": 0.23512103359767927
+        },
+        {
+          "id": "electronics",
+          "score": 0.22376972270657416
+        },
+        {
+          "id": "outdoor-cooking",
+          "score": 0.22166604774489676
+        },
+        {
+          "id": "street-people",
+          "score": 0.21708354985995956
+        },
+        {
+          "id": "sport",
+          "score": 0.21445458190648123
+        },
+        {
+          "id": "road-vehicles",
+          "score": 0.2115942567966767
+        },
+        {
+          "id": "railway",
+          "score": 0.21124421082514644
+        },
+        {
+          "id": "books",
+          "score": 0.21045992439438596
+        },
+        {
+          "id": "wildlife",
+          "score": 0.21043594840750815
+        },
+        {
+          "id": "harbor",
+          "score": 0.2103747485566195
+        },
+        {
+          "id": "music",
+          "score": 0.20947162598955837
+        },
+        {
+          "id": "gardening",
+          "score": 0.20859860867830463
+        },
+        {
+          "id": "warehouse",
+          "score": 0.20816839776299462
+        },
+        {
+          "id": "reflections",
+          "score": 0.20721714791181778
+        },
+        {
+          "id": "classroom",
+          "score": 0.20445897382508088
+        },
+        {
+          "id": "farmland",
+          "score": 0.20156439316019112
+        },
+        {
+          "id": "tools",
+          "score": 0.20138045669535273
+        },
+        {
+          "id": "coast",
+          "score": 0.19824969250313118
+        },
+        {
+          "id": "architecture",
+          "score": 0.19719280286730517
+        },
+        {
+          "id": "bedroom",
+          "score": 0.19352864879692636
+        },
+        {
+          "id": "drinks",
+          "score": 0.1929331497818533
+        },
+        {
+          "id": "food-preparation",
+          "score": 0.1892655855330972
+        },
+        {
+          "id": "pets",
+          "score": 0.18747722181900595
+        },
+        {
+          "id": "textiles",
+          "score": 0.18528293987825498
+        },
+        {
+          "id": "meal",
+          "score": 0.18396756933731567
+        },
+        {
+          "id": "bakery",
+          "score": 0.18267570769881641
+        },
+        {
+          "id": "living-room",
+          "score": 0.18265355684449633
+        },
+        {
+          "id": "pottery",
+          "score": 0.18257158239793467
+        },
+        {
+          "id": "desert",
+          "score": 0.18202082684626808
+        },
+        {
+          "id": "forest",
+          "score": 0.18058844085835435
+        },
+        {
+          "id": "mountain-lake",
+          "score": 0.178331422409133
+        },
+        {
+          "id": "river",
+          "score": 0.1664156037992595
+        },
+        {
+          "id": "produce-market",
+          "score": 0.16629825675038923
+        },
+        {
+          "id": "office",
+          "score": 0.16120704451929366
+        },
+        {
+          "id": "bathroom",
+          "score": 0.15577106272904062
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "id": "natural-11",
+      "split": "test",
+      "acceptedIds": [
+        "architecture"
+      ],
+      "ranking": [
+        {
+          "id": "architecture",
+          "score": 0.23418218568827026
+        },
+        {
+          "id": "optics",
+          "score": 0.23394306264336454
+        },
+        {
+          "id": "birds",
+          "score": 0.21949697508408864
+        },
+        {
+          "id": "reflections",
+          "score": 0.21935292589579866
+        },
+        {
+          "id": "warehouse",
+          "score": 0.21583647996983998
+        },
+        {
+          "id": "railway",
+          "score": 0.2094024931043356
+        },
+        {
+          "id": "electronics",
+          "score": 0.20815334718884113
+        },
+        {
+          "id": "music",
+          "score": 0.20805794713213818
+        },
+        {
+          "id": "tools",
+          "score": 0.20775044340804497
+        },
+        {
+          "id": "classroom",
+          "score": 0.2067993579022191
+        },
+        {
+          "id": "street-people",
+          "score": 0.2054170274209186
+        },
+        {
+          "id": "bedroom",
+          "score": 0.20087903275983723
+        },
+        {
+          "id": "books",
+          "score": 0.20048166249474042
+        },
+        {
+          "id": "office",
+          "score": 0.19694384461066253
+        },
+        {
+          "id": "textiles",
+          "score": 0.19492300893372816
+        },
+        {
+          "id": "pottery",
+          "score": 0.19434804270621392
+        },
+        {
+          "id": "sport",
+          "score": 0.19426228464017925
+        },
+        {
+          "id": "gardening",
+          "score": 0.18997980716099602
+        },
+        {
+          "id": "living-room",
+          "score": 0.18883280149755918
+        },
+        {
+          "id": "harbor",
+          "score": 0.18579324188233423
+        },
+        {
+          "id": "farmland",
+          "score": 0.18535501824192077
+        },
+        {
+          "id": "coast",
+          "score": 0.1852362659644776
+        },
+        {
+          "id": "road-vehicles",
+          "score": 0.18521819281790886
+        },
+        {
+          "id": "wildlife",
+          "score": 0.18013302359221856
+        },
+        {
+          "id": "outdoor-cooking",
+          "score": 0.17869387853067112
+        },
+        {
+          "id": "meal",
+          "score": 0.1768296401301851
+        },
+        {
+          "id": "drinks",
+          "score": 0.17645553153906418
+        },
+        {
+          "id": "bakery",
+          "score": 0.17399642314680133
+        },
+        {
+          "id": "forest",
+          "score": 0.17202936622274864
+        },
+        {
+          "id": "pets",
+          "score": 0.17202016625873506
+        },
+        {
+          "id": "mountain-lake",
+          "score": 0.16928665363797785
+        },
+        {
+          "id": "bathroom",
+          "score": 0.16871313128565174
+        },
+        {
+          "id": "food-preparation",
+          "score": 0.16422208368376676
+        },
+        {
+          "id": "produce-market",
+          "score": 0.15980858320956498
+        },
+        {
+          "id": "desert",
+          "score": 0.1574318013173646
+        },
+        {
+          "id": "river",
+          "score": 0.14157202792355347
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "id": "natural-12",
+      "split": "calibration",
+      "acceptedIds": [],
+      "ranking": [
+        {
+          "id": "reflections",
+          "score": 0.2570018570578448
+        },
+        {
+          "id": "drinks",
+          "score": 0.2384935494040505
+        },
+        {
+          "id": "optics",
+          "score": 0.22792419398648955
+        },
+        {
+          "id": "electronics",
+          "score": 0.2248721543107873
+        },
+        {
+          "id": "books",
+          "score": 0.2140646575398324
+        },
+        {
+          "id": "harbor",
+          "score": 0.21264564222223858
+        },
+        {
+          "id": "music",
+          "score": 0.21236603013436428
+        },
+        {
+          "id": "tools",
+          "score": 0.2121993158651803
+        },
+        {
+          "id": "food-preparation",
+          "score": 0.21145338535503977
+        },
+        {
+          "id": "pottery",
+          "score": 0.2109938186724993
+        },
+        {
+          "id": "textiles",
+          "score": 0.20980710233728944
+        },
+        {
+          "id": "sport",
+          "score": 0.20888342234307722
+        },
+        {
+          "id": "mountain-lake",
+          "score": 0.20788668931255927
+        },
+        {
+          "id": "birds",
+          "score": 0.20783675409072214
+        },
+        {
+          "id": "outdoor-cooking",
+          "score": 0.2074976053955053
+        },
+        {
+          "id": "wildlife",
+          "score": 0.20664871992796477
+        },
+        {
+          "id": "meal",
+          "score": 0.2045708486161261
+        },
+        {
+          "id": "coast",
+          "score": 0.20405391900589856
+        },
+        {
+          "id": "classroom",
+          "score": 0.20362607934371338
+        },
+        {
+          "id": "gardening",
+          "score": 0.20324432866281206
+        },
+        {
+          "id": "street-people",
+          "score": 0.20124210734977577
+        },
+        {
+          "id": "desert",
+          "score": 0.20107802159547303
+        },
+        {
+          "id": "bedroom",
+          "score": 0.19895183595821553
+        },
+        {
+          "id": "warehouse",
+          "score": 0.19834720014042465
+        },
+        {
+          "id": "river",
+          "score": 0.19805015324491268
+        },
+        {
+          "id": "produce-market",
+          "score": 0.19464529316323945
+        },
+        {
+          "id": "bathroom",
+          "score": 0.1942816950207189
+        },
+        {
+          "id": "farmland",
+          "score": 0.1939828956768145
+        },
+        {
+          "id": "pets",
+          "score": 0.1935960655430729
+        },
+        {
+          "id": "road-vehicles",
+          "score": 0.19262951181373483
+        },
+        {
+          "id": "bakery",
+          "score": 0.19187291368415568
+        },
+        {
+          "id": "railway",
+          "score": 0.18737705743724678
+        },
+        {
+          "id": "living-room",
+          "score": 0.18692078714287275
+        },
+        {
+          "id": "architecture",
+          "score": 0.18214655229105958
+        },
+        {
+          "id": "forest",
+          "score": 0.17584247743560388
+        },
+        {
+          "id": "office",
+          "score": 0.16515218084682753
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "id": "natural-13",
+      "split": "test",
+      "acceptedIds": [
+        "pottery"
+      ],
+      "ranking": [
+        {
+          "id": "drinks",
+          "score": 0.26464704635252373
+        },
+        {
+          "id": "pottery",
+          "score": 0.25088892763048903
+        },
+        {
+          "id": "reflections",
+          "score": 0.22679605428250083
+        },
+        {
+          "id": "meal",
+          "score": 0.21972834113584735
+        },
+        {
+          "id": "produce-market",
+          "score": 0.2193958432983088
+        },
+        {
+          "id": "music",
+          "score": 0.21758797620450263
+        },
+        {
+          "id": "food-preparation",
+          "score": 0.2155124814584956
+        },
+        {
+          "id": "birds",
+          "score": 0.2114354939764691
+        },
+        {
+          "id": "optics",
+          "score": 0.20943282912297317
+        },
+        {
+          "id": "tools",
+          "score": 0.20900846164946194
+        },
+        {
+          "id": "harbor",
+          "score": 0.207281296530969
+        },
+        {
+          "id": "living-room",
+          "score": 0.20548692236033234
+        },
+        {
+          "id": "sport",
+          "score": 0.2048866851727952
+        },
+        {
+          "id": "architecture",
+          "score": 0.1975903180764217
+        },
+        {
+          "id": "gardening",
+          "score": 0.1958097203093762
+        },
+        {
+          "id": "warehouse",
+          "score": 0.19559183793822832
+        },
+        {
+          "id": "books",
+          "score": 0.1953691050954969
+        },
+        {
+          "id": "bakery",
+          "score": 0.19453521797824327
+        },
+        {
+          "id": "bedroom",
+          "score": 0.19450223622869736
+        },
+        {
+          "id": "outdoor-cooking",
+          "score": 0.1918288785076982
+        },
+        {
+          "id": "coast",
+          "score": 0.19160001878458824
+        },
+        {
+          "id": "electronics",
+          "score": 0.19083597026982219
+        },
+        {
+          "id": "textiles",
+          "score": 0.18896076593568972
+        },
+        {
+          "id": "bathroom",
+          "score": 0.18774892134397064
+        },
+        {
+          "id": "classroom",
+          "score": 0.18698167543478572
+        },
+        {
+          "id": "street-people",
+          "score": 0.18651683223517265
+        },
+        {
+          "id": "farmland",
+          "score": 0.18600825609684865
+        },
+        {
+          "id": "wildlife",
+          "score": 0.18479931025460655
+        },
+        {
+          "id": "desert",
+          "score": 0.18256923648929443
+        },
+        {
+          "id": "forest",
+          "score": 0.18143010010778549
+        },
+        {
+          "id": "office",
+          "score": 0.18115926711922423
+        },
+        {
+          "id": "road-vehicles",
+          "score": 0.18044319401605577
+        },
+        {
+          "id": "mountain-lake",
+          "score": 0.17988404160907764
+        },
+        {
+          "id": "railway",
+          "score": 0.17747842917091047
+        },
+        {
+          "id": "pets",
+          "score": 0.17270823083506723
+        },
+        {
+          "id": "river",
+          "score": 0.1596167414160582
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "id": "natural-14",
+      "split": "calibration",
+      "acceptedIds": [
+        "music"
+      ],
+      "ranking": [
+        {
+          "id": "music",
+          "score": 0.26428556788883745
+        },
+        {
+          "id": "tools",
+          "score": 0.21035543086099162
+        },
+        {
+          "id": "electronics",
+          "score": 0.20824544347205723
+        },
+        {
+          "id": "pottery",
+          "score": 0.20495582446826918
+        },
+        {
+          "id": "bedroom",
+          "score": 0.19905986681862886
+        },
+        {
+          "id": "classroom",
+          "score": 0.1972960392848732
+        },
+        {
+          "id": "sport",
+          "score": 0.19537964803473815
+        },
+        {
+          "id": "harbor",
+          "score": 0.1951879463523901
+        },
+        {
+          "id": "warehouse",
+          "score": 0.19370179852896927
+        },
+        {
+          "id": "textiles",
+          "score": 0.1934093426162938
+        },
+        {
+          "id": "birds",
+          "score": 0.1901211799652321
+        },
+        {
+          "id": "meal",
+          "score": 0.18683952190404565
+        },
+        {
+          "id": "reflections",
+          "score": 0.18656949256269134
+        },
+        {
+          "id": "coast",
+          "score": 0.18477267224398086
+        },
+        {
+          "id": "books",
+          "score": 0.18074254978926804
+        },
+        {
+          "id": "pets",
+          "score": 0.1805721885567469
+        },
+        {
+          "id": "drinks",
+          "score": 0.180496010050507
+        },
+        {
+          "id": "wildlife",
+          "score": 0.18036234520828195
+        },
+        {
+          "id": "outdoor-cooking",
+          "score": 0.17954368664082615
+        },
+        {
+          "id": "optics",
+          "score": 0.1789374192206898
+        },
+        {
+          "id": "forest",
+          "score": 0.1788620176111676
+        },
+        {
+          "id": "living-room",
+          "score": 0.1782656560417214
+        },
+        {
+          "id": "farmland",
+          "score": 0.1781310953113636
+        },
+        {
+          "id": "mountain-lake",
+          "score": 0.17803326194804667
+        },
+        {
+          "id": "street-people",
+          "score": 0.17758199670364572
+        },
+        {
+          "id": "gardening",
+          "score": 0.1755079643366855
+        },
+        {
+          "id": "food-preparation",
+          "score": 0.17536821323881208
+        },
+        {
+          "id": "bakery",
+          "score": 0.17508853048438833
+        },
+        {
+          "id": "desert",
+          "score": 0.17235193457449266
+        },
+        {
+          "id": "architecture",
+          "score": 0.1666048530893369
+        },
+        {
+          "id": "river",
+          "score": 0.1655212088443268
+        },
+        {
+          "id": "produce-market",
+          "score": 0.1646401154010917
+        },
+        {
+          "id": "road-vehicles",
+          "score": 0.16250349509517298
+        },
+        {
+          "id": "office",
+          "score": 0.15797437520705582
+        },
+        {
+          "id": "bathroom",
+          "score": 0.15749326717970139
+        },
+        {
+          "id": "railway",
+          "score": 0.15340502896954056
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "id": "natural-15",
+      "split": "test",
+      "acceptedIds": [
+        "sport"
+      ],
+      "ranking": [
+        {
+          "id": "sport",
+          "score": 0.2578400210261825
+        },
+        {
+          "id": "optics",
+          "score": 0.22765952030497122
+        },
+        {
+          "id": "gardening",
+          "score": 0.2105205910829383
+        },
+        {
+          "id": "electronics",
+          "score": 0.2098213802701582
+        },
+        {
+          "id": "birds",
+          "score": 0.2071366045004868
+        },
+        {
+          "id": "farmland",
+          "score": 0.20279912334955527
+        },
+        {
+          "id": "books",
+          "score": 0.20136307021509145
+        },
+        {
+          "id": "outdoor-cooking",
+          "score": 0.20118735224061363
+        },
+        {
+          "id": "wildlife",
+          "score": 0.2004019498880749
+        },
+        {
+          "id": "tools",
+          "score": 0.19849677151346376
+        },
+        {
+          "id": "street-people",
+          "score": 0.1984620773135808
+        },
+        {
+          "id": "textiles",
+          "score": 0.19806555866333525
+        },
+        {
+          "id": "road-vehicles",
+          "score": 0.19704846134585496
+        },
+        {
+          "id": "pottery",
+          "score": 0.19695806464238497
+        },
+        {
+          "id": "architecture",
+          "score": 0.19626997538254726
+        },
+        {
+          "id": "music",
+          "score": 0.19514445980168152
+        },
+        {
+          "id": "reflections",
+          "score": 0.19464445944577258
+        },
+        {
+          "id": "harbor",
+          "score": 0.19212020699260476
+        },
+        {
+          "id": "pets",
+          "score": 0.19188167162095138
+        },
+        {
+          "id": "classroom",
+          "score": 0.1907943270385749
+        },
+        {
+          "id": "living-room",
+          "score": 0.18724222966786627
+        },
+        {
+          "id": "bakery",
+          "score": 0.18626355583326937
+        },
+        {
+          "id": "meal",
+          "score": 0.18577831953727267
+        },
+        {
+          "id": "warehouse",
+          "score": 0.18395895955001268
+        },
+        {
+          "id": "forest",
+          "score": 0.1821098443437256
+        },
+        {
+          "id": "railway",
+          "score": 0.18113442311019276
+        },
+        {
+          "id": "bedroom",
+          "score": 0.18073729051294987
+        },
+        {
+          "id": "coast",
+          "score": 0.18034996733945263
+        },
+        {
+          "id": "drinks",
+          "score": 0.1799174837870663
+        },
+        {
+          "id": "mountain-lake",
+          "score": 0.17569175986900648
+        },
+        {
+          "id": "food-preparation",
+          "score": 0.17410250004714237
+        },
+        {
+          "id": "office",
+          "score": 0.16508806062103587
+        },
+        {
+          "id": "desert",
+          "score": 0.16492070886511723
+        },
+        {
+          "id": "produce-market",
+          "score": 0.15851225198565871
+        },
+        {
+          "id": "river",
+          "score": 0.158415436388837
+        },
+        {
+          "id": "bathroom",
+          "score": 0.15149598264882685
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "id": "natural-01-low-light",
+      "split": "test-transform",
+      "acceptedIds": [
+        "mountain-lake"
+      ],
+      "ranking": [
+        {
+          "id": "mountain-lake",
+          "score": 0.266262952605724
+        },
+        {
+          "id": "reflections",
+          "score": 0.2591311103400807
+        },
+        {
+          "id": "coast",
+          "score": 0.24136191730256723
+        },
+        {
+          "id": "optics",
+          "score": 0.2406160911928509
+        },
+        {
+          "id": "birds",
+          "score": 0.22892361492891386
+        },
+        {
+          "id": "harbor",
+          "score": 0.2275231115162621
+        },
+        {
+          "id": "classroom",
+          "score": 0.22585095349749515
+        },
+        {
+          "id": "desert",
+          "score": 0.22456295638932564
+        },
+        {
+          "id": "electronics",
+          "score": 0.22280806887577803
+        },
+        {
+          "id": "street-people",
+          "score": 0.22176443526359807
+        },
+        {
+          "id": "outdoor-cooking",
+          "score": 0.21988715163152298
+        },
+        {
+          "id": "railway",
+          "score": 0.2190599215800891
+        },
+        {
+          "id": "sport",
+          "score": 0.21893683265319192
+        },
+        {
+          "id": "bedroom",
+          "score": 0.21770733652270866
+        },
+        {
+          "id": "wildlife",
+          "score": 0.2173547383035888
+        },
+        {
+          "id": "river",
+          "score": 0.21667828561372046
+        },
+        {
+          "id": "architecture",
+          "score": 0.21635572234639347
+        },
+        {
+          "id": "tools",
+          "score": 0.21632096293337263
+        },
+        {
+          "id": "living-room",
+          "score": 0.2155124450502098
+        },
+        {
+          "id": "road-vehicles",
+          "score": 0.21273419679029948
+        },
+        {
+          "id": "books",
+          "score": 0.212474862951963
+        },
+        {
+          "id": "forest",
+          "score": 0.2116195879399731
+        },
+        {
+          "id": "warehouse",
+          "score": 0.21073792306866387
+        },
+        {
+          "id": "pottery",
+          "score": 0.21023993756421958
+        },
+        {
+          "id": "gardening",
+          "score": 0.20757912636829817
+        },
+        {
+          "id": "music",
+          "score": 0.20744263189282314
+        },
+        {
+          "id": "drinks",
+          "score": 0.20708233564351672
+        },
+        {
+          "id": "farmland",
+          "score": 0.20680078440748992
+        },
+        {
+          "id": "textiles",
+          "score": 0.20518485780824114
+        },
+        {
+          "id": "meal",
+          "score": 0.1997460842418662
+        },
+        {
+          "id": "office",
+          "score": 0.19722397421924306
+        },
+        {
+          "id": "pets",
+          "score": 0.19178122579545967
+        },
+        {
+          "id": "food-preparation",
+          "score": 0.19075175834606606
+        },
+        {
+          "id": "bakery",
+          "score": 0.18569397089198333
+        },
+        {
+          "id": "bathroom",
+          "score": 0.1790456245836799
+        },
+        {
+          "id": "produce-market",
+          "score": 0.16966567627231607
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "id": "natural-03-low-contrast",
+      "split": "test-transform",
+      "acceptedIds": [
+        "railway",
+        "road-vehicles",
+        "street-people",
+        "architecture"
+      ],
+      "ranking": [
+        {
+          "id": "road-vehicles",
+          "score": 0.25584755555086874
+        },
+        {
+          "id": "optics",
+          "score": 0.25422862604264423
+        },
+        {
+          "id": "street-people",
+          "score": 0.2482881463078115
+        },
+        {
+          "id": "railway",
+          "score": 0.24055557186685766
+        },
+        {
+          "id": "architecture",
+          "score": 0.2297118468543414
+        },
+        {
+          "id": "electronics",
+          "score": 0.2294412783037215
+        },
+        {
+          "id": "reflections",
+          "score": 0.2266449176174801
+        },
+        {
+          "id": "classroom",
+          "score": 0.22230394382697616
+        },
+        {
+          "id": "birds",
+          "score": 0.2197911222448838
+        },
+        {
+          "id": "coast",
+          "score": 0.21810767458773814
+        },
+        {
+          "id": "farmland",
+          "score": 0.2179843792085518
+        },
+        {
+          "id": "harbor",
+          "score": 0.2177401751797641
+        },
+        {
+          "id": "sport",
+          "score": 0.2171478176698366
+        },
+        {
+          "id": "books",
+          "score": 0.21608509746708926
+        },
+        {
+          "id": "pottery",
+          "score": 0.21437936125012985
+        },
+        {
+          "id": "forest",
+          "score": 0.21432422725277606
+        },
+        {
+          "id": "gardening",
+          "score": 0.21286531193240912
+        },
+        {
+          "id": "warehouse",
+          "score": 0.2113837426560214
+        },
+        {
+          "id": "tools",
+          "score": 0.2097840151079104
+        },
+        {
+          "id": "living-room",
+          "score": 0.20903236439380324
+        },
+        {
+          "id": "music",
+          "score": 0.20789183132928007
+        },
+        {
+          "id": "office",
+          "score": 0.2068162842280303
+        },
+        {
+          "id": "drinks",
+          "score": 0.2065215494208278
+        },
+        {
+          "id": "desert",
+          "score": 0.20543642785771205
+        },
+        {
+          "id": "textiles",
+          "score": 0.20520436336833345
+        },
+        {
+          "id": "wildlife",
+          "score": 0.20504986443257037
+        },
+        {
+          "id": "bakery",
+          "score": 0.20419481031515127
+        },
+        {
+          "id": "pets",
+          "score": 0.20012658315497966
+        },
+        {
+          "id": "outdoor-cooking",
+          "score": 0.19883544445505663
+        },
+        {
+          "id": "bedroom",
+          "score": 0.19819619249643866
+        },
+        {
+          "id": "meal",
+          "score": 0.19711288705498112
+        },
+        {
+          "id": "mountain-lake",
+          "score": 0.1918495939923263
+        },
+        {
+          "id": "produce-market",
+          "score": 0.18774915978776185
+        },
+        {
+          "id": "river",
+          "score": 0.18100571758378856
+        },
+        {
+          "id": "bathroom",
+          "score": 0.18070435116136135
+        },
+        {
+          "id": "food-preparation",
+          "score": 0.1780184741734792
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "id": "natural-07-blur",
+      "split": "test-transform",
+      "acceptedIds": [
+        "wildlife"
+      ],
+      "ranking": [
+        {
+          "id": "wildlife",
+          "score": 0.24417618660634266
+        },
+        {
+          "id": "sport",
+          "score": 0.23635766141678952
+        },
+        {
+          "id": "optics",
+          "score": 0.23072954048765193
+        },
+        {
+          "id": "electronics",
+          "score": 0.22379489558567775
+        },
+        {
+          "id": "tools",
+          "score": 0.22083872774835678
+        },
+        {
+          "id": "pets",
+          "score": 0.21862400827967296
+        },
+        {
+          "id": "forest",
+          "score": 0.21828446039070307
+        },
+        {
+          "id": "books",
+          "score": 0.2173883420389727
+        },
+        {
+          "id": "street-people",
+          "score": 0.21700316528082975
+        },
+        {
+          "id": "reflections",
+          "score": 0.21583641879817264
+        },
+        {
+          "id": "gardening",
+          "score": 0.21500688558217054
+        },
+        {
+          "id": "music",
+          "score": 0.21408826048513405
+        },
+        {
+          "id": "pottery",
+          "score": 0.21145304995028197
+        },
+        {
+          "id": "outdoor-cooking",
+          "score": 0.21099931146551493
+        },
+        {
+          "id": "textiles",
+          "score": 0.2076044621406324
+        },
+        {
+          "id": "meal",
+          "score": 0.2072542431340735
+        },
+        {
+          "id": "drinks",
+          "score": 0.2045546051783208
+        },
+        {
+          "id": "railway",
+          "score": 0.2022112192874076
+        },
+        {
+          "id": "birds",
+          "score": 0.2011988096235588
+        },
+        {
+          "id": "mountain-lake",
+          "score": 0.1997766165349646
+        },
+        {
+          "id": "desert",
+          "score": 0.19807328605509905
+        },
+        {
+          "id": "classroom",
+          "score": 0.19670226429693538
+        },
+        {
+          "id": "food-preparation",
+          "score": 0.1964007662613594
+        },
+        {
+          "id": "bedroom",
+          "score": 0.1943660538267072
+        },
+        {
+          "id": "farmland",
+          "score": 0.1940039308128166
+        },
+        {
+          "id": "road-vehicles",
+          "score": 0.1939145110603966
+        },
+        {
+          "id": "coast",
+          "score": 0.19357864125085802
+        },
+        {
+          "id": "warehouse",
+          "score": 0.19263256420138786
+        },
+        {
+          "id": "harbor",
+          "score": 0.19054971620117486
+        },
+        {
+          "id": "produce-market",
+          "score": 0.1904947354712239
+        },
+        {
+          "id": "river",
+          "score": 0.1891770103495102
+        },
+        {
+          "id": "bakery",
+          "score": 0.1886291597882538
+        },
+        {
+          "id": "living-room",
+          "score": 0.18510660782214264
+        },
+        {
+          "id": "architecture",
+          "score": 0.1833501121060427
+        },
+        {
+          "id": "bathroom",
+          "score": 0.17003292840997514
+        },
+        {
+          "id": "office",
+          "score": 0.16378054099554643
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "id": "natural-15-crop-occlusion",
+      "split": "test-transform",
+      "acceptedIds": [
+        "sport"
+      ],
+      "ranking": [
+        {
+          "id": "sport",
+          "score": 0.25998596303766003
+        },
+        {
+          "id": "optics",
+          "score": 0.23945289174223042
+        },
+        {
+          "id": "electronics",
+          "score": 0.22643599031087533
+        },
+        {
+          "id": "textiles",
+          "score": 0.2173637029813966
+        },
+        {
+          "id": "reflections",
+          "score": 0.2154867324002677
+        },
+        {
+          "id": "tools",
+          "score": 0.214037519547233
+        },
+        {
+          "id": "gardening",
+          "score": 0.21329919789124566
+        },
+        {
+          "id": "outdoor-cooking",
+          "score": 0.21219031599165322
+        },
+        {
+          "id": "books",
+          "score": 0.21117389729727515
+        },
+        {
+          "id": "street-people",
+          "score": 0.207675126597067
+        },
+        {
+          "id": "road-vehicles",
+          "score": 0.20720928669109795
+        },
+        {
+          "id": "birds",
+          "score": 0.20649037788640343
+        },
+        {
+          "id": "pottery",
+          "score": 0.20545196502344437
+        },
+        {
+          "id": "classroom",
+          "score": 0.2025504608879051
+        },
+        {
+          "id": "architecture",
+          "score": 0.20223274983425973
+        },
+        {
+          "id": "music",
+          "score": 0.2013152931260943
+        },
+        {
+          "id": "wildlife",
+          "score": 0.20106245056349645
+        },
+        {
+          "id": "farmland",
+          "score": 0.20050508813784412
+        },
+        {
+          "id": "forest",
+          "score": 0.19911442149728506
+        },
+        {
+          "id": "pets",
+          "score": 0.19867431757238083
+        },
+        {
+          "id": "harbor",
+          "score": 0.1962449088909501
+        },
+        {
+          "id": "warehouse",
+          "score": 0.19433228976641456
+        },
+        {
+          "id": "railway",
+          "score": 0.19345457001752953
+        },
+        {
+          "id": "drinks",
+          "score": 0.19328063560766984
+        },
+        {
+          "id": "bakery",
+          "score": 0.18933736082681787
+        },
+        {
+          "id": "meal",
+          "score": 0.1891888209001822
+        },
+        {
+          "id": "bedroom",
+          "score": 0.18629430820837428
+        },
+        {
+          "id": "coast",
+          "score": 0.18607570889680092
+        },
+        {
+          "id": "mountain-lake",
+          "score": 0.18318921474602914
+        },
+        {
+          "id": "living-room",
+          "score": 0.1824203870350768
+        },
+        {
+          "id": "food-preparation",
+          "score": 0.18165545157175308
+        },
+        {
+          "id": "office",
+          "score": 0.17903617125654367
+        },
+        {
+          "id": "desert",
+          "score": 0.17725453648804476
+        },
+        {
+          "id": "produce-market",
+          "score": 0.1723979970908721
+        },
+        {
+          "id": "river",
+          "score": 0.16726485445852926
+        },
+        {
+          "id": "bathroom",
+          "score": 0.16273608630299274
+        }
+      ],
+      "accepted": false
+    }
+  ],
+  "stability": [
+    {
+      "id": "natural-01-low-light",
+      "parent": "natural-01",
+      "sameTop1": true,
+      "parentTop1": {
+        "id": "mountain-lake",
+        "score": 0.2680185196315915
+      },
+      "transformedTop1": {
+        "id": "mountain-lake",
+        "score": 0.266262952605724
+      },
+      "accepted": false,
+      "parentAccepted": true
+    },
+    {
+      "id": "natural-03-low-contrast",
+      "parent": "natural-03",
+      "sameTop1": true,
+      "parentTop1": {
+        "id": "road-vehicles",
+        "score": 0.2553465387839915
+      },
+      "transformedTop1": {
+        "id": "road-vehicles",
+        "score": 0.25584755555086874
+      },
+      "accepted": false,
+      "parentAccepted": false
+    },
+    {
+      "id": "natural-07-blur",
+      "parent": "natural-07",
+      "sameTop1": true,
+      "parentTop1": {
+        "id": "wildlife",
+        "score": 0.2514818441992581
+      },
+      "transformedTop1": {
+        "id": "wildlife",
+        "score": 0.24417618660634266
+      },
+      "accepted": false,
+      "parentAccepted": false
+    },
+    {
+      "id": "natural-15-crop-occlusion",
+      "parent": "natural-15",
+      "sameTop1": true,
+      "parentTop1": {
+        "id": "sport",
+        "score": 0.2578400210261825
+      },
+      "transformedTop1": {
+        "id": "sport",
+        "score": 0.25998596303766003
+      },
+      "accepted": false,
+      "parentAccepted": false
+    }
+  ],
+  "mobileNet": {
+    "task": "Visible ImageNet content relevance, not scene accuracy. Full-taxonomy softmax is not correctness probability.",
+    "all": {
+      "total": 16,
+      "covered": 12,
+      "unsupported": 4,
+      "top1": 7,
+      "top4": 11,
+      "coveredTop1": 0.5833333333333334,
+      "coveredTop4": 0.9166666666666666,
+      "accepted": 16,
+      "correctAccepted": 7,
+      "acceptedPrecision": 0.4375,
+      "coveredAccepted": 12,
+      "coveredCoverage": 1,
+      "unsupportedAccepted": 4,
+      "abstained": 0,
+      "confusion": {
+        "281": {
+          "285": 1
+        },
+        "386": {
+          "515": 1
+        },
+        "402": {
+          "402": 1
+        },
+        "404": {
+          "895": 1
+        },
+        "409": {
+          "409": 1
+        },
+        "805": {
+          "805": 1
+        },
+        "829": {
+          "829": 1
+        },
+        "849": {
+          "560": 1
+        },
+        "923": {
+          "923": 1
+        },
+        "970": {
+          "970": 1
+        },
+        "971": {
+          "123": 1
+        },
+        "978": {
+          "977": 1
+        },
+        "unsupported": {
+          "376": 1,
+          "905": 1,
+          "979": 1,
+          "985": 1
+        }
+      }
+    },
+    "test": {
+      "total": 8,
+      "covered": 7,
+      "unsupported": 1,
+      "top1": 5,
+      "top4": 6,
+      "coveredTop1": 0.7142857142857143,
+      "coveredTop4": 0.8571428571428571,
+      "accepted": 8,
+      "correctAccepted": 5,
+      "acceptedPrecision": 0.625,
+      "coveredAccepted": 7,
+      "coveredCoverage": 1,
+      "unsupportedAccepted": 1,
+      "abstained": 0,
+      "confusion": {
+        "386": {
+          "515": 1
+        },
+        "409": {
+          "409": 1
+        },
+        "805": {
+          "805": 1
+        },
+        "829": {
+          "829": 1
+        },
+        "849": {
+          "560": 1
+        },
+        "923": {
+          "923": 1
+        },
+        "970": {
+          "970": 1
+        },
+        "unsupported": {
+          "985": 1
+        }
+      }
+    },
+    "records": [
+      {
+        "id": "natural-00",
+        "split": "calibration",
+        "acceptedIds": [],
+        "ranking": [
+          {
+            "id": "979",
+            "score": 0.061179986116248794
+          },
+          {
+            "id": "703",
+            "score": 0.05327731511784746
+          },
+          {
+            "id": "839",
+            "score": 0.04442817422130119
+          },
+          {
+            "id": "716",
+            "score": 0.04286320480643419
+          },
+          {
+            "id": "803",
+            "score": 0.028571136668212663
+          }
+        ]
+      },
+      {
+        "id": "natural-01",
+        "split": "test",
+        "acceptedIds": [
+          "970"
+        ],
+        "ranking": [
+          {
+            "id": "970",
+            "score": 0.7450043374868457
+          },
+          {
+            "id": "672",
+            "score": 0.061565110654963257
+          },
+          {
+            "id": "979",
+            "score": 0.05200440097883008
+          },
+          {
+            "id": "802",
+            "score": 0.021588088817597197
+          },
+          {
+            "id": "795",
+            "score": 0.014732106326013022
+          }
+        ]
+      },
+      {
+        "id": "natural-02",
+        "split": "calibration",
+        "acceptedIds": [
+          "978"
+        ],
+        "ranking": [
+          {
+            "id": "977",
+            "score": 0.36056276879345645
+          },
+          {
+            "id": "978",
+            "score": 0.33150963927913346
+          },
+          {
+            "id": "976",
+            "score": 0.033775047620126473
+          },
+          {
+            "id": "972",
+            "score": 0.013538128893386752
+          },
+          {
+            "id": "975",
+            "score": 0.013256667344851198
+          }
+        ]
+      },
+      {
+        "id": "natural-03",
+        "split": "test",
+        "acceptedIds": [
+          "829"
+        ],
+        "ranking": [
+          {
+            "id": "829",
+            "score": 0.9307238716082044
+          },
+          {
+            "id": "874",
+            "score": 0.008211094770527012
+          },
+          {
+            "id": "779",
+            "score": 0.0049125231157352706
+          },
+          {
+            "id": "698",
+            "score": 0.0026567221469647444
+          },
+          {
+            "id": "624",
+            "score": 0.0025653456860412448
+          }
+        ]
+      },
+      {
+        "id": "natural-04",
+        "split": "calibration",
+        "acceptedIds": [],
+        "ranking": [
+          {
+            "id": "905",
+            "score": 0.3673445340586863
+          },
+          {
+            "id": "831",
+            "score": 0.08724265560122466
+          },
+          {
+            "id": "564",
+            "score": 0.06490475116859945
+          },
+          {
+            "id": "532",
+            "score": 0.03863454390031681
+          },
+          {
+            "id": "495",
+            "score": 0.03229083827425129
+          }
+        ]
+      },
+      {
+        "id": "natural-05",
+        "split": "test",
+        "acceptedIds": [
+          "923",
+          "935"
+        ],
+        "ranking": [
+          {
+            "id": "923",
+            "score": 0.1514446705623582
+          },
+          {
+            "id": "962",
+            "score": 0.12764893020481513
+          },
+          {
+            "id": "935",
+            "score": 0.05738556749334336
+          },
+          {
+            "id": "964",
+            "score": 0.04446774565576754
+          },
+          {
+            "id": "938",
+            "score": 0.04089503313683234
+          }
+        ]
+      },
+      {
+        "id": "natural-06",
+        "split": "calibration",
+        "acceptedIds": [
+          "281",
+          "282",
+          "283",
+          "284",
+          "285"
+        ],
+        "ranking": [
+          {
+            "id": "285",
+            "score": 0.6446067567088869
+          },
+          {
+            "id": "284",
+            "score": 0.11006193500680846
+          },
+          {
+            "id": "281",
+            "score": 0.033191243171176006
+          },
+          {
+            "id": "287",
+            "score": 0.023497809534197455
+          },
+          {
+            "id": "282",
+            "score": 0.021400018989276015
+          }
+        ]
+      },
+      {
+        "id": "natural-07",
+        "split": "test",
+        "acceptedIds": [
+          "386"
+        ],
+        "ranking": [
+          {
+            "id": "515",
+            "score": 0.06740702523576686
+          },
+          {
+            "id": "456",
+            "score": 0.02536993848304242
+          },
+          {
+            "id": "955",
+            "score": 0.02068001442717016
+          },
+          {
+            "id": "354",
+            "score": 0.01932894545043117
+          },
+          {
+            "id": "55",
+            "score": 0.01566040331063584
+          }
+        ]
+      },
+      {
+        "id": "natural-08",
+        "split": "calibration",
+        "acceptedIds": [],
+        "ranking": [
+          {
+            "id": "376",
+            "score": 0.1318625923851894
+          },
+          {
+            "id": "593",
+            "score": 0.06874176767729814
+          },
+          {
+            "id": "643",
+            "score": 0.03758829084906636
+          },
+          {
+            "id": "433",
+            "score": 0.03725162711484166
+          },
+          {
+            "id": "902",
+            "score": 0.034490783582184964
+          }
+        ]
+      },
+      {
+        "id": "natural-09",
+        "split": "test",
+        "acceptedIds": [],
+        "ranking": [
+          {
+            "id": "985",
+            "score": 0.05951297534916995
+          },
+          {
+            "id": "309",
+            "score": 0.044687312131230006
+          },
+          {
+            "id": "94",
+            "score": 0.033910635411880385
+          },
+          {
+            "id": "738",
+            "score": 0.01936826240886684
+          },
+          {
+            "id": "310",
+            "score": 0.019183552064699665
+          }
+        ]
+      },
+      {
+        "id": "natural-10",
+        "split": "calibration",
+        "acceptedIds": [
+          "404"
+        ],
+        "ranking": [
+          {
+            "id": "895",
+            "score": 0.3800199995198672
+          },
+          {
+            "id": "908",
+            "score": 0.2739991584999801
+          },
+          {
+            "id": "404",
+            "score": 0.2363345286747709
+          },
+          {
+            "id": "812",
+            "score": 0.030681547639442783
+          },
+          {
+            "id": "744",
+            "score": 0.010566363914409118
+          }
+        ]
+      },
+      {
+        "id": "natural-11",
+        "split": "test",
+        "acceptedIds": [
+          "409",
+          "892"
+        ],
+        "ranking": [
+          {
+            "id": "409",
+            "score": 0.585203351251043
+          },
+          {
+            "id": "442",
+            "score": 0.2745025031901729
+          },
+          {
+            "id": "892",
+            "score": 0.11166788475600511
+          },
+          {
+            "id": "426",
+            "score": 0.016129683860523582
+          },
+          {
+            "id": "835",
+            "score": 0.0009526815349165722
+          }
+        ]
+      },
+      {
+        "id": "natural-12",
+        "split": "calibration",
+        "acceptedIds": [
+          "971"
+        ],
+        "ranking": [
+          {
+            "id": "123",
+            "score": 0.12311075931229087
+          },
+          {
+            "id": "33",
+            "score": 0.039461450949065495
+          },
+          {
+            "id": "971",
+            "score": 0.028604664944585304
+          },
+          {
+            "id": "828",
+            "score": 0.023140872790141383
+          },
+          {
+            "id": "5",
+            "score": 0.020914212365145683
+          }
+        ]
+      },
+      {
+        "id": "natural-13",
+        "split": "test",
+        "acceptedIds": [
+          "849"
+        ],
+        "ranking": [
+          {
+            "id": "560",
+            "score": 0.3244980806886047
+          },
+          {
+            "id": "518",
+            "score": 0.1807209954455522
+          },
+          {
+            "id": "849",
+            "score": 0.11289855520403813
+          },
+          {
+            "id": "865",
+            "score": 0.06364616292288951
+          },
+          {
+            "id": "684",
+            "score": 0.020749375144061916
+          }
+        ]
+      },
+      {
+        "id": "natural-14",
+        "split": "calibration",
+        "acceptedIds": [
+          "402"
+        ],
+        "ranking": [
+          {
+            "id": "402",
+            "score": 0.6518986239850743
+          },
+          {
+            "id": "546",
+            "score": 0.011303149482934295
+          },
+          {
+            "id": "889",
+            "score": 0.010590222198001481
+          },
+          {
+            "id": "861",
+            "score": 0.00989597153221087
+          },
+          {
+            "id": "589",
+            "score": 0.006867616408249259
+          }
+        ]
+      },
+      {
+        "id": "natural-15",
+        "split": "test",
+        "acceptedIds": [
+          "805"
+        ],
+        "ranking": [
+          {
+            "id": "805",
+            "score": 0.4736557583905594
+          },
+          {
+            "id": "768",
+            "score": 0.17302647208455263
+          },
+          {
+            "id": "560",
+            "score": 0.05751792724259676
+          },
+          {
+            "id": "752",
+            "score": 0.011744106733281273
+          },
+          {
+            "id": "522",
+            "score": 0.009776485036948666
+          }
+        ]
+      }
+    ]
+  },
+  "timing": {
+    "readiness": {
+      "runs": 20,
+      "cold": [
+        {
+          "image": "natural-00",
+          "wallMs": 8541,
+          "initializationMs": 5173.20000000298
+        }
+      ],
+      "warmInitialization": {
+        "min": 0,
+        "median": 0,
+        "p95": 0.09999999403953552,
+        "max": 0.10000000894069672
+      },
+      "preprocessingMs": {
+        "min": 9.600000008940697,
+        "median": 14.700000002980232,
+        "p95": 24.69999998807907,
+        "max": 29.200000002980232
+      },
+      "inferenceMs": {
+        "min": 1578.3999999910593,
+        "median": 1824.7999999970198,
+        "p95": 2070.5999999940395,
+        "max": 2139.7000000029802
+      },
+      "warmWallMs": {
+        "min": 1933,
+        "median": 1973,
+        "p95": 3005,
+        "max": 3131
+      },
+      "mainThreadMaxHeartbeatGapMs": 434.59999999403954,
+      "mainThreadLargestP95HeartbeatGapMs": 25.700000002980232,
+      "pageJSHeapMaxSnapshotBytes": 5866880,
+      "memoryLimitation": "Page V8 heap after inference only; excludes dedicated worker, native WASM, GPU and transient peak. Not a model memory budget."
+    },
+    "baseline": {
+      "runs": 16,
+      "cold": [
+        {
+          "image": "natural-00",
+          "wallMs": 426,
+          "initializationMs": 270.79999999701977
+        }
+      ],
+      "warmInitialization": {
+        "min": 0,
+        "median": 0,
+        "p95": 0,
+        "max": 0.10000000894069672
+      },
+      "preprocessingMs": {
+        "min": 11.200000002980232,
+        "median": 14,
+        "p95": 18.799999997019768,
+        "max": 20.599999994039536
+      },
+      "inferenceMs": {
+        "min": 33.5,
+        "median": 45.5,
+        "p95": 57,
+        "max": 63.79999999701977
+      },
+      "warmWallMs": {
+        "min": 153,
+        "median": 164,
+        "p95": 192,
+        "max": 574
+      },
+      "mainThreadMaxHeartbeatGapMs": 410.69999998807907,
+      "mainThreadLargestP95HeartbeatGapMs": 410.69999998807907,
+      "pageJSHeapMaxSnapshotBytes": 5692372,
+      "memoryLimitation": "Page V8 heap after inference only; excludes dedicated worker, native WASM, GPU and transient peak. Not a model memory budget."
+    },
+    "detector": {
+      "runs": 2,
+      "cold": [
+        {
+          "image": "natural-07",
+          "wallMs": 3961,
+          "initializationMs": 361.3999999910593
+        }
+      ],
+      "warmInitialization": {
+        "min": 0,
+        "median": 0,
+        "p95": 0,
+        "max": 0
+      },
+      "preprocessingMs": {
+        "min": 61.6000000089407,
+        "median": 61.6000000089407,
+        "p95": 61.6000000089407,
+        "max": 67.79999999701977
+      },
+      "inferenceMs": {
+        "min": 2387.6000000089407,
+        "median": 2387.6000000089407,
+        "p95": 2387.6000000089407,
+        "max": 2978.4000000059605
+      },
+      "warmWallMs": {
+        "min": 2965,
+        "median": 2965,
+        "p95": 2965,
+        "max": 2965
+      },
+      "mainThreadMaxHeartbeatGapMs": 72.09999999403954,
+      "mainThreadLargestP95HeartbeatGapMs": 20.900000005960464,
+      "pageJSHeapMaxSnapshotBytes": 5855512,
+      "memoryLimitation": "Page V8 heap after inference only; excludes dedicated worker, native WASM, GPU and transient peak. Not a model memory budget."
+    }
+  }
+}

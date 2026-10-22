@@ -1,0 +1,1096 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 10,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "99578838": {
+        "pageid": 99578838,
+        "ns": 6,
+        "title": "File:Baby elephant being fed at David Sheldrick Wildlife Trust.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 824403,
+            "width": 1200,
+            "height": 800,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Baby_elephant_being_fed_at_David_Sheldrick_Wildlife_Trust.jpg/960px-Baby_elephant_being_fed_at_David_Sheldrick_Wildlife_Trust.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 512,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Baby_elephant_being_fed_at_David_Sheldrick_Wildlife_Trust.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Baby_elephant_being_fed_at_David_Sheldrick_Wildlife_Trust.jpg/960px-Baby_elephant_being_fed_at_David_Sheldrick_Wildlife_Trust.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 512,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Baby_elephant_being_fed_at_David_Sheldrick_Wildlife_Trust.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Baby_elephant_being_fed_at_David_Sheldrick_Wildlife_Trust.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Baby_elephant_being_fed_at_David_Sheldrick_Wildlife_Trust.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=99578838",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-02-04 22:20:39",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Baby elephant being fed at David Sheldrick Wildlife Trust",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Loxodonta africana (juvenile)|PD US Government|David Sheldrick Wildlife Trust|Photographs by Andrea Hanks|CC-PD-Mark|Green uniforms|Men with bottles|Flickr images reviewed by FlickreviewR 2|Men with mammals|Men with panamas|Male people outdoors|Melania Trump's visit to the Nairobi National Park|Loxodonta africana (drinking)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Baby elephants are seen during First Lady Melania Trump’s visit to the Sheldrick Elephant Orphanage Friday, Oct. 5, 2018, in Nairobi, Kenya. (Official White House Photo by Andrea Hanks)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-10-05 02:03:01",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/148748355@N05/43309136400/\">https://www.flickr.com/photos/148748355@N05/43309136400/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "The Trump White House Archived",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "159543628": {
+        "pageid": 159543628,
+        "ns": 6,
+        "title": "File:Piedras Blancas Elephant Seal Rookery (29018859921).jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2488106,
+            "width": 3264,
+            "height": 2448,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Piedras_Blancas_Elephant_Seal_Rookery_%2829018859921%29.jpg/960px-Piedras_Blancas_Elephant_Seal_Rookery_%2829018859921%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Piedras_Blancas_Elephant_Seal_Rookery_%2829018859921%29.jpg/1920px-Piedras_Blancas_Elephant_Seal_Rookery_%2829018859921%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Piedras_Blancas_Elephant_Seal_Rookery_%2829018859921%29.jpg/960px-Piedras_Blancas_Elephant_Seal_Rookery_%2829018859921%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Piedras_Blancas_Elephant_Seal_Rookery_%2829018859921%29.jpg/1920px-Piedras_Blancas_Elephant_Seal_Rookery_%2829018859921%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Piedras_Blancas_Elephant_Seal_Rookery_%2829018859921%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Piedras_Blancas_Elephant_Seal_Rookery_(29018859921).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=159543628",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-02-11 06:17:24",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Piedras Blancas Elephant Seal Rookery (29018859921)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US BLM|Piedras Blancas|Files with coordinates missing SDC location of creation|United States photographs taken on 2016-06-02|Flickr images reviewed by FlickreviewR 2|United States Bureau of Land Management images (review needed)|U.S. Bureau of Land Management Flickr files uploaded by OptimusPrimeBot|Files from the Bureau of Land Management California Flickr stream",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "35.662317",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-121.255989",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The Piedras Blancas elephant seal rookery spreads over 6 miles of shoreline around Point Piedras Blancas on the central coast of California. The viewing areas are located 90 miles south of Monterey, 5 miles north of Hearst Castle State Historical Monument in San Simeon, 1.5 miles south of Point Piedras Blancas. The viewing areas are open every day of the year, are wheelchair accessible, and free. No reservations required.\nPhoto by Samantha Storms, BLM.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 2 June 2016, 09:12:43",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/blmcalifornia/29018859921\">Piedras Blancas Elephant Seal Rookery</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/blmcalifornia/\">blmcalifornia</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "159543636": {
+        "pageid": 159543636,
+        "ns": 6,
+        "title": "File:Piedras Blancas Elephant Seal Rookery (29018858131).jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5340557,
+            "width": 6944,
+            "height": 3086,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Piedras_Blancas_Elephant_Seal_Rookery_%2829018858131%29.jpg/960px-Piedras_Blancas_Elephant_Seal_Rookery_%2829018858131%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 341,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Piedras_Blancas_Elephant_Seal_Rookery_%2829018858131%29.jpg/1920px-Piedras_Blancas_Elephant_Seal_Rookery_%2829018858131%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Piedras_Blancas_Elephant_Seal_Rookery_%2829018858131%29.jpg/960px-Piedras_Blancas_Elephant_Seal_Rookery_%2829018858131%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 341,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Piedras_Blancas_Elephant_Seal_Rookery_%2829018858131%29.jpg/1920px-Piedras_Blancas_Elephant_Seal_Rookery_%2829018858131%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Piedras_Blancas_Elephant_Seal_Rookery_%2829018858131%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Piedras_Blancas_Elephant_Seal_Rookery_(29018858131).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=159543636",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-02-11 06:17:38",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Piedras Blancas Elephant Seal Rookery (29018858131)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US BLM|Piedras Blancas|Files with coordinates missing SDC location of creation|United States photographs taken on 2016-06-02|Flickr images reviewed by FlickreviewR 2|United States Bureau of Land Management images (review needed)|U.S. Bureau of Land Management Flickr files uploaded by OptimusPrimeBot|Files from the Bureau of Land Management California Flickr stream",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "35.662300",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-121.255814",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The Piedras Blancas elephant seal rookery spreads over 6 miles of shoreline around Point Piedras Blancas on the central coast of California. The viewing areas are located 90 miles south of Monterey, 5 miles north of Hearst Castle State Historical Monument in San Simeon, 1.5 miles south of Point Piedras Blancas. The viewing areas are open every day of the year, are wheelchair accessible, and free. No reservations required.\nPhoto by Samantha Storms, BLM.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 2 June 2016, 09:16:23",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/blmcalifornia/29018858131\">Piedras Blancas Elephant Seal Rookery</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/blmcalifornia/\">blmcalifornia</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "159543642": {
+        "pageid": 159543642,
+        "ns": 6,
+        "title": "File:Piedras Blancas Elephant Seal Rookery (29063157526).jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1677345,
+            "width": 3264,
+            "height": 2448,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Piedras_Blancas_Elephant_Seal_Rookery_%2829063157526%29.jpg/960px-Piedras_Blancas_Elephant_Seal_Rookery_%2829063157526%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Piedras_Blancas_Elephant_Seal_Rookery_%2829063157526%29.jpg/1920px-Piedras_Blancas_Elephant_Seal_Rookery_%2829063157526%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Piedras_Blancas_Elephant_Seal_Rookery_%2829063157526%29.jpg/960px-Piedras_Blancas_Elephant_Seal_Rookery_%2829063157526%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Piedras_Blancas_Elephant_Seal_Rookery_%2829063157526%29.jpg/1920px-Piedras_Blancas_Elephant_Seal_Rookery_%2829063157526%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Piedras_Blancas_Elephant_Seal_Rookery_%2829063157526%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Piedras_Blancas_Elephant_Seal_Rookery_(29063157526).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=159543642",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-02-11 06:17:51",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Piedras Blancas Elephant Seal Rookery (29063157526)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US BLM|Piedras Blancas|Files with coordinates missing SDC location of creation|United States photographs taken on 2016-06-02|Flickr images reviewed by FlickreviewR 2|United States Bureau of Land Management images (review needed)|U.S. Bureau of Land Management Flickr files uploaded by OptimusPrimeBot|Files from the Bureau of Land Management California Flickr stream",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "35.662217",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-121.255561",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The Piedras Blancas elephant seal rookery spreads over 6 miles of shoreline around Point Piedras Blancas on the central coast of California. The viewing areas are located 90 miles south of Monterey, 5 miles north of Hearst Castle State Historical Monument in San Simeon, 1.5 miles south of Point Piedras Blancas. The viewing areas are open every day of the year, are wheelchair accessible, and free. No reservations required.\nPhoto by Samantha Storms, BLM.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 2 June 2016, 09:18:28",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/blmcalifornia/29063157526\">Piedras Blancas Elephant Seal Rookery</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/blmcalifornia/\">blmcalifornia</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "159543648": {
+        "pageid": 159543648,
+        "ns": 6,
+        "title": "File:Piedras Blancas Elephant Seal Rookery (29063156566).jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1541794,
+            "width": 3264,
+            "height": 2448,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Piedras_Blancas_Elephant_Seal_Rookery_%2829063156566%29.jpg/960px-Piedras_Blancas_Elephant_Seal_Rookery_%2829063156566%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Piedras_Blancas_Elephant_Seal_Rookery_%2829063156566%29.jpg/1920px-Piedras_Blancas_Elephant_Seal_Rookery_%2829063156566%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Piedras_Blancas_Elephant_Seal_Rookery_%2829063156566%29.jpg/960px-Piedras_Blancas_Elephant_Seal_Rookery_%2829063156566%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Piedras_Blancas_Elephant_Seal_Rookery_%2829063156566%29.jpg/1920px-Piedras_Blancas_Elephant_Seal_Rookery_%2829063156566%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Piedras_Blancas_Elephant_Seal_Rookery_%2829063156566%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Piedras_Blancas_Elephant_Seal_Rookery_(29063156566).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=159543648",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-02-11 06:18:04",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Piedras Blancas Elephant Seal Rookery (29063156566)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US BLM|Piedras Blancas|Files with coordinates missing SDC location of creation|United States photographs taken on 2016-06-02|Flickr images reviewed by FlickreviewR 2|United States Bureau of Land Management images (review needed)|U.S. Bureau of Land Management Flickr files uploaded by OptimusPrimeBot|Files from the Bureau of Land Management California Flickr stream",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "35.662006",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-121.255342",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The Piedras Blancas elephant seal rookery spreads over 6 miles of shoreline around Point Piedras Blancas on the central coast of California. The viewing areas are located 90 miles south of Monterey, 5 miles north of Hearst Castle State Historical Monument in San Simeon, 1.5 miles south of Point Piedras Blancas. The viewing areas are open every day of the year, are wheelchair accessible, and free. No reservations required.\nPhoto by Samantha Storms, BLM.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 2 June 2016, 09:23:29",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/blmcalifornia/29063156566\">Piedras Blancas Elephant Seal Rookery</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/blmcalifornia/\">blmcalifornia</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "159543655": {
+        "pageid": 159543655,
+        "ns": 6,
+        "title": "File:Piedras Blancas Elephant Seal Rookery (29063156146).jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6060143,
+            "width": 8348,
+            "height": 3072,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Piedras_Blancas_Elephant_Seal_Rookery_%2829063156146%29.jpg/960px-Piedras_Blancas_Elephant_Seal_Rookery_%2829063156146%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 283,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Piedras_Blancas_Elephant_Seal_Rookery_%2829063156146%29.jpg/1920px-Piedras_Blancas_Elephant_Seal_Rookery_%2829063156146%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Piedras_Blancas_Elephant_Seal_Rookery_%2829063156146%29.jpg/960px-Piedras_Blancas_Elephant_Seal_Rookery_%2829063156146%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 283,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Piedras_Blancas_Elephant_Seal_Rookery_%2829063156146%29.jpg/1920px-Piedras_Blancas_Elephant_Seal_Rookery_%2829063156146%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Piedras_Blancas_Elephant_Seal_Rookery_%2829063156146%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Piedras_Blancas_Elephant_Seal_Rookery_(29063156146).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=159543655",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-02-11 06:18:18",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Piedras Blancas Elephant Seal Rookery (29063156146)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US BLM|Piedras Blancas|Files with coordinates missing SDC location of creation|United States photographs taken on 2016-06-02|Flickr images reviewed by FlickreviewR 2|United States Bureau of Land Management images (review needed)|U.S. Bureau of Land Management Flickr files uploaded by OptimusPrimeBot|Files from the Bureau of Land Management California Flickr stream|Flickr images missing SDC published in",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "35.662022",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-121.255311",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The Piedras Blancas elephant seal rookery spreads over 6 miles of shoreline around Point Piedras Blancas on the central coast of California. The viewing areas are located 90 miles south of Monterey, 5 miles north of Hearst Castle State Historical Monument in San Simeon, 1.5 miles south of Point Piedras Blancas. The viewing areas are open every day of the year, are wheelchair accessible, and free. No reservations required.\nPhoto by Samantha Storms, BLM.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 2 June 2016, 09:24:43",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/blmcalifornia/29063156146\">Piedras Blancas Elephant Seal Rookery</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/blmcalifornia/\">blmcalifornia</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "165905172": {
+        "pageid": 165905172,
+        "ns": 6,
+        "title": "File:Piedras Blancas Elephant Seal Rookery (28474529184).jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 127777,
+            "width": 1920,
+            "height": 1080,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Piedras_Blancas_Elephant_Seal_Rookery_%2828474529184%29.jpg/960px-Piedras_Blancas_Elephant_Seal_Rookery_%2828474529184%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 432,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Piedras_Blancas_Elephant_Seal_Rookery_%2828474529184%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Piedras_Blancas_Elephant_Seal_Rookery_%2828474529184%29.jpg/960px-Piedras_Blancas_Elephant_Seal_Rookery_%2828474529184%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 432,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Piedras_Blancas_Elephant_Seal_Rookery_%2828474529184%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Piedras_Blancas_Elephant_Seal_Rookery_%2828474529184%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Piedras_Blancas_Elephant_Seal_Rookery_(28474529184).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=165905172",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-05-24 10:37:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Piedras Blancas Elephant Seal Rookery (28474529184)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US BLM|Flickr images reviewed by trusted users|Flickr images missing SDC creator|United States photographs taken on 2016-08-19|United States Bureau of Land Management images (review needed)|U.S. Bureau of Land Management Flickr files uploaded by OptimusPrimeBot|Files from the Bureau of Land Management California Flickr stream",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The Piedras Blancas elephant seal rookery spreads over 6 miles of shoreline around Point Piedras Blancas on the central coast of California. The viewing areas are located 90 miles south of Monterey, 5 miles north of Hearst Castle State Historical Monument in San Simeon, 1.5 miles south of Point Piedras Blancas. The viewing areas are open every day of the year, are wheelchair accessible, and free. No reservations required.\nVideo by Samantha Storms, BLM.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 19 August 2016, 15:49:19",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/blmcalifornia/28474529184\">Piedras Blancas Elephant Seal Rookery</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/blmcalifornia/\">blmcalifornia</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "165905243": {
+        "pageid": 165905243,
+        "ns": 6,
+        "title": "File:Piedras Blancas Elephant Seal Rookery (29063145236).jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 131224,
+            "width": 1920,
+            "height": 1080,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Piedras_Blancas_Elephant_Seal_Rookery_%2829063145236%29.jpg/960px-Piedras_Blancas_Elephant_Seal_Rookery_%2829063145236%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 432,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/4/44/Piedras_Blancas_Elephant_Seal_Rookery_%2829063145236%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Piedras_Blancas_Elephant_Seal_Rookery_%2829063145236%29.jpg/960px-Piedras_Blancas_Elephant_Seal_Rookery_%2829063145236%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 432,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/4/44/Piedras_Blancas_Elephant_Seal_Rookery_%2829063145236%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Piedras_Blancas_Elephant_Seal_Rookery_%2829063145236%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Piedras_Blancas_Elephant_Seal_Rookery_(29063145236).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=165905243",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-05-24 10:38:39",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Piedras Blancas Elephant Seal Rookery (29063145236)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US BLM|Flickr images reviewed by trusted users|United States photographs taken on 2016-08-19|United States Bureau of Land Management images (review needed)|U.S. Bureau of Land Management Flickr files uploaded by OptimusPrimeBot|Files from the Bureau of Land Management California Flickr stream",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The Piedras Blancas elephant seal rookery spreads over 6 miles of shoreline around Point Piedras Blancas on the central coast of California. The viewing areas are located 90 miles south of Monterey, 5 miles north of Hearst Castle State Historical Monument in San Simeon, 1.5 miles south of Point Piedras Blancas. The viewing areas are open every day of the year, are wheelchair accessible, and free. No reservations required.\nVideo by Samantha Storms, BLM.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 19 August 2016, 15:49:19",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/blmcalifornia/29063145236\">Piedras Blancas Elephant Seal Rookery</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/blmcalifornia/\">blmcalifornia</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "165905285": {
+        "pageid": 165905285,
+        "ns": 6,
+        "title": "File:Piedras Blancas Elephant Seal Rookery (29095711545).jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 112405,
+            "width": 1920,
+            "height": 1080,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Piedras_Blancas_Elephant_Seal_Rookery_%2829095711545%29.jpg/960px-Piedras_Blancas_Elephant_Seal_Rookery_%2829095711545%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 432,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/7/77/Piedras_Blancas_Elephant_Seal_Rookery_%2829095711545%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Piedras_Blancas_Elephant_Seal_Rookery_%2829095711545%29.jpg/960px-Piedras_Blancas_Elephant_Seal_Rookery_%2829095711545%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 432,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/77/Piedras_Blancas_Elephant_Seal_Rookery_%2829095711545%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Piedras_Blancas_Elephant_Seal_Rookery_%2829095711545%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Piedras_Blancas_Elephant_Seal_Rookery_(29095711545).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=165905285",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-05-24 10:39:28",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Piedras Blancas Elephant Seal Rookery (29095711545)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US BLM|Flickr images reviewed by trusted users|Flickr images missing SDC creator|United States photographs taken on 2016-08-19|United States Bureau of Land Management images (review needed)|U.S. Bureau of Land Management Flickr files uploaded by OptimusPrimeBot|Files from the Bureau of Land Management California Flickr stream",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The Piedras Blancas elephant seal rookery spreads over 6 miles of shoreline around Point Piedras Blancas on the central coast of California. The viewing areas are located 90 miles south of Monterey, 5 miles north of Hearst Castle State Historical Monument in San Simeon, 1.5 miles south of Point Piedras Blancas. The viewing areas are open every day of the year, are wheelchair accessible, and free. No reservations required.\nVideo by Samantha Storms, BLM.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 19 August 2016, 15:49:19",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/blmcalifornia/29095711545\">Piedras Blancas Elephant Seal Rookery</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/blmcalifornia/\">blmcalifornia</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "165905304": {
+        "pageid": 165905304,
+        "ns": 6,
+        "title": "File:Piedras Blancas Elephant Seal Rookery (29018815541).jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 107205,
+            "width": 1920,
+            "height": 1080,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Piedras_Blancas_Elephant_Seal_Rookery_%2829018815541%29.jpg/960px-Piedras_Blancas_Elephant_Seal_Rookery_%2829018815541%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 432,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Piedras_Blancas_Elephant_Seal_Rookery_%2829018815541%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Piedras_Blancas_Elephant_Seal_Rookery_%2829018815541%29.jpg/960px-Piedras_Blancas_Elephant_Seal_Rookery_%2829018815541%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 432,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Piedras_Blancas_Elephant_Seal_Rookery_%2829018815541%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Piedras_Blancas_Elephant_Seal_Rookery_%2829018815541%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Piedras_Blancas_Elephant_Seal_Rookery_(29018815541).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=165905304",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-05-24 10:39:42",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Piedras Blancas Elephant Seal Rookery (29018815541)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US BLM|Flickr images reviewed by trusted users|Flickr images missing SDC creator|United States photographs taken on 2016-08-19|United States Bureau of Land Management images (review needed)|U.S. Bureau of Land Management Flickr files uploaded by OptimusPrimeBot|Files from the Bureau of Land Management California Flickr stream",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The Piedras Blancas elephant seal rookery spreads over 6 miles of shoreline around Point Piedras Blancas on the central coast of California. The viewing areas are located 90 miles south of Monterey, 5 miles north of Hearst Castle State Historical Monument in San Simeon, 1.5 miles south of Point Piedras Blancas. The viewing areas are open every day of the year, are wheelchair accessible, and free. No reservations required.\nVideo by Samantha Storms, BLM.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 19 August 2016, 15:49:19",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/blmcalifornia/29018815541\">Piedras Blancas Elephant Seal Rookery</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/blmcalifornia/\">blmcalifornia</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

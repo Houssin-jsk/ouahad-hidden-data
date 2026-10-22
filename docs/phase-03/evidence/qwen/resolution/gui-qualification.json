@@ -1,0 +1,146 @@
+{
+  "recordedAtUtc": "2026-10-21T21:49:04.552477+00:00",
+  "overall": "PARTIAL",
+  "completeNativeGUIQualification": false,
+  "method": "Actual Windows GUI through computer-use @oai/sky; input followed fresh target-window observations. No mocked model import, seeded preferences or source-only invocation was used for the passing accessible-package checks.",
+  "platform": "Windows 11 x64; portable Python 3.12.10 and Tcl/Tk 8.6.15",
+  "archive": {
+    "path": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-hidden-data\\companion-dist\\windows-x64-resolution-accessible.zip",
+    "bytes": 21978634,
+    "sha256": "b2d3b5589cc2124f9d9e9f082371ee0635aae143d33fd42ebb2e7eba22d41113"
+  },
+  "packagePath": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-hidden-data\\companion-dist\\windows-x64-resolution-accessible",
+  "extractedPath": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-hidden-data\\companion-dist\\windows-x64-resolution-accessible-extracted",
+  "testedGUIApp": {
+    "path": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-hidden-data\\companion-dist\\windows-x64-resolution-accessible-extracted\\app\\app.py",
+    "bytes": 10698,
+    "sha256": "1de7ea93bfdd0964c50b350f4e63c14d3bd60f82c1e85a10498131d2b6b4c6eb"
+  },
+  "testedInferenceConfiguration": {
+    "service.py": {
+      "path": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-hidden-data\\companion-dist\\windows-x64-resolution-accessible-extracted\\app\\service.py",
+      "bytes": 24104,
+      "sha256": "c6e1ea379b06e4b1e82747174b50ae7140bf51f3ce367aa8b5cf3a440de0a27c"
+    },
+    "contract.json": {
+      "path": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-hidden-data\\companion-dist\\windows-x64-resolution-accessible-extracted\\app\\contract.json",
+      "bytes": 1840,
+      "sha256": "2d7341f0dc44ad31f837ee29a6dc30661ed5e8b5ec912f6254e51b275e3bce21"
+    },
+    "promotion.json": {
+      "path": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-hidden-data\\companion-dist\\windows-x64-resolution-accessible-extracted\\app\\promotion.json",
+      "bytes": 357,
+      "sha256": "dd838940b30c4e0e7a52000807a3fb4318fcd174096b035c3a43bb0edeb6f1a5"
+    },
+    "artifacts.json": {
+      "path": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-hidden-data\\companion-dist\\windows-x64-resolution-accessible-extracted\\app\\artifacts.json",
+      "bytes": 9366,
+      "sha256": "ad49d63de9dec5fab747f3d1fd5f04f46fd65b2b64281fc784fb4aaa3645b12d"
+    }
+  },
+  "finalPackageReadOnlyComparison": {
+    "path": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-hidden-data\\companion-dist\\windows-x64-resolution-final",
+    "appPyIdenticalToGUIExercisedVersion": true,
+    "files": {
+      "app.py": {
+        "identical": true,
+        "final": {
+          "path": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-hidden-data\\companion-dist\\windows-x64-resolution-final\\app\\app.py",
+          "bytes": 10698,
+          "sha256": "1de7ea93bfdd0964c50b350f4e63c14d3bd60f82c1e85a10498131d2b6b4c6eb"
+        }
+      },
+      "service.py": {
+        "identical": false,
+        "final": {
+          "path": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-hidden-data\\companion-dist\\windows-x64-resolution-final\\app\\service.py",
+          "bytes": 24960,
+          "sha256": "6fc11c994e082b3d9fefb08f16cc4100157f4960a024fb0448c95041dde9196b"
+        }
+      },
+      "contract.json": {
+        "identical": false,
+        "final": {
+          "path": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-hidden-data\\companion-dist\\windows-x64-resolution-final\\app\\contract.json",
+          "bytes": 3789,
+          "sha256": "1604725c0d0324f52a273671aa6e341a076530bea02cfe84705a44edab4fe636"
+        }
+      },
+      "promotion.json": {
+        "identical": false,
+        "final": {
+          "path": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-hidden-data\\companion-dist\\windows-x64-resolution-final\\app\\promotion.json",
+          "bytes": 310,
+          "sha256": "b3d04de2e771522bb7a55d9b0278bcb6a78f85dd3a0382f0d5f88ae05d094767"
+        }
+      },
+      "artifacts.json": {
+        "identical": true,
+        "final": {
+          "path": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-hidden-data\\companion-dist\\windows-x64-resolution-final\\app\\artifacts.json",
+          "bytes": 9366,
+          "sha256": "ad49d63de9dec5fab747f3d1fd5f04f46fd65b2b64281fc784fb4aaa3645b12d"
+        }
+      }
+    },
+    "scope": "app.py is byte-identical. Changed service/contract files were not exercised through this GUI; GUI observations do not certify final inference or model quality."
+  },
+  "passed": [
+    {
+      "check": "Extracted Windows ZIP launch",
+      "observation": "Portable pythonw.exe opened the expected Hidden Data AI Companion; initial Model unavailable message, fixed local address and failed-quality notice were visible."
+    },
+    {
+      "check": "Explicit model-folder text import",
+      "observation": "Pasted the existing reference package folder using actual GUI input, selected Remember, clicked Verify folder. Observed Verifying every model and runtime file followed by Model available · stopped. No model files were downloaded or changed."
+    },
+    {
+      "check": "Saved nonsecret preferences",
+      "observation": "Actual GUI opt-in wrote app/preferences.json with exactly modelDirectory. The file contained no image, answer, pairing code or authorization token."
+    },
+    {
+      "check": "Normal window X exit without loaded model",
+      "observation": "Clicked native X. Process 32232 and local listener were absent at subsequent read-only process/network inspection. Model was not loaded, so native-model cleanup is not certified by this check."
+    },
+    {
+      "check": "Supported VBS launcher and restart preferences",
+      "observation": "Launched extracted Start Companion.vbs. A new GUI process 19948 showed the restored model-folder path, selected Remember and Model available · stopped. No llama-server process was present; the model did not autostart. Source inspection confirms remembered package is reverified by Runtime.import_package."
+    },
+    {
+      "check": "Invalid import and error recovery",
+      "observation": "Entered an incomplete local folder and clicked Verify folder. Observed The selected model package is incomplete error dialog. Dismissed the actual dialog with Return; GUI recovered to Model available · stopped with the previous valid package retained."
+    }
+  ],
+  "unverified": [
+    "Start model GUI action and actual loading/ready state",
+    "Actual busy state while processing an image",
+    "Native model failed-state recovery",
+    "Stop / unload action and loaded native-process cleanup through GUI",
+    "Pairing confirmation approval, connected state, pairing-code expiration and session expiration through GUI",
+    "Permission revocation through GUI",
+    "Exit companion button and clean exit while native model is loaded",
+    "Complete graphical lifecycle on the final package with changed service/contract"
+  ],
+  "nativeFolderPicker": {
+    "openedAndObserved": true,
+    "selectionQualified": false,
+    "helperLimitation": "Owned folder dialog appeared in accessibility tree but was absent from list_windows. After documented recovery, input reported element 105 is not available in cached app state for pythonw.exe or point is over unnamed secondary pythonw.exe window, not target main window.",
+    "accessibleAlternative": "Added explicit folder-path text field with Verify folder, retained Browse. The alternative actual import was exercised successfully."
+  },
+  "interruption": {
+    "userPhysicalEscape": true,
+    "during": "Attempt to click Start model after slot became free",
+    "toolMessage": "Computer Use was stopped by the user with the physical Escape key. Stop your work, do not call further Computer Use tools in this turn, and send a final message noting that the user stopped Computer Use.",
+    "furtherGUIActions": false,
+    "modelStartOutcomeAssumed": false,
+    "cleanup": "Parent confirmed known GUI PID 19948 was already absent during cleanup; no subsequent GUI automation was attempted."
+  },
+  "preferenceUnitTests": {
+    "passed": 4,
+    "log": "docs/phase-03/evidence/qwen/resolution/preferences-tests.log"
+  },
+  "humanQualityRatingsProduced": false,
+  "groundingCertification": "None. GUI checks do not constitute independent human review of model factual observations.",
+  "signedInstaller": false,
+  "published": false
+}

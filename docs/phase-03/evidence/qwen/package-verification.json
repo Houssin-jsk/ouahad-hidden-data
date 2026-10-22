@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "verifiedFiles": 2088,
+  "uncompressedBytes": 56158175,
+  "archiveBytes": 21977763,
+  "archiveSha256": "d9dce95ff1b222dfb7decbc843684fc5b4fed1956bb7e5373377e088f182ea18",
+  "modelWeightsIncluded": false,
+  "identicalToTestedAppFiles": [
+    "app.py",
+    "service.py",
+    "contract.json",
+    "promotion.json",
+    "artifacts.json"
+  ],
+  "runtimeSmoke": {
+    "python": "3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]",
+    "pillow": "12.2.0",
+    "tcl": "8.6.15",
+    "observationsEnabled": false,
+    "origin": "https://hidden-data.ouahad.space",
+    "isolated": 1
+  },
+  "signedInstaller": false,
+  "nativeGUI": "Launch/initial layout/exit observed; final complete import/start/stop UI interaction unverified. Packaged runtime lifecycle tested separately.",
+  "publication": false
+}

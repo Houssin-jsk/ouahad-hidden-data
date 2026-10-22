@@ -1,0 +1,13 @@
+{
+  "portablePython": true,
+  "test": "abrupt parent exit must terminate owned model via Windows job object",
+  "loadingSeconds": 3.187000000005355,
+  "childPID": 27088,
+  "childExecutable": "llama-server.exe",
+  "listenerAddresses": [
+    "127.0.0.1"
+  ],
+  "childStoppedAfterParentKill": true,
+  "stopSeconds": 0.375,
+  "success": true
+}

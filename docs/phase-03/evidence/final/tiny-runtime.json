@@ -1,0 +1,77 @@
+{
+  "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+  "input": "Prior calibration image natural-00, compatibility only; not new quality evidence",
+  "status": "Complete · local model outputs",
+  "result": {
+    "mode": "tiny",
+    "backend": "wasm",
+    "initializationMs": 2459.5,
+    "preprocessingMs": 166.69999998807907,
+    "inferenceMs": 614,
+    "reused": false,
+    "inputShape": [
+      1,
+      3,
+      224,
+      224
+    ],
+    "predictions": [
+      {
+        "label": "natural scenery",
+        "score": 0.35452858837117046
+      },
+      {
+        "label": "vehicles used for transportation",
+        "score": 0.30037377106511326
+      },
+      {
+        "label": "an indoor room",
+        "score": 0.2858457653702961
+      },
+      {
+        "label": "animals",
+        "score": 0.28391564189759244
+      },
+      {
+        "label": "buildings and city streets",
+        "score": 0.25419041584901136
+      },
+      {
+        "label": "food or a meal",
+        "score": 0.22549781681400985
+      }
+    ],
+    "detections": []
+  },
+  "requests": [
+    "http://127.0.0.1:3001/experiments/vision",
+    "http://127.0.0.1:3001/_next/static/chunks/42r8wgp7hdgdi.css",
+    "http://127.0.0.1:3001/_next/static/chunks/0puoccy9vt99i.css",
+    "http://127.0.0.1:3001/_next/static/chunks/1ckvzn7sfprko.js",
+    "http://127.0.0.1:3001/_next/static/chunks/2r4s4h5xul1n-.js",
+    "http://127.0.0.1:3001/_next/static/chunks/0s7mvllxht1mo.js",
+    "http://127.0.0.1:3001/_next/static/chunks/0rm4bmi_uaeqm.js",
+    "http://127.0.0.1:3001/_next/static/chunks/turbopack-3-ry682tkyiqk.js",
+    "http://127.0.0.1:3001/_next/static/chunks/0umf92h1sb77c.js",
+    "http://127.0.0.1:3001/_next/static/chunks/2sqz65x9ukx2w.js",
+    "http://127.0.0.1:3001/brand/app_icon.png",
+    "http://127.0.0.1:3001/?_rsc=kkFecejXpwQ0UtuX",
+    "http://127.0.0.1:3001/?_rsc=gwBX89CGuNYKOOUo",
+    "http://127.0.0.1:3001/_next/static/chunks/3fsc_a9zc29l0.js",
+    "http://127.0.0.1:3001/_next/static/chunks/0jv-hmy21iqni.js",
+    "blob:http://127.0.0.1:3001/5c509961-44b6-47d0-b52b-12bfb31ba806",
+    "http://127.0.0.1:3001/_next/static/chunks/turbopack-worker-1hrsqshz0gfey.js",
+    "http://127.0.0.1:3001/_next/static/chunks/turbopack-1lz0-lf3fp7c1.js",
+    "http://127.0.0.1:3001/_next/static/chunks/1w6qt_d1mp6hr.js",
+    "http://127.0.0.1:3001/_next/static/chunks/186lznj5q2ir6.js",
+    "http://127.0.0.1:3001/_next/static/chunks/turbopack-3-ry682tkyiqk.js",
+    "http://127.0.0.1:3001/experiments/ai/tiny/config.json",
+    "http://127.0.0.1:3001/experiments/ai/tiny/onnx/model_int8.onnx",
+    "http://127.0.0.1:3001/ai/runtime/ort-wasm-simd-threaded.asyncify.wasm",
+    "http://127.0.0.1:3001/ai/runtime/ort-wasm-simd-threaded.asyncify.mjs",
+    "blob:http://127.0.0.1:3001/9557bfb4-4575-4eea-9c95-0a2c15868987",
+    "http://127.0.0.1:3001/experiments/ai/tiny/preprocessor_config.json",
+    "http://127.0.0.1:3001/experiments/ai/tiny/tokenizer.json",
+    "http://127.0.0.1:3001/experiments/ai/tiny/tokenizer_config.json"
+  ]
+}

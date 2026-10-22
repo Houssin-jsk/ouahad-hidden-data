@@ -1,0 +1,1067 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 10,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "92320844": {
+        "pageid": 92320844,
+        "ns": 6,
+        "title": "File:Oeuvre pour salon by Basile Morin, 2003 - framed abstract acrylic painting with blue rectangles on a wall.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 444735,
+            "width": 946,
+            "height": 824,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Oeuvre_pour_salon_by_Basile_Morin%2C_2003_-_framed_abstract_acrylic_painting_with_blue_rectangles_on_a_wall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 768,
+            "thumbheight": 669,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/Oeuvre_pour_salon_by_Basile_Morin%2C_2003_-_framed_abstract_acrylic_painting_with_blue_rectangles_on_a_wall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 669
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Oeuvre_pour_salon_by_Basile_Morin%2C_2003_-_framed_abstract_acrylic_painting_with_blue_rectangles_on_a_wall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Oeuvre_pour_salon_by_Basile_Morin,_2003_-_framed_abstract_acrylic_painting_with_blue_rectangles_on_a_wall.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92320844",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-07-17 01:35:17",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Oeuvre pour salon by Basile Morin, 2003 - framed abstract acrylic painting with blue rectangles on a wall",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Abstract paintings|Op art|Framed paintings|Self-published work|Blue rectangles|Paintings with blue|Acrylic on canvas|Photographs by Basile Morin|Paintings by Basile Morin",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/Abstract_art\" class=\"extiw\" title=\"en:Abstract art\">Abstract painting</a> called <i>Artwork for living room</i> (<i>Oeuvre pour salon</i> in French) by <a href=\"//commons.wikimedia.org/wiki/User:Basile_Morin\" title=\"User:Basile Morin\">Basile Morin</a>, 2003. Made in <a href=\"https://en.wikipedia.org/wiki/Toulouse\" class=\"extiw\" title=\"en:Toulouse\">Toulouse</a>, France. Framed <a href=\"https://en.wikipedia.org/wiki/Acrylic_paint\" class=\"extiw\" title=\"en:Acrylic paint\">acrylic</a> canva with blue rectangles. Influences: <a href=\"https://en.wikipedia.org/wiki/Piet_Mondrian\" class=\"extiw\" title=\"en:Piet Mondrian\">Piet Mondrian</a>, <a href=\"https://en.wikipedia.org/wiki/Victor_Vasarely\" class=\"extiw\" title=\"en:Victor Vasarely\">Victor Vasarely</a>. We can see this as an eye like a window: the light blue part depicts the <a href=\"https://en.wikipedia.org/wiki/Visual_perception\" class=\"extiw\" title=\"en:Visual perception\"><i>sight</i></a> and the white square the opening.\nIn 2020, by chance, strong similarities were found with the <a href=\"https://en.wikipedia.org/wiki/Composition_(visual_arts)\" class=\"extiw\" title=\"en:Composition (visual arts)\">composition</a> of <a href=\"//commons.wikimedia.org/wiki/File:D%C3%BClmen,_Kirchspiel,_ehem._Sondermunitionslager_Visbeck,_Bunker_--_2020_--_8365.jpg\" class=\"mw-redirect\" title=\"File:Dülmen, Kirchspiel, ehem. Sondermunitionslager Visbeck, Bunker -- 2020 -- 8365.jpg\">this photograph</a>.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2003-10-10",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Basile_Morin\" title=\"User:Basile Morin\">Basile Morin</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "155947653": {
+        "pageid": 155947653,
+        "ns": 6,
+        "title": "File:Unidentified abstract paintings (1575203).jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 376675,
+            "width": 1828,
+            "height": 1200,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Unidentified_abstract_paintings_%281575203%29.jpg/960px-Unidentified_abstract_paintings_%281575203%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 504,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Unidentified_abstract_paintings_%281575203%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Unidentified_abstract_paintings_%281575203%29.jpg/960px-Unidentified_abstract_paintings_%281575203%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 504,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Unidentified_abstract_paintings_%281575203%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Unidentified_abstract_paintings_%281575203%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Unidentified_abstract_paintings_(1575203).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=155947653",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-11-29 10:25:29",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Unidentified abstract paintings (1575203)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Artworks without Wikidata item|Uploaded with OpenRefine|Unknown date|Images uploaded as part of NLW - WMUK collaboration|Photographs by Geoff Charles in the National Library of Wales",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Geoff_Charles\" class=\"extiw\" title=\"w:en:Geoff Charles\"><span title=\"Welsh photojournalist (1909-2002)\">Geoff Charles</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Unidentified abstract paintings",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Unknown date",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<table style=\"width:100%;border:1px red solid; background:#f6f6f4; padding:0; margin:auto;\">\n\n<tbody><tr>\n<td align=\"left\"><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/National_Library_of_Wales_logo.svg/500px-National_Library_of_Wales_logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"400\" height=\"61\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/National_Library_of_Wales_logo.svg/960px-National_Library_of_Wales_logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"78\"></span></span>\n</td>\n<td>This image is available from the <big><b><a rel=\"nofollow\" class=\"external text\" href=\"https://www.library.wales/\">National Library of Wales</a></b></big><br> You can view this image in its original context on the <a rel=\"nofollow\" class=\"external text\" href=\"http://hdl.handle.net/10107/1575202\"><b>NLW Catalogue</b></a>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "155947656": {
+        "pageid": 155947656,
+        "ns": 6,
+        "title": "File:Unidentified abstract paintings (1575205).jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 378730,
+            "width": 1828,
+            "height": 1200,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Unidentified_abstract_paintings_%281575205%29.jpg/960px-Unidentified_abstract_paintings_%281575205%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 504,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Unidentified_abstract_paintings_%281575205%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Unidentified_abstract_paintings_%281575205%29.jpg/960px-Unidentified_abstract_paintings_%281575205%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 504,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Unidentified_abstract_paintings_%281575205%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Unidentified_abstract_paintings_%281575205%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Unidentified_abstract_paintings_(1575205).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=155947656",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-11-29 10:25:40",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Unidentified abstract paintings (1575205)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Artworks without Wikidata item|Uploaded with OpenRefine|Unknown date|Images uploaded as part of NLW - WMUK collaboration|Photographs by Geoff Charles in the National Library of Wales",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Geoff_Charles\" class=\"extiw\" title=\"w:en:Geoff Charles\"><span title=\"Welsh photojournalist (1909-2002)\">Geoff Charles</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Unidentified abstract paintings",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Unknown date",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<table style=\"width:100%;border:1px red solid; background:#f6f6f4; padding:0; margin:auto;\">\n\n<tbody><tr>\n<td align=\"left\"><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/National_Library_of_Wales_logo.svg/500px-National_Library_of_Wales_logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"400\" height=\"61\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/National_Library_of_Wales_logo.svg/960px-National_Library_of_Wales_logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"78\"></span></span>\n</td>\n<td>This image is available from the <big><b><a rel=\"nofollow\" class=\"external text\" href=\"https://www.library.wales/\">National Library of Wales</a></b></big><br> You can view this image in its original context on the <a rel=\"nofollow\" class=\"external text\" href=\"http://hdl.handle.net/10107/1575202\"><b>NLW Catalogue</b></a>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "155947660": {
+        "pageid": 155947660,
+        "ns": 6,
+        "title": "File:Unidentified abstract paintings (1575206).jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 363950,
+            "width": 1828,
+            "height": 1200,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Unidentified_abstract_paintings_%281575206%29.jpg/960px-Unidentified_abstract_paintings_%281575206%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 504,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Unidentified_abstract_paintings_%281575206%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Unidentified_abstract_paintings_%281575206%29.jpg/960px-Unidentified_abstract_paintings_%281575206%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 504,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Unidentified_abstract_paintings_%281575206%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Unidentified_abstract_paintings_%281575206%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Unidentified_abstract_paintings_(1575206).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=155947660",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-11-29 10:25:45",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Unidentified abstract paintings (1575206)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Artworks without Wikidata item|Uploaded with OpenRefine|Unknown date|Images uploaded as part of NLW - WMUK collaboration|Photographs by Geoff Charles in the National Library of Wales",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Geoff_Charles\" class=\"extiw\" title=\"w:en:Geoff Charles\"><span title=\"Welsh photojournalist (1909-2002)\">Geoff Charles</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Unidentified abstract paintings",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Unknown date",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<table style=\"width:100%;border:1px red solid; background:#f6f6f4; padding:0; margin:auto;\">\n\n<tbody><tr>\n<td align=\"left\"><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/National_Library_of_Wales_logo.svg/500px-National_Library_of_Wales_logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"400\" height=\"61\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/National_Library_of_Wales_logo.svg/960px-National_Library_of_Wales_logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"78\"></span></span>\n</td>\n<td>This image is available from the <big><b><a rel=\"nofollow\" class=\"external text\" href=\"https://www.library.wales/\">National Library of Wales</a></b></big><br> You can view this image in its original context on the <a rel=\"nofollow\" class=\"external text\" href=\"http://hdl.handle.net/10107/1575202\"><b>NLW Catalogue</b></a>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "155947661": {
+        "pageid": 155947661,
+        "ns": 6,
+        "title": "File:Unidentified abstract paintings (1575207).jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 355477,
+            "width": 1828,
+            "height": 1200,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Unidentified_abstract_paintings_%281575207%29.jpg/960px-Unidentified_abstract_paintings_%281575207%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 504,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/7/76/Unidentified_abstract_paintings_%281575207%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Unidentified_abstract_paintings_%281575207%29.jpg/960px-Unidentified_abstract_paintings_%281575207%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 504,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/76/Unidentified_abstract_paintings_%281575207%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Unidentified_abstract_paintings_%281575207%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Unidentified_abstract_paintings_(1575207).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=155947661",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-11-29 10:25:51",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Unidentified abstract paintings (1575207)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Artworks without Wikidata item|Uploaded with OpenRefine|Unknown date|Images uploaded as part of NLW - WMUK collaboration|Photographs by Geoff Charles in the National Library of Wales",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Geoff_Charles\" class=\"extiw\" title=\"w:en:Geoff Charles\"><span title=\"Welsh photojournalist (1909-2002)\">Geoff Charles</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Unidentified abstract paintings",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Unknown date",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<table style=\"width:100%;border:1px red solid; background:#f6f6f4; padding:0; margin:auto;\">\n\n<tbody><tr>\n<td align=\"left\"><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/National_Library_of_Wales_logo.svg/500px-National_Library_of_Wales_logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"400\" height=\"61\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/National_Library_of_Wales_logo.svg/960px-National_Library_of_Wales_logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"78\"></span></span>\n</td>\n<td>This image is available from the <big><b><a rel=\"nofollow\" class=\"external text\" href=\"https://www.library.wales/\">National Library of Wales</a></b></big><br> You can view this image in its original context on the <a rel=\"nofollow\" class=\"external text\" href=\"http://hdl.handle.net/10107/1575202\"><b>NLW Catalogue</b></a>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "155947663": {
+        "pageid": 155947663,
+        "ns": 6,
+        "title": "File:Unidentified abstract paintings (1575208).jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 385302,
+            "width": 1828,
+            "height": 1200,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Unidentified_abstract_paintings_%281575208%29.jpg/960px-Unidentified_abstract_paintings_%281575208%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 504,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Unidentified_abstract_paintings_%281575208%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Unidentified_abstract_paintings_%281575208%29.jpg/960px-Unidentified_abstract_paintings_%281575208%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 504,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Unidentified_abstract_paintings_%281575208%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Unidentified_abstract_paintings_%281575208%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Unidentified_abstract_paintings_(1575208).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=155947663",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-11-29 10:25:56",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Unidentified abstract paintings (1575208)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Artworks without Wikidata item|Uploaded with OpenRefine|Unknown date|Images uploaded as part of NLW - WMUK collaboration|Photographs by Geoff Charles in the National Library of Wales",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Geoff_Charles\" class=\"extiw\" title=\"w:en:Geoff Charles\"><span title=\"Welsh photojournalist (1909-2002)\">Geoff Charles</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Unidentified abstract paintings",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Unknown date",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<table style=\"width:100%;border:1px red solid; background:#f6f6f4; padding:0; margin:auto;\">\n\n<tbody><tr>\n<td align=\"left\"><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/National_Library_of_Wales_logo.svg/500px-National_Library_of_Wales_logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"400\" height=\"61\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/National_Library_of_Wales_logo.svg/960px-National_Library_of_Wales_logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"78\"></span></span>\n</td>\n<td>This image is available from the <big><b><a rel=\"nofollow\" class=\"external text\" href=\"https://www.library.wales/\">National Library of Wales</a></b></big><br> You can view this image in its original context on the <a rel=\"nofollow\" class=\"external text\" href=\"http://hdl.handle.net/10107/1575202\"><b>NLW Catalogue</b></a>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "155947664": {
+        "pageid": 155947664,
+        "ns": 6,
+        "title": "File:Unidentified abstract paintings (1575209).jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 372981,
+            "width": 1828,
+            "height": 1200,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Unidentified_abstract_paintings_%281575209%29.jpg/960px-Unidentified_abstract_paintings_%281575209%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 504,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/2/21/Unidentified_abstract_paintings_%281575209%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Unidentified_abstract_paintings_%281575209%29.jpg/960px-Unidentified_abstract_paintings_%281575209%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 504,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/2/21/Unidentified_abstract_paintings_%281575209%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Unidentified_abstract_paintings_%281575209%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Unidentified_abstract_paintings_(1575209).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=155947664",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-11-29 10:26:01",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Unidentified abstract paintings (1575209)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Artworks without Wikidata item|Uploaded with OpenRefine|Unknown date|Images uploaded as part of NLW - WMUK collaboration|Photographs by Geoff Charles in the National Library of Wales",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Geoff_Charles\" class=\"extiw\" title=\"w:en:Geoff Charles\"><span title=\"Welsh photojournalist (1909-2002)\">Geoff Charles</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Unidentified abstract paintings",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Unknown date",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<table style=\"width:100%;border:1px red solid; background:#f6f6f4; padding:0; margin:auto;\">\n\n<tbody><tr>\n<td align=\"left\"><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/National_Library_of_Wales_logo.svg/500px-National_Library_of_Wales_logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"400\" height=\"61\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/National_Library_of_Wales_logo.svg/960px-National_Library_of_Wales_logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"78\"></span></span>\n</td>\n<td>This image is available from the <big><b><a rel=\"nofollow\" class=\"external text\" href=\"https://www.library.wales/\">National Library of Wales</a></b></big><br> You can view this image in its original context on the <a rel=\"nofollow\" class=\"external text\" href=\"http://hdl.handle.net/10107/1575202\"><b>NLW Catalogue</b></a>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "155947676": {
+        "pageid": 155947676,
+        "ns": 6,
+        "title": "File:Unidentified abstract paintings (1575213).jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 403377,
+            "width": 1200,
+            "height": 1828,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Unidentified_abstract_paintings_%281575213%29.jpg/960px-Unidentified_abstract_paintings_%281575213%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1170,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/7/72/Unidentified_abstract_paintings_%281575213%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Unidentified_abstract_paintings_%281575213%29.jpg/960px-Unidentified_abstract_paintings_%281575213%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1170,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/72/Unidentified_abstract_paintings_%281575213%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Unidentified_abstract_paintings_%281575213%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Unidentified_abstract_paintings_(1575213).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=155947676",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-04-01 12:52:50",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Unidentified abstract paintings (1575213)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Artworks without Wikidata item|Uploaded with OpenRefine|Unknown date|Images uploaded as part of NLW - WMUK collaboration|Photographs by Geoff Charles in the National Library of Wales",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Geoff_Charles\" class=\"extiw\" title=\"w:en:Geoff Charles\"><span title=\"Welsh photojournalist (1909-2002)\">Geoff Charles</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Unidentified abstract paintings",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Unknown date",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<table style=\"width:100%;border:1px red solid; background:#f6f6f4; padding:0; margin:auto;\">\n\n<tbody><tr>\n<td align=\"left\"><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/National_Library_of_Wales_logo.svg/500px-National_Library_of_Wales_logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"400\" height=\"61\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/National_Library_of_Wales_logo.svg/960px-National_Library_of_Wales_logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"78\"></span></span>\n</td>\n<td>This image is available from the <big><b><a rel=\"nofollow\" class=\"external text\" href=\"https://www.library.wales/\">National Library of Wales</a></b></big><br> You can view this image in its original context on the <a rel=\"nofollow\" class=\"external text\" href=\"http://hdl.handle.net/10107/1575202\"><b>NLW Catalogue</b></a>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "155947680": {
+        "pageid": 155947680,
+        "ns": 6,
+        "title": "File:Unidentified abstract paintings (1575214).jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 392454,
+            "width": 1200,
+            "height": 1828,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Unidentified_abstract_paintings_%281575214%29.jpg/960px-Unidentified_abstract_paintings_%281575214%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1170,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Unidentified_abstract_paintings_%281575214%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Unidentified_abstract_paintings_%281575214%29.jpg/960px-Unidentified_abstract_paintings_%281575214%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1170,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Unidentified_abstract_paintings_%281575214%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Unidentified_abstract_paintings_%281575214%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Unidentified_abstract_paintings_(1575214).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=155947680",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-04-01 12:54:18",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Unidentified abstract paintings (1575214)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Artworks without Wikidata item|Uploaded with OpenRefine|Unknown date|Images uploaded as part of NLW - WMUK collaboration|Photographs by Geoff Charles in the National Library of Wales",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Geoff_Charles\" class=\"extiw\" title=\"w:en:Geoff Charles\"><span title=\"Welsh photojournalist (1909-2002)\">Geoff Charles</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Unidentified abstract paintings",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Unknown date",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<table style=\"width:100%;border:1px red solid; background:#f6f6f4; padding:0; margin:auto;\">\n\n<tbody><tr>\n<td align=\"left\"><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/National_Library_of_Wales_logo.svg/500px-National_Library_of_Wales_logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"400\" height=\"61\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/National_Library_of_Wales_logo.svg/960px-National_Library_of_Wales_logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"78\"></span></span>\n</td>\n<td>This image is available from the <big><b><a rel=\"nofollow\" class=\"external text\" href=\"https://www.library.wales/\">National Library of Wales</a></b></big><br> You can view this image in its original context on the <a rel=\"nofollow\" class=\"external text\" href=\"http://hdl.handle.net/10107/1575202\"><b>NLW Catalogue</b></a>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "155947687": {
+        "pageid": 155947687,
+        "ns": 6,
+        "title": "File:Unidentified abstract paintings (1575216).jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 406120,
+            "width": 1200,
+            "height": 1828,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Unidentified_abstract_paintings_%281575216%29.jpg/960px-Unidentified_abstract_paintings_%281575216%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 768,
+            "thumbheight": 1170,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Unidentified_abstract_paintings_%281575216%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Unidentified_abstract_paintings_%281575216%29.jpg/960px-Unidentified_abstract_paintings_%281575216%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 768,
+              "height": 1170,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Unidentified_abstract_paintings_%281575216%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Unidentified_abstract_paintings_%281575216%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Unidentified_abstract_paintings_(1575216).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=155947687",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-04-01 12:53:05",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Unidentified abstract paintings (1575216)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Artworks without Wikidata item|Uploaded with OpenRefine|Unknown date|Images uploaded as part of NLW - WMUK collaboration|Photographs by Geoff Charles in the National Library of Wales",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Geoff_Charles\" class=\"extiw\" title=\"w:en:Geoff Charles\"><span title=\"Welsh photojournalist (1909-2002)\">Geoff Charles</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Unidentified abstract paintings",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Unknown date",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<table style=\"width:100%;border:1px red solid; background:#f6f6f4; padding:0; margin:auto;\">\n\n<tbody><tr>\n<td align=\"left\"><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/National_Library_of_Wales_logo.svg/500px-National_Library_of_Wales_logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"400\" height=\"61\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/National_Library_of_Wales_logo.svg/960px-National_Library_of_Wales_logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"78\"></span></span>\n</td>\n<td>This image is available from the <big><b><a rel=\"nofollow\" class=\"external text\" href=\"https://www.library.wales/\">National Library of Wales</a></b></big><br> You can view this image in its original context on the <a rel=\"nofollow\" class=\"external text\" href=\"http://hdl.handle.net/10107/1575202\"><b>NLW Catalogue</b></a>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

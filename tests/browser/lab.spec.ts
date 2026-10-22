@@ -128,7 +128,7 @@ test("corrupted, unsupported, oversize and transparent images recover", async ({
     buffer: Buffer.alloc(20 * 1024 * 1024 + 1),
   });
   await expect(page.locator('.error[role="alert"]')).toContainText(
-    "exceeds 20 MB",
+    "exceeds 20 MiB",
   );
   await input.setInputFiles(
     await fixture(page, "transparent.png", ["rgba(0,0,0,0)"]),

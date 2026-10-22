@@ -1,0 +1,102 @@
+{
+  "reference": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-ai\\models\\qwen3-vl-2b-instruct",
+  "artifacts": {
+    "weights/model-q4_k_m.gguf": {
+      "bytes": 1108016576,
+      "sha256": "bd2179e37645d5435e0214e5399e5997408a7e9685ba527cbb60726e6a32fd99"
+    },
+    "vision/mmproj.gguf": {
+      "bytes": 822540352,
+      "sha256": "4dc7bc5863d7fc3ad784acf677f72f009ab5fd3758855f1996b678b621817190"
+    },
+    "runtime/windows-x64-cpu/llama-server.exe": {
+      "bytes": 22920,
+      "sha256": "bb3d2f86e3d8907c4febc3d7a299a8d13d95ddc281c5f81fe496e0d32b12dca3"
+    }
+  },
+  "loadingSeconds": 7.094000000011874,
+  "processFiles": {
+    "loaded_modules": [
+      "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-ai\\models\\qwen3-vl-2b-instruct\\runtime\\windows-x64-cpu\\ggml-base.dll",
+      "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-ai\\models\\qwen3-vl-2b-instruct\\runtime\\windows-x64-cpu\\ggml-cpu-haswell.dll",
+      "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-ai\\models\\qwen3-vl-2b-instruct\\runtime\\windows-x64-cpu\\ggml.dll",
+      "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-ai\\models\\qwen3-vl-2b-instruct\\runtime\\windows-x64-cpu\\libc++.dll",
+      "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-ai\\models\\qwen3-vl-2b-instruct\\runtime\\windows-x64-cpu\\libllama-common.dll",
+      "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-ai\\models\\qwen3-vl-2b-instruct\\runtime\\windows-x64-cpu\\libllama-server-impl.dll",
+      "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-ai\\models\\qwen3-vl-2b-instruct\\runtime\\windows-x64-cpu\\libllama.dll",
+      "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-ai\\models\\qwen3-vl-2b-instruct\\runtime\\windows-x64-cpu\\libmtmd.dll",
+      "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-ai\\models\\qwen3-vl-2b-instruct\\runtime\\windows-x64-cpu\\libomp.dll",
+      "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-ai\\models\\qwen3-vl-2b-instruct\\runtime\\windows-x64-cpu\\libunwind.dll",
+      "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-ai\\models\\qwen3-vl-2b-instruct\\runtime\\windows-x64-cpu\\llama-server.exe",
+      "C:\\WINDOWS\\SYSTEM32\\CRYPTBASE.DLL",
+      "C:\\WINDOWS\\SYSTEM32\\kernel.appcore.dll",
+      "C:\\WINDOWS\\SYSTEM32\\ntdll.dll",
+      "C:\\WINDOWS\\System32\\ADVAPI32.dll",
+      "C:\\WINDOWS\\System32\\GDI32.dll",
+      "C:\\WINDOWS\\System32\\IMM32.DLL",
+      "C:\\WINDOWS\\System32\\KERNEL32.DLL",
+      "C:\\WINDOWS\\System32\\KERNELBASE.dll",
+      "C:\\WINDOWS\\System32\\PSAPI.DLL",
+      "C:\\WINDOWS\\System32\\RPCRT4.dll",
+      "C:\\WINDOWS\\System32\\SHELL32.dll",
+      "C:\\WINDOWS\\System32\\USER32.dll",
+      "C:\\WINDOWS\\System32\\WS2_32.dll",
+      "C:\\WINDOWS\\System32\\bcryptPrimitives.dll",
+      "C:\\WINDOWS\\System32\\gdi32full.dll",
+      "C:\\WINDOWS\\System32\\msvcp_win.dll",
+      "C:\\WINDOWS\\System32\\msvcrt.dll",
+      "C:\\WINDOWS\\System32\\sechost.dll",
+      "C:\\WINDOWS\\System32\\shcore.dll",
+      "C:\\WINDOWS\\System32\\ucrtbase.dll",
+      "C:\\WINDOWS\\System32\\win32u.dll",
+      "C:\\WINDOWS\\system32\\mswsock.dll"
+    ],
+    "mapped_data_files": [
+      "\\Device\\HarddiskVolume3\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-ai\\models\\qwen3-vl-2b-instruct\\weights\\model-q4_k_m.gguf",
+      "\\Device\\HarddiskVolume3\\Windows\\System32\\C_1252.NLS",
+      "\\Device\\HarddiskVolume3\\Windows\\System32\\C_437.NLS",
+      "\\Device\\HarddiskVolume3\\Windows\\System32\\l_intl.nls",
+      "\\Device\\HarddiskVolume3\\Windows\\System32\\locale.nls"
+    ]
+  },
+  "inferenceSeconds": 40.23499999998603,
+  "response": {
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "A black cat with bright, light-colored eyes is lying on a blue textured blanket. It is positioned in the center of the image, resting on the blanket with its body facing forward."
+        }
+      }
+    ],
+    "created": 1792595881,
+    "model": "C:\\Users\\ouaha\\OneDrive\\Desktop\\ouahad-ai\\models\\qwen3-vl-2b-instruct\\weights\\model-q4_k_m.gguf",
+    "system_fingerprint": "b1-620d2225c",
+    "object": "chat.completion",
+    "usage": {
+      "completion_tokens": 38,
+      "prompt_tokens": 816,
+      "total_tokens": 854,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "id": "chatcmpl-WgRyojj4wQyMzUwtVypad2tljAJwbWzD",
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 816,
+      "prompt_ms": 36549.376,
+      "prompt_per_token_ms": 44.79090196078431,
+      "prompt_per_second": 22.325962555420922,
+      "predicted_n": 38,
+      "predicted_ms": 3617.926,
+      "predicted_per_token_ms": 97.78178378378378,
+      "predicted_per_second": 10.226853727798744
+    }
+  },
+  "genuineImageInput": true,
+  "success": true,
+  "processStopped": true
+}

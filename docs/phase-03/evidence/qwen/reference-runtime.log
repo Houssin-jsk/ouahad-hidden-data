@@ -1,0 +1,31 @@
+warning: no usable GPU found, --gpu-layers option will be ignored
+warning: one possible reason is that llama.cpp was compiled without GPU support
+warning: consult docs/build.md for compilation instructions
+0.00.088.020 I srv  llama_server: initializing ...
+0.00.088.029 I cmn  common_param: common_params_print_info: verbosity = 3 (adjust with the `-lv N` CLI arg)
+0.00.092.325 W srv  llama_server: security: no API key is set and CORS allows all origins (see https://github.com/ggml-org/llama.cpp/pull/25655)
+0.00.105.204 I srv    load_model: loading model 'C:\Users\ouaha\OneDrive\Desktop\ouahad-ai\models\qwen3-vl-2b-instruct\weights\model-q4_k_m.gguf'
+0.01.012.263 W load: control-looking token: 151664 '<|file_sep|>' was not control-type; this is probably a bug in the model. its type will be overridden
+0.01.012.275 W load: control-looking token: 151662 '<|fim_pad|>' was not control-type; this is probably a bug in the model. its type will be overridden
+0.01.012.278 W load: control-looking token: 151659 '<|fim_prefix|>' was not control-type; this is probably a bug in the model. its type will be overridden
+0.01.012.736 W load: control-looking token: 151661 '<|fim_suffix|>' was not control-type; this is probably a bug in the model. its type will be overridden
+0.01.013.405 W load: control-looking token: 151660 '<|fim_middle|>' was not control-type; this is probably a bug in the model. its type will be overridden
+0.01.020.337 W load: control-looking token: 151663 '<|repo_name|>' was not control-type; this is probably a bug in the model. its type will be overridden
+0.01.039.538 W load: control-looking token: 128247 '</s>' was not control-type; this is probably a bug in the model. its type will be overridden
+0.02.662.401 I cmn          init: llama threadpool init, n_threads = 4
+0.04.254.675 W load_hparams: Qwen-VL models require at minimum 1024 image tokens to function correctly on grounding tasks
+0.04.254.684 W load_hparams: if you encounter problems with accuracy, try adding --image-min-tokens 1024
+0.04.254.684 W load_hparams: more info: https://github.com/ggml-org/llama.cpp/issues/16842
+
+0.06.318.309 I srv    load_model: loaded multimodal model, 'C:\Users\ouaha\OneDrive\Desktop\ouahad-ai\models\qwen3-vl-2b-instruct\vision\mmproj.gguf'
+0.06.550.954 I srv    load_model: initializing, n_slots = 1, n_ctx_slot = 4096, kv_unified = 'false'
+0.06.608.175 I srv  llama_server: model loaded
+0.06.608.188 I srv  llama_server: listening on http://127.0.0.1:18081
+0.07.073.271 I slot get_availabl: id  0 | task -1 | selected slot by LRU, n_tokens = 0, t_last = -1
+0.07.073.707 I slot launch_slot_: id  0 | task 0 | processing task, is_child = 0
+0.47.241.683 I slot print_timing: id  0 | task 0 | prompt eval time =   36549.38 ms /   816 tokens (   44.79 ms per token,    22.33 tokens per second)
+0.47.241.693 I slot print_timing: id  0 | task 0 |        eval time =    3617.93 ms /    38 tokens (   97.78 ms per token,    10.23 tokens per second)
+0.47.241.694 I slot print_timing: id  0 | task 0 |       total time =   40167.30 ms /   854 tokens
+0.47.241.695 I slot print_timing: id  0 | task 0 |    graphs reused =         37
+0.47.241.696 I slot print_timing: id  0 | task 0 |   graph reallocs =          0    /     0        (same size) / (changed size)
+0.47.242.211 I slot      release: id  0 | task 0 | stop processing: n_tokens = 853, truncated = 0

@@ -1,0 +1,19 @@
+{
+  "target": "non-AI release",
+  "routes": [
+    "/_global-error/page",
+    "/_not-found/page",
+    "/page"
+  ],
+  "publicFiles": [
+    "public\\brand\\app_icon.png",
+    "public\\brand\\logo_#077F64.png",
+    "public\\brand\\logo_#3590DF.png",
+    "public\\brand\\logo_#F3A339.png",
+    "public\\brand\\logo_black.png",
+    "public\\brand\\Logo_White.png"
+  ],
+  "inspectedOutputFiles": 78,
+  "aiTokensFound": false,
+  "modelAssetsFound": false
+}

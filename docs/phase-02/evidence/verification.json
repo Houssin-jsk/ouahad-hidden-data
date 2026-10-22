@@ -1,0 +1,965 @@
+{
+  "recordedAt": "2026-10-20T22:22:36.831Z",
+  "browser": {
+    "stats": {
+      "startTime": "2026-10-20T22:17:50.161Z",
+      "duration": 278386.075,
+      "expected": 50,
+      "skipped": 0,
+      "unexpected": 0,
+      "flaky": 0
+    },
+    "errors": [],
+    "tests": [
+      {
+        "title": "decoded fine checkerboard retains original colors and luminance, not resized gray",
+        "file": "accuracy.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 15690,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "decoded grayscale ramp has correct native means and every expected histogram bin",
+        "file": "accuracy.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 14055,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "decoded partially transparent PNG has alpha-weighted color shares and coverage",
+        "file": "accuracy.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 7091,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "uniform image has one family, exactly zero spread, and an honest DNA summary",
+        "file": "accuracy.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 7207,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "replacement during worker computation discards old results",
+        "file": "accuracy.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 7483,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "EXIF fields, recorded orientation, explicit GPS privacy and replacement",
+        "file": "discoveries.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 20915,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "real light/detail maps, interactive comparison and blob URL cleanup",
+        "file": "discoveries.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 6841,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "real processing stages, cancellation and fast completion",
+        "file": "discoveries.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 8031,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "adaptive preview and tabs at 1440",
+        "file": "discoveries.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 7224,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "adaptive preview and tabs at 390",
+        "file": "discoveries.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 7389,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "adaptive preview and tabs at 768",
+        "file": "discoveries.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 7758,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "real pixels → worker → explorable results, replacement, no uploads",
+        "file": "lab.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 14968,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "corrupted, unsupported, oversize and transparent images recover",
+        "file": "lab.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 14302,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "mobile layout and drag-and-drop",
+        "file": "lab.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 14188,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "illustration advances through all six views using real colors, histogram and maps",
+        "file": "loading-visuals.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 7191,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "cancelling a buffered visual result revokes its temporary map URLs",
+        "file": "loading-visuals.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 1558,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "image-led loading presentation at 1440px",
+        "file": "loading-visuals.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 7497,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "image-led loading presentation at 390px",
+        "file": "loading-visuals.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 7420,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "fast real work stays in the six-second presentation and releases accurate results",
+        "file": "loading.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 7010,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "a slow worker response cannot reveal results at six seconds",
+        "file": "loading.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 9675,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "replacing a buffered completed image starts an independent timer and drops the old result",
+        "file": "loading.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 7715,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "loading layout, cancellation and lighter motion at 1440px",
+        "file": "loading.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 7479,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "loading layout, cancellation and lighter motion at 390px",
+        "file": "loading.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 7261,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "worker startup failure, unavailable canvas and timeout offer a real retry",
+        "file": "phase01.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 8911,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "EXIF 1: preview and worker maps apply orientation exactly once",
+        "file": "phase01.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 7262,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "EXIF 2: preview and worker maps apply orientation exactly once",
+        "file": "phase01.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 7182,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "EXIF 3: preview and worker maps apply orientation exactly once",
+        "file": "phase01.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 6991,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "EXIF 4: preview and worker maps apply orientation exactly once",
+        "file": "phase01.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 7055,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "EXIF 5: preview and worker maps apply orientation exactly once",
+        "file": "phase01.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 7280,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "EXIF 6: preview and worker maps apply orientation exactly once",
+        "file": "phase01.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 7398,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "EXIF 7: preview and worker maps apply orientation exactly once",
+        "file": "phase01.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 7284,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "EXIF 8: preview and worker maps apply orientation exactly once",
+        "file": "phase01.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 7059,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "oversized headers never create a preview; malformed/decode errors and misleading files recover",
+        "file": "phase01.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 13284,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "dark, bright, low contrast, tiny and large images retain deterministic measurements",
+        "file": "phase01.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 39566,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "repeated cancellation/replacement clears URLs and workers; keyboard selection and clipboard work",
+        "file": "phase01.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 14072,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "verified ramp insights, keyboard methodology and spatial caveats at 320px",
+        "file": "phase02.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 7397,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "verified ramp insights, keyboard methodology and spatial caveats at 768px",
+        "file": "phase02.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 7870,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "verified ramp insights, keyboard methodology and spatial caveats at 1440px",
+        "file": "phase02.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 8258,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "real alpha-weighted measurements, cancellation, replacement and local-only request flow",
+        "file": "phase02.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 13651,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "sampled estimates and real worker wall time are separate from presentation; initial resource bytes measured",
+        "file": "phase02.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 40453,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "a legacy worker result without analytics retains measurements and exposes an unavailable state",
+        "file": "phase02.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 7135,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "non-AI release at 1440px: real analysis, replacement, no model or inference traffic",
+        "file": "release.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 14015,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "non-AI release at 390px: real analysis, replacement, no model or inference traffic",
+        "file": "release.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 13928,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "research routes and model/runtime assets return 404 in production",
+        "file": "release.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 166,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "warm theme, first-screen CTA and result layout at 360px",
+        "file": "theme.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 7521,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "warm theme, first-screen CTA and result layout at 390px",
+        "file": "theme.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 7522,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "warm theme, first-screen CTA and result layout at 430px",
+        "file": "theme.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 7416,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "warm theme, first-screen CTA and result layout at 768px",
+        "file": "theme.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 7463,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "warm theme, first-screen CTA and result layout at 1366px",
+        "file": "theme.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 7622,
+            "errors": []
+          }
+        ]
+      },
+      {
+        "title": "warm theme, first-screen CTA and result layout at 1440px",
+        "file": "theme.spec.ts",
+        "status": "expected",
+        "results": [
+          {
+            "status": "passed",
+            "durationMs": 7516,
+            "errors": []
+          }
+        ]
+      }
+    ]
+  },
+  "performance": [
+    {
+      "browser": "155.0.8059.85",
+      "platform": "win32",
+      "release": "10.0.26200",
+      "cpu": "Intel(R) Core(TM) i5-10500H CPU @ 2.50GHz",
+      "logicalCPUs": 12,
+      "totalMemoryBytes": 16993001472,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "conditions": "Headless unthrottled desktop Chrome, localhost production, 2 test workers. Worker wall time includes startup, sampling, all calculations, metadata, maps and messaging; not isolated insights CPU time. Visible time includes 6000ms presentation. Initial JS bytes are same-origin Resource Timing encodedBodySize, before selection; not aggregate build bytes.",
+      "timings": [
+        {
+          "fixture": "dark.png",
+          "workerWallMs": 105.79999999701977,
+          "visibleMs": 6160.197000000015
+        },
+        {
+          "fixture": "bright.png",
+          "workerWallMs": 130.8999999910593,
+          "visibleMs": 6127.835699999996
+        },
+        {
+          "fixture": "gray.png",
+          "workerWallMs": 77.79999999701977,
+          "visibleMs": 6066.1201
+        },
+        {
+          "fixture": "low-contrast.png",
+          "workerWallMs": 73.09999999403954,
+          "visibleMs": 6072.795299999998
+        },
+        {
+          "fixture": "tiny.png",
+          "workerWallMs": 54.900000005960464,
+          "visibleMs": 6111.628999999986
+        },
+        {
+          "fixture": "large.png",
+          "workerWallMs": 417.20000000298023,
+          "visibleMs": 6192.5859000000055
+        }
+      ],
+      "initialJs": [
+        {
+          "url": "/_next/static/chunks/1ckvzn7sfprko.js",
+          "encodedBodySize": 2035,
+          "transferSize": 2335
+        },
+        {
+          "url": "/_next/static/chunks/2r4s4h5xul1n-.js",
+          "encodedBodySize": 7624,
+          "transferSize": 7924
+        },
+        {
+          "url": "/_next/static/chunks/0s7mvllxht1mo.js",
+          "encodedBodySize": 71899,
+          "transferSize": 72199
+        },
+        {
+          "url": "/_next/static/chunks/0rm4bmi_uaeqm.js",
+          "encodedBodySize": 46272,
+          "transferSize": 46572
+        },
+        {
+          "url": "/_next/static/chunks/turbopack-3-ry682tkyiqk.js",
+          "encodedBodySize": 3940,
+          "transferSize": 4240
+        },
+        {
+          "url": "/_next/static/chunks/0umf92h1sb77c.js",
+          "encodedBodySize": 3514,
+          "transferSize": 3814
+        },
+        {
+          "url": "/_next/static/chunks/1t0ahsxu3e45e.js",
+          "encodedBodySize": 2691,
+          "transferSize": 2991
+        },
+        {
+          "url": "/_next/static/chunks/17fa2vmapxye2.js",
+          "encodedBodySize": 21118,
+          "transferSize": 21418
+        }
+      ]
+    }
+  ],
+  "comparison": {
+    "phase01AggregateStaticJsBytes": 794919,
+    "phase02AggregateStaticJsBytes": 807926,
+    "rawDeltaBytes": 13007,
+    "phase01AggregateStaticGzipBytes": 250758,
+    "phase02AggregateStaticGzipBytes": 256017,
+    "gzipDeltaBytes": 5259,
+    "note": "Aggregate emitted JS, including framework/deferred worker chunks; not initial network transfer. Phase 01 did not record initial resource transfer or worker wall time. Only user-visible fixture timings and aggregate artifacts have a historical Phase 01 baseline.",
+    "timings": [
+      {
+        "fixture": "dark.png",
+        "phase01VisibleMs": 6254,
+        "phase02VisibleMs": 6160.197000000015,
+        "phase02WorkerWallMs": 105.79999999701977
+      },
+      {
+        "fixture": "bright.png",
+        "phase01VisibleMs": 6198,
+        "phase02VisibleMs": 6127.835699999996,
+        "phase02WorkerWallMs": 130.8999999910593
+      },
+      {
+        "fixture": "gray.png",
+        "phase01VisibleMs": 6256,
+        "phase02VisibleMs": 6066.1201,
+        "phase02WorkerWallMs": 77.79999999701977
+      },
+      {
+        "fixture": "low-contrast.png",
+        "phase01VisibleMs": 6093,
+        "phase02VisibleMs": 6072.795299999998,
+        "phase02WorkerWallMs": 73.09999999403954
+      },
+      {
+        "fixture": "tiny.png",
+        "phase01VisibleMs": 6117,
+        "phase02VisibleMs": 6111.628999999986,
+        "phase02WorkerWallMs": 54.900000005960464
+      },
+      {
+        "fixture": "large.png",
+        "phase01VisibleMs": 6367,
+        "phase02VisibleMs": 6192.5859000000055,
+        "phase02WorkerWallMs": 417.20000000298023
+      }
+    ]
+  },
+  "bundle": {
+    "totalBytes": 807926,
+    "totalGzipBytes": 256017,
+    "chunks": [
+      {
+        "file": ".next/static/chunks/0cz1d0mv5g_q7.js",
+        "bytes": 112594,
+        "gzipBytes": 39627
+      },
+      {
+        "file": ".next/static/chunks/0rm4bmi_uaeqm.js",
+        "bytes": 168168,
+        "gzipBytes": 46272
+      },
+      {
+        "file": ".next/static/chunks/0s7mvllxht1mo.js",
+        "bytes": 229597,
+        "gzipBytes": 71899
+      },
+      {
+        "file": ".next/static/chunks/0umf92h1sb77c.js",
+        "bytes": 13822,
+        "gzipBytes": 3514
+      },
+      {
+        "file": ".next/static/chunks/17fa2vmapxye2.js",
+        "bytes": 63772,
+        "gzipBytes": 21118
+      },
+      {
+        "file": ".next/static/chunks/1ckvzn7sfprko.js",
+        "bytes": 5584,
+        "gzipBytes": 2035
+      },
+      {
+        "file": ".next/static/chunks/1t0ahsxu3e45e.js",
+        "bytes": 5303,
+        "gzipBytes": 2691
+      },
+      {
+        "file": ".next/static/chunks/1wh80xkrtkui8.js",
+        "bytes": 5254,
+        "gzipBytes": 2654
+      },
+      {
+        "file": ".next/static/chunks/2pb6f38r5ea5c.js",
+        "bytes": 163520,
+        "gzipBytes": 53572
+      },
+      {
+        "file": ".next/static/chunks/2r4s4h5xul1n-.js",
+        "bytes": 28739,
+        "gzipBytes": 7624
+      },
+      {
+        "file": ".next/static/chunks/turbopack-0p56ti54jpwr3.js",
+        "bytes": 221,
+        "gzipBytes": 190
+      },
+      {
+        "file": ".next/static/chunks/turbopack-3-ry682tkyiqk.js",
+        "bytes": 10030,
+        "gzipBytes": 3940
+      },
+      {
+        "file": ".next/static/chunks/turbopack-worker-1hrsqshz0gfey.js",
+        "bytes": 927,
+        "gzipBytes": 597
+      },
+      {
+        "file": ".next/static/IjEr16VdrcAwEbko8r1-_/_buildManifest.js",
+        "bytes": 219,
+        "gzipBytes": 154
+      },
+      {
+        "file": ".next/static/IjEr16VdrcAwEbko8r1-_/_clientMiddlewareManifest.js",
+        "bytes": 96,
+        "gzipBytes": 66
+      },
+      {
+        "file": ".next/static/IjEr16VdrcAwEbko8r1-_/_ssgManifest.js",
+        "bytes": 80,
+        "gzipBytes": 64
+      }
+    ]
+  },
+  "phase01Corpus": [
+    {
+      "file": "bright.png",
+      "sha256": "b425f02fa5d777a96d57c9b797a34c478411d5b3435e750548bd8beb991aa11c",
+      "unchanged": true
+    },
+    {
+      "file": "dark.png",
+      "sha256": "643c1171ab9a0464349742840f7e24093e572e9a36d5b651c9e02c19fcf85519",
+      "unchanged": true
+    },
+    {
+      "file": "empty.png",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "unchanged": true
+    },
+    {
+      "file": "gray.png",
+      "sha256": "fd9a5344520ee7f5d60793114b2f6bc309b3c7462a707b288f308ea08f17dec7",
+      "unchanged": true
+    },
+    {
+      "file": "large.png",
+      "sha256": "22f11688c2c8480bd503f8d2addad3ce678413ffea75cb1af08cb3e07881c6fd",
+      "unchanged": true
+    },
+    {
+      "file": "low-contrast.png",
+      "sha256": "fa2cd54ea668a226fed8d58bc148b3075b9f56f0a132e291f894cde60fca3511",
+      "unchanged": true
+    },
+    {
+      "file": "malformed.png",
+      "sha256": "4c4b6a3be1314ab86138bef4314dde022e600960d8689a2c8f8631802d20dab6",
+      "unchanged": true
+    },
+    {
+      "file": "orientation-1.jpg",
+      "sha256": "de415bc4572d9600d7910d564088711bad3bad3339899162f201a6a3b955ac23",
+      "unchanged": true
+    },
+    {
+      "file": "orientation-2.jpg",
+      "sha256": "770509479458c568dc76057daa82e2bfacc249fc4e8870e7a0c011159d0ad20f",
+      "unchanged": true
+    },
+    {
+      "file": "orientation-3.jpg",
+      "sha256": "73aba376acd56c1d2e14225d956132df895b889758f05101b342ae5f3297116c",
+      "unchanged": true
+    },
+    {
+      "file": "orientation-4.jpg",
+      "sha256": "2c5e3a35bfe7b26cbb6aaaf17d600835e609ca62e5949490fa1998726cff2797",
+      "unchanged": true
+    },
+    {
+      "file": "orientation-5.jpg",
+      "sha256": "3c04b5cd8a0f14ded8000f9a1d4dd65cfe1bc8f6322236d0b03aaf62120ecf86",
+      "unchanged": true
+    },
+    {
+      "file": "orientation-6.jpg",
+      "sha256": "110b349709b12ee7d70b53966e40b2c91865cbf5c733b3eafd4862e8f0da8ed0",
+      "unchanged": true
+    },
+    {
+      "file": "orientation-7.jpg",
+      "sha256": "70a85fe809f8a2408efbbc432b8495d9f76273bcd364d219a74c45bf179d9535",
+      "unchanged": true
+    },
+    {
+      "file": "orientation-8.jpg",
+      "sha256": "f1df2271a62ba84e2b7aa933075eb8a378650eff70ac41751e96dcd2f65a9038",
+      "unchanged": true
+    },
+    {
+      "file": "over-limit.png",
+      "sha256": "a1c48b6851bfe0694687dc7bd41d73a7afceceb2ed4ab53e2dd257cf20e48f4a",
+      "unchanged": true
+    },
+    {
+      "file": "photo.jpg.png",
+      "sha256": "c3938651cf98cd684ed6a431f5e17bb0a1511264b88cd899347bb84023882d99",
+      "unchanged": true
+    },
+    {
+      "file": "quadrants.jpg",
+      "sha256": "2851c45e6c3ab6685661a03fb5d6a57e669017486e4e4903b82ff8fa0a88f24d",
+      "unchanged": true
+    },
+    {
+      "file": "red.png",
+      "sha256": "c3938651cf98cd684ed6a431f5e17bb0a1511264b88cd899347bb84023882d99",
+      "unchanged": true
+    },
+    {
+      "file": "red.webp",
+      "sha256": "783710c017852420db8143a4c202bda008c57942ee57822c2661e70ddbe418d8",
+      "unchanged": true
+    },
+    {
+      "file": "spoof.png",
+      "sha256": "9375fa2bcc085e973b96d8cd5c9059a5a8ca884e82ab5d0d3697c486acffc7bd",
+      "unchanged": true
+    },
+    {
+      "file": "tiny.png",
+      "sha256": "adc5413403ee067dd71eee67f9be6a78be834b05372737f7307fad4caea0cb01",
+      "unchanged": true
+    },
+    {
+      "file": "transparent.png",
+      "sha256": "6df7f2d9ae52b3bb5d66e7dd97ed271b75e0dc2bbe269d5f6dfffb8342aa0c6e",
+      "unchanged": true
+    },
+    {
+      "file": "unsupported.svg",
+      "sha256": "ffc9f5e4fdeea83920c171e2bd17577127c5d1a2c3c76f07440e10d387132280",
+      "unchanged": true
+    },
+    {
+      "file": "صورة.photo.png",
+      "sha256": "c3938651cf98cd684ed6a431f5e17bb0a1511264b88cd899347bb84023882d99",
+      "unchanged": true
+    }
+  ]
+}

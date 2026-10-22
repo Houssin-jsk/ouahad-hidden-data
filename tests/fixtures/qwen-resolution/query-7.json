@@ -1,0 +1,224 @@
+{
+  "requestUrl": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=kitchen+utensils+counter+photograph+filetype%3Abitmap&gsrnamespace=6&gsrlimit=20&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1536",
+  "response": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "120483864": {
+          "pageid": 120483864,
+          "ns": 6,
+          "title": "File:White House kitchen with woman servant - DPLA - 2a8df6c2ba1a1799bf6a134e1259b5eb.jpg",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 5140048,
+              "width": 6528,
+              "height": 5275,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/White_House_kitchen_with_woman_servant_-_DPLA_-_2a8df6c2ba1a1799bf6a134e1259b5eb.jpg/1920px-White_House_kitchen_with_woman_servant_-_DPLA_-_2a8df6c2ba1a1799bf6a134e1259b5eb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1241,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/White_House_kitchen_with_woman_servant_-_DPLA_-_2a8df6c2ba1a1799bf6a134e1259b5eb.jpg/3840px-White_House_kitchen_with_woman_servant_-_DPLA_-_2a8df6c2ba1a1799bf6a134e1259b5eb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/White_House_kitchen_with_woman_servant_-_DPLA_-_2a8df6c2ba1a1799bf6a134e1259b5eb.jpg/1920px-White_House_kitchen_with_woman_servant_-_DPLA_-_2a8df6c2ba1a1799bf6a134e1259b5eb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1241,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/White_House_kitchen_with_woman_servant_-_DPLA_-_2a8df6c2ba1a1799bf6a134e1259b5eb.jpg/3840px-White_House_kitchen_with_woman_servant_-_DPLA_-_2a8df6c2ba1a1799bf6a134e1259b5eb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/White_House_kitchen_with_woman_servant_-_DPLA_-_2a8df6c2ba1a1799bf6a134e1259b5eb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:White_House_kitchen_with_woman_servant_-_DPLA_-_2a8df6c2ba1a1799bf6a134e1259b5eb.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=120483864",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2022-07-15 13:11:32",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "White House kitchen with woman servant - DPLA - 2a8df6c2ba1a1799bf6a134e1259b5eb",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD US|Media contributed by Indiana Memory|Media contributed by the Digital Public Library of America|Media contributed by Benjamin Harrison Presidential Site|Sepia photographs|Kitchens in the 1890s|White House kitchen|White House in 1893",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "Johnston, Frances",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "White House Kitchen. 2 decorative nail heads on either side of frame. Wood stained frame. Sepia tone. Servant, coal stove, counters, utensils and plate bins. Photo by Francis Johnston 1893.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1893",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span style=\"display:inline-block; padding: 4px 16px; vertical-align: middle;\"><span class=\"skin-invert\" typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Codex_icon_download_color-progressive.svg/40px-Codex_icon_download_color-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Codex_icon_download_color-progressive.svg/60px-Codex_icon_download_color-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"20\" data-file-height=\"20\"></span></span> <a rel=\"nofollow\" class=\"external text\" href=\"https://cdm17475.contentdm.oclc.org/iiif/2/BHPS:6910/full/full/0/default.jpg\">File URL</a></span><span style=\"display:inline-block; padding: 4px 16px; vertical-align: middle; border-left: 2px solid #a2a9b1;\"><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/International_Image_Interoperability_Framework_logo.png/40px-International_Image_Interoperability_Framework_logo.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/International_Image_Interoperability_Framework_logo.png/60px-International_Image_Interoperability_Framework_logo.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"460\" data-file-height=\"460\"></span></span> <a rel=\"nofollow\" class=\"external text\" href=\"http://iuidigital.contentdm.oclc.org/iiif/info/BHPS/6910/manifest.json\">IIIF manifest</a></span><span style=\"display:inline-block; padding: 4px 16px; vertical-align: middle; border-left: 2px solid #a2a9b1;\"><span class=\"skin-invert\" typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Breezeicons-actions-22-database-index.svg/40px-Breezeicons-actions-22-database-index.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Breezeicons-actions-22-database-index.svg/60px-Breezeicons-actions-22-database-index.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"512\"></span></span> <a rel=\"nofollow\" class=\"external text\" href=\"http://iuidigital.contentdm.oclc.org/cdm/ref/collection/BHPS/id/6910\">Catalog record</a></span>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "This image might not be in the public domain outside of the United States; this especially applies in the countries and areas that do not apply the <a href=\"https://en.wikipedia.org/wiki/rule_of_the_shorter_term\" class=\"extiw\" title=\"w:rule of the shorter term\">rule of the shorter term</a> for US works, such as Canada, Mainland China (not Hong Kong or Macao), Germany, Mexico, and Switzerland. The creator and year of publication are essential information and must be provided. See <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Public_domain\" class=\"extiw\" title=\"w:Wikipedia:Public domain\">Wikipedia:Public domain</a> and <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Copyrights\" class=\"extiw\" title=\"w:Wikipedia:Copyrights\">Wikipedia:Copyrights</a> for more details.",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "135958925": {
+          "pageid": 135958925,
+          "ns": 6,
+          "title": "File:This photograph shows a typical mess hall kitchen. it shows the service counter in the foreground, the cook's work table (af6ea299-1741-4dab-af3b-e38658eb44ea).jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 17158086,
+              "width": 11130,
+              "height": 8907,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/This_photograph_shows_a_typical_mess_hall_kitchen._it_shows_the_service_counter_in_the_foreground%2C_the_cook%27s_work_table_%28af6ea299-1741-4dab-af3b-e38658eb44ea%29.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1229,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/This_photograph_shows_a_typical_mess_hall_kitchen._it_shows_the_service_counter_in_the_foreground%2C_the_cook%27s_work_table_%28af6ea299-1741-4dab-af3b-e38658eb44ea%29.jpg/3840px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/This_photograph_shows_a_typical_mess_hall_kitchen._it_shows_the_service_counter_in_the_foreground%2C_the_cook%27s_work_table_%28af6ea299-1741-4dab-af3b-e38658eb44ea%29.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1229,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/This_photograph_shows_a_typical_mess_hall_kitchen._it_shows_the_service_counter_in_the_foreground%2C_the_cook%27s_work_table_%28af6ea299-1741-4dab-af3b-e38658eb44ea%29.jpg/3840px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/This_photograph_shows_a_typical_mess_hall_kitchen._it_shows_the_service_counter_in_the_foreground%2C_the_cook%27s_work_table_%28af6ea299-1741-4dab-af3b-e38658eb44ea%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:This_photograph_shows_a_typical_mess_hall_kitchen._it_shows_the_service_counter_in_the_foreground,_the_cook%27s_work_table_(af6ea299-1741-4dab-af3b-e38658eb44ea).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=135958925",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-08-14 22:56:11",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Mess Hall Kitchen",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Tule Lake National Monument|PD US NPS|Taken on missing SDC inception|Photographs taken on 2009-02-24|Images from NPGallery",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "NPS",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<p>Interior of a large wooden building. it shows a counter in the foreground with pots and pans, the cook's work table, utensils and stove in the rear with pots hanging over stove. A large refrigerator  can be observed at the extreme left.</p>\n<p>This photograph shows a typical mess hall kitchen. it shows the service counter in the foreground, the cook's work table, utensils and stove in the rear. A large frigidaire can be observed at the extreme left.</p>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "Taken on 24 February 2009",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://npgallery.nps.gov/\">NPGallery</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td><i>This image or media file contains material based on a work of a <a href=\"https://en.wikipedia.org/wiki/National_Park_Service\" class=\"extiw\" title=\"w:National Park Service\">National Park Service</a> employee, created as part of that person's official duties. As a <a href=\"https://en.wikipedia.org/wiki/Work_of_the_United_States_Government\" class=\"extiw\" title=\"w:Work of the United States Government\">work</a> of the <a href=\"https://en.wikipedia.org/wiki/Federal_Government_of_the_United_States\" class=\"extiw\" title=\"w:Federal Government of the United States\">U.S. federal government</a>, such work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"w:public domain\">public domain</a></b> in the United States. See the <a rel=\"nofollow\" class=\"external text\" href=\"https://www.nps.gov/\">NPS website</a> and <a rel=\"nofollow\" class=\"external text\" href=\"https://www.nps.gov/aboutus/disclaimer.htm\">NPS copyright policy</a> for more information.</i>\n</td>\n<td><figure class=\"mw-halign-right\" typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_of_the_United_States_National_Park_Service.svg/60px-Logo_of_the_United_States_National_Park_Service.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"52\" height=\"68\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_of_the_United_States_National_Park_Service.svg/120px-Logo_of_the_United_States_National_Park_Service.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"553\" data-file-height=\"720\"></span><figcaption></figcaption></figure>\n</td></tr></tbody></table>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "recordedUtc": "2026-10-21T20:20:45.4550907Z",
+  "security": {
+    "passed": 20,
+    "total": 20,
+    "log": "security-tests.log",
+    "seconds": 8.154
+  },
+  "referenceEquivalence": {
+    "passed": 10,
+    "total": 10,
+    "log": "reference-tests.log",
+    "skipped": 0,
+    "seconds": 2.651
+  },
+  "focusedTypescriptContract": {
+    "total": 2,
+    "passed": 2
+  },
+  "browser": {
+    "total": 6,
+    "stderr": "companion-browser.stderr.log",
+    "addedPixelFidelityCases": 1,
+    "passed": 6,
+    "status": "passed",
+    "report": "companion-browser.json",
+    "existingCases": 5,
+    "durationMs": 62850.78
+  },
+  "qualificationLimit": "No model-inference or human visual-grounding certification is performed by these tests.",
+  "harnessCorrection": "Three initial Windows TCP resets in negative early-rejection tests are preserved. GET/preflight bodies were removed to match fetch. Synthetic HTTP headers and body are now sent together; exact expected denial statuses are still required, with no retries or accepted resets.",
+  "finalTestFileSha256": {
+    "tests/companion-browser/reference-pixels.spec.ts": "10ac515c4f2a00008e5d25f5954da2deb76bc2ad074628943ca40c78abae3f03",
+    "tests/companion-browser/companion.spec.ts": "17d104c8f2164c7bd9bad13fcf63fd925001b85d2c1c9eb5b129a5034c5b5a40",
+    "companion/tests/test_reference_equivalence.py": "4cf9c55c8307527001611aa18571b74866107ceedb3aaf17483d0042c657b296",
+    "companion/tests/test_service.py": "5d305a9d1dfa45b6a22a7ae2b8e00f3d7385f15a4b370e30db7f3c08a05c13b0",
+    "tests/companion.test.ts": "cafc6b0f07cdda20d3223a716f499f08fca5a4fdc78414b267c2a3c2c912fda1"
+  }
+}

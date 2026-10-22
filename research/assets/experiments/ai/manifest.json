@@ -1,0 +1,64 @@
+{
+  "runtime": "Transformers.js 4.3.1; existing same-origin Asyncify WASM",
+  "models": [
+    {
+      "id": "Xenova/yolos-tiny",
+      "revision": "e2f9c7673f0fa61849efe2b56a0d7774779ebb9d",
+      "dir": "yolos",
+      "assets": [
+        {
+          "path": "config.json",
+          "bytes": 4145,
+          "sha256": "ce8640ba6bd97a7b36ccf2d0dba9a6ac233211e2dc0c5dc4c63d922e80338c08"
+        },
+        {
+          "path": "preprocessor_config.json",
+          "bytes": 457,
+          "sha256": "b010730968cdbccf8767b61b0a8e903396d831fd97f3c44cc9f0c0437deb7b7f"
+        },
+        {
+          "path": "onnx/model_quantized.onnx",
+          "bytes": 9661148,
+          "sha256": "82b5c1de8aaaffd763c67d67b09b742a1c53628acfee3077af3fa59233e86b6b"
+        }
+      ]
+    },
+    {
+      "id": "Xenova/clip-vit-base-patch32",
+      "revision": "d15189d7028b43f1d3e65039190477f6af591c2a",
+      "dir": "clip",
+      "assets": [
+        {
+          "path": "config.json",
+          "bytes": 4524,
+          "sha256": "493ef57ff783e42d1530c91b53469b7fdf8db8a9c1408e86998fcb7899a4f495"
+        },
+        {
+          "path": "preprocessor_config.json",
+          "bytes": 520,
+          "sha256": "6f638fb9401a6d6296feff533ee7efe657b787c49f954f82f5906b36ef2a1b1f"
+        },
+        {
+          "path": "special_tokens_map.json",
+          "bytes": 472,
+          "sha256": "c4864a9376a8401918425bed71fc14fc0e81f9b59ec45c1cf96cccb2df508eac"
+        },
+        {
+          "path": "tokenizer.json",
+          "bytes": 2224119,
+          "sha256": "f7f3b7af117d467b58374797691a6438d3e6b9e9cef800dfd5dced7f697a90cd"
+        },
+        {
+          "path": "tokenizer_config.json",
+          "bytes": 775,
+          "sha256": "60ba2912bc6344c94bc16bbdec27fa1209409167b6f2fdf3cfe9e65462ea3967"
+        },
+        {
+          "path": "onnx/model_quantized.onnx",
+          "bytes": 153695702,
+          "sha256": "0898a3facfdb27f0a041e57649b4989cfd094e4a0040d6ae75ed69917dfc7328"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2212 @@
+{
+  "requestUrl": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=grocery+market+people+photograph+filetype%3Abitmap&gsrnamespace=6&gsrlimit=20&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1536",
+  "response": {
+    "batchcomplete": "",
+    "continue": {
+      "gsroffset": 20,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": {
+        "11647934": {
+          "pageid": 11647934,
+          "ns": 6,
+          "title": "File:Worthington Ohio - Home Market - 1947.jpg",
+          "index": 11,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 346332,
+              "width": 1080,
+              "height": 805,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Worthington_Ohio_-_Home_Market_-_1947.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 1536,
+              "thumbheight": 1145,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Worthington_Ohio_-_Home_Market_-_1947.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1145
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Worthington_Ohio_-_Home_Market_-_1947.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Worthington_Ohio_-_Home_Market_-_1947.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=11647934",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2010-10-01 01:39:47",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Worthington Ohio - Home Market - 1947",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "1947 in Ohio|Grocery stores in Ohio|Flickr images uploaded by Flickr upload bot|Photographs by Don O'Brien|Shops in 1947|Worthington, Ohio in the 1940s|Shops in Worthington, Ohio|Taken with Speed Graphic",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<p>The  Home Market was on  High Street in Worthington, Ohio.  I took this photo for the Worthington News  to illustrate an article about the recent expansion and remodeling.\n</p><p>In the photo is owner Clyde Bachelor with sons Don and Dave.\n</p><p><br>\n</p>\n\"I typed this info on the negative envelope I just found; \"W. News-Home Market-Spring 1947-Speed Graphic, Super Panchro Press-F22.\"  I used two flash bulbs.\"",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1947",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "originally posted to <b><a href=\"//commons.wikimedia.org/wiki/Flickr\" class=\"mw-redirect\" title=\"Flickr\">Flickr</a></b> as <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/51096110@N00/5040309414\">Home Market - 1947</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/51096110@N00\">Don O'Brien</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "<table id=\"FlickrReview\" style=\"width:100%; margin:0.3em auto; text-align:start; background-color:var(--background-color-success-subtle,#d5fdf4); padding: 3px; border:1px solid var(--border-color-base,#a2a9b1); color:inherit;\" dir=\"ltr\" lang=\"en\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><a href=\"https://en.wikipedia.org/wiki/Flickr\" class=\"extiw\" title=\"en:Flickr\">Flickr</a></b>, was uploaded to Commons using <b><a href=\"//commons.wikimedia.org/wiki/User:Flickr_upload_bot\" title=\"User:Flickr upload bot\">Flickr upload bot</a></b> on 1 October 2010, 01:39 by <span id=\"flickr_upload_bot_reviewer\"><b><a href=\"//commons.wikimedia.org/wiki/User:Infrogmation\" title=\"User:Infrogmation\">Infrogmation</a></b></span>. On that date, it was confirmed to be licensed under the terms of the license indicated.\n</td>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Flickr_dots.svg/60px-Flickr_dots.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Flickr_dots.svg/120px-Flickr_dots.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"512\"></span></span>\n</td></tr></tbody></table>\n<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/2.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/2.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 2.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 2.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "24267644": {
+          "pageid": 24267644,
+          "ns": 6,
+          "title": "File:Westside Market (6451435179).jpg",
+          "index": 20,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 532026,
+              "width": 1600,
+              "height": 1063,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Westside_Market_%286451435179%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 1536,
+              "thumbheight": 1020,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Westside_Market_%286451435179%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1020
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Westside_Market_%286451435179%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Westside_Market_(6451435179).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24267644",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2013-01-27 16:13:25",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Westside Market (6451435179)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Taken with Nikon D5000|Morningside Heights, Manhattan|Flickr images reviewed by File Upload Bot (Magnus Manske)|Photographs taken on 2011-10-30|Files from InSapphoWeTrust Flickr stream|Files with coordinates missing SDC location of creation|Westside Market (grocery store chain)|Broadway above 110th Street",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "40.804265",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-73.966376",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<p>This grocery market is located on Broadway near 110th Street (Cathedral Parkway) in Morningside Heights. It serves the area of Columbia University and is frequented by its students and faculty.\n</p>\nBack in the 1990s, the grocer in the area was a smaller University Market around 115th Street, but it is no longer in business.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2011-10-30 19:59",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/skinnylawyer/6451435179/\">Westside Market</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/56619626@N05\">InSapphoWeTrust</a> from Los Angeles, California, USA",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "25743637": {
+          "pageid": 25743637,
+          "ns": 6,
+          "title": "File:Street grocery market. Ho Chi Minh City (former Saigon). Vietnam.jpg",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3250828,
+              "width": 3000,
+              "height": 2008,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Street_grocery_market._Ho_Chi_Minh_City_%28former_Saigon%29._Vietnam.jpg/1920px-Street_grocery_market._Ho_Chi_Minh_City_%28former_Saigon%29._Vietnam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1028,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/8/87/Street_grocery_market._Ho_Chi_Minh_City_%28former_Saigon%29._Vietnam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Street_grocery_market._Ho_Chi_Minh_City_%28former_Saigon%29._Vietnam.jpg/1920px-Street_grocery_market._Ho_Chi_Minh_City_%28former_Saigon%29._Vietnam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1028,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/8/87/Street_grocery_market._Ho_Chi_Minh_City_%28former_Saigon%29._Vietnam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Street_grocery_market._Ho_Chi_Minh_City_%28former_Saigon%29._Vietnam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Street_grocery_market._Ho_Chi_Minh_City_(former_Saigon)._Vietnam.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=25743637",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2013-04-24 16:44:15",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Street grocery market. Ho Chi Minh City (former Saigon). Vietnam",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Taken with Nikon D200|People of Ho Chi Minh City|Self-published work|Commerce in Ho Chi Minh City|Photographs by Mstyslav Chernov",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Street grocery market. Ho Chi Minh City (former Saigon). Vietnam.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2009-06-15 07:30:23",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\">Self-photographed</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Mstyslav Chernov",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "29514585": {
+          "pageid": 29514585,
+          "ns": 6,
+          "title": "File:Dollar General Market Clarksville, TN (7259537954).jpg",
+          "index": 15,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3106414,
+              "width": 3060,
+              "height": 2144,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Dollar_General_Market_Clarksville%2C_TN_%287259537954%29.jpg/1920px-Dollar_General_Market_Clarksville%2C_TN_%287259537954%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1076,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Dollar_General_Market_Clarksville%2C_TN_%287259537954%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Dollar_General_Market_Clarksville%2C_TN_%287259537954%29.jpg/1920px-Dollar_General_Market_Clarksville%2C_TN_%287259537954%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1076,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Dollar_General_Market_Clarksville%2C_TN_%287259537954%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Dollar_General_Market_Clarksville%2C_TN_%287259537954%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dollar_General_Market_Clarksville,_TN_(7259537954).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=29514585",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2013-11-09 18:33:26",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Dollar General Market Clarksville, TN (7259537954)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Taken with iPhone 4S|Clarksville, Tennessee|Flickr images reviewed by File Upload Bot (Magnus Manske)|Grocery stores in Tennessee|Shops in the United States photographed in 2012|Dollar General Market",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Dollar General Market Clarksville, TN",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2012-05-13 12:02",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<p><a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/10542402@N06/7259537954/\">Dollar General Market Clarksville, TN</a>\n</p>\n<ul><li>Uploaded by <a href=\"//commons.wikimedia.org/wiki/User:AlbertHerring\" class=\"mw-redirect\" title=\"User:AlbertHerring\">AlbertHerring</a></li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/10542402@N06\">Mike Kalasnik</a> from Fort Mill, USA",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "52998225": {
+          "pageid": 52998225,
+          "ns": 6,
+          "title": "File:Street scene, J. C. Penney Co. and City Market and Grocery. (9126590697).jpg",
+          "index": 17,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2045974,
+              "width": 5958,
+              "height": 4855,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Street_scene%2C_J._C._Penney_Co._and_City_Market_and_Grocery._%289126590697%29.jpg/1920px-Street_scene%2C_J._C._Penney_Co._and_City_Market_and_Grocery._%289126590697%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1252,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Street_scene%2C_J._C._Penney_Co._and_City_Market_and_Grocery._%289126590697%29.jpg/3840px-Street_scene%2C_J._C._Penney_Co._and_City_Market_and_Grocery._%289126590697%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Street_scene%2C_J._C._Penney_Co._and_City_Market_and_Grocery._%289126590697%29.jpg/1920px-Street_scene%2C_J._C._Penney_Co._and_City_Market_and_Grocery._%289126590697%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1252,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Street_scene%2C_J._C._Penney_Co._and_City_Market_and_Grocery._%289126590697%29.jpg/3840px-Street_scene%2C_J._C._Penney_Co._and_City_Market_and_Grocery._%289126590697%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Street_scene%2C_J._C._Penney_Co._and_City_Market_and_Grocery._%289126590697%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Street_scene,_J._C._Penney_Co._and_City_Market_and_Grocery._(9126590697).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=52998225",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2016-11-09 20:26:23",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Street scene, J. C. Penney Co. and City Market and Grocery. (9126590697)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Photos uploaded from Flickr by Fæ using a script|Flickr images reviewed by FlickreviewR|Files from Flickr's 'The Commons'|Files with coordinates missing SDC location of creation|Photographs by Mississippi Department of Archives and History|Hamilton (Luther) photograph collection|Flickr images missing SDC published in",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "31.985420",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-90.357658",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<b>Collection: </b>Hamilton (Luther) Photograph Collection<br>\n<p><b>Call number: </b>PI/1994.0004<br>\n<b>System ID: </b>100704.<br>\n<a rel=\"nofollow\" class=\"external free\" href=\"http://zed.mdah.state.ms.us:81/\">http://zed.mdah.state.ms.us:81/</a><br>\nStreet scene, J. C. Penney Co. and City Market and Grocery.<br>\nPlease see our &lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/people/mississippi-dept-of-archives-and-history/\">https://www.flickr.com/people/mississippi-dept-of-archives-and-history/</a>\"&gt;profile page&lt;/a&gt; for information on ordering.<br>\nScanned as tiff in 2009/09/25 by MDAH.<br>\n</p>\nCredit:  Courtesy of the Mississippi Department of Archives and History",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1937-01-01 00:00:00",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/mississippi-dept-of-archives-and-history/9126590697/\">https://www.flickr.com/photos/mississippi-dept-of-archives-and-history/9126590697/</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/77015680@N05\">Mississippi Department of Archives and History</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "At the time of upload, the image license was automatically confirmed using the Flickr <a href=\"https://en.wikipedia.org/wiki/API\" class=\"extiw\" title=\"en:API\">API</a>. For more information see <a href=\"//commons.wikimedia.org/wiki/User:F%C3%A6/Flickr_API_detail\" title=\"User:Fæ/Flickr API detail\">Flickr API detail</a>.",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "No restrictions",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "No known copyright restrictions",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://www.flickr.com/commons/usage/",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "58821166": {
+          "pageid": 58821166,
+          "ns": 6,
+          "title": "File:Varanasi 254b grocery (34405917535).jpg",
+          "index": 14,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 4426671,
+              "width": 4288,
+              "height": 3216,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Varanasi_254b_grocery_%2834405917535%29.jpg/1920px-Varanasi_254b_grocery_%2834405917535%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1152,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Varanasi_254b_grocery_%2834405917535%29.jpg/3840px-Varanasi_254b_grocery_%2834405917535%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Varanasi_254b_grocery_%2834405917535%29.jpg/1920px-Varanasi_254b_grocery_%2834405917535%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1152,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Varanasi_254b_grocery_%2834405917535%29.jpg/3840px-Varanasi_254b_grocery_%2834405917535%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Varanasi_254b_grocery_%2834405917535%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Varanasi_254b_grocery_(34405917535).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=58821166",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2017-05-12 17:53:53",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Varanasi 254b grocery (34405917535)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Flickr images reviewed by FlickreviewR|Streets in Varanasi|Market stalls in India|Files with coordinates missing SDC location of creation|India photographs taken on 2017-05-02|Streetscapes in Varanasi|People in Varanasi|Street vendors in Varanasi|Male street vendors in India|Files from juggadery Flickr stream",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "25.321098",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "83.022585",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<p>street scene with fruit sellers.\n</p><p>2015-11-15 \n</p>\n2015in05-4vrns_152",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2017-05-02 01:20",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/21817381@N04/34405917535/\">Varanasi 254b grocery</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/21817381@N04\">juggadery</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "64989940": {
+          "pageid": 64989940,
+          "ns": 6,
+          "title": "File:DSC-1570-carmel-market-tel-aviv-israel.jpg",
+          "index": 10,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2892201,
+              "width": 4719,
+              "height": 3415,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/DSC-1570-carmel-market-tel-aviv-israel.jpg/1920px-DSC-1570-carmel-market-tel-aviv-israel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1112,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/DSC-1570-carmel-market-tel-aviv-israel.jpg/3840px-DSC-1570-carmel-market-tel-aviv-israel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/DSC-1570-carmel-market-tel-aviv-israel.jpg/1920px-DSC-1570-carmel-market-tel-aviv-israel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1112,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/DSC-1570-carmel-market-tel-aviv-israel.jpg/3840px-DSC-1570-carmel-market-tel-aviv-israel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/DSC-1570-carmel-market-tel-aviv-israel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:DSC-1570-carmel-market-tel-aviv-israel.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=64989940",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2017-12-23 10:11:20",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "DSC-1570-carmel-market-tel-aviv-israel",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Taken with Nikon D810 and AF-S Nikkor 24-120mm f/4G ED VR|CC-Zero|People of Tel Aviv-Yafo|Self-published work|Israel photographs taken on 2017-12-22|Shops in Tel Aviv-Yafo|Interiors of grocery stores in Israel|Market stalls at Carmel Market|December 2017 in Tel Aviv-Yafo",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Interiors of grocery stores in Israel",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2017-12-22 12:29:15",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Rakoon\" title=\"User:Rakoon\">Rakoon</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Zero, Public Domain Dedication",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "65958085": {
+          "pageid": 65958085,
+          "ns": 6,
+          "title": "File:North Market - Grocery Store in North Minneapolis (38055208185).jpg",
+          "index": 6,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 15754775,
+              "width": 5937,
+              "height": 3963,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/North_Market_-_Grocery_Store_in_North_Minneapolis_%2838055208185%29.jpg/1920px-North_Market_-_Grocery_Store_in_North_Minneapolis_%2838055208185%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1025,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/North_Market_-_Grocery_Store_in_North_Minneapolis_%2838055208185%29.jpg/3840px-North_Market_-_Grocery_Store_in_North_Minneapolis_%2838055208185%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/North_Market_-_Grocery_Store_in_North_Minneapolis_%2838055208185%29.jpg/1920px-North_Market_-_Grocery_Store_in_North_Minneapolis_%2838055208185%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1025,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/North_Market_-_Grocery_Store_in_North_Minneapolis_%2838055208185%29.jpg/3840px-North_Market_-_Grocery_Store_in_North_Minneapolis_%2838055208185%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/North_Market_-_Grocery_Store_in_North_Minneapolis_%2838055208185%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:North_Market_-_Grocery_Store_in_North_Minneapolis_(38055208185).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=65958085",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2018-01-29 21:29:39",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "North Market - Grocery Store in North Minneapolis (38055208185)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Webber-Camden, Minneapolis|Night in Minneapolis|Shops in Minneapolis|December 2017 in Minneapolis|Supermarkets in Minnesota|Files with coordinates missing SDC location of creation|United States photographs taken on 2017-12-08|Flickr images reviewed by FlickreviewR 2|Supermarkets in the United States at night|Photographs by Tony Webster",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "45.035744",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-93.298512",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "The new North Market grocery store at 44th &amp; Humboldt Avenue North in the Webber-Camden neighborhood of North Minneapolis, a few days before the market opened.  Minneapolis, Minnesota.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "Taken on 8 December 2017, 19:58",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/diversey/38055208185/\">North Market - Grocery Store in North Minneapolis</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/87296837@N00\">Tony Webster</a> from Minneapolis, Minnesota, United States",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "65958097": {
+          "pageid": 65958097,
+          "ns": 6,
+          "title": "File:My North Market Grocery Store - Minneapolis (38905276372).jpg",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 15885859,
+              "width": 5900,
+              "height": 3939,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/My_North_Market_Grocery_Store_-_Minneapolis_%2838905276372%29.jpg/1920px-My_North_Market_Grocery_Store_-_Minneapolis_%2838905276372%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1025,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/My_North_Market_Grocery_Store_-_Minneapolis_%2838905276372%29.jpg/3840px-My_North_Market_Grocery_Store_-_Minneapolis_%2838905276372%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/My_North_Market_Grocery_Store_-_Minneapolis_%2838905276372%29.jpg/1920px-My_North_Market_Grocery_Store_-_Minneapolis_%2838905276372%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1025,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/My_North_Market_Grocery_Store_-_Minneapolis_%2838905276372%29.jpg/3840px-My_North_Market_Grocery_Store_-_Minneapolis_%2838905276372%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/My_North_Market_Grocery_Store_-_Minneapolis_%2838905276372%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:My_North_Market_Grocery_Store_-_Minneapolis_(38905276372).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=65958097",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2018-01-29 21:29:56",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "My North Market Grocery Store - Minneapolis (38905276372)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Webber-Camden, Minneapolis|Shops in Minneapolis|December 2017 in Minneapolis|Supermarkets in Minnesota|Skyglow in Minneapolis|Files with coordinates missing SDC location of creation|United States photographs taken on 2017-12-08|Flickr images reviewed by FlickreviewR 2|Supermarkets in the United States at night|Photographs by Tony Webster|Flickr images missing SDC published in",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "45.036027",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-93.298423",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "The new North Market grocery store at 44th &amp; Humboldt Avenue North in the Webber-Camden neighborhood of North Minneapolis, a few days before the market opened.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "Taken on 8 December 2017, 19:57",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/diversey/38905276372/\">My North Market Grocery Store - Minneapolis</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/87296837@N00\">Tony Webster</a> from Minneapolis, Minnesota, United States",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "76228486": {
+          "pageid": 76228486,
+          "ns": 6,
+          "title": "File:Grocery and Market on Labadie in the Greater Ville (8520322106).jpg",
+          "index": 7,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2530707,
+              "width": 4000,
+              "height": 3000,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Grocery_and_Market_on_Labadie_in_the_Greater_Ville_%288520322106%29.jpg/1920px-Grocery_and_Market_on_Labadie_in_the_Greater_Ville_%288520322106%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1152,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Grocery_and_Market_on_Labadie_in_the_Greater_Ville_%288520322106%29.jpg/3840px-Grocery_and_Market_on_Labadie_in_the_Greater_Ville_%288520322106%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Grocery_and_Market_on_Labadie_in_the_Greater_Ville_%288520322106%29.jpg/1920px-Grocery_and_Market_on_Labadie_in_the_Greater_Ville_%288520322106%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1152,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Grocery_and_Market_on_Labadie_in_the_Greater_Ville_%288520322106%29.jpg/3840px-Grocery_and_Market_on_Labadie_in_the_Greater_Ville_%288520322106%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Grocery_and_Market_on_Labadie_in_the_Greater_Ville_%288520322106%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Grocery_and_Market_on_Labadie_in_the_Greater_Ville_(8520322106).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=76228486",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2019-01-31 06:49:02",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Grocery and Market on Labadie in the Greater Ville (8520322106)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Greater Ville, St. Louis|Photographs by Paul Sableman|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "38.664938",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-90.229506",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "The Greater Ville is a neighborhood of St. Louis, Missouri",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2013-02-26 12:30",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/pasa/8520322106/\">Grocery and Market on Labadie in the Greater Ville</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/53301297@N00\">Paul Sableman</a> from St. Louis, MO",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "79823054": {
+          "pageid": 79823054,
+          "ns": 6,
+          "title": "File:Calgary Farmers Market (6142654721).jpg",
+          "index": 8,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3304309,
+              "width": 4320,
+              "height": 3240,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Calgary_Farmers_Market_%286142654721%29.jpg/1920px-Calgary_Farmers_Market_%286142654721%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1152,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Calgary_Farmers_Market_%286142654721%29.jpg/3840px-Calgary_Farmers_Market_%286142654721%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Calgary_Farmers_Market_%286142654721%29.jpg/1920px-Calgary_Farmers_Market_%286142654721%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1152,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Calgary_Farmers_Market_%286142654721%29.jpg/3840px-Calgary_Farmers_Market_%286142654721%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Calgary_Farmers_Market_%286142654721%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Calgary_Farmers_Market_(6142654721).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=79823054",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2019-06-20 17:21:02",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Calgary Farmers Market (6142654721)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Calgary Farmers' Market|Photographs by Mack Male|Flickr images reviewed by FlickreviewR 2|September 2011 in Calgary|Grocery store shelves in Canada",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Calgary Farmers Market",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2011-09-03 13:18",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"mw:ExtLink nofollow\" href=\"https://www.flickr.com/photos/mastermaq/6142654721/\" class=\"external text\">Calgary Farmers Market</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"mw:ExtLink nofollow\" href=\"https://www.flickr.com/people/24311648@N00\" class=\"external text\">Mack Male</a> from Edmonton, AB, Canada",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "81725698": {
+          "pageid": 81725698,
+          "ns": 6,
+          "title": "File:McCormack & Co grocery store and the North Park Market, Ballard neighborhood, Seattle, ca 1920 (SEATTLE 2948).jpg",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 74410,
+              "width": 768,
+              "height": 527,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/McCormack_%26_Co_grocery_store_and_the_North_Park_Market%2C_Ballard_neighborhood%2C_Seattle%2C_ca_1920_%28SEATTLE_2948%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 1536,
+              "thumbheight": 1054,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/8/8d/McCormack_%26_Co_grocery_store_and_the_North_Park_Market%2C_Ballard_neighborhood%2C_Seattle%2C_ca_1920_%28SEATTLE_2948%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1054
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/McCormack_%26_Co_grocery_store_and_the_North_Park_Market%2C_Ballard_neighborhood%2C_Seattle%2C_ca_1920_%28SEATTLE_2948%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:McCormack_%26_Co_grocery_store_and_the_North_Park_Market,_Ballard_neighborhood,_Seattle,_ca_1920_(SEATTLE_2948).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81725698",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2019-08-30 19:19:56",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "McCormack &amp; Co. grocery store and the North Park Market, Ballard neighborhood, Seattle, ca. 1920",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "McCormack (surname)|Grocery stores in Washington (state)|PD US expired|Images from the Seattle Photographs to check|Template Unknown (author)|1920 in Seattle|Black and white photographs of trucks|Unidentified historical trucks|Automobiles in Seattle|Unidentified trucks in the United States|Images from the Seattle Photographs Collection",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nUnknown author<span style=\"display: none;\">Unknown author</span></div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<p>Handwritten on verso: Ballard, Wash. Interior and exterior of store.\nFiled in Seattle--Neighborhoods--Ballard</p>\n<ul><li>Subjects (LCTGM): Grocery stores--Washington (State)--Seattle; McCormack &amp; Co.--Buildings--Washington (State)--Seattle; North Park Market (Seattle, Wash.)--Buildings--Washington (State)--Seattle; People--Washington (State)--Seattle; Trucks--Washington (State)--Seattle; Automobiles--Washington (State)--Seattle</li>\n<li>Subjects (LCSH): Ballard (Seattle, Wash.)</li></ul>\n<hr>\n<ul class=\"gallery mw-gallery-traditional\">\n\t\t<li class=\"gallerybox\" style=\"width: 155px\">\n\t\t\t<div class=\"thumb\" style=\"width: 150px; height: 150px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:McCormack_%26_Co_grocery_store_interior,_Ballard_neighborhood,_Seattle,_ca_1920_(SEATTLE_2952).jpg\" class=\"mw-file-description\" title=\"Interior of McCormack &amp; Co grocery store.\"><img alt=\"Interior of McCormack &amp; Co grocery store.\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/McCormack_%26_Co_grocery_store_interior%2C_Ballard_neighborhood%2C_Seattle%2C_ca_1920_%28SEATTLE_2952%29.jpg/120px-McCormack_%26_Co_grocery_store_interior%2C_Ballard_neighborhood%2C_Seattle%2C_ca_1920_%28SEATTLE_2952%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"120\" height=\"82\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/McCormack_%26_Co_grocery_store_interior%2C_Ballard_neighborhood%2C_Seattle%2C_ca_1920_%28SEATTLE_2952%29.jpg/250px-McCormack_%26_Co_grocery_store_interior%2C_Ballard_neighborhood%2C_Seattle%2C_ca_1920_%28SEATTLE_2952%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"768\" data-file-height=\"526\"></a></span></div>\n\t\t\t<div class=\"gallerytext\">Interior of McCormack &amp; Co grocery store.</div>\n\t\t</li>\n</ul>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "circa 1920<div style=\"display: none;\">date QS:P571,+1920-00-00T00:00:00Z/9,P1480,Q5727902</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://content.lib.washington.edu/seattleweb/index.html\">Seattle Photographs</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in the <a href=\"https://en.wikipedia.org/wiki/United_States\" class=\"extiw\" title=\"en:United States\">United States</a> because it was <a href=\"//commons.wikimedia.org/wiki/Commons:Publication\" title=\"Commons:Publication\">published</a> (or registered with the <a href=\"https://en.wikipedia.org/wiki/United_States_Copyright_Office\" class=\"extiw\" title=\"en:United States Copyright Office\">U.S. Copyright Office</a>) before January 1, 1931.",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "96207834": {
+          "pageid": 96207834,
+          "ns": 6,
+          "title": "File:Grocery store in Nome, ca 1900 (MOHAI 7261).jpg",
+          "index": 18,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 54652,
+              "width": 700,
+              "height": 535,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Grocery_store_in_Nome%2C_ca_1900_%28MOHAI_7261%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 1536,
+              "thumbheight": 1174,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Grocery_store_in_Nome%2C_ca_1900_%28MOHAI_7261%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1174
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Grocery_store_in_Nome%2C_ca_1900_%28MOHAI_7261%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Grocery_store_in_Nome,_ca_1900_(MOHAI_7261).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=96207834",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-11-17 06:41:49",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Grocery store in Nome, ca. 1900",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Nome Gold Rush|Images from the Museum of History and Industry|Grocery stores in Alaska|PD US expired|Template Unknown (author)|Black and white photographs of Alaska|Business districts in Alaska|Men with dogs|Buildings in Nome, Alaska",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nUnknown author<span style=\"display: none;\">Unknown author</span></div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "In November 1899, Nome businesses included twelve general stores, three fruit and cigar stores, two meat markets, and a candy store. The population was growing as people in Dawson and elsewhere heard about the Nome gold strikes and headed west to seek their fortunes.\n<p>This summertime photo, taken around 1900, shows a Nome grocery store. Its stock includes fruits, vegetables, canned goods, gasoline, and quicksilver. Quicksilver (mercury) is used in the gold extraction process.\n</p>\n<ul><li>Subjects (LCTGM): Business districts; Dogs; Gold rushes; Grocery stores</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "circa 1900<div style=\"display: none;\">date QS:P571,+1900-00-00T00:00:00Z/9,P1480,Q5727902</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://digitalcollections.lib.washington.edu/digital/collection/imlsmohai/search\">Museum of History and Industry</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in the <a href=\"https://en.wikipedia.org/wiki/United_States\" class=\"extiw\" title=\"en:United States\">United States</a> because it was <a href=\"//commons.wikimedia.org/wiki/Commons:Publication\" title=\"Commons:Publication\">published</a> (or registered with the <a href=\"https://en.wikipedia.org/wiki/United_States_Copyright_Office\" class=\"extiw\" title=\"en:United States Copyright Office\">U.S. Copyright Office</a>) before January 1, 1931.",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "108149564": {
+          "pageid": 108149564,
+          "ns": 6,
+          "title": "File:Grocery haul from a mini market. Lisbon, Portugal (51332105448).jpg",
+          "index": 12,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2506150,
+              "width": 3024,
+              "height": 4032,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Grocery_haul_from_a_mini_market._Lisbon%2C_Portugal_%2851332105448%29.jpg/1920px-Grocery_haul_from_a_mini_market._Lisbon%2C_Portugal_%2851332105448%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 2048,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/8/80/Grocery_haul_from_a_mini_market._Lisbon%2C_Portugal_%2851332105448%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Grocery_haul_from_a_mini_market._Lisbon%2C_Portugal_%2851332105448%29.jpg/1920px-Grocery_haul_from_a_mini_market._Lisbon%2C_Portugal_%2851332105448%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 2048,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/8/80/Grocery_haul_from_a_mini_market._Lisbon%2C_Portugal_%2851332105448%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Grocery_haul_from_a_mini_market._Lisbon%2C_Portugal_%2851332105448%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Grocery_haul_from_a_mini_market._Lisbon,_Portugal_(51332105448).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=108149564",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-08-04 17:33:51",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Grocery haul from a mini market. Lisbon, Portugal (51332105448)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Shops in Lisbon (district)|Photographs by Sharon Hahn Darlin|Flickr images reviewed by FlickreviewR 2|Unidentified locations in Lisboa e Vale do Tejo",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Grocery haul from a mini market. Lisbon, Portugal",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2021-07-24 14:22",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/sharonhahndarlin/51332105448/\">Grocery haul from a mini market. Lisbon, Portugal</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/41980486@N07\">Sharon Hahn Darlin</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "109389502": {
+          "pageid": 109389502,
+          "ns": 6,
+          "title": "File:Slone's Byward Market Grocery 1941 (15837013459).jpg",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1357716,
+              "width": 1576,
+              "height": 1223,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Slone%27s_Byward_Market_Grocery_1941_%2815837013459%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 1536,
+              "thumbheight": 1192,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/d/db/Slone%27s_Byward_Market_Grocery_1941_%2815837013459%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1192
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Slone%27s_Byward_Market_Grocery_1941_%2815837013459%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Slone%27s_Byward_Market_Grocery_1941_(15837013459).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=109389502",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-08-28 02:40:06",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Slone's Byward Market Grocery 1941 (15837013459)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Ottawa|Flickr images reviewed by FlickreviewR 2|Canada files uploaded by Orizan|Photographs by Ross Dunn",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Ottawa ON",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2014-12-14 17:36",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/rdb466/15837013459/\">Slone's Byward Market Grocery 1941</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/81556146@N00\">Ross Dunn</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "115908666": {
+          "pageid": 115908666,
+          "ns": 6,
+          "title": "File:Hamilton Farmers Market - Mexican Products (50340131991).jpg",
+          "index": 16,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 22025344,
+              "width": 6000,
+              "height": 4000,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Hamilton_Farmers_Market_-_Mexican_Products_%2850340131991%29.jpg/1920px-Hamilton_Farmers_Market_-_Mexican_Products_%2850340131991%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1024,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Hamilton_Farmers_Market_-_Mexican_Products_%2850340131991%29.jpg/3840px-Hamilton_Farmers_Market_-_Mexican_Products_%2850340131991%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Hamilton_Farmers_Market_-_Mexican_Products_%2850340131991%29.jpg/1920px-Hamilton_Farmers_Market_-_Mexican_Products_%2850340131991%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1024,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Hamilton_Farmers_Market_-_Mexican_Products_%2850340131991%29.jpg/3840px-Hamilton_Farmers_Market_-_Mexican_Products_%2850340131991%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Hamilton_Farmers_Market_-_Mexican_Products_%2850340131991%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hamilton_Farmers_Market_-_Mexican_Products_(50340131991).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=115908666",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2022-03-08 16:48:47",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Hamilton Farmers Market - Mexican Products (50340131991)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Tortilla chips|Hamilton Farmer's Market|Tortillas|Tostadas (tortilla)|Flickr images reviewed by FlickreviewR 2|August 2020 in Hamilton, Ontario|Grocery store shelves in Canada|Photographs by Joey Coleman",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Photo taken as the Market continues to expand selection in this category.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2020-08-06 13:40",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/joeycoleman_ca/50340131991/\">Hamilton Farmers Market - Mexican Products</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/70615702@N00\">Joey Coleman</a> from Hamilton, Canada",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "128789574": {
+          "pageid": 128789574,
+          "ns": 6,
+          "title": "File:Grocery Van (52553593990).jpg",
+          "index": 13,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 7049923,
+              "width": 5864,
+              "height": 3909,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Grocery_Van_%2852553593990%29.jpg/1920px-Grocery_Van_%2852553593990%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1024,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Grocery_Van_%2852553593990%29.jpg/3840px-Grocery_Van_%2852553593990%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Grocery_Van_%2852553593990%29.jpg/1920px-Grocery_Van_%2852553593990%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1024,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Grocery_Van_%2852553593990%29.jpg/3840px-Grocery_Van_%2852553593990%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Grocery_Van_%2852553593990%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Grocery_Van_(52553593990).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=128789574",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-02-17 01:29:32",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Grocery Van (52553593990)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "CC-Zero|Markets in Bangkok|November 2022 Thailand photographs|Vegetable markets in Thailand|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Pickup trucks of Thailand|Toyota HiLux pickups|Toyota HiLux (AN120/AN130, 2015)|Photographs by Mussi Katz",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "13.736220",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "100.558087",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "A Toyota HiLux pickup displaying vegetables for sale in a street of Bangkok, Thailand.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2022-11-27 12:26",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/mussikatz/52553593990/\">Grocery Van</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/52775988@N00\">Mussi Katz</a> from Israel",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Zero, Public Domain Dedication",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "133266515": {
+          "pageid": 133266515,
+          "ns": 6,
+          "title": "File:People entering a grocery store in Länsi-Pasila, Helsinki, Finland, 2022 May.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 15193450,
+              "width": 6000,
+              "height": 4000,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/People_entering_a_grocery_store_in_L%C3%A4nsi-Pasila%2C_Helsinki%2C_Finland%2C_2022_May.jpg/1920px-People_entering_a_grocery_store_in_L%C3%A4nsi-Pasila%2C_Helsinki%2C_Finland%2C_2022_May.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1024,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/People_entering_a_grocery_store_in_L%C3%A4nsi-Pasila%2C_Helsinki%2C_Finland%2C_2022_May.jpg/3840px-People_entering_a_grocery_store_in_L%C3%A4nsi-Pasila%2C_Helsinki%2C_Finland%2C_2022_May.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/People_entering_a_grocery_store_in_L%C3%A4nsi-Pasila%2C_Helsinki%2C_Finland%2C_2022_May.jpg/1920px-People_entering_a_grocery_store_in_L%C3%A4nsi-Pasila%2C_Helsinki%2C_Finland%2C_2022_May.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1024,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/People_entering_a_grocery_store_in_L%C3%A4nsi-Pasila%2C_Helsinki%2C_Finland%2C_2022_May.jpg/3840px-People_entering_a_grocery_store_in_L%C3%A4nsi-Pasila%2C_Helsinki%2C_Finland%2C_2022_May.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/People_entering_a_grocery_store_in_L%C3%A4nsi-Pasila%2C_Helsinki%2C_Finland%2C_2022_May.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:People_entering_a_grocery_store_in_L%C3%A4nsi-Pasila,_Helsinki,_Finland,_2022_May.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=133266515",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-06-18 20:47:08",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "People entering a grocery store in Länsi-Pasila, Helsinki, Finland, 2022 May",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Taken with Canon EOS 800D|Shops in Helsinki|Taken with Canon EF 70-200mm F2.8L USM|Self-published work|Entering|Finland photographs taken on 2022-05-06|May 2022 in Helsinki|Doors in Helsinki|Shop entrances|Walking people in Helsinki|K-Market in Helsinki|Rahakamarinkatu",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "K-Market Rahakamarinkatu <a href=\"//commons.wikimedia.org/wiki/Category:L%C3%A4nsi-Pasila\" title=\"Category:Länsi-Pasila\">Länsi-Pasilassa</a>.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2022-05-06 17:07:20",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Coen\" class=\"mw-redirect\" title=\"User:Coen\">Coen</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "144217063": {
+          "pageid": 144217063,
+          "ns": 6,
+          "title": "File:Mahdia, Tunisia January 2024 - Carrefour Market refrigerator case.jpg",
+          "index": 19,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3344691,
+              "width": 3957,
+              "height": 2871,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Mahdia%2C_Tunisia_January_2024_-_Carrefour_Market_refrigerator_case.jpg/1920px-Mahdia%2C_Tunisia_January_2024_-_Carrefour_Market_refrigerator_case.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1114,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Mahdia%2C_Tunisia_January_2024_-_Carrefour_Market_refrigerator_case.jpg/3840px-Mahdia%2C_Tunisia_January_2024_-_Carrefour_Market_refrigerator_case.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Mahdia%2C_Tunisia_January_2024_-_Carrefour_Market_refrigerator_case.jpg/1920px-Mahdia%2C_Tunisia_January_2024_-_Carrefour_Market_refrigerator_case.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1114,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Mahdia%2C_Tunisia_January_2024_-_Carrefour_Market_refrigerator_case.jpg/3840px-Mahdia%2C_Tunisia_January_2024_-_Carrefour_Market_refrigerator_case.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Mahdia%2C_Tunisia_January_2024_-_Carrefour_Market_refrigerator_case.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mahdia,_Tunisia_January_2024_-_Carrefour_Market_refrigerator_case.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=144217063",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-01-19 00:54:19",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Mahdia, Tunisia January 2024 - Carrefour Market refrigerator case",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Photographs by Sharon Hahn Darlin|January 2024 Tunisia photographs|Refrigerators in supermarkets|Shops photographed in 2024|Grocery stores in Tunisia|Flickr images reviewed by FlickreviewR 2|2024 in Mahdia|Shop interiors in 2024|Carrefour Market in Tunisia",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Carrefour Market",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2024-01-17 09:26:35",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/sharonhahndarlin/53471708165/\">https://www.flickr.com/photos/sharonhahndarlin/53471708165/</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Sharon Hahn Darlin",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "175230082": {
+          "pageid": 175230082,
+          "ns": 6,
+          "title": "File:S-market Vaasanpuistikko, Vaasa.jpg",
+          "index": 9,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 979429,
+              "width": 2391,
+              "height": 1793,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/S-market_Vaasanpuistikko%2C_Vaasa.jpg/1920px-S-market_Vaasanpuistikko%2C_Vaasa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1536,
+              "thumbheight": 1152,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/8/81/S-market_Vaasanpuistikko%2C_Vaasa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/S-market_Vaasanpuistikko%2C_Vaasa.jpg/1920px-S-market_Vaasanpuistikko%2C_Vaasa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1536,
+                "height": 1152,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/8/81/S-market_Vaasanpuistikko%2C_Vaasa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/S-market_Vaasanpuistikko%2C_Vaasa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:S-market_Vaasanpuistikko,_Vaasa.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=175230082",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2025-09-18 17:13:11",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "S-market Vaasanpuistikko, Vaasa",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "S-market|Vaasanpuistikko|Flickr images reviewed by FlickreviewR 2|Apartment buildings in Vaasa|1st District, Vaasa|Grocery stores in Vaasa|Photographs by Jani Hakomäki",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Vaasanpuistikon S-market. Aiemmin samoissa tiloissa toimi Halpa-Halli.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2025-07-16 15:30:50",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/194599776@N04/54669078790/\">https://www.flickr.com/photos/194599776@N04/54669078790/</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Jani Hakomäki",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

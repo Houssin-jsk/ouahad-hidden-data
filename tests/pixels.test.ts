@@ -2,6 +2,7 @@ import { test } from "node:test";
 import assert from "node:assert/strict";
 import { analyzePixels, relativeLuminance } from "../src/analysis/pixels";
 import { validateFile, MAX_BYTES } from "../src/analysis/files";
+import { readFile } from "node:fs/promises";
 const close = (a: number, b: number) =>
   assert.ok(Math.abs(a - b) < 1e-8, `${a} != ${b}`);
 test("solid red has exact RGB, palette, luminance, and one occupied bin", () => {
@@ -70,22 +71,40 @@ test("known 75/25 red-blue distribution is recovered deterministically", () => {
   assert.deepEqual(analyzePixels(p), r);
 });
 test("file validation accepts real signatures, rejects oversized, empty and spoofed files", async () => {
-  const png = new Uint8Array([137, 80, 78, 71, 13, 10, 26, 10]);
+  const png = await readFile(
+    new URL("./fixtures/phase01/red.png", import.meta.url),
+  );
   assert.equal(
     await validateFile(new File([png], "test.png", { type: "image/png" })),
     "PNG",
   );
   assert.equal(
     await validateFile(
-      new File([new Uint8Array([255, 216, 255])], "test.jpg", {
-        type: "image/jpeg",
-      }),
+      new File(
+        [
+          await readFile(
+            new URL("./fixtures/phase01/quadrants.jpg", import.meta.url),
+          ),
+        ],
+        "test.jpg",
+        {
+          type: "image/jpeg",
+        },
+      ),
     ),
     "JPEG",
   );
   assert.equal(
     await validateFile(
-      new File(["RIFF0000WEBP"], "test.webp", { type: "image/webp" }),
+      new File(
+        [
+          await readFile(
+            new URL("./fixtures/phase01/red.webp", import.meta.url),
+          ),
+        ],
+        "test.webp",
+        { type: "image/webp" },
+      ),
     ),
     "WebP",
   );
@@ -104,6 +123,6 @@ test("file validation accepts real signatures, rejects oversized, empty and spoo
         type: "image/png",
       }),
     ),
-    /20 MB/,
+    /20 MiB/,
   );
 });
