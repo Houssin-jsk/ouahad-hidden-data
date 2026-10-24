@@ -1,0 +1,203 @@
+{
+  "date": "2026-10-24",
+  "baseCommit": "465a4510cfb34ff2151eb33fe3dc23c008adeb46",
+  "status": "READY WITH BLOCKERS",
+  "deploymentPerformed": false,
+  "pushPerformed": false,
+  "commitsCreated": false,
+  "thisPassFiles": [
+    ".vercelignore",
+    "README.md",
+    "next.config.ts",
+    "docs/loading-presentation.md",
+    "docs/phase-03/PHASE-03-ARCHITECTURE.md",
+    "scripts/cloud-readiness.ts",
+    "src/app/globals.css",
+    "src/cloud-vision/contract.ts",
+    "src/cloud-vision/server/admin.ts",
+    "src/cloud-vision/server/handler.ts",
+    "src/cloud-vision/server/ledger.ts",
+    "src/cloud-vision/server/router.ts",
+    "src/components/admin-ai.tsx",
+    "src/components/cloud-observations.tsx",
+    "src/components/image-lab.tsx",
+    "src/components/results.tsx",
+    "tests/browser/cloud-discovery.spec.ts",
+    "tests/browser/cloud-vision.spec.ts",
+    "tests/browser/readiness.spec.ts",
+    "tests/browser/theme.spec.ts",
+    "tests/central-ai.test.ts",
+    "tests/cloud-vision.test.ts",
+    "docs/RELEASE-READINESS.md",
+    "docs/release-readiness/verification.json",
+    "docs/release-readiness/files.json",
+    "docs/release-readiness/evidence/*"
+  ],
+  "checks": {
+    "unitIntegration": {
+      "passed": 165,
+      "failed": 0,
+      "skipped": 0
+    },
+    "browser": {
+      "startTime": "2026-10-24T20:23:02.360Z",
+      "duration": 126016.34199999999,
+      "expected": 84,
+      "skipped": 0,
+      "unexpected": 0,
+      "flaky": 0
+    },
+    "strictTypecheck": "pass",
+    "strictProductionTypecheck": "pass",
+    "eslint": "pass",
+    "productionBuild": "pass",
+    "filteredCandidateBuild": "pass",
+    "releaseGraphFiles": 57,
+    "releaseOutputTraceFiles": 132,
+    "dependencyAudit": {
+      "vulnerabilities": 0
+    },
+    "secretScan": {
+      "historyBlobs": 710,
+      "historyBlobsSkippedOver10MB": 1,
+      "gitCandidateFiles": 685,
+      "workingFiles": 999,
+      "findings": [],
+      "scope": "Known configured values plus common Gemini/NVIDIA/OpenAI key patterns; not a forensic certification of all past credentials."
+    }
+  },
+  "accessibility": [
+    {
+      "state": "landing-320-axe",
+      "violations": 0,
+      "passes": 26,
+      "incompleteRuleIds": [
+        "color-contrast"
+      ]
+    },
+    {
+      "state": "Overview-320-axe",
+      "violations": 0,
+      "passes": 33,
+      "incompleteRuleIds": []
+    },
+    {
+      "state": "Color-320-axe",
+      "violations": 0,
+      "passes": 32,
+      "incompleteRuleIds": []
+    },
+    {
+      "state": "Light-320-axe",
+      "violations": 0,
+      "passes": 32,
+      "incompleteRuleIds": []
+    },
+    {
+      "state": "Metadata-320-axe",
+      "violations": 0,
+      "passes": 29,
+      "incompleteRuleIds": []
+    },
+    {
+      "state": "landing-1280-axe",
+      "violations": 0,
+      "passes": 26,
+      "incompleteRuleIds": [
+        "color-contrast"
+      ]
+    },
+    {
+      "state": "Overview-1280-axe",
+      "violations": 0,
+      "passes": 33,
+      "incompleteRuleIds": []
+    },
+    {
+      "state": "Color-1280-axe",
+      "violations": 0,
+      "passes": 32,
+      "incompleteRuleIds": []
+    },
+    {
+      "state": "Light-1280-axe",
+      "violations": 0,
+      "passes": 32,
+      "incompleteRuleIds": []
+    },
+    {
+      "state": "Metadata-1280-axe",
+      "violations": 0,
+      "passes": 29,
+      "incompleteRuleIds": []
+    }
+  ],
+  "performance": [
+    {
+      "viewport": "performance-320",
+      "analysisToVisibleMs": 1075,
+      "mainPageScriptEncodedBytes": 160326
+    },
+    {
+      "viewport": "performance-1280",
+      "analysisToVisibleMs": 1617,
+      "mainPageScriptEncodedBytes": 160326
+    }
+  ],
+  "performanceLimit": "Single observations in parallel Chrome test run; not a controlled benchmark or physical-device guarantee.",
+  "sourceHashes": {
+    ".vercelignore": "793698a35a451ccb7921399ffbefc7912b21cbd5fd4f4ee9ae20fa08c0acc017",
+    "README.md": "2856bed6f6f644ebc1b167ad0e864af51bdaee43e10e3e0bd5efadb18cbf0c63",
+    "next.config.ts": "4e2897bdd5c15d40d297229ccdd1b21fe84cfe6eee881db6fe4c22c8417668ac",
+    "docs/loading-presentation.md": "de1413d5d7bc444c5bd6cf58c817ad45545b8548251adfbb761b510f6f15b567",
+    "docs/phase-03/PHASE-03-ARCHITECTURE.md": "f4d687bb061c4002fd2684889359ed0cd3062dc31c8c10f66e9fecae2be3e491",
+    "scripts/cloud-readiness.ts": "b8699374625d783484c68c3fc95a5d93344066ffe03f827ff04db376c1559bf7",
+    "src/app/globals.css": "90fc2c10be0f824e593b8fc03054052e2ea3c22071fcceaed963c8a564c1409c",
+    "src/cloud-vision/contract.ts": "40ab0851dc59de6a5669a704410e2108e19115f5523eda33dd0739b48b57897a",
+    "src/cloud-vision/server/admin.ts": "b7014eb32378198307ef2c368a1a9c3d46196f5005939388ae4f94ecacce8f20",
+    "src/cloud-vision/server/handler.ts": "3c601d148a8150ad0ab682d6c90cfe04873e00151d573b193fceffa2936e56ed",
+    "src/cloud-vision/server/ledger.ts": "d3894be78fcefa8bd8e77cd2355a9ec58aff11d415cc1c3436a5062136fa3b9f",
+    "src/cloud-vision/server/router.ts": "da7345105ff0c569b9719d33b2a5d3d71b41ca11b0db34a0b43b1b81ae87a4f9",
+    "src/components/admin-ai.tsx": "c503929bdc54baac404b1c6e340895e3bb63e71f45db3e756c633fd29fb835c1",
+    "src/components/cloud-observations.tsx": "306cb0b95bf17d16a432e6746596c51afa68e8c227fb303ff2572cbd0e2ab0d5",
+    "src/components/image-lab.tsx": "f84505fa68f29e6728597d2e196f4d5e11ffee25c9596138737446ad88a257c3",
+    "src/components/results.tsx": "039fea585df93c61a65e80d74f8c72745aa63bcaea175d75ca364178e4946c42",
+    "tests/browser/cloud-discovery.spec.ts": "f5eebdb9b8c3d56c8cb6a89d7c9a89d07dad8267eff8495e242a9c5504f4c306",
+    "tests/browser/cloud-vision.spec.ts": "e2354f422fde21c0b81e6925c5605715beb48305eec846ec77a64b574590c2b3",
+    "tests/browser/readiness.spec.ts": "0d2d8b709944bf553e26d8e271454f5b52024aa1fb05f4d4dc6a9e41d41abb72",
+    "tests/browser/theme.spec.ts": "e0521f12bfadbe4c31849aa620312aa1a2a4b260f6cabc8cf804c5fea99da2fe",
+    "tests/central-ai.test.ts": "f5b6ac9d7795a5281c927803f2d0df1ab2e40ec5263a1c300c742b97ca1d429e",
+    "tests/cloud-vision.test.ts": "fa9ebe0c418b319f75696fa473f8907bf4a36df21b2dfea9188400bcaaff84c8"
+  },
+  "blockers": [
+    "Production custom-domain HTTPS refuses connections; public DNS A=198.54.117.242; no DNS changes authorized or performed.",
+    "Vercel environment metadata inspection denied with team-scope 403. Local names are present, but deployed availability not independently established.",
+    "AI remains deliberately stopped; local D1/Gemini free attestations expired and release/invitation flags absent. Activation requires separate owner authorization and review."
+  ],
+  "productionD1Evidence": "evidence/production-safety.json",
+  "safety": {
+    "inferenceRequests": 0,
+    "productionMutations": 0,
+    "uncertainReservationRefunds": 0,
+    "emergencyStop": true,
+    "enabledModels": 0,
+    "activeOwnerSessions": 0,
+    "activeJobs": 0,
+    "uncertainReservations": 1,
+    "uncertainChargedTokens": 4096
+  },
+  "browserProductionAvailability": {
+    "status": "failed",
+    "connectionRefused": true
+  },
+  "dnsEvidence": {
+    "source": "Google public DNS JSON resolver",
+    "name": "hidden-data.ouahad.space",
+    "type": "A",
+    "answer": "198.54.117.242"
+  },
+  "candidate": {
+    "files": 115,
+    "noEnvironmentFiles": true
+  }
+}

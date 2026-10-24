@@ -1,29 +1,29 @@
 import type { AnalysisStage } from "../analysis/discovery-types";
-export const MINIMUM_LOADING_MS = 6000;
+export const MINIMUM_LOADING_MS = 0;
 export const PRESENTATION_REFRESH_MS = 80;
 export const PRESENTATION_STAGES = [
   {
-    label: "Reading image",
+    label: "Opening image",
     offset: 0,
     helper: "The image is decoded locally. Your original stays private.",
   },
   {
-    label: "Sampling native pixels",
+    label: "Reading colors",
     offset: 0.15,
     helper: "Original-resolution pixels are sampled without blending colors.",
   },
   {
-    label: "Extracting palette",
+    label: "Grouping palette",
     offset: 0.31,
     helper: "Color families use actual pixel values, area and transparency.",
   },
   {
-    label: "Measuring luminance",
+    label: "Measuring light",
     offset: 0.48,
     helper: "Luminance and tonal spread use the validated sRGB calculations.",
   },
   {
-    label: "Building detail map",
+    label: "Finding edges & texture",
     offset: 0.66,
     helper:
       "Sobel gradients reveal spatial detail, not an image-quality score.",

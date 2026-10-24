@@ -1,3 +1,9 @@
+import {
+  holdAnalysis,
+  waitHeld,
+  setAnalysisHold,
+} from "./helpers/held-analysis";
+import { openDetails } from "./helpers/disclosures";
 import { test, expect, type Page } from "@playwright/test";
 import { readFile } from "node:fs/promises";
 import path from "node:path";
@@ -47,6 +53,7 @@ async function analyze(page: Page) {
     .getByRole("button", { name: "Analyze image", exact: true })
     .click();
   await expect(page.getByTestId("image-dna")).toBeVisible();
+  await openDetails(page, "Technical details");
 }
 async function probe(page: Page) {
   await page.addInitScript(() => {
@@ -87,6 +94,8 @@ for (const width of [320, 768, 1440]) {
       "Metadata",
     ]);
     await page.getByRole("tab", { name: "Light", exact: true }).click();
+    await openDetails(page, "Light distribution details");
+    await openDetails(page, "Exact light measurements");
     const tone = page.getByTestId("tonal-insight");
     await expect(tone).toContainText("weighted median luminance is 0.212");
     await expect(tone).toContainText("0.004 to 0.896");
@@ -104,15 +113,21 @@ for (const width of [320, 768, 1440]) {
     await page.keyboard.press("Enter");
     await expect(tone.locator("details")).not.toHaveAttribute("open", "");
     await page.getByRole("tab", { name: "Color", exact: true }).click();
+    await openDetails(page, "Color distribution details");
     const color = page.getByTestId("color-insight");
     await expect(color).toContainText("Mean HSV saturation is 0.000; 100.0%");
     await expect(color).toContainText("not perceptual colorfulness");
     await color.getByText("Method and evidence", { exact: true }).click();
-    await expect(color).toContainText("version 1.0.0");
+    await expect(color).toContainText(
+      "Shares are measured proportions, never confidence percentages.",
+    );
+    await openDetails(page, "Explore light & detail");
     await page.getByRole("button", { name: "Detail", exact: true }).click();
+    await openDetails(page, "Map technical details");
     await expect(page.locator(".map-description")).toContainText(
       "Normalized separately per image",
     );
+    await openDetails(page, "Map technical details");
     await expect(page.locator(".map-description")).toContainText(
       "do not establish sharp focus, retouching, authenticity or image quality",
     );
@@ -140,12 +155,15 @@ for (const width of [320, 768, 1440]) {
       .boundingBox();
     const overlay = await page.locator(".comparison-map").boundingBox();
     expect(overlay).toEqual(original);
+    await openDetails(page, "Explore light & detail");
     await page.getByRole("button", { name: "Detail", exact: true }).click();
     await page.screenshot({
       path: `test-results/phase02-color-${width}.png`,
       fullPage: true,
     });
     await page.getByRole("tab", { name: "Light", exact: true }).click();
+    await openDetails(page, "Light distribution details");
+    await openDetails(page, "Exact light measurements");
     await tone.getByText("Method and evidence", { exact: true }).click();
     expect(
       await page.evaluate(
@@ -163,6 +181,7 @@ test("real alpha-weighted measurements, cancellation, replacement and local-only
   context,
 }) => {
   await probe(page);
+  await holdAnalysis(page, false);
   const requests: { url: string; method: string; body: boolean }[] = [],
     errors: string[] = [];
   context.on("request", (r) =>
@@ -173,6 +192,7 @@ test("real alpha-weighted measurements, cancellation, replacement and local-only
   await pattern(page, "alpha", 100, 50);
   await analyze(page);
   await page.getByRole("tab", { name: "Color", exact: true }).click();
+  await openDetails(page, "Color distribution details");
   const color = page.getByTestId("color-insight");
   await expect(color).toContainText("Mean HSV saturation is 0.750; 25.0%");
   await expect(color).toContainText("75.0% in the strong-saturation band");
@@ -190,13 +210,17 @@ test("real alpha-weighted measurements, cancellation, replacement and local-only
       12,
     );
   await pattern(page, "uniform");
+  await setAnalysisHold(page, true);
   await page
     .getByRole("button", { name: "Analyze image", exact: true })
     .click();
+  await waitHeld(page);
   await page.getByRole("button", { name: "Cancel analysis" }).click();
+  await setAnalysisHold(page, false);
   await expect(page.getByTestId("color-insight")).toHaveCount(0);
   await analyze(page);
   await page.getByRole("tab", { name: "Color", exact: true }).click();
+  await openDetails(page, "Color distribution details");
   await expect(page.getByTestId("color-insight")).toContainText(
     "Mean HSV saturation is 0.000",
   );
@@ -282,11 +306,13 @@ test("sampled estimates and real worker wall time are separate from presentation
     });
     expect(result.analytics.tonal.status).toBe("available");
     await page.getByRole("tab", { name: "Light", exact: true }).click();
+    await openDetails(page, "Light distribution details");
+    await openDetails(page, "Exact light measurements");
     await expect(page.getByTestId("tonal-insight")).toContainText(
       name === "large.png" ? "Sample-based estimates" : "All decoded pixels",
     );
     expect(result.workerWallMs).toBeLessThan(timings.at(-1)!.visibleMs);
-    expect(timings.at(-1)!.visibleMs).toBeGreaterThanOrEqual(6000);
+    expect(timings.at(-1)!.visibleMs - result.workerWallMs).toBeLessThan(5500);
     if (name === "large.png") {
       await page
         .getByTestId("tonal-insight")
@@ -317,7 +343,7 @@ test("sampled estimates and real worker wall time are separate from presentation
         totalMemoryBytes: os.totalmem(),
         viewport: page.viewportSize(),
         conditions:
-          "Headless unthrottled desktop Chrome, localhost production, 2 test workers. Worker wall time includes startup, sampling, all calculations, metadata, maps and messaging; not isolated insights CPU time. Visible time includes 6000ms presentation. Initial JS bytes are same-origin Resource Timing encodedBodySize, before selection; not aggregate build bytes.",
+          "Headless unthrottled desktop Chrome, localhost production, 2 test workers. Worker wall time includes startup, sampling, all calculations, metadata, maps and messaging; not isolated insights CPU time. Visible time has no configured presentation minimum. Initial JS bytes are same-origin Resource Timing encodedBodySize, before selection; not aggregate build bytes.",
         timings,
         initialJs,
       },
@@ -344,6 +370,8 @@ test("a legacy worker result without analytics retains measurements and exposes 
   await pattern(page, "uniform");
   await analyze(page);
   await page.getByRole("tab", { name: "Light", exact: true }).click();
+  await openDetails(page, "Light distribution details");
+  await openDetails(page, "Exact light measurements");
   await expect(page.locator(".light-stats")).toContainText("0.216");
   await expect(page.getByTestId("tonal-insight")).toContainText(
     "Distribution insights were not produced",

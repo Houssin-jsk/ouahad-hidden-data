@@ -19,7 +19,7 @@ async function textContrast(page: Page, selector: string) {
         return [];
       const style = getComputedStyle(element);
       let ancestor: Element | null = element;
-      let background = "rgb(217, 201, 180)";
+      let background = "rgb(21, 17, 15)";
       while (ancestor) {
         const value = getComputedStyle(ancestor).backgroundColor;
         if (value !== "rgba(0, 0, 0, 0)" && value !== "transparent") {
@@ -51,7 +51,7 @@ for (const viewport of [
   { width: 1366, height: 768 },
   { width: 1440, height: 900 },
 ]) {
-  test(`warm theme, first-screen CTA and result layout at ${viewport.width}px`, async ({
+  test(`dark coffee theme, first-screen CTA and result layout at ${viewport.width}px`, async ({
     page,
   }) => {
     await page.setViewportSize(viewport);
@@ -64,11 +64,11 @@ for (const viewport of [
     await page.goto("/");
     await expect(page.locator("body")).toHaveCSS(
       "background-color",
-      "rgb(217, 201, 180)",
+      "rgb(21, 17, 15)",
     );
     await expect(page.locator(".identity img")).toHaveAttribute(
       "src",
-      "/brand/logo_black.png",
+      "/brand/Logo_White.png",
     );
     const cta = await page.locator(".select-button").boundingBox();
     expect(cta).not.toBeNull();
@@ -98,13 +98,11 @@ for (const viewport of [
       });
       return canvas.toDataURL().split(",")[1];
     });
-    await page
-      .getByLabel("Choose image")
-      .setInputFiles({
-        name: "known-colors.png",
-        mimeType: "image/png",
-        buffer: Buffer.from(encoded, "base64"),
-      });
+    await page.getByLabel("Choose image").setInputFiles({
+      name: "known-colors.png",
+      mimeType: "image/png",
+      buffer: Buffer.from(encoded, "base64"),
+    });
     await textContrast(page, ".analyze-button, .text-button");
     await page.getByRole("button", { name: "Analyze image" }).click();
     await expect(page.locator(".properties")).toContainText("600 × 400");
@@ -118,7 +116,7 @@ for (const viewport of [
       ).toBe(true);
       await textContrast(
         page,
-        ".results-tabs button, .result-title h2, .result-title p, .properties dt, .properties dd, .overview-caption, .overview-caption button, .overview-light > span, .axis, .palette-list code, .average-color strong, .average-color small, .sample-note, .result-footnote, .tone-list span, .light-stats dt, .light-stats dd",
+        ".summary-label, .image-summary p, .summary-actions button, .palette-actions button, .map-explorer summary, .measurement-details summary, .distribution-details summary, .light-technical summary, .results-tabs button, .result-title h2, .result-title p, .properties dt, .properties dd, .overview-caption, .overview-caption button, .overview-light > span, .axis, .palette-list code, .average-color strong, .average-color small, .sample-note, .result-footnote, .tone-list span, .light-stats dt, .light-stats dd",
       );
     }
     const chartContrast = await page
@@ -129,7 +127,7 @@ for (const viewport of [
         fill: getComputedStyle(element).backgroundColor,
       }));
     expect(chartContrast).toEqual({
-      border: "rgb(42, 123, 192)",
+      border: "rgb(255, 196, 107)",
       fill: "rgb(53, 144, 223)",
     });
     await page.screenshot({

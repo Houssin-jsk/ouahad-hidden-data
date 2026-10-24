@@ -1,4 +1,10 @@
 import { test, expect, type Page } from "@playwright/test";
+import {
+  holdAnalysis,
+  waitHeld,
+  releaseAnalysis,
+  setAnalysisHold,
+} from "./helpers/held-analysis";
 async function select(page: Page, name = "red.png", color = "#ff0000") {
   const png = await page.evaluate((color) => {
     const c = document.createElement("canvas");
@@ -15,108 +21,82 @@ async function select(page: Page, name = "red.png", color = "#ff0000") {
     buffer: Buffer.from(png, "base64"),
   });
 }
-test("fast real work stays in the six-second presentation and releases accurate results", async ({
+test("fast real work releases accurate results without a presentation minimum", async ({
   page,
 }) => {
   await page.goto("/");
   await select(page);
   const start = Date.now();
   await page.getByRole("button", { name: "Analyze image" }).click();
-  await expect(page.getByLabel("Analysis progress")).toBeVisible();
-  await expect(
-    page.getByRole("status").filter({ hasText: "Calculations ready" }),
-  ).toBeVisible({ timeout: 4000 });
-  expect(Date.now() - start).toBeLessThan(5000);
-  await expect(page.getByTestId("image-dna")).toHaveCount(0);
-  await expect(page.getByRole("progressbar")).not.toHaveAttribute(
-    "aria-valuenow",
-    "6",
-  );
   await expect(page.getByTestId("image-dna")).toBeVisible();
-  expect(Date.now() - start).toBeGreaterThanOrEqual(6000);
-  await expect(page.getByTestId("image-dna")).toContainText("255 / 0 / 0");
+  expect(Date.now() - start).toBeLessThan(5500);
+  await expect(page.getByTestId("image-dna")).toContainText("#FF0000");
+  await page.getByText("Technical details", { exact: true }).click();
+  await expect(page.getByTestId("technical-summary")).toContainText(
+    "255 / 0 / 0",
+  );
   await expect(page.getByLabel("Analysis progress")).toHaveCount(0);
 });
-test("a slow worker response cannot reveal results at six seconds", async ({
+
+test("an unfinished worker cannot reveal results; genuine completion releases immediately", async ({
   page,
 }) => {
-  // Delay only test transport of the genuine worker result; production code and
-  // pixel calculations are untouched. This simulates a busy worker/device.
-  await page.addInitScript(() => {
-    const Native = Worker;
-    window.Worker = class extends Native {
-      constructor(url: string | URL, options?: WorkerOptions) {
-        super(url, options);
-        this.addEventListener("message", (event) => {
-          if (event.data.result && !event.data.testDelayed) {
-            event.stopImmediatePropagation();
-            setTimeout(
-              () =>
-                this.dispatchEvent(
-                  new MessageEvent("message", {
-                    data: { ...event.data, testDelayed: true },
-                  }),
-                ),
-              8000,
-            );
-          }
-        });
-      }
-    };
-  });
+  await holdAnalysis(page);
   await page.goto("/");
   await select(page);
-  const start = Date.now();
   await page.getByRole("button", { name: "Analyze image" }).click();
-  await page.waitForTimeout(6500);
+  await waitHeld(page);
   await expect(page.getByLabel("Analysis progress")).toBeVisible();
   await expect(page.getByTestId("image-dna")).toHaveCount(0);
   await expect(page.getByRole("progressbar")).not.toHaveAttribute(
     "aria-valuenow",
     "6",
   );
+  const release = Date.now();
+  await releaseAnalysis(page);
   await expect(page.getByTestId("image-dna")).toBeVisible();
-  expect(Date.now() - start).toBeGreaterThanOrEqual(8000);
-  await expect(page.getByTestId("image-dna")).toContainText("255 / 0 / 0");
+  expect(Date.now() - release).toBeLessThan(2500);
+  await expect(page.getByTestId("image-dna")).toContainText("#FF0000");
 });
-test("replacing a buffered completed image starts an independent timer and drops the old result", async ({
+
+test("replacement rejects a late result and analyzes only the new selection", async ({
   page,
 }) => {
+  await holdAnalysis(page);
   await page.goto("/");
   await select(page);
   await page.getByRole("button", { name: "Analyze image" }).click();
-  await expect(
-    page.getByRole("status").filter({ hasText: "Calculations ready" }),
-  ).toBeVisible();
+  await waitHeld(page);
   await select(page, "green.png", "#00ff00");
-  await expect(page.getByLabel("Analysis progress")).toHaveCount(0);
+  await releaseAnalysis(page);
   await expect(page.getByTestId("image-dna")).toHaveCount(0);
-  const start = Date.now();
+  await setAnalysisHold(page, false);
   await page.getByRole("button", { name: "Analyze image" }).click();
-  await expect(page.getByTestId("image-dna")).toBeVisible();
-  expect(Date.now() - start).toBeGreaterThanOrEqual(6000);
-  await expect(page.getByTestId("image-dna")).toContainText("0 / 255 / 0");
+  await expect(page.getByTestId("image-dna")).toContainText("#00FF00");
   await expect(page.getByTestId("image-dna")).not.toContainText("#FF0000");
 });
 for (const viewport of [
   { width: 1440, height: 900 },
   { width: 390, height: 844 },
 ]) {
-  test(`loading layout, cancellation and lighter motion at ${viewport.width}px`, async ({
+  test(`real progress, cancellation and reduced motion at ${viewport.width}px`, async ({
     page,
   }) => {
+    await holdAnalysis(page);
     await page.setViewportSize(viewport);
     await page.emulateMedia({ reducedMotion: "reduce" });
     await page.goto("/");
     await select(page);
     await page.getByRole("button", { name: "Analyze image" }).click();
+    await waitHeld(page);
     await expect(page.locator(".loading-stages li")).toHaveCount(6);
-    await expect(page.locator(".dna-read-line")).toHaveCSS(
-      "animation-name",
-      "gentle-presence",
+    await expect(page.locator(".loading-preview img")).toHaveAttribute(
+      "src",
+      /^blob:/,
     );
-    await expect(page.locator(".loading-heading h2")).toHaveText(
-      "Reading image.",
+    await expect(page.getByRole("progressbar")).toHaveAttribute(
+      "aria-valuetext",
+      /milestones, not a percentage/,
     );
     expect(
       await page.evaluate(
@@ -128,11 +108,11 @@ for (const viewport of [
       fullPage: true,
     });
     await page.getByRole("button", { name: "Cancel analysis" }).click();
+    await releaseAnalysis(page);
     await expect(page.getByLabel("Analysis progress")).toHaveCount(0);
+    await expect(page.getByTestId("image-dna")).toHaveCount(0);
     await expect(
       page.getByRole("button", { name: "Analyze image" }),
-    ).toBeEnabled();
-    await page.waitForTimeout(6100);
-    await expect(page.getByTestId("image-dna")).toHaveCount(0);
+    ).toBeFocused();
   });
 }

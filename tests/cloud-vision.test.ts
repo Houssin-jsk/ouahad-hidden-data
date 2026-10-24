@@ -8,11 +8,16 @@ import {
   GEMINI_TIMEOUT_MS,
   CLOUD_API_TIMEOUT_MS,
   validateObservations,
+  validateCloudResult,
 } from "../src/cloud-vision/contract";
 import { authorize, sameOrigin } from "../src/cloud-vision/server/access";
 import { providers } from "../src/cloud-vision/server/config";
 import { validateCloudImage } from "../src/cloud-vision/server/image";
-import { SharedLedger, LEDGER_SCHEMA } from "../src/cloud-vision/server/ledger";
+import {
+  SharedLedger,
+  LEDGER_SCHEMA,
+  d1Query,
+} from "../src/cloud-vision/server/ledger";
 import { handleVision } from "../src/cloud-vision/server/handler";
 import { routeVision } from "../src/cloud-vision/server/router";
 import {
@@ -228,8 +233,6 @@ for (const kind of [
   "invalid_credentials",
   "model_unavailable",
   "billing_required",
-  "outage",
-  "timeout",
 ] as const) {
   test(`router classifies ${kind} and can use an eligible fallback`, async () => {
     const result = await routeVision(
@@ -252,6 +255,8 @@ for (const kind of [
   "invalid_output",
   "invalid_image",
   "cancelled",
+  "timeout",
+  "outage",
 ] as const) {
   test(`${kind} does not send image to another provider`, async () => {
     let called = false;
@@ -288,6 +293,58 @@ test("caller cancellation rejects a late provider success", async () => {
   );
   assert.equal(result.error, "cancelled");
   assert.equal(result.interpretation, undefined);
+});
+
+test("cancellation during reservation never starts an external request", async () => {
+  const controller = new AbortController();
+  const state = cooldowns();
+  let calls = 0;
+  let recorded: string | undefined;
+  state.reserve = async () => {
+    controller.abort();
+    return randomUUID();
+  };
+  const result = await routeVision(
+    [
+      adapter("gemini", async () => {
+        calls++;
+        return { observations };
+      }),
+    ],
+    image,
+    {
+      ...state,
+      settle: async (_id, _response, error) => {
+        recorded = error?.kind;
+      },
+    },
+    controller.signal,
+  );
+  assert.equal(result.error, "cancelled");
+  assert.equal(calls, 0);
+  assert.equal(recorded, "cancelled");
+});
+
+test("D1 deadline cancels a stalled response body, not just response headers", async (t) => {
+  t.mock.timers.enable({ apis: ["setTimeout"] });
+  t.mock.method(AbortSignal, "timeout", (delay: number) => {
+    const controller = new AbortController();
+    setTimeout(() => controller.abort(), delay);
+    return controller.signal;
+  });
+  t.mock.method(
+    globalThis,
+    "fetch",
+    async () => new Response(new ReadableStream()),
+  );
+  const query = d1Query("a".repeat(32), "0".repeat(36), "mock-only", signal());
+  const rejected = assert.rejects(query("SELECT 1", []), {
+    name: "AbortError",
+  });
+  await Promise.resolve();
+  await Promise.resolve();
+  t.mock.timers.tick(4000);
+  await rejected;
 });
 test("Retry-After date/seconds and Gemini RetryInfo are parsed, unknown reset is never fabricated", () => {
   assert.equal(retryAt(new Headers({ "retry-after": "2" }), {}, 10000), 12000);
@@ -348,6 +405,37 @@ test("external output schema rejects extras, confidence, oversized, missing and 
     { ...observations, observations: [1] },
   ])
     assert.throws(() => validateObservations(value));
+});
+
+test("browser response normalization accepts only known errors and drops untrusted fields", () => {
+  const payload = {
+    schema: "cloud-vision/1",
+    status: "available",
+    provider: "gemini",
+    model: "test-only",
+    interpretation: observations,
+    debug: "private",
+  };
+  assert.deepEqual(validateCloudResult(payload), {
+    schema: "cloud-vision/1",
+    status: "available",
+    provider: "gemini",
+    model: "test-only",
+    interpretation: observations,
+  });
+  assert.throws(() =>
+    validateCloudResult({
+      schema: "cloud-vision/1",
+      status: "unavailable",
+      error: "unknown",
+      message: "Unexpected",
+    }),
+  );
+  assert.throws(() => validateCloudResult([]));
+  for (const processing of [{ attempts: "fake" }, { elapsedMs: 1, attempts: 4, width: 10, height: 10 }, { elapsedMs: 1, attempts: 1, width: 10, height: 10, usage: { inputTokens: -1 } }])
+    assert.throws(() => validateCloudResult({ ...payload, processing }));
+  const processing = { elapsedMs: 12, attempts: 1, width: 10, height: 10, usage: { inputTokens: 100, outputTokens: 20 } };
+  assert.deepEqual(validateCloudResult({ ...payload, processing }).processing, processing);
 });
 test("provider response size and invalid JSON are bounded", async () => {
   await assert.rejects(

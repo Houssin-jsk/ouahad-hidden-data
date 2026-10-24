@@ -1,0 +1,426 @@
+{
+  "verifiedAt": "2026-10-23T00:06:47.724Z",
+  "baseCommit": "465a4510cfb34ff2151eb33fe3dc23c008adeb46",
+  "status": {
+    "productUX": "PASS",
+    "visualConsistency": "PASS",
+    "mobileReadiness": "PASS (viewport scope)",
+    "accessibility": "PASS (automated and keyboard scope)",
+    "technicalRegression": "PASS",
+    "deploymentReadiness": "READY"
+  },
+  "unitTests": {
+    "command": "npm run test:all",
+    "passed": 148,
+    "failed": 0,
+    "skipped": 0
+  },
+  "chromeTests": {
+    "command": "npm run test:browser -- --workers=2 --reporter=json",
+    "startTime": "2026-10-23T00:00:10.626Z",
+    "duration": 70372.67000000001,
+    "expected": 67,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  },
+  "checks": {
+    "lint": "PASS",
+    "fullProjectTypeScript": "PASS",
+    "productionTypeScript": "PASS",
+    "workspaceProductionBuild": "PASS",
+    "filteredProductionBuild": "PASS",
+    "releaseIsolation": {
+      "inspectedFiles": 124,
+      "result": "PASS"
+    },
+    "productionDependencyAudit": {
+      "vulnerabilities": 0
+    },
+    "secretScan": {
+      "result": "PASS",
+      "historyBlobs": 629,
+      "historyBlobsSkippedOver10MB": 1,
+      "gitCandidateFiles": 656,
+      "workingFiles": 962,
+      "findings": [],
+      "scope": "Known configured values plus common Gemini/NVIDIA/OpenAI key patterns; not a forensic certification of all past credentials."
+    }
+  },
+  "cleanBuild": {
+    "checkout": "phase04-clean-1792712404489",
+    "startedClean": true,
+    "trackedFiles": 631,
+    "physicallyExcludedFiles": 520,
+    "environmentFilesCopied": false,
+    "forbidden": [
+      {
+        "file": "research",
+        "fileCount": 0
+      },
+      {
+        "file": "src/companion",
+        "fileCount": 0
+      },
+      {
+        "file": "companion",
+        "fileCount": 0
+      },
+      {
+        "file": "tests",
+        "fileCount": 0
+      },
+      {
+        "file": "docs",
+        "fileCount": 0
+      },
+      {
+        "file": ".env.local",
+        "fileCount": 0
+      }
+    ],
+    "productionSourceOverlay": [
+      {
+        "file": "src/app/globals.css",
+        "sha256": "ff2de7c2d8fd60fba8f0016568160a14c98f3ffafe9efbd360c86632395e120f"
+      },
+      {
+        "file": "src/components/analysis-loading.tsx",
+        "sha256": "ca20f1d6a96191ab6ce359c82ce79ab0ed14b833c596be4d978f9daf81977163"
+      },
+      {
+        "file": "src/components/cloud-observations.tsx",
+        "sha256": "c5fd50a5394b3eaab7df2a86fb908ec21f14013cc36f52cecb42891539c99602"
+      },
+      {
+        "file": "src/components/evidence-insight.tsx",
+        "sha256": "489578cf5d28b3366afb816ee90e00c6f77a72dbfa20168b87bf36d536c5bea2"
+      },
+      {
+        "file": "src/components/image-lab.tsx",
+        "sha256": "e3a8c08df3fbd19543f3c8833111bb5bc4bff0f4106b5ae0ff35c8486e268641"
+      },
+      {
+        "file": "src/components/loading-status.tsx",
+        "sha256": "cf8ee794c7ae49f735461d15e26bbeaf3befd6a5e3f4fb0f77ddd08468972d19"
+      },
+      {
+        "file": "src/components/results.tsx",
+        "sha256": "52954f62f50505d5f5ee68ad29cda1b87a5ec6f141443cc6babbf6fc6fd62c85"
+      },
+      {
+        "file": "src/components/spatial-preview.tsx",
+        "sha256": "6075f4ee988fe836513ec60385d52e7c92a50ec01994c66a2df2e97ba6750cd3"
+      },
+      {
+        "file": "src/loading/presentation.ts",
+        "sha256": "c710c94921cfc7c124f0e23b6b55c940affe83b4f698bc17e67830f4ee3996cc"
+      },
+      {
+        "file": "src/lib/image-summary.ts",
+        "sha256": "fff2576c85b2d92da55f5e2d432d9e0bc916ab2e9714fb66a3b446a33a86e62a"
+      }
+    ]
+  },
+  "visual": {
+    "browser": "156.0.8078.47",
+    "conditions": "Headless desktop Chrome, unthrottled localhost, viewport emulation; clean filtered production checkout, no environment files. One CC0 landscape fixture, no physical-device or human-user verification.",
+    "measurements": [
+      {
+        "width": 320,
+        "resultVisibleMs": 897,
+        "overflow": false
+      },
+      {
+        "width": 375,
+        "resultVisibleMs": 404,
+        "overflow": false
+      },
+      {
+        "width": 390,
+        "resultVisibleMs": 882,
+        "overflow": false
+      },
+      {
+        "width": 430,
+        "resultVisibleMs": 879,
+        "overflow": false
+      },
+      {
+        "width": 768,
+        "resultVisibleMs": 403,
+        "overflow": false
+      },
+      {
+        "width": 1280,
+        "resultVisibleMs": 403,
+        "overflow": false
+      },
+      {
+        "width": 1440,
+        "resultVisibleMs": 911,
+        "overflow": false
+      }
+    ],
+    "screenshots": [
+      "after-welcome-320.png",
+      "after-overview-320.png",
+      "after-color-320.png",
+      "after-overview-375.png",
+      "after-welcome-390.png",
+      "after-overview-390.png",
+      "after-light-390.png",
+      "after-overview-430.png",
+      "after-overview-768.png",
+      "after-welcome-1280.png",
+      "after-overview-1280.png",
+      "after-color-1280.png",
+      "after-maps-1280.png",
+      "after-overview-1440.png"
+    ],
+    "issues": [],
+    "outbound": []
+  },
+  "baseline": {
+    "at": "2026-10-22T23:16:39.572Z",
+    "visibleMs": 6512,
+    "fixture": "tests/fixtures/discovery/landscape.jpg",
+    "cloudRequests": 0,
+    "status": "Read-only live screenshot captured"
+  },
+  "accessibility": {
+    "version": "4.14.0",
+    "scope": "WCAG 2 A/AA, 2.1 AA and 2.2 AA rules in desktop Chrome; automated audit, not a conformance certification.",
+    "reports": [
+      {
+        "width": 320,
+        "state": "landing",
+        "passes": 26,
+        "incomplete": [
+          {
+            "id": "color-contrast",
+            "nodes": [
+              ["div:nth-child(1) > .feature-index[aria-hidden=\"true\"]"],
+              [".blue"],
+              [".orange"]
+            ]
+          }
+        ],
+        "violations": []
+      },
+      {
+        "width": 320,
+        "state": "Overview with disclosures open",
+        "passes": 34,
+        "incomplete": [],
+        "violations": []
+      },
+      {
+        "width": 320,
+        "state": "Color with disclosures open",
+        "passes": 32,
+        "incomplete": [],
+        "violations": []
+      },
+      {
+        "width": 320,
+        "state": "Light with disclosures open",
+        "passes": 32,
+        "incomplete": [],
+        "violations": []
+      },
+      {
+        "width": 320,
+        "state": "Metadata with disclosures open",
+        "passes": 29,
+        "incomplete": [],
+        "violations": []
+      },
+      {
+        "width": 1280,
+        "state": "landing",
+        "passes": 26,
+        "incomplete": [
+          {
+            "id": "color-contrast",
+            "nodes": [
+              ["div:nth-child(1) > .feature-index[aria-hidden=\"true\"]"],
+              [".blue"],
+              [".orange"]
+            ]
+          }
+        ],
+        "violations": []
+      },
+      {
+        "width": 1280,
+        "state": "Overview with disclosures open",
+        "passes": 34,
+        "incomplete": [],
+        "violations": []
+      },
+      {
+        "width": 1280,
+        "state": "Color with disclosures open",
+        "passes": 32,
+        "incomplete": [],
+        "violations": []
+      },
+      {
+        "width": 1280,
+        "state": "Light with disclosures open",
+        "passes": 32,
+        "incomplete": [],
+        "violations": []
+      },
+      {
+        "width": 1280,
+        "state": "Metadata with disclosures open",
+        "passes": 29,
+        "incomplete": [],
+        "violations": []
+      }
+    ]
+  },
+  "performance": {
+    "browser": "156.0.8078.47",
+    "platform": "win32",
+    "release": "10.0.26200",
+    "cpu": "Intel(R) Core(TM) i5-10500H CPU @ 2.50GHz",
+    "logicalCPUs": 12,
+    "totalMemoryBytes": 16993001472,
+    "viewport": {
+      "width": 1280,
+      "height": 720
+    },
+    "conditions": "Headless unthrottled desktop Chrome, localhost production, 2 test workers. Worker wall time includes startup, sampling, all calculations, metadata, maps and messaging; not isolated insights CPU time. Visible time has no configured presentation minimum. Initial JS bytes are same-origin Resource Timing encodedBodySize, before selection; not aggregate build bytes.",
+    "timings": [
+      {
+        "fixture": "dark.png",
+        "workerWallMs": 136.30000001192093,
+        "visibleMs": 630.2430000000022
+      },
+      {
+        "fixture": "bright.png",
+        "workerWallMs": 69.09999999403954,
+        "visibleMs": 494.9516000000003
+      },
+      {
+        "fixture": "gray.png",
+        "workerWallMs": 51.29999999701977,
+        "visibleMs": 468.3672000000006
+      },
+      {
+        "fixture": "low-contrast.png",
+        "workerWallMs": 82,
+        "visibleMs": 1005.6616999999969
+      },
+      {
+        "fixture": "tiny.png",
+        "workerWallMs": 58.3999999910593,
+        "visibleMs": 502.7523999999976
+      },
+      {
+        "fixture": "large.png",
+        "workerWallMs": 296.79999999701977,
+        "visibleMs": 1283.9123999999938
+      }
+    ],
+    "initialJs": [
+      {
+        "url": "/_next/static/chunks/1ckvzn7sfprko.js",
+        "encodedBodySize": 2035,
+        "transferSize": 2335
+      },
+      {
+        "url": "/_next/static/chunks/2r4s4h5xul1n-.js",
+        "encodedBodySize": 7624,
+        "transferSize": 7924
+      },
+      {
+        "url": "/_next/static/chunks/2gvu8dyrhibpa.js",
+        "encodedBodySize": 71899,
+        "transferSize": 72199
+      },
+      {
+        "url": "/_next/static/chunks/2e268anpfvdoc.js",
+        "encodedBodySize": 46367,
+        "transferSize": 46667
+      },
+      {
+        "url": "/_next/static/chunks/turbopack-3-ry682tkyiqk.js",
+        "encodedBodySize": 3940,
+        "transferSize": 4240
+      },
+      {
+        "url": "/_next/static/chunks/0umf92h1sb77c.js",
+        "encodedBodySize": 3514,
+        "transferSize": 3814
+      },
+      {
+        "url": "/_next/static/chunks/2c36ulaydp8jv.js",
+        "encodedBodySize": 5788,
+        "transferSize": 6088
+      },
+      {
+        "url": "/_next/static/chunks/3er8ef5vawa8f.js",
+        "encodedBodySize": 19934,
+        "transferSize": 20234
+      }
+    ]
+  },
+  "gitFiles": [
+    "docs/phase-04/PHASE-04-HANDOFF.md",
+    "docs/phase-04/evidence/after-color-1280.png",
+    "docs/phase-04/evidence/after-color-320.png",
+    "docs/phase-04/evidence/after-light-390.png",
+    "docs/phase-04/evidence/after-maps-1280.png",
+    "docs/phase-04/evidence/after-overview-1280.png",
+    "docs/phase-04/evidence/after-overview-1440.png",
+    "docs/phase-04/evidence/after-overview-320.png",
+    "docs/phase-04/evidence/after-overview-375.png",
+    "docs/phase-04/evidence/after-overview-390.png",
+    "docs/phase-04/evidence/after-overview-430.png",
+    "docs/phase-04/evidence/after-overview-768.png",
+    "docs/phase-04/evidence/after-welcome-1280.png",
+    "docs/phase-04/evidence/after-welcome-320.png",
+    "docs/phase-04/evidence/after-welcome-390.png",
+    "docs/phase-04/evidence/before-desktop.png",
+    "docs/phase-04/evidence/before-live.png",
+    "docs/phase-04/evidence/before-results-desktop.png",
+    "docs/phase-04/evidence/before-results-mobile.png",
+    "docs/phase-04/evidence/verification.json",
+    "src/app/globals.css",
+    "src/components/analysis-loading.tsx",
+    "src/components/cloud-observations.tsx",
+    "src/components/evidence-insight.tsx",
+    "src/components/image-lab.tsx",
+    "src/components/loading-status.tsx",
+    "src/components/results.tsx",
+    "src/components/spatial-preview.tsx",
+    "src/lib/image-summary.ts",
+    "src/loading/presentation.ts",
+    "tests/browser/accuracy.spec.ts",
+    "tests/browser/discoveries.spec.ts",
+    "tests/browser/helpers/disclosures.ts",
+    "tests/browser/helpers/held-analysis.ts",
+    "tests/browser/lab.spec.ts",
+    "tests/browser/loading-visuals.spec.ts",
+    "tests/browser/loading.spec.ts",
+    "tests/browser/phase01.spec.ts",
+    "tests/browser/phase02.spec.ts",
+    "tests/browser/product.spec.ts",
+    "tests/browser/release.spec.ts",
+    "tests/browser/theme.spec.ts",
+    "tests/loading.test.ts",
+    "tests/product.test.ts"
+  ],
+  "limitations": [
+    "Viewport emulation, not physical-device testing.",
+    "No human usability research or live assistive-technology session.",
+    "Chrome only; no Safari/Firefox verification.",
+    "Automated WCAG audit is not a conformance certification. Decorative aria-hidden bullet contrast needs no text contrast treatment.",
+    "Cloud provider access, billing, D1 counters and owner settings were not queried or modified. No real inference was requested.",
+    "Secret scan covers known configured values, common key patterns and bounded history blobs; not a forensic certification."
+  ]
+}

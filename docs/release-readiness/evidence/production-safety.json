@@ -1,0 +1,123 @@
+{
+  "checkedAt": "2026-10-24T20:01:51.977Z",
+  "environmentSource": "Local runtime configuration; not proof of deployed environment values",
+  "localEnvironment": {
+    "GEMINI_API_KEY": true,
+    "NVIDIA_API_KEY": true,
+    "CLOUDFLARE_ACCOUNT_ID": true,
+    "CLOUDFLARE_API_TOKEN": true,
+    "CLOUDFLARE_D1_DATABASE_ID": true,
+    "CLOUDFLARE_D1_API_TOKEN": true,
+    "CLOUD_AI_D1_DATABASE_ID": false,
+    "CLOUD_AI_D1_API_TOKEN": false,
+    "CLOUD_AI_ADMIN_SECRET": true,
+    "CLOUD_AI_ORIGIN": true,
+    "CLOUD_AI_INVITES": false,
+    "CLOUD_AI_OWNER_TEST_INVITE_HASH": false
+  },
+  "localAttestations": {
+    "CLOUD_AI_D1_FREE_UNTIL": "expired or invalid",
+    "CLOUD_AI_GEMINI_FREE_UNTIL": "expired or invalid",
+    "CLOUD_AI_GEMINI_31_VISION_UNTIL": "absent",
+    "CLOUD_AI_CF_FREE_UNTIL": "absent",
+    "CLOUD_AI_RELEASE_READY_UNTIL": "absent"
+  },
+  "remoteDatabase": {
+    "emergencyStop": true,
+    "policy": {
+      "kill": true,
+      "dailyActions": 60,
+      "minuteActions": 6,
+      "concurrency": 2,
+      "visitorDaily": 3,
+      "visitorMinute": 1,
+      "projectDaily": 300,
+      "projectRpm": 10,
+      "projectTpm": 200000,
+      "projectDailyTokens": 1000000
+    },
+    "models": [
+      {
+        "model": "gemini-3.5-flash-lite",
+        "enabled": false,
+        "eligibility": "unverified",
+        "daily": 300,
+        "rpm": 10,
+        "tpm": 200000
+      },
+      {
+        "model": "gemini-3.1-flash-lite",
+        "enabled": false,
+        "eligibility": "unverified",
+        "daily": 300,
+        "rpm": 10,
+        "tpm": 200000
+      },
+      {
+        "model": "@cf/meta/llama-3.2-11b-vision-instruct",
+        "enabled": false,
+        "eligibility": "unverified",
+        "daily": 0,
+        "rpm": 0,
+        "tpm": 0
+      },
+      {
+        "model": "meta/llama-3.2-11b-vision-instruct",
+        "enabled": false,
+        "eligibility": "unverified",
+        "daily": 0,
+        "rpm": 0,
+        "tpm": 0
+      }
+    ],
+    "activeOwnerSessions": 0,
+    "activeJobs": 0,
+    "uncertainReservations": 1,
+    "accounting": [
+      {
+        "outcome": "completed",
+        "attempts": 3,
+        "reservedTokens": 12288,
+        "reportedTokens": 4071
+      },
+      {
+        "outcome": "uncertain",
+        "attempts": 1,
+        "reservedTokens": 4096,
+        "reportedTokens": null
+      }
+    ],
+    "schemaVersions": [
+      1,
+      2
+    ]
+  },
+  "productionHttp": [
+    {
+      "path": "/",
+      "unavailable": true,
+      "error": "TypeError",
+      "code": "ECONNREFUSED"
+    },
+    {
+      "path": "/api/cloud-vision/status",
+      "unavailable": true,
+      "error": "TypeError",
+      "code": "ECONNREFUSED"
+    },
+    {
+      "path": "/api/admin/ai",
+      "unavailable": true,
+      "error": "TypeError",
+      "code": "ECONNREFUSED"
+    },
+    {
+      "path": "/api/cloud-vision",
+      "unavailable": true,
+      "error": "TypeError",
+      "code": "ECONNREFUSED"
+    }
+  ],
+  "mutations": 0,
+  "inferenceRequests": 0
+}

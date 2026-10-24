@@ -9,22 +9,24 @@ export const CLOUD_API_TIMEOUT_MS = 50_000;
 export const CLOUD_BROWSER_TIMEOUT_MS = 65_000;
 export const CLOUD_SMOKE_RESPONSE_TIMEOUT_MS = 70_000;
 export type ProviderId = "gemini" | "nvidia" | "cloudflare";
-export type CloudError =
-  | "restricted"
-  | "not_configured"
-  | "cost_unverified"
-  | "invalid_image"
-  | "invalid_request"
-  | "rate_limited"
-  | "quota_exhausted"
-  | "invalid_credentials"
-  | "model_unavailable"
-  | "billing_required"
-  | "outage"
-  | "timeout"
-  | "cancelled"
-  | "invalid_output"
-  | "safety_refusal";
+export const CLOUD_ERRORS = [
+  "restricted",
+  "not_configured",
+  "cost_unverified",
+  "invalid_image",
+  "invalid_request",
+  "rate_limited",
+  "quota_exhausted",
+  "invalid_credentials",
+  "model_unavailable",
+  "billing_required",
+  "outage",
+  "timeout",
+  "cancelled",
+  "invalid_output",
+  "safety_refusal",
+] as const;
+export type CloudError = (typeof CLOUD_ERRORS)[number];
 export interface Observations {
   description: string;
   observations: string[];
@@ -84,21 +86,47 @@ export function validateObservations(value: unknown): Observations {
   };
 }
 export function validateCloudResult(value: unknown): CloudResult {
-  if (!value || typeof value !== "object") throw Error("invalid_output");
+  if (!value || typeof value !== "object" || Array.isArray(value))
+    throw Error("invalid_output");
   const row = value as CloudResult;
   if (row.schema !== CLOUD_SCHEMA) throw Error("invalid_output");
+  let processing: CloudResult["processing"];
+  if (row.processing !== undefined) {
+    const p = row.processing;
+    const nonnegativeInteger = (n: unknown): n is number =>
+      typeof n === "number" && Number.isSafeInteger(n) && n >= 0;
+    if (!p || typeof p !== "object" ||
+      !nonnegativeInteger(p.elapsedMs) || !nonnegativeInteger(p.attempts) || p.attempts > 3 ||
+      !nonnegativeInteger(p.width) || p.width < 1 || p.width > MAX_IMAGE_SIDE ||
+      !nonnegativeInteger(p.height) || p.height < 1 || p.height > MAX_IMAGE_SIDE)
+      throw Error("invalid_output");
+    processing = { elapsedMs: p.elapsedMs, attempts: p.attempts, width: p.width, height: p.height };
+    if (p.usage !== undefined) {
+      if (!p.usage || typeof p.usage !== "object" ||
+        [p.usage.inputTokens, p.usage.outputTokens].some((n) => n !== undefined && !nonnegativeInteger(n)))
+        throw Error("invalid_output");
+      processing.usage = { inputTokens: p.usage.inputTokens, outputTokens: p.usage.outputTokens };
+    }
+  }
   if (
     row.status === "available" &&
     ["gemini", "nvidia", "cloudflare"].includes(row.provider ?? "") &&
     shortText(row.model, 120)
   ) {
-    return { ...row, interpretation: validateObservations(row.interpretation) };
+    return {
+      schema: CLOUD_SCHEMA,
+      status: "available",
+      provider: row.provider,
+      model: row.model,
+      interpretation: validateObservations(row.interpretation),
+      ...(processing ? { processing } : {}),
+    };
   }
   if (
     row.status === "unavailable" &&
     shortText(row.message, 300) &&
-    typeof row.error === "string"
+    CLOUD_ERRORS.includes(row.error as CloudError)
   )
-    return row;
+    return { ...unavailable(row.error!, row.message!), ...(processing ? { processing } : {}) };
   throw Error("invalid_output");
 }

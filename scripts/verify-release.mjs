@@ -22,6 +22,7 @@ const routes = JSON.parse(
 const forbidden = /experiments|(?:^|\/)ai(?:\/|$)/i;
 const approved = new Set([
   "/api/cloud-vision/route",
+  "/api/cloud-vision/status/route",
   "/admin/ai/page",
   "/api/admin/ai/route",
   "/api/admin/ai/session/route",

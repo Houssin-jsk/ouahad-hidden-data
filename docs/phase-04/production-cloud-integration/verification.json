@@ -1,0 +1,741 @@
+{
+  "checkedAt": "2026-10-23T02:03:24.899Z",
+  "production": "https://hidden-data.ouahad.space",
+  "readiness": "Real owner-only integration VERIFIED; live inference disabled after test",
+  "authorization": "Owner explicitly authorized publication of the working tree and one temporary owner-only test; no commit or push",
+  "deployments": [
+    {
+      "id": "dpl_DRtySwqi1ticNuLKCgYxY8uSWcuG",
+      "url": "https://ouahad-hidden-data-jnc09caix-houssin-jsks-projects.vercel.app",
+      "purpose": "Source publication and one controlled test",
+      "status": "READY",
+      "buildMs": 22100
+    },
+    {
+      "id": "dpl_9trcmXYecJoRyUWWu5ZNN3U1XRS4",
+      "url": "https://ouahad-hidden-data-odf2fqvak-houssin-jsks-projects.vercel.app",
+      "purpose": "Same source with temporary invitation removed from live configuration",
+      "status": "READY",
+      "buildMs": 18836
+    }
+  ],
+  "source": {
+    "baseCommit": "465a4510cfb34ff2151eb33fe3dc23c008adeb46",
+    "uncommittedWorkingTree": true,
+    "files": 115,
+    "totalBytes": 3314631,
+    "comparison": "Authorized uncommitted Phase 04 working tree; equal to tested .vercelignore-filtered checkout allowing only UTF-8 CRLF/LF conversion",
+    "credentialMatches": 0,
+    "ignoredFilesExcluded": true
+  },
+  "environment": [
+    {
+      "name": "GEMINI_API_KEY",
+      "productionConfigured": true,
+      "status": "Present"
+    },
+    {
+      "name": "CLOUDFLARE_ACCOUNT_ID",
+      "productionConfigured": true,
+      "status": "Present"
+    },
+    {
+      "name": "CLOUDFLARE_D1_DATABASE_ID",
+      "productionConfigured": true,
+      "status": "Present"
+    },
+    {
+      "name": "CLOUDFLARE_D1_API_TOKEN",
+      "productionConfigured": true,
+      "status": "Present"
+    },
+    {
+      "name": "CLOUD_AI_ADMIN_SECRET",
+      "productionConfigured": true,
+      "status": "Present"
+    },
+    {
+      "name": "CLOUD_AI_ORIGIN",
+      "productionConfigured": true,
+      "status": "Canonical HTTPS origin; deployed"
+    },
+    {
+      "name": "CLOUD_AI_D1_FREE_UNTIL",
+      "productionConfigured": true,
+      "status": "Current; expires 2026-10-23 20:11 UTC"
+    },
+    {
+      "name": "CLOUD_AI_GEMINI_FREE_UNTIL",
+      "productionConfigured": true,
+      "status": "Current; expires 2026-10-23 20:11 UTC"
+    },
+    {
+      "name": "CLOUD_AI_INVITES",
+      "productionConfigured": true,
+      "status": "Present but empty; temporary invitation revoked"
+    },
+    {
+      "name": "CLOUD_AI_OWNER_TEST_INVITE_HASH",
+      "productionConfigured": true,
+      "status": "Present but empty; owner-test exception cleared"
+    },
+    {
+      "name": "CLOUD_AI_RELEASE_READY_UNTIL",
+      "productionConfigured": false,
+      "status": "Absent"
+    },
+    {
+      "name": "CLOUD_AI_GEMINI_31_VISION_UNTIL",
+      "productionConfigured": false,
+      "status": "Absent"
+    },
+    {
+      "name": "CLOUDFLARE_API_TOKEN",
+      "productionConfigured": true,
+      "status": "Present"
+    },
+    {
+      "name": "CLOUD_AI_CF_FREE_UNTIL",
+      "productionConfigured": false,
+      "status": "Absent"
+    },
+    {
+      "name": "CLOUD_AI_CF_LICENSE_ACCEPTED",
+      "productionConfigured": false,
+      "status": "Absent"
+    },
+    {
+      "name": "NVIDIA_API_KEY",
+      "productionConfigured": true,
+      "status": "Present"
+    }
+  ],
+  "realTest": {
+    "at": "2026-10-23T01:57:03.503Z",
+    "deployment": "dpl_DRtySwqi1ticNuLKCgYxY8uSWcuG",
+    "stages": [
+      {
+        "name": "deployed availability route",
+        "elapsedMs": 558
+      },
+      {
+        "name": "deployed owner authentication",
+        "elapsedMs": 10200
+      },
+      {
+        "name": "controlled owner-only activation",
+        "elapsedMs": 16208
+      },
+      {
+        "name": "production image overview and invitation",
+        "elapsedMs": 21160
+      },
+      {
+        "name": "single real browser inference",
+        "elapsedMs": 29084
+      },
+      {
+        "name": "remote accounting and dashboard reconciliation",
+        "elapsedMs": 34324
+      },
+      {
+        "name": "restore stop and disabled model",
+        "elapsedMs": 37761
+      }
+    ],
+    "inferenceRequests": 1,
+    "deployedStatus": {
+      "http": 200,
+      "value": {
+        "schema": "cloud-availability/1",
+        "status": "unavailable"
+      }
+    },
+    "login": {
+      "http": 200,
+      "durationMs": 1858
+    },
+    "initialDashboard": {
+      "database": "Connected",
+      "kill": true,
+      "enabledModels": [],
+      "publicReleaseVerified": false,
+      "overview": {
+        "accepted_actions": 0,
+        "participants": 0,
+        "accepted_minute": 0,
+        "active_actions": 0,
+        "provider_attempts": 0,
+        "completed": 0,
+        "failed": 0,
+        "fallbacks": 0,
+        "active": 0
+      }
+    },
+    "before": {
+      "counts": [
+        {
+          "jobs": 3,
+          "attempts": 3,
+          "completed": 2,
+          "uncertain": 1,
+          "reserved_tokens": 12288,
+          "actual_tokens": 2743
+        }
+      ],
+      "counters": [
+        {
+          "scope": "gemini-3.5-flash-lite",
+          "window_start": 1792652400000,
+          "window_end": 1792738800000,
+          "reserved_requests": 3,
+          "completed_requests": 2,
+          "failed_attempts": 1,
+          "reserved_tokens": 12288,
+          "actual_tokens": 2743
+        },
+        {
+          "scope": "project:gemini",
+          "window_start": 1792652400000,
+          "window_end": 1792738800000,
+          "reserved_requests": 3,
+          "completed_requests": 2,
+          "failed_attempts": 1,
+          "reserved_tokens": 12288,
+          "actual_tokens": 2743
+        }
+      ]
+    },
+    "activeDashboard": {
+      "database": "Connected",
+      "kill": false,
+      "primary": "gemini-3.5-flash-lite",
+      "enabledModels": [
+        "gemini-3.5-flash-lite"
+      ],
+      "publicReleaseVerified": false
+    },
+    "browserGates": {
+      "invitationConfirmed": true,
+      "startDisabledBeforeConsent": true,
+      "explicitConsentChecked": true
+    },
+    "preview": {
+      "bytes": 5001,
+      "contentType": "image/jpeg",
+      "consent": true,
+      "eligibility": true
+    },
+    "inference": {
+      "http": 200,
+      "durationMs": 5225,
+      "status": "available",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite",
+      "processing": {
+        "elapsedMs": 3527,
+        "attempts": 1,
+        "width": 320,
+        "height": 240,
+        "usage": {
+          "inputTokens": 1202,
+          "outputTokens": 126,
+          "totalTokens": 1328
+        }
+      }
+    },
+    "validatedBrowserResults": {
+      "visible": true,
+      "descriptionMatches": true,
+      "observationCount": 3,
+      "limitationsCount": 2
+    },
+    "after": {
+      "counts": [
+        {
+          "jobs": 4,
+          "attempts": 4,
+          "completed": 3,
+          "uncertain": 1,
+          "reserved_tokens": 16384,
+          "actual_tokens": 4071
+        }
+      ],
+      "counters": [
+        {
+          "scope": "gemini-3.5-flash-lite",
+          "window_start": 1792652400000,
+          "window_end": 1792738800000,
+          "reserved_requests": 4,
+          "completed_requests": 3,
+          "failed_attempts": 1,
+          "reserved_tokens": 16384,
+          "actual_tokens": 4071
+        },
+        {
+          "scope": "project:gemini",
+          "window_start": 1792652400000,
+          "window_end": 1792738800000,
+          "reserved_requests": 4,
+          "completed_requests": 3,
+          "failed_attempts": 1,
+          "reserved_tokens": 16384,
+          "actual_tokens": 4071
+        }
+      ]
+    },
+    "newLogs": [
+      {
+        "model_key": "gemini-3.5-flash-lite",
+        "provider": "gemini",
+        "outcome": "completed",
+        "error_category": null,
+        "duration_ms": 3000,
+        "reserved_tokens": 4096,
+        "input_tokens": 1202,
+        "output_tokens": 126,
+        "actual_tokens": 1328,
+        "fallback": 0
+      }
+    ],
+    "finalTestDashboard": {
+      "overview": {
+        "accepted_actions": 1,
+        "participants": 1,
+        "accepted_minute": 1,
+        "active_actions": 0,
+        "provider_attempts": 1,
+        "completed": 1,
+        "failed": 0,
+        "fallbacks": 0,
+        "active": 0
+      },
+      "database": "Connected",
+      "primary": "gemini-3.5-flash-lite",
+      "modelUsage": [
+        {
+          "used": 4,
+          "reservedTokens": 16384,
+          "actualTokens": 4071,
+          "status": "Active"
+        }
+      ],
+      "rendered": true
+    },
+    "success": true,
+    "restored": {
+      "kill": true,
+      "enabledModels": [],
+      "overview": {
+        "accepted_actions": 1,
+        "participants": 1,
+        "accepted_minute": 1,
+        "active_actions": 0,
+        "provider_attempts": 1,
+        "completed": 1,
+        "failed": 0,
+        "fallbacks": 0,
+        "active": 0
+      },
+      "database": "Connected"
+    },
+    "logoutHttp": 200,
+    "totalDurationMs": 46631
+  },
+  "finalSafety": {
+    "at": "2026-10-23T02:03:24.899Z",
+    "cleanupDeployment": "dpl_9trcmXYecJoRyUWWu5ZNN3U1XRS4",
+    "inferenceCalls": 0,
+    "heading": "Color you can use.\nLight you can understand.",
+    "routes": [
+      {
+        "path": "/api/cloud-vision/status",
+        "revokedInvitation": false,
+        "http": 200,
+        "cacheControl": "no-store, private",
+        "value": {
+          "schema": "cloud-availability/1",
+          "status": "unavailable"
+        }
+      },
+      {
+        "path": "/api/cloud-vision/status",
+        "revokedInvitation": true,
+        "http": 403,
+        "cacheControl": "no-store, private",
+        "value": {
+          "schema": "cloud-availability/1",
+          "status": "invalid_invitation"
+        }
+      },
+      {
+        "path": "/api/admin/ai",
+        "revokedInvitation": false,
+        "http": 401,
+        "cacheControl": "no-store, private",
+        "value": {
+          "message": "Owner authentication required."
+        }
+      },
+      {
+        "path": "/api/cloud-vision",
+        "revokedInvitation": false,
+        "http": 405,
+        "cacheControl": "no-store",
+        "value": null
+      }
+    ],
+    "blockedNonGET": 0,
+    "d1": {
+      "config": {
+        "kill": true,
+        "dailyActions": 60,
+        "minuteActions": 6,
+        "concurrency": 2,
+        "visitorDaily": 3,
+        "visitorMinute": 1,
+        "projectDaily": 300,
+        "projectRpm": 10,
+        "projectTpm": 200000,
+        "projectDailyTokens": 1000000
+      },
+      "revision": 10,
+      "models": [
+        {
+          "model_key": "gemini-3.5-flash-lite",
+          "enabled": 0,
+          "eligibility": "unverified",
+          "daily_cap": 300,
+          "rpm_cap": 10,
+          "tpm_cap": 200000,
+          "revision": 8
+        },
+        {
+          "model_key": "gemini-3.1-flash-lite",
+          "enabled": 0,
+          "eligibility": "unverified",
+          "daily_cap": 300,
+          "rpm_cap": 10,
+          "tpm_cap": 200000,
+          "revision": 0
+        },
+        {
+          "model_key": "@cf/meta/llama-3.2-11b-vision-instruct",
+          "enabled": 0,
+          "eligibility": "unverified",
+          "daily_cap": 0,
+          "rpm_cap": 0,
+          "tpm_cap": 0,
+          "revision": 0
+        },
+        {
+          "model_key": "meta/llama-3.2-11b-vision-instruct",
+          "enabled": 0,
+          "eligibility": "unverified",
+          "daily_cap": 0,
+          "rpm_cap": 0,
+          "tpm_cap": 0,
+          "revision": 0
+        }
+      ],
+      "counts": {
+        "jobs": 4,
+        "attempts": 4,
+        "completed": 3,
+        "uncertain": 1,
+        "reserved_tokens": 16384,
+        "actual_tokens": 4071,
+        "sessions": 0,
+        "active_jobs": 0
+      },
+      "logs": [
+        {
+          "model_key": "gemini-3.5-flash-lite",
+          "provider": "gemini",
+          "outcome": "uncertain",
+          "error_category": "timeout",
+          "duration_ms": 13000,
+          "reserved_tokens": 4096,
+          "input_tokens": null,
+          "output_tokens": null,
+          "actual_tokens": null,
+          "fallback": 0
+        },
+        {
+          "model_key": "gemini-3.5-flash-lite",
+          "provider": "gemini",
+          "outcome": "completed",
+          "error_category": null,
+          "duration_ms": 1000,
+          "reserved_tokens": 4096,
+          "input_tokens": 1213,
+          "output_tokens": 128,
+          "actual_tokens": 1341,
+          "fallback": 0
+        },
+        {
+          "model_key": "gemini-3.5-flash-lite",
+          "provider": "gemini",
+          "outcome": "completed",
+          "error_category": null,
+          "duration_ms": 4000,
+          "reserved_tokens": 4096,
+          "input_tokens": 1218,
+          "output_tokens": 184,
+          "actual_tokens": 1402,
+          "fallback": 0
+        },
+        {
+          "model_key": "gemini-3.5-flash-lite",
+          "provider": "gemini",
+          "outcome": "completed",
+          "error_category": null,
+          "duration_ms": 3000,
+          "reserved_tokens": 4096,
+          "input_tokens": 1202,
+          "output_tokens": 126,
+          "actual_tokens": 1328,
+          "fallback": 0
+        }
+      ],
+      "counters": [
+        {
+          "scope": "gemini-3.5-flash-lite",
+          "reserved_requests": 4,
+          "completed_requests": 3,
+          "failed_attempts": 1,
+          "reserved_tokens": 16384,
+          "actual_tokens": 4071
+        },
+        {
+          "scope": "project:gemini",
+          "reserved_requests": 4,
+          "completed_requests": 3,
+          "failed_attempts": 1,
+          "reserved_tokens": 16384,
+          "actual_tokens": 4071
+        }
+      ],
+      "audit": [
+        {
+          "actor": "owner",
+          "action": "logout",
+          "setting": "session",
+          "outcome": "applied"
+        },
+        {
+          "actor": "owner",
+          "action": "update",
+          "setting": "gemini-3.5-flash-lite",
+          "outcome": "applied"
+        },
+        {
+          "actor": "owner",
+          "action": "update",
+          "setting": "global",
+          "outcome": "applied"
+        },
+        {
+          "actor": "owner",
+          "action": "update",
+          "setting": "global",
+          "outcome": "applied"
+        },
+        {
+          "actor": "owner",
+          "action": "update",
+          "setting": "gemini-3.5-flash-lite",
+          "outcome": "applied"
+        },
+        {
+          "actor": "owner",
+          "action": "login",
+          "setting": "session",
+          "outcome": "applied"
+        }
+      ]
+    },
+    "safeStateVerified": true
+  },
+  "regressionChecks": {
+    "unitTests": 64,
+    "failed": 0,
+    "productionTypes": "PASS; 57 files",
+    "developmentTypes": "PASS",
+    "lint": "PASS",
+    "releaseIsolation": "PASS; 132 existing build/trace files",
+    "newProductionBuild": "Not run; application source unchanged",
+    "taskArtifactCredentialScan": "PASS; 6 new diagnostic/report files; zero known configured credential matches",
+    "gitDiffCheck": "PASS; existing CRLF notices only"
+  },
+  "observability": {
+    "deploymentStates": "Both READY; current custom-domain assignment verified",
+    "buildLogs": "403 scope access denied",
+    "runtimeErrorLogs": "403 scope access denied",
+    "d1RequestAndAuditLogs": "Verified directly and through authenticated production dashboard",
+    "zeroRuntimeErrorsClaimed": false
+  },
+  "changes": {
+    "applicationSourceChangedDuringIntegration": false,
+    "productionOriginCorrected": true,
+    "previewOriginUnchanged": true,
+    "temporaryInvitationRevoked": true,
+    "releaseAuthorizationCreated": false,
+    "billingChanged": false,
+    "quotaCeilingsChanged": false,
+    "uncertainRefunded": false,
+    "committed": false,
+    "pushed": false
+  },
+  "historicalDiagnosis": {
+    "checkedAt": "2026-10-23T01:41:00Z",
+    "production": "https://hidden-data.ouahad.space",
+    "deployment": {
+      "id": "dpl_DggoEgaEh9UdHWL6ufdENg2fMNhm",
+      "commit": "465a4510cfb34ff2151eb33fe3dc23c008adeb46",
+      "status": "READY",
+      "newStatusEndpoint": 404
+    },
+    "environment": [
+      {
+        "name": "GEMINI_API_KEY",
+        "productionConfigured": true,
+        "status": "Present"
+      },
+      {
+        "name": "CLOUDFLARE_ACCOUNT_ID",
+        "productionConfigured": true,
+        "status": "Present"
+      },
+      {
+        "name": "CLOUDFLARE_D1_DATABASE_ID",
+        "productionConfigured": true,
+        "status": "Present"
+      },
+      {
+        "name": "CLOUDFLARE_D1_API_TOKEN",
+        "productionConfigured": true,
+        "status": "Present"
+      },
+      {
+        "name": "CLOUD_AI_ADMIN_SECRET",
+        "productionConfigured": true,
+        "status": "Present"
+      },
+      {
+        "name": "CLOUD_AI_ORIGIN",
+        "productionConfigured": true,
+        "status": "Corrected; pending deployment"
+      },
+      {
+        "name": "CLOUD_AI_D1_FREE_UNTIL",
+        "productionConfigured": true,
+        "status": "Current; expires 2026-10-23 20:11 UTC"
+      },
+      {
+        "name": "CLOUD_AI_GEMINI_FREE_UNTIL",
+        "productionConfigured": true,
+        "status": "Current; expires 2026-10-23 20:11 UTC"
+      },
+      {
+        "name": "CLOUD_AI_INVITES",
+        "productionConfigured": false,
+        "status": "Absent"
+      },
+      {
+        "name": "CLOUD_AI_OWNER_TEST_INVITE_HASH",
+        "productionConfigured": false,
+        "status": "Absent"
+      },
+      {
+        "name": "CLOUD_AI_RELEASE_READY_UNTIL",
+        "productionConfigured": false,
+        "status": "Absent"
+      },
+      {
+        "name": "CLOUD_AI_GEMINI_31_VISION_UNTIL",
+        "productionConfigured": false,
+        "status": "Absent"
+      },
+      {
+        "name": "CLOUDFLARE_API_TOKEN",
+        "productionConfigured": true,
+        "status": "Present"
+      },
+      {
+        "name": "CLOUD_AI_CF_FREE_UNTIL",
+        "productionConfigured": false,
+        "status": "Absent"
+      },
+      {
+        "name": "CLOUD_AI_CF_LICENSE_ACCEPTED",
+        "productionConfigured": false,
+        "status": "Absent"
+      },
+      {
+        "name": "NVIDIA_API_KEY",
+        "productionConfigured": true,
+        "status": "Present"
+      }
+    ],
+    "changes": {
+      "productionOriginCorrected": true,
+      "previewOriginUnchanged": true,
+      "otherEnvironmentValuesChanged": false,
+      "releaseAuthorizationCreated": false,
+      "invitationCreated": false,
+      "policyChanged": false,
+      "deployed": false
+    },
+    "verification": {
+      "remoteD1": {
+        "databaseNameMatches": true,
+        "credentialSetMatchesVercel": true,
+        "connection": "PASS from read-only audit client; deployed authenticated path blocked before D1",
+        "emergencyStop": true,
+        "enabledModels": [],
+        "acceptedActions": 3,
+        "providerAttempts": 3,
+        "completed": 2,
+        "uncertain": 1,
+        "reservedTokens": 12288,
+        "reportedTokens": 2743,
+        "policyRevision": 8
+      },
+      "productionBrowser": {
+        "anonymousAdmin": 401,
+        "ownerSignIn": 403,
+        "ownerSignInDurationMs": 590,
+        "sessionCreated": false,
+        "statusEndpoint": 404,
+        "inferenceCalls": 0,
+        "uploadedImage": "local synthetic quadrants; no image POST"
+      },
+      "provider": {
+        "gemini35Metadata": 200,
+        "billingStatus": "Current owner attestation; not independently inspected",
+        "cloudflareSubscriptionInspection": 403
+      },
+      "regressions": {
+        "unitTests": 64,
+        "failed": 0,
+        "productionTypes": "PASS; 57 files",
+        "developmentTypes": "PASS",
+        "lint": "PASS",
+        "releaseIsolation": "PASS; 132 existing build/trace files",
+        "newProductionBuild": "Not run; application source unchanged",
+        "taskArtifactCredentialScan": "PASS; 6 new diagnostic/report files; zero known configured credential matches",
+        "gitDiffCheck": "PASS; existing CRLF notices only"
+      }
+    },
+    "pilot": "BLOCKED pending authorized configuration/publication and temporary owner-test activation"
+  },
+  "finalCredentialScan": {
+    "checkedAt": "2026-10-23T02:11:22.630Z",
+    "files": 6,
+    "findings": 0,
+    "invitationMarkedConsumed": true,
+    "invitationMarkedRevoked": true
+  },
+  "finalAliasVerified": "dpl_9trcmXYecJoRyUWWu5ZNN3U1XRS4"
+}

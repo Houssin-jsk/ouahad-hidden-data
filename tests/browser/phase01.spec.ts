@@ -1,3 +1,9 @@
+import {
+  holdAnalysis,
+  waitHeld,
+  setAnalysisHold,
+} from "./helpers/held-analysis";
+import { openDetails } from "./helpers/disclosures";
 import { test, expect, type Page } from "@playwright/test";
 import { readFile } from "node:fs/promises";
 import os from "node:os";
@@ -16,6 +22,7 @@ async function analyze(page: Page) {
     .getByRole("button", { name: "Analyze image", exact: true })
     .click();
   await expect(page.getByTestId("image-dna")).toBeVisible();
+  await openDetails(page, "Technical details");
 }
 
 test("worker startup failure, unavailable canvas and timeout offer a real retry", async ({
@@ -76,7 +83,9 @@ test("worker startup failure, unavailable canvas and timeout offer a real retry"
   });
   await page.clock.resume();
   await analyze(page);
-  await expect(page.getByTestId("image-dna")).toContainText("255 / 0 / 0");
+  await expect(page.getByTestId("technical-summary")).toContainText(
+    "255 / 0 / 0",
+  );
   await page.getByRole("button", { name: "Clear image" }).click();
   await select(page, "red.png");
   await page.evaluate(() => {
@@ -115,6 +124,7 @@ for (let orientation = 1; orientation <= 8; orientation++) {
       [54, 255, 55, 0],
       [255, 54, 0, 55],
     ][orientation - 1];
+    await openDetails(page, "Explore light & detail");
     await page.getByRole("button", { name: "Light", exact: true }).click();
     const actual = await page
       .getByRole("img", { name: /Light map/ })
@@ -190,7 +200,9 @@ test("oversized headers never create a preview; malformed/decode errors and misl
   );
   await select(page, "صورة.photo.png");
   await analyze(page);
-  await expect(page.getByTestId("image-dna")).toContainText("255 / 0 / 0");
+  await expect(page.getByTestId("technical-summary")).toContainText(
+    "255 / 0 / 0",
+  );
   await select(page, "photo.jpg.png");
   await analyze(page);
   await expect(page.locator(".properties")).toContainText("PNG");
@@ -213,8 +225,9 @@ test("dark, bright, low contrast, tiny and large images retain deterministic mea
     const start = performance.now();
     await analyze(page);
     timings.push({ fixture: name, ms: Math.round(performance.now() - start) });
-    await expect(page.getByTestId("image-dna")).toContainText(rgb);
+    await expect(page.getByTestId("technical-summary")).toContainText(rgb);
     await page.getByRole("tab", { name: "Light", exact: true }).click();
+    await openDetails(page, "Exact light measurements");
     await expect(page.locator(".light-stats")).not.toContainText(
       /NaN|Infinity/,
     );
@@ -233,7 +246,7 @@ test("dark, bright, low contrast, tiny and large images retain deterministic mea
         totalMemoryBytes: os.totalmem(),
         viewport: page.viewportSize(),
         conditions:
-          "Headless desktop Chrome; production localhost server; unthrottled; includes intentional 6s presentation; not a mobile or isolated CPU benchmark",
+          "Headless desktop Chrome; production localhost server; unthrottled; no configured presentation minimum; not a mobile or isolated CPU benchmark",
         timings,
       },
       null,
@@ -247,6 +260,7 @@ test("repeated cancellation/replacement clears URLs and workers; keyboard select
   context,
 }) => {
   await context.grantPermissions(["clipboard-read", "clipboard-write"]);
+  await holdAnalysis(page);
   await page.addInitScript(() => {
     const create = URL.createObjectURL.bind(URL),
       revoke = URL.revokeObjectURL.bind(URL),
@@ -278,7 +292,7 @@ test("repeated cancellation/replacement clears URLs and workers; keyboard select
   });
   await page.goto("/");
   const chooser = page.waitForEvent("filechooser");
-  await page.getByRole("button", { name: /Bring an image/ }).focus();
+  await page.getByRole("button", { name: "Select image", exact: true }).focus();
   await page.keyboard.press("Enter");
   await (
     await chooser
@@ -291,6 +305,7 @@ test("repeated cancellation/replacement clears URLs and workers; keyboard select
     await page
       .getByRole("button", { name: "Analyze image", exact: true })
       .click();
+    await waitHeld(page);
     await page.getByRole("button", { name: "Cancel analysis" }).click();
     await expect(page.getByTestId("image-dna")).toHaveCount(0);
     await expect(
@@ -302,6 +317,7 @@ test("repeated cancellation/replacement clears URLs and workers; keyboard select
       ),
     ).toEqual({ urls: 1, workers: 0 });
   }
+  await setAnalysisHold(page, false);
   await analyze(page);
   await page.getByRole("tab", { name: "Color", exact: true }).click();
   await page.getByRole("button", { name: "Copy #FF0000" }).click();
@@ -316,7 +332,9 @@ test("repeated cancellation/replacement clears URLs and workers; keyboard select
   ).toEqual({ urls: 0, workers: 0 });
   await select(page, "bright.png");
   await analyze(page);
-  await expect(page.getByTestId("image-dna")).toContainText("255 / 255 / 255");
+  await expect(page.getByTestId("technical-summary")).toContainText(
+    "255 / 255 / 255",
+  );
   await page.getByRole("button", { name: "Clear image" }).click();
   expect(
     await page.evaluate(() =>

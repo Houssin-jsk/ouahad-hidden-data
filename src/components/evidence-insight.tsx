@@ -59,10 +59,8 @@ export function EvidenceInsight({
             <summary>Method and evidence</summary>
             <p>{insight.method.description}</p>
             <p>
-              Method: {insight.method.id} · version {insight.method.version}.
-              Interpretation rule: {insight.interpretation.ruleId}. Band
-              boundaries are product-defined descriptions. Shares are measured
-              proportions, never confidence percentages.
+              Band boundaries are product-defined descriptions. Shares are
+              measured proportions, never confidence percentages.
             </p>
             <dl className="insight-evidence">
               {Object.entries(insight.measurements).map(

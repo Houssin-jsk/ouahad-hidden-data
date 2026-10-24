@@ -1,5 +1,7 @@
 # Hidden Data — Phase 03 architecture
 
+> Historical architecture record. Current behavior, fallback rules, privacy, environment requirements and verification are in [the README](../../README.md) and [Release readiness](../RELEASE-READINESS.md). Later implementation supersedes the old six-second loader and tab-local AI lifecycle below.
+
 **Final exit review, 2026-10-22: Phase 03 COMPLETED; Final Readiness Audit CONDITIONAL; Phase 04 READY as an engineering exit gate only; public deployment NOT YET AUTHORIZED.** AI grounding remains EXPERIMENTAL. Emergency stop is ON, all models are OFF, the owner session and temporary invitation are revoked, and previous debits are preserved. See **FINAL READINESS AUDIT — EXIT REVIEW** at the end. Every older status block below is historical.
 
 **Latest timeout-fix verification, 2026-10-22:** Engineering **PASS**, Cost Safety **PASS** for the current owner-confirmed free configuration, Production Readiness **READY for the restricted pilot**, Phase 04 readiness **YES** as an exit gate only. One new real admitted request succeeded with validated observations visible and D1 accounting verified; the earlier uncertain debit remains. Stop restored, all models disabled, public release closed. **Gemini Timeout Alignment — Final Verification** supersedes earlier status/deadline statements; no deployment or Phase 04 work occurred.

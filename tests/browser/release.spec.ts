@@ -1,3 +1,4 @@
+import { openDetails } from "./helpers/disclosures";
 import { test, expect } from "@playwright/test";
 for (const width of [1440, 390]) {
   test(`non-AI release at ${width}px: real analysis, replacement, no model or inference traffic`, async ({
@@ -22,18 +23,17 @@ for (const width of [1440, 390]) {
         ctx.fillRect(0, 0, 80, 40);
         return canvas.toDataURL("image/png").split(",")[1];
       }, color);
-      await page
-        .getByLabel("Choose image")
-        .setInputFiles({
-          name,
-          mimeType: "image/png",
-          buffer: Buffer.from(bytes, "base64"),
-        });
+      await page.getByLabel("Choose image").setInputFiles({
+        name,
+        mimeType: "image/png",
+        buffer: Buffer.from(bytes, "base64"),
+      });
       const start = Date.now();
       await page
         .getByRole("button", { name: "Analyze image", exact: true })
         .click();
       await expect(page.getByTestId("image-dna")).toBeVisible();
+      await openDetails(page, "Technical details");
       expect(Date.now() - start).toBeLessThan(12000);
       await expect(page.getByRole("tab")).toHaveText([
         "Overview",
@@ -41,7 +41,7 @@ for (const width of [1440, 390]) {
         "Light",
         "Metadata",
       ]);
-      await expect(page.getByTestId("image-dna")).toContainText(
+      await expect(page.getByTestId("technical-summary")).toContainText(
         color === "red" ? "255 / 0 / 0" : "0 / 0 / 255",
       );
       await page.getByRole("tab", { name: "Color", exact: true }).click();
@@ -49,6 +49,7 @@ for (const width of [1440, 390]) {
         color === "red" ? "#FF0000" : "#0000FF",
       );
       await page.getByRole("tab", { name: "Light", exact: true }).click();
+      await openDetails(page, "Exact light measurements");
       await expect(page.locator(".histogram>div")).toHaveCount(32);
       await page.getByRole("tab", { name: "Metadata", exact: true }).click();
       await expect(

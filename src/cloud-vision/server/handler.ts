@@ -92,7 +92,9 @@ export async function handleVision(
   const signal = AbortSignal.any([request.signal, deadline]);
   let ledger: SharedLedger;
   try {
-    ledger = deps.ledger ?? configuredLedger(env, request.signal);
+    // Keep a small, bounded settlement window even when the browser disconnects.
+    // Cancellation stops inference but must not cancel uncertain-debit recording.
+    ledger = deps.ledger ?? configuredLedger(env, AbortSignal.timeout(58_000));
     const policy = await ledger.models();
     adapters = adapters.map((adapter) => {
       const row = policy.find((p) => p.model_key === adapter.model);
@@ -108,6 +110,7 @@ export async function handleVision(
         },
       };
     });
+    signal.throwIfAborted();
   } catch {
     return reply(
       unavailable(

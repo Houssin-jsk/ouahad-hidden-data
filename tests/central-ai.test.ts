@@ -860,6 +860,37 @@ test("dashboard explains the preceding error for a fallback attempt", async () =
     f.db.close();
   }
 });
+
+for (const kind of ["timeout", "outage"] as const) {
+  test(`${kind} keeps one uncertain debit and stops eligible fallback`, async () => {
+    const f = fixture();
+    try {
+      const action = await f.action();
+      const primary = adapter();
+      primary.run = async () => {
+        throw new ProviderFailure(kind);
+      };
+      const calls: string[] = [];
+      const result = await routeVision(
+        [primary, adapter(MODEL_KEYS[1], calls)],
+        image,
+        f.store.routing(action),
+        new AbortController().signal,
+      );
+      assert.equal(result.error, kind);
+      assert.equal(result.processing?.attempts, 1);
+      assert.deepEqual(calls, []);
+      const snapshot = await adminSnapshot(f.store, adminEnv());
+      assert.equal(snapshot.overview.uncertain, 1);
+      assert.equal(snapshot.overview.reserved_tokens, TOKEN_RESERVATION);
+      assert.equal(snapshot.overview.reported_tokens, 0);
+      assert.equal(snapshot.logs[0].actual_tokens, null);
+      assert.equal(snapshot.logs[0].outcome, "uncertain");
+    } finally {
+      f.db.close();
+    }
+  });
+}
 test("retention removes expired logs and sessions without refunding current quota or storing image content", async () => {
   const f = fixture();
   try {

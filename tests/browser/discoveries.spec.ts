@@ -1,3 +1,4 @@
+import { openDetails } from "./helpers/disclosures";
 import { test, expect, type Page } from "@playwright/test";
 import { withExif, withPngSoftware } from "../fixtures/exif";
 async function fixture(
@@ -39,6 +40,7 @@ async function analyze(page: Page, file: Awaited<ReturnType<typeof fixture>>) {
   await page.getByLabel("Choose image").setInputFiles(file);
   await page.getByRole("button", { name: "Analyze image" }).click();
   await expect(page.getByTestId("image-dna")).toBeVisible();
+  await openDetails(page, "Technical details");
 }
 test("EXIF fields, recorded orientation, explicit GPS privacy and replacement", async ({
   page,
@@ -79,6 +81,7 @@ test("EXIF fields, recorded orientation, explicit GPS privacy and replacement", 
   await expect(page.getByLabel("Revealed location")).toContainText("12.50000");
   await page.getByRole("button", { name: "Hide location" }).click();
   await expect(page.getByLabel("Revealed location")).toHaveCount(0);
+  await openDetails(page, "Explore light & detail");
   await page.getByRole("button", { name: "Light", exact: true }).click();
   await expect(page.getByRole("img", { name: /Light map/ })).toHaveJSProperty(
     "naturalWidth",
@@ -119,6 +122,7 @@ test("real light/detail maps, interactive comparison and blob URL cleanup", asyn
   });
   await page.goto("/");
   await analyze(page, await fixture(page));
+  await openDetails(page, "Explore light & detail");
   await page.getByRole("button", { name: "Light", exact: true }).click();
   const light = page.getByRole("img", { name: /Light map/ });
   const read = await light.evaluate((element) => {
@@ -132,6 +136,7 @@ test("real light/detail maps, interactive comparison and blob URL cleanup", asyn
     return [d[0], d[(c.width - 1) * 4]];
   });
   expect(read).toEqual([0, 255]);
+  await openDetails(page, "Explore light & detail");
   await page.getByRole("button", { name: "Detail", exact: true }).click();
   const detail = page.getByRole("img", { name: /Detail map/ });
   const edges = await detail.evaluate((element) => {

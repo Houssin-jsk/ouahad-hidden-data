@@ -1,3 +1,4 @@
+import { openDetails } from "./helpers/disclosures";
 import { test, expect, type Page } from "@playwright/test";
 type Pattern = "checker" | "gradient" | "partial" | "solid";
 async function selectPattern(
@@ -53,16 +54,15 @@ async function selectPattern(
     },
     { pattern, width, height },
   );
-  await page
-    .getByLabel("Choose image")
-    .setInputFiles({
-      name: `${pattern}.png`,
-      mimeType: "image/png",
-      buffer: Buffer.from(fixture.encoded, "base64"),
-    });
+  await page.getByLabel("Choose image").setInputFiles({
+    name: `${pattern}.png`,
+    mimeType: "image/png",
+    buffer: Buffer.from(fixture.encoded, "base64"),
+  });
   const start = Date.now();
   await page.getByRole("button", { name: "Analyze image" }).click();
   await expect(page.getByTestId("image-dna")).toBeVisible();
+  await openDetails(page, "Technical details");
   console.log(
     `${pattern} ${width}×${height}: analyze-to-result ${Date.now() - start} ms`,
   );
@@ -74,7 +74,7 @@ test("decoded fine checkerboard retains original colors and luminance, not resiz
   await page.goto("/");
   const fixture = await selectPattern(page, "checker", 2048, 2048);
   expect(Math.abs(fixture.oldAverage - 128)).toBeLessThan(1);
-  await expect(page.getByTestId("image-dna")).toContainText(
+  await expect(page.getByTestId("technical-summary")).toContainText(
     "native-pixel sample",
   );
   await page.getByRole("tab", { name: "Color", exact: true }).click();
@@ -84,6 +84,7 @@ test("decoded fine checkerboard retains original colors and luminance, not resiz
   for (const channel of average.match(/\d+/g)!.map(Number))
     expect(Math.abs(channel - 127.5)).toBeLessThan(1);
   await page.getByRole("tab", { name: "Light", exact: true }).click();
+  await openDetails(page, "Exact light measurements");
   await expect(page.locator(".light-stats")).toContainText("≈ 0.50");
   const bars = page.locator(".histogram > div");
   expect(await bars.count()).toBe(32);
@@ -93,15 +94,14 @@ test("decoded fine checkerboard retains original colors and luminance, not resiz
   const spread = await page.locator(".light-stats dd").nth(1).innerText();
   expect(mean).toBe("≈ 0.50");
   expect(spread).toBe("≈ 0.50");
-  await page
-    .getByLabel("Choose image")
-    .setInputFiles({
-      name: "repeat.png",
-      mimeType: "image/png",
-      buffer: Buffer.from(fixture.encoded, "base64"),
-    });
+  await page.getByLabel("Choose image").setInputFiles({
+    name: "repeat.png",
+    mimeType: "image/png",
+    buffer: Buffer.from(fixture.encoded, "base64"),
+  });
   await page.getByRole("button", { name: "Analyze image" }).click();
   await page.getByRole("tab", { name: "Light", exact: true }).click();
+  await openDetails(page, "Exact light measurements");
   await expect(page.locator(".light-stats dd").first()).toHaveText(mean);
   await expect(page.locator(".light-stats dd").nth(1)).toHaveText(spread);
 });
@@ -110,10 +110,11 @@ test("decoded grayscale ramp has correct native means and every expected histogr
 }) => {
   await page.goto("/");
   await selectPattern(page, "gradient", 256, 128);
-  await expect(page.getByTestId("image-dna")).toContainText(
+  await expect(page.getByTestId("technical-summary")).toContainText(
     "All decoded pixels",
   );
   await page.getByRole("tab", { name: "Light", exact: true }).click();
+  await openDetails(page, "Exact light measurements");
   await expect(page.locator(".light-stats dd").first()).toHaveText("0.311");
   await expect(page.locator(".light-stats dd").nth(1)).toHaveText("0.294");
   const counts = [
@@ -129,6 +130,7 @@ test("decoded grayscale ramp has correct native means and every expected histogr
     );
   await selectPattern(page, "gradient", 4096, 1024);
   await page.getByRole("tab", { name: "Light", exact: true }).click();
+  await openDetails(page, "Exact light measurements");
   await expect(page.locator(".light-stats dd").first()).toHaveText("≈ 0.31");
   await expect(page.locator(".light-stats dd").nth(1)).toHaveText("≈ 0.29");
 });
@@ -147,6 +149,7 @@ test("decoded partially transparent PNG has alpha-weighted color shares and cove
   await expect(page.locator(".palette-list")).toContainText("75.0%");
   await expect(page.locator(".palette-list")).toContainText("25.0%");
   await page.getByRole("tab", { name: "Light", exact: true }).click();
+  await openDetails(page, "Exact light measurements");
   await expect(page.locator(".light-stats dd").first()).toHaveText("0.178");
   await expect(page.locator(".light-stats dd").nth(1)).toHaveText("0.061");
 });
@@ -155,13 +158,14 @@ test("uniform image has one family, exactly zero spread, and an honest DNA summa
 }) => {
   await page.goto("/");
   await selectPattern(page, "solid", 1024, 1024);
-  await expect(page.getByTestId("image-dna")).toContainText(
+  await expect(page.getByTestId("technical-summary")).toContainText(
     "average RGB 128 / 128 / 128",
   );
-  await expect(page.getByTestId("image-dna")).toContainText(
+  await expect(page.getByTestId("technical-summary")).toContainText(
     "#808080, about 100%",
   );
   await page.getByRole("tab", { name: "Light", exact: true }).click();
+  await openDetails(page, "Exact light measurements");
   await expect(page.locator(".light-stats dd").nth(1)).toHaveText("≈ 0.00");
 });
 test("replacement during worker computation discards old results", async ({
@@ -177,16 +181,18 @@ test("replacement during worker computation discards old results", async ({
     ctx.fillRect(0, 0, c.width, c.height);
     return c.toDataURL().split(",")[1];
   });
-  await page
-    .getByLabel("Choose image")
-    .setInputFiles({
-      name: "large.png",
-      mimeType: "image/png",
-      buffer: Buffer.from(fixture, "base64"),
-    });
+  await page.getByLabel("Choose image").setInputFiles({
+    name: "large.png",
+    mimeType: "image/png",
+    buffer: Buffer.from(fixture, "base64"),
+  });
   await page.getByRole("button", { name: "Analyze image" }).click();
   await selectPattern(page, "solid", 100, 50);
-  await expect(page.getByTestId("image-dna")).toContainText("100 × 50 PNG");
-  await expect(page.getByTestId("image-dna")).toContainText("#808080");
-  await expect(page.getByTestId("image-dna")).not.toContainText("#FF0000");
+  await expect(page.getByTestId("technical-summary")).toContainText(
+    "100 × 50 PNG",
+  );
+  await expect(page.getByTestId("technical-summary")).toContainText("#808080");
+  await expect(page.getByTestId("technical-summary")).not.toContainText(
+    "#FF0000",
+  );
 });

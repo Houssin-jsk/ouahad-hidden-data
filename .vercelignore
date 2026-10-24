@@ -19,6 +19,7 @@ scripts/cloud-invite.mjs
 scripts/cloud-admin-key.mjs
 scripts/cloud-d1.ts
 scripts/cloud-d1-verification.ts
+scripts/cloud-readiness.ts
 scripts/setup-companion-vendor.py
 scripts/cloud-admitted-smoke.ts
 .cloud-ai/

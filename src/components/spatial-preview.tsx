@@ -22,24 +22,6 @@ export function SpatialPreview({
   const mapped = urls && mode !== "Original";
   return (
     <>
-      {urls && (
-        <div
-          className="view-controls"
-          role="group"
-          aria-label="Image visualization"
-        >
-          {["Original", "Light", "Detail", "Compare"].map((view) => (
-            <button
-              key={view}
-              type="button"
-              aria-pressed={mode === view}
-              onClick={() => setMode(view)}
-            >
-              {view}
-            </button>
-          ))}
-        </div>
-      )}
       <div
         className="preview-area spatial-preview"
         style={{ aspectRatio: `${source.width}/${source.height}` }}
@@ -78,29 +60,72 @@ export function SpatialPreview({
           {source.width.toLocaleString()} × {source.height.toLocaleString()} PX
         </span>
       </div>
-      {urls && mode === "Compare" && (
-        <label className="comparison-control">
-          Detail / original split{" "}
-          <input
-            type="range"
-            min="0"
-            max="100"
-            value={split}
-            onChange={(e) => setSplit(Number(e.target.value))}
-          />
-        </label>
-      )}
-      {urls && mode !== "Original" && (
-        <p className="map-description">
-          {mode === "Light"
-            ? "Light map: black = relative luminance 0; white = 1. No per-image normalization."
-            : "Detail map: white = the strongest Sobel gradient in this map; black = no gradient. Normalized separately per image; not a sharpness or quality score."}{" "}
-          {result?.maps?.width} × {result?.maps?.height} pixels; large images
-          are downscaled for maps only. Transparent pixels stay transparent;
-          detail kernels touching fully transparent pixels are excluded. Edges
-          can come from subject texture, noise or resizing. These maps do not
-          establish sharp focus, retouching, authenticity or image quality.
-        </p>
+      {urls && (
+        <details
+          className="map-explorer"
+          onToggle={(event) => {
+            if (!event.currentTarget.open) setMode("Original");
+          }}
+        >
+          <summary>Explore light &amp; detail</summary>
+          <p>
+            Find lighter areas, edges and texture. Compare a map with your
+            original.
+          </p>
+          <div
+            className="view-controls"
+            role="group"
+            aria-label="Image visualization"
+          >
+            {["Original", "Light", "Detail", "Compare"].map((view) => (
+              <button
+                key={view}
+                type="button"
+                aria-pressed={mode === view}
+                onClick={() => setMode(view)}
+              >
+                {view}
+              </button>
+            ))}
+          </div>
+          {urls && mode === "Compare" && (
+            <label className="comparison-control">
+              Detail / original split{" "}
+              <input
+                type="range"
+                min="0"
+                max="100"
+                value={split}
+                onChange={(e) => setSplit(Number(e.target.value))}
+              />
+            </label>
+          )}
+          {urls && mode !== "Original" && (
+            <>
+              <p className="map-explanation">
+                {mode === "Light"
+                  ? "Lighter areas have higher measured luminance; darker areas have lower luminance. This is not an exposure grade."
+                  : mode === "Compare"
+                    ? "Move the slider to compare the original with the detail map. Bright marks show local changes in light, including edges and texture."
+                    : "Bright marks show local changes in light, including edges and texture. They do not measure sharpness, subject importance or image quality."}
+              </p>
+              <details className="map-technical">
+                <summary>Map technical details</summary>
+                <p className="map-description">
+                  {mode === "Light"
+                    ? "Light map: black = relative luminance 0; white = 1. No per-image normalization."
+                    : "Detail map: white = the strongest Sobel gradient in this map; black = no gradient. Normalized separately per image; not a sharpness or quality score."}{" "}
+                  {result?.maps?.width} × {result?.maps?.height} pixels; large
+                  images are downscaled for maps only. Transparent pixels stay
+                  transparent; detail kernels touching fully transparent pixels
+                  are excluded. Edges can come from subject texture, noise or
+                  resizing. These maps do not establish sharp focus, retouching,
+                  authenticity or image quality.
+                </p>
+              </details>
+            </>
+          )}
+        </details>
       )}
       {result?.mapError && <p className="result-footnote">{result.mapError}</p>}
     </>

@@ -1,3 +1,4 @@
+import { openDetails } from "./helpers/disclosures";
 import { test, expect, type Page } from "@playwright/test";
 async function fixture(
   page: Page,
@@ -39,7 +40,9 @@ test("real pixels → worker → explorable results, replacement, no uploads", a
   page.on("pageerror", (e) => errors.push(e.message));
   await page.goto("/");
   await expect(
-    page.getByRole("heading", { name: "Every image has a story." }),
+    page.getByRole("heading", {
+      name: "Color you can use. Light you can understand.",
+    }),
   ).toBeVisible();
   requests.length = 0;
   await page
@@ -62,6 +65,7 @@ test("real pixels → worker → explorable results, replacement, no uploads", a
   await expect(page.locator(".palette-list")).toContainText("100.0%");
   await expect(page.locator(".average-color")).toContainText("RGB 255 / 0 / 0");
   await page.getByRole("tab", { name: "Light", exact: true }).click();
+  await openDetails(page, "Exact light measurements");
   await expect(page.locator(".light-stats")).toContainText("0.213");
   await expect(page.locator(".light-stats")).toContainText("0.000");
   await page.screenshot({
@@ -73,6 +77,7 @@ test("real pixels → worker → explorable results, replacement, no uploads", a
     .setInputFiles(await fixture(page, "split.png", ["#000000", "#ffffff"]));
   await page.getByRole("button", { name: "Analyze image" }).click();
   await page.getByRole("tab", { name: "Light", exact: true }).click();
+  await openDetails(page, "Exact light measurements");
   await expect(page.locator(".light-stats")).toContainText("0.500");
   await expect(page.locator(".tone-list")).toContainText("50.0%");
   const bars = page.locator(".histogram>div");
@@ -81,7 +86,7 @@ test("real pixels → worker → explorable results, replacement, no uploads", a
   await expect(bars.last()).toHaveAttribute("data-tooltip", /50.0%/);
   await page.getByRole("button", { name: "Clear image" }).click();
   await expect(
-    page.getByRole("button", { name: /Bring an image/ }),
+    page.getByRole("button", { name: "Select image", exact: true }),
   ).toBeVisible();
   expect(errors).toEqual([]);
   expect(requests.filter((r) => r.method !== "GET" || r.body)).toEqual([]);

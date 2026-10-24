@@ -229,6 +229,9 @@ export function AdminConsole({ initial }: { initial: Snapshot | null }) {
                 "Provider attempts": data.overview.provider_attempts,
                 "Successful attempts": data.overview.completed,
                 "Failed / uncertain attempts": data.overview.failed,
+                "Uncertain / expired reservations": data.overview.uncertain,
+                "Reserved tokens": data.overview.reserved_tokens,
+                "Reported tokens": data.overview.reported_tokens,
                 "Fallback attempts": data.overview.fallbacks,
                 "Active reservations": data.overview.active,
               }).map(([title, value]) => (
@@ -437,6 +440,8 @@ export function AdminConsole({ initial }: { initial: Snapshot | null }) {
                       <th>Outcome</th>
                       <th>Error</th>
                       <th>Duration</th>
+                      <th>Reserved tokens</th>
+                      <th>Reported tokens</th>
                       <th>Fallback</th>
                     </tr>
                   </thead>
@@ -451,6 +456,12 @@ export function AdminConsole({ initial }: { initial: Snapshot | null }) {
                           {row.duration_ms === null
                             ? "Pending"
                             : `${row.duration_ms} ms`}
+                        </td>
+                        <td>{String(row.reserved_tokens)}</td>
+                        <td>
+                          {row.actual_tokens === null
+                            ? "Unknown"
+                            : String(row.actual_tokens)}
                         </td>
                         <td>
                           {row.fallback

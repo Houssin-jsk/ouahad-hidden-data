@@ -266,6 +266,7 @@ export function d1Query(
   if (!/^[a-f0-9]{32}$/.test(account) || !/^[a-f0-9-]{36}$/.test(database))
     throw Error("Invalid ledger configuration");
   return async (sql, params) => {
+    const combined = AbortSignal.any([signal, AbortSignal.timeout(4000)]);
     const response = await fetch(
       `https://api.cloudflare.com/client/v4/accounts/${account}/d1/database/${database}/query`,
       {
@@ -275,12 +276,12 @@ export function d1Query(
           "content-type": "application/json",
         },
         body: JSON.stringify({ sql, params }),
-        signal: AbortSignal.any([signal, AbortSignal.timeout(4000)]),
+        signal: combined,
         cache: "no-store",
         redirect: "error",
       },
     );
-    const value = (await boundedJson(response, 262144)) as {
+    const value = (await boundedJson(response, 262144, combined)) as {
       success?: boolean;
       result?: { success?: boolean; results?: Record<string, unknown>[] }[];
     };
@@ -291,7 +292,7 @@ export function d1Query(
       first?.success !== true ||
       !Array.isArray(first.results)
     )
-      throw Error("Ledger unavailable");
+      throw Error(`Ledger unavailable (HTTP ${response.status})`);
     return first.results;
   };
 }

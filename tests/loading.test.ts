@@ -34,11 +34,12 @@ function virtualClock() {
   };
   return { clock, advance, events };
 }
-test("fast work is released at the configurable six-second minimum, never before", () => {
+test("an explicitly requested presentation minimum remains independently configurable", () => {
   const c = virtualClock(),
     released: number[] = [],
     indices: number[] = [];
   const run = createLoadingRun({
+    minimumMs: 6000,
     clock: c.clock,
     onFrame: (f) => indices.push(f.presentedIndex),
     onReady: () => released.push(c.clock.now()),
@@ -47,7 +48,7 @@ test("fast work is released at the configurable six-second minimum, never before
   run.complete({ actual: "ready" });
   c.advance(5999);
   assert.deepEqual(released, []);
-  c.advance(MINIMUM_LOADING_MS);
+  c.advance(6000);
   assert.deepEqual(released, [6000]);
   assert.equal(c.events.size, 0);
   assert.deepEqual([...new Set(indices)], [0, 1, 2, 3, 4, 5]);
@@ -73,6 +74,7 @@ test("cancelling buffered fast results discards them and removes all timers", ()
   const c = virtualClock();
   let released = false;
   const run = createLoadingRun({
+    minimumMs: 6000,
     clock: c.clock,
     onFrame: () => {},
     onReady: () => {
@@ -91,6 +93,7 @@ test("replacement has its own timing and only the latest result is released", ()
   const c = virtualClock(),
     released: string[] = [];
   const old = createLoadingRun<string>({
+    minimumMs: 6000,
     clock: c.clock,
     onFrame: () => {},
     onReady: (r) => released.push(r),
@@ -99,6 +102,7 @@ test("replacement has its own timing and only the latest result is released", ()
   c.advance(2000);
   old.cancel();
   const next = createLoadingRun<string>({
+    minimumMs: 6000,
     clock: c.clock,
     onFrame: () => {},
     onReady: (r) => released.push(r),
@@ -108,6 +112,21 @@ test("replacement has its own timing and only the latest result is released", ()
   assert.deepEqual(released, []);
   c.advance(8000);
   assert.deepEqual(released, ["new"]);
+});
+
+test("the public default releases completed work immediately with no presentation delay", () => {
+  assert.equal(MINIMUM_LOADING_MS, 0);
+  const c = virtualClock();
+  const released: number[] = [];
+  const run = createLoadingRun({
+    clock: c.clock,
+    onFrame: () => {},
+    onReady: () => released.push(c.clock.now()),
+  });
+  c.advance(100);
+  run.complete("ready");
+  assert.deepEqual(released, [100]);
+  assert.equal(c.events.size, 0);
 });
 test("duration and stage gates are independently tunable", () => {
   const c = virtualClock();

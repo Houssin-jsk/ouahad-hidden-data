@@ -5,6 +5,7 @@ import type { AnalysisResult, ImageSource } from "@/analysis/types";
 import { hex } from "@/analysis/pixels";
 import { fileSize, formatDecimal } from "@/lib/format";
 import { imageDNA } from "@/analysis/dna";
+import { paletteText, tonalSummary } from "@/lib/image-summary";
 import { MetadataResults } from "./metadata-results";
 import { EvidenceInsight } from "./evidence-insight";
 import { CloudObservations } from "./cloud-observations";
@@ -21,8 +22,10 @@ export function Results({
   source: ImageSource;
 }) {
   const [tab, setTab] = useState("Overview");
-  function selectTab(value: string) {
+  function selectTab(value: string, moveFocus = false) {
     setTab(value);
+    if (moveFocus)
+      document.getElementById(`tab-${value}`)?.focus({ preventScroll: true });
   }
   const [copied, setCopied] = useState("");
   const [copyError, setCopyError] = useState("");
@@ -36,7 +39,8 @@ export function Results({
       setCopied(value);
       setCopyError("");
     } catch {
-      setCopyError("Clipboard unavailable. Select the HEX code to copy it.");
+      setCopied("");
+      setCopyError("Clipboard unavailable.");
     }
   }
   return (
@@ -60,10 +64,7 @@ export function Results({
               else if (event.key === "End") next = tabs.length - 1;
               else return;
               event.preventDefault();
-              selectTab(tabs[next]);
-              document
-                .getElementById(`tab-${tabs[next].replaceAll(" ", "-")}`)
-                ?.focus();
+              selectTab(tabs[next], true);
             }}
           >
             {t}
@@ -80,8 +81,39 @@ export function Results({
           <>
             <div className="result-title">
               <span className="eyebrow">IMAGE DNA</span>
-              <h2>The bigger picture.</h2>
-              <p data-testid="image-dna">{imageDNA(r, s)}</p>
+              <h2>Your image, at a glance.</h2>
+              <p>Measured from the pixels. Ready to explore.</p>
+            </div>
+            <div className="image-summary" data-testid="image-dna">
+              <div className="summary-color">
+                <span
+                  className="summary-swatch"
+                  style={{ background: r.palette[0].hex }}
+                  aria-hidden="true"
+                />
+                <div>
+                  <span className="summary-label">Leading color family</span>
+                  <strong>{r.palette[0].hex}</strong>
+                  <p>
+                    About {percent(r.palette[0].share)} of the measured color
+                    area.
+                  </p>
+                </div>
+              </div>
+              <div>
+                <span className="summary-label">Light character</span>
+                <strong>{tonalSummary(r.luminance)}</strong>
+                <p>Explore Light to see how the tones are distributed.</p>
+              </div>
+              {r.coverage < 1 && (
+                <div>
+                  <span className="summary-label">Transparency detected</span>
+                  <p>
+                    Clear areas contribute no color; partly transparent pixels
+                    count proportionally.
+                  </p>
+                </div>
+              )}
             </div>
             <dl className="properties">
               <div>
@@ -124,38 +156,39 @@ export function Results({
               ))}
             </div>
             <div className="overview-caption">
-              <span>THE IMAGE, IN COLOR</span>
-              <button onClick={() => setTab("Color")}>Explore palette ↗</button>
+              <span>Your measured palette</span>
+              <button onClick={() => selectTab("Color", true)}>
+                Explore palette ↗
+              </button>
             </div>
-            <div className="overview-light">
-              <span>Average relative luminance</span>
-              <strong>
-                {approximate ? "≈ " : ""}
-                {percent(r.luminance.mean)}
-              </strong>
-              <div className="luminance-track">
-                <i style={{ left: `${r.luminance.mean * 100}%` }} />
-              </div>
-              <div className="axis">
-                <span>Dark</span>
-                <span>Light</span>
-              </div>
-              <p className="result-footnote">
-                Mean light level after linearizing sRGB: 0 is black, 1 is white.
-                This is not perceived brightness or exposure.
-              </p>
+            <div className="summary-actions">
+              <button
+                className="palette-action"
+                onClick={() => void copy(paletteText(r.palette))}
+              >
+                <Copy size={15} /> Copy palette
+              </button>
+              <button
+                className="text-button"
+                onClick={() => selectTab("Light", true)}
+              >
+                Explore light <span aria-hidden="true">↗</span>
+              </button>
             </div>
-            <CloudObservations key={s.url} url={s.url} />
           </>
         )}
+        <div hidden={tab !== "Overview"}>
+          <CloudObservations key={s.url} url={s.url} />
+        </div>
         {tab === "Color" && (
           <>
             <div className="result-title">
               <span className="eyebrow">COLOR SIGNATURE</span>
-              <h2>A palette, revealed.</h2>
+              <h2>Take the colors with you.</h2>
               <p>
-                Up to six RGB color families. Shares account for pixel area and
-                alpha.
+                Copy a color for your next design, or take the whole palette.
+                Proportions show how much of the measured area each family
+                represents.
               </p>
             </div>
             <div
@@ -191,6 +224,41 @@ export function Results({
                 </div>
               ))}
             </div>
+            <div className="palette-actions">
+              <button
+                className="palette-action"
+                onClick={() => void copy(paletteText(r.palette))}
+              >
+                <Copy size={15} /> Copy palette
+              </button>
+              <button
+                className="palette-action secondary-action"
+                onClick={() => void copy(paletteText(r.palette, true))}
+              >
+                Copy CSS
+              </button>
+            </div>
+            <details className="palette-text">
+              <summary>View palette text</summary>
+              <label>
+                HEX codes
+                <textarea
+                  aria-label="Palette HEX codes"
+                  readOnly
+                  value={paletteText(r.palette)}
+                  onFocus={(event) => event.currentTarget.select()}
+                />
+              </label>
+              <label>
+                CSS variables
+                <textarea
+                  aria-label="Palette CSS variables"
+                  readOnly
+                  value={paletteText(r.palette, true)}
+                  onFocus={(event) => event.currentTarget.select()}
+                />
+              </label>
+            </details>
             <div className="average-color">
               <span className="swatch" style={{ background: hex(r.average) }} />
               <div>
@@ -200,25 +268,25 @@ export function Results({
               </div>
             </div>
             <p className="result-footnote">
-              RGB averages are rounded channel means in encoded sRGB, not
-              averages of light energy. Palette colors are approximate cluster
-              means and may not exist as individual pixels.
+              Average color is one RGB mean across the measured pixels. It is
+              different from the grouped palette, and may not appear in the
+              image.
             </p>
-            <p className="sr-only" role="status">
-              {copied && `Copied ${copied}`}
-            </p>
-            {copyError && <p role="alert">{copyError}</p>}
-            <EvidenceInsight kind="color" insight={r.analytics?.color} />
+            <details className="distribution-details">
+              <summary>Color distribution details</summary>
+              <EvidenceInsight kind="color" insight={r.analytics?.color} />
+            </details>
           </>
         )}
         {tab === "Light" && (
           <>
             <div className="result-title">
               <span className="eyebrow">LIGHT & TONAL BALANCE</span>
-              <h2>Where the light lives.</h2>
+              <h2>Read the light.</h2>
               <p>
-                Relative luminance, from black to white. Bar height shows the
-                share in each of 32 equal bins.
+                {tonalSummary(r.luminance)}. Taller bars mean more of the image
+                falls in that light range. Dark or bright is not a quality
+                judgment.
               </p>
             </div>
             <div
@@ -255,48 +323,82 @@ export function Results({
                 </div>
               ))}
             </div>
-            <dl className="light-stats">
-              <div>
-                <dt>Mean luminance</dt>
-                <dd>{value(r.luminance.mean)}</dd>
-              </div>
-              <div>
-                <dt>Tonal spread · standard deviation</dt>
-                <dd>{value(r.luminance.deviation)}</dd>
-              </div>
-              <div>
-                <dt>
-                  {approximate ? "Sampled luminance range" : "Luminance range"}
-                </dt>
-                <dd>
-                  {value(r.luminance.min)} — {value(r.luminance.max)}
-                </dd>
-              </div>
-            </dl>
-            <p className="result-footnote">
-              Product-defined bands: shadows &lt; 0.2 · midtones 0.2–0.7 ·
-              highlights ≥ 0.7.
-              <br />
-              Tonal spread is population luminance standard deviation: larger
-              values mean more variation. It is not an accessibility ratio or a
-              universal image-contrast score.
+            <details className="light-technical">
+              <summary>Exact light measurements</summary>
+              <dl className="light-stats">
+                <div>
+                  <dt>Mean luminance</dt>
+                  <dd>{value(r.luminance.mean)}</dd>
+                </div>
+                <div>
+                  <dt>Tonal spread · standard deviation</dt>
+                  <dd>{value(r.luminance.deviation)}</dd>
+                </div>
+                <div>
+                  <dt>
+                    {approximate
+                      ? "Sampled luminance range"
+                      : "Luminance range"}
+                  </dt>
+                  <dd>
+                    {value(r.luminance.min)} — {value(r.luminance.max)}
+                  </dd>
+                </div>
+              </dl>
+              <p className="result-footnote">
+                Product-defined bands: shadows &lt; 0.2 · midtones 0.2–0.7 ·
+                highlights ≥ 0.7.
+                <br />
+                Tonal spread is population luminance standard deviation: larger
+                values mean more variation. It is not an accessibility ratio or
+                a universal image-contrast score.
+              </p>
+            </details>
+            <p className="exploration-hint">
+              To locate these tones in the picture, open{" "}
+              <strong>Explore light &amp; detail</strong> beneath your image.
             </p>
-            <EvidenceInsight kind="tonal" insight={r.analytics?.tonal} />
+            <details className="distribution-details">
+              <summary>Light distribution details</summary>
+              <EvidenceInsight kind="tonal" insight={r.analytics?.tonal} />
+            </details>
           </>
         )}
-        <p className="sample-note">
-          {approximate
-            ? `${r.sampledPixels.toLocaleString()} native pixels sampled on a ${r.sampleWidth} × ${r.sampleHeight} grid`
-            : `All ${r.sampledPixels.toLocaleString()} decoded pixels analyzed`}
-          {" · "}
-          {percent(r.coverage)} opacity-weighted coverage (mean alpha).
-          <br />
-          {approximate
-            ? "Approximate: rare colors and extrema can be missed. "
-            : ""}
-          Transparent pixels are excluded; partial alpha contributes
-          proportionally. Local statistics, no AI predictions.
+        <p className="copy-feedback" role="status">
+          {copied &&
+            (copied.startsWith(":root")
+              ? "CSS variables copied."
+              : copied.includes(",")
+                ? "Palette copied."
+                : `Copied ${copied}`)}
         </p>
+        {copyError && (
+          <p role="alert" className="copy-error">
+            {copyError} Open Color → View palette text to select and copy
+            manually.
+          </p>
+        )}
+        <details className="measurement-details">
+          <summary>Technical details</summary>
+          <p className="result-footnote" data-testid="technical-summary">
+            {imageDNA(r, s)}
+          </p>
+          <p className="sample-note">
+            {approximate
+              ? `${r.sampledPixels.toLocaleString()} native pixels sampled on a ${r.sampleWidth} × ${r.sampleHeight} grid`
+              : `All ${r.sampledPixels.toLocaleString()} decoded pixels analyzed`}
+            {" · "}
+            {percent(r.coverage)} opacity-weighted coverage (mean alpha).
+            <br />
+            {approximate
+              ? "Approximate: rare colors and extrema can be missed. "
+              : ""}
+            Transparent pixels are excluded; partial alpha contributes
+            proportionally. Palette colors are approximate cluster means; even
+            with every pixel read, a palette color may not match an individual
+            pixel. These are local measurements, separate from AI observations.
+          </p>
+        </details>
       </div>
     </div>
   );

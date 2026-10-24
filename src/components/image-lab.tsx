@@ -4,18 +4,15 @@ import { useEffect, useRef, useState } from "react";
 import BrandImage from "next/image";
 import Link from "next/link";
 import {
-  ArrowDown,
   ArrowRight,
   Check,
   ChevronRight,
-  Fingerprint,
   ImagePlus,
   LockKeyhole,
   RotateCcw,
   ScanLine,
 } from "lucide-react";
 import { decodeImage, validateFile } from "@/analysis/files";
-import { hex } from "@/analysis/pixels";
 import type { AnalysisResult, ImageSource } from "@/analysis/types";
 import { Results } from "./results";
 import { fileSize } from "@/lib/format";
@@ -35,10 +32,6 @@ export function ImageLab() {
   const [mapUrls, setMapUrls] = useState<MapUrls | null>(null);
   const [notice, setNotice] = useState("");
   const [loadingFrame, setLoadingFrame] = useState<LoadingFrame | null>(null);
-  const [loadingEvidence, setLoadingEvidence] = useState<AnalysisResult | null>(
-    null,
-  );
-  const [loadingMaps, setLoadingMaps] = useState<MapUrls | null>(null);
   const presentation = useRef<LoadingRun<AnalysisResult> | null>(null);
   const resultsPanel = useRef<HTMLDivElement>(null);
   const focusResults = useRef(false);
@@ -110,8 +103,6 @@ export function ImageLab() {
   );
 
   function clear() {
-    setLoadingEvidence(null);
-    setLoadingMaps(null);
     focusResults.current = false;
     generation.current++;
     decoding.current?.abort();
@@ -183,8 +174,7 @@ export function ImageLab() {
       },
       onReady(result) {
         if (id !== generation.current) return;
-        focusResults.current =
-          !!document.activeElement?.closest(".analysis-loading");
+        focusResults.current = true;
         if (result.maps) {
           const light =
               retainedMapUrls.current[0] ??
@@ -196,8 +186,6 @@ export function ImageLab() {
           setMapUrls({ light, detail });
         }
         setResult(result);
-        setLoadingEvidence(null);
-        setLoadingMaps(null);
         setStage("idle");
         setLoadingFrame(null);
         presentation.current = null;
@@ -275,14 +263,6 @@ export function ImageLab() {
         worker.current = null;
         analysisTimeout.current = null;
         if (event.data.result) {
-          const data = event.data.result;
-          setLoadingEvidence(data);
-          if (data.maps) {
-            const light = URL.createObjectURL(data.maps.light),
-              detail = URL.createObjectURL(data.maps.detail);
-            retainedMapUrls.current = [light, detail];
-            setLoadingMaps({ light, detail });
-          }
           presentation.current?.complete(event.data.result);
         } else {
           presentation.current?.cancel();
@@ -331,8 +311,6 @@ export function ImageLab() {
   }
   const busy = stage !== "idle";
   function cancel() {
-    setLoadingEvidence(null);
-    setLoadingMaps(null);
     retainedMapUrls.current.forEach((value) => URL.revokeObjectURL(value));
     retainedMapUrls.current = [];
     generation.current++;
@@ -353,7 +331,7 @@ export function ImageLab() {
       <header className="site-header">
         <Link className="identity" href="/" aria-label="Hidden Data home">
           <BrandImage
-            src="/brand/logo_black.png"
+            src="/brand/Logo_White.png"
             alt="OUAHAD SPACE"
             width={52}
             height={52}
@@ -371,62 +349,61 @@ export function ImageLab() {
           <span className="local-badge">
             <span /> LOCAL BY DESIGN
           </span>
-          <span className="edition">IMAGE LAB / 001</span>
+          <a
+            href="#method"
+            onClick={() => {
+              const method = document.getElementById(
+                "method",
+              ) as HTMLDetailsElement | null;
+              if (method) method.open = true;
+            }}
+          >
+            How it works
+          </a>
         </div>
       </header>
       <main>
         <section className="intro">
           <div>
             <div className="eyebrow">
-              <span className="tiny-line" /> LOOK CLOSER
+              <span className="tiny-line" /> A closer look at your images
             </div>
             <h1>
-              Every image
-              <br /> has a <span>story.</span>
+              Color you can use.
+              <br /> <span>Light you can understand.</span>
             </h1>
             <p>
-              Discover the colors, light and little details
-              <br className="desktop-break" /> hiding in your image. Start with
-              the pixels.
+              Take a palette into your next design. Explore the light. See what
+              the file reveals.
             </p>
-          </div>
-          <div className="intro-note">
-            <Fingerprint size={25} />
-            <p>
-              A closer look.
-              <br />A clearer picture.
-            </p>
-            <span>NO ACCOUNT. NO UPLOAD.</span>
           </div>
         </section>
-        <div className="workflow" aria-label="Analysis steps">
-          {["Select image", "Analyze pixels", "Explore results"].map(
-            (label, i) => (
-              <div
-                key={label}
-                className={
-                  (i === 0 && !source) ||
-                  (i === 1 && source && !result) ||
-                  (i === 2 && result)
-                    ? "step active"
-                    : (i === 0 && source) || (i === 1 && result)
-                      ? "step completed"
-                      : "step"
-                }
-              >
-                <span>
-                  {(i === 0 && source) || (i === 1 && result) ? (
-                    <Check size={12} />
-                  ) : (
-                    String(i + 1).padStart(2, "0")
-                  )}
-                </span>
-                {label}
-                {i < 2 && <ChevronRight className="step-chevron" size={14} />}
-              </div>
-            ),
-          )}
-        </div>
+        <ol className="workflow" aria-label="Analysis steps">
+          {["Select image", "Analyze", "Explore"].map((label, i) => (
+            <li
+              key={label}
+              className={
+                (i === 0 && !source) ||
+                (i === 1 && source && !result) ||
+                (i === 2 && result)
+                  ? "step active"
+                  : (i === 0 && source) || (i === 1 && result)
+                    ? "step completed"
+                    : "step"
+              }
+            >
+              <span>
+                {(i === 0 && source) || (i === 1 && result) ? (
+                  <Check size={12} />
+                ) : (
+                  String(i + 1).padStart(2, "0")
+                )}
+              </span>
+              {label}
+              {i < 2 && <ChevronRight className="step-chevron" size={14} />}
+            </li>
+          ))}
+        </ol>
         <section className="lab" aria-label="Image analysis workspace">
           <div
             ref={panelRef}
@@ -435,9 +412,9 @@ export function ImageLab() {
             <div className="panel-heading">
               <span>
                 <span className="status-dot" />{" "}
-                {source ? "YOUR IMAGE" : "IMAGE INPUT"}
+                {source ? "YOUR IMAGE" : "START WITH AN IMAGE"}
               </span>
-              <span>{source ? source.format : "01"}</span>
+              <span>{source ? source.format : "JPEG · PNG · WEBP"}</span>
             </div>
             <input
               ref={input}
@@ -462,6 +439,7 @@ export function ImageLab() {
             ) : (
               <button
                 className={`drop-zone ${dragging ? "dragging" : ""}`}
+                aria-label="Select image"
                 onClick={() => input.current?.click()}
                 onDragOver={(e) => {
                   e.preventDefault();
@@ -491,9 +469,9 @@ export function ImageLab() {
                     ? "Opening your image…"
                     : dragging
                       ? "Drop it here."
-                      : "Bring an image. Find its story."}
+                      : "Start with your image."}
                 </h2>
-                <p>Drop your image here, or select a file</p>
+                <p>Drop it here, or choose a file below.</p>
                 <span className="select-button">
                   Select image <ArrowRight size={16} />
                 </span>
@@ -503,12 +481,12 @@ export function ImageLab() {
             <div className="image-toolbar">
               <div>
                 <span className="file-label">
-                  {source ? source.name : "A new perspective starts here"}
+                  {source ? source.name : "No account needed"}
                 </span>
                 <small>
                   {source
                     ? `${fileSize(source.size)} · Original stays in your browser`
-                    : "Your image. Your browser. Your data."}
+                    : "One image at a time. Nothing to install."}
                 </small>
               </div>
               {source ? (
@@ -574,10 +552,8 @@ export function ImageLab() {
           </div>
           <div ref={resultsPanel} className="results-workspace">
             <div className="panel-heading">
-              <span>THE HIDDEN DETAILS</span>
-              <span>
-                {result ? "READY" : loadingFrame ? "PROCESSING" : "02"}
-              </span>
+              <span>{result ? "YOUR RESULTS" : "WHAT YOU CAN EXPLORE"}</span>
+              <span>{result ? "READY" : loadingFrame ? "PROCESSING" : ""}</span>
             </div>
             {result && source ? (
               <div className="results-reveal">
@@ -588,81 +564,74 @@ export function ImageLab() {
                 frame={loadingFrame}
                 onCancel={cancel}
                 source={source}
-                evidence={loadingEvidence}
-                maps={loadingMaps}
               />
             ) : (
               <div className="results-empty">
                 <div className="empty-top">
-                  <span className="eyebrow">PIXELS → PERSPECTIVE</span>
+                  <span className="eyebrow">From image to ideas</span>
                   <h2>
-                    More than
+                    Make more of
                     <br />
-                    meets the eye.
+                    what you see.
                   </h2>
                   <p>
-                    A simple photograph holds a world of information. Let’s make
-                    it visible.
+                    Useful references for your next design, and a clearer
+                    understanding of this image.
                   </p>
                 </div>
                 <div className="feature-list">
                   <div>
-                    <span className="feature-index">01</span>
+                    <span className="feature-index" aria-hidden="true">
+                      ●
+                    </span>
                     <div>
-                      <h3>Image essentials</h3>
-                      <p>Dimensions, format & proportions</p>
+                      <h3>A palette to take with you</h3>
+                      <p>Copy individual colors or a reusable CSS palette.</p>
                     </div>
-                    <ArrowDown size={16} />
                   </div>
                   <div>
-                    <span className="feature-index blue">02</span>
+                    <span className="feature-index blue" aria-hidden="true">
+                      ●
+                    </span>
                     <div>
-                      <h3>A palette with a purpose</h3>
-                      <p>Dominant colors & their distribution</p>
+                      <h3>Light, made readable</h3>
+                      <p>Find light and dark areas without a quality score.</p>
                     </div>
-                    <ArrowDown size={16} />
                   </div>
                   <div>
-                    <span className="feature-index orange">03</span>
+                    <span className="feature-index orange" aria-hidden="true">
+                      ●
+                    </span>
                     <div>
-                      <h3>The language of light</h3>
-                      <p>Luminance, contrast & tonal balance</p>
+                      <h3>The facts behind the file</h3>
+                      <p>Dimensions, proportions and any recorded metadata.</p>
                     </div>
-                    <ArrowDown size={16} />
                   </div>
-                </div>
-                <div className="statistics-note">
-                  <span className="status-dot" />
-                  <p>
-                    Real pixel statistics.
-                    <br />
-                    <span>No AI predictions or invented insights.</span>
-                  </p>
                 </div>
               </div>
             )}
           </div>
         </section>
-        <section className="method-strip">
-          <span>BUILT TO LOOK DEEPER</span>
-          <p>Color. Light. Perspective.</p>
-          <span>
-            PHASE 01 <span className="method-dot">/</span> IMAGE STATISTICS
-          </span>
-        </section>
         {result && (
-          <div className="completion" role="status">
-            Analysis complete · {result.sampledPixels.toLocaleString()} native
-            pixels · Average color {hex(result.average)}
-          </div>
+          <p className="sr-only" role="status">
+            Analysis complete. Your results are ready.
+          </p>
         )}
       </main>
       <footer>
         <span>
           OUAHAD SPACE <span className="footer-slash">/</span> HIDDEN DATA
         </span>
-        <span>A little curiosity goes a long way.</span>
-        <a href="#method">
+        <span>An independent creation by OUAHAD SPACE.</span>
+        <a
+          href="#method"
+          onClick={() => {
+            const method = document.getElementById(
+              "method",
+            ) as HTMLDetailsElement | null;
+            if (method) method.open = true;
+          }}
+        >
           How it works <ArrowRight size={13} />
         </a>
       </footer>
@@ -692,10 +661,11 @@ export function ImageLab() {
           approximate statistics; bucketed color families are approximate even
           when every pixel is read. Shadow/midtone/highlight cutoffs are
           product-defined bins, not standard exposure categories. Browser
-          decoding and low-alpha rounding can affect results. This prototype
-          reads metadata locally, with GPS hidden until explicitly revealed.
-          Spatial maps are bounded-resolution explorations, not sharpness or
-          quality scores. No semantic predictions.
+          decoding and low-alpha rounding can affect results. Metadata is read
+          locally, with GPS hidden until explicitly revealed. Spatial maps are
+          bounded-resolution explorations, not sharpness or quality scores.
+          Pixel measurements do not identify subjects; optional AI observations
+          are separate interpretations.
         </p>
       </details>
     </div>

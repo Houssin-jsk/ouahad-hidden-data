@@ -1,0 +1,398 @@
+{
+  "verifiedAt": "2026-10-23T01:15:26.645Z",
+  "baseCommit": "465a4510cfb34ff2151eb33fe3dc23c008adeb46",
+  "rootCause": {
+    "renderPath": [
+      "ImageLab:558 requires completed result and source",
+      "Results:80 restricts content to Overview; CloudObservations:178",
+      "Before correction CloudObservations:96-100 used closed details/summary; no availability-dependent return-null or CSS hide"
+    ],
+    "conclusion": "Component retained; conditionally omitted outside Overview and before local results, with Overview content collapsed and below the essentials. No server availability was loaded.",
+    "ownerScreenshot": "Not provided, so its specific missing-panel cause cannot be independently established."
+  },
+  "liveObservation": {
+    "at": "2026-10-23T00:31:05.474Z",
+    "heading": "Every image\nhas a story.",
+    "cloudCount": 1,
+    "tag": "DETAILS",
+    "open": null,
+    "text": "AI Visual Observations · optional cloud analysis",
+    "blockedNonGET": 0
+  },
+  "changes": [
+    "docs/phase-04/PHASE-04-HANDOFF.md",
+    "docs/phase-04/cloud-ai-discoverability/HANDOFF.md",
+    "docs/phase-04/cloud-ai-discoverability/evidence/before-live-1280.png",
+    "docs/phase-04/cloud-ai-discoverability/evidence/before-live-390.png",
+    "docs/phase-04/cloud-ai-discoverability/evidence/disabled-1280.png",
+    "docs/phase-04/cloud-ai-discoverability/evidence/disabled-390.png",
+    "docs/phase-04/cloud-ai-discoverability/evidence/eligible-1280.png",
+    "docs/phase-04/cloud-ai-discoverability/evidence/eligible-390.png",
+    "docs/phase-04/cloud-ai-discoverability/evidence/restricted-1280.png",
+    "docs/phase-04/cloud-ai-discoverability/evidence/restricted-390.png",
+    "docs/phase-04/cloud-ai-discoverability/evidence/verification.json",
+    "scripts/verify-release.mjs",
+    "src/app/api/cloud-vision/status/route.ts",
+    "src/app/globals.css",
+    "src/cloud-vision/availability.ts",
+    "src/cloud-vision/server/availability.ts",
+    "src/components/cloud-observations.tsx",
+    "tests/browser/cloud-discovery.spec.ts",
+    "tests/browser/cloud-vision.spec.ts",
+    "tests/browser/product.spec.ts",
+    "tests/cloud-availability.test.ts",
+    "tests/fixtures/cloud-availability.ts"
+  ],
+  "generatedChanges": ["next-env.d.ts"],
+  "fullWorkingTreeGitFiles": [
+    "docs/phase-04/PHASE-04-HANDOFF.md",
+    "docs/phase-04/cloud-ai-discoverability/HANDOFF.md",
+    "docs/phase-04/cloud-ai-discoverability/evidence/before-live-1280.png",
+    "docs/phase-04/cloud-ai-discoverability/evidence/before-live-390.png",
+    "docs/phase-04/cloud-ai-discoverability/evidence/disabled-1280.png",
+    "docs/phase-04/cloud-ai-discoverability/evidence/disabled-390.png",
+    "docs/phase-04/cloud-ai-discoverability/evidence/eligible-1280.png",
+    "docs/phase-04/cloud-ai-discoverability/evidence/eligible-390.png",
+    "docs/phase-04/cloud-ai-discoverability/evidence/restricted-1280.png",
+    "docs/phase-04/cloud-ai-discoverability/evidence/restricted-390.png",
+    "docs/phase-04/cloud-ai-discoverability/evidence/verification.json",
+    "docs/phase-04/evidence/after-color-1280.png",
+    "docs/phase-04/evidence/after-color-320.png",
+    "docs/phase-04/evidence/after-light-390.png",
+    "docs/phase-04/evidence/after-maps-1280.png",
+    "docs/phase-04/evidence/after-overview-1280.png",
+    "docs/phase-04/evidence/after-overview-1440.png",
+    "docs/phase-04/evidence/after-overview-320.png",
+    "docs/phase-04/evidence/after-overview-375.png",
+    "docs/phase-04/evidence/after-overview-390.png",
+    "docs/phase-04/evidence/after-overview-430.png",
+    "docs/phase-04/evidence/after-overview-768.png",
+    "docs/phase-04/evidence/after-welcome-1280.png",
+    "docs/phase-04/evidence/after-welcome-320.png",
+    "docs/phase-04/evidence/after-welcome-390.png",
+    "docs/phase-04/evidence/before-desktop.png",
+    "docs/phase-04/evidence/before-live.png",
+    "docs/phase-04/evidence/before-results-desktop.png",
+    "docs/phase-04/evidence/before-results-mobile.png",
+    "docs/phase-04/evidence/verification.json",
+    "scripts/verify-release.mjs",
+    "src/app/api/cloud-vision/status/route.ts",
+    "src/app/globals.css",
+    "src/cloud-vision/availability.ts",
+    "src/cloud-vision/server/availability.ts",
+    "src/components/analysis-loading.tsx",
+    "src/components/cloud-observations.tsx",
+    "src/components/evidence-insight.tsx",
+    "src/components/image-lab.tsx",
+    "src/components/loading-status.tsx",
+    "src/components/results.tsx",
+    "src/components/spatial-preview.tsx",
+    "src/lib/image-summary.ts",
+    "src/loading/presentation.ts",
+    "tests/browser/accuracy.spec.ts",
+    "tests/browser/cloud-discovery.spec.ts",
+    "tests/browser/cloud-vision.spec.ts",
+    "tests/browser/discoveries.spec.ts",
+    "tests/browser/helpers/disclosures.ts",
+    "tests/browser/helpers/held-analysis.ts",
+    "tests/browser/lab.spec.ts",
+    "tests/browser/loading-visuals.spec.ts",
+    "tests/browser/loading.spec.ts",
+    "tests/browser/phase01.spec.ts",
+    "tests/browser/phase02.spec.ts",
+    "tests/browser/product.spec.ts",
+    "tests/browser/release.spec.ts",
+    "tests/browser/theme.spec.ts",
+    "tests/cloud-availability.test.ts",
+    "tests/fixtures/cloud-availability.ts",
+    "tests/loading.test.ts",
+    "tests/product.test.ts"
+  ],
+  "protectedSource": {
+    "unchanged": true,
+    "files": [
+      "src/analysis/analysis.worker.ts",
+      "src/analysis/discovery-types.ts",
+      "src/analysis/dna.ts",
+      "src/analysis/files.ts",
+      "src/analysis/insight-types.ts",
+      "src/analysis/insights.ts",
+      "src/analysis/maps.ts",
+      "src/analysis/metadata.ts",
+      "src/analysis/pixels.ts",
+      "src/analysis/sampling.ts",
+      "src/analysis/types.ts",
+      "src/app/api/admin/ai/route.ts",
+      "src/app/api/admin/ai/session/route.ts",
+      "src/app/api/cloud-vision/route.ts",
+      "src/cloud-vision/client.ts",
+      "src/cloud-vision/contract.ts",
+      "src/cloud-vision/server/access.ts",
+      "src/cloud-vision/server/admin.ts",
+      "src/cloud-vision/server/config.ts",
+      "src/cloud-vision/server/database.ts",
+      "src/cloud-vision/server/handler.ts",
+      "src/cloud-vision/server/http.ts",
+      "src/cloud-vision/server/image.ts",
+      "src/cloud-vision/server/ledger.ts",
+      "src/cloud-vision/server/policy.ts",
+      "src/cloud-vision/server/prompt.ts",
+      "src/cloud-vision/server/providers/cloudflare.ts",
+      "src/cloud-vision/server/providers/gemini.ts",
+      "src/cloud-vision/server/providers/nvidia.ts",
+      "src/cloud-vision/server/router.ts",
+      "src/cloud-vision/server/schema.ts",
+      "src/cloud-vision/server/types.ts"
+    ]
+  },
+  "unitTests": {
+    "command": "npm run test:all",
+    "passed": 160,
+    "failed": 0,
+    "skipped": 0
+  },
+  "chromeTests": {
+    "command": "npm run test:browser -- --workers=2 --reporter=json",
+    "startTime": "2026-10-23T01:09:06.349Z",
+    "duration": 95967.386,
+    "expected": 79,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  },
+  "checks": {
+    "fullTypeScript": "PASS",
+    "lint": "PASS",
+    "productionBuild": "PASS",
+    "filteredProductionBuild": "PASS",
+    "filteredProductionTypeScript": "PASS (57 local source files, no ignored transitive imports)",
+    "releaseIsolation": "PASS (132 output/trace files)",
+    "secretAudit": {
+      "result": "PASS",
+      "historyBlobs": 673,
+      "historyBlobsSkippedOver10MB": 1,
+      "gitCandidateFiles": 672,
+      "workingFiles": 983,
+      "findings": [],
+      "scope": "Known configured values plus common Gemini/NVIDIA/OpenAI key patterns; not a forensic certification of all past credentials."
+    }
+  },
+  "cleanBuild": {
+    "startedClean": true,
+    "baseCommit": "465a4510cfb34ff2151eb33fe3dc23c008adeb46",
+    "trackedFiles": 631,
+    "physicallyExcluded": 520,
+    "forbidden": [
+      {
+        "file": "research",
+        "fileCount": 0
+      },
+      {
+        "file": "src/companion",
+        "fileCount": 0
+      },
+      {
+        "file": "companion",
+        "fileCount": 0
+      },
+      {
+        "file": "tests",
+        "fileCount": 0
+      },
+      {
+        "file": "docs",
+        "fileCount": 0
+      },
+      {
+        "file": ".env.local",
+        "fileCount": 0
+      }
+    ],
+    "overlay": [
+      {
+        "file": "scripts/verify-release.mjs",
+        "sha256": "d8ec7e39866a1843fa5a7d150de65a4d7058b29209cac82c62d2242611961ec9"
+      },
+      {
+        "file": "src/app/globals.css",
+        "sha256": "9ea5e394f63873d96b2e218af63ddb42db34d34ea48eb3bb3ce14e3955c0be26"
+      },
+      {
+        "file": "src/components/analysis-loading.tsx",
+        "sha256": "ca20f1d6a96191ab6ce359c82ce79ab0ed14b833c596be4d978f9daf81977163"
+      },
+      {
+        "file": "src/components/cloud-observations.tsx",
+        "sha256": "d323ebe382d1d2d6777fed1bce46fee727a223506f7455045e7bccb0d1dd1526"
+      },
+      {
+        "file": "src/components/evidence-insight.tsx",
+        "sha256": "489578cf5d28b3366afb816ee90e00c6f77a72dbfa20168b87bf36d536c5bea2"
+      },
+      {
+        "file": "src/components/image-lab.tsx",
+        "sha256": "e3a8c08df3fbd19543f3c8833111bb5bc4bff0f4106b5ae0ff35c8486e268641"
+      },
+      {
+        "file": "src/components/loading-status.tsx",
+        "sha256": "cf8ee794c7ae49f735461d15e26bbeaf3befd6a5e3f4fb0f77ddd08468972d19"
+      },
+      {
+        "file": "src/components/results.tsx",
+        "sha256": "52954f62f50505d5f5ee68ad29cda1b87a5ec6f141443cc6babbf6fc6fd62c85"
+      },
+      {
+        "file": "src/components/spatial-preview.tsx",
+        "sha256": "6075f4ee988fe836513ec60385d52e7c92a50ec01994c66a2df2e97ba6750cd3"
+      },
+      {
+        "file": "src/loading/presentation.ts",
+        "sha256": "c710c94921cfc7c124f0e23b6b55c940affe83b4f698bc17e67830f4ee3996cc"
+      },
+      {
+        "file": "src/app/api/cloud-vision/status/route.ts",
+        "sha256": "26df09123c3b34b891ff49c99bbe8faaba37690d335fcb2907edb8d401312246"
+      },
+      {
+        "file": "src/cloud-vision/availability.ts",
+        "sha256": "32e5e82abdf34d779a77f764467e31eaa334438047516baab0674ad0660ea3dc"
+      },
+      {
+        "file": "src/cloud-vision/server/availability.ts",
+        "sha256": "6d0d2b29f43a73de4881ce6875a89edb69b5d3731e90b9d48d51b3a154475765"
+      },
+      {
+        "file": "src/lib/image-summary.ts",
+        "sha256": "fff2576c85b2d92da55f5e2d432d9e0bc916ab2e9714fb66a3b446a33a86e62a"
+      }
+    ],
+    "environmentFilesCopied": false
+  },
+  "visual": {
+    "browser": "156.0.8078.47",
+    "source": "Final .vercelignore-filtered production checkout on localhost:3003, without environment files.",
+    "states": [
+      {
+        "width": 390,
+        "state": "disabled",
+        "simulation": false,
+        "screenshot": "disabled-390.png",
+        "headingVisible": true,
+        "availability": "AI observations are currently unavailable. Your local results are complete.",
+        "overflow": false,
+        "posts": 0,
+        "providerCalls": 0,
+        "issues": [],
+        "axe": {
+          "violations": [],
+          "incomplete": [],
+          "passes": 33
+        }
+      },
+      {
+        "width": 390,
+        "state": "restricted",
+        "simulation": true,
+        "screenshot": "restricted-390.png",
+        "headingVisible": true,
+        "availability": "Available to invited testers. AI observations are experimental.",
+        "overflow": false,
+        "posts": 0,
+        "providerCalls": 0,
+        "issues": [],
+        "axe": {
+          "violations": [],
+          "incomplete": [],
+          "passes": 33
+        }
+      },
+      {
+        "width": 390,
+        "state": "eligible",
+        "simulation": true,
+        "screenshot": "eligible-390.png",
+        "headingVisible": true,
+        "availability": "Access confirmed. Review the image and consent below before requesting observations.",
+        "overflow": false,
+        "posts": 0,
+        "providerCalls": 0,
+        "issues": [],
+        "axe": {
+          "violations": [],
+          "incomplete": [],
+          "passes": 34
+        }
+      },
+      {
+        "width": 1280,
+        "state": "disabled",
+        "simulation": false,
+        "screenshot": "disabled-1280.png",
+        "headingVisible": true,
+        "availability": "AI observations are currently unavailable. Your local results are complete.",
+        "overflow": false,
+        "posts": 0,
+        "providerCalls": 0,
+        "issues": [],
+        "axe": {
+          "violations": [],
+          "incomplete": [],
+          "passes": 33
+        }
+      },
+      {
+        "width": 1280,
+        "state": "restricted",
+        "simulation": true,
+        "screenshot": "restricted-1280.png",
+        "headingVisible": true,
+        "availability": "Available to invited testers. AI observations are experimental.",
+        "overflow": false,
+        "posts": 0,
+        "providerCalls": 0,
+        "issues": [],
+        "axe": {
+          "violations": [],
+          "incomplete": [],
+          "passes": 33
+        }
+      },
+      {
+        "width": 1280,
+        "state": "eligible",
+        "simulation": true,
+        "screenshot": "eligible-1280.png",
+        "headingVisible": true,
+        "availability": "Access confirmed. Review the image and consent below before requesting observations.",
+        "overflow": false,
+        "posts": 0,
+        "providerCalls": 0,
+        "issues": [],
+        "axe": {
+          "violations": [],
+          "incomplete": [],
+          "passes": 34
+        }
+      }
+    ]
+  },
+  "security": {
+    "originalInferenceAndAnalysisSourceUnchanged": true,
+    "protectedFiles": 32,
+    "statusReadOnly": true,
+    "reservationsOrUsageWritesFromStatus": false,
+    "realProviderInferenceRequested": false,
+    "settingsChanged": false,
+    "committed": false,
+    "pushed": false,
+    "deployed": false
+  },
+  "readiness": "READY for owner review and deployment authorization",
+  "limitations": [
+    "No physical-device or live screen-reader verification.",
+    "Restricted/eligible examples use local SQLite configuration simulations and fake adapters; they do not assert live provider availability.",
+    "Status is a no-store eligibility snapshot, not quota admission; unchanged inference handler rechecks all gates and reserves quota.",
+    "No live D1 counter reconciliation or provider qualification/billing inspection was performed.",
+    "Original owner screenshot was not supplied."
+  ]
+}

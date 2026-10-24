@@ -51,6 +51,7 @@ export async function routeVision(
     attempts++;
     let settled = false;
     try {
+      signal.throwIfAborted();
       const response = await adapter.run(image, signal);
       signal.throwIfAborted();
       await cooldowns.settle(reservation, response);
@@ -99,14 +100,13 @@ export async function routeVision(
                 ? (await cooldowns.now()) + 60000
                 : "suspended"),
         );
-      // Do not send an image to another vendor after a refusal, malformed input,
-      // cancellation or invalid output. Transient failures may fall back serially.
+      // A timeout or lost connection leaves provider execution uncertain. Keep
+      // its reservation charged and stop; another call could duplicate that work.
+      // Only explicit provider rejections may use the bounded eligible fallback.
       if (
         ![
           "rate_limited",
           "quota_exhausted",
-          "outage",
-          "timeout",
           "invalid_credentials",
           "billing_required",
           "model_unavailable",

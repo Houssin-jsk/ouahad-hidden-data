@@ -16,18 +16,28 @@ async function ready(
   page: Page,
   file = "tests/fixtures/phase01/orientation-6.jpg",
 ) {
+  await page.route("**/api/cloud-vision/status", async (route) =>
+    route.fulfill({
+      json: {
+        schema: "cloud-availability/1",
+        status: route.request().headers().authorization
+          ? "eligible"
+          : "restricted",
+      },
+    }),
+  );
   await page.goto("/");
   await page.getByLabel("Choose image").setInputFiles(file);
   await page
     .getByRole("button", { name: "Analyze image", exact: true })
     .click();
   await expect(page.getByTestId("image-dna")).toBeVisible();
-  await page
-    .getByText("AI Visual Observations · optional cloud analysis", {
-      exact: true,
-    })
-    .click();
+  await page.locator(".cloud-access > summary").click();
   await page.getByLabel("Pilot access code").fill("A".repeat(43));
+  await page.getByRole("button", { name: "Check access", exact: true }).click();
+  await expect(page.locator(".cloud-availability")).toContainText(
+    "Access confirmed",
+  );
 }
 async function consent(page: Page) {
   await page.getByLabel(/I am 18 or older/).check();
@@ -74,6 +84,16 @@ test("explicit opt-in sends only oriented bounded re-encoded pixels; observation
   expect(uploads[0].length).toBeLessThanOrEqual(768 * 1024);
   await expect(page.getByTestId("image-dna")).not.toContainText("Mocked");
   await expect(page.getByRole("tab")).toHaveCount(4);
+  await expect(
+    page.getByRole("button", { name: "AI observations ready", exact: true }),
+  ).toBeDisabled();
+  await page.getByRole("tab", { name: "Color", exact: true }).click();
+  await expect(page.getByTestId("cloud-result")).toBeHidden();
+  await page.getByRole("tab", { name: "Overview", exact: true }).click();
+  await expect(page.getByTestId("cloud-result")).toContainText(
+    result.interpretation.description,
+  );
+  expect(uploads).toHaveLength(1);
   await expect(page.getByText(/Connect companion/)).toHaveCount(0);
   await page.screenshot({
     path: "test-results/cloud-vision-desktop.png",
@@ -108,13 +128,39 @@ test("cancel and replacement discard a late cloud response and reset consent", a
     .click();
   await expect(page.getByTestId("image-dna")).toBeVisible();
   await expect(page.getByTestId("cloud-result")).toHaveCount(0);
-  await page
-    .getByText("AI Visual Observations · optional cloud analysis", {
-      exact: true,
-    })
-    .click();
-  await expect(page.getByLabel(/I agree to send/)).not.toBeChecked();
+  await page.locator(".cloud-access > summary").click();
   await expect(page.getByLabel("Pilot access code")).toHaveValue("");
+  await expect(page.getByLabel(/I agree to send/)).toHaveCount(0);
+  await page.getByLabel("Pilot access code").fill("A".repeat(43));
+  await page.getByRole("button", { name: "Check access", exact: true }).click();
+  await expect(page.getByLabel(/I agree to send/)).not.toBeChecked();
+});
+
+test("tab navigation keeps one active request and returns to its real result", async ({
+  page,
+}) => {
+  let release!: () => void;
+  const pending = new Promise<void>((resolve) => {
+    release = resolve;
+  });
+  let uploads = 0;
+  await page.route("**/api/cloud-vision", async (route) => {
+    uploads++;
+    await pending;
+    await route.fulfill({ json: result });
+  });
+  await ready(page);
+  await consent(page);
+  const upload = page.waitForRequest("**/api/cloud-vision");
+  await page.getByRole("button", { name: "Start Cloud AI analysis" }).click();
+  await upload;
+  await page.getByRole("tab", { name: "Light", exact: true }).click();
+  release();
+  await page.getByRole("tab", { name: "Overview", exact: true }).click();
+  await expect(page.getByTestId("cloud-result")).toContainText(
+    result.interpretation.description,
+  );
+  expect(uploads).toBe(1);
 });
 test("cloud unavailability and malformed outputs preserve numerical results on mobile", async ({
   page,
@@ -137,9 +183,16 @@ test("cloud unavailability and malformed outputs preserve numerical results on m
   await ready(page);
   await consent(page);
   await page.getByRole("button", { name: "Start Cloud AI analysis" }).click();
-  await expect(page.locator(".cloud-status")).toContainText("not yet verified");
+  await expect(page.locator(".cloud-availability")).toContainText(
+    "currently unavailable",
+  );
+  await expect(
+    page.getByRole("button", { name: "Retry Cloud AI" }),
+  ).toHaveCount(0);
   malformed = true;
-  await page.getByRole("button", { name: "Retry Cloud AI" }).click();
+  await ready(page);
+  await consent(page);
+  await page.getByRole("button", { name: "Start Cloud AI analysis" }).click();
   await expect(page.locator(".cloud-status")).toContainText(
     "Cloud AI is unavailable",
   );
