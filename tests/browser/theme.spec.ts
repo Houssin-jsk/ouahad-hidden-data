@@ -19,7 +19,7 @@ async function textContrast(page: Page, selector: string) {
         return [];
       const style = getComputedStyle(element);
       let ancestor: Element | null = element;
-      let background = "rgb(21, 17, 15)";
+      let background = "rgb(217, 201, 180)";
       while (ancestor) {
         const value = getComputedStyle(ancestor).backgroundColor;
         if (value !== "rgba(0, 0, 0, 0)" && value !== "transparent") {
@@ -51,7 +51,7 @@ for (const viewport of [
   { width: 1366, height: 768 },
   { width: 1440, height: 900 },
 ]) {
-  test(`dark coffee theme, first-screen CTA and result layout at ${viewport.width}px`, async ({
+  test(`original warm theme, first-screen CTA and result layout at ${viewport.width}px`, async ({
     page,
   }) => {
     await page.setViewportSize(viewport);
@@ -64,11 +64,11 @@ for (const viewport of [
     await page.goto("/");
     await expect(page.locator("body")).toHaveCSS(
       "background-color",
-      "rgb(21, 17, 15)",
+      "rgb(217, 201, 180)",
     );
     await expect(page.locator(".identity img")).toHaveAttribute(
       "src",
-      "/brand/Logo_White.png",
+      "/brand/logo_black.png",
     );
     const cta = await page.locator(".select-button").boundingBox();
     expect(cta).not.toBeNull();
@@ -127,7 +127,7 @@ for (const viewport of [
         fill: getComputedStyle(element).backgroundColor,
       }));
     expect(chartContrast).toEqual({
-      border: "rgb(255, 196, 107)",
+      border: "rgb(42, 123, 192)",
       fill: "rgb(53, 144, 223)",
     });
     await page.screenshot({

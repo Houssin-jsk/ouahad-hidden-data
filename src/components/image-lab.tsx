@@ -331,7 +331,7 @@ export function ImageLab() {
       <header className="site-header">
         <Link className="identity" href="/" aria-label="Hidden Data home">
           <BrandImage
-            src="/brand/Logo_White.png"
+            src="/brand/logo_black.png"
             alt="OUAHAD SPACE"
             width={52}
             height={52}
