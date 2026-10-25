@@ -28,6 +28,7 @@ export function OperationsVisuals({
     ...data.audit
       .filter(
         (e) =>
+          e.setting !== "session" &&
           Number(e.created) >= metrics.from &&
           Number(e.created) <= metrics.to &&
           (!metrics.provider ||
@@ -97,6 +98,17 @@ export function OperationsVisuals({
           </p>
           <p>
             {preferred?.model_key ?? "No enabled model with verified capacity"}
+          </p>
+          <p>
+            Latest recorded error:{" "}
+            {data.logs.find((l) => l.error_category)
+              ? String(
+                  data.logs.find((l) => l.error_category)!.error_category,
+                ) +
+                " (" +
+                stamp(data.logs.find((l) => l.error_category)!.started) +
+                ")"
+              : "None"}
           </p>
         </div>
         <div className="ops-capacity">
@@ -441,8 +453,8 @@ export function OperationsVisuals({
         )}
         <p>
           {metrics.events.filter((x) => x.kind === "cooldown").length} cooldown
-          events in the latest {metrics.events.length} events. Timeline shows at
-          most 100 events.
+          events in the latest {metrics.events.length} routing events. Timeline
+          includes policy changes and shows at most 100 events.
         </p>
       </section>
       <section>
@@ -464,8 +476,7 @@ export function OperationsVisuals({
             <p>
               {data.overview.accepted_actions} admitted actions today;{" "}
               {data.overview.completed} completed provider attempts;{" "}
-              {metrics.rejected} rejected admissions in the filtered event
-              sample.
+              {metrics.rejected} rejected admissions in the selected interval.
             </p>
           </div>
         </div>
