@@ -1,12 +1,20 @@
 import { AVAILABILITY_SCHEMA, type CloudAvailability } from "../availability";
-import { authorize, sameOrigin } from "./access";
+import { publicIdentity, sameOrigin } from "./access";
 import { providers, verifiedUntil, type Environment } from "./config";
 import { configuredLedger } from "./database";
 import type { SharedLedger } from "./ledger";
-import { MODEL_CEILINGS, TOKEN_RESERVATION, type ModelKey } from "./policy";
+import {
+  quotaDay,
+  MODEL_CEILINGS,
+  TOKEN_RESERVATION,
+  type ModelKey,
+} from "./policy";
 import type { ProviderAdapter } from "./types";
 
-type ReadOnlyLedger = Pick<SharedLedger, "settings" | "models" | "now" | "get">;
+type ReadOnlyLedger = Pick<
+  SharedLedger,
+  "settings" | "models" | "now" | "get" | "query"
+>;
 function reply(status: CloudAvailability, code = 200) {
   return Response.json(
     { schema: AVAILABILITY_SCHEMA, status },
@@ -21,19 +29,6 @@ function reply(status: CloudAvailability, code = 200) {
     },
   );
 }
-function ownerPilotConfigured(env: Environment) {
-  if (!/^[A-Za-z0-9_-]{43}$/.test(env.CLOUD_AI_ADMIN_SECRET ?? ""))
-    return false;
-  const hash = env.CLOUD_AI_OWNER_TEST_INVITE_HASH ?? "";
-  if (!/^[a-f0-9]{64}$/.test(hash)) return false;
-  try {
-    const entry = JSON.parse(env.CLOUD_AI_INVITES ?? "{}")[hash];
-    return entry?.country === "MA" && verifiedUntil(entry.expiresAt);
-  } catch {
-    return false;
-  }
-}
-
 // This is a read-only presentation snapshot, never an authorization or a quota
 // reservation. The unchanged inference handler rechecks every admission gate.
 export async function handleAvailability(
@@ -50,7 +45,7 @@ export async function handleAvailability(
       headers: { Allow: "GET", "Cache-Control": "no-store" },
     });
   // GET carries no image or state change. Reject cross-site browser requests;
-  // authorized requests carry the invitation only in the Authorization header.
+  // no invitation or client-generated identity controls admission.
   if (
     (request.headers.has("origin") && !sameOrigin(request, env)) ||
     ["cross-site", "same-site"].includes(
@@ -65,44 +60,17 @@ export async function handleAvailability(
     headers.set("origin", new URL(request.url).origin);
   if (!sameOrigin(new Request(request.url, { headers }), env))
     return reply("unavailable");
-  const authenticated = request.headers.has("authorization");
-  const identity = authorize(request, env);
-  if (authenticated && !identity) return reply("invalid_invitation", 403);
-  if (!identity) {
-    try {
-      const entries = Object.entries(JSON.parse(env.CLOUD_AI_INVITES ?? "{}"));
-      if (
-        !entries.some(
-          ([hash, entry]) =>
-            /^[a-f0-9]{64}$/.test(hash) &&
-            entry &&
-            typeof entry === "object" &&
-            (entry as { country?: unknown }).country === "MA" &&
-            verifiedUntil((entry as { expiresAt?: string }).expiresAt),
-        )
-      )
-        return reply("unavailable");
-    } catch {
-      return reply("unavailable");
-    }
-  }
-  const released = verifiedUntil(env.CLOUD_AI_RELEASE_READY_UNTIL);
-  const ownerPilot = ownerPilotConfigured(env);
-  if (
-    !released &&
-    !(
-      ownerPilot &&
-      (!identity || identity.client === env.CLOUD_AI_OWNER_TEST_INVITE_HASH)
-    )
-  )
+  const identity = publicIdentity(request, env);
+  if (!identity || !verifiedUntil(env.CLOUD_AI_RELEASE_READY_UNTIL))
     return reply("unavailable");
-  const adapters = deps.adapters ?? providers(env, identity?.country ?? "MA");
+  const adapters = deps.adapters ?? providers(env, identity.country);
   if (!adapters.some((a) => a.id !== "nvidia" && a.eligibility.enabled))
     return reply("unavailable");
   try {
     const signal = AbortSignal.any([request.signal, AbortSignal.timeout(4000)]);
     const ledger = deps.ledger ?? configuredLedger(env, signal);
-    if ((await ledger.settings()).config.kill) return reply("unavailable");
+    const { config } = await ledger.settings();
+    if (config.kill || !config.publicEnabled) return reply("unavailable");
     const rows = await ledger.models();
     const candidates = adapters.filter((a) => {
       const row = rows.find(
@@ -127,19 +95,74 @@ export async function handleAvailability(
           ledger.get(a.model),
           ledger.get(a.id),
         ]);
-        return values.every(
-          (until) =>
-            until !== "suspended" && (until === undefined || until <= now),
+        if (
+          !values.every(
+            (until) =>
+              until !== "suspended" && (until === undefined || until <= now),
+          )
+        )
+          return false;
+        const row = rows.find((r) => r.model_key === a.model)!;
+        const day = quotaDay(now, a.id === "gemini" ? "pacific" : "utc");
+        const utc = Math.floor(now / 86400000) * 86400000;
+        const usage = await ledger.query(
+          `SELECT
+          (SELECT COUNT(*) FROM cloud_jobs WHERE created>=?) AS global_day,
+          (SELECT COUNT(*) FROM cloud_jobs WHERE created>?) AS global_minute,
+          (SELECT COUNT(*) FROM cloud_jobs WHERE client=? AND created>=?) AS visitor_day,
+          (SELECT COUNT(*) FROM cloud_jobs WHERE client=? AND created>?) AS visitor_minute,
+          (SELECT COUNT(*) FROM cloud_jobs WHERE released=0 AND lease_until>?) AS active,
+          (SELECT reserved_requests FROM usage_counters WHERE scope=? AND window_type='day' AND window_start=?) AS model_day,
+          (SELECT reserved_requests FROM usage_counters WHERE scope=? AND window_type='day' AND window_start=?) AS project_day,
+          (SELECT reserved_tokens FROM usage_counters WHERE scope=? AND window_type='day' AND window_start=?) AS project_tokens,
+          COUNT(*) AS project_minute,SUM(model_key=?) AS model_minute,
+          COALESCE(SUM(MAX(reserved_tokens,COALESCE(actual_tokens,0))),0) AS project_tpm,
+          COALESCE(SUM(CASE WHEN model_key=? THEN MAX(reserved_tokens,COALESCE(actual_tokens,0)) ELSE 0 END),0) AS model_tpm
+          FROM request_logs WHERE provider=? AND started>?`,
+          [
+            utc,
+            now - 60000,
+            identity.client,
+            utc,
+            identity.client,
+            now - 60000,
+            now,
+            a.model,
+            day.start,
+            "project:" + a.id,
+            day.start,
+            "project:" + a.id,
+            day.start,
+            a.model,
+            a.model,
+            a.id,
+            now - 60000,
+          ],
+        );
+        const u = usage[0],
+          n = (key: string) => Number(u[key] ?? 0);
+        return (
+          n("global_day") < config.dailyActions &&
+          n("global_minute") < config.minuteActions &&
+          n("visitor_day") < config.visitorDaily &&
+          n("visitor_minute") < config.visitorMinute &&
+          n("active") < config.concurrency &&
+          n("model_day") <
+            Math.max(
+              1,
+              Math.floor((row.daily_cap * config.warningPercent) / 100),
+            ) &&
+          n("project_day") < config.projectDaily &&
+          n("project_tokens") + TOKEN_RESERVATION <=
+            config.projectDailyTokens &&
+          n("model_minute") < row.rpm_cap &&
+          n("project_minute") < config.projectRpm &&
+          n("model_tpm") + TOKEN_RESERVATION <= row.tpm_cap &&
+          n("project_tpm") + TOKEN_RESERVATION <= config.projectTpm
         );
       }),
     );
-    return reply(
-      ready.some(Boolean)
-        ? identity
-          ? "eligible"
-          : "restricted"
-        : "unavailable",
-    );
+    return reply(ready.some(Boolean) ? "eligible" : "unavailable");
   } catch {
     return reply("unavailable");
   }

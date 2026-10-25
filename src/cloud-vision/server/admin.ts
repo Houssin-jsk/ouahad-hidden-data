@@ -182,9 +182,48 @@ export async function handleAdminSession(
     );
   }
 }
-export async function adminSnapshot(ledger: SharedLedger, env: Environment) {
+export async function adminSnapshot(
+  ledger: SharedLedger,
+  env: Environment,
+  filters = new URLSearchParams(),
+) {
   const now = await ledger.now();
   const day = quotaDay(now, "utc");
+  const requested = Date.parse(filters.get("from") ?? "");
+  const from = Number.isFinite(requested)
+    ? Math.max(now - 30 * 86400000, Math.min(requested, now))
+    : now - 7 * 86400000;
+  const requestedEnd = Date.parse(filters.get("to") ?? "");
+  const to = Number.isFinite(requestedEnd)
+    ? Math.min(now, Math.max(from, requestedEnd + 86400000))
+    : now;
+  const provider = ["gemini", "cloudflare", "nvidia"].includes(
+    filters.get("provider") ?? "",
+  )
+    ? filters.get("provider")!
+    : "";
+  const [hourly, daily, providerStats, events, rejected] = await Promise.all([
+    ledger.query(
+      `SELECT CAST(started/3600000 AS INTEGER)*3600000 AS time,provider,COUNT(*) AS requests,SUM(outcome='completed') AS completed,SUM(outcome='failed') AS failed,SUM(outcome='uncertain') AS uncertain,SUM(reserved_tokens) AS reserved,SUM(actual_tokens) AS reported,SUM(actual_neurons) AS neurons,SUM(fallback) AS fallbacks FROM request_logs WHERE started>=? AND started<=? AND (?='' OR provider=?) GROUP BY time,provider ORDER BY time LIMIT 2160`,
+      [from, to, provider, provider],
+    ),
+    ledger.query(
+      `SELECT CAST(started/86400000 AS INTEGER)*86400000 AS time,provider,COUNT(*) AS requests,SUM(outcome='completed') AS completed,SUM(outcome='failed') AS failed,SUM(outcome='uncertain') AS uncertain,SUM(reserved_tokens) AS reserved,SUM(actual_tokens) AS reported,SUM(actual_neurons) AS neurons,SUM(fallback) AS fallbacks FROM request_logs WHERE started>=? AND started<=? AND (?='' OR provider=?) GROUP BY time,provider ORDER BY time LIMIT 2160`,
+      [from, to, provider, provider],
+    ),
+    ledger.query(
+      `SELECT model_key,provider,COUNT(*) AS requests,SUM(outcome='completed') AS completed,SUM(outcome IN ('failed','uncertain')) AS failed,SUM(error_category='rate_limited') AS rate_limits,MAX(started) AS last_selected,MAX(CASE WHEN outcome IN ('failed','uncertain') THEN started END) AS last_failure,SUM(actual_neurons) AS neurons FROM request_logs GROUP BY model_key,provider`,
+      [],
+    ),
+    ledger.query(
+      `SELECT created,provider,model,kind,reason FROM routing_events WHERE created>=? AND created<=? AND (?='' OR provider=?) ORDER BY created DESC LIMIT 100`,
+      [from, to, provider, provider],
+    ),
+    ledger.query(
+      "SELECT COUNT(*) AS total FROM routing_events WHERE kind='rejected' AND created>=? AND created<=?",
+      [from, to],
+    ),
+  ]);
   const [
     settings,
     models,
@@ -245,7 +284,11 @@ export async function adminSnapshot(ledger: SharedLedger, env: Environment) {
     );
     const used = Number(usage.reserved_requests ?? 0);
     const capacityAvailable =
-      used < row.daily_cap &&
+      used <
+        Math.max(
+          1,
+          Math.floor((row.daily_cap * settings.config.warningPercent) / 100),
+        ) &&
       Number(minute.attempts ?? 0) < row.rpm_cap &&
       Number(minute.tokens ?? 0) + TOKEN_RESERVATION <= row.tpm_cap &&
       Number(project.reserved_requests ?? 0) < settings.config.projectDaily &&
@@ -348,6 +391,17 @@ export async function adminSnapshot(ledger: SharedLedger, env: Environment) {
     database: { status: "Connected", checkedAt: now },
     primary: list.find((m) => m.effectiveEnabled)?.model_key ?? null,
     publicReleaseVerified: verifiedUntil(env.CLOUD_AI_RELEASE_READY_UNTIL, now),
+    analytics: {
+      hourly,
+      daily,
+      providerStats,
+      events,
+      from,
+      to,
+      provider,
+      traffic: { pageViews: null, uniqueVisitors: null, localAnalyses: null },
+      rejected: Number(rejected[0]?.total ?? 0),
+    },
     providerBalance:
       "Unknown: internal remaining allocation is not a provider balance.",
   };
@@ -381,7 +435,11 @@ export async function handleAdmin(
       return adminReply({ message: "Owner authentication required." }, 401);
     if (request.method === "GET")
       return adminReply({
-        ...(await adminSnapshot(ledger, env)),
+        ...(await adminSnapshot(
+          ledger,
+          env,
+          new URL(request.url).searchParams,
+        )),
         csrf: session.csrf,
       });
     const body = await adminBody(request);
@@ -393,6 +451,15 @@ export async function handleAdmin(
       )
         return adminReply({ message: "Invalid settings." }, 400);
       const config = validateGlobalPolicy(body.config);
+      if (
+        !config.kill &&
+        config.publicEnabled &&
+        !verifiedUntil(env.CLOUD_AI_RELEASE_READY_UNTIL)
+      )
+        return adminReply(
+          { message: "Public release safeguards have expired." },
+          409,
+        );
       if (!config.kill) {
         const candidates = providers(env, "MA");
         const rows = await ledger.models();

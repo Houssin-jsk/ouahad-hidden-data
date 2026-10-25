@@ -6,7 +6,7 @@ import {
   SharedLedger,
   d1Query,
 } from "../src/cloud-vision/server/ledger";
-import { V2_SCHEMA } from "../src/cloud-vision/server/schema";
+import { V2_SCHEMA, V3_SCHEMA } from "../src/cloud-vision/server/schema";
 import { boundedJson } from "../src/cloud-vision/server/http";
 import { verifyRemoteD1 } from "./cloud-d1-verification";
 loadEnvConfig(process.cwd());
@@ -38,11 +38,12 @@ async function main() {
     );
     const base = LEDGER_SCHEMA.slice(
       0,
-      LEDGER_SCHEMA.length - V2_SCHEMA.length,
+      LEDGER_SCHEMA.length - V2_SCHEMA.length - V3_SCHEMA.length,
     );
     for (const [version, statements] of [
       [1, base],
       [2, V2_SCHEMA],
+      [3, V3_SCHEMA],
     ] as const) {
       if (applied.some((row) => row.version === version)) continue;
       const response = await fetch(

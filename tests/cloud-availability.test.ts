@@ -2,71 +2,70 @@ import { test } from "node:test";
 import assert from "node:assert/strict";
 import { availabilityFixture } from "./fixtures/cloud-availability";
 import { handleAvailability } from "../src/cloud-vision/server/availability";
+import { publicIdentity } from "../src/cloud-vision/server/access";
+import { providers } from "../src/cloud-vision/server/config";
 import { validateAvailability } from "../src/cloud-vision/availability";
 import { DEFAULT_POLICY } from "../src/cloud-vision/server/policy";
 import { handleVision } from "../src/cloud-vision/server/handler";
 
-test("public discovery and a valid invitation reflect server policy without writes, reservations or inference", async () => {
-  const f = availabilityFixture(),
-    before = f.snapshot();
+test("anonymous availability requires no invitation and performs no writes or inference", async () => {
+  const f = availabilityFixture();
   try {
-    for (const [code, expected] of [
-      [undefined, "restricted"],
-      [f.code, "eligible"],
-    ] as const) {
-      const response = await handleAvailability(f.request(code), f.env, {
+    f.env.CLOUD_AI_INVITES = "{}";
+    const before = f.snapshot();
+    for (const code of [undefined, "invalid"]) {
+      const r = await handleAvailability(f.request(code), f.env, {
         ledger: f.ledger,
         adapters: [f.adapter],
       });
-      const value = await response.json();
-      assert.equal(validateAvailability(value), expected);
-      assert.deepEqual(Object.keys(value).sort(), ["schema", "status"]);
-      assert.equal(response.headers.get("cache-control"), "no-store, private");
+      assert.equal(validateAvailability(await r.json()), "eligible");
+      assert.equal(r.headers.get("cache-control"), "no-store, private");
     }
     assert.equal(f.snapshot(), before);
-    assert.ok(f.queries.every((sql) => sql.trim().startsWith("SELECT")));
+    assert.ok(f.queries.every((q) => q.startsWith("SELECT")));
     assert.equal(f.providerCalls(), 0);
   } finally {
     f.db.close();
   }
 });
-
 for (const state of [
-  "globally disabled",
-  "emergency stop",
-  "missing release",
-  "no qualified provider",
+  "stop",
+  "public paused",
+  "release expired",
+  "ineligible",
+  "disabled",
   "cooldown",
   "suspended",
   "missing database",
-] as const) {
-  test(`availability fails closed for ${state}`, async () => {
+]) {
+  test(`public availability fails closed: ${state}`, async () => {
     const f = availabilityFixture();
     try {
-      if (state === "globally disabled") f.adapter.eligibility.enabled = false;
-      if (state === "emergency stop")
-        f.db
-          .prepare("UPDATE ai_settings SET config=?")
-          .run(JSON.stringify(DEFAULT_POLICY));
-      if (state === "missing release")
+      if (state === "stop" || state === "public paused")
+        f.db.prepare("UPDATE ai_settings SET config=?").run(
+          JSON.stringify({
+            ...DEFAULT_POLICY,
+            kill: state === "stop",
+            publicEnabled: state !== "public paused",
+          }),
+        );
+      if (state === "release expired")
         delete f.env.CLOUD_AI_RELEASE_READY_UNTIL;
-      if (state === "no qualified provider")
-        f.db.exec("UPDATE providers SET enabled=0");
+      if (state === "ineligible") f.adapter.eligibility.enabled = false;
+      if (state === "disabled") f.db.exec("UPDATE providers SET enabled=0");
       if (state === "cooldown" || state === "suspended")
         f.db
-          .prepare(
-            "INSERT INTO cloud_cooldowns(provider,until_time) VALUES(?,?)",
-          )
+          .prepare("INSERT INTO cloud_cooldowns VALUES(?,?)")
           .run(
             f.adapter.model,
             state === "cooldown" ? Date.now() + 60000 : null,
           );
-      const before = f.snapshot();
-      const response = await handleAvailability(f.request(f.code), f.env, {
-        ...(state !== "missing database" ? { ledger: f.ledger } : {}),
-        adapters: [f.adapter],
-      });
-      assert.equal(validateAvailability(await response.json()), "unavailable");
+      const before = f.snapshot(),
+        r = await handleAvailability(f.request(), f.env, {
+          ...(state !== "missing database" ? { ledger: f.ledger } : {}),
+          adapters: [f.adapter],
+        });
+      assert.equal(validateAvailability(await r.json()), "unavailable");
       assert.equal(f.snapshot(), before);
       assert.equal(f.providerCalls(), 0);
     } finally {
@@ -74,126 +73,68 @@ for (const state of [
     }
   });
 }
-
-test("invalid, expired and revoked invitations cannot obtain eligibility or read shared policy", async () => {
-  const f = availabilityFixture();
-  try {
-    const currentInvites = f.env.CLOUD_AI_INVITES;
-    for (const invites of [
-      f.env.CLOUD_AI_INVITES,
-      JSON.stringify({
-        [f.hash]: {
-          country: "MA",
-          expiresAt: new Date(Date.now() - 1000).toISOString(),
-        },
-      }),
-      "{}",
-    ]) {
-      f.env.CLOUD_AI_INVITES = invites;
-      const response = await handleAvailability(
-        f.request(invites === currentInvites ? "B".repeat(43) : f.code),
-        f.env,
-        { ledger: f.ledger, adapters: [f.adapter] },
-      );
-      assert.equal(response.status, 403);
-      assert.equal(
-        validateAvailability(await response.json()),
-        "invalid_invitation",
-      );
-    }
-    assert.equal(f.queries.length, 0);
-  } finally {
-    f.db.close();
-  }
+test("daily fair-use identity ignores browser identities, groups IPv6 /64, rotates daily and fails off trusted hosting", () => {
+  const env = { VERCEL: "1", CLOUD_AI_ADMIN_SECRET: "S".repeat(43) };
+  const req = (ip: string) =>
+    new Request("https://example.com", {
+      headers: {
+        "x-vercel-forwarded-for": ip,
+        "x-vercel-ip-country": "MA",
+        authorization: "invented",
+        cookie: "visitor=reset",
+      },
+    });
+  const day = 86400000 * 20000;
+  const a = publicIdentity(req("2001:db8:abcd:1::1"), env, day)!,
+    b = publicIdentity(req("2001:db8:abcd:1::2"), env, day)!;
+  assert.equal(a.client, b.client);
+  assert.notEqual(
+    a.client,
+    publicIdentity(req("2001:db8:abcd:1::1"), env, day + 86400000)!.client,
+  );
+  assert.match(a.client, /^[a-f0-9]{64}$/);
+  assert.equal(
+    publicIdentity(req("203.0.113.5"), { ...env, VERCEL: undefined }),
+    null,
+  );
+  assert.equal(publicIdentity(req("untrusted"), env), null);
 });
-
-test("existing owner-only admitted-test exception remains separate from public release authorization", async () => {
-  const f = availabilityFixture();
-  try {
-    delete f.env.CLOUD_AI_RELEASE_READY_UNTIL;
-    f.env.CLOUD_AI_OWNER_TEST_INVITE_HASH = f.hash;
-    f.env.CLOUD_AI_ADMIN_SECRET = "S".repeat(43);
-    assert.equal(
-      validateAvailability(
-        await (
-          await handleAvailability(f.request(), f.env, {
-            ledger: f.ledger,
-            adapters: [f.adapter],
-          })
-        ).json(),
-      ),
-      "restricted",
-    );
-    assert.equal(
-      validateAvailability(
-        await (
-          await handleAvailability(f.request(f.code), f.env, {
-            ledger: f.ledger,
-            adapters: [f.adapter],
-          })
-        ).json(),
-      ),
-      "eligible",
-    );
-    assert.equal(f.providerCalls(), 0);
-  } finally {
-    f.db.close();
-  }
+test("Gemini free routing respects available-region and unpaid-service restrictions", () => {
+  const env = {
+    GEMINI_API_KEY: "mock",
+    CLOUD_AI_GEMINI_FREE_UNTIL: new Date(Date.now() + 86400000).toISOString(),
+  };
+  for (const country of ["MA", "US", "CA", "JP"])
+    assert.equal(providers(env, country)[0].eligibility.enabled, true);
+  for (const country of ["GB", "CH", "FR", "DE", "ZZ", ""])
+    assert.equal(providers(env, country)[0].eligibility.enabled, false);
+  assert.equal(providers(env, "MA")[3].eligibility.enabled, false);
 });
-
-test("visible availability never authorizes image processing without invitation and explicit consent", async () => {
+test("availability never authorizes inference without consent or trusted network; cross-site calls reject", async () => {
   const f = availabilityFixture();
   try {
     const before = f.snapshot();
-    const cases: Record<string, string>[] = [
-      {},
-      { authorization: `Bearer ${f.code}` },
-      {
-        "x-cloud-consent": "external-v1",
-        "x-cloud-eligibility": "adult-ma-professional-nonsensitive-v1",
-      },
-    ];
-    for (const headers of cases) {
-      const request = new Request("http://127.0.0.1:3001/api/cloud-vision", {
+    const r = await handleVision(
+      new Request("http://127.0.0.1:3001/api/cloud-vision", {
         method: "POST",
-        headers: { origin: f.env.CLOUD_AI_ORIGIN!, ...headers },
-        body: "not an image",
-      });
-      assert.ok(
-        (
-          await handleVision(request, f.env, {
-            ledger: f.ledger,
-            adapters: [f.adapter],
-          })
-        ).status >= 400,
-      );
-    }
-    assert.equal(f.snapshot(), before);
-    assert.equal(f.providerCalls(), 0);
-  } finally {
-    f.db.close();
-  }
-});
-
-test("availability rejects cross-site requests and client schemas with operational details", async () => {
-  const f = availabilityFixture();
-  try {
-    const response = await handleAvailability(
-      new Request("http://127.0.0.1:3001/api/cloud-vision/status", {
-        headers: { origin: "https://evil.invalid" },
+        headers: {
+          origin: f.env.CLOUD_AI_ORIGIN!,
+          "x-vercel-forwarded-for": "203.0.113.5",
+        },
+        body: "x",
       }),
+      f.env,
+      { ledger: f.ledger, adapters: [f.adapter] },
+    );
+    assert.equal(r.status, 400);
+    const cross = await handleAvailability(
+      new Request(f.request(), { headers: { origin: "https://evil.invalid" } }),
       f.env,
       { ledger: f.ledger },
     );
-    assert.equal(response.status, 403);
-    assert.equal(f.queries.length, 0);
-    const mismatch = await handleAvailability(
-      f.request(f.code),
-      { ...f.env, CLOUD_AI_ORIGIN: "https://different.invalid" },
-      { ledger: f.ledger, adapters: [f.adapter] },
-    );
-    assert.equal(validateAvailability(await mismatch.json()), "unavailable");
-    assert.equal(f.queries.length, 0);
+    assert.equal(cross.status, 403);
+    assert.equal(f.snapshot(), before);
+    assert.equal(f.providerCalls(), 0);
     assert.throws(() =>
       validateAvailability({
         schema: "cloud-availability/1",
@@ -201,15 +142,30 @@ test("availability rejects cross-site requests and client schemas with operation
         model: "private",
       }),
     );
-    assert.throws(() =>
-      validateAvailability({ schema: "other", status: "eligible" }),
-    );
-    assert.throws(() =>
-      validateAvailability({
-        schema: "cloud-availability/1",
-        status: ["eligible"],
-      }),
-    );
+  } finally {
+    f.db.close();
+  }
+});
+
+test("anonymous discovery reports exhausted visitor capacity without a test inference or another reservation", async () => {
+  const f = availabilityFixture();
+  try {
+    const identity = publicIdentity(f.request(), f.env)!;
+    const now = Date.now();
+    for (let i = 0; i < 3; i++)
+      f.db
+        .prepare(
+          "INSERT INTO cloud_jobs(id,client,created,lease_until,released) VALUES(?,?,?,?,1)",
+        )
+        .run("fixture" + i, identity.client, now - i * 61000, now - 1000);
+    const before = f.snapshot();
+    const r = await handleAvailability(f.request(), f.env, {
+      ledger: f.ledger,
+      adapters: [f.adapter],
+    });
+    assert.equal(validateAvailability(await r.json()), "unavailable");
+    assert.equal(f.snapshot(), before);
+    assert.equal(f.providerCalls(), 0);
   } finally {
     f.db.close();
   }

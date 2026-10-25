@@ -13,9 +13,9 @@ import {
 
 function failureMessage(error: CloudResult["error"]) {
   const messages: Partial<Record<NonNullable<CloudResult["error"]>, string>> = {
-    restricted: "This access code is invalid or expired.",
+    restricted: "AI admission is unavailable for this request.",
     rate_limited:
-      "AI request rejected: the pilot's usage or concurrency limit was reached. Check availability later.",
+      "AI request rejected: the shared fair-use or concurrency limit was reached. Check availability later.",
     quota_exhausted:
       "AI request rejected: the available quota is exhausted. Check availability later.",
     timeout:
@@ -33,9 +33,8 @@ function failureMessage(error: CloudResult["error"]) {
   return `${messages[error ?? "not_configured"] ?? "AI request rejected: AI observations are paused or unavailable."} Your local results remain available.`;
 }
 
-async function availability(signal: AbortSignal, code?: string) {
+async function availability(signal: AbortSignal) {
   const response = await fetch("/api/cloud-vision/status", {
-    headers: code ? { authorization: `Bearer ${code}` } : {},
     credentials: "same-origin",
     cache: "no-store",
     signal: AbortSignal.any([signal, AbortSignal.timeout(6000)]),
@@ -45,7 +44,6 @@ async function availability(signal: AbortSignal, code?: string) {
 }
 
 export function CloudObservations({ url }: { url: string }) {
-  const [code, setCode] = useState("");
   const [access, setAccess] = useState<CloudAvailability | "checking">(
     "checking",
   );
@@ -63,8 +61,7 @@ export function CloudObservations({ url }: { url: string }) {
     accessOperation.current = controller;
     void availability(controller.signal)
       .then((value) => {
-        if (!controller.signal.aborted)
-          setAccess(value === "eligible" ? "unavailable" : value);
+        if (!controller.signal.aborted) setAccess(value);
       })
       .catch(() => {
         if (!controller.signal.aborted) setAccess("unavailable");
@@ -80,7 +77,7 @@ export function CloudObservations({ url }: { url: string }) {
     setConsent(false);
     setEligible(false);
     try {
-      const value = await availability(controller.signal, code);
+      const value = await availability(controller.signal);
       if (!controller.signal.aborted) {
         setAccess(value);
         accessNotice.current?.focus({ preventScroll: true });
@@ -113,7 +110,6 @@ export function CloudObservations({ url }: { url: string }) {
       access !== "eligible" ||
       !consent ||
       !eligible ||
-      !/^[A-Za-z0-9_-]{43}$/.test(code) ||
       busy ||
       result?.status === "available" ||
       (operation.current && !operation.current.signal.aborted)
@@ -138,10 +134,9 @@ export function CloudObservations({ url }: { url: string }) {
         method: "POST",
         headers: {
           "content-type": "image/jpeg",
-          authorization: `Bearer ${code}`,
           "x-cloud-consent": "external-v1",
           "x-cloud-request-id": crypto.randomUUID(),
-          "x-cloud-eligibility": "adult-ma-professional-nonsensitive-v1",
+          "x-cloud-eligibility": "adult-professional-nonsensitive-v2",
         },
         body: image,
         signal: controller.signal,
@@ -226,159 +221,124 @@ export function CloudObservations({ url }: { url: string }) {
           : access === "unavailable"
             ? "AI observations are currently unavailable. Your local results are complete."
             : access === "eligible"
-              ? "Access confirmed. Review the image and consent below before requesting observations."
+              ? "AI available. Review the image and consent below before requesting observations."
               : access === "invalid_invitation"
-                ? "This access code is invalid or expired."
-                : "Available to invited testers. AI observations are experimental."}
+                ? "AI admission is unavailable."
+                : "AI observations are currently unavailable."}
       </p>
-      {access !== "unavailable" && (
-        <details className="cloud-access">
-          <summary>Use a pilot access code</summary>
-          <div className="cloud-body">
-            <label htmlFor="cloud-access">Pilot access code</label>
-            <input
-              id="cloud-access"
-              type="password"
-              autoComplete="off"
-              spellCheck={false}
-              maxLength={43}
-              value={code}
-              disabled={busy || access === "checking"}
-              onChange={(event) => {
-                accessOperation.current?.abort();
-                setCode(event.target.value);
-                setAccess("restricted");
-                setConsent(false);
-                setEligible(false);
-                setResult(null);
-                setMessage("");
-              }}
-            />
-            {access !== "eligible" && (
-              <button
-                className="text-button cloud-check-access"
-                onClick={() => void checkAccess()}
-                disabled={
-                  access === "checking" || !/^[A-Za-z0-9_-]{43}$/.test(code)
-                }
-              >
-                Check access
-              </button>
-            )}
-            {access === "eligible" && (
-              <>
-                <p>
-                  AI interpretation may be wrong. It is separate from your
-                  measured image facts. Availability is checked again when you
-                  start.
-                </p>
-                <p id="cloud-disclosure">
-                  Starting sends a resized copy to Google Gemini, or an eligible
-                  fallback if needed. Google’s free service may use images and
-                  responses to improve its products, including human review.
-                  Cloudflare applies its own data terms. Hidden Data does not
-                  save the image. Do not send personal, sensitive or
-                  confidential images.
-                </p>
-                <p className="result-footnote">
-                  Only a newly encoded JPEG, at most 1024 pixels per side,
-                  leaves this browser. EXIF, GPS and filenames are excluded;
-                  transparency appears on white. Providers are contacted one at
-                  a time. Cancellation cannot recall data already received.
-                </p>
-                <p className="result-footnote">
-                  <a
-                    href="https://ai.google.dev/gemini-api/terms"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    Google data terms ↗
-                  </a>
-                  {" · "}
-                  <a
-                    href="https://developers.cloudflare.com/workers-ai/platform/data-usage/"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    Cloudflare data terms ↗
-                  </a>
-                </p>
-                <label className="cloud-check">
-                  <input
-                    type="checkbox"
-                    checked={eligible}
-                    onChange={(e) => setEligible(e.target.checked)}
-                    disabled={busy}
-                  />{" "}
-                  I am 18 or older, currently in Morocco, using this
-                  professional pilot, and this image contains no personal,
-                  sensitive or confidential information.
-                </label>
-                <label className="cloud-check">
-                  <input
-                    type="checkbox"
-                    checked={consent}
-                    onChange={(e) => setConsent(e.target.checked)}
-                    disabled={busy}
-                    aria-describedby="cloud-disclosure"
-                  />{" "}
-                  I agree to send this processed image to an external AI
-                  provider.
-                </label>
-                <div className="cloud-actions">
-                  <button
-                    className="text-button"
-                    disabled={
-                      busy ||
-                      result?.status === "available" ||
-                      access !== "eligible" ||
-                      !consent ||
-                      !eligible ||
-                      !/^[A-Za-z0-9_-]{43}$/.test(code)
-                    }
-                    onClick={() => void analyze()}
-                  >
-                    {busy
-                      ? "Analyzing with Cloud AI…"
-                      : result?.status === "available"
-                        ? "AI observations ready"
-                        : result
-                          ? "Retry Cloud AI"
-                          : "Start Cloud AI analysis"}
+      {access === "eligible" && (
+        <div className="cloud-body">
+          {access === "eligible" && (
+            <>
+              <p>
+                AI interpretation may be wrong. It is separate from your
+                measured image facts. Availability is checked again when you
+                start.
+              </p>
+              <p id="cloud-disclosure">
+                Starting sends a resized copy to Google Gemini, or an eligible
+                fallback if needed. Google’s free service may use images and
+                responses to improve its products, including human review.
+                Cloudflare applies its own data terms. Hidden Data does not save
+                the image. Do not send personal, sensitive or confidential
+                images.
+              </p>
+              <p className="result-footnote">
+                Only a newly encoded JPEG, at most 1024 pixels per side, leaves
+                this browser. EXIF, GPS and filenames are excluded; transparency
+                appears on white. Providers are contacted one at a time.
+                Cancellation cannot recall data already received.
+              </p>
+              <p className="result-footnote">
+                <a
+                  href="https://ai.google.dev/gemini-api/terms"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  Google data terms ↗
+                </a>
+                {" · "}
+                <a
+                  href="https://developers.cloudflare.com/workers-ai/platform/data-usage/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  Cloudflare data terms ↗
+                </a>
+              </p>
+              <label className="cloud-check">
+                <input
+                  type="checkbox"
+                  checked={eligible}
+                  onChange={(e) => setEligible(e.target.checked)}
+                  disabled={busy}
+                />{" "}
+                I am 18 or older, using this service for professional or
+                business purposes, and this image contains no personal,
+                sensitive or confidential information.
+              </label>
+              <label className="cloud-check">
+                <input
+                  type="checkbox"
+                  checked={consent}
+                  onChange={(e) => setConsent(e.target.checked)}
+                  disabled={busy}
+                  aria-describedby="cloud-disclosure"
+                />{" "}
+                I agree to send this processed image to an external AI provider.
+              </label>
+              <div className="cloud-actions">
+                <button
+                  className="text-button"
+                  disabled={
+                    busy ||
+                    result?.status === "available" ||
+                    access !== "eligible" ||
+                    !consent ||
+                    !eligible
+                  }
+                  onClick={() => void analyze()}
+                >
+                  {busy
+                    ? "Analyzing with Cloud AI…"
+                    : result?.status === "available"
+                      ? "AI observations ready"
+                      : result
+                        ? "Retry Cloud AI"
+                        : "Start Cloud AI analysis"}
+                </button>
+                {busy && (
+                  <button className="text-button" onClick={cancel}>
+                    Cancel AI analysis
                   </button>
-                  {busy && (
-                    <button className="text-button" onClick={cancel}>
-                      Cancel AI analysis
-                    </button>
-                  )}
-                </div>
-                {result?.status === "available" && result.interpretation && (
-                  <div className="cloud-output" data-testid="cloud-result">
-                    <span className="eyebrow">AI-GENERATED · EXPERIMENTAL</span>
-                    <p>{result.interpretation.description}</p>
-                    {result.interpretation.observations.length > 0 && (
-                      <ul>
-                        {result.interpretation.observations.map((v, i) => (
-                          <li key={i}>{v}</li>
-                        ))}
-                      </ul>
-                    )}
-                    <h4>Limitations and uncertainty</h4>
+                )}
+              </div>
+              {result?.status === "available" && result.interpretation && (
+                <div className="cloud-output" data-testid="cloud-result">
+                  <span className="eyebrow">AI-GENERATED · EXPERIMENTAL</span>
+                  <p>{result.interpretation.description}</p>
+                  {result.interpretation.observations.length > 0 && (
                     <ul>
-                      {result.interpretation.limitations.map((v, i) => (
+                      {result.interpretation.observations.map((v, i) => (
                         <li key={i}>{v}</li>
                       ))}
                     </ul>
-                    <p className="result-footnote">
-                      This AI-generated interpretation may contain mistakes. It
-                      does not verify identity, location or authenticity.
-                    </p>
-                  </div>
-                )}
-              </>
-            )}
-          </div>
-        </details>
+                  )}
+                  <h4>Limitations and uncertainty</h4>
+                  <ul>
+                    {result.interpretation.limitations.map((v, i) => (
+                      <li key={i}>{v}</li>
+                    ))}
+                  </ul>
+                  <p className="result-footnote">
+                    This AI-generated interpretation may contain mistakes. It
+                    does not verify identity, location or authenticity.
+                  </p>
+                </div>
+              )}
+            </>
+          )}
+        </div>
       )}
     </section>
   );

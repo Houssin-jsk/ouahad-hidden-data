@@ -20,9 +20,7 @@ async function ready(
     route.fulfill({
       json: {
         schema: "cloud-availability/1",
-        status: route.request().headers().authorization
-          ? "eligible"
-          : "restricted",
+        status: "eligible",
       },
     }),
   );
@@ -32,12 +30,6 @@ async function ready(
     .getByRole("button", { name: "Analyze image", exact: true })
     .click();
   await expect(page.getByTestId("image-dna")).toBeVisible();
-  await page.locator(".cloud-access > summary").click();
-  await page.getByLabel("Pilot access code").fill("A".repeat(43));
-  await page.getByRole("button", { name: "Check access", exact: true }).click();
-  await expect(page.locator(".cloud-availability")).toContainText(
-    "Access confirmed",
-  );
 }
 async function consent(page: Page) {
   await page.getByLabel(/I am 18 or older/).check();
@@ -128,11 +120,7 @@ test("cancel and replacement discard a late cloud response and reset consent", a
     .click();
   await expect(page.getByTestId("image-dna")).toBeVisible();
   await expect(page.getByTestId("cloud-result")).toHaveCount(0);
-  await page.locator(".cloud-access > summary").click();
-  await expect(page.getByLabel("Pilot access code")).toHaveValue("");
-  await expect(page.getByLabel(/I agree to send/)).toHaveCount(0);
-  await page.getByLabel("Pilot access code").fill("A".repeat(43));
-  await page.getByRole("button", { name: "Check access", exact: true }).click();
+  await expect(page.getByLabel("Pilot access code")).toHaveCount(0);
   await expect(page.getByLabel(/I agree to send/)).not.toBeChecked();
 });
 

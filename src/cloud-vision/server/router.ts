@@ -15,17 +15,26 @@ export async function routeVision(
   const start = Date.now();
   let attempts = 0;
   let last = new ProviderFailure("not_configured");
-  const ordered = [...adapters]
-    .filter((a) => a.id !== "nvidia")
-    .sort(
-      (a, b) =>
-        (a.priority ?? (a.id === "gemini" ? 1 : 3)) -
-          (b.priority ?? (b.id === "gemini" ? 1 : 3)) ||
-        a.model.localeCompare(b.model),
-    );
+  const ordered = [...adapters].sort(
+    (a, b) =>
+      (a.priority ?? (a.id === "gemini" ? 1 : a.id === "cloudflare" ? 3 : 4)) -
+        (b.priority ?? (b.id === "gemini" ? 1 : 3)) ||
+      a.model.localeCompare(b.model),
+  );
   const visited = new Set<string>();
+  const policy = await cooldowns.policy?.();
   for (const adapter of ordered) {
-    if (!adapter.eligibility.enabled || visited.has(adapter.model)) continue;
+    if (visited.has(adapter.model)) continue;
+    if (!adapter.eligibility.enabled) {
+      await cooldowns.event?.(
+        adapter.id,
+        adapter.model,
+        "skipped",
+        "Ineligible or administratively disabled",
+      );
+      continue;
+    }
+    if (attempts && policy?.fallbackEnabled === false) break;
     visited.add(adapter.model);
     if (signal.aborted) {
       last = new ProviderFailure(
@@ -40,15 +49,35 @@ export async function routeVision(
       (typeof cooldown === "number" && cooldown > now)
     ) {
       last = new ProviderFailure("rate_limited");
+      await cooldowns.event?.(
+        adapter.id,
+        adapter.model,
+        "skipped",
+        "Cooldown or suspension",
+      );
       continue;
     }
     if (attempts >= 3) break;
     const reservation = await cooldowns.reserve(adapter);
     if (!reservation) {
+      await cooldowns.event?.(
+        adapter.id,
+        adapter.model,
+        "skipped",
+        "Capacity threshold, policy change, or admission unavailable",
+      );
       last = new ProviderFailure("rate_limited");
       continue;
     }
     attempts++;
+    await cooldowns.event?.(
+      adapter.id,
+      adapter.model,
+      "selected",
+      attempts > 1
+        ? "Fallback after explicit rejection"
+        : "Highest-priority eligible capacity",
+    );
     let settled = false;
     try {
       signal.throwIfAborted();
@@ -56,6 +85,12 @@ export async function routeVision(
       signal.throwIfAborted();
       await cooldowns.settle(reservation, response);
       settled = true;
+      await cooldowns.event?.(
+        adapter.id,
+        adapter.model,
+        "completed",
+        "Validated observations",
+      );
       return {
         schema: CLOUD_SCHEMA,
         status: "available",
@@ -79,6 +114,7 @@ export async function routeVision(
           ? error
           : new ProviderFailure("invalid_output");
       if (!settled) await cooldowns.settle(reservation, undefined, last);
+      await cooldowns.event?.(adapter.id, adapter.model, "failed", last.kind);
       if (
         [
           "rate_limited",
@@ -99,6 +135,21 @@ export async function routeVision(
               : ["rate_limited", "quota_exhausted"].includes(last.kind)
                 ? (await cooldowns.now()) + 60000
                 : "suspended"),
+        );
+      if (
+        [
+          "rate_limited",
+          "quota_exhausted",
+          "invalid_credentials",
+          "billing_required",
+          "model_unavailable",
+        ].includes(last.kind)
+      )
+        await cooldowns.event?.(
+          adapter.id,
+          adapter.model,
+          "cooldown",
+          last.kind,
         );
       // A timeout or lost connection leaves provider execution uncertain. Keep
       // its reservation charged and stop; another call could duplicate that work.

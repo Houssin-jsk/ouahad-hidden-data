@@ -50,6 +50,7 @@ test("owner controls authenticate, persist, audit, stop and sign out on desktop 
   page,
   context,
 }) => {
+  page.on("dialog", (d) => void d.accept());
   const db = new DatabaseSync(":memory:");
   LEDGER_SCHEMA.forEach((sql) => db.exec(sql));
   const ledger = new SharedLedger(
@@ -57,6 +58,7 @@ test("owner controls authenticate, persist, audit, stop and sign out on desktop 
       db.prepare(sql).all(...params) as Record<string, unknown>[],
   );
   const env = {
+    CLOUD_AI_RELEASE_READY_UNTIL: new Date(Date.now() + 86400000).toISOString(),
     CLOUD_AI_ADMIN_SECRET: "S".repeat(43),
     CLOUD_AI_ORIGIN: "http://127.0.0.1:3001",
     GEMINI_API_KEY: "mock-only",
@@ -113,16 +115,27 @@ test("owner controls authenticate, persist, audit, stop and sign out on desktop 
     await expect(page.getByText(/Shared database: Connected/)).toBeVisible();
     await expect(model.getByText("Disabled", { exact: true })).toBeVisible();
     await model.getByLabel("Enable eligible model").check();
+    await model.getByLabel("Priority", { exact: true }).fill("2");
     await model.getByLabel("Daily attempt cap", { exact: true }).fill("20");
     await model.getByRole("button", { name: "Save model settings" }).click();
     await expect(page.getByRole("status")).toContainText("saved and audited");
     await expect(
       model.getByLabel("Daily attempt cap", { exact: true }),
     ).toHaveValue("20");
+    await page.getByRole("button", { name: "Refresh", exact: true }).click();
+    await expect(model.getByLabel("Priority", { exact: true })).toHaveValue(
+      "2",
+    );
+    expect(
+      (await ledger.models()).find(
+        (m) => m.model_key === "gemini-3.5-flash-lite",
+      )?.priority,
+    ).toBe(2);
+    await page.getByLabel("Enable anonymous public AI").check();
     await page.getByLabel("Pause new inference").uncheck();
     await page.getByRole("button", { name: "Save shared policy" }).click();
     await expect(
-      page.getByText("Owner testing only · public release blocked", {
+      page.getByText("Public AI enabled", {
         exact: true,
       }),
     ).toBeVisible();
@@ -143,6 +156,28 @@ test("owner controls authenticate, persist, audit, stop and sign out on desktop 
         )
         .get()?.n,
     ).toBe(3);
+    await page.addScriptTag({ path: "node_modules/axe-core/axe.min.js" });
+    const violations = await page.evaluate(async () => {
+      const axe = (
+        window as unknown as {
+          axe: {
+            run: (
+              node: Document,
+              options: unknown,
+            ) => Promise<{ violations: unknown[] }>;
+          };
+        }
+      ).axe;
+      return (
+        await axe.run(document, {
+          runOnly: {
+            type: "tag",
+            values: ["wcag2a", "wcag2aa", "wcag21aa", "wcag22aa"],
+          },
+        })
+      ).violations;
+    });
+    expect(violations).toEqual([]);
     await page.screenshot({
       path: "test-results/admin-ai-desktop.png",
       fullPage: true,

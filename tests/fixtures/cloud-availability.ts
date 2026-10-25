@@ -12,7 +12,7 @@ export function availabilityFixture() {
   const db = new DatabaseSync(":memory:");
   LEDGER_SCHEMA.forEach((sql) => db.exec(sql));
   db.prepare("UPDATE ai_settings SET config=?").run(
-    JSON.stringify({ ...DEFAULT_POLICY, kill: false }),
+    JSON.stringify({ ...DEFAULT_POLICY, kill: false, publicEnabled: true }),
   );
   db.exec(
     "UPDATE providers SET enabled=1,eligibility='eligible' WHERE model_key='gemini-3.5-flash-lite'",
@@ -26,7 +26,9 @@ export function availabilityFixture() {
     hash = createHash("sha256").update(code).digest("hex");
   const until = new Date(Date.now() + 86400000).toISOString();
   const env: Environment = {
-    CLOUD_AI_ORIGIN: "http://127.0.0.1:3001",
+    VERCEL: "1",
+    CLOUD_AI_ADMIN_SECRET: "S".repeat(43),
+    CLOUD_AI_ORIGIN: "https://hidden-data.ouahad.space",
     CLOUD_AI_RELEASE_READY_UNTIL: until,
     CLOUD_AI_INVITES: JSON.stringify({
       [hash]: { country: "MA", expiresAt: until },
@@ -62,8 +64,10 @@ export function availabilityFixture() {
       })),
     );
   const request = (invite?: string) =>
-    new Request("http://127.0.0.1:3001/api/cloud-vision/status", {
+    new Request("https://hidden-data.ouahad.space/api/cloud-vision/status", {
       headers: {
+        "x-vercel-forwarded-for": "203.0.113.5",
+        "x-vercel-ip-country": "MA",
         "sec-fetch-site": "same-origin",
         ...(invite ? { authorization: `Bearer ${invite}` } : {}),
       },

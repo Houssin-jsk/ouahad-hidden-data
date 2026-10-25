@@ -2,6 +2,7 @@ import { MAX_IMAGE_BYTES, MAX_IMAGE_SIDE, OUTPUT_TOKENS } from "../contract";
 import { geminiAdapter } from "./providers/gemini";
 import { nvidiaAdapter } from "./providers/nvidia";
 import { cloudflareAdapter } from "./providers/cloudflare";
+import { freeGeminiRegion } from "./regions";
 export type Environment = Record<string, string | undefined>;
 // A key is configuration, not evidence of free inference. Operator checks must be
 // current, expire within seven days, and be repeated after account-plan changes.
@@ -16,11 +17,10 @@ export function providers(env: Environment, country: string, now = Date.now()) {
     maxSide: MAX_IMAGE_SIDE,
     outputTokens: OUTPUT_TOKENS,
   };
-  // Initial restricted release admits only owner-issued Morocco invitations.
-  // This is a limited professional pilot, not an anonymous consumer application.
+  // Public admission still enforces provider audience, region and free-tier terms.
   const gemini = Boolean(
     env.GEMINI_API_KEY &&
-    country === "MA" &&
+    freeGeminiRegion(country) &&
     verifiedUntil(env.CLOUD_AI_GEMINI_FREE_UNTIL, now),
   );
   const cloudflare = Boolean(
@@ -35,7 +35,7 @@ export function providers(env: Environment, country: string, now = Date.now()) {
       {
         enabled: gemini,
         reason: gemini
-          ? "Owner-verified free tier; restricted MA professional pilot."
+          ? "Owner-verified free tier; adults using the service for professional purposes in permitted regions."
           : "Free account billing status or permitted user region is unverified.",
       },
       constraints,

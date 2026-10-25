@@ -1,7 +1,7 @@
 import { boundedJson } from "./http";
 import type { Cooldowns } from "./types";
 import { randomUUID } from "node:crypto";
-import { V2_SCHEMA } from "./schema";
+import { V2_SCHEMA, V3_SCHEMA } from "./schema";
 import {
   MODEL_CEILINGS,
   MODEL_KEYS,
@@ -24,6 +24,7 @@ export const LEDGER_SCHEMA = [
   "CREATE INDEX IF NOT EXISTS cloud_jobs_client ON cloud_jobs(client, created)",
   "CREATE TABLE IF NOT EXISTS cloud_cooldowns (provider TEXT PRIMARY KEY, until_time INTEGER)",
   ...V2_SCHEMA,
+  ...V3_SCHEMA,
 ];
 // SQLite/D1 serializes each INSERT ... SELECT. Limits and admission happen in one
 // statement across all serverless instances, rather than read-then-write counters.
@@ -63,7 +64,7 @@ export class SharedLedger implements Cooldowns {
   async admit(client: string, id: string, time?: number, requestKey = id) {
     const now = time ?? (await this.now());
     const { config, revision } = await this.settings();
-    if (config.kill) return false;
+    if (config.kill || !config.publicEnabled) return false;
     const day = Math.floor(now / 86400000) * 86400000;
     const rows = await this.query(
       `INSERT INTO cloud_jobs(id,client,created,lease_until,request_key)
@@ -100,6 +101,18 @@ export class SharedLedger implements Cooldowns {
   async release(id: string) {
     await this.query("UPDATE cloud_jobs SET released = 1 WHERE id = ?", [id]);
   }
+  async event(
+    action: string | null,
+    provider: string | null,
+    model: string | null,
+    kind: string,
+    reason: string,
+  ) {
+    await this.query(
+      `INSERT INTO routing_events(id,created,action_id,provider,model,kind,reason) VALUES(?,${DB_NOW},?,?,?,?,?)`,
+      [randomUUID(), action, provider, model, kind, reason],
+    );
+  }
   async get(provider: string): Promise<number | "suspended" | undefined> {
     const rows = await this.query(
       "SELECT until_time FROM cloud_cooldowns WHERE provider = ?",
@@ -129,7 +142,7 @@ export class SharedLedger implements Cooldowns {
     if (!ceiling.daily) return null; // No measured, free Cloudflare Neurons envelope yet.
     const now = await this.now();
     const { config, revision } = await this.settings();
-    if (config.kill) return null;
+    if (config.kill || !config.publicEnabled) return null;
     const day = quotaDay(now, adapter.id === "gemini" ? "pacific" : "utc");
     const minute = Math.floor(now / 60000) * 60000;
     const id = randomUUID();
@@ -137,13 +150,13 @@ export class SharedLedger implements Cooldowns {
       `INSERT INTO request_logs(id,action_id,model_key,provider,started,lease_until,reserved_tokens,fallback,minute_start,day_start,day_end)
       SELECT ?,j.id,p.model_key,p.provider,?,?,?,CASE WHEN (SELECT COUNT(*) FROM request_logs WHERE action_id=j.id)>0 THEN 1 ELSE 0 END,?,?,?
       FROM providers p JOIN cloud_jobs j ON j.id=? JOIN ai_settings s ON s.id=1
-      WHERE p.model_key=? AND p.provider=? AND p.enabled=1 AND p.eligibility='eligible' AND s.revision=? AND json_extract(s.config,'$.kill')=0
+      WHERE p.model_key=? AND p.provider=? AND p.enabled=1 AND p.eligibility='eligible' AND s.revision=? AND json_extract(s.config,'$.kill')=0 AND json_extract(s.config,'$.publicEnabled')=1
       AND j.released=0 AND j.lease_until>? AND ${DB_NOW}>=? AND ${DB_NOW}<?
       AND p.daily_cap BETWEEN 1 AND ? AND p.rpm_cap BETWEEN 1 AND ? AND p.tpm_cap BETWEEN ? AND ?
       AND NOT EXISTS(SELECT 1 FROM cloud_cooldowns WHERE provider IN (p.model_key,p.provider) AND (until_time IS NULL OR until_time>?))
-      AND (SELECT COUNT(*) FROM request_logs WHERE action_id=j.id)<3
+      AND (SELECT COUNT(*) FROM request_logs WHERE action_id=j.id)<3 AND (json_extract(s.config,'$.fallbackEnabled')=1 OR NOT EXISTS(SELECT 1 FROM request_logs WHERE action_id=j.id))
       AND (SELECT COUNT(*) FROM request_logs WHERE outcome='reserved' AND lease_until>?)<?
-      AND COALESCE((SELECT reserved_requests FROM usage_counters WHERE scope=p.model_key AND window_type='day' AND window_start=?),0)<p.daily_cap
+      AND COALESCE((SELECT reserved_requests FROM usage_counters WHERE scope=p.model_key AND window_type='day' AND window_start=?),0)<MAX(1,CAST(p.daily_cap*json_extract(s.config,'$.warningPercent')/100 AS INTEGER))
       AND COALESCE((SELECT reserved_requests FROM usage_counters WHERE scope='project:'||p.provider AND window_type='day' AND window_start=?),0)<?
       AND COALESCE((SELECT reserved_tokens FROM usage_counters WHERE scope='project:'||p.provider AND window_type='day' AND window_start=?),0)+?<=?
       AND (SELECT COUNT(*) FROM request_logs WHERE model_key=p.model_key AND started>?)<p.rpm_cap
@@ -225,6 +238,9 @@ export class SharedLedger implements Cooldowns {
   routing(action: string): RoutingControls {
     return {
       now: () => this.now(),
+      policy: async () => (await this.settings()).config,
+      event: (provider, model, kind, reason) =>
+        this.event(action, provider, model, kind, reason),
       get: (key) => this.get(key),
       set: (key, until) => this.set(key, until),
       reserve: (adapter) => this.reserve(action, adapter),
@@ -236,24 +252,6 @@ export class SharedLedger implements Cooldowns {
     await this.query(
       `UPDATE request_logs SET outcome='uncertain',error_category='lease_expired',duration_ms=MAX(0,?-started) WHERE outcome='reserved' AND lease_until<=?`,
       [now, now],
-    );
-    await this.query("DELETE FROM request_logs WHERE started<?", [
-      now - 7 * 86400000,
-    ]);
-    await Promise.all(
-      (
-        [
-          ["usage_counters", "window_end", 8],
-          ["cloud_jobs", "created", 8],
-          ["admin_audit", "created", 30],
-          ["admin_sessions", "expires", 0],
-          ["admin_login_attempts", "created", 1],
-        ] as const
-      ).map(([table, column, age]) =>
-        this.query(`DELETE FROM ${table} WHERE ${column}<?`, [
-          now - age * 86400000,
-        ]),
-      ),
     );
   }
 }

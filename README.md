@@ -1,8 +1,8 @@
 # OUAHAD Hidden Data
 
-A browser-local image intelligence workspace by OUAHAD SPACE, with separately consented, invitation-only AI observations.
+A browser-local image intelligence workspace by OUAHAD SPACE, with explicitly consented anonymous AI observations and a private D1-backed operations dashboard.
 
-**Current release candidate: 2026-10-24.** Production AI remains paused. The final implementation report, current verification evidence, production blockers and owner release steps are in [Release readiness](docs/RELEASE-READINESS.md). Older phase documents record history and must not be used as current operational status.
+The public-launch implementation and current provider limitations are described in [Public launch](docs/PUBLIC-LAUNCH.md). Earlier phase and readiness documents are historical. The original light palette is preserved.
 
 ## Local development and verification
 
@@ -37,7 +37,7 @@ Build before browser tests. Playwright launches installed Google Chrome and an i
 - Local EXIF/camera/software inspection. GPS is concealed until explicitly revealed and can be hidden again.
 - Original, luminance and Sobel detail maps with a native comparison slider supporting touch, mouse and keyboard. Maps are bounded to 512 px on the longest edge and are separate from native statistical sampling.
 - Actual worker milestones, immediate completed results, cancellation/replacement, stale-result rejection and blob/bitmap cleanup. See [loading behavior](docs/loading-presentation.md).
-- Dark coffee surfaces, amber `#F3A339`, responsive preview/results, keyboard tabs, reduced motion and accessible status/error states.
+- Original warm light surfaces, green accents, responsive preview/results, keyboard tabs, reduced motion and accessible status/error states.
 
 ## Architecture and numerical contract
 
@@ -51,7 +51,7 @@ Client modules never import server credentials. `src/cloud-vision/server` owns p
 
 Ordinary image analysis stays in the browser: there is no image upload, remote decoder or external analytics. After local results appear, one same-origin, read-only `/api/cloud-vision/status` request checks availability; it carries no image, filename, EXIF or GPS. Navigation does not repeat this check. Explicit access verification sends only the capability in an Authorization header.
 
-AI processing requires a current owner invitation, adult/professional/Morocco/non-sensitive eligibility attestation and a separate unchecked external-processing consent box. The browser creates a fresh JPEG with a maximum 1024 px side and 768 KiB, composites transparency on white and excludes the original filename and EXIF/GPS. The backend independently checks and strips JPEG metadata. This copy goes to the backend and an authorized provider. Cancellation cannot recall content already received. Google unpaid service may use submitted content for product improvement/human review; the UI links current provider terms. Do not submit personal, sensitive or confidential images.
+AI processing requires anonymous server-derived fair-use admission, adult/professional/non-sensitive eligibility attestation and a separate unchecked external-processing consent box. The browser creates a fresh JPEG with a maximum 1024 px side and 768 KiB, composites transparency on white and excludes the original filename and EXIF/GPS. The backend independently checks and strips JPEG metadata. This copy goes to the backend and an authorized provider. Cancellation cannot recall content already received. Google unpaid service may use submitted content for product improvement/human review; the UI links current provider terms. Do not submit personal, sensitive or confidential images.
 
 The real adapters are Gemini 3.5 Flash Lite, separately qualified Gemini 3.1 Flash Lite and a separately qualified Cloudflare vision model. NVIDIA remains hard-disabled. Merely configuring a key does not make a provider eligible. Owner/D1 authorization, current free-tier attestations, release authorization, quotas and emergency stop all apply. No demo observations are displayed as real results.
 
@@ -72,9 +72,9 @@ Keep values in ignored `.env.local` for local administration and in Vercel Produ
 | `CLOUD_AI_GEMINI_31_VISION_UNTIL` | Additional exact-model qualification for Gemini 3.1 |
 | `CLOUDFLARE_API_TOKEN`, `CLOUD_AI_CF_FREE_UNTIL`, `CLOUD_AI_CF_LICENSE_ACCEPTED` | Optional Cloudflare inference qualification, separate from D1 access |
 | `NVIDIA_API_KEY` | Historical adapter configuration; does not enable NVIDIA |
-| `CLOUD_AI_INVITES` | Server-only SHA-256 capability allowlist with country and expiry |
-| `CLOUD_AI_RELEASE_READY_UNTIL` | Expiring authorization for the restricted release |
-| `CLOUD_AI_OWNER_TEST_INVITE_HASH` | Existing bounded owner-test exception; leave absent unless separately authorized |
+| `CLOUD_AI_INVITES` | Retired historical pilot configuration; ignored by public admission |
+| `CLOUD_AI_RELEASE_READY_UNTIL` | Expiring public release authorization |
+| `CLOUD_AI_OWNER_TEST_INVITE_HASH` | Retired historical pilot configuration; ignored by public admission |
 
 Attestations must be current and at most seven days ahead. They are manual operator evidence, not proof obtained from an API key. Do not renew them without the relevant billing/eligibility review. Local env availability is not proof of deployed configuration.
 
@@ -96,8 +96,6 @@ An optional first argument saves the sanitized JSON report to an existing local 
 
 `npm run build` verifies the strict production import graph, builds the app and runs `scripts/verify-release.mjs`. `.vercelignore` excludes research, models, companion runtime, tests, docs, local env and owner scripts. The release contains only approved image-analysis and protected admin/AI routes. Security headers deny framing, object embedding, external form submission, browser camera/microphone/geolocation access and MIME sniffing; no provider keys enter browser chunks.
 
-Do not push or deploy automatically: Git integration can trigger a release. Review the prepared changes and [current blockers](docs/RELEASE-READINESS.md) first. Keep stop ON and every model OFF through release. Verify the domain, environment names, anonymous API denial and paused UI after an explicitly authorized deployment. AI activation is a separate owner decision and is unnecessary for releasing the local image tools.
+Production releases require the owner's task authorization. Apply additive migrations with inference paused, deploy the reviewed source, then verify public availability and authenticated controls without invoking a provider. Public AI is governed by D1 `publicEnabled`, `kill`, model eligibility, conservative limits and expiring billing/release safeguards. Rollback starts by setting the emergency stop; never refund uncertain execution or reset historical data.
 
-For an authorized future pilot, verify account billing/terms and expiring attestations, inspect D1 without mutating its debits, issue short-lived invitations, authorize the restricted release, and enable only the explicitly approved model/caps. Never clear an uncertain reservation. For emergency rollback, turn the stop ON first, disable models, revoke invitations and owner sessions, then restore the last reviewed deployment if required. Existing already-received provider work may finish; reservations remain charged. Do not use a real inference request as an unapproved deployment check.
-
-Physical-device, Safari/Firefox and assistive-technology user testing are not claimed by the Chrome-based verification. Semantic AI remains experimental.
+The current public launch removes invitation requirements. See [Public launch](docs/PUBLIC-LAUNCH.md) for the authoritative admission, provider and owner access details.

@@ -41,6 +41,13 @@ export interface Cooldowns {
   set(model: string, until: number | "suspended"): Promise<void>;
 }
 export interface RoutingControls extends Cooldowns {
+  policy?(): Promise<{ fallbackEnabled: boolean }>;
+  event?(
+    provider: string,
+    model: string,
+    kind: string,
+    reason: string,
+  ): Promise<void>;
   now(): Promise<number>;
   reserve(adapter: ProviderAdapter): Promise<string | null>;
   settle(

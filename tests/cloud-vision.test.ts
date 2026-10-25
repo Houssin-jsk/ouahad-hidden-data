@@ -110,6 +110,8 @@ function ledger() {
     JSON.stringify({
       ...DEFAULT_POLICY,
       kill: false,
+      publicEnabled: true,
+      warningPercent: 100,
       dailyActions: 10,
       concurrency: 1,
     }),
@@ -128,7 +130,9 @@ function ledger() {
 const code = "A".repeat(43);
 function environment() {
   return {
-    CLOUD_AI_ORIGIN: "http://127.0.0.1:3001",
+    VERCEL: "1",
+    CLOUD_AI_ADMIN_SECRET: "S".repeat(43),
+    CLOUD_AI_ORIGIN: "https://hidden-data.ouahad.space",
     CLOUD_AI_RELEASE_READY_UNTIL: new Date(Date.now() + 86400000).toISOString(),
     CLOUD_AI_INVITES: JSON.stringify({
       [createHash("sha256").update(code).digest("hex")]: {
@@ -143,16 +147,18 @@ function request(
   overrides: Record<string, string> = {},
   method = "POST",
 ) {
-  return new Request("http://127.0.0.1:3001/api/cloud-vision", {
+  return new Request("https://hidden-data.ouahad.space/api/cloud-vision", {
     method,
     headers: {
-      origin: "http://127.0.0.1:3001",
+      origin: "https://hidden-data.ouahad.space",
       "sec-fetch-site": "same-origin",
       authorization: `Bearer ${code}`,
+      "x-vercel-forwarded-for": "203.0.113.5",
+      "x-vercel-ip-country": "MA",
       "content-type": "image/jpeg",
       "x-cloud-consent": "external-v1",
       "x-cloud-request-id": randomUUID(),
-      "x-cloud-eligibility": "adult-ma-professional-nonsensitive-v1",
+      "x-cloud-eligibility": "adult-professional-nonsensitive-v2",
       ...overrides,
     },
     ...(method === "POST" ? { body: Buffer.from(body) } : {}),
@@ -432,10 +438,29 @@ test("browser response normalization accepts only known errors and drops untrust
     }),
   );
   assert.throws(() => validateCloudResult([]));
-  for (const processing of [{ attempts: "fake" }, { elapsedMs: 1, attempts: 4, width: 10, height: 10 }, { elapsedMs: 1, attempts: 1, width: 10, height: 10, usage: { inputTokens: -1 } }])
+  for (const processing of [
+    { attempts: "fake" },
+    { elapsedMs: 1, attempts: 4, width: 10, height: 10 },
+    {
+      elapsedMs: 1,
+      attempts: 1,
+      width: 10,
+      height: 10,
+      usage: { inputTokens: -1 },
+    },
+  ])
     assert.throws(() => validateCloudResult({ ...payload, processing }));
-  const processing = { elapsedMs: 12, attempts: 1, width: 10, height: 10, usage: { inputTokens: 100, outputTokens: 20 } };
-  assert.deepEqual(validateCloudResult({ ...payload, processing }).processing, processing);
+  const processing = {
+    elapsedMs: 12,
+    attempts: 1,
+    width: 10,
+    height: 10,
+    usage: { inputTokens: 100, outputTokens: 20 },
+  };
+  assert.deepEqual(
+    validateCloudResult({ ...payload, processing }).processing,
+    processing,
+  );
 });
 test("provider response size and invalid JSON are bounded", async () => {
   await assert.rejects(
@@ -642,7 +667,7 @@ test("access ignores spoofed identity and requires unexpired owner-issued MA cap
     sameOrigin(request(undefined, { "sec-fetch-site": "cross-site" }), env),
     false,
   );
-  assert.equal(sameOrigin(request(), { ...env, VERCEL: "1" }), false);
+  assert.equal(sameOrigin(request(), { ...env, VERCEL: "1" }), true);
 });
 test("atomic shared admission enforces concurrency, per-client minute/day, global day and lease expiry", async () => {
   const { db, store } = ledger();
@@ -732,7 +757,7 @@ test("JPEG signature, MIME, dimensions, metadata and truncation are enforced ser
     /invalid_image/,
   );
 });
-test("endpoint rejects missing consent, cross-origin, uninvited and missing durable/cost configuration without provider calls", async () => {
+test("endpoint rejects missing consent, cross-origin, missing trusted network and missing durable/cost configuration without provider calls", async () => {
   const env = environment();
   assert.equal(
     (await handleVision(request(undefined, {}, "GET"), env)).status,
@@ -753,7 +778,12 @@ test("endpoint rejects missing consent, cross-origin, uninvited and missing dura
     400,
   );
   assert.equal(
-    (await handleVision(request(undefined, { authorization: "" }), env)).status,
+    (
+      await handleVision(
+        request(undefined, { "x-vercel-forwarded-for": "" }),
+        env,
+      )
+    ).status,
     403,
   );
   assert.equal((await handleVision(request(), env)).status, 503);

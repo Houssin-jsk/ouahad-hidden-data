@@ -4,7 +4,7 @@ import {
   MAX_IMAGE_BYTES,
   unavailable,
 } from "../contract";
-import { authorize, sameOrigin } from "./access";
+import { publicIdentity, sameOrigin } from "./access";
 import { providers, verifiedUntil, type Environment } from "./config";
 import { SharedLedger } from "./ledger";
 import { configuredLedger } from "./database";
@@ -45,7 +45,7 @@ export async function handleVision(
   if (
     request.headers.get("x-cloud-consent") !== "external-v1" ||
     request.headers.get("x-cloud-eligibility") !==
-      "adult-ma-professional-nonsensitive-v1"
+      "adult-professional-nonsensitive-v2"
   )
     return reply(
       unavailable(
@@ -54,22 +54,16 @@ export async function handleVision(
       ),
       400,
     );
-  const identity = authorize(request, env);
+  const identity = publicIdentity(request, env);
   if (!identity)
     return reply(
       unavailable(
         "restricted",
-        "Cloud AI is a restricted pilot. A current owner-issued access code is required.",
+        "Cloud AI requires verified network admission. Local analysis remains available.",
       ),
       403,
     );
-  if (
-    !verifiedUntil(env.CLOUD_AI_RELEASE_READY_UNTIL) &&
-    !(
-      env.CLOUD_AI_OWNER_TEST_INVITE_HASH === identity.client &&
-      /^[A-Za-z0-9_-]{43}$/.test(env.CLOUD_AI_ADMIN_SECRET ?? "")
-    )
-  )
+  if (!verifiedUntil(env.CLOUD_AI_RELEASE_READY_UNTIL))
     return reply(
       unavailable(
         "not_configured",
@@ -157,16 +151,24 @@ export async function handleVision(
   let clean: Uint8Array | undefined;
   try {
     // Reserve globally before accepting image bytes. Invalid attempts also spend
-    // the invite's conservative request budget. No infinite validation retries.
+    // the anonymous network's conservative request budget. No infinite validation retries.
     admitted = await ledger.admit(identity.client, id, undefined, requestKey);
-    if (!admitted)
+    if (!admitted) {
+      await ledger.event(
+        null,
+        null,
+        null,
+        "rejected",
+        "Anonymous fair-use, global limit, duplicate request or emergency stop",
+      );
       return reply(
         unavailable(
           "rate_limited",
-          "The pilot's usage or concurrency limit has been reached. Try again later.",
+          "The anonymous fair-use or shared concurrency limit has been reached. Try again later.",
         ),
         429,
       );
+    }
     deps.onAdmitted?.();
     if (!request.body) throw new ProviderFailure("invalid_image");
     const reader = request.body.getReader();

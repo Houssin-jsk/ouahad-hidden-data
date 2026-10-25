@@ -38,3 +38,10 @@ export const V2_SCHEMA = [
     UPDATE ai_settings SET config=json_set(config,'$.kill',json('true')),revision=revision+1,actor='safety-bound',updated_at=NEW.started WHERE COALESCE(NEW.actual_tokens,0)>NEW.reserved_tokens OR COALESCE(NEW.actual_neurons,0)>NEW.reserved_neurons;
   END`,
 ];
+
+// Additive migration: no historical attempts, reservations, sessions or audits are erased.
+export const V3_SCHEMA = [
+  `CREATE TABLE IF NOT EXISTS routing_events (id TEXT PRIMARY KEY, created INTEGER NOT NULL, action_id TEXT, provider TEXT, model TEXT, kind TEXT NOT NULL, reason TEXT NOT NULL)`,
+  `CREATE INDEX IF NOT EXISTS routing_events_time ON routing_events(created)`,
+  `UPDATE ai_settings SET config=json_set(config,'$.publicEnabled',json('false'),'$.fallbackEnabled',json('true'),'$.warningPercent',80),revision=revision+1,actor='public-launch-migration',updated_at=CAST(strftime('%s','now') AS INTEGER)*1000 WHERE json_type(config,'$.publicEnabled') IS NULL`,
+];

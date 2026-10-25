@@ -123,7 +123,12 @@ function fixture(file = ":memory:") {
     String(Math.floor(clock / 1000)),
   );
   db.prepare("UPDATE ai_settings SET config=?").run(
-    JSON.stringify({ ...DEFAULT_POLICY, kill: false }),
+    JSON.stringify({
+      ...DEFAULT_POLICY,
+      kill: false,
+      publicEnabled: true,
+      warningPercent: 100,
+    }),
   );
   db.exec(
     "UPDATE providers SET enabled=1,eligibility='eligible' WHERE provider='gemini'",
@@ -247,7 +252,13 @@ for (const setting of ["projectDaily", "projectRpm"] as const)
   test(`shared ${setting} prevents treating Gemini models as independent project pools`, async () => {
     const f = fixture();
     try {
-      const policy = { ...DEFAULT_POLICY, kill: false, [setting]: 1 };
+      const policy = {
+        ...DEFAULT_POLICY,
+        kill: false,
+        publicEnabled: true,
+        warningPercent: 100,
+        [setting]: 1,
+      };
       f.db
         .prepare("UPDATE ai_settings SET config=?")
         .run(JSON.stringify(policy));
@@ -300,6 +311,8 @@ test("project TPM is shared across models and tokens above reservation force an 
       JSON.stringify({
         ...DEFAULT_POLICY,
         kill: false,
+        publicEnabled: true,
+        warningPercent: 100,
         projectTpm: TOKEN_RESERVATION,
       }),
     );
@@ -817,9 +830,14 @@ test("dashboard distinguishes operational states and exposes a verified database
       .prepare("UPDATE ai_settings SET config=?")
       .run(JSON.stringify(DEFAULT_POLICY));
     assert.equal((await state()).status, "Paused by owner");
-    f.db
-      .prepare("UPDATE ai_settings SET config=?")
-      .run(JSON.stringify({ ...DEFAULT_POLICY, kill: false }));
+    f.db.prepare("UPDATE ai_settings SET config=?").run(
+      JSON.stringify({
+        ...DEFAULT_POLICY,
+        kill: false,
+        publicEnabled: true,
+        warningPercent: 100,
+      }),
+    );
     await f.store.set(MODEL_KEYS[0], Date.now() + 60000);
     assert.equal((await state()).status, "Temporarily unavailable");
     f.db.exec("DELETE FROM cloud_cooldowns");
@@ -891,7 +909,7 @@ for (const kind of ["timeout", "outage"] as const) {
     }
   });
 }
-test("retention removes expired logs and sessions without refunding current quota or storing image content", async () => {
+test("maintenance retains historical attempts and jobs without refunding quota or storing image content", async () => {
   const f = fixture();
   try {
     const a = await f.action();
@@ -909,12 +927,79 @@ test("retention removes expired logs and sessions without refunding current quot
     await f.store.prune();
     assert.equal(
       f.db.prepare("SELECT COUNT(*) AS n FROM request_logs").get()?.n,
-      0,
+      1,
     );
     assert.equal(
       f.db.prepare("SELECT COUNT(*) AS n FROM cloud_jobs").get()?.n,
-      0,
+      1,
     );
+  } finally {
+    f.db.close();
+  }
+});
+
+test("public pause, fallback pause and warning thresholds persist and control actual routing", async () => {
+  const f = fixture();
+  try {
+    const action = await f.action();
+    const current = await f.store.settings();
+    f.db
+      .prepare("UPDATE ai_settings SET config=?")
+      .run(JSON.stringify({ ...current.config, fallbackEnabled: false }));
+    const primary = adapter();
+    primary.run = async () => {
+      throw new ProviderFailure("rate_limited");
+    };
+    const calls: string[] = [];
+    await routeVision(
+      [primary, adapter(MODEL_KEYS[1], calls)],
+      image,
+      f.store.routing(action),
+      new AbortController().signal,
+    );
+    assert.equal(calls.length, 0);
+    assert.equal(
+      f.db.prepare("SELECT COUNT(*) n FROM request_logs").get()?.n,
+      1,
+    );
+    assert(
+      f.db
+        .prepare("SELECT COUNT(*) n FROM routing_events WHERE kind='cooldown'")
+        .get()!.n,
+    );
+    await f.store.release(action);
+    f.db
+      .prepare("UPDATE ai_settings SET config=?")
+      .run(JSON.stringify({ ...current.config, publicEnabled: false }));
+    assert.equal(await f.store.admit("new", randomUUID()), false);
+  } finally {
+    f.db.close();
+  }
+});
+test("daily warning threshold reserves below the hard ceiling and reports genuine metrics", async () => {
+  const f = fixture();
+  try {
+    const p = await f.store.settings();
+    f.db
+      .prepare("UPDATE ai_settings SET config=?")
+      .run(JSON.stringify({ ...p.config, warningPercent: 50 }));
+    f.db
+      .prepare("UPDATE providers SET daily_cap=2 WHERE model_key=?")
+      .run(MODEL_KEYS[0]);
+    const a = await f.action("one"),
+      r = await f.store.reserve(a, adapter());
+    assert(r);
+    await f.store.settle(r, {
+      observations: output,
+      usage: { totalTokens: 50 },
+    });
+    await f.store.release(a);
+    const b = await f.action("two");
+    assert.equal(await f.store.reserve(b, adapter()), null);
+    const s = await adminSnapshot(f.store, adminEnv());
+    assert.equal(s.analytics.daily[0].requests, 1);
+    assert.equal(s.analytics.daily[0].reported, 50);
+    assert.equal(s.analytics.traffic.pageViews, null);
   } finally {
     f.db.close();
   }

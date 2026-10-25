@@ -37,6 +37,9 @@ export const GLOBAL_CEILINGS = {
 } as const;
 export interface GlobalPolicy {
   kill: boolean;
+  publicEnabled: boolean;
+  fallbackEnabled: boolean;
+  warningPercent: number;
   dailyActions: number;
   minuteActions: number;
   concurrency: number;
@@ -47,7 +50,13 @@ export interface GlobalPolicy {
   projectTpm: number;
   projectDailyTokens: number;
 }
-export const DEFAULT_POLICY: GlobalPolicy = { kill: true, ...GLOBAL_CEILINGS };
+export const DEFAULT_POLICY: GlobalPolicy = {
+  kill: true,
+  publicEnabled: false,
+  fallbackEnabled: true,
+  warningPercent: 80,
+  ...GLOBAL_CEILINGS,
+};
 export function validateGlobalPolicy(value: unknown): GlobalPolicy {
   if (!value || typeof value !== "object" || Array.isArray(value))
     throw Error("Invalid global settings");
@@ -55,7 +64,12 @@ export function validateGlobalPolicy(value: unknown): GlobalPolicy {
   if (
     Object.keys(row).sort().join() !==
       Object.keys(DEFAULT_POLICY).sort().join() ||
-    typeof row.kill !== "boolean"
+    typeof row.kill !== "boolean" ||
+    typeof row.publicEnabled !== "boolean" ||
+    typeof row.fallbackEnabled !== "boolean" ||
+    !Number.isInteger(row.warningPercent) ||
+    Number(row.warningPercent) < 10 ||
+    Number(row.warningPercent) > 100
   )
     throw Error("Invalid global settings");
   for (const [key, ceiling] of Object.entries(GLOBAL_CEILINGS))

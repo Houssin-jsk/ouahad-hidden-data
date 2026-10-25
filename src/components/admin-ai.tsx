@@ -1,11 +1,12 @@
 "use client";
 import Link from "next/link";
+import { OperationsVisuals } from "./admin-operations";
 import { useState } from "react";
 import type {
   GlobalPolicy,
   ProviderPolicy,
 } from "@/cloud-vision/server/policy";
-interface Model extends ProviderPolicy {
+export interface Model extends ProviderPolicy {
   eligible: boolean;
   status: string;
   statusReason: string;
@@ -23,7 +24,17 @@ interface Model extends ProviderPolicy {
   lastError: string | null;
   ceiling: { daily: number; rpm: number; tpm: number };
 }
-interface Snapshot {
+export interface Snapshot {
+  analytics: {
+    hourly: Record<string, unknown>[];
+    daily: Record<string, unknown>[];
+    providerStats: Record<string, unknown>[];
+    events: Record<string, unknown>[];
+    from: number;
+    to: number;
+    provider: string;
+    rejected: number;
+  };
   csrf: string;
   settings: { config: GlobalPolicy; revision: number };
   models: Model[];
@@ -43,8 +54,8 @@ export function AdminConsole({ initial }: { initial: Snapshot | null }) {
   const [secret, setSecret] = useState("");
   const [message, setMessage] = useState("");
   const [busy, setBusy] = useState(false);
-  async function refresh() {
-    const response = await fetch("/api/admin/ai", {
+  async function refresh(query = "") {
+    const response = await fetch("/api/admin/ai" + query, {
       cache: "no-store",
       credentials: "same-origin",
     });
@@ -84,6 +95,12 @@ export function AdminConsole({ initial }: { initial: Snapshot | null }) {
   }
   async function change(body: unknown) {
     if (!data) return;
+    if (
+      !window.confirm(
+        "Apply this operational change to future public AI requests? Limits and eligibility remain enforced.",
+      )
+    )
+      return;
     setBusy(true);
     setMessage("");
     try {
@@ -210,10 +227,11 @@ export function AdminConsole({ initial }: { initial: Snapshot | null }) {
             </p>
             <p>
               <strong>
-                {data.settings.config.kill
+                {data.settings.config.kill ||
+                !data.settings.config.publicEnabled
                   ? "PAUSED"
                   : data.publicReleaseVerified
-                    ? "Restricted pilot enabled"
+                    ? "Public AI enabled"
                     : "Owner testing only · public release blocked"}
               </strong>
             </p>
@@ -225,7 +243,8 @@ export function AdminConsole({ initial }: { initial: Snapshot | null }) {
             <dl className="admin-metrics">
               {Object.entries({
                 "Accepted analyses": data.overview.accepted_actions,
-                "Distinct invited participants": data.overview.participants,
+                "Anonymous network groups (not visitors)":
+                  data.overview.participants,
                 "Provider attempts": data.overview.provider_attempts,
                 "Successful attempts": data.overview.completed,
                 "Failed / uncertain attempts": data.overview.failed,
@@ -242,6 +261,21 @@ export function AdminConsole({ initial }: { initial: Snapshot | null }) {
               ))}
             </dl>
           </section>
+          <OperationsVisuals
+            data={data}
+            onFilter={async (q) => {
+              setBusy(true);
+              try {
+                await refresh(q);
+              } catch (e) {
+                setMessage(
+                  e instanceof Error ? e.message : "Metrics unavailable",
+                );
+              } finally {
+                setBusy(false);
+              }
+            }}
+          />
           <section>
             <h2>Shared policy</h2>
             <form
@@ -252,9 +286,16 @@ export function AdminConsole({ initial }: { initial: Snapshot | null }) {
                 const config = {
                   ...data.settings.config,
                   kill: values.get("kill") === "on",
+                  publicEnabled: values.get("publicEnabled") === "on",
+                  fallbackEnabled: values.get("fallbackEnabled") === "on",
                 };
                 for (const key of Object.keys(config) as (keyof GlobalPolicy)[])
-                  if (key !== "kill") config[key] = Number(values.get(key));
+                  if (
+                    key !== "kill" &&
+                    key !== "publicEnabled" &&
+                    key !== "fallbackEnabled"
+                  )
+                    config[key] = Number(values.get(key));
                 void change({
                   action: "global",
                   config,
@@ -270,13 +311,33 @@ export function AdminConsole({ initial }: { initial: Snapshot | null }) {
                 />{" "}
                 Pause new inference
               </label>
+              <label className="cloud-check">
+                <input
+                  type="checkbox"
+                  name="publicEnabled"
+                  defaultChecked={data.settings.config.publicEnabled}
+                />{" "}
+                Enable anonymous public AI
+              </label>
+              <label className="cloud-check">
+                <input
+                  type="checkbox"
+                  name="fallbackEnabled"
+                  defaultChecked={data.settings.config.fallbackEnabled}
+                />{" "}
+                Automatic fallback after explicit rejection
+              </label>
               <div className="admin-fields">
                 {Object.entries({
+                  warningPercent: ["Model daily routing threshold (%)", 100],
                   dailyActions: ["Global analyses / UTC day", 60],
                   minuteActions: ["Global analyses / rolling minute", 6],
                   concurrency: ["Global concurrency", 2],
-                  visitorDaily: ["Per participant / UTC day", 3],
-                  visitorMinute: ["Per participant / rolling minute", 1],
+                  visitorDaily: ["Per anonymous network group / UTC day", 3],
+                  visitorMinute: [
+                    "Per anonymous network group / rolling minute",
+                    1,
+                  ],
                   projectDaily: ["Gemini project attempts / Pacific day", 300],
                   projectRpm: ["Gemini project attempts / rolling minute", 10],
                   projectTpm: [
